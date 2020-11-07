@@ -15,7 +15,7 @@ with open('/'.join([currDirectoryOfScript, 'StopWords.json'])) as stopWords:
   stopWords = set(json.load(stopWords))
 
 hotelIDToDataMapping = {}
-for hotelDataFileName in hotelDataFileNames[0:10]:
+for hotelDataFileName in hotelDataFileNames:
   with open('/'.join([hotelDataRawFilesDirectory, hotelDataFileName])) as hotelDataFile:
     print('loading in file: ' + hotelDataFileName)
     hotelData = json.load(hotelDataFile)
