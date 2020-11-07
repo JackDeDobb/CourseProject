@@ -21,28 +21,22 @@ for hotelDataFileName in hotelDataFileNames:
 reviewCounter = 0
 # Part 1: Remove reviews with any missing aspect rating or document
 #         length less than 50 words
+# Part 2: Convert all the words into lower cases
 ratingCategories = ['Service', 'Cleanliness', 'Overall', 'Value', 'Sleep Quality', 'Rooms', 'Location']
 for (hotelID, hotelData) in list(hotelIDToDataMapping.items()):
   hotelReviews = hotelData['Reviews']
   filteredHotelReviews = []
   for hotelReview in hotelReviews:
-    if 'Ratings' not in hotelReview or 'Content' not in hotelReview:
+    if 'Content' not in hotelReview or len(hotelReview['Content'].split()) < 50:
       continue
 
-    if len(hotelReview['Content'].split()) < 50:
+    try:
+      [float(hotelReview['Ratings'][ratingCategory]) for ratingCategory in ratingCategories]
+    except:
       continue
 
-    hasAllRatingCategories = True
-    hotelRatings = hotelReview['Ratings']
-    for ratingCategory in ratingCategories:
-      try:
-        float(hotelRatings[ratingCategory])
-      except:
-        hasAllRatingCategories = False
-        break
-
-    if hasAllRatingCategories:
-      filteredHotelReviews.append(hotelReview)
+    hotelReview['Content'] = hotelReview['Content'].lower()
+    filteredHotelReviews.append(hotelReview)
 
   hotelIDToDataMapping[hotelID]['Reviews'] = filteredHotelReviews
   if len(filteredHotelReviews) == 0:
