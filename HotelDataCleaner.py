@@ -1,20 +1,22 @@
 from collections import defaultdict
 import json
 import os
+import shutil
 import string
 
 
 currDirectoryOfScript = os.path.dirname(os.path.realpath(__file__))
-hotelDataFilesDirectory = '/'.join([currDirectoryOfScript, 'HotelData', 'RawData'])
-hotelDataFileNames = os.listdir(hotelDataFilesDirectory)
+hotelDataRawFilesDirectory = '/'.join([currDirectoryOfScript, 'HotelData', 'RawData'])
+hotelDataCleanFilesDirectory = '/'.join([currDirectoryOfScript, 'HotelData', 'CleanData'])
+hotelDataFileNames = os.listdir(hotelDataRawFilesDirectory)
 
 stopWords = ''
 with open('/'.join([currDirectoryOfScript, 'StopWords.json'])) as stopWords:
   stopWords = set(json.load(stopWords))
 
 hotelIDToDataMapping = {}
-for hotelDataFileName in hotelDataFileNames:
-  with open('/'.join([hotelDataFilesDirectory, hotelDataFileName])) as hotelDataFile:
+for hotelDataFileName in hotelDataFileNames[0:10]:
+  with open('/'.join([hotelDataRawFilesDirectory, hotelDataFileName])) as hotelDataFile:
     print('loading in file: ' + hotelDataFileName)
     hotelData = json.load(hotelDataFile)
     hotelID = hotelData['HotelInfo']['HotelID']
@@ -65,3 +67,11 @@ for (hotelID, hotelData) in list(hotelIDToDataMapping.items()):
   hotelIDToDataMapping[hotelID]['Reviews'] = filteredHotelReviews
   if len(filteredHotelReviews) == 0:
     del hotelIDToDataMapping[hotelID]
+
+
+if os.path.isdir(hotelDataCleanFilesDirectory):
+  shutil.rmtree(hotelDataCleanFilesDirectory)
+os.mkdir(hotelDataCleanFilesDirectory)
+for (hotelID, hotelData) in list(hotelIDToDataMapping.items()):
+  with open('/'.join([hotelDataCleanFilesDirectory, hotelID + '.json']), 'w+') as cleanDataFile:
+    json.dump(hotelData, cleanDataFile)
