@@ -1,4 +1,5 @@
 from collections import defaultdict
+from datetime import datetime
 import json
 import os
 import shutil
@@ -49,6 +50,7 @@ with open(productDataRawFile) as productDataRawFile:
 # Part 3.1: Remove punctuation and stop words
 # Part 3.2: Gather -- Remove words occuring in less than 10 reviews in the collection
 ratingCategories = ['rating']
+otherCategories = ['helpfulNum', 'totalNum', 'commentNum']
 wordToReviewOccurencesMapping = defaultdict(int)
 for (productID, productReviews) in productIDToDataMapping.items():
   print('first pass: ' + productID)
@@ -57,10 +59,17 @@ for (productID, productReviews) in productIDToDataMapping.items():
     if len(productReview['fullText'].split()) < 50:
       continue
     try:
-      [float(productReview[ratingCategory]) for ratingCategory in ratingCategories]
+      for ratingCategory in ratingCategories:
+        productReview[ratingCategory] = float(productReview[ratingCategory])
+      for otherCategory in otherCategories:
+        productReview[otherCategory] = int(productReview[otherCategory])
     except:
       continue
 
+    if productReview['createDate'] != '':
+      productReview['createDate'] = datetime.strptime(productReview['createDate'], '%a %b %d %H:%M:%S CST %Y')
+    else:
+      del productReview['createDate']
     productReview['fullText'] = productReview['fullText'].lower()
     productReview['fullText'] = productReview['fullText'].translate(str.maketrans('', '', string.punctuation))
     productReview['fullText'] = list(filter(lambda x: x not in stopWords, productReview['fullText'].split()))
@@ -95,4 +104,4 @@ os.mkdir(productDataCleanFilesDirectory)
 for (productID, productReviews) in list(productIDToDataMapping.items()):
   with open('/'.join([productDataCleanFilesDirectory, productID + '.json']), 'w+') as cleanDataFile:
     print('exporting file: ' + productID + '.json')
-    json.dump(productReviews, cleanDataFile)
+    json.dump(productReviews, cleanDataFile, default=str)
