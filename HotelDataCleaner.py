@@ -1,4 +1,5 @@
 from collections import defaultdict
+from datetime import datetime
 import json
 import os
 import shutil
@@ -37,10 +38,12 @@ for (hotelID, hotelData) in list(hotelIDToDataMapping.items()):
     if 'Content' not in hotelReview or len(hotelReview['Content'].split()) < 50:
       continue
     try:
-      [float(hotelReview['Ratings'][ratingCategory]) for ratingCategory in ratingCategories]
+      for ratingCategory in ratingCategories:
+        hotelReview['Ratings'][ratingCategory] = float(hotelReview['Ratings'][ratingCategory])
     except:
       continue
 
+    hotelReview['Date'] = datetime.strptime(hotelReview['Date'], '%B %d, %Y')
     hotelReview['Content'] = hotelReview['Content'].lower()
     hotelReview['Content'] = hotelReview['Content'].translate(str.maketrans('', '', string.punctuation))
     hotelReview['Content'] = list(filter(lambda x: x not in stopWords, hotelReview['Content'].split()))
@@ -75,4 +78,4 @@ os.mkdir(hotelDataCleanFilesDirectory)
 for (hotelID, hotelData) in list(hotelIDToDataMapping.items()):
   with open('/'.join([hotelDataCleanFilesDirectory, hotelID + '.json']), 'w+') as cleanDataFile:
     print('exporting file: ' + hotelID + '.json')
-    json.dump(hotelData, cleanDataFile)
+    json.dump(hotelData, cleanDataFile, default=str)
