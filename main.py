@@ -1,10 +1,11 @@
 ##Use Python3
-
-iimport json
+import json
 import os
 import nltk
 import string
 import numpy as np
+
+
 stemmer = nltk.stem.porter.PorterStemmer()
 try:
      _create_unverified_https_context = ssl._create_unverified_context
@@ -21,13 +22,12 @@ def parseWords():
   tokenizedWords=[]
   sentences = nltk.sent_tokenize(content)
   for sent in sentences:
-      words = nltk.word_tokenize(sent)
-      stemmedWords = [stemmer.stem(w.lower()) for w in words if w not in string.punctuation]
-      stemmedWordsWithoutStopwords = [v for v in temp if v not in stopWords] # Removve stopwords
-      if len(stemmedWordsWithoutStopwords)>0:
-          tokenizedWords.append(stemmedWordsWithoutStopwords)
+    words = nltk.word_tokenize(sent)
+    stemmedWords = [stemmer.stem(w.lower()) for w in words if w not in string.punctuation]
+    stemmedWordsWithoutStopwords = [v for v in temp if v not in stopWords] # Removve stopwords
+    if len(stemmedWordsWithoutStopwords)>0:
+      tokenizedWords.append(stemmedWordsWithoutStopwords)
   return tokenizedWords
-  #pass
 
 def genStopwords():
   # Create stopwords
@@ -45,24 +45,23 @@ def createVocab():
   # Use nltk.FreqDist to generate term frequqnecies
   allTerms = []
   for reviewData in reviewDataLists:
-      for review in reviewData["Reviews"]:
-          parseWordsInReview= []
-          for parseWord in parseWords(review['Content'],stopwords):
-                  parseWordsInReview = parseWord + parseWordsInReview
-          allTerms +=  parseWordsInReview
+    for review in reviewData["Reviews"]:
+      parseWordsInReview= []
+      for parseWord in parseWords(review['Content'],stopwords):
+        parseWordsInReview = parseWord + parseWordsInReview
+      allTerms +=  parseWordsInReview
   termFrequency = nltk.FreqDist(allTerms)
   vocab = []
   cnt = []
   vocabDict={}
   for k,v in termFrequency.items():
-      if v>5:
-          vocab.append(k)
-          cnt.append(v)
+    if v>5:
+      vocab.append(k)
+      cnt.append(v)
   vocab = np.array(vocab)[np.argsort(vocab)].tolist()
   cnt = np.array(cnt)[np.argsort(vocab)].tolist()
   vocabDict = dict(zip(vocab,range(len(vocab))))
   return vocab, cnt, vocabDict
-  #pass # return vocabDict
 
 def saveFile(path):
   # Save to file
@@ -81,12 +80,10 @@ def addAspectWords(analyzer, p, NumIter,c):
   # Update aspect Words based on Expectation step of EM algorithm
   pass
 
-
-
 def getVocab():
   ##### Step 1: Create vocabulary from json files
-  stopWords= getStopwords('StopWords.json')  ### generate a list of stopwords
-  reviewDataList=getData('HotelData/CleanData') ##Read the json files
+  stopWords = getStopwords('StopWords.json')  ### generate a list of stopwords
+  reviewDataList = getData('HotelData/CleanData') ##Read the json files
   return createVocab(reviewDataList,stopWords)
 
 
