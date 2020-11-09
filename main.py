@@ -21,18 +21,17 @@ nltk.download('punkt')
 
 def parseWords(content, stopWords):
   # Use nltk and stopwords to tokenize words
-  tokenizedWords=[]
+  tokenizedWords = []
   sentences = nltk.sent_tokenize(content)
   for sent in sentences:
     words = nltk.word_tokenize(sent)
     stemmedWords = [stemmer.stem(w.lower()) for w in words if w not in string.punctuation]
     stemmedWordsWithoutStopwords = [v for v in stemmedWords if v not in stopWords] # Remove stopwords
-    if len(stemmedWordsWithoutStopwords)>0:
+    if len(stemmedWordsWithoutStopwords) > 0:
       tokenizedWords.append(stemmedWordsWithoutStopwords)
   return tokenizedWords
 
 def genStopwords():
-  # Create stopwords
   currDirectoryOfScript = os.path.dirname(os.path.realpath(__file__))
   with open('/'.join([currDirectoryOfScript, 'StopWords.json'])) as stopWords:
     return set(json.load(stopWords))
@@ -41,15 +40,15 @@ def readData():
   # Load and read all json files
   pass
 
-def createVocab():
+def createVocab(stopWords):
   # Iterate through all the json files data and create vocabulary dictionary having the words and their associated counts
   # Use parseWords to generate the tokenized terms
   # Use nltk.FreqDist to generate term frequqnecies
   allTerms = []
   for reviewData in reviewDataLists:
-    for review in reviewData["Reviews"]:
-      parseWordsInReview= []
-      for parseWord in parseWords(review['Content'], stopwords):
+    for review in reviewData['Reviews']:
+      parseWordsInReview = []
+      for parseWord in parseWords(review['Content'], stopWords):
         parseWordsInReview = parseWord + parseWordsInReview
       allTerms += parseWordsInReview
   termFrequency = nltk.FreqDist(allTerms)
@@ -83,7 +82,7 @@ def addAspectWords(analyzer, p, NumIter,c):
 
 def getVocab():
   ##### Step 1: Create vocabulary from json files
-  stopWords = genStopwords('StopWords.json')  ### generate a list of stopwords
+  stopWords = genStopwords()
   reviewDataList = getData('HotelData/CleanData') ##Read the json files
   return createVocab(reviewDataList,stopWords)
 
