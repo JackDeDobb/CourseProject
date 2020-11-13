@@ -13,7 +13,7 @@ except AttributeError:
   pass
 # The try block does not raise any errors, so the else block is executed
 else:
-     ssl._create_default_https_context = _create_unverified_https_context
+  ssl._create_default_https_context = _create_unverified_https_context
 nltk.download('punkt')
 
 
@@ -108,7 +108,7 @@ def createWordMatrix(reviewDataList, vocab, vocabDict, aspectTerms):
      reviewWords, reviewMatrix = createWMatrixForEachReview(review, vocab, vocabDict, aspectTerms)
      reviewWordsList.append(reviewWords)
      reviewMatrixList.append(reviewMatrix)
-  return  reviewWordsList,reviewMatrixList
+  return  reviewWordsList, reviewMatrixList
 
 def generateResults(reviewDataList, reviewWordsList, reviewMatrixList, finalFile):
   f = open(finalFile,"w")
