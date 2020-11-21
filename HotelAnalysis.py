@@ -80,22 +80,22 @@ def createVocab(reviewDataList, stopWords):
 
 def initializeParameters(reviewList, vocabDict, M, k):
   phi = []
-  eta = np.zeros([M,k])
+  eta = np.zeros([M, k])
   lmbda = []
   sigmaSq = []
-  gamma = np.ones([M,k])
-  for m in range(0,M):
+  gamma = np.ones([M, k])
+  for m in range(0, M):
     wordsInDoc = reviewList[m]
     N = len(wordsInDoc)
-    phi = np.ones([N,k]) * 1/float(k)
-    for i in range(0,k):
-      eta[m, i] = gamma[m, i] + N/float(k)
+    phi = np.ones([N, k]) * 1 / float(k)
+    for i in range(0, k):
+      eta[m, i] = gamma[m, i] + N / float(k)
       phi.append(phi)
       lmbda.append(phi)
       sigmaSq.append(np.random.rand())
       m += 1
-  epsilon = np.zeros([k,len(vocabDict)])
-  for i in range(0,k):
+  epsilon = np.zeros([k, len(vocabDict)])
+  for i in range(0, k):
     tmp = np.random.uniform(0, 1, len(vocabDict))
     epsilon[i,:] = tmp / np.sum(tmp)
   return phi, eta, gamma, epsilon, lmbda,sigmaSq
@@ -166,7 +166,7 @@ def EStep(phi, eta, gamma, epsilon, lmbda, sigmaSq, mu, sigma, reviewList, vocab
         print('Document ' + str(d) + ' needed ' + str(counter) + ' iterations to converge.')
         likelihood += calcLikelihood(phi[d], eta[d,:], gamma[d,:], epsilon, reviewList[d], vocabDict, k)
 
-  for d in range(0,M):
+  for d in range(0, M):
     newMu += newLmbda[d]
   mu = mu / M
   for d in range(0,M):
