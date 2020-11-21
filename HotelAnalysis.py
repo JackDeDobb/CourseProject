@@ -1,22 +1,25 @@
 # Use Python3
-import json
-import os
-import nltk
-import string
-import numpy as np
 from scipy.special import digamma, gammaln
-import ramdom
+import json
+import nltk
+import numpy as np
+import os
+import random
+import string
 
 
+# Dependencies Below
+#######################################################################
+nltk.download('punkt')
 stemmer = nltk.stem.porter.PorterStemmer()
 try:
   _create_unverified_https_context = ssl._create_unverified_context
 except AttributeError:
   pass
-# The try block does not raise any errors, so the else block is executed
 else:
   ssl._create_default_https_context = _create_unverified_https_context
-nltk.download('punkt')
+#######################################################################
+
 
 
 def parseWordsForSentence(content, vocab, vocabDict):
@@ -48,7 +51,7 @@ def genStopwords():
   with open('/'.join([currDirectoryOfScript, 'StopWords.json'])) as stopWords:
     return set(json.load(stopWords))
 
-def createVocab(reviewDataList,stopWords):
+def createVocab(reviewDataList, stopWords):
   # Iterate through all the json files data and create vocabulary dictionary having the words and their associated counts
   # Use parseWords to generate the tokenized terms
   # Use nltk.FreqDist to generate term frequqnecies
@@ -175,52 +178,27 @@ def EStep(phi, eta, gamma, epsilon, lmbda, sigmaSq, mu, sigma, reviewList, vocab
 def MStep(phi, eta, reviewList, vocabDict, k, M):
   print('M-step')
   V = len(vocabDict)
-
-  epsilon = np.zeros([k,V])
-  for d in range(0,M):
+  epsilon = np.zeros([k, V])
+  for d in range(0, M):
     words = reviewList[d]
-    pD = phi[d]
-    for i in range(0,k):
-      p = pD[:,i]
-      for j in range(0,V):
-        word = len(vocabDict)[j]
+    for i in range(0, k):
+      p = phi[d][:,i]
+      for j in range(0, V):
+        word = V[j]
         indicator = words.index(word)
         epsilon[i,j] += np.dot(indicator, p)
-  epsilon = np.transpose(np.transpose(epsilon) / np.sum(epsilon, axis=1))
-  return epsilon
+  return np.transpose(np.transpose(epsilon) / np.sum(epsilon, axis=1)) # the epsilon value
 
-def EM(initPhi, initEta, initGamma, initEpsilon, initLambda, initSigmaSq, initMu, initSigma, reviewList, vocabDict, M,k):
-  likelihood = 0
-  oldLikelihood = 0
-  it = 1
-  phi = initPhi
-  eta = initEta
-  gamma = initGamma
-  epsilon = initEpsilon
-  lmbda = initLambda
-  sigmaSq = initSigmaSq
-  mu = initMu
-  sigma = initSigma
-  while it <= 2 or np.abs((likelihood - oldLikelihood) / oldLikelihood) > 1e-4:
-    # Update parameters
-    oldLikelihood = likelihood
-    oldPhi = phi
-    oldEta = eta
-    oldGamma = gamma
-    oldEpsilon = epsilon
-    oldLambda = lmbda
-    oldSigmaSq = sigmaSq
-    oldMu = mu
-    oldSigma = sigma
-
+def EM(phi, eta, gamma, epsilon, lmbda, sigmaSq, mu, sigma, reviewList, vocabDict, M,k):
+  likelihood, oldLikelihood, iteration = 0, 0, 1
+  while iteration <= 2 or np.abs((likelihood - oldLikelihood) / oldLikelihood) > 1e-4: # Update parameters
+    oldLikelihood, oldPhi, oldEta, oldGamma, oldEpsilon, oldLambda, oldSigmaSq, oldMu, oldSigma = likelihood, phi, eta, gamma, epsilon, lmbda, sigmaSq, mu, sigma
     phi, eta, likelihood, mu, sigma, lmbda, sigmaSq = EStep(oldPhi, oldEta, oldGamma, oldEpsilon, oldLambda, oldSigmaSq, oldMu, oldSigma, reviewList, vocabDict, k, M)
     epsilon = MStep(phi, eta, reviewList, vocabDict, k, M)
     print('Iteration ' + str(iteration) + ': Likelihood = ' + str(likelihood))
-
-    it += 1
-    if it > 100:
+    iteration += 1
+    if iteration > 100:
       break
-
   return phi, eta, gamma, epsilon, mu, sigma, likelihood
 
 def generateAspectParameters(reviewList, vocabDict):
@@ -232,17 +210,16 @@ def generateAspectParameters(reviewList, vocabDict):
   initPhi, initEta, initGamma, initEpsilon, initLambda, initSigmaSq = initializeParameters(reviewList, vocabDict, M, k)
   for d in range(0,M):
     initMu += initLambda[d]
-  initMu=initMu/M
-  for d in range(0,M):
-    initSigma+=(initLambda[d]-initMu)**2+  initSigmaSq[d]**2
-  initSigma=initSigma/M
-  phi, eta, gamma, epsilon, mu, sigma, likelihood =EM(initPhi, initEta, initGamma, initEpsilon, initLambda, initSigmaSq, initMu, initSigma, reviewList, vocabDict, M,k)
-  return mu,sigma
+  initMu = initMu / M
+  for d in range(0, M):
+    initSigma += (initLambda[d] - initMu)**2 + initSigmaSq[d]**2
+  initSigma = initSigma / M
+  phi, eta, gamma, epsilon, mu, sigma, likelihood = EM(initPhi, initEta, initGamma, initEpsilon, initLambda, initSigmaSq, initMu, initSigma, reviewList, vocabDict, M,k)
+  return mu, sigma
 
-def sentenceLabeling(mu, sigma, reviewList, vocab, vocabDict):
-  # Update labels
+def sentenceLabeling(mu, sigma, reviewList, vocab, vocabDict): # Update labels
   reviewWordsList = []
-  reviewLabelList=[]
+  reviewLabelList = []
   for i in range(len(reviewList)):
     review = reviewList[i]
     aspectWeights = aspectTerms[i]
@@ -273,8 +250,8 @@ def createWordMatrix(reviewWordsList, reviewList, vocab, vocabDict, reviewLabelL
     reviewMatrixList.append(reviewMatrix)
   return reviewMatrixList
 
-def generateResults(hotelList,reviewDataList, reviewLabelList, reviewWordsList, reviewMatrixList, finalFile):
-  f = open(finalFile,"w")
+def generateResults(hotelList, reviewDataList, reviewLabelList, reviewWordsList, reviewMatrixList, finalFile):
+  f = open(finalFile, 'w')
   for i in range(len(reviewDataList)):
     hotelId = hotelList[i]
     for review in reviewDataList[i]:
@@ -296,45 +273,26 @@ def generateResults(hotelList,reviewDataList, reviewLabelList, reviewWordsList, 
   print("Total number of annotated reviews =" + str(TotalNumOfAnnotatedReviews) +"\n")
   print("Labels per Review=" + str(np.mean(LabelsPerReviewList)) + "+-" + str(np.std(LabelsPerReviewList)) + "\n")
 
-
 def getData(folder):
-  reviewDataList=[]
-  hotelList=[]
+  reviewDataList = []
+  hotelList = []
   for file in os.listdir(folder):
-    data=readData(folder+'/'+file)
-    hotelList.append(file.split(".")[0])
-    reviewDataList.append(data)
+    with open(folder + '/' + file, encoding='utf-8') as data_file:
+      data = json.load(data_file)
+      hotelList.append(file.split('.')[0])
+      reviewDataList.append(data)
   return hotelList, reviewDataList
 
-def readData(filename):
-  #Load and read all json files
-  try:
-    with open(filename, encoding = "utf-8") as data_file:
-      return json.load(data_file)
-  except:
-    print('load_a_json_file error ' + filename)
-
 def getVocab():
-  #### Step 1: Create vocabulary from json files
   stopWords = genStopwords()
   hotelList, reviewDataList = getData('HotelData/CleanData') # Read the json files
-  vocab, cnt, vocabDict, reviewList=createVocab(reviewDataList,stopWords)
-  return hotelList, reviewDataList,vocab, cnt, vocabDict, reviewList
+  vocab, cnt, vocabDict, reviewList = createVocab(reviewDataList, stopWords)
+  return hotelList, reviewDataList, vocab, cnt, vocabDict, reviewList
 
 
-def runBootstrap():
-  #### Step 2. Run model on vocab
-  # Loading vocab data from saved file
-  hotelList, reviewDataList, vocab, cnt, vocabDict, reviewList = getVocab()
-
-  # aspect modeling to get parameters
-  mu,sigma = generateAspectParameters(reviewList, vocabDict)
-
-  #### Create aspects and Get labels from aspect terms on reviews
-  reviewWordsList, reviewLabelList = sentenceLabeling(mu, sigma, reviewList, vocab, vocabDict)
-
-  # Create the word matrix for all the reviews
-  reviewMatrixList = createWordMatrix(reviewWordsList,reviewList, vocab, vocabDict, reviewLabelList)
-  finalFile = "finalresults.txt"
-  # Use the word matrix to generate the results
-  generateResults(hotelList,reviewDataList, reviewLabelList, reviewWordsList, reviewMatrixList, finalFile)
+if __name__ == '__main__':
+  hotelList, reviewDataList, vocab, cnt, vocabDict, reviewList = getVocab() # Loading vocab data from saved file
+  mu, sigma = generateAspectParameters(reviewList, vocabDict) # aspect modeling to get parameters
+  reviewWordsList, reviewLabelList = sentenceLabeling(mu, sigma, reviewList, vocab, vocabDict) # Create aspects and get labels from aspect terms on reviews
+  reviewMatrixList = createWordMatrix(reviewWordsList,reviewList, vocab, vocabDict, reviewLabelList) # Create the word matrix for all the reviews  
+  generateResults(hotelList, reviewDataList, reviewLabelList, reviewWordsList, reviewMatrixList, 'finalresults.txt') # Use the word matrix to generate the results
