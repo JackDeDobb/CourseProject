@@ -6,7 +6,7 @@ import numpy as np
 import os
 import random
 import string
-
+import ssl
 
 # Dependencies Below
 #######################################################################
@@ -61,7 +61,7 @@ def createVocab(reviewDataList, stopWords):
     for review in reviewData['Reviews']:
       parseWordsInReview = []
       parsedWords = parseWords(review['Content'], stopWords)
-      reviewList.append(parsedWords)
+      reviewList.append(parsedWords[0])
       for parseWord in parsedWords:
         parseWordsInReview = parseWord + parseWordsInReview
       allTerms += parseWordsInReview
@@ -87,13 +87,13 @@ def initializeParameters(reviewList, vocabDict, M, k):
   for m in range(0, M):
     wordsInDoc = reviewList[m]
     N = len(wordsInDoc)
-    phi = np.ones([N, k]) * 1 / float(k)
+    phi_temp = np.ones([N, k]) * 1 / float(k)
     for i in range(0, k):
       eta[m, i] = gamma[m, i] + N / float(k)
-      phi.append(phi)
-      lmbda.append(phi)
-      sigmaSq.append(np.random.rand())
-      m += 1
+    phi.append(phi_temp)
+    lmbda.append(phi_temp)
+    sigmaSq.append(np.random.rand())
+    m += 1
   epsilon = np.zeros([k, len(vocabDict)])
   for i in range(0, k):
     tmp = np.random.uniform(0, 1, len(vocabDict))
@@ -277,10 +277,11 @@ def getData(folder):
   reviewDataList = []
   hotelList = []
   for file in os.listdir(folder):
-    with open(folder + '/' + file, encoding='utf-8') as data_file:
-      data = json.load(data_file)
-      hotelList.append(file.split('.')[0])
-      reviewDataList.append(data)
+    if file.endswith(".json"):
+      with open(folder + '/' + file, encoding='utf-8') as data_file:
+        data = json.load(data_file)
+        hotelList.append(file.split('.')[0])
+        reviewDataList.append(data)
   return hotelList, reviewDataList
 
 def getVocab():
