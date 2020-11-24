@@ -36,12 +36,9 @@ def getData(folder):
   pass
 
 
-def getVocab():
-  # Fill in method here
-  pass
-
-
 if __name__ == '__main__':
-  productList, reviewDataList, vocab, cnt, vocabDict, reviewList = getVocab() # Loading vocab data from saved file
+  stopWords = genStopwords()
+  productList, reviewDataList = getData('ProductData/CleanData') # Read the json files
+  vocab, cnt, vocabDict, reviewList = createVocab(reviewDataList, stopWords)
   reviewLabelList, reviewWordsList, reviewMatrixList = runAlgorithm(vocab, cnt, vocabDict, reviewList)
   generateResults(productList, reviewDataList, reviewLabelList, reviewWordsList, reviewMatrixList, 'ProductFinalResults.txt') # Use the word matrix to generate the results
