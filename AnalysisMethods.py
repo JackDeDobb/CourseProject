@@ -205,3 +205,8 @@ def createWordMatrix(reviewWordsList, reviewList, vocab, vocabDict, reviewLabelL
   return reviewMatrixList
 
 
+def runAlgorithm(vocab, cnt, vocabDict, reviewList):
+  mu, sigma = generateAspectParameters(reviewList, vocabDict) # Aspect modeling to get parameters
+  reviewWordsList, reviewLabelList = sentenceLabeling(mu, sigma, reviewList, vocab, vocabDict) # Create aspects and get labels from aspect terms on reviews
+  reviewMatrixList = createWordMatrix(reviewWordsList, reviewList, vocab, vocabDict, reviewLabelList) # Create the word matrix for all the reviews
+  return reviewLabelList, reviewWordsList, reviewMatrixList

@@ -88,7 +88,5 @@ def getVocab():
 
 if __name__ == '__main__':
   hotelList, reviewDataList, vocab, cnt, vocabDict, reviewList = getVocab() # Loading vocab data from saved file
-  mu, sigma = generateAspectParameters(reviewList, vocabDict) # aspect modeling to get parameters
-  reviewWordsList, reviewLabelList = sentenceLabeling(mu, sigma, reviewList, vocab, vocabDict) # Create aspects and get labels from aspect terms on reviews
-  reviewMatrixList = createWordMatrix(reviewWordsList,reviewList, vocab, vocabDict, reviewLabelList) # Create the word matrix for all the reviews  
-  generateResults(hotelList, reviewDataList, reviewLabelList, reviewWordsList, reviewMatrixList, 'finalresults.txt') # Use the word matrix to generate the results
+  reviewLabelList, reviewWordsList, reviewMatrixList = runAlgorithm(vocab, cnt, vocabDict, reviewList)
+  generateResults(hotelList, reviewDataList, reviewLabelList, reviewWordsList, reviewMatrixList, 'HotelFinalResults.txt') # Use the word matrix to generate the results
