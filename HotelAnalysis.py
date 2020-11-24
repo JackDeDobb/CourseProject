@@ -5,8 +5,9 @@ import nltk
 import numpy as np
 import os
 import random
-import string
 import ssl
+import string
+
 
 # Dependencies Below
 #######################################################################
@@ -22,28 +23,18 @@ else:
 
 
 
-def parseWordsForSentence(content, vocab, vocabDict):
-  # Use nltk and stopwords to tokenize words for  each review
+def parseWordsForSentence(content, vocab, vocabDict): # Use nltk and stopwords to tokenize words for  each review
   tokenizedWords = []
-  sentences = nltk.sent_tokenize(content)
-  for sent in sentences:
-    words = nltk.word_tokenize(sent)
-    stemmedWordsInVocab = [stemmer.stem(w.lower()) for w in words if stemmer.stem(w.lower()) in vocabDict]
-    words = [vocabDict.get(w) for w in stemmedWordsInVocab]
-    if len(words) > 0:
-      tokenizedWords.append(words)
+  for sentence in nltk.sent_tokenize(content):
+    stemmedWordsInVocab = [stemmer.stem(w.lower()) for w in nltk.word_tokenize(sentence) if stemmer.stem(w.lower()) in vocabDict]
+    tokenizedWords += [vocabDict.get(w) for w in stemmedWordsInVocab]
   return tokenizedWords
 
-def parseWords(content, stopWords):
-  # Use nltk and stopwords to tokenize words
+def parseWords(content, stopWords): # Use nltk and stopwords to tokenize words
   tokenizedWords = []
-  sentences = nltk.sent_tokenize(content)
-  for sent in sentences:
-    words = nltk.word_tokenize(sent)
-    stemmedWords = [stemmer.stem(w.lower()) for w in words if w not in string.punctuation]
-    stemmedWordsWithoutStopwords = [v for v in stemmedWords if v not in stopWords] # Remove stopwords
-    if len(stemmedWordsWithoutStopwords) > 0:
-      tokenizedWords.append(stemmedWordsWithoutStopwords)
+  for sentence in nltk.sent_tokenize(content):
+    stemmedWords = [stemmer.stem(w.lower()) for w in nltk.word_tokenize(sentence) if w not in string.punctuation]
+    tokenizedWords += [v for v in stemmedWords if v not in stopWords] # Remove stopwords
   return tokenizedWords
 
 def genStopwords():
@@ -61,7 +52,7 @@ def createVocab(reviewDataList, stopWords):
     for review in reviewData['Reviews']:
       parseWordsInReview = []
       parsedWords = parseWords(review['Content'], stopWords)
-      reviewList.append(parsedWords[0])
+      reviewList.append(parsedWords)
       for parseWord in parsedWords:
         parseWordsInReview = parseWord + parseWordsInReview
       allTerms += parseWordsInReview
