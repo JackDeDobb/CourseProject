@@ -1,11 +1,9 @@
 # Use Python3
-from AnalysisMethods import *
 from scipy.special import digamma, gammaln
 import json
 import nltk
 import numpy as np
 import os
-import random
 import ssl
 import string
 
@@ -159,5 +157,51 @@ def EM(phi, eta, gamma, epsilon, lmbda, sigmaSq, mu, sigma, reviewList, vocabDic
     if iteration > 100:
       break
   return phi, eta, gamma, epsilon, mu, sigma, likelihood
+
+
+def generateAspectParameters(reviewList, vocabDict): # Aspect modeling
+  k = 4 # nbr of latent states z
+  M = len(reviewList) # nbr of reviews
+  initMu, initSigma = 0.0, 0.0
+  initPhi, initEta, initGamma, initEpsilon, initLambda, initSigmaSq = initializeParameters(reviewList, vocabDict, M, k)
+  for d in range(0, M):
+    initMu += initLambda[d]
+  initMu = initMu / M
+  for d in range(0, M):
+    initSigma += (initLambda[d] - initMu)**2 + initSigmaSq[d]**2
+  initSigma = initSigma / M
+  phi, eta, gamma, epsilon, mu, sigma, likelihood = EM(initPhi, initEta, initGamma, initEpsilon, initLambda, initSigmaSq, initMu, initSigma, reviewList, vocabDict, M, k)
+  return mu, sigma
+
+
+def sentenceLabeling(mu, sigma, reviewList, vocab, vocabDict): # Update labels
+  reviewWordsList, reviewLabelList = [], []
+  for i in range(len(reviewList)):
+    aspectWeights = aspectTerms[i] # TODO: there is no aspectTerms
+    reviewWords = parseWordsForSentence(reviewList[i], vocab, vocabDict)
+    reviewLabels = [-1] * len(reviewWords) # Initialize each review as -1
+    reviewWordsList.append(reviewWords) # TODO: should this be flattened?
+    aspectWeights = np.random.normal(loc=mu, scale=sigma, size=len(reviewWords))
+    aspectWeights = aspectWeights / aspectWeights.sum(axis=0, keepdims=1) # Normalize to make row sum=1
+    reviewLabels[aspectWeights.index[max(aspectWeights)]] = 1 # Change the label to 1 for the word most matching the aspect
+    reviewLabelList.append(reviewLabels) # TODO: should this be flattened?
+  return reviewWordsList, reviewLabelList
+
+
+def createWMatrixForEachReview(reviewWords, review, vocab, vocabDict, reviewLabels): # Generate the matrix for each review
+  reviewMatrix = np.zeros((len(reviewLabels), len(reviewWords)))
+  for i in range(len(reviewLabels)):
+    for j in range(len(reviewWords)):
+      reviewMatrix[i, j] = reviewWords[i] * reviewLabels[j] # Get the review rating
+    reviewMatrix[i] = reviewMatrix[i] / reviewMatrix[i].sum(axis=0, keepdims=1) # Normalize to make row sum=1
+  return reviewMatrix
+
+
+def createWordMatrix(reviewWordsList, reviewList, vocab, vocabDict, reviewLabelList): # Ratings analysis and generate review matrix list
+  reviewMatrixList = []
+  for i in range(len(reviewList)):
+    reviewMatrix = createWMatrixForEachReview(reviewWordsList[i], reviews[i], vocab, vocabDict, reviewLabelList[i]) # TODO: there is no reviews
+    reviewMatrixList.append(reviewMatrix) # TODO: should this flattened?
+  return reviewMatrixList
 
 
