@@ -21,19 +21,22 @@ else:
 #######################################################################
 
 
-def createVocab(reviewDataList, stopWords):
+def createVocab(reviewDataList, hotelList, stopWords):
   # Iterate through all the json files data and create vocabulary dictionary having the words and their associated counts
   # Use parseWords to generate the tokenized terms
   # Use nltk.FreqDist to generate term frequqnecies
-  allTerms, reviewList = [], []
-  for reviewData in reviewDataList:
-    for review in reviewData['Reviews']:
-      parseWordsInReview = []
+  allTerms, reviewList, reviewFreqDictList, hotelIdList, reviewIdList, reviewContentList = [], [], [], [], [], []
+  for r in range(len(reviewDataList)):
+    for review in reviewDataList[r]['Reviews']:
+      #parseWordsInReview = []
       parsedWords = parseWords(review['Content'], stopWords)
+      reviewFrequency=dict(nltk.FreqDist(parsedWords))
+      reviewFreqDictList.append(reviewFrequency)
       reviewList.append(parsedWords)
-      for parseWord in parsedWords:
-        parseWordsInReview = parseWord + parseWordsInReview
-      allTerms += parseWordsInReview
+      reviewIdList.append(review['ReviewID'])
+      hotelIdList.append(hotelList[r])
+      reviewContentList.append(review['Content'])
+      allTerms += parsedWords
   termFrequency = nltk.FreqDist(allTerms)
   vocab, cnt = [], []
   vocabDict = {}
@@ -41,30 +44,33 @@ def createVocab(reviewDataList, stopWords):
     if v > 5:
       vocab.append(k)
       cnt.append(v)
+    else:
+      for r in reviewFreqDictList:
+          if k in r:
+              del r[k]
+      for i in range(len(reviewList)):
+          reviewList[i]=filter(lambda a: a != k, reviewList[i])
   vocab = np.array(vocab)[np.argsort(vocab)].tolist()
   cnt = np.array(cnt)[np.argsort(vocab)].tolist()
   vocabDict = dict(zip(vocab, range(len(vocab))))
-  return vocab, cnt, vocabDict, reviewList
+  return vocab, cnt, vocabDict, reviewList, reviewFreqDictList, hotelIdList, reviewIdList, reviewContentList
 
 
-def generateResults(hotelList, reviewDataList, reviewLabelList, reviewWordsList, reviewMatrixList, finalFile):
+def generateResults(hotelIdList, reviewIdList, reviewContentList, reviewDataList, reviewLabelList, reviewList, reviewMatrixList, finalFile):
   f = open(finalFile, 'w')
-  for i in range(len(reviewDataList)):
-    hotelId = hotelList[i]
-    for review in reviewDataList[i]:
-      f.write(':'.join([hotelId, review['ReviewID'], review, str(reviewWordsList[review]), str(reviewMatrixList[review])]) + '\n')
-  TotalNumOfReviews, TotalNumOfAnnotatedReviews = 0, 0
-  LabelsPerReviewList = []
-  for i in range(len(reviewDataList)):
-    TotalNumOfReviews += len(reviewDataList[i])
-    for j in range(len(reviewDataList[i])):
-      LabelsPerReviewList[j] = 0
-      for label in reviewLabelList[j]:
-        if label!=-1:
-          LabelsPerReviewList[j] += 1 # num of AnnotatedWords in each review
-      TotalNumOfAnnotatedReviews += 1
-  print("Total number of hotels =" + str(len(hotelList)) +"\n")
-  print("Total number of reviews =" + str(TotalNumOfReviews) +"\n")
+  for i in range(len(reviewList)):
+     f.write(':'.join([hotelIdList[i], reviewIdList[i], reviewContentList[i], str(reviewList[i]), str(reviewMatrixList[i])]) + '\n')
+  TotalNumOfAnnotatedReviews=0
+  LabelsPerReviewList =[]
+  for i in range(len(reviewList)):
+    for j in range(len(reviewLabelList[i])):
+        NumOfAnnotatedReviews=0
+        if reviewLabelList[i][j]!=-1:
+          NumOfAnnotatedReviews +=1 # num of AnnotatedWords in each review
+          LabelsPerReviewList.append(NumOfAnnotatedReviews)
+        TotalNumOfAnnotatedReviews += NumOfAnnotatedReviews
+  print("Total number of hotels =" + str(len(set(hotelIdList))) +"\n")
+  print("Total number of reviews =" + str(len(reviewList)) +"\n")
   print("Total number of annotated reviews =" + str(TotalNumOfAnnotatedReviews) +"\n")
   print("Labels per Review=" + str(np.mean(LabelsPerReviewList)) + "+-" + str(np.std(LabelsPerReviewList)) + "\n")
 
@@ -81,7 +87,7 @@ def getData(folder):
 
 if __name__ == '__main__':
   stopWords = genStopwords()
-  hotelList, reviewDataList = getData('HotelData/CleanData') # Read the json files
-  vocab, cnt, vocabDict, reviewList = createVocab(reviewDataList, stopWords)
-  reviewLabelList, reviewWordsList, reviewMatrixList = runAlgorithm(vocab, cnt, vocabDict, reviewList)
-  generateResults(hotelList, reviewDataList, reviewLabelList, reviewWordsList, reviewMatrixList, 'HotelFinalResults.txt') # Use the word matrix to generate the results
+  hotelList, reviewDataList = getData('HotelData/testData') # used TestData for testing ; use CleanData for production # Read the json files
+  vocab, cnt, vocabDict, reviewList, reviewFreqDictList, hotelIdList, reviewIdList, reviewContentList = createVocab(reviewDataList, hotelList, stopWords)
+  reviewLabelList,  reviewMatrixList = runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList)
+  generateResults(hotelIdList, reviewIdList, reviewContentList, reviewDataList, reviewLabelList, reviewList, reviewMatrixList, 'HotelFinalResults.txt') # Use the word matrix to generate the results
