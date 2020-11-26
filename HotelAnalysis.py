@@ -86,7 +86,7 @@ def getData(folder):
 
 if __name__ == '__main__':
   stopWords = genStopwords()
-  hotelList, reviewDataList = getData('HotelData/testData') # used TestData for testing ; use CleanData for production # Read the json files
+  hotelList, reviewDataList = getData('HotelData/testData') # TODO: used TestData for testing ; use CleanData for production # Read the json files
   vocab, cnt, vocabDict, reviewList, reviewFreqDictList, hotelIdList, reviewIdList, reviewContentList = createVocab(reviewDataList, hotelList, stopWords)
   reviewLabelList, reviewMatrixList = runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList)
   generateResults(hotelIdList, reviewIdList, reviewContentList, reviewDataList, reviewLabelList, reviewList, reviewMatrixList, 'HotelFinalResults.txt') # Use the word matrix to generate the results
