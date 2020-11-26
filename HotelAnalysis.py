@@ -28,9 +28,8 @@ def createVocab(reviewDataList, hotelList, stopWords):
   allTerms, reviewList, reviewFreqDictList, hotelIdList, reviewIdList, reviewContentList = [], [], [], [], [], []
   for r in range(len(reviewDataList)):
     for review in reviewDataList[r]['Reviews']:
-      #parseWordsInReview = []
       parsedWords = parseWords(review['Content'], stopWords)
-      reviewFrequency=dict(nltk.FreqDist(parsedWords))
+      reviewFrequency = dict(nltk.FreqDist(parsedWords))
       reviewFreqDictList.append(reviewFrequency)
       reviewList.append(parsedWords)
       reviewIdList.append(review['ReviewID'])
@@ -46,10 +45,10 @@ def createVocab(reviewDataList, hotelList, stopWords):
       cnt.append(v)
     else:
       for r in reviewFreqDictList:
-          if k in r:
-              del r[k]
+        if k in r:
+          del r[k]
       for i in range(len(reviewList)):
-          reviewList[i]=filter(lambda a: a != k, reviewList[i])
+        reviewList[i] = filter(lambda a: a != k, reviewList[i])
   vocab = np.array(vocab)[np.argsort(vocab)].tolist()
   cnt = np.array(cnt)[np.argsort(vocab)].tolist()
   vocabDict = dict(zip(vocab, range(len(vocab))))
@@ -60,15 +59,15 @@ def generateResults(hotelIdList, reviewIdList, reviewContentList, reviewDataList
   f = open(finalFile, 'w')
   for i in range(len(reviewList)):
      f.write(':'.join([hotelIdList[i], reviewIdList[i], reviewContentList[i], str(reviewList[i]), str(reviewMatrixList[i])]) + '\n')
-  TotalNumOfAnnotatedReviews=0
-  LabelsPerReviewList =[]
+  TotalNumOfAnnotatedReviews = 0
+  LabelsPerReviewList = []
   for i in range(len(reviewList)):
     for j in range(len(reviewLabelList[i])):
-        NumOfAnnotatedReviews=0
-        if reviewLabelList[i][j]!=-1:
-          NumOfAnnotatedReviews +=1 # num of AnnotatedWords in each review
-          LabelsPerReviewList.append(NumOfAnnotatedReviews)
-        TotalNumOfAnnotatedReviews += NumOfAnnotatedReviews
+      NumOfAnnotatedReviews=0
+      if reviewLabelList[i][j] != -1:
+        NumOfAnnotatedReviews += 1 # num of AnnotatedWords in each review
+        LabelsPerReviewList.append(NumOfAnnotatedReviews)
+      TotalNumOfAnnotatedReviews += NumOfAnnotatedReviews
   print("Total number of hotels =" + str(len(set(hotelIdList))) +"\n")
   print("Total number of reviews =" + str(len(reviewList)) +"\n")
   print("Total number of annotated reviews =" + str(TotalNumOfAnnotatedReviews) +"\n")
@@ -89,5 +88,5 @@ if __name__ == '__main__':
   stopWords = genStopwords()
   hotelList, reviewDataList = getData('HotelData/testData') # used TestData for testing ; use CleanData for production # Read the json files
   vocab, cnt, vocabDict, reviewList, reviewFreqDictList, hotelIdList, reviewIdList, reviewContentList = createVocab(reviewDataList, hotelList, stopWords)
-  reviewLabelList,  reviewMatrixList = runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList)
+  reviewLabelList, reviewMatrixList = runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList)
   generateResults(hotelIdList, reviewIdList, reviewContentList, reviewDataList, reviewLabelList, reviewList, reviewMatrixList, 'HotelFinalResults.txt') # Use the word matrix to generate the results

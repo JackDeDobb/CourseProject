@@ -45,7 +45,7 @@ def genStopwords():
 
 
 def initializeParameters(reviewFreqDictList, vocabDict, M, k):
-  phi, lmbda, sigmaSq = [], np.zeros(shape=(1,M)), np.zeros(shape=(1,M))
+  phi, lmbda, sigmaSq = [], np.zeros(shape=(1, M)), np.zeros(shape=(1, M))
   eta = np.zeros([M, k])
   gamma = np.ones([M, k])
   for m in range(0, M):
@@ -55,10 +55,10 @@ def initializeParameters(reviewFreqDictList, vocabDict, M, k):
     for i in range(0, k):
       eta[m, i] = gamma[m, i] + N / float(k)
     phi.append(phi_temp)
-    lmbda[0,m]=np.random.rand()
-    sigmaSq[0,m]=np.random.rand()
+    lmbda[0, m] = np.random.rand()
+    sigmaSq[0, m] = np.random.rand()
   lmbda = lmbda / lmbda.sum(axis=1, keepdims=1) # Normalize to make row sum=1
-  sigmaSq = sigmaSq/sigmaSq.sum(axis=1, keepdims=1) # Normalize to make row sum=1
+  sigmaSq = sigmaSq / sigmaSq.sum(axis=1, keepdims=1) # Normalize to make row sum=1
   epsilon = np.zeros([k, len(vocabDict)])
   for i in range(0, k):
     tmp = np.random.uniform(0, 1, len(vocabDict))
@@ -68,11 +68,11 @@ def initializeParameters(reviewFreqDictList, vocabDict, M, k):
 
 def calcLikelihood(phi, eta, gamma, epsilon, reviewDict, vocabDict, k):
   V = len(vocabDict)
-  review=list(reviewDict.keys())
+  review = list(reviewDict.keys())
   N = len(review)
-  likelihood, gammaSum, phiEtaSum, phiLogEpsilonSum, entropySum, etaSum = 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+  gammaSum, phiEtaSum, phiLogEpsilonSum, entropySum, etaSum = 0.0, 0.0, 0.0, 0.0, 0.0
 
-  gammaSum += gammaln(np.sum(gamma)) # TODO: there is no alpha #Response- Addressed
+  gammaSum += gammaln(np.sum(gamma))
   etaSum -= gammaln(np.sum(eta))
   for i in range(0, k):
     gammaSum += -gammaln(gamma[i]) + (gamma[i] - 1) * (digamma(eta[i]) - digamma(np.sum(eta)))
@@ -82,17 +82,16 @@ def calcLikelihood(phi, eta, gamma, epsilon, reviewDict, vocabDict, k):
         phiEtaSum += phi[n, i] * (digamma(eta[i]) - digamma(np.sum(eta[:])))
         entropySum += phi[n, i] * np.log(phi[n, i])
         for j in range(0, V):
-          if epsilon[i,j] > 0: # TODO: there is no beta #Response- Addressed
+          if epsilon[i,j] > 0:
             phiLogEpsilonSum += phi[n, i] * indicator * np.log(epsilon[i, j])
     etaSum += gammaln(eta[i]) - (eta[i] - 1) * (digamma(eta[i]) - digamma(np.sum(eta[:])))
 
-  likelihood += (gammaSum + phiEtaSum + phiLogEpsilonSum - etaSum - entropySum) # TODO: should this be inside for loop? #Response- No
-  return likelihood
+  return (gammaSum + phiEtaSum + phiLogEpsilonSum - etaSum - entropySum) # likelihood
 
 
 def EStep(phi, eta, gamma, epsilon, lmbda, sigmaSq, mu, sigma, reviewFreqDictList, vocabDict, k, M):
   print('E-step')
-  newLmbda, newSigmaSq = np.zeros(shape=(1,M)), np.zeros(shape=(1,M))
+  newLmbda, newSigmaSq = np.zeros(shape=(1, M)), np.zeros(shape=(1, M))
   likelihood, newMu, newSigma = 0.0, 0.0, 0.0
   convergence = np.zeros(M)
   for d in range(0, M):
@@ -105,16 +104,16 @@ def EStep(phi, eta, gamma, epsilon, lmbda, sigmaSq, mu, sigma, reviewFreqDictLis
       p = np.zeros([N,k])
       oldEta = eta[d,:]
       for n in range(0, N):
-        if words[n] in list(vocabDict): #If word exists in dictionary
+        if words[n] in list(vocabDict): # If word exists in dictionary
           vocabIdx = list(vocabDict).index(words[n])
           for i in range(0, k):
             e = epsilon[i, vocabIdx]
             p[n, i] = e * np.exp(digamma(eta[d, i]) - digamma(np.sum(eta[d,:])))
           p[n,:] = p[n,:] / np.sum(p[n,:])
       eta[d,:] = gamma[d,:] + np.sum(p, axis=0)
-      newLmbda[0,d] = 0.5 * (lmbda[0,d] - mu)**2
+      newLmbda[0, d] = 0.5 * (lmbda[0, d] - mu)**2
       newLmbda = newLmbda / newLmbda.sum(axis=1, keepdims=1) # Normalize to make row sum=1
-      newSigmaSq[0,d] = sigmaSq[0,d] / sigma
+      newSigmaSq[0, d] = sigmaSq[0, d] / sigma
       newSigmaSq = newSigmaSq / newSigmaSq.sum(axis=1, keepdims=1) # Normalize to make row sum=1
       counter += 1
       if np.linalg.norm(p - oldPhi) < 1e-3 and np.linalg.norm(eta[d,:] - oldEta) < 1e-3: # Check if gamma and phi converged
@@ -179,17 +178,14 @@ def generateAspectParameters(reviewFreqDictList, vocabDict): # Aspect modeling
 
 
 def sentenceLabeling(mu, sigma, reviewFreqDictList, vocab, vocabDict): # Update labels
-  #reviewWordsList,
   reviewLabelList = []
   for i in range(len(reviewFreqDictList)):
-    #aspectWeights = aspectTerms[i] # TODO: there is no aspectTerms # Response: Addresse
     reviewLabels = [-1] * len(list(reviewFreqDictList[i].keys())) # Initialize each review as -1
-    #reviewWordsList.append(reviewWords) # TODO: should this be flattened? #Response: No
     aspectWeights=np.zeros(shape=(1,len(list(reviewFreqDictList[i].keys()))))
     aspectWeights[0] = np.random.normal(loc=mu, scale=sigma, size=len(list(reviewFreqDictList[i].keys())))
     aspectWeights = aspectWeights / aspectWeights.sum(axis=1, keepdims=1) # Normalize to make row sum=1
     reviewLabels[np.where(aspectWeights[0]==max(aspectWeights[0]))[0][0]] = 1 # Change the label to 1 for the word most matching the aspect
-    reviewLabelList.append(reviewLabels) # TODO: should this be flattened? #Response: No
+    reviewLabelList.append(reviewLabels)
   return reviewLabelList
 
 
@@ -210,7 +206,7 @@ def createWMatrixForEachReview(reviewWordsDict, vocab, vocabDict, reviewLabels):
 def createWordMatrix(reviewFreqDictList, vocab, vocabDict, reviewLabelList): # Ratings analysis and generate review matrix list
   reviewMatrixList = []
   for i in range(len(reviewFreqDictList)):
-    reviewMatrix = createWMatrixForEachReview(reviewFreqDictList[i], vocab, vocabDict, reviewLabelList[i]) # TODO: there is no reviews #Response: Addressed
+    reviewMatrix = createWMatrixForEachReview(reviewFreqDictList[i], vocab, vocabDict, reviewLabelList[i])
     reviewMatrixList.append(reviewMatrix) # TODO: should this flattened?
   return reviewMatrixList
 
