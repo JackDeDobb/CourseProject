@@ -191,11 +191,17 @@ def sentenceLabeling(mu, sigma, reviewFreqDictList, vocab, vocabDict): # Update 
 
 def createWMatrixForEachReview(reviewWordsDict, vocab, vocabDict, reviewLabels): # Generate the matrix for each review
   review=list(reviewWordsDict.keys())
-  reviewMatrix = np.zeros((len(reviewLabels), len(review)))
-  for i in range(len(reviewLabels)):
-    for j in range(len(review)):
-      reviewMatrix[i, j] = reviewWordsDict[review[j]] * reviewLabels[i] # Get the review rating
-  reviewMatrix = reviewMatrix / reviewMatrix.sum(axis=1, keepdims=1) # Normalize to make row sum=1
+  #reviewMatrix = np.zeros((len(reviewLabels), len(review)))
+  reviewMatrix = np.zeros(len(review))
+
+  #for i in range(len(reviewLabels)):
+  #  for j in range(len(review)):
+  #    reviewMatrix[i, j] = reviewWordsDict[review[j]] * reviewLabels[i] # Get the review rating
+  for j in range(len(review)):
+    reviewMatrix[j] = reviewWordsDict[review[j]] * reviewLabels[0] # Get the review rating
+
+  #reviewMatrix = reviewMatrix / reviewMatrix.sum(axis=1, keepdims=1) # Normalize to make row sum=1
+  reviewMatrix = reviewMatrix / reviewMatrix.sum(keepdims=1) 
   #TODO: for some reason, we are getting the same values of rows in each column.
   #      Here, we are multiplying the label of each word with it's count in the revie and creating a matrix.
   #      Thus, theoretically, we should not be getting that. Please help debug. Some thing is off in implementation in
