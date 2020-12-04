@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Helsinki, Finland", "Title": "\u201cA rotten gem?\u201d", "Author": "KatriViktor", "ReviewID": "UR125541125", "Content": "doors bad locks smells funny music loud nights warm water runs mornings la chica reception told visit doctor costs 70 usd visit near doctor av juarez costs 70 pesos luckily found paying 70 usd theres security lockers guests cleaning lady didnt clean day airconditioner didnt properly cold hot location looks nice outside nice mould discos", "Date": "2012-03-03 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Calgary, Canada", "Title": "\u201cToo bad to be true\u201d", "Author": "Ale_ND", "ReviewID": "UR93812180", "Content": "booked hotel mainly location beach regret read reviews saved money time night sleep admit guy lobby friendly dissapointment door awfully musty smell months air lamp beds burnt breaking pieces bathroom looked clean primitive hadnt spent 5 minutes oh bedroom bad bathroom light bathroom fixtures existent toilet hadnt cleaned days shower floor walls hadnt brushed mosaics actually mold growing bedroom hadnt dusted days late decided stay night fun begun hotel located near loudest corners playa imagine rested night morning talked managers awful conditions bedrooms understanding offered apology refund solution leaving 2 cleaning ladies dusting brushing late booked hotel seriously stay looking cleanliness peaceful nights hotel party night sleep day waste location look outside", "Date": "2011-01-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "seattle", "Title": "\u201cgreat gem! located on the beach\u201d", "Author": "crazycabobob", "ReviewID": "UR90576456", "Content": "playa times trip forced regular construction found walking car value beach mention free parking 247 security food drinks pool steves shop door clean maids leave towel animal day ac noisy lots hot water shower little loud night local clubs", "Date": "2010-12-23 00:00:00"}], "HotelInfo": {"Name": "Hotel Costa del Mar", "HotelURL": "/ShowUserReviews-g150812-d283241-Reviews-Hotel_Costa_del_Mar-Playa_del_Carmen_Yucatan_Peninsula.html", "Price": "$67 - $105*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle 1 Norte Entre 10 Y 12</span>, <span class=\"locality\"><span property=\"v:locality\">Playa del Carmen</span> <span property=\"v:postal-code\">77710</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "283241", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/7a/e4/hotel-costa-del-mar-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Helsinki, Finland",
+      "Title": "\u201cA rotten gem?\u201d",
+      "Author": "KatriViktor",
+      "ReviewID": "UR125541125",
+      "Content": "doors bad locks smells funny music loud nights warm water runs mornings la chica reception told visit doctor costs 70 usd visit near doctor av juarez costs 70 pesos luckily found paying 70 usd theres security lockers guests cleaning lady didnt clean day airconditioner didnt properly cold hot location looks nice outside nice mould discos",
+      "Date": "2012-03-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Calgary, Canada",
+      "Title": "\u201cToo bad to be true\u201d",
+      "Author": "Ale_ND",
+      "ReviewID": "UR93812180",
+      "Content": "booked hotel mainly location beach regret read reviews saved money time night sleep admit guy lobby friendly dissapointment door awfully musty smell months air lamp beds burnt breaking pieces bathroom looked clean primitive hadnt spent 5 minutes oh bedroom bad bathroom light bathroom fixtures existent toilet hadnt cleaned days shower floor walls hadnt brushed mosaics actually mold growing bedroom hadnt dusted days late decided stay night fun begun hotel located near loudest corners playa imagine rested night morning talked managers awful conditions bedrooms understanding offered apology refund solution leaving 2 cleaning ladies dusting brushing late booked hotel seriously stay looking cleanliness peaceful nights hotel party night sleep day waste location look outside",
+      "Date": "2011-01-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "seattle",
+      "Title": "\u201cgreat gem! located on the beach\u201d",
+      "Author": "crazycabobob",
+      "ReviewID": "UR90576456",
+      "Content": "playa times trip forced regular construction found walking car value beach mention free parking 247 security food drinks pool steves shop door clean maids leave towel animal day ac noisy lots hot water shower little loud night local clubs",
+      "Date": "2010-12-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Costa del Mar",
+    "HotelURL": "/ShowUserReviews-g150812-d283241-Reviews-Hotel_Costa_del_Mar-Playa_del_Carmen_Yucatan_Peninsula.html",
+    "Price": "$67 - $105*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle 1 Norte Entre 10 Y 12</span>, <span class=\"locality\"><span property=\"v:locality\">Playa del Carmen</span> <span property=\"v:postal-code\">77710</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "283241",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/7a/e4/hotel-costa-del-mar-thumbnail.jpg"
+  }
+}

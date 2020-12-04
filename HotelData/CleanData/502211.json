@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Mumbai (Bombay), India", "Title": "\u201cgood location for summer stay in istanbul\u201d", "Author": "sumitminocha", "ReviewID": "UR98317468", "Content": "airport city ideal summer stay lot crowd summers awesome breakfast morning hotel huge mantained recommended travelers istanbul times stay city wifi lobby internet connection", "Date": "2011-02-28 00:00:00"}], "HotelInfo": {"Name": "Hotel Marin Princess", "HotelURL": "/ShowUserReviews-g293974-d502211-Reviews-Hotel_Marin_Princess-Istanbul.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">E5 Karayolu uzeri</span> | <span class=\"extended-address\">Kumburgaz</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "502211", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/1a/16/88/la-tour-du-marin-princess.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Mumbai (Bombay), India",
+      "Title": "\u201cgood location for summer stay in istanbul\u201d",
+      "Author": "sumitminocha",
+      "ReviewID": "UR98317468",
+      "Content": "airport city ideal summer stay lot crowd summers awesome breakfast morning hotel huge mantained recommended travelers istanbul times stay city wifi lobby internet connection",
+      "Date": "2011-02-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Marin Princess",
+    "HotelURL": "/ShowUserReviews-g293974-d502211-Reviews-Hotel_Marin_Princess-Istanbul.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">E5 Karayolu uzeri</span> | <span class=\"extended-address\">Kumburgaz</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "502211",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/1a/16/88/la-tour-du-marin-princess.jpg"
+  }
+}

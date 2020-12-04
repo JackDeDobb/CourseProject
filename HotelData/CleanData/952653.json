@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Seattle, Washington", "Title": "\u201cHORRIBLE street & horrible service\u201d", "Author": "GingerLilyParis", "ReviewID": "UR119659960", "Content": "feels worse hostel priced hotel reserved madrid teenage daughter difficult time locating hotel discusted street prostitutes line street couple steps odd police station near creepy inside told manager deceived ad stay location refused money paid night stayed else bad lovely nearby discusting creepy street highly recomend staying else", "Date": "2011-10-24 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "San Francisco", "Title": "\u201cIf it looks like a hostel....and feels like a hostel....\u201d", "Author": "travelbugRNG", "ReviewID": "UR118544445", "Content": "probably paying price hotel am surprised positive reviews walking reception maybe hotel renovation appeared hair bed hair shower ac cool lower floor window actually twice ac examined times appeared fixed warm sleep addition thin walls allowed hear person using bathroom blowing nose wifi connection iphones offered common location pay quiet convenient puerta del sol 1 min metro receptionists nice helpful recommend stay unless enjoy amongst masses tourist happy paying price departure happy asap morning stay own risk consider yourself warned", "Date": "2011-09-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Washington, Virginia", "Title": "\u201cConvenient, clean and quiet\u201d", "Author": "Traveling_Fool_2011", "ReviewID": "UR107810661", "Content": "booked hotel reading reviews trip advisor read lots warnings noise paper thin walls inside facing busy street clean quiet located 20 paces sol metro stop absolutely perfect location basic beds shoved middle frills werent looking cheap clean close action thats exactly complaints", "Date": "2011-05-11 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Milano", "Title": "\u201cMovida\u201d", "Author": "anna-carin", "ReviewID": "UR103606721", "Content": "time husband friends june 2010 pleased hotel returned friends march 2011 hotel heart madrid close underground actually walked lot close noicy night positive feeling safe lot people night nice clean breakfast cares abt breakfast tapas staff ill madrid ill hotel", "Date": "2011-04-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Antwerp, Belgium", "Title": "\u201cGreat location, great staff, great price!\u201d", "Author": "IngeVerhoeven", "ReviewID": "UR95688188", "Content": "clean hotel hostel madrid change towels soap day real hotel friendly helpful staff map explained eat touristic location super 100 meters puerta del sol metro pictures site looks reality lucky quiet neighbours walls indeed paperthin checking hotels city feeling breakfast decide spot cheap breakfast menus caf\u00e9s neighbourhood 5euro", "Date": "2011-02-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Portugal", "Title": "\u201cExcellent surprise - hot spot to be back\u201d", "Author": "snowflakes69", "ReviewID": "UR86467852", "Content": "book hotel 12 hours didnt found simple hotel clean excellent toilet complete silent sleep location excellent 1 minute del sol city center", "Date": "2010-11-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Auckland Central, New Zealand", "Title": "\u201cA pleasant surprise\u201d", "Author": "janda0808", "ReviewID": "UR67634826", "Content": "reading reviews tripadvisor decided ahead booking hotel planned clubbing madrid night noise wouldn\u00b4t anyway hotel located close sol metro station close metro station walked past seeing sign clean comfortable shower strong nice air con appreciated location perfect time tourists receptionists stay hotel polite spoke english receptionist couldn\u00b4t speak english buy water check kept saying importantly hear noise street facing towards street neighbours night usually unhappy lower budget hotels stay definitely recommend hotel", "Date": "2010-06-15 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "UK", "Title": "\u201cNo frills, simple but not bad at all\u201d", "Author": "GaborLondon", "ReviewID": "UR62386091", "Content": "visit madrid time life found hotel centre town mins walk plaza mayor simple clean extra location perfect tried services staff helpful speak english recommend hotel street noisy 2 remarks anyway websites book hotle eden paraiso cant name hotel head label 10 metres blue textile sheet walked past hotel 3 times found street hotel prostitutes safe", "Date": "2010-04-25 00:00:00"}], "HotelInfo": {"Name": "Eden Paraiso Neptuno", "HotelURL": "/ShowUserReviews-g187514-d952653-Reviews-Eden_Paraiso_Neptuno-Madrid.html", "Price": "$65 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Montera 6</span>, <span class=\"locality\"><span property=\"v:postal-code\">28013</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "952653", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/75/34/753497b3bd97dad15f7417098367ba521large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Seattle, Washington",
+      "Title": "\u201cHORRIBLE street & horrible service\u201d",
+      "Author": "GingerLilyParis",
+      "ReviewID": "UR119659960",
+      "Content": "feels worse hostel priced hotel reserved madrid teenage daughter difficult time locating hotel discusted street prostitutes line street couple steps odd police station near creepy inside told manager deceived ad stay location refused money paid night stayed else bad lovely nearby discusting creepy street highly recomend staying else",
+      "Date": "2011-10-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "San Francisco",
+      "Title": "\u201cIf it looks like a hostel....and feels like a hostel....\u201d",
+      "Author": "travelbugRNG",
+      "ReviewID": "UR118544445",
+      "Content": "probably paying price hotel am surprised positive reviews walking reception maybe hotel renovation appeared hair bed hair shower ac cool lower floor window actually twice ac examined times appeared fixed warm sleep addition thin walls allowed hear person using bathroom blowing nose wifi connection iphones offered common location pay quiet convenient puerta del sol 1 min metro receptionists nice helpful recommend stay unless enjoy amongst masses tourist happy paying price departure happy asap morning stay own risk consider yourself warned",
+      "Date": "2011-09-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Washington, Virginia",
+      "Title": "\u201cConvenient, clean and quiet\u201d",
+      "Author": "Traveling_Fool_2011",
+      "ReviewID": "UR107810661",
+      "Content": "booked hotel reading reviews trip advisor read lots warnings noise paper thin walls inside facing busy street clean quiet located 20 paces sol metro stop absolutely perfect location basic beds shoved middle frills werent looking cheap clean close action thats exactly complaints",
+      "Date": "2011-05-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Milano",
+      "Title": "\u201cMovida\u201d",
+      "Author": "anna-carin",
+      "ReviewID": "UR103606721",
+      "Content": "time husband friends june 2010 pleased hotel returned friends march 2011 hotel heart madrid close underground actually walked lot close noicy night positive feeling safe lot people night nice clean breakfast cares abt breakfast tapas staff ill madrid ill hotel",
+      "Date": "2011-04-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Antwerp, Belgium",
+      "Title": "\u201cGreat location, great staff, great price!\u201d",
+      "Author": "IngeVerhoeven",
+      "ReviewID": "UR95688188",
+      "Content": "clean hotel hostel madrid change towels soap day real hotel friendly helpful staff map explained eat touristic location super 100 meters puerta del sol metro pictures site looks reality lucky quiet neighbours walls indeed paperthin checking hotels city feeling breakfast decide spot cheap breakfast menus caf\u00e9s neighbourhood 5euro",
+      "Date": "2011-02-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Portugal",
+      "Title": "\u201cExcellent surprise - hot spot to be back\u201d",
+      "Author": "snowflakes69",
+      "ReviewID": "UR86467852",
+      "Content": "book hotel 12 hours didnt found simple hotel clean excellent toilet complete silent sleep location excellent 1 minute del sol city center",
+      "Date": "2010-11-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Auckland Central, New Zealand",
+      "Title": "\u201cA pleasant surprise\u201d",
+      "Author": "janda0808",
+      "ReviewID": "UR67634826",
+      "Content": "reading reviews tripadvisor decided ahead booking hotel planned clubbing madrid night noise wouldn\u00b4t anyway hotel located close sol metro station close metro station walked past seeing sign clean comfortable shower strong nice air con appreciated location perfect time tourists receptionists stay hotel polite spoke english receptionist couldn\u00b4t speak english buy water check kept saying importantly hear noise street facing towards street neighbours night usually unhappy lower budget hotels stay definitely recommend hotel",
+      "Date": "2010-06-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "UK",
+      "Title": "\u201cNo frills, simple but not bad at all\u201d",
+      "Author": "GaborLondon",
+      "ReviewID": "UR62386091",
+      "Content": "visit madrid time life found hotel centre town mins walk plaza mayor simple clean extra location perfect tried services staff helpful speak english recommend hotel street noisy 2 remarks anyway websites book hotle eden paraiso cant name hotel head label 10 metres blue textile sheet walked past hotel 3 times found street hotel prostitutes safe",
+      "Date": "2010-04-25 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Eden Paraiso Neptuno",
+    "HotelURL": "/ShowUserReviews-g187514-d952653-Reviews-Eden_Paraiso_Neptuno-Madrid.html",
+    "Price": "$65 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Montera 6</span>, <span class=\"locality\"><span property=\"v:postal-code\">28013</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "952653",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/75/34/753497b3bd97dad15f7417098367ba521large.jpg"
+  }
+}

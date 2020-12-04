@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "PHX", "Title": "\u201cWhat a dump\u201d", "Author": "WorstWestern", "ReviewID": "UR126512262", "Content": "property conveniently located walmart parking lot goodwill store stank cigarette smoke male clientele reminded boys daughter bring home hoping frighten parents smoking top floor reserved week ago summarily middle floor desk person chatting girl helping finally getting top floor discovered stank smoke half furniture missing half broken internet grabbed belongings told receptionist chatting girl staying due inability hotel remotely meet upset insisted credit card charged told reverse life short stay dump told customer moved moved coming conference", "Date": "2012-03-22 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Washington, DC", "Title": "\u201cClean, friendly, but thin walls and bad location\u201d", "Author": "DCtraveler0009", "ReviewID": "UR124310899", "Content": "stayed night leading super bowl hotel 25 miles airport expensive taxi ride 11 12 miles stadium downtown spotlessly clean provide safe mini fridge hear tv noise door moderate low voices hallways loud heat ac noisey location hotel walmart near chain restaurants town airport 3 miles hotel passed strip clubs trailer park wouldnt walk hotel aside clean friendly service front desk cant imagine coming due noise location", "Date": "2012-02-08 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Daleville, Alabama", "Title": "\u201cDon't stay here for business travel.\u201d", "Author": "Julia171", "ReviewID": "UR119558658", "Content": "business trip booked hotel online hotelscom close accommodations 5 mins site appearances ok arrived clean assigned 121 vending machines quiet time evening hear people travel vending machines 12 am am light sleeper sleep check 445 am return flight front desk clerk check proceeded check check taking 30 minutes perform simple transaction days speak manager spoke manager inconvenience caused rental car missing flight attitude unprofessional bit concerned inconvenience caused admitted clerk informed check procedures expediacom explained clerk else call check advised seek help 800 counter walked checking original reservations gone representative 800 advised provide discount inconvenience ultimately hotel manager\u2019s responsibility ok finally spoke declined discount advised night clerk knowledge check procedures responsible providing check final bill books hotel checked provided final bill stay recommend hotel business accommodations stay hotel management trained trained hotel staff hotel honored guest interruption day amenities breakfast food eggs dried burnt didnt refresh cleaned arrived half cleaned stayed internet connection", "Date": "2011-10-21 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Urbana, Illinois", "Title": "\u201cClean and lots of food options nearby\u201d", "Author": "ruuree", "ReviewID": "UR119354992", "Content": "wife stayed nights comfort inn location left fridge guess note received understood clerk told 10 wheeled fridge front desk wheel elevator plug complaint little matter difference stay mold fridge didnt lug tired cleaned comfortable clean king sized bed breakfast usual waffles cereals coffee eggs bacon bagels toast stock items front desk staff nice hallways loud hotels people loud inconsiderate sometimes especially late night 5 minutes fort harrison park walmart seen window restaurants applebees bob evans marcos pizza steak shake pool hotel looked clean looked sized children speed internet free fast", "Date": "2011-10-16 00:00:00"}], "HotelInfo": {"Name": "Comfort Inn & Suites German Church Road", "HotelURL": "/ShowUserReviews-g37209-d635243-Reviews-Comfort_Inn_Suites_German_Church_Road-Indianapolis_Indiana.html", "Price": "$61 - $103*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5755 N German Church Rd</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46235</span></span> </span> </span> </address>", "HotelID": "635243", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/96/96/969627c740585f90eef4467f9f07d7a63large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "PHX",
+      "Title": "\u201cWhat a dump\u201d",
+      "Author": "WorstWestern",
+      "ReviewID": "UR126512262",
+      "Content": "property conveniently located walmart parking lot goodwill store stank cigarette smoke male clientele reminded boys daughter bring home hoping frighten parents smoking top floor reserved week ago summarily middle floor desk person chatting girl helping finally getting top floor discovered stank smoke half furniture missing half broken internet grabbed belongings told receptionist chatting girl staying due inability hotel remotely meet upset insisted credit card charged told reverse life short stay dump told customer moved moved coming conference",
+      "Date": "2012-03-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Washington, DC",
+      "Title": "\u201cClean, friendly, but thin walls and bad location\u201d",
+      "Author": "DCtraveler0009",
+      "ReviewID": "UR124310899",
+      "Content": "stayed night leading super bowl hotel 25 miles airport expensive taxi ride 11 12 miles stadium downtown spotlessly clean provide safe mini fridge hear tv noise door moderate low voices hallways loud heat ac noisey location hotel walmart near chain restaurants town airport 3 miles hotel passed strip clubs trailer park wouldnt walk hotel aside clean friendly service front desk cant imagine coming due noise location",
+      "Date": "2012-02-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Daleville, Alabama",
+      "Title": "\u201cDon't stay here for business travel.\u201d",
+      "Author": "Julia171",
+      "ReviewID": "UR119558658",
+      "Content": "business trip booked hotel online hotelscom close accommodations 5 mins site appearances ok arrived clean assigned 121 vending machines quiet time evening hear people travel vending machines 12 am am light sleeper sleep check 445 am return flight front desk clerk check proceeded check check taking 30 minutes perform simple transaction days speak manager spoke manager inconvenience caused rental car missing flight attitude unprofessional bit concerned inconvenience caused admitted clerk informed check procedures expediacom explained clerk else call check advised seek help 800 counter walked checking original reservations gone representative 800 advised provide discount inconvenience ultimately hotel manager\u2019s responsibility ok finally spoke declined discount advised night clerk knowledge check procedures responsible providing check final bill books hotel checked provided final bill stay recommend hotel business accommodations stay hotel management trained trained hotel staff hotel honored guest interruption day amenities breakfast food eggs dried burnt didnt refresh cleaned arrived half cleaned stayed internet connection",
+      "Date": "2011-10-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Urbana, Illinois",
+      "Title": "\u201cClean and lots of food options nearby\u201d",
+      "Author": "ruuree",
+      "ReviewID": "UR119354992",
+      "Content": "wife stayed nights comfort inn location left fridge guess note received understood clerk told 10 wheeled fridge front desk wheel elevator plug complaint little matter difference stay mold fridge didnt lug tired cleaned comfortable clean king sized bed breakfast usual waffles cereals coffee eggs bacon bagels toast stock items front desk staff nice hallways loud hotels people loud inconsiderate sometimes especially late night 5 minutes fort harrison park walmart seen window restaurants applebees bob evans marcos pizza steak shake pool hotel looked clean looked sized children speed internet free fast",
+      "Date": "2011-10-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Comfort Inn & Suites German Church Road",
+    "HotelURL": "/ShowUserReviews-g37209-d635243-Reviews-Comfort_Inn_Suites_German_Church_Road-Indianapolis_Indiana.html",
+    "Price": "$61 - $103*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5755 N German Church Rd</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46235</span></span> </span> </span> </address>",
+    "HotelID": "635243",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/96/96/969627c740585f90eef4467f9f07d7a63large.jpg"
+  }
+}

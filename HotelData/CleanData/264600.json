@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Milan, Italy", "Title": "\u201cBasic but clean...a reasonable choice if your expectations are pitched at the right level\u201d", "Author": "Milano_Eddie", "ReviewID": "UR124188278", "Content": "sort hotel rave realise stayed due trade amsterdam midprice hotels booked doubled prices alternatives numerous awful reviews tripadvisor dirty dodgy plumbing bad service pleased stay campanile clean plumbing fine lots hot water reasonably spacious bathroom service cheap feel theres decent flat screen tv coffee facilities bed comfortable warm outside accessed outside motelstyle annoy easily annoyed breakfast breakfasts scrambled egg bacon trays nearly empty arrivedi assume bad luck location yes centre beautiful neither particularly rough feel particularly dangerous close literally 100 metres metro stop red line trains centraal station 10 minutes easy rai station change probably wouldnt stay unless alternatives nearer centre booked scenario prefer stay noisy dirty dump touristy similar price", "Date": "2012-02-06 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Belgium", "Title": "\u201cAverage hotel\u201d", "Author": "punitworld", "ReviewID": "UR124090014", "Content": "misled remarks booked hotel average hotel close public transport whilst major issues amazed ordinary basic furniture uncovered pathways reception temperature minus 10 budget wise stayed hotels lower price", "Date": "2012-02-03 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Midlands, UK", "Title": "\u201cDo not expect any frills\u201d", "Author": "SteveBMidlands_UK", "ReviewID": "UR95411710", "Content": "expect frills comfort hotel suit am writing confirm comfort radiators hot cold chair sitting rock uk travelodge hard achieve winter dark hotel safe white guy dark restaurant owners centrum concerned safety told staying fine summer lake space simply caught metro centre evening sleeping late advice locals metro station door saves unless using single night whilst travelling recommend week wait amsterdam am impressed city focussed sex drugs tacky related summer am hotel image free internet", "Date": "2011-02-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Vilvoorde, Belgium", "Title": "\u201cA verry good hotel\u201d", "Author": "erwig", "ReviewID": "UR86309895", "Content": "arrived 12am directly unpacking bar drinks person reception friendly persons remote guest moment bar choose tv chanel visiting amsterdam hotel day verry quick metro night bus stop direct hotel verry late drinks bar word visit amsterdam amsterdam book hotel", "Date": "2010-11-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Amsterdam, The Netherlands", "Title": "\u201cPerfect, great place to stay\u201d", "Author": "jaxben", "ReviewID": "UR82411905", "Content": "visit amsterdam found holtel perfect parked car bus amsterdam hotel clean friendly comfortable recommend hotel definately stay visiting city lovely staff thank time", "Date": "2010-10-07 00:00:00"}], "HotelInfo": {"Name": "Campanile Amsterdam", "HotelURL": "/ShowUserReviews-g188590-d264600-Reviews-Campanile_Amsterdam-Amsterdam_Noord_Holland.html", "Price": "$97 - $130*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Loosdrechtdreef 3</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1108 AX</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>", "HotelID": "264600", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/30/5a/305acca8960587fd2ae43c7c5bea4fd96large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Milan, Italy",
+      "Title": "\u201cBasic but clean...a reasonable choice if your expectations are pitched at the right level\u201d",
+      "Author": "Milano_Eddie",
+      "ReviewID": "UR124188278",
+      "Content": "sort hotel rave realise stayed due trade amsterdam midprice hotels booked doubled prices alternatives numerous awful reviews tripadvisor dirty dodgy plumbing bad service pleased stay campanile clean plumbing fine lots hot water reasonably spacious bathroom service cheap feel theres decent flat screen tv coffee facilities bed comfortable warm outside accessed outside motelstyle annoy easily annoyed breakfast breakfasts scrambled egg bacon trays nearly empty arrivedi assume bad luck location yes centre beautiful neither particularly rough feel particularly dangerous close literally 100 metres metro stop red line trains centraal station 10 minutes easy rai station change probably wouldnt stay unless alternatives nearer centre booked scenario prefer stay noisy dirty dump touristy similar price",
+      "Date": "2012-02-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Belgium",
+      "Title": "\u201cAverage hotel\u201d",
+      "Author": "punitworld",
+      "ReviewID": "UR124090014",
+      "Content": "misled remarks booked hotel average hotel close public transport whilst major issues amazed ordinary basic furniture uncovered pathways reception temperature minus 10 budget wise stayed hotels lower price",
+      "Date": "2012-02-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Midlands, UK",
+      "Title": "\u201cDo not expect any frills\u201d",
+      "Author": "SteveBMidlands_UK",
+      "ReviewID": "UR95411710",
+      "Content": "expect frills comfort hotel suit am writing confirm comfort radiators hot cold chair sitting rock uk travelodge hard achieve winter dark hotel safe white guy dark restaurant owners centrum concerned safety told staying fine summer lake space simply caught metro centre evening sleeping late advice locals metro station door saves unless using single night whilst travelling recommend week wait amsterdam am impressed city focussed sex drugs tacky related summer am hotel image free internet",
+      "Date": "2011-02-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Vilvoorde, Belgium",
+      "Title": "\u201cA verry good hotel\u201d",
+      "Author": "erwig",
+      "ReviewID": "UR86309895",
+      "Content": "arrived 12am directly unpacking bar drinks person reception friendly persons remote guest moment bar choose tv chanel visiting amsterdam hotel day verry quick metro night bus stop direct hotel verry late drinks bar word visit amsterdam amsterdam book hotel",
+      "Date": "2010-11-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Amsterdam, The Netherlands",
+      "Title": "\u201cPerfect, great place to stay\u201d",
+      "Author": "jaxben",
+      "ReviewID": "UR82411905",
+      "Content": "visit amsterdam found holtel perfect parked car bus amsterdam hotel clean friendly comfortable recommend hotel definately stay visiting city lovely staff thank time",
+      "Date": "2010-10-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Campanile Amsterdam",
+    "HotelURL": "/ShowUserReviews-g188590-d264600-Reviews-Campanile_Amsterdam-Amsterdam_Noord_Holland.html",
+    "Price": "$97 - $130*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Loosdrechtdreef 3</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1108 AX</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>",
+    "HotelID": "264600",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/30/5a/305acca8960587fd2ae43c7c5bea4fd96large.jpg"
+  }
+}

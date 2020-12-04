@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "San Francisco, California", "Title": "\u201cOne of many small hotels in the area\u201d", "Author": "dbcme", "ReviewID": "UR119463153", "Content": "reviews hotel tripadvisor heres real scoop true typical nyc hotel thin walls doubt unless stuck crazy neighbors probably ok neighbor occasionally scream assume bad dreams docked hotel beds standard write home sufficient day walking city staff friendly varying levels english speaking hospitable actually owner hotel welcoming stay dare grumpy breakfast top level enclosed includes cheeses meats pastries variety spreads apple tea coffee included nice view location excellent sight seeing blue mosque nearby grand bazaar station restaurants hop skip jump hotel tip ride ist airport 90 minute ride including transfer trains bad deal return trip purchase shared bus ride local travel agency hotel overall hotel average hotels surrounding homework consider provides decent stay relatively price location excellent sightseeing note prayers 5x day ist proximity mosques hotel mean 6am prayers broadcast entire neighborhood hear sleeper prepared 6am wake call hotels nearby speakers", "Date": "2011-10-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Chicago, Illinois", "Title": "\u201cWell located little hotel\u201d", "Author": "Doreen3", "ReviewID": "UR90481550", "Content": "boyfriend experience hotel staff ibrahim especially extremely cordial helpful clean breakfast buffet wonderful compared ones weve turkey roof top amazing view city look marmara eat breakfast location explore istanbuls sultanahmet sites youre spending time european pretty walk stay closer golden horn", "Date": "2010-12-22 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "UK", "Title": "\u201cmediocre\u201d", "Author": "SGHS", "ReviewID": "UR77129099", "Content": "clean positioned sultanahmet sites able walk district evenings undisturbed apart routine istanbul touting excessive pleasant staff prepare difference advertised price special offers front desk arrival banter cash cards lethargic receipt return assumed tip chance option change definitely frills bring own mini toiletries etc meals ho hum", "Date": "2010-08-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Bucharest, Romania", "Title": "\u201cGreat neighborhood\u201d", "Author": "E_PETRE", "ReviewID": "UR69201678", "Content": "stayed 4 days hotel istanbul time hotel time hotel perfect location visiting city walking distance hotel situated quiet neighborhood near blue mosque aya sofia museum topkapi service excellent staff friendly especially staff help directions guides tours comfortable cleanliness excellent breakfast level hotels weve visited restaurant roof special beautiful view bosporus town recommend", "Date": "2010-06-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cGREAT rooftop RESTAURANT; GREAT HOTEL\u201d", "Author": "fernandou", "ReviewID": "UR68395797", "Content": "wife stayed 7 nights hotel hotel perfect location visiting city walking little hotelthe service excellent staff help directions guides tours morethe quiet breakfast receptionist waiter murat provided advices sightseeings restaurants cafes recomendations found smart guy murat smiling excelllent blue mosque hagia sophia topkapi palace grand bazaar basilica cistern hippodrome spice bazaar walking distancei dont ive met kinder staffthe family run hotel offers 15 comfortable cleanliness excellent", "Date": "2010-06-23 00:00:00"}], "HotelInfo": {"Name": "Abella Hotel", "HotelURL": "/ShowUserReviews-g293974-d605522-Reviews-Abella_Hotel-Istanbul.html", "Price": "$62 - $133*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kucuk Ayasofya cd No 37</span> | <span class=\"extended-address\">Sultanahmet</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34122</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "605522", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/62/35/62356008fce57ad604cc008a084feb451large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "San Francisco, California",
+      "Title": "\u201cOne of many small hotels in the area\u201d",
+      "Author": "dbcme",
+      "ReviewID": "UR119463153",
+      "Content": "reviews hotel tripadvisor heres real scoop true typical nyc hotel thin walls doubt unless stuck crazy neighbors probably ok neighbor occasionally scream assume bad dreams docked hotel beds standard write home sufficient day walking city staff friendly varying levels english speaking hospitable actually owner hotel welcoming stay dare grumpy breakfast top level enclosed includes cheeses meats pastries variety spreads apple tea coffee included nice view location excellent sight seeing blue mosque nearby grand bazaar station restaurants hop skip jump hotel tip ride ist airport 90 minute ride including transfer trains bad deal return trip purchase shared bus ride local travel agency hotel overall hotel average hotels surrounding homework consider provides decent stay relatively price location excellent sightseeing note prayers 5x day ist proximity mosques hotel mean 6am prayers broadcast entire neighborhood hear sleeper prepared 6am wake call hotels nearby speakers",
+      "Date": "2011-10-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Chicago, Illinois",
+      "Title": "\u201cWell located little hotel\u201d",
+      "Author": "Doreen3",
+      "ReviewID": "UR90481550",
+      "Content": "boyfriend experience hotel staff ibrahim especially extremely cordial helpful clean breakfast buffet wonderful compared ones weve turkey roof top amazing view city look marmara eat breakfast location explore istanbuls sultanahmet sites youre spending time european pretty walk stay closer golden horn",
+      "Date": "2010-12-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "UK",
+      "Title": "\u201cmediocre\u201d",
+      "Author": "SGHS",
+      "ReviewID": "UR77129099",
+      "Content": "clean positioned sultanahmet sites able walk district evenings undisturbed apart routine istanbul touting excessive pleasant staff prepare difference advertised price special offers front desk arrival banter cash cards lethargic receipt return assumed tip chance option change definitely frills bring own mini toiletries etc meals ho hum",
+      "Date": "2010-08-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bucharest, Romania",
+      "Title": "\u201cGreat neighborhood\u201d",
+      "Author": "E_PETRE",
+      "ReviewID": "UR69201678",
+      "Content": "stayed 4 days hotel istanbul time hotel time hotel perfect location visiting city walking distance hotel situated quiet neighborhood near blue mosque aya sofia museum topkapi service excellent staff friendly especially staff help directions guides tours comfortable cleanliness excellent breakfast level hotels weve visited restaurant roof special beautiful view bosporus town recommend",
+      "Date": "2010-06-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cGREAT rooftop RESTAURANT; GREAT HOTEL\u201d",
+      "Author": "fernandou",
+      "ReviewID": "UR68395797",
+      "Content": "wife stayed 7 nights hotel hotel perfect location visiting city walking little hotelthe service excellent staff help directions guides tours morethe quiet breakfast receptionist waiter murat provided advices sightseeings restaurants cafes recomendations found smart guy murat smiling excelllent blue mosque hagia sophia topkapi palace grand bazaar basilica cistern hippodrome spice bazaar walking distancei dont ive met kinder staffthe family run hotel offers 15 comfortable cleanliness excellent",
+      "Date": "2010-06-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Abella Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d605522-Reviews-Abella_Hotel-Istanbul.html",
+    "Price": "$62 - $133*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kucuk Ayasofya cd No 37</span> | <span class=\"extended-address\">Sultanahmet</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34122</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "605522",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/62/35/62356008fce57ad604cc008a084feb451large.jpg"
+  }
+}

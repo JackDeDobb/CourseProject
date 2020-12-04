@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Beirut, Lebanon", "Title": "\u201cNot Good - Avoid!\u201d", "Author": "JadSawaya", "ReviewID": "UR96124392", "Content": "istanbul wife wedding anniversary december 2010 arrived 2pm hotel waited lobby approximately 3 hours waiting werent offered drinks attention prepared 7th floor waiting ones follow reception mention 2 girls arrived sat waiting russians girls receptionist short guy combed hair started smiling talking key calling friend join scene argue receptionist wait additional half hour corner 11th floor 7th floor stating hotel corner half size normal friends met istanbul surprise guess 7th supposed ours russians instead receptionist liar rude added booked 5 night stay marmara taksim hotel including breakfast via expedia despite statement vouchers receptionist manager via phone call insisted breakfast offered wasnt system argued waste time manners paying breakfast 2 times 20 euros person 200 euros trip marmara taksim hotel lucky package booked via expedia nonrefundable else simply left hotel booked breakfast bit poor supposed 10am 11am pardon remembering hour comes remove food buffet people breakfast travel lot seeing shocked coming supposed restaurant breakfast remove food saving food day idea hotel location", "Date": "2011-02-10 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Dublin", "Title": "\u201cKeep far away\u201d", "Author": "marky1976", "ReviewID": "UR85150168", "Content": "hotel location waste money stayed 25 28 october advertised 4 star doesnt qualify 2 star hotel teacoffee warned dont accept debit dirty furniture bad joke thats dont waste hard earned money try moss", "Date": "2010-10-28 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "North of London", "Title": "\u201cGreat location\u201d", "Author": "BerkoBoy88", "ReviewID": "UR72875116", "Content": "location perfect requested quiet overlooking bosphorus told noisy front overlooking square job noisy front clean tidy breakfast adequate british standards definitely 4 hotel experienced travellers assure 3 hotel reasons uk travellers coffeetea facilities plugs hand wash basin bath impossible wishing bath shower internet facility broke days television satellite", "Date": "2010-07-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Egypt", "Title": "\u201cNice Stay Good Staff\u201d", "Author": "GoldskyEgypt", "ReviewID": "UR61640633", "Content": "nice hotel perfect location quiet reasonable clean bathroom nice clean breakfast hotel staff front office rest staff helpful polite persons hotels stay comfortable pleasant thanks management", "Date": "2010-04-16 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "New York", "Title": "\u201cok\u201d", "Author": "pcc10", "ReviewID": "UR57098868", "Content": "hotel clean comfortablewe view water front desk people friendly helpful book view square people traveling awake night noise outside", "Date": "2010-02-25 00:00:00"}], "HotelInfo": {"Name": "Taksim Square Hotel", "HotelURL": "/ShowUserReviews-g293974-d295054-Reviews-Taksim_Square_Hotel-Istanbul.html", "Price": "$70 - $120*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Siraselviler Cad No 15</span> | <span class=\"extended-address\">Taksim</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34340</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "295054", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Beirut, Lebanon",
+      "Title": "\u201cNot Good - Avoid!\u201d",
+      "Author": "JadSawaya",
+      "ReviewID": "UR96124392",
+      "Content": "istanbul wife wedding anniversary december 2010 arrived 2pm hotel waited lobby approximately 3 hours waiting werent offered drinks attention prepared 7th floor waiting ones follow reception mention 2 girls arrived sat waiting russians girls receptionist short guy combed hair started smiling talking key calling friend join scene argue receptionist wait additional half hour corner 11th floor 7th floor stating hotel corner half size normal friends met istanbul surprise guess 7th supposed ours russians instead receptionist liar rude added booked 5 night stay marmara taksim hotel including breakfast via expedia despite statement vouchers receptionist manager via phone call insisted breakfast offered wasnt system argued waste time manners paying breakfast 2 times 20 euros person 200 euros trip marmara taksim hotel lucky package booked via expedia nonrefundable else simply left hotel booked breakfast bit poor supposed 10am 11am pardon remembering hour comes remove food buffet people breakfast travel lot seeing shocked coming supposed restaurant breakfast remove food saving food day idea hotel location",
+      "Date": "2011-02-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dublin",
+      "Title": "\u201cKeep far away\u201d",
+      "Author": "marky1976",
+      "ReviewID": "UR85150168",
+      "Content": "hotel location waste money stayed 25 28 october advertised 4 star doesnt qualify 2 star hotel teacoffee warned dont accept debit dirty furniture bad joke thats dont waste hard earned money try moss",
+      "Date": "2010-10-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "North of London",
+      "Title": "\u201cGreat location\u201d",
+      "Author": "BerkoBoy88",
+      "ReviewID": "UR72875116",
+      "Content": "location perfect requested quiet overlooking bosphorus told noisy front overlooking square job noisy front clean tidy breakfast adequate british standards definitely 4 hotel experienced travellers assure 3 hotel reasons uk travellers coffeetea facilities plugs hand wash basin bath impossible wishing bath shower internet facility broke days television satellite",
+      "Date": "2010-07-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Egypt",
+      "Title": "\u201cNice Stay Good Staff\u201d",
+      "Author": "GoldskyEgypt",
+      "ReviewID": "UR61640633",
+      "Content": "nice hotel perfect location quiet reasonable clean bathroom nice clean breakfast hotel staff front office rest staff helpful polite persons hotels stay comfortable pleasant thanks management",
+      "Date": "2010-04-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "New York",
+      "Title": "\u201cok\u201d",
+      "Author": "pcc10",
+      "ReviewID": "UR57098868",
+      "Content": "hotel clean comfortablewe view water front desk people friendly helpful book view square people traveling awake night noise outside",
+      "Date": "2010-02-25 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Taksim Square Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d295054-Reviews-Taksim_Square_Hotel-Istanbul.html",
+    "Price": "$70 - $120*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Siraselviler Cad No 15</span> | <span class=\"extended-address\">Taksim</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34340</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "295054",
+    "ImgURL": ""
+  }
+}

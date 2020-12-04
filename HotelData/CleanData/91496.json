@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "DivaJetSetter", "Title": "\u201cGreat customer service\u201d", "Author": "DivaJetSetter", "ReviewID": "UR125821749", "Content": "husband trip indy tagged booked evening regular added extra evening front desk person nice upgraded whirlpool suite awesome run mill business trip looked cleaned front desk little weird cleaning cart door person cleaning vacuuming hurried finished dont thoroughly cleaned carpet hadnt vacuumed bed perfectly im stay pretty middle range hotels comforter top look window bunch garbage scattered discarded comforter checked blankets clean paper 100 channels direct tv initially fuzzy channels played cord little cleared cry 100 channels tv nice bed comfortable neck issues slept bed pillows provided breakfast decent probably step cold continental offerings oatmeal little muffins cereal bagels bread waffle maker sausage patties premade egg patties hotel husband considered swimming pool didnt look clean looked decided forgo idea hot tub decided try complaints whirlpool pool 20 minutes downtown distance opposite direction bigger selection restaurants fine isnt besides fast food nearby hotel updating future id consider coming little overhaul cleaning", "Date": "2012-03-08 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Muskegon, Michigan", "Title": "\u201cSmall Beds for a spacious room\u201d", "Author": "cberry135", "ReviewID": "UR124968337", "Content": "stayed presidents day weekend double bed suite divider mini fridge microwave couch double beds 32 flat panel hdtv limited selection hd channels accommodate queen beds doubles indoor pool hot tub adequate spectacular self serve free breakfast okay included waffle maker sausage patties hot eggs cereal breads coffee awful business office park else immediate besides gas station fast food joints", "Date": "2012-02-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Louisville, Kentucky", "Title": "\u201cNew Years Getway\u201d", "Author": "KayseN", "ReviewID": "UR91349784", "Content": "getaway friends ring clarion inn suites location close restaurants shopping check quick easy staff helpful suggesting restaurants providing directions chose ricks cafe wonderful seafood pastas salads dining watching sunset experience ricks dont miss trip indy local favorite trader joes upscale friendly wacky grocery sales wine speciality foods ah 2 trips trip fountain square 30 min hotel dinner shelby food allow time reservations duck pin bowling building dont miss people hate bowling disappointment clarion free breakfast observed unused milk poured carton day try mcdonalds street", "Date": "2011-01-01 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Sioux City, IA", "Title": "\u201cGood quality for the price\u201d", "Author": "lynnie_sue203", "ReviewID": "UR86541826", "Content": "hotel night traveling fit perfectly extra sitting upgrade nice extra space didnt hotels crosscountry traveling", "Date": "2010-11-09 00:00:00"}], "HotelInfo": {"Name": "Clarion Inn & Suites Northwest", "HotelURL": "/ShowUserReviews-g37209-d91496-Reviews-Clarion_Inn_Suites_Northwest-Indianapolis_Indiana.html", "Price": "$80 - $103*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">7001 Corporate Dr.</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46278-1938</span></span> </span> </span> </address>", "HotelID": "91496", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/86/ea/86ea4a98244669d82d8a05da8a48f5dd3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "DivaJetSetter",
+      "Title": "\u201cGreat customer service\u201d",
+      "Author": "DivaJetSetter",
+      "ReviewID": "UR125821749",
+      "Content": "husband trip indy tagged booked evening regular added extra evening front desk person nice upgraded whirlpool suite awesome run mill business trip looked cleaned front desk little weird cleaning cart door person cleaning vacuuming hurried finished dont thoroughly cleaned carpet hadnt vacuumed bed perfectly im stay pretty middle range hotels comforter top look window bunch garbage scattered discarded comforter checked blankets clean paper 100 channels direct tv initially fuzzy channels played cord little cleared cry 100 channels tv nice bed comfortable neck issues slept bed pillows provided breakfast decent probably step cold continental offerings oatmeal little muffins cereal bagels bread waffle maker sausage patties premade egg patties hotel husband considered swimming pool didnt look clean looked decided forgo idea hot tub decided try complaints whirlpool pool 20 minutes downtown distance opposite direction bigger selection restaurants fine isnt besides fast food nearby hotel updating future id consider coming little overhaul cleaning",
+      "Date": "2012-03-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Muskegon, Michigan",
+      "Title": "\u201cSmall Beds for a spacious room\u201d",
+      "Author": "cberry135",
+      "ReviewID": "UR124968337",
+      "Content": "stayed presidents day weekend double bed suite divider mini fridge microwave couch double beds 32 flat panel hdtv limited selection hd channels accommodate queen beds doubles indoor pool hot tub adequate spectacular self serve free breakfast okay included waffle maker sausage patties hot eggs cereal breads coffee awful business office park else immediate besides gas station fast food joints",
+      "Date": "2012-02-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Louisville, Kentucky",
+      "Title": "\u201cNew Years Getway\u201d",
+      "Author": "KayseN",
+      "ReviewID": "UR91349784",
+      "Content": "getaway friends ring clarion inn suites location close restaurants shopping check quick easy staff helpful suggesting restaurants providing directions chose ricks cafe wonderful seafood pastas salads dining watching sunset experience ricks dont miss trip indy local favorite trader joes upscale friendly wacky grocery sales wine speciality foods ah 2 trips trip fountain square 30 min hotel dinner shelby food allow time reservations duck pin bowling building dont miss people hate bowling disappointment clarion free breakfast observed unused milk poured carton day try mcdonalds street",
+      "Date": "2011-01-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Sioux City, IA",
+      "Title": "\u201cGood quality for the price\u201d",
+      "Author": "lynnie_sue203",
+      "ReviewID": "UR86541826",
+      "Content": "hotel night traveling fit perfectly extra sitting upgrade nice extra space didnt hotels crosscountry traveling",
+      "Date": "2010-11-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Clarion Inn & Suites Northwest",
+    "HotelURL": "/ShowUserReviews-g37209-d91496-Reviews-Clarion_Inn_Suites_Northwest-Indianapolis_Indiana.html",
+    "Price": "$80 - $103*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">7001 Corporate Dr.</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46278-1938</span></span> </span> </span> </address>",
+    "HotelID": "91496",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/86/ea/86ea4a98244669d82d8a05da8a48f5dd3large.jpg"
+  }
+}

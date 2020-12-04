@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Austria", "Title": "\u201cGood choice\u201d", "Author": "Mumrik", "ReviewID": "UR127551953", "Content": "hotel pricequality ratio inexpensive comparable hotels indeed spend day hotel nicely decorated clean bathroom equipped breakfast included variety benefit friendly personell sound isolation stunningly sleep breakfast course price range expect luxury faults disturbing floor stone similar material makes cold dont forget slippers heating airconditioning noisy double bed actually beds bound bother indeed coffee breakfast watered tasted tea bars hotel coffee leave venice hotel value recommend prefer stay lido", "Date": "2012-04-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Montego Bay, Jamaica", "Title": "\u201cClean, cozy, comfy.\u201d", "Author": "travellingman1352", "ReviewID": "UR125313896", "Content": "located scenic beautiful expensive lido island lagoon venice family run pleasant helpful caring staff stayed 6 days timewe comfortable clean adequate breakfast provided morning morning checked 5 am staff prepared packaged breakfast specially staying venice 4 5 days buy 7 day travel ticket unlimited travel venice water bus eating budget eat venice fraction cost eating lido disappointment villa elevators top floor heavy luggage stay", "Date": "2012-02-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "galway", "Title": "\u201cnicest staff ever\u201d", "Author": "dakimelan", "ReviewID": "UR109516818", "Content": "short stay husband 4 son staff spoke perfect english welcoming loved kids 10 minute bus ride lido bus stops hotel 10 minutes son loved fault pillows thin fault hotel clean lovely location staff feel home recommend hotel returning thanks staff stay memorable", "Date": "2011-05-23 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Benidorm, Spain", "Title": "\u201cLovely Hotel , Great location for peace and quiet\u201d", "Author": "AlicanteCelebrant", "ReviewID": "UR86229822", "Content": "arrived hotel greeted warmly reception staff shown front hotel double bed wardrobe night tables table couple chairs clean standard staff polite breakfast served breakfast usually hotel type price situated quiet lido returning april 2011", "Date": "2010-11-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Belfast", "Title": "\u201cwas ever thing we wanted for to relax and see lido\u201d", "Author": "Seamus&Angela", "ReviewID": "UR82031700", "Content": "hotel lovely location close beach bus door lido town 15 mins boat venice 61 52 44 50 hotel staff cleaned day breakfast", "Date": "2010-10-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Warsaw, Poland", "Title": "\u201csafe haven place in Venice/Lido\u201d", "Author": "adika", "ReviewID": "UR62261449", "Content": "fantastic affordable stay venice incredible view haven rest volcano eruption ladies keeping hotel supportive helpful spent fantastic relaxing time apart travel panic happened europe location perfect travel 30 min vaporetto bus relaxing crowds venice", "Date": "2010-04-23 00:00:00"}], "HotelInfo": {"Name": "Hotel Villa Orio", "HotelURL": "/ShowUserReviews-g187870-d320192-Reviews-Hotel_Villa_Orio-Venice_Veneto.html", "Price": "$69 - $207*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Ca' Rossa 10</span> | <span class=\"extended-address\">Lido Alberoni</span>, <span class=\"locality\"><span property=\"v:postal-code\">30011</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "320192", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2a/3c/2a3c74aeba0eca30acdc787b706330c76large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Austria",
+      "Title": "\u201cGood choice\u201d",
+      "Author": "Mumrik",
+      "ReviewID": "UR127551953",
+      "Content": "hotel pricequality ratio inexpensive comparable hotels indeed spend day hotel nicely decorated clean bathroom equipped breakfast included variety benefit friendly personell sound isolation stunningly sleep breakfast course price range expect luxury faults disturbing floor stone similar material makes cold dont forget slippers heating airconditioning noisy double bed actually beds bound bother indeed coffee breakfast watered tasted tea bars hotel coffee leave venice hotel value recommend prefer stay lido",
+      "Date": "2012-04-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Montego Bay, Jamaica",
+      "Title": "\u201cClean, cozy, comfy.\u201d",
+      "Author": "travellingman1352",
+      "ReviewID": "UR125313896",
+      "Content": "located scenic beautiful expensive lido island lagoon venice family run pleasant helpful caring staff stayed 6 days timewe comfortable clean adequate breakfast provided morning morning checked 5 am staff prepared packaged breakfast specially staying venice 4 5 days buy 7 day travel ticket unlimited travel venice water bus eating budget eat venice fraction cost eating lido disappointment villa elevators top floor heavy luggage stay",
+      "Date": "2012-02-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "galway",
+      "Title": "\u201cnicest staff ever\u201d",
+      "Author": "dakimelan",
+      "ReviewID": "UR109516818",
+      "Content": "short stay husband 4 son staff spoke perfect english welcoming loved kids 10 minute bus ride lido bus stops hotel 10 minutes son loved fault pillows thin fault hotel clean lovely location staff feel home recommend hotel returning thanks staff stay memorable",
+      "Date": "2011-05-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Benidorm, Spain",
+      "Title": "\u201cLovely Hotel , Great location for peace and quiet\u201d",
+      "Author": "AlicanteCelebrant",
+      "ReviewID": "UR86229822",
+      "Content": "arrived hotel greeted warmly reception staff shown front hotel double bed wardrobe night tables table couple chairs clean standard staff polite breakfast served breakfast usually hotel type price situated quiet lido returning april 2011",
+      "Date": "2010-11-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Belfast",
+      "Title": "\u201cwas ever thing we wanted for to relax and see lido\u201d",
+      "Author": "Seamus&Angela",
+      "ReviewID": "UR82031700",
+      "Content": "hotel lovely location close beach bus door lido town 15 mins boat venice 61 52 44 50 hotel staff cleaned day breakfast",
+      "Date": "2010-10-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Warsaw, Poland",
+      "Title": "\u201csafe haven place in Venice/Lido\u201d",
+      "Author": "adika",
+      "ReviewID": "UR62261449",
+      "Content": "fantastic affordable stay venice incredible view haven rest volcano eruption ladies keeping hotel supportive helpful spent fantastic relaxing time apart travel panic happened europe location perfect travel 30 min vaporetto bus relaxing crowds venice",
+      "Date": "2010-04-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Villa Orio",
+    "HotelURL": "/ShowUserReviews-g187870-d320192-Reviews-Hotel_Villa_Orio-Venice_Veneto.html",
+    "Price": "$69 - $207*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Ca' Rossa 10</span> | <span class=\"extended-address\">Lido Alberoni</span>, <span class=\"locality\"><span property=\"v:postal-code\">30011</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "320192",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2a/3c/2a3c74aeba0eca30acdc787b706330c76large.jpg"
+  }
+}

@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Valletta, Malta", "Title": "\u201cA hotel you immediately fall in love with\u2026\u201d", "Author": "Hillbillycat", "ReviewID": "UR124699958", "Content": "hotel loads charm location bars restaurants premises lounge perfect entertainment quick dinner laptop home house look feel english club updated requirements 21st century care details truly hotel stand rest london standards feel homely complaint staff service doesn\u2019t live expect price budget hard claim maximum value money demands service ie type person hotel bad review wait 3 min check defiantly try home house initial passion left notice isn\u2019t perfect stay", "Date": "2012-02-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "London", "Title": "\u201cHome House exceeded all expectations!\u201d", "Author": "JErikssonLondon", "ReviewID": "UR124257111", "Content": "pleasure invited home house friday friend architectural masterpiece arrived 7pm casual drinks bison bar atmosphere top crowd ecclectic vibe night cocktails delicious especially delight highly recommend service attentive polite firendly expect private club visit house soon mind simply sublime", "Date": "2012-02-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Amsterdam", "Title": "\u201cA different experience\u201d", "Author": "Artmiks", "ReviewID": "UR118836246", "Content": "home house centre london close oxford street reputation classy chique rich famous pity attracts double amount wannabes makes wonder membership worth definitely stop people gazing salons pictures home house bit short staff extremely friendly time eager finger waving hand noticed money wise getting drunk average \u00a312 glass wine diet wallet true house beautiful thats outdated thats sleep hoping spa bathroom ac slept duke suite third floor front fantastic autumn weekend sweet daytime temperature night colder duke suite huge covers third front building vestibule sitting bed bath grandeur waking pride prejudice hate leave expectations home enjoy funniest london inside youre london society weekend lifetime experience 5 star hotel verdict id it\u2019s", "Date": "2011-10-02 00:00:00"}], "HotelInfo": {"Name": "Home House", "HotelURL": "/ShowUserReviews-g186338-d243375-Reviews-Home_House-London_England.html", "Price": "0", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">20 Portman Square</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">W1H 6LN</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>", "HotelID": "243375", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/28/ba/ac/the-etruscan-room.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Valletta, Malta",
+      "Title": "\u201cA hotel you immediately fall in love with\u2026\u201d",
+      "Author": "Hillbillycat",
+      "ReviewID": "UR124699958",
+      "Content": "hotel loads charm location bars restaurants premises lounge perfect entertainment quick dinner laptop home house look feel english club updated requirements 21st century care details truly hotel stand rest london standards feel homely complaint staff service doesn\u2019t live expect price budget hard claim maximum value money demands service ie type person hotel bad review wait 3 min check defiantly try home house initial passion left notice isn\u2019t perfect stay",
+      "Date": "2012-02-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cHome House exceeded all expectations!\u201d",
+      "Author": "JErikssonLondon",
+      "ReviewID": "UR124257111",
+      "Content": "pleasure invited home house friday friend architectural masterpiece arrived 7pm casual drinks bison bar atmosphere top crowd ecclectic vibe night cocktails delicious especially delight highly recommend service attentive polite firendly expect private club visit house soon mind simply sublime",
+      "Date": "2012-02-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Amsterdam",
+      "Title": "\u201cA different experience\u201d",
+      "Author": "Artmiks",
+      "ReviewID": "UR118836246",
+      "Content": "home house centre london close oxford street reputation classy chique rich famous pity attracts double amount wannabes makes wonder membership worth definitely stop people gazing salons pictures home house bit short staff extremely friendly time eager finger waving hand noticed money wise getting drunk average \u00a312 glass wine diet wallet true house beautiful thats outdated thats sleep hoping spa bathroom ac slept duke suite third floor front fantastic autumn weekend sweet daytime temperature night colder duke suite huge covers third front building vestibule sitting bed bath grandeur waking pride prejudice hate leave expectations home enjoy funniest london inside youre london society weekend lifetime experience 5 star hotel verdict id it\u2019s",
+      "Date": "2011-10-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Home House",
+    "HotelURL": "/ShowUserReviews-g186338-d243375-Reviews-Home_House-London_England.html",
+    "Price": "0",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">20 Portman Square</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">W1H 6LN</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>",
+    "HotelID": "243375",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/28/ba/ac/the-etruscan-room.jpg"
+  }
+}

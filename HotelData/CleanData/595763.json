@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Pune", "Title": "\u201cGood Place to stay long period\u201d", "Author": "Master11", "ReviewID": "UR86189893", "Content": "stayed couple months business trip preferred nature stay term kitchen security allow visitor registration free internet swiming pool gym people living asia furnished apartments time chicago", "Date": "2010-11-06 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Winnipeg, Canada", "Title": "\u201cAcceptable accomodations for the price.\u201d", "Author": "Hobbes2007", "ReviewID": "UR84464490", "Content": "nth visit chicago wife try stay hotels apartments time wife flew friday oct 8th spend couple nights 6 girlfriends stayed 2 apartments lincoln park followed 2 days marathon sunday cab ohare downtown traffic marathon presidential towers complex west madison spans jefferson clinton blocks stayed tower 3 run habitat corporate suites called dog tower obviously guests pets tower 3 furnished towers 1 2 managed owner entire complex units leases towers tall unattractive reception desk usually staffed phone summon staffer processed immediately professional male staffer minutes paperwork including city map preprepared envelope 2 keys swipe cards apartment lobby undergoing renovation aisles hallways reasonably clean 34 security controlling hallways leading access elevators swipe card 4 fast quiet elevators 35th floor hallway clean plain apt ample livingdining decentsized kitchenette bdrm livingdining ceilingtofloor glass walls facing nw city aside usual ceiling lights 5 lamps 2 bulbs 3rd busted bulb called following morning lamps condition returned afternoon kitchen fridgefreezer dw complement utensils potspans china glassware walkin storage closet beside main entry bath decentlysized clean usual set towels soapshampoo water pressure needlessly strong lowflow heads conserve water furniture soso 3star hotel queen bed comfortable street noise esp sirens evident 35th walls insulated 2nd night hear guy door watching sports event fullyequipped fitness center run independent enterprise guests habitat entitled free center inhouse restaurant coffee shop corner towers handful shops incl mcdonalds tower metra line located building 200 meters towers train usual seafood fix bob wheeling trains packed marathon participants leaving city mag mile shopsrestaurants walk pleasant reasonably health summary decent memorable paid 165night below usual hotel rates downtown", "Date": "2010-10-22 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Bangalore", "Title": "\u201cElegant, Comfortable and the best view of the downtown\u201d", "Author": "travelarounddaworld", "ReviewID": "UR68383858", "Content": "chicago business visit company booked presidential towers hotel looks imposing bang centre downtown allotted 27th floor awesome view expressway studio apartment comfortable amenities stay living tv kitchen cooking range sufficient cook entire tour apart supermarket lot shops basement wonderful thai restaurant hit weekends service entire studio cleaned daily basis pay washing facility basement cause concern security bring guests lot security checks coming accompanying otherwise facility top class view downtown awesome access city", "Date": "2010-06-23 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "West Lafayette, Indiana", "Title": "\u201cGreat Place at a Great Price, No Problems\u201d", "Author": "Boilers0809", "ReviewID": "UR65194119", "Content": "stayed night arrived noon reservation checkin 5pm available 35th floor facing west view clean television cable fine couldnt happier hope stay time town", "Date": "2010-05-24 00:00:00"}], "HotelInfo": {"Name": "Habitat Corporate Suites at Presidential Towers", "HotelURL": "/ShowUserReviews-g35805-d595763-Reviews-Habitat_Corporate_Suites_at_Presidential_Towers-Chicago_Illinois.html", "Price": "$208 - $212*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">555 West Madison St.</span>, <span class=\"locality\"><span property=\"v:locality\">Chicago</span>, <span property=\"v:region\">IL</span> <span property=\"v:postal-code\">60661</span></span> </span> </span> </address>", "HotelID": "595763", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/15/f6/15f6cb9b96a1224151cd6a3b790f90c63large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Pune",
+      "Title": "\u201cGood Place to stay long period\u201d",
+      "Author": "Master11",
+      "ReviewID": "UR86189893",
+      "Content": "stayed couple months business trip preferred nature stay term kitchen security allow visitor registration free internet swiming pool gym people living asia furnished apartments time chicago",
+      "Date": "2010-11-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Winnipeg, Canada",
+      "Title": "\u201cAcceptable accomodations for the price.\u201d",
+      "Author": "Hobbes2007",
+      "ReviewID": "UR84464490",
+      "Content": "nth visit chicago wife try stay hotels apartments time wife flew friday oct 8th spend couple nights 6 girlfriends stayed 2 apartments lincoln park followed 2 days marathon sunday cab ohare downtown traffic marathon presidential towers complex west madison spans jefferson clinton blocks stayed tower 3 run habitat corporate suites called dog tower obviously guests pets tower 3 furnished towers 1 2 managed owner entire complex units leases towers tall unattractive reception desk usually staffed phone summon staffer processed immediately professional male staffer minutes paperwork including city map preprepared envelope 2 keys swipe cards apartment lobby undergoing renovation aisles hallways reasonably clean 34 security controlling hallways leading access elevators swipe card 4 fast quiet elevators 35th floor hallway clean plain apt ample livingdining decentsized kitchenette bdrm livingdining ceilingtofloor glass walls facing nw city aside usual ceiling lights 5 lamps 2 bulbs 3rd busted bulb called following morning lamps condition returned afternoon kitchen fridgefreezer dw complement utensils potspans china glassware walkin storage closet beside main entry bath decentlysized clean usual set towels soapshampoo water pressure needlessly strong lowflow heads conserve water furniture soso 3star hotel queen bed comfortable street noise esp sirens evident 35th walls insulated 2nd night hear guy door watching sports event fullyequipped fitness center run independent enterprise guests habitat entitled free center inhouse restaurant coffee shop corner towers handful shops incl mcdonalds tower metra line located building 200 meters towers train usual seafood fix bob wheeling trains packed marathon participants leaving city mag mile shopsrestaurants walk pleasant reasonably health summary decent memorable paid 165night below usual hotel rates downtown",
+      "Date": "2010-10-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bangalore",
+      "Title": "\u201cElegant, Comfortable and the best view of the downtown\u201d",
+      "Author": "travelarounddaworld",
+      "ReviewID": "UR68383858",
+      "Content": "chicago business visit company booked presidential towers hotel looks imposing bang centre downtown allotted 27th floor awesome view expressway studio apartment comfortable amenities stay living tv kitchen cooking range sufficient cook entire tour apart supermarket lot shops basement wonderful thai restaurant hit weekends service entire studio cleaned daily basis pay washing facility basement cause concern security bring guests lot security checks coming accompanying otherwise facility top class view downtown awesome access city",
+      "Date": "2010-06-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "West Lafayette, Indiana",
+      "Title": "\u201cGreat Place at a Great Price, No Problems\u201d",
+      "Author": "Boilers0809",
+      "ReviewID": "UR65194119",
+      "Content": "stayed night arrived noon reservation checkin 5pm available 35th floor facing west view clean television cable fine couldnt happier hope stay time town",
+      "Date": "2010-05-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Habitat Corporate Suites at Presidential Towers",
+    "HotelURL": "/ShowUserReviews-g35805-d595763-Reviews-Habitat_Corporate_Suites_at_Presidential_Towers-Chicago_Illinois.html",
+    "Price": "$208 - $212*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">555 West Madison St.</span>, <span class=\"locality\"><span property=\"v:locality\">Chicago</span>, <span property=\"v:region\">IL</span> <span property=\"v:postal-code\">60661</span></span> </span> </span> </address>",
+    "HotelID": "595763",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/15/f6/15f6cb9b96a1224151cd6a3b790f90c63large.jpg"
+  }
+}

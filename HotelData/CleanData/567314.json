@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cOk if paying up to 60E per night otherwise give this place a miss\u201d", "Author": "DalissMelbourne", "ReviewID": "UR56629751", "Content": "overall hotel average stayed studio suite reception manned dont count tourist info help hand bathroom tiny clean paying studio suite value dont bother suites advertised self catering meant 2 tiny electric hotplates pans provided sooooo bad condition cooking boiled egg impossible locations ok 10 min walk vatican entrance 5 mins buses wil termini train station centre rome colosseum etc walk steep stairs nearest metro station staying bus metro", "Date": "2010-02-21 00:00:00"}], "HotelInfo": {"Name": "Vatican Suites", "HotelURL": "/ShowUserReviews-g187791-d567314-Reviews-Vatican_Suites-Rome_Lazio.html", "Price": "$79 - $185*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via degli Scipioni, 121 4/C</span>, <span class=\"locality\"><span property=\"v:postal-code\">00192</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "567314", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/9d/fe/9dfe5eb5917d1f48d90e9664b256ff2787large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cOk if paying up to 60E per night otherwise give this place a miss\u201d",
+      "Author": "DalissMelbourne",
+      "ReviewID": "UR56629751",
+      "Content": "overall hotel average stayed studio suite reception manned dont count tourist info help hand bathroom tiny clean paying studio suite value dont bother suites advertised self catering meant 2 tiny electric hotplates pans provided sooooo bad condition cooking boiled egg impossible locations ok 10 min walk vatican entrance 5 mins buses wil termini train station centre rome colosseum etc walk steep stairs nearest metro station staying bus metro",
+      "Date": "2010-02-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Vatican Suites",
+    "HotelURL": "/ShowUserReviews-g187791-d567314-Reviews-Vatican_Suites-Rome_Lazio.html",
+    "Price": "$79 - $185*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via degli Scipioni, 121 4/C</span>, <span class=\"locality\"><span property=\"v:postal-code\">00192</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "567314",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/9d/fe/9dfe5eb5917d1f48d90e9664b256ff2787large.jpg"
+  }
+}

@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "cochise county", "Title": "\u201cNice Place, Nice People = Nice Stay\u201d", "Author": "retdeltee", "ReviewID": "UR128208029", "Content": "stayed dime travel kinda hard 17 time easy pleasent staff breakfast included pool spa quiet 2 highways outside clean housekeeping nice bedding plenty pillows 1 pervasive complaint 10 staying ac drive cold max hope prob shades filters easy care id stay", "Date": "2012-04-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Sierra Vista", "Title": "\u201cClean, good breakfast, but weird location!\u201d", "Author": "EMD1022", "ReviewID": "UR127842428", "Content": "mixed feelings hotel stand upgraded carpet furnishings clean breakfast free usa newspaper friendly staff answered questions dont access issues getting hotel parking lot exit parking lot head east bell road due traffic traffic lights west risks heavy traffic price affordable parking ample dont park spaces marked neighboring car rental business parking decal windshield ensure wont towed park hotel drive past frontage road hard drive front door hotel hotel quiet airplanes flying overhead day didnt hear night white noise created air conditioner drowned noise heard slept return hotel", "Date": "2012-04-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Los Angeles", "Title": "\u201cA Good Place\u201d", "Author": "CallerDale", "ReviewID": "UR126590108", "Content": "stayed spring training season price clean comfortable property maintained staff nice available little request accommodating definitely stay recommend friends", "Date": "2012-03-24 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "North Las Vegas", "Title": "\u201cDont waste your money! Stay somewhere else!\u201d", "Author": "Yvonne C", "ReviewID": "UR125315255", "Content": "worst hotel stayed location disgrace marriott chain hotel dirty elevator doesnt look cleaned vacuumed sheets bed dirty set flat sheets course sheets werent changed following day husband forgot phone chargers iphone blackberry course found dump disappear customer service terrible called chargers typically marriott properties safe bet stay terrible", "Date": "2012-02-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Nashville, Tennessee", "Title": "\u201cEXCELLENT Staff!\u201d", "Author": "RogueWorldTraveler", "ReviewID": "UR119281181", "Content": "stayed pheonix time 7day business trip hotel clean appear redone past 1218 months bed comfortable quiet property light rail hotels free shuttle staff shifts departments smiles time service ive received twice price handicap accessible adjoining door explained dont adjoining clothing rack low clothes hang touching floor changed smile ride convention center minute dangerous scary view speak burgerking ihop cooking smell outside surprising clean downside excersice clean 2 treadmills elliptical weight machine offered limited options lat pulls etc", "Date": "2011-10-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Tulsa", "Title": "\u201cFive-star Staff\u201d", "Author": "Travlprincess", "ReviewID": "UR88113917", "Content": "opportunity arose spend little time phoenix fiance stationed outofstate oneday task assignment luke air force base scrambled flight lastminute stay selected particular hotel trust marriott properties fairfield inn phoenix north conveniently located base phoenix explore 24 hours arrived earlier anticipated sue assistant gm welcomed family lengths ensure check checkin time im housekeeping staff measure trouble professionalism charming personality kept feeling inconvenienced reading reviews commented property town travel extensively travel industry resort tourist didnt bad ive definitely stayed worse locations nicest resorts plagued vandalism practice leave valuables vehicle matter hotel located sight i17 bell road safe walking nearby applebees dusk waiting fiance arrive stay proved exceptional clean quiet complimentary breakfast friendly helpful staff amenities expects marriott property", "Date": "2010-11-24 00:00:00"}], "HotelInfo": {"Name": "Fairfield Inn Phoenix North", "HotelURL": "/ShowUserReviews-g31310-d74805-Reviews-Fairfield_Inn_Phoenix_North-Phoenix_Arizona.html", "Price": "$51 - $123*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">17017 N. Black Canyon Highway</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85023</span></span> </span></span></address>", "HotelID": "74805", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c9/c0/c9c0d22291990a31d90ca218c31d2d1c4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "cochise county",
+      "Title": "\u201cNice Place, Nice People = Nice Stay\u201d",
+      "Author": "retdeltee",
+      "ReviewID": "UR128208029",
+      "Content": "stayed dime travel kinda hard 17 time easy pleasent staff breakfast included pool spa quiet 2 highways outside clean housekeeping nice bedding plenty pillows 1 pervasive complaint 10 staying ac drive cold max hope prob shades filters easy care id stay",
+      "Date": "2012-04-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Sierra Vista",
+      "Title": "\u201cClean, good breakfast, but weird location!\u201d",
+      "Author": "EMD1022",
+      "ReviewID": "UR127842428",
+      "Content": "mixed feelings hotel stand upgraded carpet furnishings clean breakfast free usa newspaper friendly staff answered questions dont access issues getting hotel parking lot exit parking lot head east bell road due traffic traffic lights west risks heavy traffic price affordable parking ample dont park spaces marked neighboring car rental business parking decal windshield ensure wont towed park hotel drive past frontage road hard drive front door hotel hotel quiet airplanes flying overhead day didnt hear night white noise created air conditioner drowned noise heard slept return hotel",
+      "Date": "2012-04-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Los Angeles",
+      "Title": "\u201cA Good Place\u201d",
+      "Author": "CallerDale",
+      "ReviewID": "UR126590108",
+      "Content": "stayed spring training season price clean comfortable property maintained staff nice available little request accommodating definitely stay recommend friends",
+      "Date": "2012-03-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "North Las Vegas",
+      "Title": "\u201cDont waste your money! Stay somewhere else!\u201d",
+      "Author": "Yvonne C",
+      "ReviewID": "UR125315255",
+      "Content": "worst hotel stayed location disgrace marriott chain hotel dirty elevator doesnt look cleaned vacuumed sheets bed dirty set flat sheets course sheets werent changed following day husband forgot phone chargers iphone blackberry course found dump disappear customer service terrible called chargers typically marriott properties safe bet stay terrible",
+      "Date": "2012-02-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Nashville, Tennessee",
+      "Title": "\u201cEXCELLENT Staff!\u201d",
+      "Author": "RogueWorldTraveler",
+      "ReviewID": "UR119281181",
+      "Content": "stayed pheonix time 7day business trip hotel clean appear redone past 1218 months bed comfortable quiet property light rail hotels free shuttle staff shifts departments smiles time service ive received twice price handicap accessible adjoining door explained dont adjoining clothing rack low clothes hang touching floor changed smile ride convention center minute dangerous scary view speak burgerking ihop cooking smell outside surprising clean downside excersice clean 2 treadmills elliptical weight machine offered limited options lat pulls etc",
+      "Date": "2011-10-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Tulsa",
+      "Title": "\u201cFive-star Staff\u201d",
+      "Author": "Travlprincess",
+      "ReviewID": "UR88113917",
+      "Content": "opportunity arose spend little time phoenix fiance stationed outofstate oneday task assignment luke air force base scrambled flight lastminute stay selected particular hotel trust marriott properties fairfield inn phoenix north conveniently located base phoenix explore 24 hours arrived earlier anticipated sue assistant gm welcomed family lengths ensure check checkin time im housekeeping staff measure trouble professionalism charming personality kept feeling inconvenienced reading reviews commented property town travel extensively travel industry resort tourist didnt bad ive definitely stayed worse locations nicest resorts plagued vandalism practice leave valuables vehicle matter hotel located sight i17 bell road safe walking nearby applebees dusk waiting fiance arrive stay proved exceptional clean quiet complimentary breakfast friendly helpful staff amenities expects marriott property",
+      "Date": "2010-11-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Fairfield Inn Phoenix North",
+    "HotelURL": "/ShowUserReviews-g31310-d74805-Reviews-Fairfield_Inn_Phoenix_North-Phoenix_Arizona.html",
+    "Price": "$51 - $123*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">17017 N. Black Canyon Highway</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85023</span></span> </span></span></address>",
+    "HotelID": "74805",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c9/c0/c9c0d22291990a31d90ca218c31d2d1c4large.jpg"
+  }
+}

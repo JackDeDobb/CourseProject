@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Baltimore, MD", "Title": "\u201cLocation Location Location\u201d", "Author": "Pamela T", "ReviewID": "UR138338590", "Content": "stayed ywca anne black guest house kowloon basic furniture adequate worn facility clean ambiance speak surrounding streets busy noisy night bed hard blinds bent clean wash basin television air conditioning toiletries guest booklet helpful information linens included washcloths towels fresh womens toilet shower locked clean shared bathroom traumatic hotel public internet laundry machines fee pay phone adjacent cafe building short steep hill wheelchair accessible block buses including traveler victoria harbor star ferry shopping includes westernstyle grocery store hotels restaurants westerners ate bused shopped locals asian guests walking distance tight narrow streets filled neon signs street vendors post office mcdonalds nathan road discount card adjacent cafe breakfast plan facility front desk personnel spoke english efficient airport shuttle left except hard bed happy stay recommend anne black adjoining cafe experience experience asia time adequate english support westerners", "Date": "2012-08-25 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Michigan", "Title": "\u201cYWCA, Hong Kong, China\u201d", "Author": "rsp103", "ReviewID": "UR129896574", "Content": "ywca hong kong china supplies bath towels hand towels wash cloths ac housekeeping cleans hot hotel online reservation stating bathroom share surprised meant customers 14 traveling companion paying extra didnt share bathroom floor paint peeling ceiling laid bed positive location", "Date": "2012-05-14 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cHong kong secret\u201d", "Author": "jchc79", "ReviewID": "UR127051076", "Content": "staying 5 nights whilst conference found quiet clean remarkably priced hotel hong kong perspective cabs plentiful cost central supermarket door required complaint wifi avaiable lobby costs us12 day expense compared hotels central", "Date": "2012-03-31 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Canada", "Title": "\u201cExcellent, quiet, friendly, inexpensive\u201d", "Author": "solotravellerCanada", "ReviewID": "UR120241843", "Content": "stayed nights november 2011 clean quiet friendly staff throughout hotel fairly kept property taxi ride central station downtown hkg 23 usd 3 taxi essential hotel steep uphill climb otherwise breakfast buffet wide selection asian western breakfast offerings internet usd 5 day sluggish complaint internet service cable ethernet bring own cable staff front desk loan excellent value location hong kong ill hesitation recommending hotel despite ywca name guests equal mix women", "Date": "2011-11-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Las Vegas", "Title": "\u201cClean and basic nice room\u201d", "Author": "drake63", "ReviewID": "UR118549673", "Content": "centrally located mid level city zoo flower gardens pleasantly surprise offered basic modern convience flat screen tv nice bathroom yes firm bed overall experience location able walk catch cheap cab food market block", "Date": "2011-09-25 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "ahmedabad", "Title": "\u201cit is middle class hotel with good location.\u201d", "Author": "sunnytheking", "ReviewID": "UR62502574", "Content": "dt 10 oct 2009 seen hotel location tripadvisor booked hotel location hotel rate compared hotel rate situated ventilation hostel common bathroom facilities medium services normal", "Date": "2010-04-26 00:00:00"}], "HotelInfo": {"Name": "YWCA Building", "HotelURL": "/ShowUserReviews-g294217-d558436-Reviews-YWCA_Building-Hong_Kong.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.38C Bonham Road, Mid-Levels</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>", "HotelID": "558436", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/bc/bf/3c/ywca-building-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Baltimore, MD",
+      "Title": "\u201cLocation Location Location\u201d",
+      "Author": "Pamela T",
+      "ReviewID": "UR138338590",
+      "Content": "stayed ywca anne black guest house kowloon basic furniture adequate worn facility clean ambiance speak surrounding streets busy noisy night bed hard blinds bent clean wash basin television air conditioning toiletries guest booklet helpful information linens included washcloths towels fresh womens toilet shower locked clean shared bathroom traumatic hotel public internet laundry machines fee pay phone adjacent cafe building short steep hill wheelchair accessible block buses including traveler victoria harbor star ferry shopping includes westernstyle grocery store hotels restaurants westerners ate bused shopped locals asian guests walking distance tight narrow streets filled neon signs street vendors post office mcdonalds nathan road discount card adjacent cafe breakfast plan facility front desk personnel spoke english efficient airport shuttle left except hard bed happy stay recommend anne black adjoining cafe experience experience asia time adequate english support westerners",
+      "Date": "2012-08-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Michigan",
+      "Title": "\u201cYWCA, Hong Kong, China\u201d",
+      "Author": "rsp103",
+      "ReviewID": "UR129896574",
+      "Content": "ywca hong kong china supplies bath towels hand towels wash cloths ac housekeeping cleans hot hotel online reservation stating bathroom share surprised meant customers 14 traveling companion paying extra didnt share bathroom floor paint peeling ceiling laid bed positive location",
+      "Date": "2012-05-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cHong kong secret\u201d",
+      "Author": "jchc79",
+      "ReviewID": "UR127051076",
+      "Content": "staying 5 nights whilst conference found quiet clean remarkably priced hotel hong kong perspective cabs plentiful cost central supermarket door required complaint wifi avaiable lobby costs us12 day expense compared hotels central",
+      "Date": "2012-03-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Canada",
+      "Title": "\u201cExcellent, quiet, friendly, inexpensive\u201d",
+      "Author": "solotravellerCanada",
+      "ReviewID": "UR120241843",
+      "Content": "stayed nights november 2011 clean quiet friendly staff throughout hotel fairly kept property taxi ride central station downtown hkg 23 usd 3 taxi essential hotel steep uphill climb otherwise breakfast buffet wide selection asian western breakfast offerings internet usd 5 day sluggish complaint internet service cable ethernet bring own cable staff front desk loan excellent value location hong kong ill hesitation recommending hotel despite ywca name guests equal mix women",
+      "Date": "2011-11-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Las Vegas",
+      "Title": "\u201cClean and basic nice room\u201d",
+      "Author": "drake63",
+      "ReviewID": "UR118549673",
+      "Content": "centrally located mid level city zoo flower gardens pleasantly surprise offered basic modern convience flat screen tv nice bathroom yes firm bed overall experience location able walk catch cheap cab food market block",
+      "Date": "2011-09-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "ahmedabad",
+      "Title": "\u201cit is middle class hotel with good location.\u201d",
+      "Author": "sunnytheking",
+      "ReviewID": "UR62502574",
+      "Content": "dt 10 oct 2009 seen hotel location tripadvisor booked hotel location hotel rate compared hotel rate situated ventilation hostel common bathroom facilities medium services normal",
+      "Date": "2010-04-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "YWCA Building",
+    "HotelURL": "/ShowUserReviews-g294217-d558436-Reviews-YWCA_Building-Hong_Kong.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.38C Bonham Road, Mid-Levels</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>",
+    "HotelID": "558436",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/bc/bf/3c/ywca-building-thumbnail.jpg"
+  }
+}

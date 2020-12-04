@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Funchal, Portugal", "Title": "\u201cFriendly staff!\u201d", "Author": "SandraMSA", "ReviewID": "UR126127978", "Content": "staff friendly helpful hotel cozy clean close transportation facilities breakfast type hotel attention arrive 2200 inform hotel reception service time inconvenience hear noise tram internet wireless hotel recommend", "Date": "2012-03-15 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "", "Title": "\u201ca very nice hotel\u201d", "Author": "gm_goa", "ReviewID": "UR126024150", "Content": "gem hotel booking hrs impressed size ameneties besides centrally located staff helpful comfortable transportation hotel main reason berlin itb travel surely stay time", "Date": "2012-03-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Prague, Czech Republic", "Title": "\u201cNice for New Years in Berlin\u201d", "Author": "Johnathan B", "ReviewID": "UR122278990", "Content": "recommended happy doesnt look outside inside wow hotel middle prenzlauer berg cool hip tons clubs bars restaurants convient public transportation links hotel rest city quickly convienently hotel building little oddly shaped proportioned elegant clean proportioned treat rich buffett begged stay staff snack definitely stay sound tram 247 hotel responsibility night time plus internet", "Date": "2011-12-30 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "San Francisco, California", "Title": "\u201cComfortable and Quiet\u201d", "Author": "Paul7878", "ReviewID": "UR119910406", "Content": "hotel conveniently located tram line stop nearly front hotel fall weather wasnt warm dont building fare hot weather didnt air conditioning wifi lobby sometimes signal upper floors otherwise count lobby reception public close 1000pm wifi night sit stairway hotel sells various transit passes museum passes convenient", "Date": "2011-10-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "", "Title": "\u201cComfortable in a great location\u201d", "Author": "abenteuerwelt", "ReviewID": "UR90904418", "Content": "hotel pension located fun lots shops restaurants staff friendly communicative single top floor comfortable hotel clean prices reasonable charming building history explained hotel brochure definitely stay", "Date": "2010-12-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Norway", "Title": "\u201cA friendly little hotel in a wonderful part of the city.\u201d", "Author": "Norwagabond", "ReviewID": "UR85620668", "Content": "stayed weekend little hotel prenzlauer charming youthful neighborhood lots cool cafes bars staff helpful friendly location fabulous neighborhood youre quiet sacrifice view bathrooms expected star hotel hotel night receptionist electronic key front door breakfast excellent included price espresso apple tart cafe street real gem tip hire bicycle exploring berlin hotel bikes rent", "Date": "2010-11-01 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Houston, Texas", "Title": "\u201cGood location, comfortable accommodation, don't forget to give back your room key!\u201d", "Author": "SiMart71", "ReviewID": "UR84570153", "Content": "found hotel trip advisor location central noisy town staff helpful accommodating extent mistake confirm nonsmoking prior arrival time checked smoking available luckily smelled ok cold windows crack allow air flow flow night traveler warned wont mistake spacious simple clean table chairs hotel offers hard wire internet little archaic offer wireless day age laptop available office fee stay overall satisfactory disappointed bringing suitcases depart partner lady reception leave returning keys greeting morning obvious attempt walk hotel saying request polite manner", "Date": "2010-10-23 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Edinburgh", "Title": "\u201cLovely hotel with helpful staff\u201d", "Author": "Racheybabes31", "ReviewID": "UR81217580", "Content": "husband berlin weekend marathon hotel situated lively district loads types bar restaurant walking distance ubahn underground 5 minute walk main tourist attractions bother bigger expected bathroom power shower heaven running rain double twin beds comfortable didnt breakfast tea coffee facilities kettle cups quickly provided staff friendly helpful", "Date": "2010-09-27 00:00:00"}], "HotelInfo": {"Name": "Hotel Pension Kastanienhof", "HotelURL": "/ShowUserReviews-g187323-d235640-Reviews-Hotel_Pension_Kastanienhof-Berlin.html", "Price": "$89 - $150*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kastanienallee 65</span>, <span class=\"locality\"><span property=\"v:postal-code\">10119</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "235640", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2a/bd/2abdc4638a53485bd889039cb2a821d76large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Funchal, Portugal",
+      "Title": "\u201cFriendly staff!\u201d",
+      "Author": "SandraMSA",
+      "ReviewID": "UR126127978",
+      "Content": "staff friendly helpful hotel cozy clean close transportation facilities breakfast type hotel attention arrive 2200 inform hotel reception service time inconvenience hear noise tram internet wireless hotel recommend",
+      "Date": "2012-03-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201ca very nice hotel\u201d",
+      "Author": "gm_goa",
+      "ReviewID": "UR126024150",
+      "Content": "gem hotel booking hrs impressed size ameneties besides centrally located staff helpful comfortable transportation hotel main reason berlin itb travel surely stay time",
+      "Date": "2012-03-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Prague, Czech Republic",
+      "Title": "\u201cNice for New Years in Berlin\u201d",
+      "Author": "Johnathan B",
+      "ReviewID": "UR122278990",
+      "Content": "recommended happy doesnt look outside inside wow hotel middle prenzlauer berg cool hip tons clubs bars restaurants convient public transportation links hotel rest city quickly convienently hotel building little oddly shaped proportioned elegant clean proportioned treat rich buffett begged stay staff snack definitely stay sound tram 247 hotel responsibility night time plus internet",
+      "Date": "2011-12-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "San Francisco, California",
+      "Title": "\u201cComfortable and Quiet\u201d",
+      "Author": "Paul7878",
+      "ReviewID": "UR119910406",
+      "Content": "hotel conveniently located tram line stop nearly front hotel fall weather wasnt warm dont building fare hot weather didnt air conditioning wifi lobby sometimes signal upper floors otherwise count lobby reception public close 1000pm wifi night sit stairway hotel sells various transit passes museum passes convenient",
+      "Date": "2011-10-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cComfortable in a great location\u201d",
+      "Author": "abenteuerwelt",
+      "ReviewID": "UR90904418",
+      "Content": "hotel pension located fun lots shops restaurants staff friendly communicative single top floor comfortable hotel clean prices reasonable charming building history explained hotel brochure definitely stay",
+      "Date": "2010-12-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Norway",
+      "Title": "\u201cA friendly little hotel in a wonderful part of the city.\u201d",
+      "Author": "Norwagabond",
+      "ReviewID": "UR85620668",
+      "Content": "stayed weekend little hotel prenzlauer charming youthful neighborhood lots cool cafes bars staff helpful friendly location fabulous neighborhood youre quiet sacrifice view bathrooms expected star hotel hotel night receptionist electronic key front door breakfast excellent included price espresso apple tart cafe street real gem tip hire bicycle exploring berlin hotel bikes rent",
+      "Date": "2010-11-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Houston, Texas",
+      "Title": "\u201cGood location, comfortable accommodation, don't forget to give back your room key!\u201d",
+      "Author": "SiMart71",
+      "ReviewID": "UR84570153",
+      "Content": "found hotel trip advisor location central noisy town staff helpful accommodating extent mistake confirm nonsmoking prior arrival time checked smoking available luckily smelled ok cold windows crack allow air flow flow night traveler warned wont mistake spacious simple clean table chairs hotel offers hard wire internet little archaic offer wireless day age laptop available office fee stay overall satisfactory disappointed bringing suitcases depart partner lady reception leave returning keys greeting morning obvious attempt walk hotel saying request polite manner",
+      "Date": "2010-10-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Edinburgh",
+      "Title": "\u201cLovely hotel with helpful staff\u201d",
+      "Author": "Racheybabes31",
+      "ReviewID": "UR81217580",
+      "Content": "husband berlin weekend marathon hotel situated lively district loads types bar restaurant walking distance ubahn underground 5 minute walk main tourist attractions bother bigger expected bathroom power shower heaven running rain double twin beds comfortable didnt breakfast tea coffee facilities kettle cups quickly provided staff friendly helpful",
+      "Date": "2010-09-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Pension Kastanienhof",
+    "HotelURL": "/ShowUserReviews-g187323-d235640-Reviews-Hotel_Pension_Kastanienhof-Berlin.html",
+    "Price": "$89 - $150*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kastanienallee 65</span>, <span class=\"locality\"><span property=\"v:postal-code\">10119</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "235640",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2a/bd/2abdc4638a53485bd889039cb2a821d76large.jpg"
+  }
+}

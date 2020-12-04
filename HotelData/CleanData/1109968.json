@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Auckland, New Zealand", "Title": "\u201cAverage hotel with extremely friendly staff\u201d", "Author": "ruiza", "ReviewID": "UR126884677", "Content": "hotel located red light district main street dont actually hear hustle bustle husband pleasant quiet stay hotel 5 days staff friendly especially reception feel welcome friends guests stayed 8th floor daily cleaning request wont clean dont request tell reception clean time morning clean comfortable cheap comfortable stay singapore welcoming staff consider hotel location excellent near bus stop 2 train stations lots nearby eating choose mini grocery road 24 hrs", "Date": "2012-03-28 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Brisbane, Australia", "Title": "\u201cDont let Red Light District deter you\u201d", "Author": "barbaraanne6", "ReviewID": "UR122894649", "Content": "singapore times paid lots money services 2 star picked happy hotel price locality surprised close shops transport wasnt fourth day found red light district cab driver mind bother am didnt bother trips lass counter helpful persevered trips top street main meal night helping chicken vegs rice s2 bus stop top street singapore cheap", "Date": "2012-01-10 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Cairns, Australia", "Title": "\u201cDO NOT STAY\u201d", "Author": "GMS8855", "ReviewID": "UR119276190", "Content": "stayed monstrous hotel 1 night july 2011 hotel located red light district hotel leases hotel local street prostitutes clients 3 hrs revolving brothel whilst standing front reception personally witnessed client prostitute management dingy nil safe etc highlight sri cleaner provided details city vacate presence hotel stay price experience worth", "Date": "2011-10-13 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Manila", "Title": "\u201cthere's a reason why this is cheap\u201d", "Author": "I_Am_Gretchen", "ReviewID": "UR101454177", "Content": "free wifi speed using mobile 1 page time 4 accessible bus stops goes locations singapore nearest bus stop 2mins taxi abundant location red light district lady receptionists nice indian boy ready smile looks newly renovated male receptionist ive seen request fresh towels taking garbage slammed phone rude taking request 7th floor noisy 2 days stay hot water run checked request housekeeping didnt hotel overnight booking dont storage bad cable reception 15 channels", "Date": "2011-03-24 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cCleanliness down compared with a year ago\u201d", "Author": "KLF_Sydney", "ReviewID": "UR93675561", "Content": "budget hotel otherwise expensive asian city compared ago standard cleanliness dropped bit toilets clean bedlinen dusty pressed cleaners lack hygiene leave brooms clean linen delivery trolley", "Date": "2011-01-18 00:00:00"}], "HotelInfo": {"Name": "Happy Hotel", "HotelURL": "/ShowUserReviews-g294265-d1109968-Reviews-Happy_Hotel-Singapore.html", "Price": "$48 - $58*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">9 Lorong 10 Geylang</span> | <span class=\"extended-address\">Central</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">399042</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>", "HotelID": "1109968", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/bc/2f/96/happy-hotel-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Auckland, New Zealand",
+      "Title": "\u201cAverage hotel with extremely friendly staff\u201d",
+      "Author": "ruiza",
+      "ReviewID": "UR126884677",
+      "Content": "hotel located red light district main street dont actually hear hustle bustle husband pleasant quiet stay hotel 5 days staff friendly especially reception feel welcome friends guests stayed 8th floor daily cleaning request wont clean dont request tell reception clean time morning clean comfortable cheap comfortable stay singapore welcoming staff consider hotel location excellent near bus stop 2 train stations lots nearby eating choose mini grocery road 24 hrs",
+      "Date": "2012-03-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Brisbane, Australia",
+      "Title": "\u201cDont let Red Light District deter you\u201d",
+      "Author": "barbaraanne6",
+      "ReviewID": "UR122894649",
+      "Content": "singapore times paid lots money services 2 star picked happy hotel price locality surprised close shops transport wasnt fourth day found red light district cab driver mind bother am didnt bother trips lass counter helpful persevered trips top street main meal night helping chicken vegs rice s2 bus stop top street singapore cheap",
+      "Date": "2012-01-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Cairns, Australia",
+      "Title": "\u201cDO NOT STAY\u201d",
+      "Author": "GMS8855",
+      "ReviewID": "UR119276190",
+      "Content": "stayed monstrous hotel 1 night july 2011 hotel located red light district hotel leases hotel local street prostitutes clients 3 hrs revolving brothel whilst standing front reception personally witnessed client prostitute management dingy nil safe etc highlight sri cleaner provided details city vacate presence hotel stay price experience worth",
+      "Date": "2011-10-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Manila",
+      "Title": "\u201cthere's a reason why this is cheap\u201d",
+      "Author": "I_Am_Gretchen",
+      "ReviewID": "UR101454177",
+      "Content": "free wifi speed using mobile 1 page time 4 accessible bus stops goes locations singapore nearest bus stop 2mins taxi abundant location red light district lady receptionists nice indian boy ready smile looks newly renovated male receptionist ive seen request fresh towels taking garbage slammed phone rude taking request 7th floor noisy 2 days stay hot water run checked request housekeeping didnt hotel overnight booking dont storage bad cable reception 15 channels",
+      "Date": "2011-03-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cCleanliness down compared with a year ago\u201d",
+      "Author": "KLF_Sydney",
+      "ReviewID": "UR93675561",
+      "Content": "budget hotel otherwise expensive asian city compared ago standard cleanliness dropped bit toilets clean bedlinen dusty pressed cleaners lack hygiene leave brooms clean linen delivery trolley",
+      "Date": "2011-01-18 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Happy Hotel",
+    "HotelURL": "/ShowUserReviews-g294265-d1109968-Reviews-Happy_Hotel-Singapore.html",
+    "Price": "$48 - $58*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">9 Lorong 10 Geylang</span> | <span class=\"extended-address\">Central</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">399042</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>",
+    "HotelID": "1109968",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/bc/2f/96/happy-hotel-thumbnail.jpg"
+  }
+}

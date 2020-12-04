@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "St. Petersburg, Russia", "Title": "\u201cOK if you need it for a short stay\u201d", "Author": "miroma", "ReviewID": "UR123600728", "Content": "chose hotel proximity airport distance easily airport \u2013 bus stops near terminal allee hotel road bus ride takes 15 minutes bus comes ten minutes average spacious desk wardrobe coffee table outdated tv german channels available bathroom shower clean hotel offers free wifi access common german hotels don\u2019t forget password reception breakfast standard quality don\u2019t feel paying 8 euros kitchenette equipped request lidl supermarket couple minutes\u2019 walk 800 pm considered hotel 3 stars ok short stay close airport peace quiet twice book sleep disturbed planes landing taking nearby airport virtually 5 minutes", "Date": "2012-01-25 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "coral gables", "Title": "\u201cThis is NOT at or near the airport!\u201d", "Author": "mbiz", "ReviewID": "UR109091179", "Content": "deceptive name 20 30 minute cab ride tegel airport depending time day obscure neighborhood nearby hotel tour buses mainly slow check free wifi chance sample breakfast relatively spartan price noisy courtyard restaurant bathroom clean par price center 5 euros cab ride airport restaurants shops nearby savvy business travelers avoid", "Date": "2011-05-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "sopot", "Title": "\u201cGood Quality for a reasonable price\u201d", "Author": "anyamarya", "ReviewID": "UR73993159", "Content": "location bus station hotel bus 128 fromto txl 1520 mins stop kurt jump ubahn entire city breakfast extremely loads choices fruits hot buffet helpful staff dissatisfied aircondition annoying hot nights window hardly help plus kitchenette microwave fridge cooker pans etc enjoy stay dont worry diner late night sum love stay happens visit berlin aha forgot free wifi internet access", "Date": "2010-08-06 00:00:00"}], "HotelInfo": {"Name": "Quality Hotel Berlin Tegel", "HotelURL": "/ShowUserReviews-g187323-d293263-Reviews-Quality_Hotel_Berlin_Tegel-Berlin.html", "Price": "$65 - $130*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Hollander Strasse 31</span>, <span class=\"locality\"><span property=\"v:postal-code\">13407</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "293263", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ba/eb/baeb78067507fc21bf14a5d3bfe715b45large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "St. Petersburg, Russia",
+      "Title": "\u201cOK if you need it for a short stay\u201d",
+      "Author": "miroma",
+      "ReviewID": "UR123600728",
+      "Content": "chose hotel proximity airport distance easily airport \u2013 bus stops near terminal allee hotel road bus ride takes 15 minutes bus comes ten minutes average spacious desk wardrobe coffee table outdated tv german channels available bathroom shower clean hotel offers free wifi access common german hotels don\u2019t forget password reception breakfast standard quality don\u2019t feel paying 8 euros kitchenette equipped request lidl supermarket couple minutes\u2019 walk 800 pm considered hotel 3 stars ok short stay close airport peace quiet twice book sleep disturbed planes landing taking nearby airport virtually 5 minutes",
+      "Date": "2012-01-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "coral gables",
+      "Title": "\u201cThis is NOT at or near the airport!\u201d",
+      "Author": "mbiz",
+      "ReviewID": "UR109091179",
+      "Content": "deceptive name 20 30 minute cab ride tegel airport depending time day obscure neighborhood nearby hotel tour buses mainly slow check free wifi chance sample breakfast relatively spartan price noisy courtyard restaurant bathroom clean par price center 5 euros cab ride airport restaurants shops nearby savvy business travelers avoid",
+      "Date": "2011-05-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "sopot",
+      "Title": "\u201cGood Quality for a reasonable price\u201d",
+      "Author": "anyamarya",
+      "ReviewID": "UR73993159",
+      "Content": "location bus station hotel bus 128 fromto txl 1520 mins stop kurt jump ubahn entire city breakfast extremely loads choices fruits hot buffet helpful staff dissatisfied aircondition annoying hot nights window hardly help plus kitchenette microwave fridge cooker pans etc enjoy stay dont worry diner late night sum love stay happens visit berlin aha forgot free wifi internet access",
+      "Date": "2010-08-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Quality Hotel Berlin Tegel",
+    "HotelURL": "/ShowUserReviews-g187323-d293263-Reviews-Quality_Hotel_Berlin_Tegel-Berlin.html",
+    "Price": "$65 - $130*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Hollander Strasse 31</span>, <span class=\"locality\"><span property=\"v:postal-code\">13407</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "293263",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ba/eb/baeb78067507fc21bf14a5d3bfe715b45large.jpg"
+  }
+}

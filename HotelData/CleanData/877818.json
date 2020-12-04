@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Sutton Coldfield, United Kingdom", "Title": "\u201cGreat Hotel - Just in the wrong place\u201d", "Author": "BoingBoingBaggieBird", "ReviewID": "UR124801164", "Content": "arrived late due usual awful istanbul traffic nearly hours airport told normally hour free upgrade suite fifth floor fantastic walk balcony jacuzzi loads floor space smoking didnt smell cigarettes bar restaurant completely empty thursday completely devoid atmosphere meal cooked beautifully reasonable shame drinks waitress managed forget drink customer bar restaurant id liked eat weather terrible location theres minaret near istanbul unless earplugs heavy sleeper expect woken 6am", "Date": "2012-02-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "G\u00c3\u00b6teborg, Vastra Gotaland, Sweden", "Title": "\u201cNice health club and flexible staff\u201d", "Author": "Joel H", "ReviewID": "UR121249179", "Content": "start bad agree reviewers hotel terrible location using google maps twice coming taxi airport tv 17 limited selection englishspeaking channels found bbc world unwatchable due bad reception cnn remained bring movies laptop travelling ive stayed times business due proximity customer time cramped single 2014 desk time bigger 1010 armchair desk third stay offered kindly bigger told singles upgraded double plenty space sofa extra charge service health club attached hotel located residential close staff happy wellequipped featuring lots workout machines indoor swimming pools outdoor ones latter closed winter hamam sauna facilities women concerning location decent restaurants walk hill blocks upscale definitely worth grow tired hotel menu supermarkets convenience store oneblock radius refreshments safe walk watch speeding minibuses crossing busy street outside atm machines street forget withdraw taxi money airport nearby shopping center food court fastfood oriented fare breakfast fair selection hotcold turkish cuisine continental selection common turkey ham bacon plenty fresh vegetables fruit spectacular missing nice quiet disturbances outside ac unit switched winter cool warm arrival due towel dryer running throttle philips screwdriver day temperature fine experienced amenities cleanliness standard ordinary modern design worn", "Date": "2011-11-30 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 1.0}, "AuthorLocation": "Zurich, Switzerland", "Title": "\u201cNice hotel but in a terrible area\u201d", "Author": "Swiss_Rob", "ReviewID": "UR79591547", "Content": "company booked hotel close office istanbul business trip accompanied wife 3 month boy enjoyed hotel wife bored hotel nice spacious modern service crib booked nice baby buffet breakfast wifi included amneties couldnt try heck pool homepage complain hotel car close ikea attached shopping nice restaurant drive 20 minutes wife walk day impossible stroller pedestrians lot traffic western pretty exposed business trips dont hotel tourist", "Date": "2010-09-15 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 1.0}, "AuthorLocation": "London", "Title": "\u201cSurprisingly good experience\u201d", "Author": "Giulia_London", "ReviewID": "UR68975629", "Content": "stayed hotel nights close office knowing asian braced bad experience instead nice stay extremely spacious price paid drawback view lack window colleagues window changed experience completely staff ok breakfast wasnt ones managed eatable pleasant stay", "Date": "2010-06-28 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 5.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Bellevue, Washington", "Title": "\u201cNice in pictures, terrible otherwise.\u201d", "Author": "AgileTraveller", "ReviewID": "UR64061763", "Content": "initially impressed city hotel asian istanbul walking beautiful nice hotel interior unfortunately impression stayed nights due location customer five minute drive prepaid 80 euros started shower shower head stay fixed simple phillips head driver fix glass shower wall leaking floor trip shower nice surprised stepped int 4x4 puddle water floor top water temperatures freezing solution constantly switch temperature forth shower head creative hose mentioned morning told fixed shower ac 3pm blow cold cool below powered night thinking colder woke 3pm sweating blanket sheet mentioned reception morning care solution key 10c fan entire day days below 20c lastly nonsmoking corner hotel door smoking nonsmoker experienced traveler change hotels tried locked hotel due customer change requests citing issues issues fixed hopes hotel recommend im hoping experience onetime experiences nice hotel im coming stick brands radisson hyatt hilton starwood properties", "Date": "2010-05-13 00:00:00"}], "HotelInfo": {"Name": "Agaoglu My City Hotel", "HotelURL": "/ShowUserReviews-g293974-d877818-Reviews-Agaoglu_My_City_Hotel-Istanbul.html", "Price": "$130 - $156*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Cakmak Mah 22</span> | <span class=\"extended-address\">Umraniye</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34770</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "877818", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d6/39/d639044f30146d28ecdece9fe96c96be1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Sutton Coldfield, United Kingdom",
+      "Title": "\u201cGreat Hotel - Just in the wrong place\u201d",
+      "Author": "BoingBoingBaggieBird",
+      "ReviewID": "UR124801164",
+      "Content": "arrived late due usual awful istanbul traffic nearly hours airport told normally hour free upgrade suite fifth floor fantastic walk balcony jacuzzi loads floor space smoking didnt smell cigarettes bar restaurant completely empty thursday completely devoid atmosphere meal cooked beautifully reasonable shame drinks waitress managed forget drink customer bar restaurant id liked eat weather terrible location theres minaret near istanbul unless earplugs heavy sleeper expect woken 6am",
+      "Date": "2012-02-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "G\u00c3\u00b6teborg, Vastra Gotaland, Sweden",
+      "Title": "\u201cNice health club and flexible staff\u201d",
+      "Author": "Joel H",
+      "ReviewID": "UR121249179",
+      "Content": "start bad agree reviewers hotel terrible location using google maps twice coming taxi airport tv 17 limited selection englishspeaking channels found bbc world unwatchable due bad reception cnn remained bring movies laptop travelling ive stayed times business due proximity customer time cramped single 2014 desk time bigger 1010 armchair desk third stay offered kindly bigger told singles upgraded double plenty space sofa extra charge service health club attached hotel located residential close staff happy wellequipped featuring lots workout machines indoor swimming pools outdoor ones latter closed winter hamam sauna facilities women concerning location decent restaurants walk hill blocks upscale definitely worth grow tired hotel menu supermarkets convenience store oneblock radius refreshments safe walk watch speeding minibuses crossing busy street outside atm machines street forget withdraw taxi money airport nearby shopping center food court fastfood oriented fare breakfast fair selection hotcold turkish cuisine continental selection common turkey ham bacon plenty fresh vegetables fruit spectacular missing nice quiet disturbances outside ac unit switched winter cool warm arrival due towel dryer running throttle philips screwdriver day temperature fine experienced amenities cleanliness standard ordinary modern design worn",
+      "Date": "2011-11-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Zurich, Switzerland",
+      "Title": "\u201cNice hotel but in a terrible area\u201d",
+      "Author": "Swiss_Rob",
+      "ReviewID": "UR79591547",
+      "Content": "company booked hotel close office istanbul business trip accompanied wife 3 month boy enjoyed hotel wife bored hotel nice spacious modern service crib booked nice baby buffet breakfast wifi included amneties couldnt try heck pool homepage complain hotel car close ikea attached shopping nice restaurant drive 20 minutes wife walk day impossible stroller pedestrians lot traffic western pretty exposed business trips dont hotel tourist",
+      "Date": "2010-09-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cSurprisingly good experience\u201d",
+      "Author": "Giulia_London",
+      "ReviewID": "UR68975629",
+      "Content": "stayed hotel nights close office knowing asian braced bad experience instead nice stay extremely spacious price paid drawback view lack window colleagues window changed experience completely staff ok breakfast wasnt ones managed eatable pleasant stay",
+      "Date": "2010-06-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 5.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Bellevue, Washington",
+      "Title": "\u201cNice in pictures, terrible otherwise.\u201d",
+      "Author": "AgileTraveller",
+      "ReviewID": "UR64061763",
+      "Content": "initially impressed city hotel asian istanbul walking beautiful nice hotel interior unfortunately impression stayed nights due location customer five minute drive prepaid 80 euros started shower shower head stay fixed simple phillips head driver fix glass shower wall leaking floor trip shower nice surprised stepped int 4x4 puddle water floor top water temperatures freezing solution constantly switch temperature forth shower head creative hose mentioned morning told fixed shower ac 3pm blow cold cool below powered night thinking colder woke 3pm sweating blanket sheet mentioned reception morning care solution key 10c fan entire day days below 20c lastly nonsmoking corner hotel door smoking nonsmoker experienced traveler change hotels tried locked hotel due customer change requests citing issues issues fixed hopes hotel recommend im hoping experience onetime experiences nice hotel im coming stick brands radisson hyatt hilton starwood properties",
+      "Date": "2010-05-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Agaoglu My City Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d877818-Reviews-Agaoglu_My_City_Hotel-Istanbul.html",
+    "Price": "$130 - $156*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Cakmak Mah 22</span> | <span class=\"extended-address\">Umraniye</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34770</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "877818",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d6/39/d639044f30146d28ecdece9fe96c96be1large.jpg"
+  }
+}

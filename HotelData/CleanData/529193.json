@@ -1,1 +1,165 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Mae Sot, Thailand", "Title": "\u201cQuite far out\u201d", "Author": "Hannah J", "ReviewID": "UR126461399", "Content": "hotel nice hour centre rome 15 minute walk train station 30 minutes train onto metro staff friendly breakfast nice special breakfast else run 815am run croissants hot water occasion teacoffee menu fruit tinned syrup nice bathroom tv italian price paid decent hotel happy service provided", "Date": "2012-03-21 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cGood value for Rome exploration!\u201d", "Author": "Lil_Miss_Mooey", "ReviewID": "UR123006361", "Content": "rome definitely metro amongst locals helps lot tourist feeling visiting key destinations wonderfully alive city fell love rome hesitation hotel little bit public bus train station approx 30 mins train city suited fine free wifi hotel rare europe bathrooms typical italy comfy beds clean breakfast pretty impressive probably 3 weeks travelling europe lovely outside dining relax drinks evening cooled bar staff werent friendly beer cold reception staff stay", "Date": "2012-01-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Bangkok, Thailand", "Title": "\u201cGood for a car trip\u201d", "Author": "SmilyAngel", "ReviewID": "UR121271124", "Content": "booked minute hotel website 1 night free 3 2 nights hotel clean car parking lots staffs active nice free wifi username password lobby everytime login username login reception 2 hrs login period depending request", "Date": "2011-12-01 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Naples, Italy", "Title": "\u201cGood Value\u201d", "Author": "KTChris H", "ReviewID": "UR118791372", "Content": "liked hotel family 5 stay breaking bank breakfast location convienant international schools st georges service friendly family double husband including priced snacks", "Date": "2011-09-30 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Lyndhurst, United Kingdom", "Title": "\u201cA nice budget hotel on the outskirts of Rome\u201d", "Author": "formaccino", "ReviewID": "UR118569040", "Content": "wife spent nights hotel explore rome tuscany hotel quieter suburb tucked main via road comfortable size breakfast included secure garage ideal leaving motorbike found station direct train rome 15mins walk cost 1euro train journey 30mins city wasnt worth hassle riding city hotel ideally hotel restaurant recommend 10 mins walk receptionist helpful marked main visit city meant visit", "Date": "2011-09-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "QUEBEC", "Title": "\u201cVery convenient, clean and people very gentle and helpful.\u201d", "Author": "tipet", "ReviewID": "UR110541650", "Content": "nice little hotel clean breakfastthere free parking personnel reception nice helpful buy train ticket lot convenient train downtown rome takes 3045 minutes", "Date": "2011-05-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Los Angeles", "Title": "\u201cOutstanding service\u201d", "Author": "Theo111222", "ReviewID": "UR92842971", "Content": "thank hotel staff especially salvatore hotel support night staff morning departure transit airport smooth complaints lots praise ill stay theo apologize name please correct salvatore hes fantastic staff", "Date": "2011-01-14 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Perth, Australia", "Title": "\u201cLovely surprise\u201d", "Author": "Eileen049", "ReviewID": "UR78710487", "Content": "hotel close train station main roads close restaurants staff especially reception accommodating stay comfortable walk fair distance restaurant hotel recommends food dont discounted menu la carte cheap dont 7pm clean main road hear traffic train takes 20 mins heart roma", "Date": "2010-09-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Zuid-Holland", "Title": "\u201cNice hotel, friendly staff and near the trainstation\u201d", "Author": "MDCrew27", "ReviewID": "UR65349517", "Content": "hotel nice hotel clean staff friendly nice sleep quality beds trainstation near 510 minutes walk city rome day card bus 20 euro bus metro seen rome foot day metro bus thats eat eat piazzas near pantheon nice thats money paying \u20ac6 euro coca cola food maybe 15 euros metro bus streets rome eat nice lot cheeper eat pay 4 courses 1518 euro", "Date": "2010-05-26 00:00:00"}], "HotelInfo": {"Name": "Hotel Cassia", "HotelURL": "/ShowUserReviews-g187791-d529193-Reviews-Hotel_Cassia-Rome_Lazio.html", "Price": "$51 - $109*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Cassia 1736 (La Storta)</span>, <span class=\"locality\"><span property=\"v:postal-code\">123</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "529193", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d0/36/d036a6a502eaabbd49f26d23d951af5d1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Mae Sot, Thailand",
+      "Title": "\u201cQuite far out\u201d",
+      "Author": "Hannah J",
+      "ReviewID": "UR126461399",
+      "Content": "hotel nice hour centre rome 15 minute walk train station 30 minutes train onto metro staff friendly breakfast nice special breakfast else run 815am run croissants hot water occasion teacoffee menu fruit tinned syrup nice bathroom tv italian price paid decent hotel happy service provided",
+      "Date": "2012-03-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cGood value for Rome exploration!\u201d",
+      "Author": "Lil_Miss_Mooey",
+      "ReviewID": "UR123006361",
+      "Content": "rome definitely metro amongst locals helps lot tourist feeling visiting key destinations wonderfully alive city fell love rome hesitation hotel little bit public bus train station approx 30 mins train city suited fine free wifi hotel rare europe bathrooms typical italy comfy beds clean breakfast pretty impressive probably 3 weeks travelling europe lovely outside dining relax drinks evening cooled bar staff werent friendly beer cold reception staff stay",
+      "Date": "2012-01-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Bangkok, Thailand",
+      "Title": "\u201cGood for a car trip\u201d",
+      "Author": "SmilyAngel",
+      "ReviewID": "UR121271124",
+      "Content": "booked minute hotel website 1 night free 3 2 nights hotel clean car parking lots staffs active nice free wifi username password lobby everytime login username login reception 2 hrs login period depending request",
+      "Date": "2011-12-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Naples, Italy",
+      "Title": "\u201cGood Value\u201d",
+      "Author": "KTChris H",
+      "ReviewID": "UR118791372",
+      "Content": "liked hotel family 5 stay breaking bank breakfast location convienant international schools st georges service friendly family double husband including priced snacks",
+      "Date": "2011-09-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Lyndhurst, United Kingdom",
+      "Title": "\u201cA nice budget hotel on the outskirts of Rome\u201d",
+      "Author": "formaccino",
+      "ReviewID": "UR118569040",
+      "Content": "wife spent nights hotel explore rome tuscany hotel quieter suburb tucked main via road comfortable size breakfast included secure garage ideal leaving motorbike found station direct train rome 15mins walk cost 1euro train journey 30mins city wasnt worth hassle riding city hotel ideally hotel restaurant recommend 10 mins walk receptionist helpful marked main visit city meant visit",
+      "Date": "2011-09-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "QUEBEC",
+      "Title": "\u201cVery convenient, clean and people very gentle and helpful.\u201d",
+      "Author": "tipet",
+      "ReviewID": "UR110541650",
+      "Content": "nice little hotel clean breakfastthere free parking personnel reception nice helpful buy train ticket lot convenient train downtown rome takes 3045 minutes",
+      "Date": "2011-05-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Los Angeles",
+      "Title": "\u201cOutstanding service\u201d",
+      "Author": "Theo111222",
+      "ReviewID": "UR92842971",
+      "Content": "thank hotel staff especially salvatore hotel support night staff morning departure transit airport smooth complaints lots praise ill stay theo apologize name please correct salvatore hes fantastic staff",
+      "Date": "2011-01-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Perth, Australia",
+      "Title": "\u201cLovely surprise\u201d",
+      "Author": "Eileen049",
+      "ReviewID": "UR78710487",
+      "Content": "hotel close train station main roads close restaurants staff especially reception accommodating stay comfortable walk fair distance restaurant hotel recommends food dont discounted menu la carte cheap dont 7pm clean main road hear traffic train takes 20 mins heart roma",
+      "Date": "2010-09-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Zuid-Holland",
+      "Title": "\u201cNice hotel, friendly staff and near the trainstation\u201d",
+      "Author": "MDCrew27",
+      "ReviewID": "UR65349517",
+      "Content": "hotel nice hotel clean staff friendly nice sleep quality beds trainstation near 510 minutes walk city rome day card bus 20 euro bus metro seen rome foot day metro bus thats eat eat piazzas near pantheon nice thats money paying \u20ac6 euro coca cola food maybe 15 euros metro bus streets rome eat nice lot cheeper eat pay 4 courses 1518 euro",
+      "Date": "2010-05-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Cassia",
+    "HotelURL": "/ShowUserReviews-g187791-d529193-Reviews-Hotel_Cassia-Rome_Lazio.html",
+    "Price": "$51 - $109*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Cassia 1736 (La Storta)</span>, <span class=\"locality\"><span property=\"v:postal-code\">123</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "529193",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d0/36/d036a6a502eaabbd49f26d23d951af5d1large.jpg"
+  }
+}

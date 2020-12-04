@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Makati", "Title": "\u201cMy Dubai Home....\u201d", "Author": "ExDubaiGirl", "ReviewID": "UR98621663", "Content": "stay dubai 5 memorable includes time spent symphony hotel apartments forget corner 610 unforgettable considered own house thursday night am booked couple months fun friends party party symphony comfy cozy clean staffs friendly accomodating location plus", "Date": "2011-03-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Muscat Governorate, Oman", "Title": "\u201cGood hotel with Good location\u201d", "Author": "Vickks", "ReviewID": "UR69604208", "Content": "booking corporate ac checkin upgraded nice floor rate parking available hotel customers morning breakfast ok clean bathroom toilets clean nicely designed resturants coffe shop grocery shops walkable distance metro station 510 min walking distance burjuman mall close dvd player swimming pool close 67 pm dissapointing", "Date": "2010-07-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "London", "Title": "\u201cGreat hotel\u201d", "Author": "smcinto", "ReviewID": "UR66693197", "Content": "travelled 5 stayed bedroom suites standard facilities definitely worth money paid standard facilities definitely worth money paid near malls eateries nice roof top pool downside hotel restaurant indian breakfasts bad india", "Date": "2010-06-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Yackandandah", "Title": "\u201cHuge apartment in a very good location\u201d", "Author": "guykb", "ReviewID": "UR60063713", "Content": "lot research deciding symphony apartments apartments represent value money city accommodation pricey actually walk city symphony walk dubai apartments massive furnishings slightly dated mean flat screen tvs example am picky staff helpful arrange tours wish front desk resort style value money", "Date": "2010-04-01 00:00:00"}], "HotelInfo": {"Name": "Symphony Hotel Apartments", "HotelURL": "/ShowUserReviews-g295424-d780481-Reviews-Symphony_Hotel_Apartments-Dubai.html", "Price": "0", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">24 B St</span> | <span class=\"extended-address\">PO Box 125335</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "780481", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/be/ba/3b/symphony-hotel-apartments.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Makati",
+      "Title": "\u201cMy Dubai Home....\u201d",
+      "Author": "ExDubaiGirl",
+      "ReviewID": "UR98621663",
+      "Content": "stay dubai 5 memorable includes time spent symphony hotel apartments forget corner 610 unforgettable considered own house thursday night am booked couple months fun friends party party symphony comfy cozy clean staffs friendly accomodating location plus",
+      "Date": "2011-03-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Muscat Governorate, Oman",
+      "Title": "\u201cGood hotel with Good location\u201d",
+      "Author": "Vickks",
+      "ReviewID": "UR69604208",
+      "Content": "booking corporate ac checkin upgraded nice floor rate parking available hotel customers morning breakfast ok clean bathroom toilets clean nicely designed resturants coffe shop grocery shops walkable distance metro station 510 min walking distance burjuman mall close dvd player swimming pool close 67 pm dissapointing",
+      "Date": "2010-07-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cGreat hotel\u201d",
+      "Author": "smcinto",
+      "ReviewID": "UR66693197",
+      "Content": "travelled 5 stayed bedroom suites standard facilities definitely worth money paid standard facilities definitely worth money paid near malls eateries nice roof top pool downside hotel restaurant indian breakfasts bad india",
+      "Date": "2010-06-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Yackandandah",
+      "Title": "\u201cHuge apartment in a very good location\u201d",
+      "Author": "guykb",
+      "ReviewID": "UR60063713",
+      "Content": "lot research deciding symphony apartments apartments represent value money city accommodation pricey actually walk city symphony walk dubai apartments massive furnishings slightly dated mean flat screen tvs example am picky staff helpful arrange tours wish front desk resort style value money",
+      "Date": "2010-04-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Symphony Hotel Apartments",
+    "HotelURL": "/ShowUserReviews-g295424-d780481-Reviews-Symphony_Hotel_Apartments-Dubai.html",
+    "Price": "0",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">24 B St</span> | <span class=\"extended-address\">PO Box 125335</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "780481",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/be/ba/3b/symphony-hotel-apartments.jpg"
+  }
+}

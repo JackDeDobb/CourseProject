@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Trondheim, Norway", "Title": "\u201cNot in the center of Rome...\u201d", "Author": "travelnicely190499", "ReviewID": "UR120227809", "Content": "rome october 2011 hotel center rome 3 star hotel kent hotel center rome map center rome expect 30 minutes bus 1520 minutes taxi real center rome experience hotel 3star hotel people hotel helpful speak english able understand speak matter understood tried explained city wrote bus fine clean relatively nicely decorated ok bathroom hairdryer beds hard rocks tv italian channels travels rome watch tv anyway quiet noice hotell stay free wifi 3floor depending free 1 2 floor breakfast worst hotell cold coffie toast dry crossaints jam ate breakfast morning stay reccomand breakfast staying bb rome pay 3 tax pay directly hotel leaving breakfast worth reccomand hotell closer center rome dont time transportation", "Date": "2011-11-06 00:00:00"}], "HotelInfo": {"Name": "Kent Hotel", "HotelURL": "/ShowUserReviews-g187791-d234494-Reviews-Kent_Hotel-Rome_Lazio.html", "Price": "$86 - $166*", "Address": "<div class=\"amenFloat\">", "HotelID": "234494", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/ae/ac/21/kent-hotel.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Trondheim, Norway",
+      "Title": "\u201cNot in the center of Rome...\u201d",
+      "Author": "travelnicely190499",
+      "ReviewID": "UR120227809",
+      "Content": "rome october 2011 hotel center rome 3 star hotel kent hotel center rome map center rome expect 30 minutes bus 1520 minutes taxi real center rome experience hotel 3star hotel people hotel helpful speak english able understand speak matter understood tried explained city wrote bus fine clean relatively nicely decorated ok bathroom hairdryer beds hard rocks tv italian channels travels rome watch tv anyway quiet noice hotell stay free wifi 3floor depending free 1 2 floor breakfast worst hotell cold coffie toast dry crossaints jam ate breakfast morning stay reccomand breakfast staying bb rome pay 3 tax pay directly hotel leaving breakfast worth reccomand hotell closer center rome dont time transportation",
+      "Date": "2011-11-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Kent Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d234494-Reviews-Kent_Hotel-Rome_Lazio.html",
+    "Price": "$86 - $166*",
+    "Address": "<div class=\"amenFloat\">",
+    "HotelID": "234494",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/ae/ac/21/kent-hotel.jpg"
+  }
+}

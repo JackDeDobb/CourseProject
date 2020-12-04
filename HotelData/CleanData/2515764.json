@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "San Diego, California", "Title": "\u201cLocation! Location! Location!\u201d", "Author": "cozydiver", "ReviewID": "UR139490205", "Content": "hotel cant beat price wife carlsbad live arizona typically stay family friends we\u2019re town little girl 1 \u00bd yrs easier family own space growing carlsbad i\u2019ve noticed hotel tucked culdesac notice remodeled exterior interior they\u2019ve drab space shining gem title location hotel walking distance carlsbad offer it\u2019s bit distance beach you\u2019re trucking kids stuff kids stuff surfboard suggestion bring folding wagon cart hotel offer guest couple wagons hand loan guest families hopefully read pick costco nice noticed couple improved reason i\u2019m giving 4 5 rating you\u2019re update entire hotel furniture carpet paint rid dirty popcorn ceilings yes extra cost involved brand look dirty popcorn ceiling threw stood bed modern looking bedding bed skirt box spring bit beat stood easy fix nicer rest kitchen handy baby easily fix meals staff friendly helpful hotel doesn\u2019t regular cleaning schedule request requested cleaning service request towels dish soap kitchen flash waiting you\u2019re arriving via own car suggest bringing bikes hotel walking distance time we\u2019re bringing bikes couple town rent bikes day week that\u2019s option stay extended stay definitely returning", "Date": "2012-09-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Woodland Hills, California, United States", "Title": "\u201cNew construction, but spartan accomodations\u201d", "Author": "Lestertheinvestor", "ReviewID": "UR138441503", "Content": "smoke permeate smoke free according clerk pet friendly dogs dont share hotel animals pleasant pool nice hot tubspa ratings soap provided bathroom shampooconditioner kitchen nice beds firm beaten newly hotel surprising free breakfast munchies nice", "Date": "2012-08-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Florham Park, New Jersey", "Title": "\u201cPleasant but disheartening\u201d", "Author": "P L", "ReviewID": "UR138242417", "Content": "booked vaction travel agency decided wed week wed try extended stay value nice piece property landed 830 pm car drove hotel arrived tired flight sleep due 3 hour time change coming nj lobby smelled smoke deal reception checkin quick pleasant reason 4 5 lobby closing soon call police wife holding 4 song eyes bugged head hit 20 questions mean calmed enjoyed evening am mad hotel actually appreciate warning", "Date": "2012-08-24 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Whittier, California", "Title": "\u201cClean and well appointed room\u201d", "Author": "elwitty", "ReviewID": "UR131795378", "Content": "stayed overnight hotel hotwire rate pleased ton bells whistles bed comfortable clean fairly updated served purpose offered breakfast snacks stay", "Date": "2012-06-11 00:00:00"}], "HotelInfo": {"Name": "Extended Stay America San Diego - Carlsbad Village By The Sea", "HotelURL": "/ShowUserReviews-g60750-d1147724-Reviews-Extended_Stay_America_San_Diego_Carlsbad_Village_By_The_Sea-San_Diego_California.html", "Price": "$86 - $120*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1050 Grand Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92008 </span></span> </span> </span> </address>", "HotelID": "2515764", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4f/d9/4fd9b09440da1a6b514f720528069a0d5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "San Diego, California",
+      "Title": "\u201cLocation! Location! Location!\u201d",
+      "Author": "cozydiver",
+      "ReviewID": "UR139490205",
+      "Content": "hotel cant beat price wife carlsbad live arizona typically stay family friends we\u2019re town little girl 1 \u00bd yrs easier family own space growing carlsbad i\u2019ve noticed hotel tucked culdesac notice remodeled exterior interior they\u2019ve drab space shining gem title location hotel walking distance carlsbad offer it\u2019s bit distance beach you\u2019re trucking kids stuff kids stuff surfboard suggestion bring folding wagon cart hotel offer guest couple wagons hand loan guest families hopefully read pick costco nice noticed couple improved reason i\u2019m giving 4 5 rating you\u2019re update entire hotel furniture carpet paint rid dirty popcorn ceilings yes extra cost involved brand look dirty popcorn ceiling threw stood bed modern looking bedding bed skirt box spring bit beat stood easy fix nicer rest kitchen handy baby easily fix meals staff friendly helpful hotel doesn\u2019t regular cleaning schedule request requested cleaning service request towels dish soap kitchen flash waiting you\u2019re arriving via own car suggest bringing bikes hotel walking distance time we\u2019re bringing bikes couple town rent bikes day week that\u2019s option stay extended stay definitely returning",
+      "Date": "2012-09-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Woodland Hills, California, United States",
+      "Title": "\u201cNew construction, but spartan accomodations\u201d",
+      "Author": "Lestertheinvestor",
+      "ReviewID": "UR138441503",
+      "Content": "smoke permeate smoke free according clerk pet friendly dogs dont share hotel animals pleasant pool nice hot tubspa ratings soap provided bathroom shampooconditioner kitchen nice beds firm beaten newly hotel surprising free breakfast munchies nice",
+      "Date": "2012-08-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Florham Park, New Jersey",
+      "Title": "\u201cPleasant but disheartening\u201d",
+      "Author": "P L",
+      "ReviewID": "UR138242417",
+      "Content": "booked vaction travel agency decided wed week wed try extended stay value nice piece property landed 830 pm car drove hotel arrived tired flight sleep due 3 hour time change coming nj lobby smelled smoke deal reception checkin quick pleasant reason 4 5 lobby closing soon call police wife holding 4 song eyes bugged head hit 20 questions mean calmed enjoyed evening am mad hotel actually appreciate warning",
+      "Date": "2012-08-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Whittier, California",
+      "Title": "\u201cClean and well appointed room\u201d",
+      "Author": "elwitty",
+      "ReviewID": "UR131795378",
+      "Content": "stayed overnight hotel hotwire rate pleased ton bells whistles bed comfortable clean fairly updated served purpose offered breakfast snacks stay",
+      "Date": "2012-06-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Extended Stay America San Diego - Carlsbad Village By The Sea",
+    "HotelURL": "/ShowUserReviews-g60750-d1147724-Reviews-Extended_Stay_America_San_Diego_Carlsbad_Village_By_The_Sea-San_Diego_California.html",
+    "Price": "$86 - $120*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1050 Grand Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92008 </span></span> </span> </span> </address>",
+    "HotelID": "2515764",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4f/d9/4fd9b09440da1a6b514f720528069a0d5large.jpg"
+  }
+}

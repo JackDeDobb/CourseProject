@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "New Delhi, India", "Title": "\u201cGreat value for money\u201d", "Author": "rajumehta", "ReviewID": "UR124511908", "Content": "stayed night excellent service upgrade polite receptionist al tough tv remote iron functioning replaced instantly location 5 minutes spinneys burjuman mall karama nearby fault phone bed wifi complimentary definitely stay", "Date": "2012-02-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "MohDoh", "Title": "\u201cGood value stay\u201d", "Author": "MohDoh", "ReviewID": "UR123946926", "Content": "decent apartment style hotel dubai location bad metro 10 minute walk theres exciting spacious separate laundry kitchen living bed value families staying floor kids people loud noises hotel didnt plus floor smelly cooking hear street noise street pretty noticeably didnt wake call time missed flight breakfast write swimming pool wasnt heated couldnt staff decent value money", "Date": "2012-02-01 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Liverpool, United Kingdom", "Title": "\u201cGreat location\u201d", "Author": "rosiewillow", "ReviewID": "UR120238772", "Content": "arrived hotel 12noon able check straight staff met pleasant helpful suite 1401 clean comfortable consisted living sofas tv dining table fitted kitchen bedroom ensuite bathroom cloakroom utility ideal extended stay kitchen included utensils fridgefreezer microwave 2 ring hob location al karama metro station bus stop outside supermarket 10 minute walk 10 minute car ride dubai airport negative breakfast served 8am", "Date": "2011-11-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Frankfurt, Germany", "Title": "\u201cFriendly and personal touch in Dubai\u201d", "Author": "leonardmaximillian", "ReviewID": "UR96509732", "Content": "booked online recommend little hotel directly main sheikh zayed road bad guarantees nights rest nevertheless minutes centre burjuman shopping centre dubai mall near staff friendly helpful wait arrival suppose due free internet suite nice pool price dubai question", "Date": "2011-02-13 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Johannesburg, South Africa", "Title": "\u201cGreat Potential needs more management\u201d", "Author": "JBL0", "ReviewID": "UR95979205", "Content": "book online trip advisor site arrival checking found card debited day prior arrival date spacious reasonbly clean self catering kitchen utensils informed previous resident stolen items breakfast disaster sausage egg toast coffe adverts web site hotel offered shuttle transport shops beach kiddies club avaiable management friendly unable help location difficult close amenities 1000 metres metro okay winter summer taxis location relied own guidance overhaul spacious lifts facilities", "Date": "2011-02-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Muscat", "Title": "\u201cGreat place for a cool holiday\u201d", "Author": "mariatripmuscat", "ReviewID": "UR89972606", "Content": "fantastic break credit goes stay executive suites apartment comfortable staying indoors sightseeing extended stay night wish stay definitely visit dxb recommended hotel colleagues friends staff reception housekeeping courteous professional", "Date": "2010-12-16 00:00:00"}], "HotelInfo": {"Name": "Bavaria Executive Suites Bur Dubai", "HotelURL": "/ShowUserReviews-g295424-d678410-Reviews-Bavaria_Executive_Suites_Bur_Dubai-Dubai.html", "Price": "$81 - $146*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Al Mankhool Road Kuwait Street</span> | <span class=\"extended-address\">PO Box 500589</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "678410", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fe/d1/fed1e9c459158e7dbd2cd1b97121bc0e2large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "New Delhi, India",
+      "Title": "\u201cGreat value for money\u201d",
+      "Author": "rajumehta",
+      "ReviewID": "UR124511908",
+      "Content": "stayed night excellent service upgrade polite receptionist al tough tv remote iron functioning replaced instantly location 5 minutes spinneys burjuman mall karama nearby fault phone bed wifi complimentary definitely stay",
+      "Date": "2012-02-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "MohDoh",
+      "Title": "\u201cGood value stay\u201d",
+      "Author": "MohDoh",
+      "ReviewID": "UR123946926",
+      "Content": "decent apartment style hotel dubai location bad metro 10 minute walk theres exciting spacious separate laundry kitchen living bed value families staying floor kids people loud noises hotel didnt plus floor smelly cooking hear street noise street pretty noticeably didnt wake call time missed flight breakfast write swimming pool wasnt heated couldnt staff decent value money",
+      "Date": "2012-02-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Liverpool, United Kingdom",
+      "Title": "\u201cGreat location\u201d",
+      "Author": "rosiewillow",
+      "ReviewID": "UR120238772",
+      "Content": "arrived hotel 12noon able check straight staff met pleasant helpful suite 1401 clean comfortable consisted living sofas tv dining table fitted kitchen bedroom ensuite bathroom cloakroom utility ideal extended stay kitchen included utensils fridgefreezer microwave 2 ring hob location al karama metro station bus stop outside supermarket 10 minute walk 10 minute car ride dubai airport negative breakfast served 8am",
+      "Date": "2011-11-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Frankfurt, Germany",
+      "Title": "\u201cFriendly and personal touch in Dubai\u201d",
+      "Author": "leonardmaximillian",
+      "ReviewID": "UR96509732",
+      "Content": "booked online recommend little hotel directly main sheikh zayed road bad guarantees nights rest nevertheless minutes centre burjuman shopping centre dubai mall near staff friendly helpful wait arrival suppose due free internet suite nice pool price dubai question",
+      "Date": "2011-02-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Johannesburg, South Africa",
+      "Title": "\u201cGreat Potential needs more management\u201d",
+      "Author": "JBL0",
+      "ReviewID": "UR95979205",
+      "Content": "book online trip advisor site arrival checking found card debited day prior arrival date spacious reasonbly clean self catering kitchen utensils informed previous resident stolen items breakfast disaster sausage egg toast coffe adverts web site hotel offered shuttle transport shops beach kiddies club avaiable management friendly unable help location difficult close amenities 1000 metres metro okay winter summer taxis location relied own guidance overhaul spacious lifts facilities",
+      "Date": "2011-02-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Muscat",
+      "Title": "\u201cGreat place for a cool holiday\u201d",
+      "Author": "mariatripmuscat",
+      "ReviewID": "UR89972606",
+      "Content": "fantastic break credit goes stay executive suites apartment comfortable staying indoors sightseeing extended stay night wish stay definitely visit dxb recommended hotel colleagues friends staff reception housekeeping courteous professional",
+      "Date": "2010-12-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Bavaria Executive Suites Bur Dubai",
+    "HotelURL": "/ShowUserReviews-g295424-d678410-Reviews-Bavaria_Executive_Suites_Bur_Dubai-Dubai.html",
+    "Price": "$81 - $146*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Al Mankhool Road Kuwait Street</span> | <span class=\"extended-address\">PO Box 500589</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "678410",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fe/d1/fed1e9c459158e7dbd2cd1b97121bc0e2large.jpg"
+  }
+}

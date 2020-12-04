@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Brooklyn", "Title": "\u201cEl Faro Parador, not the Suites\u201d", "Author": "DumplingOmega", "ReviewID": "UR126284439", "Content": "stayed hotel ago clean staff friendly pleasant rustic feeling tile floors etc hotel structure welcoming family kids low rise lead courtyard decent restaurant pool excellent beach nearby recall beach whatever beach nicest puerto rico shuttle hotel beach dont drive tried pool dont remember clean pool beaches aguadilla short trip caves rincon cabo rojo san juan drive hike rain forest el junque attempt hotel finding poorly marked locals figure", "Date": "2012-03-18 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "WPB florida", "Title": "\u201cbetter than the options\u201d", "Author": "ronbonbfhon", "ReviewID": "UR121291453", "Content": "review hotel airport directly marriot paid 75 bucks night okay dated clean functional coffee maker basic amenities provided spacious bath tiki bar nice food pretty hotel basically buildings officers quarters air force base ac fine probably stay option pay 125 night marriot stay nearby except la poor reviews visit", "Date": "2011-12-01 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Houston, Texas", "Title": "\u201cDo not stay there!!!\u201d", "Author": "mcasiano", "ReviewID": "UR118468350", "Content": "horrible experience checkin condition people drinking talking loud children running knocking doors mosquitos dangerous caribbean stay hour request refund front desk holiday inn half hour mayaguez", "Date": "2011-09-22 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Isabela", "Title": "\u201cNot nice at all\u201d", "Author": "lalyIsabela", "ReviewID": "UR56076269", "Content": "warm welcome bathroom feel staying hospital comfortable bed noisy privacy clean leaving checked soon iron blower absolutely stay recommend", "Date": "2010-02-15 00:00:00"}], "HotelInfo": {"Name": "IHP Hotel El Faro", "HotelURL": "/ShowUserReviews-g580452-d268433-Reviews-IHP_Hotel_El_Faro-Aguadilla_Puerto_Rico.html", "Price": "$61 - $95*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">107 Street Km 2.1 Box 5148</span>, <span class=\"locality\"><span property=\"v:locality\">Aguadilla</span> <span property=\"v:postal-code\">00603</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>", "HotelID": "268433", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/79/b4/79b4dd705d63d7999ae76cd16f80d4ee6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Brooklyn",
+      "Title": "\u201cEl Faro Parador, not the Suites\u201d",
+      "Author": "DumplingOmega",
+      "ReviewID": "UR126284439",
+      "Content": "stayed hotel ago clean staff friendly pleasant rustic feeling tile floors etc hotel structure welcoming family kids low rise lead courtyard decent restaurant pool excellent beach nearby recall beach whatever beach nicest puerto rico shuttle hotel beach dont drive tried pool dont remember clean pool beaches aguadilla short trip caves rincon cabo rojo san juan drive hike rain forest el junque attempt hotel finding poorly marked locals figure",
+      "Date": "2012-03-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "WPB florida",
+      "Title": "\u201cbetter than the options\u201d",
+      "Author": "ronbonbfhon",
+      "ReviewID": "UR121291453",
+      "Content": "review hotel airport directly marriot paid 75 bucks night okay dated clean functional coffee maker basic amenities provided spacious bath tiki bar nice food pretty hotel basically buildings officers quarters air force base ac fine probably stay option pay 125 night marriot stay nearby except la poor reviews visit",
+      "Date": "2011-12-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Houston, Texas",
+      "Title": "\u201cDo not stay there!!!\u201d",
+      "Author": "mcasiano",
+      "ReviewID": "UR118468350",
+      "Content": "horrible experience checkin condition people drinking talking loud children running knocking doors mosquitos dangerous caribbean stay hour request refund front desk holiday inn half hour mayaguez",
+      "Date": "2011-09-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Isabela",
+      "Title": "\u201cNot nice at all\u201d",
+      "Author": "lalyIsabela",
+      "ReviewID": "UR56076269",
+      "Content": "warm welcome bathroom feel staying hospital comfortable bed noisy privacy clean leaving checked soon iron blower absolutely stay recommend",
+      "Date": "2010-02-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "IHP Hotel El Faro",
+    "HotelURL": "/ShowUserReviews-g580452-d268433-Reviews-IHP_Hotel_El_Faro-Aguadilla_Puerto_Rico.html",
+    "Price": "$61 - $95*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">107 Street Km 2.1 Box 5148</span>, <span class=\"locality\"><span property=\"v:locality\">Aguadilla</span> <span property=\"v:postal-code\">00603</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>",
+    "HotelID": "268433",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/79/b4/79b4dd705d63d7999ae76cd16f80d4ee6large.jpg"
+  }
+}

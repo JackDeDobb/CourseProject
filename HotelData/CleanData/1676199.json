@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Leiden, The Netherlands", "Title": "\u201cGood business hotel\u201d", "Author": "Hansiman", "ReviewID": "UR121193712", "Content": "stayed nights business visit berlin nice centrally located modern clean fresh paid 95 euro night hotel 10 minutes walk potsdamer platz ubahn station nearby breakfast available 600am recommend hotel visiting berlin", "Date": "2011-11-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Zurich, Switzerland", "Title": "\u201cGreat value for a weekend break\u201d", "Author": "irl_sars", "ReviewID": "UR120809932", "Content": "stayed november short weekend break value paid staff reception desk courteous friendly helpful arrived 12 checkin wasnt 3 straightaway bathroom clean modern standard sized purpose built european hotel vouchers reception allowed free wifi voucher reception 15 mins internet site terminals print boarding passes location 5 mins nearest bahn station bus stop outside public transport weekend taxis pretty cheap short journeys berlin breakfast empty cleaned tables arrived selection foods replaced time breakfast finished", "Date": "2011-11-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Erfurt", "Title": "\u201cStylish, new but poor beds\u201d", "Author": "Sonnenschein74", "ReviewID": "UR81695595", "Content": "hotel situated quieter berlin close city center 25 min walking distance brandenburg gate 10 min potsdamer platz estimated 12 sqm clean properly equiped stay noisy easy park car paying horrible amounts fees staff friendly helpful beds hard sleep hard mattresses bedsprings pushing bag sleep unfortunately breakfast ok special", "Date": "2010-10-01 00:00:00"}], "HotelInfo": {"Name": "NH Berlin Potsdamer Platz", "HotelURL": "/ShowUserReviews-g187323-d1676199-Reviews-NH_Berlin_Potsdamer_Platz-Berlin.html", "Price": "$117 - $186*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Stresemannstrasse 47</span>, <span class=\"locality\"><span property=\"v:postal-code\">10963</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "1676199", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/29/ef/38/fassade-nh-berlin-potsdamer.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Leiden, The Netherlands",
+      "Title": "\u201cGood business hotel\u201d",
+      "Author": "Hansiman",
+      "ReviewID": "UR121193712",
+      "Content": "stayed nights business visit berlin nice centrally located modern clean fresh paid 95 euro night hotel 10 minutes walk potsdamer platz ubahn station nearby breakfast available 600am recommend hotel visiting berlin",
+      "Date": "2011-11-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Zurich, Switzerland",
+      "Title": "\u201cGreat value for a weekend break\u201d",
+      "Author": "irl_sars",
+      "ReviewID": "UR120809932",
+      "Content": "stayed november short weekend break value paid staff reception desk courteous friendly helpful arrived 12 checkin wasnt 3 straightaway bathroom clean modern standard sized purpose built european hotel vouchers reception allowed free wifi voucher reception 15 mins internet site terminals print boarding passes location 5 mins nearest bahn station bus stop outside public transport weekend taxis pretty cheap short journeys berlin breakfast empty cleaned tables arrived selection foods replaced time breakfast finished",
+      "Date": "2011-11-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Erfurt",
+      "Title": "\u201cStylish, new but poor beds\u201d",
+      "Author": "Sonnenschein74",
+      "ReviewID": "UR81695595",
+      "Content": "hotel situated quieter berlin close city center 25 min walking distance brandenburg gate 10 min potsdamer platz estimated 12 sqm clean properly equiped stay noisy easy park car paying horrible amounts fees staff friendly helpful beds hard sleep hard mattresses bedsprings pushing bag sleep unfortunately breakfast ok special",
+      "Date": "2010-10-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "NH Berlin Potsdamer Platz",
+    "HotelURL": "/ShowUserReviews-g187323-d1676199-Reviews-NH_Berlin_Potsdamer_Platz-Berlin.html",
+    "Price": "$117 - $186*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Stresemannstrasse 47</span>, <span class=\"locality\"><span property=\"v:postal-code\">10963</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "1676199",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/29/ef/38/fassade-nh-berlin-potsdamer.jpg"
+  }
+}

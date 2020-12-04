@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "North Sydney, Canada", "Title": "\u201cthe location is the best part\u201d", "Author": "pastelpinkgirly", "ReviewID": "UR91293851", "Content": "booked trip toronto june knowledge g20 happen time trip realised 4 weeks late cancel originally booked stay toronto university summer residence contacted offer move 89 chestnut instead checked website thrilled reviews spartan kindly appreciated change location paid 36night minor checkin front desk staff wrong pricing booking 83 told 36 check reservation credit card bit clean arrival tv nor hangers luckily travelled read previous reviews mircowave mini fridge found located hall standard size fridge leaving food drink cautionary stayed 14 days day 10 offered clean maybe due g20 didnt offer beforehand lots college students noisy times overall bad didnt 10pm required key security guard airport time stayed overall complete nightmare stay liked location 10 min walk eaton centre city bus stop 5 mins airporter airport stop front hotel wouldnt recommend residence families price paid rate opinion price including daily housekeeping", "Date": "2011-01-01 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Vienna, Austria", "Title": "\u201cCentrally located hotel that is lacking room service\u201d", "Author": "writermonad", "ReviewID": "UR89561041", "Content": "staff polite welcoming hotel taking security seriously elevator entering card wireless connection available reachable hotel located centrally various shopping centers subway station walking distance bathroom spacious american standards discovered hair bathroom floor bathtub definitely werent mine worse service 3 days stayed towels replaced disappointing hotels toronto price", "Date": "2010-12-11 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Truro, Canada", "Title": "\u201cOMG what a dump\u201d", "Author": "kagc1969", "ReviewID": "UR77417500", "Content": "travelled toronto business organization booked block 2 electric outlets located heavy metal desk beds table bedside lights available light switch associates bed light bathroom linens minimal replenished daily breakfast cafeteria style ok surrender handbag daily teenager stored cubby prevent stealing food popcorn bed arrived horrors body sheets torn carpet dirty clothes beds clothes hanging closet dirty staying association booked payed trapped hotel functions residence academic hell kid stay nasty", "Date": "2010-08-29 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cHotel of Horrors\u201d", "Author": "lady0racle", "ReviewID": "UR76892274", "Content": "chestnut suggested conference hotel organization jumped affordable price proximity conference venue appeared cheap cheerful internet checked discovered kept clean apparently cleaned checked found dirty stained sheets dirty socks garbage beds chipped dirty bathtubs sinks hairs pillows sinks surfaces nonfunctional fire alarms lightbulbs thick dust lamps chairs etc prepaid conference organizers choice stay forfeit money slept horribly nightmares staying filthy residence caution spend little night sleep hygiene", "Date": "2010-08-25 00:00:00"}], "HotelInfo": {"Name": "89 Chestnut", "HotelURL": "/ShowUserReviews-g155019-d311925-Reviews-89_Chestnut-Toronto_Ontario.html", "Price": "$79 - $89*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">89 Chestnut Street</span>, <span class=\"locality\"><span property=\"v:locality\">Toronto</span>, <span property=\"v:region\">Ontario</span> <span property=\"v:postal-code\">M5G 1R1</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span> </span> </address>", "HotelID": "311925", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/bc/3e/e5/89-chestnut-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "North Sydney, Canada",
+      "Title": "\u201cthe location is the best part\u201d",
+      "Author": "pastelpinkgirly",
+      "ReviewID": "UR91293851",
+      "Content": "booked trip toronto june knowledge g20 happen time trip realised 4 weeks late cancel originally booked stay toronto university summer residence contacted offer move 89 chestnut instead checked website thrilled reviews spartan kindly appreciated change location paid 36night minor checkin front desk staff wrong pricing booking 83 told 36 check reservation credit card bit clean arrival tv nor hangers luckily travelled read previous reviews mircowave mini fridge found located hall standard size fridge leaving food drink cautionary stayed 14 days day 10 offered clean maybe due g20 didnt offer beforehand lots college students noisy times overall bad didnt 10pm required key security guard airport time stayed overall complete nightmare stay liked location 10 min walk eaton centre city bus stop 5 mins airporter airport stop front hotel wouldnt recommend residence families price paid rate opinion price including daily housekeeping",
+      "Date": "2011-01-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Vienna, Austria",
+      "Title": "\u201cCentrally located hotel that is lacking room service\u201d",
+      "Author": "writermonad",
+      "ReviewID": "UR89561041",
+      "Content": "staff polite welcoming hotel taking security seriously elevator entering card wireless connection available reachable hotel located centrally various shopping centers subway station walking distance bathroom spacious american standards discovered hair bathroom floor bathtub definitely werent mine worse service 3 days stayed towels replaced disappointing hotels toronto price",
+      "Date": "2010-12-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Truro, Canada",
+      "Title": "\u201cOMG what a dump\u201d",
+      "Author": "kagc1969",
+      "ReviewID": "UR77417500",
+      "Content": "travelled toronto business organization booked block 2 electric outlets located heavy metal desk beds table bedside lights available light switch associates bed light bathroom linens minimal replenished daily breakfast cafeteria style ok surrender handbag daily teenager stored cubby prevent stealing food popcorn bed arrived horrors body sheets torn carpet dirty clothes beds clothes hanging closet dirty staying association booked payed trapped hotel functions residence academic hell kid stay nasty",
+      "Date": "2010-08-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cHotel of Horrors\u201d",
+      "Author": "lady0racle",
+      "ReviewID": "UR76892274",
+      "Content": "chestnut suggested conference hotel organization jumped affordable price proximity conference venue appeared cheap cheerful internet checked discovered kept clean apparently cleaned checked found dirty stained sheets dirty socks garbage beds chipped dirty bathtubs sinks hairs pillows sinks surfaces nonfunctional fire alarms lightbulbs thick dust lamps chairs etc prepaid conference organizers choice stay forfeit money slept horribly nightmares staying filthy residence caution spend little night sleep hygiene",
+      "Date": "2010-08-25 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "89 Chestnut",
+    "HotelURL": "/ShowUserReviews-g155019-d311925-Reviews-89_Chestnut-Toronto_Ontario.html",
+    "Price": "$79 - $89*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">89 Chestnut Street</span>, <span class=\"locality\"><span property=\"v:locality\">Toronto</span>, <span property=\"v:region\">Ontario</span> <span property=\"v:postal-code\">M5G 1R1</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span> </span> </address>",
+    "HotelID": "311925",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/bc/3e/e5/89-chestnut-thumbnail.jpg"
+  }
+}

@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cok but small room\u201d", "Author": "carves", "ReviewID": "UR130148282", "Content": "hotel clean modern time hk cant compare guess location price town wasnt cheap short notice vietnam fee wouldve king id happy stay close heaps particularly liked pelican bay florida beachside bar corner lane close hang", "Date": "2012-05-18 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Calgary, AB", "Title": "\u201cAdequate - Would choose elsewhere for a trip with any duration\u201d", "Author": "Ft_Garry", "ReviewID": "UR122693063", "Content": "stayed night submitted review returned hong kong holiday season booked hotel employer total five nights adequate bed 510 frame uncomfortably hard prefer hard bed bathroom shower highlight space roomy shower lots hot water nice bench shower head adjustable unusable guess id bathroom recently renovated pretty clean tell carpet fairly worn furnishings middle floor found noisy people beside active hallway expected hotel hong kong trip staff friendly outgoing found norm hong kong hotels comfortable note colleagues booked 63 fit bed adjust wall head wall foot clean checked morning", "Date": "2012-01-06 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "KL", "Title": "\u201cBasic but perfectly adequate\u201d", "Author": "papercamera", "ReviewID": "UR122064878", "Content": "basic amenities bright window clean liked recently renovated bathroom downside hard bed takes getting location tst didnt hill bus airport express conveniently located foot near lots restaurants bars shops", "Date": "2011-12-24 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Tel Aviv", "Title": "\u201cIf You are OVER 6 Ft Tall.....BEWARE!!!\u201d", "Author": "EliF57", "ReviewID": "UR121241290", "Content": "admit im staying cramped living conditions travelled throughout south east asia 6 ft 3 inches accommodations little tight ultimate land lilliputian moment slightly bigger closet dirty bed wedged walls 6 ft lie bed reverting position arrived late 12 hour flight decided speak reception morning sleepless night informed management unacceptable move slightly price talking disinterested useless clerk informed set configuration id look elsewhere supposed stay 6 nights 2 hrs searching transferred elsewhere price location hotels cleaner bigger accommodate bigger people", "Date": "2011-11-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Almaty, Kazakhstan", "Title": "\u201cShort stay but excellent service\u201d", "Author": "RAMRK", "ReviewID": "UR84073414", "Content": "stayed wife night traveling hongkong flight hours day woken exactly taxi ready bell team helped smooth sailing", "Date": "2010-10-19 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cthis is knutsford\u201d", "Author": "travelingmadam", "ReviewID": "UR79092892", "Content": "actually stayed couple ago renovation opportunity write stayed people stayed nights booked double bed yes typical 3 hong kong bed soso comfy bathroom clean lighting bright sort disturbing bath tub hot water fast thank god consider winter floor bit slippery hear noises night breakfast hmm okay taste chance try facilities pool bar peek little reception slow thats bad chair sit 3 porter luggage polite demand tip badly yelling cantonese frightened overall dont staying consider location kowloon located alley dont staff services shops restaurants nearby type likes local sightings bout distance mtr", "Date": "2010-09-11 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Hong Kong, China", "Title": "\u201cBeen staying in this hotel with friends over 2 weeks, been to like 8 different rooms.\u201d", "Author": "laapsaap", "ReviewID": "UR73254700", "Content": "staying hotel friends 2 weeks 8 stay own single deluxe etc location ok tst mtr station using taxi exclusively steep walk hotel ok tired day walking partying climbing mountain lobby desk hear talk people stayed probably understand am talking refused 2 single touch toilet bed watch tv sitting toilet showering yes am dont fit bed curl little double abit tho internet crap strong background networking routers stuff setup definately wrong internet unusable drops connection time wifi connection dropped reception internet complaints didnt solved mind 5 laptops floors internet definately dont option pay friendly staff", "Date": "2010-08-01 00:00:00"}], "HotelInfo": {"Name": "Acesite Knutsford Hotel", "HotelURL": "/ShowUserReviews-g294217-d662470-Reviews-Acesite_Knutsford_Hotel-Hong_Kong.html", "Price": "$80 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.8 Observatory Court, Tsim Sha Tsui</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>", "HotelID": "662470", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/d9/3a/5e/caption.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cok but small room\u201d",
+      "Author": "carves",
+      "ReviewID": "UR130148282",
+      "Content": "hotel clean modern time hk cant compare guess location price town wasnt cheap short notice vietnam fee wouldve king id happy stay close heaps particularly liked pelican bay florida beachside bar corner lane close hang",
+      "Date": "2012-05-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Calgary, AB",
+      "Title": "\u201cAdequate - Would choose elsewhere for a trip with any duration\u201d",
+      "Author": "Ft_Garry",
+      "ReviewID": "UR122693063",
+      "Content": "stayed night submitted review returned hong kong holiday season booked hotel employer total five nights adequate bed 510 frame uncomfortably hard prefer hard bed bathroom shower highlight space roomy shower lots hot water nice bench shower head adjustable unusable guess id bathroom recently renovated pretty clean tell carpet fairly worn furnishings middle floor found noisy people beside active hallway expected hotel hong kong trip staff friendly outgoing found norm hong kong hotels comfortable note colleagues booked 63 fit bed adjust wall head wall foot clean checked morning",
+      "Date": "2012-01-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "KL",
+      "Title": "\u201cBasic but perfectly adequate\u201d",
+      "Author": "papercamera",
+      "ReviewID": "UR122064878",
+      "Content": "basic amenities bright window clean liked recently renovated bathroom downside hard bed takes getting location tst didnt hill bus airport express conveniently located foot near lots restaurants bars shops",
+      "Date": "2011-12-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Tel Aviv",
+      "Title": "\u201cIf You are OVER 6 Ft Tall.....BEWARE!!!\u201d",
+      "Author": "EliF57",
+      "ReviewID": "UR121241290",
+      "Content": "admit im staying cramped living conditions travelled throughout south east asia 6 ft 3 inches accommodations little tight ultimate land lilliputian moment slightly bigger closet dirty bed wedged walls 6 ft lie bed reverting position arrived late 12 hour flight decided speak reception morning sleepless night informed management unacceptable move slightly price talking disinterested useless clerk informed set configuration id look elsewhere supposed stay 6 nights 2 hrs searching transferred elsewhere price location hotels cleaner bigger accommodate bigger people",
+      "Date": "2011-11-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Almaty, Kazakhstan",
+      "Title": "\u201cShort stay but excellent service\u201d",
+      "Author": "RAMRK",
+      "ReviewID": "UR84073414",
+      "Content": "stayed wife night traveling hongkong flight hours day woken exactly taxi ready bell team helped smooth sailing",
+      "Date": "2010-10-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cthis is knutsford\u201d",
+      "Author": "travelingmadam",
+      "ReviewID": "UR79092892",
+      "Content": "actually stayed couple ago renovation opportunity write stayed people stayed nights booked double bed yes typical 3 hong kong bed soso comfy bathroom clean lighting bright sort disturbing bath tub hot water fast thank god consider winter floor bit slippery hear noises night breakfast hmm okay taste chance try facilities pool bar peek little reception slow thats bad chair sit 3 porter luggage polite demand tip badly yelling cantonese frightened overall dont staying consider location kowloon located alley dont staff services shops restaurants nearby type likes local sightings bout distance mtr",
+      "Date": "2010-09-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Hong Kong, China",
+      "Title": "\u201cBeen staying in this hotel with friends over 2 weeks, been to like 8 different rooms.\u201d",
+      "Author": "laapsaap",
+      "ReviewID": "UR73254700",
+      "Content": "staying hotel friends 2 weeks 8 stay own single deluxe etc location ok tst mtr station using taxi exclusively steep walk hotel ok tired day walking partying climbing mountain lobby desk hear talk people stayed probably understand am talking refused 2 single touch toilet bed watch tv sitting toilet showering yes am dont fit bed curl little double abit tho internet crap strong background networking routers stuff setup definately wrong internet unusable drops connection time wifi connection dropped reception internet complaints didnt solved mind 5 laptops floors internet definately dont option pay friendly staff",
+      "Date": "2010-08-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Acesite Knutsford Hotel",
+    "HotelURL": "/ShowUserReviews-g294217-d662470-Reviews-Acesite_Knutsford_Hotel-Hong_Kong.html",
+    "Price": "$80 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.8 Observatory Court, Tsim Sha Tsui</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>",
+    "HotelID": "662470",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/d9/3a/5e/caption.jpg"
+  }
+}

@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "bingley", "Title": "\u201cThe worst hotel I have ever stayed in.\u201d", "Author": "cathy67s", "ReviewID": "UR127982423", "Content": "doubt worst hotel misfortune stay absolutely filthy posted photographs disgusting conditions stayed advertised 4 star hotel minus 4 youll sorry", "Date": "2012-04-16 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Norwich, United Kingdom", "Title": "\u201cOh dear!\u201d", "Author": "Skier0", "ReviewID": "UR127945123", "Content": "booked hotel schools rugby tour visiting rome boys 3 lucky parents hotel 4 star ratings poor advert starring system arrival discovered parents checked gone else key 5th floor door shut unless locked struggle barely 2 suitcases mind 2 people bathroom tiny shower difficult fair water hot towels minute holes breakfast consisted coffee machine disgusting coffee nasty scum top croissants fairly dry jam help pink orange colour taste lasted 2 nights checking join parents 4 hotel", "Date": "2012-04-15 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Ireland", "Title": "\u201cLux is not short for Luxurious!!!\u201d", "Author": "1DFan", "ReviewID": "UR124728653", "Content": "star hotel dont minus star school trip stayed lovely hotel sorrento rome expectations hotel equally nice previous wrong fussy bunch teenagers expect basics teachers complaining absolutely tiny twin beds struggled fit regular sized suitcases door wouldnt close lock properly uncomfortable third fusty smell smelt damp thankfully ours didnt classmates blood stain curtain toilet wouldnt flush properly sockets broken shower door wouldnt close beds extremely low poor lighting cramped hotel corridors narrow awkward 42 noisy excited sixteen olds move breakfast couldnt eat joke am fussy eater croissants blue mould bread hard toaster orange juice pineapple juice likes instead sweet milk smelly water cracked chipped luckily brought food didnt starve morning typical irish teenagers cant survive cup tea guess tea classmate brought teabags survived hotel doesnt kitchen ie microwave teachers porridge morning couldnt microwave mad isnt told hotel staff super rude grumpy im letting excuse noisy teenagers fairly quiet drinks mini fridge free charge check looking pay drinks refused werent impressed time rome spent little time hotel hotel disappointing understatement returning hotel lux staying hotel lux cost twin bb night \u20ac100 fantastic value dont", "Date": "2012-02-17 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Belgrade, Serbia", "Title": "\u201cDon't stay there\u201d", "Author": "Slavica_11", "ReviewID": "UR109919166", "Content": "mother supposed trip remember separated beds sleep sheet extra sheet bed dirty cover immediately tiny closet dirty pillows brought own pillows thanks previous reviews tripadvisor nevertheless day cleaning lady closet bed disgusting barely bags inside ofcourse unpacking question lack space bathroom disgusting shower cabin falling apart mold toilet bowl picture attached web site previously breakfast dirty cutlery bread yesterday ham rats maybe yeah forget salty coffee staff polite service day told leave 10 am athough written info sheet stay noon complained air condition late hot rome temperature 28 realized air condition heat cool told allow cooling june 1st neigborhood maybe dangerous dont stay rent appartment", "Date": "2011-05-26 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Moscow, Russia", "Title": "\u201cthe worst ever hotel\u201d", "Author": "alwaysblond", "ReviewID": "UR98632484", "Content": "2 nights rome booking hotel 3 nearby termini check day told hotel temporary water supply alternative hotel quality corner lux hotel taxi nicely surprized 4 star hotel excited surprised dicovered hotel category bathroom awfull clean double bad double 15 person size night cold searching tha blanket found wardrobe dirty washed reception change blanket guy reception talking brought sheet blanket finally managed understand replacement clean blanket 20 tv morning husband cause close door shower cabin shower held hit head water lucky hair pipe broken main body breakfastthis story deserving 10 minutes typing stay 2 starts hotels cities amsterdam london breakfasts fresh compare lux breakfast lux 4 star hotel wonder ministry tourism confirm 4 stars specifically checked form cause belive eyes staying 4 start hotel mistaken indeed form 2011 4 star hotel proved authority stamp", "Date": "2011-03-02 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "", "Title": "\u201cNot 4 star hotel!\u201d", "Author": "Vacationsrbest", "ReviewID": "UR77298512", "Content": "hotel 4 star hotelour bathroomwe stay 3 nights day didnt hot water showerthe days water presure low wasnt easy shower breakfast goodnot 4start breakfast goodnot friendly staff didnt speak didnt care water", "Date": "2010-08-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Nicosia, Cyprus", "Title": "\u201cBasic accommodation but very clean hotel and polite staff.\u201d", "Author": "maleda", "ReviewID": "UR71454664", "Content": "stayed hotel lux 3 nights single closet view wall window feeling immediately claustrophobic hotel apologetically offered spacious double balcony improvement luxurious found hotel clean pleasant polite accommodating staff", "Date": "2010-07-19 00:00:00"}], "HotelInfo": {"Name": "Hotel Lux", "HotelURL": "/ShowUserReviews-g187791-d530719-Reviews-Hotel_Lux-Rome_Lazio.html", "Price": "$106 - $171*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Gaeta, 14</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "530719", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "bingley",
+      "Title": "\u201cThe worst hotel I have ever stayed in.\u201d",
+      "Author": "cathy67s",
+      "ReviewID": "UR127982423",
+      "Content": "doubt worst hotel misfortune stay absolutely filthy posted photographs disgusting conditions stayed advertised 4 star hotel minus 4 youll sorry",
+      "Date": "2012-04-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Norwich, United Kingdom",
+      "Title": "\u201cOh dear!\u201d",
+      "Author": "Skier0",
+      "ReviewID": "UR127945123",
+      "Content": "booked hotel schools rugby tour visiting rome boys 3 lucky parents hotel 4 star ratings poor advert starring system arrival discovered parents checked gone else key 5th floor door shut unless locked struggle barely 2 suitcases mind 2 people bathroom tiny shower difficult fair water hot towels minute holes breakfast consisted coffee machine disgusting coffee nasty scum top croissants fairly dry jam help pink orange colour taste lasted 2 nights checking join parents 4 hotel",
+      "Date": "2012-04-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ireland",
+      "Title": "\u201cLux is not short for Luxurious!!!\u201d",
+      "Author": "1DFan",
+      "ReviewID": "UR124728653",
+      "Content": "star hotel dont minus star school trip stayed lovely hotel sorrento rome expectations hotel equally nice previous wrong fussy bunch teenagers expect basics teachers complaining absolutely tiny twin beds struggled fit regular sized suitcases door wouldnt close lock properly uncomfortable third fusty smell smelt damp thankfully ours didnt classmates blood stain curtain toilet wouldnt flush properly sockets broken shower door wouldnt close beds extremely low poor lighting cramped hotel corridors narrow awkward 42 noisy excited sixteen olds move breakfast couldnt eat joke am fussy eater croissants blue mould bread hard toaster orange juice pineapple juice likes instead sweet milk smelly water cracked chipped luckily brought food didnt starve morning typical irish teenagers cant survive cup tea guess tea classmate brought teabags survived hotel doesnt kitchen ie microwave teachers porridge morning couldnt microwave mad isnt told hotel staff super rude grumpy im letting excuse noisy teenagers fairly quiet drinks mini fridge free charge check looking pay drinks refused werent impressed time rome spent little time hotel hotel disappointing understatement returning hotel lux staying hotel lux cost twin bb night \u20ac100 fantastic value dont",
+      "Date": "2012-02-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Belgrade, Serbia",
+      "Title": "\u201cDon't stay there\u201d",
+      "Author": "Slavica_11",
+      "ReviewID": "UR109919166",
+      "Content": "mother supposed trip remember separated beds sleep sheet extra sheet bed dirty cover immediately tiny closet dirty pillows brought own pillows thanks previous reviews tripadvisor nevertheless day cleaning lady closet bed disgusting barely bags inside ofcourse unpacking question lack space bathroom disgusting shower cabin falling apart mold toilet bowl picture attached web site previously breakfast dirty cutlery bread yesterday ham rats maybe yeah forget salty coffee staff polite service day told leave 10 am athough written info sheet stay noon complained air condition late hot rome temperature 28 realized air condition heat cool told allow cooling june 1st neigborhood maybe dangerous dont stay rent appartment",
+      "Date": "2011-05-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Moscow, Russia",
+      "Title": "\u201cthe worst ever hotel\u201d",
+      "Author": "alwaysblond",
+      "ReviewID": "UR98632484",
+      "Content": "2 nights rome booking hotel 3 nearby termini check day told hotel temporary water supply alternative hotel quality corner lux hotel taxi nicely surprized 4 star hotel excited surprised dicovered hotel category bathroom awfull clean double bad double 15 person size night cold searching tha blanket found wardrobe dirty washed reception change blanket guy reception talking brought sheet blanket finally managed understand replacement clean blanket 20 tv morning husband cause close door shower cabin shower held hit head water lucky hair pipe broken main body breakfastthis story deserving 10 minutes typing stay 2 starts hotels cities amsterdam london breakfasts fresh compare lux breakfast lux 4 star hotel wonder ministry tourism confirm 4 stars specifically checked form cause belive eyes staying 4 start hotel mistaken indeed form 2011 4 star hotel proved authority stamp",
+      "Date": "2011-03-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cNot 4 star hotel!\u201d",
+      "Author": "Vacationsrbest",
+      "ReviewID": "UR77298512",
+      "Content": "hotel 4 star hotelour bathroomwe stay 3 nights day didnt hot water showerthe days water presure low wasnt easy shower breakfast goodnot 4start breakfast goodnot friendly staff didnt speak didnt care water",
+      "Date": "2010-08-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Nicosia, Cyprus",
+      "Title": "\u201cBasic accommodation but very clean hotel and polite staff.\u201d",
+      "Author": "maleda",
+      "ReviewID": "UR71454664",
+      "Content": "stayed hotel lux 3 nights single closet view wall window feeling immediately claustrophobic hotel apologetically offered spacious double balcony improvement luxurious found hotel clean pleasant polite accommodating staff",
+      "Date": "2010-07-19 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Lux",
+    "HotelURL": "/ShowUserReviews-g187791-d530719-Reviews-Hotel_Lux-Rome_Lazio.html",
+    "Price": "$106 - $171*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Gaeta, 14</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "530719",
+    "ImgURL": ""
+  }
+}

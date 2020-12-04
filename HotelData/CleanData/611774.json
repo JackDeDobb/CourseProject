@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Lugano", "Title": "\u201cNicely decorated, reasonable rates,good breakfast\u201d", "Author": "BAC6815", "ReviewID": "UR122568884", "Content": "stayed hotel times prices value money roomas nicly decorated breakfast top floor individual noises th restaurant midnight prefer bathtub showers available botel clean conveniently located near underground bus system center overall hotel athmosphere apart mentioned", "Date": "2012-01-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Hornchurch", "Title": "\u201cVery easy for sight seeing\u201d", "Author": "kitnorton", "ReviewID": "UR120745482", "Content": "enjoyed italian decor little dusty fabrics fault 3star hotel 1 minute underground quiet location easy tube journey tegal airport 4 suitcases lifts tube look hard 3 4 stops shops zoo night bus home", "Date": "2011-11-18 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Mijas-Costa", "Title": "\u201cExcellent stylish decor & flair, friendly service, delicious breakfast.\u201d", "Author": "Damifina", "ReviewID": "UR68560911", "Content": "travel berlin business wife opted romantic style hotel nice decor quiet location choice pricequality style appealed pleasantly surprised decoration ambience hotel size 10 euro surcharge abundant coffee tea facilities bathroom nicely appointed stylish drawback glassedin shower awkward sink toilet space tight builder sleeping maybe dreaming installed imagine people fuller figure handicap somewhat difficult wardrobe space furniture adequate appreciated lamp desk unfortunately safe didnt properly didnt fuss staff friendly helpful arranging breakfast buffet stylish rooftop garden varied delicious ran dishes late breakfast pleased especially price allright stay", "Date": "2010-06-24 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "hkmny", "Title": "\u201cWorst Hotel Ever\u201d", "Author": "hkmny", "ReviewID": "UR67649066", "Content": "located near airport train station 15 minute walk telephone didnt inroom wifi didnt despite 10 eurosday breakfast wasnt dinner restaurant below average management dishonest dealing 3rd party reservation regards cancellation due poor quality hotel im usually picky comes hotels doubt worst experience ive hotel world holiday inn schoenefeld located near option service provide free shuttle tofrom rain station airport", "Date": "2010-06-15 00:00:00"}], "HotelInfo": {"Name": "HSH Hotel Albergo", "HotelURL": "/ShowUserReviews-g187323-d611774-Reviews-HSH_Hotel_Albergo-Berlin.html", "Price": "$54 - $215*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Hohenzollerndamm 33</span>, <span class=\"locality\"><span property=\"v:postal-code\">10713</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "611774", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8b/e4/8be487757568328d9851d4d7b729f3a97large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Lugano",
+      "Title": "\u201cNicely decorated, reasonable rates,good breakfast\u201d",
+      "Author": "BAC6815",
+      "ReviewID": "UR122568884",
+      "Content": "stayed hotel times prices value money roomas nicly decorated breakfast top floor individual noises th restaurant midnight prefer bathtub showers available botel clean conveniently located near underground bus system center overall hotel athmosphere apart mentioned",
+      "Date": "2012-01-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Hornchurch",
+      "Title": "\u201cVery easy for sight seeing\u201d",
+      "Author": "kitnorton",
+      "ReviewID": "UR120745482",
+      "Content": "enjoyed italian decor little dusty fabrics fault 3star hotel 1 minute underground quiet location easy tube journey tegal airport 4 suitcases lifts tube look hard 3 4 stops shops zoo night bus home",
+      "Date": "2011-11-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Mijas-Costa",
+      "Title": "\u201cExcellent stylish decor & flair, friendly service, delicious breakfast.\u201d",
+      "Author": "Damifina",
+      "ReviewID": "UR68560911",
+      "Content": "travel berlin business wife opted romantic style hotel nice decor quiet location choice pricequality style appealed pleasantly surprised decoration ambience hotel size 10 euro surcharge abundant coffee tea facilities bathroom nicely appointed stylish drawback glassedin shower awkward sink toilet space tight builder sleeping maybe dreaming installed imagine people fuller figure handicap somewhat difficult wardrobe space furniture adequate appreciated lamp desk unfortunately safe didnt properly didnt fuss staff friendly helpful arranging breakfast buffet stylish rooftop garden varied delicious ran dishes late breakfast pleased especially price allright stay",
+      "Date": "2010-06-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "hkmny",
+      "Title": "\u201cWorst Hotel Ever\u201d",
+      "Author": "hkmny",
+      "ReviewID": "UR67649066",
+      "Content": "located near airport train station 15 minute walk telephone didnt inroom wifi didnt despite 10 eurosday breakfast wasnt dinner restaurant below average management dishonest dealing 3rd party reservation regards cancellation due poor quality hotel im usually picky comes hotels doubt worst experience ive hotel world holiday inn schoenefeld located near option service provide free shuttle tofrom rain station airport",
+      "Date": "2010-06-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "HSH Hotel Albergo",
+    "HotelURL": "/ShowUserReviews-g187323-d611774-Reviews-HSH_Hotel_Albergo-Berlin.html",
+    "Price": "$54 - $215*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Hohenzollerndamm 33</span>, <span class=\"locality\"><span property=\"v:postal-code\">10713</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "611774",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8b/e4/8be487757568328d9851d4d7b729f3a97large.jpg"
+  }
+}

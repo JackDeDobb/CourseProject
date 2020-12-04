@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Gainesville, Florida", "Title": "\u201cFriendly staff average property\u201d", "Author": "tatliturk", "ReviewID": "UR120064063", "Content": "wife stayed property designated conference hotel conference organized marmara university location convenient check seamless reserved line conference web site corner suite suite sight coffee maker double bed pretty average terms comfort morning downstairs breakfast served buffet style average offerings cheese butter jams honey kinds bread coffee tea morning bread basket awesome fresh simit vendor outside management added fruits breakfast offerings night trouble sleeping people door kept talking loudly sounded inside walls paper thin requested tone complied repeat act night front office people morning move quiet moved people instead check stressful experience charge 120 euro night conference rate 80 euro hotel rate 60 euros eventually conference involved forth telephone calls front office people top management discount 90 euro night goodwill gesture bottom line hotels istanbul price liked staff", "Date": "2011-11-02 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Sonderborg", "Title": "\u201cGood hotel, but lousy location\u201d", "Author": "Jan_Bruns", "ReviewID": "UR56164018", "Content": "stayed hotel eye surgery istanbul surgery hospital located door compared location excellent otherwise night soccer game turkey played hungary decided walk taxi close hotel meet turks directions recommended taxi bad neighboorhood hotel located steep road restaurants near pizza street alcohol served hotel taxi main road near hope catch usually surroundings htel self nice maintained nice staff usually helpful recommend hotel hospital visit istanbul else stay", "Date": "2010-02-16 00:00:00"}], "HotelInfo": {"Name": "Mim Hotel Istanbul", "HotelURL": "/ShowUserReviews-g293974-d304826-Reviews-Mim_Hotel_Istanbul-Istanbul.html", "Price": "$138 - $171*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Fulya Bayirl Ferah Sokak No 16</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">80200</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "304826", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/9f/b3/9fb3638bfe0d6760baed880f9ed4e2d31large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Gainesville, Florida",
+      "Title": "\u201cFriendly staff average property\u201d",
+      "Author": "tatliturk",
+      "ReviewID": "UR120064063",
+      "Content": "wife stayed property designated conference hotel conference organized marmara university location convenient check seamless reserved line conference web site corner suite suite sight coffee maker double bed pretty average terms comfort morning downstairs breakfast served buffet style average offerings cheese butter jams honey kinds bread coffee tea morning bread basket awesome fresh simit vendor outside management added fruits breakfast offerings night trouble sleeping people door kept talking loudly sounded inside walls paper thin requested tone complied repeat act night front office people morning move quiet moved people instead check stressful experience charge 120 euro night conference rate 80 euro hotel rate 60 euros eventually conference involved forth telephone calls front office people top management discount 90 euro night goodwill gesture bottom line hotels istanbul price liked staff",
+      "Date": "2011-11-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Sonderborg",
+      "Title": "\u201cGood hotel, but lousy location\u201d",
+      "Author": "Jan_Bruns",
+      "ReviewID": "UR56164018",
+      "Content": "stayed hotel eye surgery istanbul surgery hospital located door compared location excellent otherwise night soccer game turkey played hungary decided walk taxi close hotel meet turks directions recommended taxi bad neighboorhood hotel located steep road restaurants near pizza street alcohol served hotel taxi main road near hope catch usually surroundings htel self nice maintained nice staff usually helpful recommend hotel hospital visit istanbul else stay",
+      "Date": "2010-02-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Mim Hotel Istanbul",
+    "HotelURL": "/ShowUserReviews-g293974-d304826-Reviews-Mim_Hotel_Istanbul-Istanbul.html",
+    "Price": "$138 - $171*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Fulya Bayirl Ferah Sokak No 16</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">80200</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "304826",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/9f/b3/9fb3638bfe0d6760baed880f9ed4e2d31large.jpg"
+  }
+}

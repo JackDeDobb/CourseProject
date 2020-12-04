@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 2.0}, "AuthorLocation": "London", "Title": "\u201cNice modern rooms\u201d", "Author": "HiralP", "ReviewID": "UR131016961", "Content": "stayed hotel week conference enjoyed true local vicinity didnt restaurants cafes nearby taxi central madrid costs \u20ac20 nice modern wood floors comfortable beds speaker usb connection didnt bathroom lovely modern slight strange floor shower metal comfortable standing 5 knocked service restaurant menu short iron borrow ironing board portable tiny makes ironing adult clothes tricky", "Date": "2012-05-31 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Palmer, Alaska", "Title": "\u201cNorth of Madrid, modern hotel...\u201d", "Author": "kjconner", "ReviewID": "UR130441361", "Content": "parents booked hotel phone unaware location specifics landed madrid parents flight cancelled called hotel thankfully reached fantastic front desk person named magda absolutely reassuring hectic flights alaska guided helped track parents alternate flight plan ease completely waiting parents arrive walked neighborhood near hotel found little supermarket farmacia atm else day parents arrived magda simple instructions catch bus city center complicated opted taxi enjoyed noise fuss city modern little liking comfortable glass bathroom walls bit free mini bar breakfast stocked service nice enjoyable", "Date": "2012-05-23 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Brussels", "Title": "\u201cReally enjoyed it\u201d", "Author": "BlueDolphinBrussels", "ReviewID": "UR80247353", "Content": "centrally located hotel madrid location quiet leafy perfect frankly surprised stylish comfortable including comfortable chair reading watching tv bed nice thick towels generous shower mattered friendly bar red wine quality temperature fairly priced left comment breakfast learn hotel restaurant reputation", "Date": "2010-09-20 00:00:00"}], "HotelInfo": {"Name": "AC Hotel Monte Real by Marriott", "HotelURL": "/ShowUserReviews-g187514-d228522-Reviews-AC_Hotel_Monte_Real_by_Marriott-Madrid.html", "Price": "$73 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Arroyo Fresno 17</span> | <span class=\"extended-address\">Puerta de Hierro</span>, <span class=\"locality\"><span property=\"v:postal-code\">28035</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "228522", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5a/41/5a41fe2e49dc31c867dc2c60a020d03c3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cNice modern rooms\u201d",
+      "Author": "HiralP",
+      "ReviewID": "UR131016961",
+      "Content": "stayed hotel week conference enjoyed true local vicinity didnt restaurants cafes nearby taxi central madrid costs \u20ac20 nice modern wood floors comfortable beds speaker usb connection didnt bathroom lovely modern slight strange floor shower metal comfortable standing 5 knocked service restaurant menu short iron borrow ironing board portable tiny makes ironing adult clothes tricky",
+      "Date": "2012-05-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Palmer, Alaska",
+      "Title": "\u201cNorth of Madrid, modern hotel...\u201d",
+      "Author": "kjconner",
+      "ReviewID": "UR130441361",
+      "Content": "parents booked hotel phone unaware location specifics landed madrid parents flight cancelled called hotel thankfully reached fantastic front desk person named magda absolutely reassuring hectic flights alaska guided helped track parents alternate flight plan ease completely waiting parents arrive walked neighborhood near hotel found little supermarket farmacia atm else day parents arrived magda simple instructions catch bus city center complicated opted taxi enjoyed noise fuss city modern little liking comfortable glass bathroom walls bit free mini bar breakfast stocked service nice enjoyable",
+      "Date": "2012-05-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Brussels",
+      "Title": "\u201cReally enjoyed it\u201d",
+      "Author": "BlueDolphinBrussels",
+      "ReviewID": "UR80247353",
+      "Content": "centrally located hotel madrid location quiet leafy perfect frankly surprised stylish comfortable including comfortable chair reading watching tv bed nice thick towels generous shower mattered friendly bar red wine quality temperature fairly priced left comment breakfast learn hotel restaurant reputation",
+      "Date": "2010-09-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "AC Hotel Monte Real by Marriott",
+    "HotelURL": "/ShowUserReviews-g187514-d228522-Reviews-AC_Hotel_Monte_Real_by_Marriott-Madrid.html",
+    "Price": "$73 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Arroyo Fresno 17</span> | <span class=\"extended-address\">Puerta de Hierro</span>, <span class=\"locality\"><span property=\"v:postal-code\">28035</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "228522",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5a/41/5a41fe2e49dc31c867dc2c60a020d03c3large.jpg"
+  }
+}

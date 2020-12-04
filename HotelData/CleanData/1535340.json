@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cnear vivocity\u201d", "Author": "candace90", "ReviewID": "UR121064350", "Content": "week friend booked 2 checkin leave luggage harbourfront station exit walking foodcourt car park petrol station kindergarten hotel kindergarten maybe 15mins foot nice view night lights cable car hungry 3am buy food 7eleven universal studio dont bus infront hotel worth near pay 12 travel people kids cab", "Date": "2011-11-26 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Kuala Lumpur", "Title": "\u201ci believe there's better option!\u201d", "Author": "Beryl-KL", "ReviewID": "UR120311076", "Content": "1st step dont complain looks tidy clean price paid 100day couldnt accept 3 1 bath mat wet feet dry bath 2 blanket extremely thin freezing night aircond 25 degree 3 mattress wrapped pvc hard", "Date": "2011-11-07 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Singapore", "Title": "\u201cIf you have no other choice.....this one will do.\u201d", "Author": "ktine203", "ReviewID": "UR94593699", "Content": "booked bedroom 2 single beds queen size bed ok hotel initially windows elevator claustrophobic upgraded family 1 double bed 1 single bed family meter bigger regular initially assigned window cleanliness ok improve lot comfort realized fast turnout guests coming couples walls pretty thin soundproof traffic outside hotel located near main road hear traffic outside heard doors noises laughter talking talking book bring earplugs bring airfreshner guess time month nose awfully sensitive halls smell musky airing cost bit unreasonable considering backpackers hostel", "Date": "2011-01-27 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cTerrible & Horrible Hotel Service Staff - Ida\u201d", "Author": "shahroh", "ReviewID": "UR76300575", "Content": "worst experience hotel service staff named miss ida totally unprofessional rude incompetent staff ver service inconsiderate treatment hotel guests stay totally unpleasant recommend else dont waste time money hotel definitely value hotel rates dont bother return lowclass hotel discourteous staff", "Date": "2010-08-22 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Kuala Lumpur, Malaysia", "Title": "\u201cSmall but clean\u201d", "Author": "goodgirlbadgirl", "ReviewID": "UR75558875", "Content": "boked hotel cheap family location strategic receptionist help luggage checkin time arrived singapore proceed sentosa manage clean despite hotel breakfast nights slightly motel couples luckily nephew nieces didnt tired outing convenient budget travellers sleep ok splurge food activities sentosa vivo city", "Date": "2010-08-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Cebu City, Philippines", "Title": "\u201cConvenient but not comfortable\u201d", "Author": "TravelMomma7", "ReviewID": "UR71131062", "Content": "stayed husband convention nearby resorts world sentosa chose sg 1 bus ride vivo city sg 68 cab resort world casino convention universal staff helpful price expected comfort im talking huge dont expect fragrance hotels nor budget hotels budget hotel wasnt budget sg 370 3 nights beds hard pillows staff replace pillows softer set apologized pillows exhausted coming night dozed anyway wished fluffier blanket comforter ill recommend convenience location", "Date": "2010-07-16 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Melbourne", "Title": "\u201cBelow Average Hotel\u201d", "Author": "Buster2169", "ReviewID": "UR56814078", "Content": "feel issues hotel obvious fridge addressed 7 eleven below adjoining hotel fridge store cold drinks issue wireless internet 10 hours 10 reality dont 10 hours 10 determined activate wireless connection 10 physical hours activate 12 noon cuts 10pm bad luck shopping 2pm 7pm extra towels dont bother front desk guys doing waiting day display brochures local attractions foyer actually hotel door obtained thats simply poor", "Date": "2010-02-22 00:00:00"}], "HotelInfo": {"Name": "Fragrance Hotel - Royal", "HotelURL": "/ShowUserReviews-g294265-d1535340-Reviews-Fragrance_Hotel_Royal-Singapore.html", "Price": "$86 - $107*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">400 Telok Blangah Road</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">98838</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>", "HotelID": "1535340", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/33/dd/33dd7b4825ae5d8fbac0c3a8cd25c1d34large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cnear vivocity\u201d",
+      "Author": "candace90",
+      "ReviewID": "UR121064350",
+      "Content": "week friend booked 2 checkin leave luggage harbourfront station exit walking foodcourt car park petrol station kindergarten hotel kindergarten maybe 15mins foot nice view night lights cable car hungry 3am buy food 7eleven universal studio dont bus infront hotel worth near pay 12 travel people kids cab",
+      "Date": "2011-11-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Kuala Lumpur",
+      "Title": "\u201ci believe there's better option!\u201d",
+      "Author": "Beryl-KL",
+      "ReviewID": "UR120311076",
+      "Content": "1st step dont complain looks tidy clean price paid 100day couldnt accept 3 1 bath mat wet feet dry bath 2 blanket extremely thin freezing night aircond 25 degree 3 mattress wrapped pvc hard",
+      "Date": "2011-11-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Singapore",
+      "Title": "\u201cIf you have no other choice.....this one will do.\u201d",
+      "Author": "ktine203",
+      "ReviewID": "UR94593699",
+      "Content": "booked bedroom 2 single beds queen size bed ok hotel initially windows elevator claustrophobic upgraded family 1 double bed 1 single bed family meter bigger regular initially assigned window cleanliness ok improve lot comfort realized fast turnout guests coming couples walls pretty thin soundproof traffic outside hotel located near main road hear traffic outside heard doors noises laughter talking talking book bring earplugs bring airfreshner guess time month nose awfully sensitive halls smell musky airing cost bit unreasonable considering backpackers hostel",
+      "Date": "2011-01-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cTerrible & Horrible Hotel Service Staff - Ida\u201d",
+      "Author": "shahroh",
+      "ReviewID": "UR76300575",
+      "Content": "worst experience hotel service staff named miss ida totally unprofessional rude incompetent staff ver service inconsiderate treatment hotel guests stay totally unpleasant recommend else dont waste time money hotel definitely value hotel rates dont bother return lowclass hotel discourteous staff",
+      "Date": "2010-08-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Kuala Lumpur, Malaysia",
+      "Title": "\u201cSmall but clean\u201d",
+      "Author": "goodgirlbadgirl",
+      "ReviewID": "UR75558875",
+      "Content": "boked hotel cheap family location strategic receptionist help luggage checkin time arrived singapore proceed sentosa manage clean despite hotel breakfast nights slightly motel couples luckily nephew nieces didnt tired outing convenient budget travellers sleep ok splurge food activities sentosa vivo city",
+      "Date": "2010-08-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Cebu City, Philippines",
+      "Title": "\u201cConvenient but not comfortable\u201d",
+      "Author": "TravelMomma7",
+      "ReviewID": "UR71131062",
+      "Content": "stayed husband convention nearby resorts world sentosa chose sg 1 bus ride vivo city sg 68 cab resort world casino convention universal staff helpful price expected comfort im talking huge dont expect fragrance hotels nor budget hotels budget hotel wasnt budget sg 370 3 nights beds hard pillows staff replace pillows softer set apologized pillows exhausted coming night dozed anyway wished fluffier blanket comforter ill recommend convenience location",
+      "Date": "2010-07-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Melbourne",
+      "Title": "\u201cBelow Average Hotel\u201d",
+      "Author": "Buster2169",
+      "ReviewID": "UR56814078",
+      "Content": "feel issues hotel obvious fridge addressed 7 eleven below adjoining hotel fridge store cold drinks issue wireless internet 10 hours 10 reality dont 10 hours 10 determined activate wireless connection 10 physical hours activate 12 noon cuts 10pm bad luck shopping 2pm 7pm extra towels dont bother front desk guys doing waiting day display brochures local attractions foyer actually hotel door obtained thats simply poor",
+      "Date": "2010-02-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Fragrance Hotel - Royal",
+    "HotelURL": "/ShowUserReviews-g294265-d1535340-Reviews-Fragrance_Hotel_Royal-Singapore.html",
+    "Price": "$86 - $107*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">400 Telok Blangah Road</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">98838</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>",
+    "HotelID": "1535340",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/33/dd/33dd7b4825ae5d8fbac0c3a8cd25c1d34large.jpg"
+  }
+}

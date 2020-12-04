@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "bristol uk", "Title": "\u201cIt was hot , damn hot!\u201d", "Author": "richstrutt", "ReviewID": "UR70033581", "Content": "stayed 7 nights 10 crew bathroom clean useable comfy beds breakfast included price berlin hot 96 degrees nights humid sticky air con reception fan informed 10 moment ive spent breakfast service level drops floor buy fans gods sake fine little hotel drive mad week little sleep sort makes cranky", "Date": "2010-07-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Brooklyn, NY", "Title": "\u201cSimple, spotless and comfortable\u201d", "Author": "city-hiker", "ReviewID": "UR60608357", "Content": "stayed twice pleased times alt spotlessly clean comfortable luxury amenities safe secure conveniently located near public transportation quickly takes sights optional breakfast buffet diversity nice eat meals blocks hotel happily stay excellent value reliably comfortable secure stay", "Date": "2010-04-07 00:00:00"}], "HotelInfo": {"Name": "Hotel Alt Tempelhof", "HotelURL": "/ShowUserReviews-g187323-d199387-Reviews-Hotel_Alt_Tempelhof-Berlin.html", "Price": "$84 - $143*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Luise-Henriette-Strasse 4</span>, <span class=\"locality\"><span property=\"v:postal-code\">12103</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "199387", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/83/da/83da195f3a02253c498b59fcd24aca514large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "bristol uk",
+      "Title": "\u201cIt was hot , damn hot!\u201d",
+      "Author": "richstrutt",
+      "ReviewID": "UR70033581",
+      "Content": "stayed 7 nights 10 crew bathroom clean useable comfy beds breakfast included price berlin hot 96 degrees nights humid sticky air con reception fan informed 10 moment ive spent breakfast service level drops floor buy fans gods sake fine little hotel drive mad week little sleep sort makes cranky",
+      "Date": "2010-07-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Brooklyn, NY",
+      "Title": "\u201cSimple, spotless and comfortable\u201d",
+      "Author": "city-hiker",
+      "ReviewID": "UR60608357",
+      "Content": "stayed twice pleased times alt spotlessly clean comfortable luxury amenities safe secure conveniently located near public transportation quickly takes sights optional breakfast buffet diversity nice eat meals blocks hotel happily stay excellent value reliably comfortable secure stay",
+      "Date": "2010-04-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Alt Tempelhof",
+    "HotelURL": "/ShowUserReviews-g187323-d199387-Reviews-Hotel_Alt_Tempelhof-Berlin.html",
+    "Price": "$84 - $143*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Luise-Henriette-Strasse 4</span>, <span class=\"locality\"><span property=\"v:postal-code\">12103</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "199387",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/83/da/83da195f3a02253c498b59fcd24aca514large.jpg"
+  }
+}

@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Hamburg", "Title": "\u201cGood hotel with some flaws\u201d", "Author": "KarenE", "ReviewID": "UR127815939", "Content": "hotel postponed official construction inside building managment told upfront noise construction noise heard entire stay excellent view hagia sophia bland interior oldfashioned irish pub contemporary slightly ottoman style hotel beyond hotel conversion office building initially built hotel maybe that\u00e2\u00b4s noise travels easily husband night neighbours tv realized noisy tvs integrated walls inside mirror weird vegas bathroom maybe that\u00e2\u00b4s reason tv noise easily heard adjacent location hotel street pedestrian traffic noise major attractions easy walking distance decoration hallways entrance hall nice huge lobby sofa 2 chairs beyond obviously don\u00e2\u00b4t sit suggestion loud music terrace travels bedrooms", "Date": "2012-04-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Bucharest", "Title": "\u201cCentered, Modern, mixed with ottoman gentle flavour - good to go!\u201d", "Author": "CARGO2010", "ReviewID": "UR127251217", "Content": "location top city sultanahmet aria 4 minutes walk agia sophia mosque close restaurants lucky request facing towards mosque evening view day time hotel newly refurbished nice entrance bring sort vintage style modern touch traditional symbols empire top equiped bathrooms wide flat screen noise difficult accomodate maybe staff speaks pay attention personnel friendly helpful breakfast initially expected larger variety food realised food offered quality lot choose", "Date": "2012-04-04 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Warsaw, Poland", "Title": "\u201cGreat but still needs improvoment\u201d", "Author": "RobertPL", "ReviewID": "UR126665217", "Content": "staying hotel 2225 march 2012 location perfect heart sultanahmet district istanbul 300 hagia sophia 500 blue mosque 200 tramway stops easy airport hotel looks outside shining modern architecture ambiance lights double delux corner clean amenities ight hagia sophia window airconditioning system properly notified reception improved told woul switched ac windows fine constant noise ac pipe walls noise hotel impressed nice interior clean wherever nice scent flowers nice staff helpful experianced", "Date": "2012-03-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "maastricht", "Title": "\u201cgreat new crown plaza in istanbul\u201d", "Author": "frankv_belgium", "ReviewID": "UR121140297", "Content": "stayed 6 days brand crown plaza center istanbul luxurious hotel offering deal startup winter nice cant recommend breakfast celine dion music playing night heared front hotel nearly driving mad besides hotel", "Date": "2011-11-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "San Francisco", "Title": "\u201cBest Hotel in Old City\u201d", "Author": "Watchdog5151", "ReviewID": "UR120542834", "Content": "hotel doing job located 1 block hagia sophia blue mosque wifi excellent views window breakfast friendly staff ice minutes request elevators little strange stop landing floors 12 flight floor truly hotel town", "Date": "2011-11-13 00:00:00"}], "HotelInfo": {"Name": "Crowne Plaza Istanbul Hagia Sophia", "HotelURL": "/ShowUserReviews-g293974-d2313512-Reviews-Crowne_Plaza_Istanbul_Hagia_Sophia-Istanbul.html", "Price": "$190 - $305*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Alemdar Mah. Yerebatan Cad.No 13 Sultanahmet</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34122</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "2313512", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0e/0c/0e0cc8ed383cfc22b23400b7c27413b91large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Hamburg",
+      "Title": "\u201cGood hotel with some flaws\u201d",
+      "Author": "KarenE",
+      "ReviewID": "UR127815939",
+      "Content": "hotel postponed official construction inside building managment told upfront noise construction noise heard entire stay excellent view hagia sophia bland interior oldfashioned irish pub contemporary slightly ottoman style hotel beyond hotel conversion office building initially built hotel maybe that\u00e2\u00b4s noise travels easily husband night neighbours tv realized noisy tvs integrated walls inside mirror weird vegas bathroom maybe that\u00e2\u00b4s reason tv noise easily heard adjacent location hotel street pedestrian traffic noise major attractions easy walking distance decoration hallways entrance hall nice huge lobby sofa 2 chairs beyond obviously don\u00e2\u00b4t sit suggestion loud music terrace travels bedrooms",
+      "Date": "2012-04-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bucharest",
+      "Title": "\u201cCentered, Modern, mixed with ottoman gentle flavour - good to go!\u201d",
+      "Author": "CARGO2010",
+      "ReviewID": "UR127251217",
+      "Content": "location top city sultanahmet aria 4 minutes walk agia sophia mosque close restaurants lucky request facing towards mosque evening view day time hotel newly refurbished nice entrance bring sort vintage style modern touch traditional symbols empire top equiped bathrooms wide flat screen noise difficult accomodate maybe staff speaks pay attention personnel friendly helpful breakfast initially expected larger variety food realised food offered quality lot choose",
+      "Date": "2012-04-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Warsaw, Poland",
+      "Title": "\u201cGreat but still needs improvoment\u201d",
+      "Author": "RobertPL",
+      "ReviewID": "UR126665217",
+      "Content": "staying hotel 2225 march 2012 location perfect heart sultanahmet district istanbul 300 hagia sophia 500 blue mosque 200 tramway stops easy airport hotel looks outside shining modern architecture ambiance lights double delux corner clean amenities ight hagia sophia window airconditioning system properly notified reception improved told woul switched ac windows fine constant noise ac pipe walls noise hotel impressed nice interior clean wherever nice scent flowers nice staff helpful experianced",
+      "Date": "2012-03-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "maastricht",
+      "Title": "\u201cgreat new crown plaza in istanbul\u201d",
+      "Author": "frankv_belgium",
+      "ReviewID": "UR121140297",
+      "Content": "stayed 6 days brand crown plaza center istanbul luxurious hotel offering deal startup winter nice cant recommend breakfast celine dion music playing night heared front hotel nearly driving mad besides hotel",
+      "Date": "2011-11-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "San Francisco",
+      "Title": "\u201cBest Hotel in Old City\u201d",
+      "Author": "Watchdog5151",
+      "ReviewID": "UR120542834",
+      "Content": "hotel doing job located 1 block hagia sophia blue mosque wifi excellent views window breakfast friendly staff ice minutes request elevators little strange stop landing floors 12 flight floor truly hotel town",
+      "Date": "2011-11-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Crowne Plaza Istanbul Hagia Sophia",
+    "HotelURL": "/ShowUserReviews-g293974-d2313512-Reviews-Crowne_Plaza_Istanbul_Hagia_Sophia-Istanbul.html",
+    "Price": "$190 - $305*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Alemdar Mah. Yerebatan Cad.No 13 Sultanahmet</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34122</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "2313512",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0e/0c/0e0cc8ed383cfc22b23400b7c27413b91large.jpg"
+  }
+}

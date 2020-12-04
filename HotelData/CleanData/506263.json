@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Singapore", "Title": "\u201cFamily Suite is only good for immediate family\u201d", "Author": "SmileKitten", "ReviewID": "UR126891061", "Content": "mistake beginning mislead words website choose family suite extended family entered surprised living tv sofa chair table microwave refrigerator bedroom queensized bed pushed basically suitable immediate family extended family book instead extra electrical outlet charge notebook etc remember bring own extension cord tv contents limited free channels arrange own cards suite card controls electricity family stay door takes card leave black staff reception friendly request earlier checkin people live day despite request guests checkout 1030am cleaning job completed 230 pm location excellent convenient food court supermarket nearby lot entertainments free tickets ticket entitled people enter water park 2 hours play 1 child conclusion resort bbq probably singapore bbq 13 am ideal weekends getaway", "Date": "2012-03-29 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Auckland, New Zealand", "Title": "\u201cDifferent...........\u201d", "Author": "AKiwiandACanuck", "ReviewID": "UR126251927", "Content": "ok pay nights break trip nz cheaper option proper hotels singapore locals busy school holidays single beds pushed reviews noisy night water park door pool resort easy walk mrt stop resort attached mall shopping food close 19 taxi ride changi airport ok option budget", "Date": "2012-03-17 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Singapore", "Title": "\u201cNoise Pollution!\u201d", "Author": "SforSingapore", "ReviewID": "UR125485763", "Content": "economical stay simple wellequipped facilities eateries activities shops resort flooded local families teenagers weekends school holidays recommend light sleepers notices placed loud noise allowed 11pm people talk laugh loud till wee hours considerate stayed times time call security complain loud noise guests loud noise shut personally recommend tourists", "Date": "2012-03-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Panchkula, Haryana, India", "Title": "\u201cIts nice!!!\u201d", "Author": "AviAgg", "ReviewID": "UR120604975", "Content": "real resort water park market resort near mrt station swimming pool beach resort takes time reach central singapore tourist sport staying time avi", "Date": "2011-11-15 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Hong Kong", "Title": "\u201cYouth hostel for the frugal business traveller\u201d", "Author": "Valrit", "ReviewID": "UR107229725", "Content": "hotel international youth hostel association located close changi airport 5 min walk ris mrt unexpected pleasant surprise normally expect basis services youth hostel offers modern bathroom wifi free breakfast swimming pool inclusive low price combine business holiday option check 24 hours", "Date": "2011-05-07 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Porto, Portugal", "Title": "\u201cGood place to stay with friends\u201d", "Author": "pete7654", "ReviewID": "UR78197013", "Content": "found stay friends lot space hang leaving hotel simple enjoy xbox bbq pit outside looking quiet choise bit noisy sometimes location bit downtown mrt station connection airport city center", "Date": "2010-09-04 00:00:00"}], "HotelInfo": {"Name": "Costa Sands Resort - Downtown East", "HotelURL": "/ShowUserReviews-g294265-d506263-Reviews-Costa_Sands_Resort_Downtown_East-Singapore.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1 Pasir Ris Close</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">519599</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>", "HotelID": "506263", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/04/05/costa-sands-resort-downtown.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Singapore",
+      "Title": "\u201cFamily Suite is only good for immediate family\u201d",
+      "Author": "SmileKitten",
+      "ReviewID": "UR126891061",
+      "Content": "mistake beginning mislead words website choose family suite extended family entered surprised living tv sofa chair table microwave refrigerator bedroom queensized bed pushed basically suitable immediate family extended family book instead extra electrical outlet charge notebook etc remember bring own extension cord tv contents limited free channels arrange own cards suite card controls electricity family stay door takes card leave black staff reception friendly request earlier checkin people live day despite request guests checkout 1030am cleaning job completed 230 pm location excellent convenient food court supermarket nearby lot entertainments free tickets ticket entitled people enter water park 2 hours play 1 child conclusion resort bbq probably singapore bbq 13 am ideal weekends getaway",
+      "Date": "2012-03-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Auckland, New Zealand",
+      "Title": "\u201cDifferent...........\u201d",
+      "Author": "AKiwiandACanuck",
+      "ReviewID": "UR126251927",
+      "Content": "ok pay nights break trip nz cheaper option proper hotels singapore locals busy school holidays single beds pushed reviews noisy night water park door pool resort easy walk mrt stop resort attached mall shopping food close 19 taxi ride changi airport ok option budget",
+      "Date": "2012-03-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Singapore",
+      "Title": "\u201cNoise Pollution!\u201d",
+      "Author": "SforSingapore",
+      "ReviewID": "UR125485763",
+      "Content": "economical stay simple wellequipped facilities eateries activities shops resort flooded local families teenagers weekends school holidays recommend light sleepers notices placed loud noise allowed 11pm people talk laugh loud till wee hours considerate stayed times time call security complain loud noise guests loud noise shut personally recommend tourists",
+      "Date": "2012-03-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Panchkula, Haryana, India",
+      "Title": "\u201cIts nice!!!\u201d",
+      "Author": "AviAgg",
+      "ReviewID": "UR120604975",
+      "Content": "real resort water park market resort near mrt station swimming pool beach resort takes time reach central singapore tourist sport staying time avi",
+      "Date": "2011-11-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Hong Kong",
+      "Title": "\u201cYouth hostel for the frugal business traveller\u201d",
+      "Author": "Valrit",
+      "ReviewID": "UR107229725",
+      "Content": "hotel international youth hostel association located close changi airport 5 min walk ris mrt unexpected pleasant surprise normally expect basis services youth hostel offers modern bathroom wifi free breakfast swimming pool inclusive low price combine business holiday option check 24 hours",
+      "Date": "2011-05-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Porto, Portugal",
+      "Title": "\u201cGood place to stay with friends\u201d",
+      "Author": "pete7654",
+      "ReviewID": "UR78197013",
+      "Content": "found stay friends lot space hang leaving hotel simple enjoy xbox bbq pit outside looking quiet choise bit noisy sometimes location bit downtown mrt station connection airport city center",
+      "Date": "2010-09-04 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Costa Sands Resort - Downtown East",
+    "HotelURL": "/ShowUserReviews-g294265-d506263-Reviews-Costa_Sands_Resort_Downtown_East-Singapore.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1 Pasir Ris Close</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">519599</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>",
+    "HotelID": "506263",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/04/05/costa-sands-resort-downtown.jpg"
+  }
+}

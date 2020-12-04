@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Douglasville, Georgia", "Title": "\u201cRoom smelled like fish and AC filter stopped up\u201d", "Author": "mamalisarides", "ReviewID": "UR136964092", "Content": "ive stayed times kept clean liked kitchens clean ocean front pool didnt cost bunch time smelled fish stink bombs didnt help updated visit ago overall nasty day ac wasnt blowing fish smell ac filter black obviously changed months wont reservations extremely disappointed week", "Date": "2012-08-12 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Amsterdam, The Netherlands", "Title": "\u201cJust average\u201d", "Author": "Fair_12", "ReviewID": "UR127921094", "Content": "cheap motel thats youre expecting ok name inn view ocean updating dated doors secure safe deposit boxes dont cleaning lady nice overworked clean dont wrong theyre dirty refridgerators convenient theres decent private pool access beach location breakfast worth youre getting groceries enjoy stay quiet nights rest friendly prices affordable hotel beach dinner crabby joes theres menu pizzeria pizzas fresh tasty stay", "Date": "2012-04-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Rochester, New York", "Title": "\u201cAnother Good stay at the Seascape Inn, formerly Magic Carpet\u201d", "Author": "04eagle", "ReviewID": "UR119515899", "Content": "husband stayed motel numerous times familystyle drive motor lodge beach clean friendly staff continental breakfast included laundry facility onsite pool beachside plan stay stay price allinclusive resort amenities looking stay stay location price friendly staff", "Date": "2011-10-20 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Orlando, Florida", "Title": "\u201cHorrible stay, New lady in office not Diane or Debbie, VERY RUDE\u201d", "Author": "sabell83", "ReviewID": "UR101881363", "Content": "hotel stay horrible senior citizen hotel kids 50 save yourself trouble 5 rented time cops called 1000 loud cops ridiculous told underage drinking party age guess dont look 80 dark 800 noise allowed person lobby diane debbie rudest women seen talked life rude entire people allowed bottles wine wine glasses pool harrassed harrassed constantly worst time people rude save yourself time bother coming hotel unless dont fun past 800 evening glass sliding door broke service awful didnt towels day upset treated badly loud pool quiet understand treatment staff hotel horrible women lobby rude children told speak debbie ahead wont change threw arms digusted hotel stay recommend hotel", "Date": "2011-03-28 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Rochester, New York", "Title": "\u201cAnother great stay at the Seascape Inn!\u201d", "Author": "04eagle", "ReviewID": "UR86119661", "Content": "improvements continue refurbishing staff extremely friendly trying please meet comfy queensize beds minifridge microwave standard driveup style motel location beach looking allinclusive resort looking location beach clean attentive staff value stayed hotel numerous times weeklong stay plan stay", "Date": "2010-11-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Rochester, New York", "Title": "\u201cGreat place, great value for you!\u201d", "Author": "04eagle", "ReviewID": "UR73307537", "Content": "stayed times hotel hotel changed owners name doing alot refurbishing property overall 2 queen beds instead doubles clean cleaned day staff friendly prompt requests location perfect beach sightseeing etc continental breakfast choices chintzy definitely stay", "Date": "2010-08-01 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Shreveport", "Title": "\u201cWonderful location!!!\u201d", "Author": "janna5187", "ReviewID": "UR60734754", "Content": "hotel service wonderful time fancy hotel price location beach amazing totally worth plus sleep cares pool nice litte warmer nice grill shuffle board horse shoes play board games office children play rainy day recommend hotel", "Date": "2010-04-08 00:00:00"}], "HotelInfo": {"Name": "Magic Carpet Oceanfront Motel", "HotelURL": "/ShowUserReviews-g34172-d283979-Reviews-Magic_Carpet_Oceanfront_Motel-Daytona_Beach_Florida.html", "Price": "$38 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2601 South Atlantic Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Daytona Beach</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">32118</span></span> </span></span></address>", "HotelID": "283979", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/d9/bd/2d/magic-carpet-oceanfront.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Douglasville, Georgia",
+      "Title": "\u201cRoom smelled like fish and AC filter stopped up\u201d",
+      "Author": "mamalisarides",
+      "ReviewID": "UR136964092",
+      "Content": "ive stayed times kept clean liked kitchens clean ocean front pool didnt cost bunch time smelled fish stink bombs didnt help updated visit ago overall nasty day ac wasnt blowing fish smell ac filter black obviously changed months wont reservations extremely disappointed week",
+      "Date": "2012-08-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Amsterdam, The Netherlands",
+      "Title": "\u201cJust average\u201d",
+      "Author": "Fair_12",
+      "ReviewID": "UR127921094",
+      "Content": "cheap motel thats youre expecting ok name inn view ocean updating dated doors secure safe deposit boxes dont cleaning lady nice overworked clean dont wrong theyre dirty refridgerators convenient theres decent private pool access beach location breakfast worth youre getting groceries enjoy stay quiet nights rest friendly prices affordable hotel beach dinner crabby joes theres menu pizzeria pizzas fresh tasty stay",
+      "Date": "2012-04-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rochester, New York",
+      "Title": "\u201cAnother Good stay at the Seascape Inn, formerly Magic Carpet\u201d",
+      "Author": "04eagle",
+      "ReviewID": "UR119515899",
+      "Content": "husband stayed motel numerous times familystyle drive motor lodge beach clean friendly staff continental breakfast included laundry facility onsite pool beachside plan stay stay price allinclusive resort amenities looking stay stay location price friendly staff",
+      "Date": "2011-10-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Orlando, Florida",
+      "Title": "\u201cHorrible stay, New lady in office not Diane or Debbie, VERY RUDE\u201d",
+      "Author": "sabell83",
+      "ReviewID": "UR101881363",
+      "Content": "hotel stay horrible senior citizen hotel kids 50 save yourself trouble 5 rented time cops called 1000 loud cops ridiculous told underage drinking party age guess dont look 80 dark 800 noise allowed person lobby diane debbie rudest women seen talked life rude entire people allowed bottles wine wine glasses pool harrassed harrassed constantly worst time people rude save yourself time bother coming hotel unless dont fun past 800 evening glass sliding door broke service awful didnt towels day upset treated badly loud pool quiet understand treatment staff hotel horrible women lobby rude children told speak debbie ahead wont change threw arms digusted hotel stay recommend hotel",
+      "Date": "2011-03-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rochester, New York",
+      "Title": "\u201cAnother great stay at the Seascape Inn!\u201d",
+      "Author": "04eagle",
+      "ReviewID": "UR86119661",
+      "Content": "improvements continue refurbishing staff extremely friendly trying please meet comfy queensize beds minifridge microwave standard driveup style motel location beach looking allinclusive resort looking location beach clean attentive staff value stayed hotel numerous times weeklong stay plan stay",
+      "Date": "2010-11-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rochester, New York",
+      "Title": "\u201cGreat place, great value for you!\u201d",
+      "Author": "04eagle",
+      "ReviewID": "UR73307537",
+      "Content": "stayed times hotel hotel changed owners name doing alot refurbishing property overall 2 queen beds instead doubles clean cleaned day staff friendly prompt requests location perfect beach sightseeing etc continental breakfast choices chintzy definitely stay",
+      "Date": "2010-08-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Shreveport",
+      "Title": "\u201cWonderful location!!!\u201d",
+      "Author": "janna5187",
+      "ReviewID": "UR60734754",
+      "Content": "hotel service wonderful time fancy hotel price location beach amazing totally worth plus sleep cares pool nice litte warmer nice grill shuffle board horse shoes play board games office children play rainy day recommend hotel",
+      "Date": "2010-04-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Magic Carpet Oceanfront Motel",
+    "HotelURL": "/ShowUserReviews-g34172-d283979-Reviews-Magic_Carpet_Oceanfront_Motel-Daytona_Beach_Florida.html",
+    "Price": "$38 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2601 South Atlantic Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Daytona Beach</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">32118</span></span> </span></span></address>",
+    "HotelID": "283979",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/d9/bd/2d/magic-carpet-oceanfront.jpg"
+  }
+}

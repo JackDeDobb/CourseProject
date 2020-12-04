@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Torino", "Title": "\u201cexcellent stay...\u201d", "Author": "Ilaria76", "ReviewID": "UR123105827", "Content": "rome business found magnolia choice traveller quiet comfortable accomodation close citycenter spending fortune time beyond brand worth 4 star hotel affordable prices guys", "Date": "2012-01-15 00:00:00"}], "HotelInfo": {"Name": "Hotel Residence Magnolia", "HotelURL": "/ShowUserReviews-g187791-d570349-Reviews-Hotel_Residence_Magnolia-Rome_Lazio.html", "Price": "$78 - $157*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">via di Valle Aurelia, 116</span>, <span class=\"locality\"><span property=\"v:postal-code\">167</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "570349", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ea/8a/ea8ada670477300953f272ecda9886af5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Torino",
+      "Title": "\u201cexcellent stay...\u201d",
+      "Author": "Ilaria76",
+      "ReviewID": "UR123105827",
+      "Content": "rome business found magnolia choice traveller quiet comfortable accomodation close citycenter spending fortune time beyond brand worth 4 star hotel affordable prices guys",
+      "Date": "2012-01-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Residence Magnolia",
+    "HotelURL": "/ShowUserReviews-g187791-d570349-Reviews-Hotel_Residence_Magnolia-Rome_Lazio.html",
+    "Price": "$78 - $157*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">via di Valle Aurelia, 116</span>, <span class=\"locality\"><span property=\"v:postal-code\">167</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "570349",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ea/8a/ea8ada670477300953f272ecda9886af5large.jpg"
+  }
+}

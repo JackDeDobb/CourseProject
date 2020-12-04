@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Los Angeles, California", "Title": "\u201cGreat Location but the hotel is a bit dodgy\u201d", "Author": "Danny1011", "ReviewID": "UR134840863", "Content": "location staff friendly hotel bit dodgy basically apartments studios nice bit outdated linen scary sleep bathroom horrible water pressure cost value location excellent walking distance passes stay budget splurge little stay nicer hotels traveling budget dont mind five star 4 star lol ahead stay bad", "Date": "2012-07-19 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Florida", "Title": "\u201cGood Enough\u201d", "Author": "EarlFlorida", "ReviewID": "UR64334223", "Content": "stayed twiceonce six nights arrival night stay departure stay comfortable hotel provided requested smoking double bed private bath nights 50 55 euros depending night week breakfasts included simple adequate hotel staff cold unhelpful tiny bar soap example told street buy nearby shop location near metro station alonso martinez return overnight receptionist acknowledged booking double bed double bedwe single beds reception airport terminal info unwilling help classify hotel shout", "Date": "2010-05-16 00:00:00"}], "HotelInfo": {"Name": "Andromeda", "HotelURL": "/ShowUserReviews-g187514-d530703-Reviews-Andromeda-Madrid.html", "Price": "$62 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Almagro 10</span>, <span class=\"locality\"><span property=\"v:postal-code\">28010</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "530703", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e7/16/e7161882a31a926d270a890cf59b05555large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Los Angeles, California",
+      "Title": "\u201cGreat Location but the hotel is a bit dodgy\u201d",
+      "Author": "Danny1011",
+      "ReviewID": "UR134840863",
+      "Content": "location staff friendly hotel bit dodgy basically apartments studios nice bit outdated linen scary sleep bathroom horrible water pressure cost value location excellent walking distance passes stay budget splurge little stay nicer hotels traveling budget dont mind five star 4 star lol ahead stay bad",
+      "Date": "2012-07-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Florida",
+      "Title": "\u201cGood Enough\u201d",
+      "Author": "EarlFlorida",
+      "ReviewID": "UR64334223",
+      "Content": "stayed twiceonce six nights arrival night stay departure stay comfortable hotel provided requested smoking double bed private bath nights 50 55 euros depending night week breakfasts included simple adequate hotel staff cold unhelpful tiny bar soap example told street buy nearby shop location near metro station alonso martinez return overnight receptionist acknowledged booking double bed double bedwe single beds reception airport terminal info unwilling help classify hotel shout",
+      "Date": "2010-05-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Andromeda",
+    "HotelURL": "/ShowUserReviews-g187514-d530703-Reviews-Andromeda-Madrid.html",
+    "Price": "$62 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Almagro 10</span>, <span class=\"locality\"><span property=\"v:postal-code\">28010</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "530703",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e7/16/e7161882a31a926d270a890cf59b05555large.jpg"
+  }
+}

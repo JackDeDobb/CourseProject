@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Bolivia, North Carolina", "Title": "\u201cNever again\u201d", "Author": "mcmack3", "ReviewID": "UR136418738", "Content": "recently minute decision join friends ocean city weeks prior arrival hotels checked vacancy found roc lucky availability begin unusual send check day hold reservation arrived pay remaining 3 days unusual porch 12 inches wide broken chair red flag 2 beds soft blankets tissues hair dryer iron towels thin sand paper coffee ice kicker noticed hotels vacancy signs except roc surprise priced offered positive close boardwalk beach parking premium", "Date": "2012-08-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Clear Spring, Maryland", "Title": "\u201cGreat Rates and Location\u201d", "Author": "Jon - Patricia K", "ReviewID": "UR136005591", "Content": "price location stayed motel boardwalk efficency apartments boardwalk check smooth staff kept themselves unless question request pillows clean pool nice clean poolside staff cleaning vacuming pool night staff police resolved quickly didnt mind free entertainment didnt pay ice machine definately upscale motel paying im stay", "Date": "2012-08-01 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "shermans dale", "Title": "\u201cwow...never again!\u201d", "Author": "richard m", "ReviewID": "UR132808968", "Content": "start saying shower curtain mold water dripping tub dirt floor beds hard coming mattress towels forever worst decided stay spend 300 disgusting stay missing bed bugs nasty top sick home maybe mold infested bathroom", "Date": "2012-06-26 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "", "Title": "\u201cGreat price, great location...but let's face it, it's dumpy.\u201d", "Author": "PeggyD1959", "ReviewID": "UR120351599", "Content": "adult sisters mom ocean city fall days stay boardwalk convenience isnt crowded labor day nicer hotel looking save money spend steamed crabs eden roc try space narrow beds sofasleeper wall bathroom clean kitchen clean liked size fridge decor bed linens described tired clean dumpy balcony private offseason ourselves issue loved boardwalk steps beach price oceanfront efficiency boardwalk spend extra money nicer hotel bottom line arent budgetconscious people looking price location perfect", "Date": "2011-11-08 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Williamsport, Pennsylvania", "Title": "\u201cIt could've been worse!\u201d", "Author": "Shawny74", "ReviewID": "UR75081253", "Content": "arrived 11 checkin 2 ready allowed checkin fairly clean killed spider bugs bed bugs bothered lampshades pillows stained bring own pillows hotel employees helpful parking little scarce hotel available parking pass park parking garage door rent bikes boardwalk morning real complaint pool kids unruly list rules pool gate person glass bottles floating devices balls none allowed kids chased ran fell hit head concrete employee word kids fun kids own staying inconvience overall cheap shabby half block beach boardwalk definately stay", "Date": "2010-08-13 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Hanover, Pennsylvania", "Title": "\u201cNever again\u201d", "Author": "graphicd92", "ReviewID": "UR67927869", "Content": "didnt bad stay little raggedy looking past couldnt damaged rundown rude management brought girlfriend tears mean staff complain twice cleaning ladies didnt touch confronted office yelled blamed stay motel matter cost", "Date": "2010-06-18 00:00:00"}], "HotelInfo": {"Name": "Eden Roc Motel", "HotelURL": "/ShowUserReviews-g41298-d580757-Reviews-Eden_Roc_Motel-Ocean_City_Maryland.html", "Price": "$30 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Oceanfront on 20th Street</span>, <span class=\"locality\"><span property=\"v:locality\">Ocean City</span>, <span property=\"v:region\">MD</span> <span property=\"v:postal-code\">21842</span></span> </span></span></address>", "HotelID": "580757", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/c3/62/99/eden-roc.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bolivia, North Carolina",
+      "Title": "\u201cNever again\u201d",
+      "Author": "mcmack3",
+      "ReviewID": "UR136418738",
+      "Content": "recently minute decision join friends ocean city weeks prior arrival hotels checked vacancy found roc lucky availability begin unusual send check day hold reservation arrived pay remaining 3 days unusual porch 12 inches wide broken chair red flag 2 beds soft blankets tissues hair dryer iron towels thin sand paper coffee ice kicker noticed hotels vacancy signs except roc surprise priced offered positive close boardwalk beach parking premium",
+      "Date": "2012-08-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Clear Spring, Maryland",
+      "Title": "\u201cGreat Rates and Location\u201d",
+      "Author": "Jon - Patricia K",
+      "ReviewID": "UR136005591",
+      "Content": "price location stayed motel boardwalk efficency apartments boardwalk check smooth staff kept themselves unless question request pillows clean pool nice clean poolside staff cleaning vacuming pool night staff police resolved quickly didnt mind free entertainment didnt pay ice machine definately upscale motel paying im stay",
+      "Date": "2012-08-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "shermans dale",
+      "Title": "\u201cwow...never again!\u201d",
+      "Author": "richard m",
+      "ReviewID": "UR132808968",
+      "Content": "start saying shower curtain mold water dripping tub dirt floor beds hard coming mattress towels forever worst decided stay spend 300 disgusting stay missing bed bugs nasty top sick home maybe mold infested bathroom",
+      "Date": "2012-06-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cGreat price, great location...but let's face it, it's dumpy.\u201d",
+      "Author": "PeggyD1959",
+      "ReviewID": "UR120351599",
+      "Content": "adult sisters mom ocean city fall days stay boardwalk convenience isnt crowded labor day nicer hotel looking save money spend steamed crabs eden roc try space narrow beds sofasleeper wall bathroom clean kitchen clean liked size fridge decor bed linens described tired clean dumpy balcony private offseason ourselves issue loved boardwalk steps beach price oceanfront efficiency boardwalk spend extra money nicer hotel bottom line arent budgetconscious people looking price location perfect",
+      "Date": "2011-11-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Williamsport, Pennsylvania",
+      "Title": "\u201cIt could've been worse!\u201d",
+      "Author": "Shawny74",
+      "ReviewID": "UR75081253",
+      "Content": "arrived 11 checkin 2 ready allowed checkin fairly clean killed spider bugs bed bugs bothered lampshades pillows stained bring own pillows hotel employees helpful parking little scarce hotel available parking pass park parking garage door rent bikes boardwalk morning real complaint pool kids unruly list rules pool gate person glass bottles floating devices balls none allowed kids chased ran fell hit head concrete employee word kids fun kids own staying inconvience overall cheap shabby half block beach boardwalk definately stay",
+      "Date": "2010-08-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Hanover, Pennsylvania",
+      "Title": "\u201cNever again\u201d",
+      "Author": "graphicd92",
+      "ReviewID": "UR67927869",
+      "Content": "didnt bad stay little raggedy looking past couldnt damaged rundown rude management brought girlfriend tears mean staff complain twice cleaning ladies didnt touch confronted office yelled blamed stay motel matter cost",
+      "Date": "2010-06-18 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Eden Roc Motel",
+    "HotelURL": "/ShowUserReviews-g41298-d580757-Reviews-Eden_Roc_Motel-Ocean_City_Maryland.html",
+    "Price": "$30 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Oceanfront on 20th Street</span>, <span class=\"locality\"><span property=\"v:locality\">Ocean City</span>, <span property=\"v:region\">MD</span> <span property=\"v:postal-code\">21842</span></span> </span></span></address>",
+    "HotelID": "580757",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/c3/62/99/eden-roc.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Washington DC, District of Columbia", "Title": "\u201cSmelly rooms, unfriendly staff and waaaay out in a bland residential borough\u201d", "Author": "Alberto S", "ReviewID": "UR119552647", "Content": "start worst probably company advertises central location mentions expedia located mitte district dont fooled 15 minute walk subway station neighborhood amazingly uninteresting appalling ie ugly night drunks horrible smell reason comes bathroom hotel explained river water coming summer gone smell remained regardless accept excuse double twins leaves wondering actually aside bunch students travelling sleep smallish twin bed minibar advertised complimentary refill time checked definition free breakfast expensive expect caviar champagne selection definitely decent compares outrageous prices food appears price quadruple value staff albeit somewhat friendly front office manager probably unfriendly uninterested arrogant rude uninterested person world person intends feel sorry inquiry dared positive hotel wellness center ok effort trendy failed somewhat oh yeah banks spree river lacks stay", "Date": "2011-10-21 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "London, England", "Title": "\u201cYou have to Iron behind counter\u201d", "Author": "zeeshm", "ReviewID": "UR91190248", "Content": "hotel ok reasonably clean immaculate basic served purpose guess pay wasnt ridiculously expensive corporate rate strangest found iron didnt irons due health safety ok makes sense hotels dont iron ironing board kept reception ok im business iron crisp white shirts front desk aside staff warm accomodating helpful hotel reasonable location bit centre main station", "Date": "2010-12-31 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Burnley", "Title": "\u201cAbsolutely Awesome\u201d", "Author": "BurnleyAussie", "ReviewID": "UR77130206", "Content": "stay berlin chose rate night reviews bad little bit train station 510min walk rest absolutely awesome clean spacious hotel staff friendly welcoming hotel clean faults breakfast ive stayed lot 5 star resorts 3 4 star hotels time breakfast hotel hit nail head fault muesli fresh fruit english hamburger awesome cereals croissants pastries brilliant", "Date": "2010-08-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Calgary, Canada", "Title": "\u201cExceeded All Our Expectations\u201d", "Author": "calgarytraveler0", "ReviewID": "UR68307063", "Content": "found net initially concerned location potentially berlin experience started reception staff giving 1030 am hours official checkin time flight calgary greatly appreciated ten day stay found front desk restaurant service extremely professional pleasant helpful spoke english help speakers requested additional pillows reached 224 size couple sofas desk free inroom safe size towels size plenty sometimes concern europe river view boats pleasure look window location busy noisy easy access popular sites public transport 4km brandenburg easy walking distance 30 min alexander platz bustrain nearest bus stop 50 yards 245 main railway station berlin minutes su bahn train lunch boxes ready check time 5 am nice touch recommend reserving breakfast paying breakfast arrival typical german lot hot cold choices etc etc found excellent value nearby mid size grocery stores 10 minute walk lots fresh fruit bakeries reception staff knowledgeable nearby restaurants recommendations walked dark concern safety air conditioning appropriate provided relief heat freezing cold free speed internet terminal private corner lobby color extra charge printing greatly appreciated value trip berlin definite 1 choice hotel close txl airport taxi fare yesterday 1213 euros depending traffic purchased seven day transit pass 26 euros person unlimited definitely moneys worth", "Date": "2010-06-22 00:00:00"}], "HotelInfo": {"Name": "Adrema Hotel", "HotelURL": "/ShowUserReviews-g187323-d242986-Reviews-Adrema_Hotel-Berlin.html", "Price": "$84 - $248*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gotzkowskystrasse 20 - 21</span>, <span class=\"locality\"><span property=\"v:postal-code\">10555</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "242986", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c7/88/c78854767da92bc7982f6f5dc4f838165large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Washington DC, District of Columbia",
+      "Title": "\u201cSmelly rooms, unfriendly staff and waaaay out in a bland residential borough\u201d",
+      "Author": "Alberto S",
+      "ReviewID": "UR119552647",
+      "Content": "start worst probably company advertises central location mentions expedia located mitte district dont fooled 15 minute walk subway station neighborhood amazingly uninteresting appalling ie ugly night drunks horrible smell reason comes bathroom hotel explained river water coming summer gone smell remained regardless accept excuse double twins leaves wondering actually aside bunch students travelling sleep smallish twin bed minibar advertised complimentary refill time checked definition free breakfast expensive expect caviar champagne selection definitely decent compares outrageous prices food appears price quadruple value staff albeit somewhat friendly front office manager probably unfriendly uninterested arrogant rude uninterested person world person intends feel sorry inquiry dared positive hotel wellness center ok effort trendy failed somewhat oh yeah banks spree river lacks stay",
+      "Date": "2011-10-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London, England",
+      "Title": "\u201cYou have to Iron behind counter\u201d",
+      "Author": "zeeshm",
+      "ReviewID": "UR91190248",
+      "Content": "hotel ok reasonably clean immaculate basic served purpose guess pay wasnt ridiculously expensive corporate rate strangest found iron didnt irons due health safety ok makes sense hotels dont iron ironing board kept reception ok im business iron crisp white shirts front desk aside staff warm accomodating helpful hotel reasonable location bit centre main station",
+      "Date": "2010-12-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Burnley",
+      "Title": "\u201cAbsolutely Awesome\u201d",
+      "Author": "BurnleyAussie",
+      "ReviewID": "UR77130206",
+      "Content": "stay berlin chose rate night reviews bad little bit train station 510min walk rest absolutely awesome clean spacious hotel staff friendly welcoming hotel clean faults breakfast ive stayed lot 5 star resorts 3 4 star hotels time breakfast hotel hit nail head fault muesli fresh fruit english hamburger awesome cereals croissants pastries brilliant",
+      "Date": "2010-08-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Calgary, Canada",
+      "Title": "\u201cExceeded All Our Expectations\u201d",
+      "Author": "calgarytraveler0",
+      "ReviewID": "UR68307063",
+      "Content": "found net initially concerned location potentially berlin experience started reception staff giving 1030 am hours official checkin time flight calgary greatly appreciated ten day stay found front desk restaurant service extremely professional pleasant helpful spoke english help speakers requested additional pillows reached 224 size couple sofas desk free inroom safe size towels size plenty sometimes concern europe river view boats pleasure look window location busy noisy easy access popular sites public transport 4km brandenburg easy walking distance 30 min alexander platz bustrain nearest bus stop 50 yards 245 main railway station berlin minutes su bahn train lunch boxes ready check time 5 am nice touch recommend reserving breakfast paying breakfast arrival typical german lot hot cold choices etc etc found excellent value nearby mid size grocery stores 10 minute walk lots fresh fruit bakeries reception staff knowledgeable nearby restaurants recommendations walked dark concern safety air conditioning appropriate provided relief heat freezing cold free speed internet terminal private corner lobby color extra charge printing greatly appreciated value trip berlin definite 1 choice hotel close txl airport taxi fare yesterday 1213 euros depending traffic purchased seven day transit pass 26 euros person unlimited definitely moneys worth",
+      "Date": "2010-06-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Adrema Hotel",
+    "HotelURL": "/ShowUserReviews-g187323-d242986-Reviews-Adrema_Hotel-Berlin.html",
+    "Price": "$84 - $248*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gotzkowskystrasse 20 - 21</span>, <span class=\"locality\"><span property=\"v:postal-code\">10555</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "242986",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c7/88/c78854767da92bc7982f6f5dc4f838165large.jpg"
+  }
+}

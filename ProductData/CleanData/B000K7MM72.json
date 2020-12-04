@@ -1,1 +1,30 @@
-[{"reviewId": "51303", "productName": "2GB Hydra MP3 Player Black", "title": "Adaquate", "author": "Trevor T. League \"Myleague\"", "createDate": "2007-01-27 00:00:00", "fullText": "start time little annoying shuffle feature doesnt shuffle upgrading firmware accomplished aside im happy price paid durable mp3 players proprietary software format purchase decent rechargeable battery duracell 1012 hours impressed voice recorder fm radio capabilities dont mine constantly bought wife break cost 50 dollars", "rating": 4.0, "helpfulNum": 2, "totalNum": 3, "commentNum": 0, "webUrl": "http://www.amazon.com/review/product/B000K7MM72/ref=cm_cr_dp_all_summary/002-5288352-5860813?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending", "htmlPath": "F:\\amazon_mp3\\1/599"}, {"reviewId": "51304", "productName": "2GB Hydra MP3 Player Black", "title": "useless product", "author": "E. Edwards", "createDate": "2007-03-08 00:00:00", "fullText": "bought product caught features offered product loved features soon week recieving product computer tried power freeze busy screen tried buying sony mp3 reading reviews net product product widespread recommend customers buy product", "rating": 1.0, "helpfulNum": 3, "totalNum": 4, "commentNum": 0, "webUrl": "http://www.amazon.com/review/product/B000K7MM72/ref=cm_cr_dp_all_summary/002-5288352-5860813?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending", "htmlPath": "F:\\amazon_mp3\\1/5990"}]
+[
+  {
+    "reviewId": "51303",
+    "productName": "2GB Hydra MP3 Player Black",
+    "title": "Adaquate",
+    "author": "Trevor T. League \"Myleague\"",
+    "createDate": "2007-01-27 00:00:00",
+    "fullText": "start time little annoying shuffle feature doesnt shuffle upgrading firmware accomplished aside im happy price paid durable mp3 players proprietary software format purchase decent rechargeable battery duracell 1012 hours impressed voice recorder fm radio capabilities dont mine constantly bought wife break cost 50 dollars",
+    "rating": 4.0,
+    "helpfulNum": 2,
+    "totalNum": 3,
+    "commentNum": 0,
+    "webUrl": "http://www.amazon.com/review/product/B000K7MM72/ref=cm_cr_dp_all_summary/002-5288352-5860813?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending",
+    "htmlPath": "F:\\amazon_mp3\\1/599"
+  },
+  {
+    "reviewId": "51304",
+    "productName": "2GB Hydra MP3 Player Black",
+    "title": "useless product",
+    "author": "E. Edwards",
+    "createDate": "2007-03-08 00:00:00",
+    "fullText": "bought product caught features offered product loved features soon week recieving product computer tried power freeze busy screen tried buying sony mp3 reading reviews net product product widespread recommend customers buy product",
+    "rating": 1.0,
+    "helpfulNum": 3,
+    "totalNum": 4,
+    "commentNum": 0,
+    "webUrl": "http://www.amazon.com/review/product/B000K7MM72/ref=cm_cr_dp_all_summary/002-5288352-5860813?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending",
+    "htmlPath": "F:\\amazon_mp3\\1/5990"
+  }
+]

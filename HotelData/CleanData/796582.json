@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Rome, Italy", "Title": "\u201cwunderbar!\u201d", "Author": "brenda a", "ReviewID": "UR126959697", "Content": "comfortable happy stay close fair grounds amenities liked services staff helpful friendly breakfast choice price paid reasonable try hotels visits berlin recommend time tourist berlin", "Date": "2012-03-30 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Warsaw, Poland", "Title": "\u201cYou get what you pay for\u201d", "Author": "goldhorn", "ReviewID": "UR103451391", "Content": "hotel reasonably positioned brandenburg gate elevator probably doesnt remember flights street level lot luggage neat tidy single move dont fall bed roll mattresses hard youre 45 sore morning breakfast arrived 845 wait 12 hour eat parking street available day 59 euro bad probably return", "Date": "2011-04-10 00:00:00"}], "HotelInfo": {"Name": "Amelie Messe ICC", "HotelURL": "/ShowUserReviews-g187323-d796582-Reviews-Amelie_Messe_ICC-Berlin.html", "Price": "$51 - $104*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kaiserdamm 29</span>, <span class=\"locality\"><span property=\"v:postal-code\">14057</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "796582", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c4/b0/c4b0e03100757f41729fbd3a530e33843large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rome, Italy",
+      "Title": "\u201cwunderbar!\u201d",
+      "Author": "brenda a",
+      "ReviewID": "UR126959697",
+      "Content": "comfortable happy stay close fair grounds amenities liked services staff helpful friendly breakfast choice price paid reasonable try hotels visits berlin recommend time tourist berlin",
+      "Date": "2012-03-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Warsaw, Poland",
+      "Title": "\u201cYou get what you pay for\u201d",
+      "Author": "goldhorn",
+      "ReviewID": "UR103451391",
+      "Content": "hotel reasonably positioned brandenburg gate elevator probably doesnt remember flights street level lot luggage neat tidy single move dont fall bed roll mattresses hard youre 45 sore morning breakfast arrived 845 wait 12 hour eat parking street available day 59 euro bad probably return",
+      "Date": "2011-04-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Amelie Messe ICC",
+    "HotelURL": "/ShowUserReviews-g187323-d796582-Reviews-Amelie_Messe_ICC-Berlin.html",
+    "Price": "$51 - $104*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kaiserdamm 29</span>, <span class=\"locality\"><span property=\"v:postal-code\">14057</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "796582",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c4/b0/c4b0e03100757f41729fbd3a530e33843large.jpg"
+  }
+}

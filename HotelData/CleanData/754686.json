@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Enid", "Title": "\u201cNice Hotel and Great Value\u201d", "Author": "Wendy Q", "ReviewID": "UR137932396", "Content": "surprised nice hotel amenity microwave refrigerator coffeemaker hair dryer iron ironing board television reception pool nice nice water kids play located east strip fall creek road skirt busy strip location faster super nice staff amazing price recommend", "Date": "2012-08-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Dayton, Ohio, United States", "Title": "\u201cWonderful Hotel!\u201d", "Author": "Shel W", "ReviewID": "UR137305649", "Content": "lucked found branson garden inn fabulous price extremely friendly staff smile spring step comfortable beds gorgeous pool pool location wonderful stay definitely enjoyed faced pool remotely negative wifi lobby definitely recommend plan staying branson", "Date": "2012-08-15 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Independence, Missouri", "Title": "\u201cWatch the room rate and the deposit\u201d", "Author": "Jeanette M", "ReviewID": "UR137251363", "Content": "enjoyed recent stay branson garden inn reserving watch rate quote rate charge watch deposit hold checkout overall hotel price price paying tastefully remodeled beds uncomfortable nice pool pool attendant service daily clean towels clean soap shampoo clean towels times", "Date": "2012-08-15 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Sioux Falls, South Dakota", "Title": "\u201cExcellent Hotel for the price.\u201d", "Author": "Rocky7474", "ReviewID": "UR136841044", "Content": "stayed hotel night quick trip ozarks price reasonable main reason stayed clean shower microwave fridge bonus cheap complaint amount time check minor hassle noticed bit checking im youre looking cheaper hotel branson dont wrong branson garden inn", "Date": "2012-08-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "damascus,ar", "Title": "\u201cLow price very nice\u201d", "Author": "hare5759", "ReviewID": "UR135492719", "Content": "supprised low priced motel time chose branson garden inn 1420 hwy 76 mo motel clean nice people desk nice stay bad stay", "Date": "2012-07-26 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Kansas City, Missouri", "Title": "\u201ci will never stay at this hotel again\u201d", "Author": "jeff e", "ReviewID": "UR135201695", "Content": "night arrived 2am 2nd day maid service replace towels nor empty trash shower sucked water kept freezing cold scolding hot 3rd day mais service call front desk maid service clean towels trash cans flowing mad maid service hour bring 3 towels ans 3 wash rags", "Date": "2012-07-23 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "", "Title": "\u201cOnenight stY\u201d", "Author": "Posted by a cheaprooms.com traveler", "ReviewID": "UR134914714", "Content": "horrible experience booking hotel central forward information booking hotel nd half hour counter hour waiting front desk staff handled position ok wait check time feel bad staff company position coming stay waited lin 4 guests front desk complaints wrong etc hold bad stay thei future", "Date": "2012-07-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "missouri", "Title": "\u201cexcellent !!\u201d", "Author": "ladytow", "ReviewID": "UR133560396", "Content": "stayed 1 night meeting grandaughters plane motel reasonably priced clean stay beds pillows comfy wish packed bag lol pool nice thrilled mini frig microwave am diabetic frig insulin connecting enjoyed staywe using branson garden inn onthe staff friendly helpful laundry facilities", "Date": "2012-07-05 00:00:00"}], "HotelInfo": {"Name": "Branson Garden Inn", "HotelURL": "/ShowUserReviews-g44160-d754686-Reviews-Branson_Garden_Inn-Branson_Missouri.html", "Price": "$38 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1420 W Hwy 76</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>", "HotelID": "754686", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5c/0d/5c0d5a21fe5b826201368725c2edcf2226large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Enid",
+      "Title": "\u201cNice Hotel and Great Value\u201d",
+      "Author": "Wendy Q",
+      "ReviewID": "UR137932396",
+      "Content": "surprised nice hotel amenity microwave refrigerator coffeemaker hair dryer iron ironing board television reception pool nice nice water kids play located east strip fall creek road skirt busy strip location faster super nice staff amazing price recommend",
+      "Date": "2012-08-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dayton, Ohio, United States",
+      "Title": "\u201cWonderful Hotel!\u201d",
+      "Author": "Shel W",
+      "ReviewID": "UR137305649",
+      "Content": "lucked found branson garden inn fabulous price extremely friendly staff smile spring step comfortable beds gorgeous pool pool location wonderful stay definitely enjoyed faced pool remotely negative wifi lobby definitely recommend plan staying branson",
+      "Date": "2012-08-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Independence, Missouri",
+      "Title": "\u201cWatch the room rate and the deposit\u201d",
+      "Author": "Jeanette M",
+      "ReviewID": "UR137251363",
+      "Content": "enjoyed recent stay branson garden inn reserving watch rate quote rate charge watch deposit hold checkout overall hotel price price paying tastefully remodeled beds uncomfortable nice pool pool attendant service daily clean towels clean soap shampoo clean towels times",
+      "Date": "2012-08-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Sioux Falls, South Dakota",
+      "Title": "\u201cExcellent Hotel for the price.\u201d",
+      "Author": "Rocky7474",
+      "ReviewID": "UR136841044",
+      "Content": "stayed hotel night quick trip ozarks price reasonable main reason stayed clean shower microwave fridge bonus cheap complaint amount time check minor hassle noticed bit checking im youre looking cheaper hotel branson dont wrong branson garden inn",
+      "Date": "2012-08-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "damascus,ar",
+      "Title": "\u201cLow price very nice\u201d",
+      "Author": "hare5759",
+      "ReviewID": "UR135492719",
+      "Content": "supprised low priced motel time chose branson garden inn 1420 hwy 76 mo motel clean nice people desk nice stay bad stay",
+      "Date": "2012-07-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Kansas City, Missouri",
+      "Title": "\u201ci will never stay at this hotel again\u201d",
+      "Author": "jeff e",
+      "ReviewID": "UR135201695",
+      "Content": "night arrived 2am 2nd day maid service replace towels nor empty trash shower sucked water kept freezing cold scolding hot 3rd day mais service call front desk maid service clean towels trash cans flowing mad maid service hour bring 3 towels ans 3 wash rags",
+      "Date": "2012-07-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cOnenight stY\u201d",
+      "Author": "Posted by a cheaprooms.com traveler",
+      "ReviewID": "UR134914714",
+      "Content": "horrible experience booking hotel central forward information booking hotel nd half hour counter hour waiting front desk staff handled position ok wait check time feel bad staff company position coming stay waited lin 4 guests front desk complaints wrong etc hold bad stay thei future",
+      "Date": "2012-07-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "missouri",
+      "Title": "\u201cexcellent !!\u201d",
+      "Author": "ladytow",
+      "ReviewID": "UR133560396",
+      "Content": "stayed 1 night meeting grandaughters plane motel reasonably priced clean stay beds pillows comfy wish packed bag lol pool nice thrilled mini frig microwave am diabetic frig insulin connecting enjoyed staywe using branson garden inn onthe staff friendly helpful laundry facilities",
+      "Date": "2012-07-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Branson Garden Inn",
+    "HotelURL": "/ShowUserReviews-g44160-d754686-Reviews-Branson_Garden_Inn-Branson_Missouri.html",
+    "Price": "$38 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1420 W Hwy 76</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>",
+    "HotelID": "754686",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5c/0d/5c0d5a21fe5b826201368725c2edcf2226large.jpg"
+  }
+}

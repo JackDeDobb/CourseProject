@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "", "Title": "\u201cBusiness Hotel - Not for Pleasure\u201d", "Author": "nicoleonholiday", "ReviewID": "UR136426910", "Content": "stayed 2 nights hotel nuevo madrid airport staff nice spoke english girl reception helpful happy cbd metro etc apprecaited hotel clean modern hotel wifi unfortunatley restaurant closed disapointing considering season restaurants unless taxi business hotel pleasure overall pleased stay", "Date": "2012-08-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "San Sebastian - Donostia, Spain", "Title": "\u201cexcellent hotel at a very competitive price\u201d", "Author": "nuriaar", "ReviewID": "UR135147638", "Content": "madrid family stayed hotel close road madrid train tube atocha station pio pinar de chamartin hotel nice prices 4 starhotel 53 price includes hour spa bath didnt fancy sharing bath guy didnt besides hotel worth spend weekend madrid ps pio tube 20 minutes hotel", "Date": "2012-07-23 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Southampton, United Kingdom", "Title": "\u201cNever Again!!!!\u201d", "Author": "Kiran J", "ReviewID": "UR132833624", "Content": "stayed hotel 3 nights worst hotel stayed staff considerably rude understood english rude paid city view twin beds duvet hairdryer actually blew wait arrived install ourselves bath tab leaks mean beds changed 3 nights tidy changed sheets left tried charge food drinks mini bar didnt terrible restaurant didnt 9pm didnt restauarant 8pm told busy time 9pm outside rude left home nice goodbye fooled free internet offer free wifi night cut rest stay waste money staying visiting hotel", "Date": "2012-06-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cNice hotel for conferences, not located for leisure\u201d", "Author": "Chris W", "ReviewID": "UR127134736", "Content": "stayed hotel nuevo recently conference near shop cafe metro station walking distance id imagine hotel business events lobby spacious modern coming australia arrived day european colleagues ghost town reminded slim music video christopher dancing abandoned hotel lobby decent size comfortable beds rock hard complaint amongst attendees shower mere dribble hugely disappointing colleague staying floor breakfast pretty decent offering lady greeting morning lovely happy morning day breakfast conference facilities 160 multiple breakout sessions handled hotel staff 30 mins fresh coffee pastries stamina hotel conference madrid", "Date": "2012-04-02 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 1.0}, "AuthorLocation": "Dublin, Ireland", "Title": "\u201cNice Hotel but...................\u201d", "Author": "stphnmcgwn", "ReviewID": "UR119654963", "Content": "hotel modern clean nice hotel business travel guess hotel ok attending conference close madrid centre evening drive taxi taxis struggled hotel alarm clock wake call night am waiting complaining reception greeted doormen friendly staff limited spanish dont expect able receive help ive travelled madrid numerous times business hotel ive found staff speak english ironing board available business hotel expected able iron shirt overall nice hotel stay", "Date": "2011-10-24 00:00:00"}], "HotelInfo": {"Name": "Hotel Nuevo Madrid", "HotelURL": "/ShowUserReviews-g187514-d530471-Reviews-Hotel_Nuevo_Madrid-Madrid.html", "Price": "$60 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle de Bausa 25-27</span>, <span class=\"locality\"><span property=\"v:postal-code\">28033</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "530471", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a2/6e/a26e5f9b5a9c110c34a56a5baa95169d6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cBusiness Hotel - Not for Pleasure\u201d",
+      "Author": "nicoleonholiday",
+      "ReviewID": "UR136426910",
+      "Content": "stayed 2 nights hotel nuevo madrid airport staff nice spoke english girl reception helpful happy cbd metro etc apprecaited hotel clean modern hotel wifi unfortunatley restaurant closed disapointing considering season restaurants unless taxi business hotel pleasure overall pleased stay",
+      "Date": "2012-08-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "San Sebastian - Donostia, Spain",
+      "Title": "\u201cexcellent hotel at a very competitive price\u201d",
+      "Author": "nuriaar",
+      "ReviewID": "UR135147638",
+      "Content": "madrid family stayed hotel close road madrid train tube atocha station pio pinar de chamartin hotel nice prices 4 starhotel 53 price includes hour spa bath didnt fancy sharing bath guy didnt besides hotel worth spend weekend madrid ps pio tube 20 minutes hotel",
+      "Date": "2012-07-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Southampton, United Kingdom",
+      "Title": "\u201cNever Again!!!!\u201d",
+      "Author": "Kiran J",
+      "ReviewID": "UR132833624",
+      "Content": "stayed hotel 3 nights worst hotel stayed staff considerably rude understood english rude paid city view twin beds duvet hairdryer actually blew wait arrived install ourselves bath tab leaks mean beds changed 3 nights tidy changed sheets left tried charge food drinks mini bar didnt terrible restaurant didnt 9pm didnt restauarant 8pm told busy time 9pm outside rude left home nice goodbye fooled free internet offer free wifi night cut rest stay waste money staying visiting hotel",
+      "Date": "2012-06-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cNice hotel for conferences, not located for leisure\u201d",
+      "Author": "Chris W",
+      "ReviewID": "UR127134736",
+      "Content": "stayed hotel nuevo recently conference near shop cafe metro station walking distance id imagine hotel business events lobby spacious modern coming australia arrived day european colleagues ghost town reminded slim music video christopher dancing abandoned hotel lobby decent size comfortable beds rock hard complaint amongst attendees shower mere dribble hugely disappointing colleague staying floor breakfast pretty decent offering lady greeting morning lovely happy morning day breakfast conference facilities 160 multiple breakout sessions handled hotel staff 30 mins fresh coffee pastries stamina hotel conference madrid",
+      "Date": "2012-04-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Dublin, Ireland",
+      "Title": "\u201cNice Hotel but...................\u201d",
+      "Author": "stphnmcgwn",
+      "ReviewID": "UR119654963",
+      "Content": "hotel modern clean nice hotel business travel guess hotel ok attending conference close madrid centre evening drive taxi taxis struggled hotel alarm clock wake call night am waiting complaining reception greeted doormen friendly staff limited spanish dont expect able receive help ive travelled madrid numerous times business hotel ive found staff speak english ironing board available business hotel expected able iron shirt overall nice hotel stay",
+      "Date": "2011-10-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Nuevo Madrid",
+    "HotelURL": "/ShowUserReviews-g187514-d530471-Reviews-Hotel_Nuevo_Madrid-Madrid.html",
+    "Price": "$60 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle de Bausa 25-27</span>, <span class=\"locality\"><span property=\"v:postal-code\">28033</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "530471",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a2/6e/a26e5f9b5a9c110c34a56a5baa95169d6large.jpg"
+  }
+}

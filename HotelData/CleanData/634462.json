@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Sharm El Sheikh, Egypt", "Title": "\u201cVery lovely place to stay in Playa del Carmen\u201d", "Author": "Silviefish", "ReviewID": "UR126531302", "Content": "stayed el del mar 3rd 17th march 2012 bit hard nor real sign outside building reception enter garden closed wooden door feel middle town stayed alux appartement nice kitchenette balcony hammock view tropical garden minute home clean day cleaned receive towels live playa tourist avenida quinta enter road feel total world people don\u00b4t stay inclusive hotel don\u00b4t beach access el del mar stay playa owners friendly speak spanish words easy funny communicate signs day continetal breakfast consists toast butter jam prefer mexican breakfast tell scambled eggs omelette beans tacos breakfast served desired time thanks team del mar fantastic weeks", "Date": "2012-03-23 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Montreal", "Title": "\u201cGood and clean hotel in PLaya del Carmen\u201d", "Author": "Misterbobz", "ReviewID": "UR56536584", "Content": "stayed el del mar 3 nights hotel little hard sign announcing clean spacious garden simply sleep diving day hammock balcony environment relaxing simple nofuss hotel liked liked crazyness 5th avenue 10 min walk internet access free own computer internet caf\u00e9s nearby plan cooking own meals kitchen wellequiped hotel cheap pay lady owner speaks spanish dont mind speak little spanish mexico im demanding comes simple family hotel dont overly negative mention pleasant features absolutely water pressure shower mean none hotel accept credit cards cash heres configured enter locked door leading cool tropical garden access shared kitchen shared 2 bathroom shared 2 locked door ok door locked hook tend trust people travel am comfortable freely access mine probably disturbing ladies traveling add playa del carmen safe impression breakfasts included price expensive mexico glass orange juice plate fruit couple toasts morning totally shocked charged 8 time", "Date": "2010-02-19 00:00:00"}], "HotelInfo": {"Name": "El Duende del Mar", "HotelURL": "/ShowUserReviews-g150812-d634462-Reviews-El_Duende_del_Mar-Playa_del_Carmen_Yucatan_Peninsula.html", "Price": "$67 - $93*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Avenida 30 Esquina Calle 3 Sur</span>, <span class=\"locality\"><span property=\"v:locality\">Playa del Carmen</span> <span property=\"v:postal-code\">77710</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "634462", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/f7/fe/df/getlstd-property-photo.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Sharm El Sheikh, Egypt",
+      "Title": "\u201cVery lovely place to stay in Playa del Carmen\u201d",
+      "Author": "Silviefish",
+      "ReviewID": "UR126531302",
+      "Content": "stayed el del mar 3rd 17th march 2012 bit hard nor real sign outside building reception enter garden closed wooden door feel middle town stayed alux appartement nice kitchenette balcony hammock view tropical garden minute home clean day cleaned receive towels live playa tourist avenida quinta enter road feel total world people don\u00b4t stay inclusive hotel don\u00b4t beach access el del mar stay playa owners friendly speak spanish words easy funny communicate signs day continetal breakfast consists toast butter jam prefer mexican breakfast tell scambled eggs omelette beans tacos breakfast served desired time thanks team del mar fantastic weeks",
+      "Date": "2012-03-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Montreal",
+      "Title": "\u201cGood and clean hotel in PLaya del Carmen\u201d",
+      "Author": "Misterbobz",
+      "ReviewID": "UR56536584",
+      "Content": "stayed el del mar 3 nights hotel little hard sign announcing clean spacious garden simply sleep diving day hammock balcony environment relaxing simple nofuss hotel liked liked crazyness 5th avenue 10 min walk internet access free own computer internet caf\u00e9s nearby plan cooking own meals kitchen wellequiped hotel cheap pay lady owner speaks spanish dont mind speak little spanish mexico im demanding comes simple family hotel dont overly negative mention pleasant features absolutely water pressure shower mean none hotel accept credit cards cash heres configured enter locked door leading cool tropical garden access shared kitchen shared 2 bathroom shared 2 locked door ok door locked hook tend trust people travel am comfortable freely access mine probably disturbing ladies traveling add playa del carmen safe impression breakfasts included price expensive mexico glass orange juice plate fruit couple toasts morning totally shocked charged 8 time",
+      "Date": "2010-02-19 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "El Duende del Mar",
+    "HotelURL": "/ShowUserReviews-g150812-d634462-Reviews-El_Duende_del_Mar-Playa_del_Carmen_Yucatan_Peninsula.html",
+    "Price": "$67 - $93*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Avenida 30 Esquina Calle 3 Sur</span>, <span class=\"locality\"><span property=\"v:locality\">Playa del Carmen</span> <span property=\"v:postal-code\">77710</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "634462",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/f7/fe/df/getlstd-property-photo.jpg"
+  }
+}

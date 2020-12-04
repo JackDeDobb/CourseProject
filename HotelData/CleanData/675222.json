@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Moscow, Russia", "Title": "\u201cHotel on the main shopping street in Berlin\u201d", "Author": "KBH70", "ReviewID": "UR128280635", "Content": "hotel occupies floor house cozy clean furniture maintained bathroom looks modern background furniture hotel service standard breakfast dining hotel located street kurf\u00fcrstendamm considered head street shopping berlin walking distance hotel metro business trip vacation plan spend time hotel city wish", "Date": "2012-04-21 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Leiden, The Netherlands", "Title": "\u201cGood location, but very average inside\u201d", "Author": "lanneNL", "ReviewID": "UR122189641", "Content": "city hotel am kurfurstendamm situated kurfurstendamm 2 minute walk ubahn subway station adenauerplatz lot busses stop kudamm lot shops nearest hotel upscale chains streets restaurants close hotel bakeries bar walk restaurants bit farther kudamm front hotel bus stop bus kudamm welcome card city card access free hotel ads 3 star hotel rate 25 stars located 4th 5th floors typically berlin building building built central courtyard elevator real lobby reception desk chair display tourist flyers drink snack machine breakfast floor located reception central hallway 5th floor accessed 4th floor elevator taking stairs 5th floor special tad outdated design clean beds seat tv clean bathroom dont expect designed hip decors nights sleep city trip suffice stayed single courtyard space suitcase moving bit single bed 2 tables chairs closet noise outside sometimes hear taps nextdoor bathroom kudamm bit outside noise wasnt disturbing winter staff okay helpfull read reviews stating hardly speak english eventhough spoke german english okay wifi coupons free valid 1 hour logging 1 time short city trip hotel okay clean located fair pricequality comparison pay hotels dont expect superior amenities city trip consider hotel budget", "Date": "2011-12-28 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Oslo, Norway", "Title": "\u201cGood location averaged hotel\u201d", "Author": "TheAnotherTraveler", "ReviewID": "UR121656318", "Content": "location hotel close metro station size reasonably sized conditions cleanthe hotel reception located ground floor walk staircase lift reception beware entrance ground floor look hotel kettle teacoffee facilities provided convenient traveling babies children hot boiling water breakfast included hotel reasonable", "Date": "2011-12-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Tega Cay", "Title": "\u201cGreat hotel for college groups and other travelers on a budget\u201d", "Author": "IncantatoTours", "ReviewID": "UR67573868", "Content": "recent college berlin enjoyed staying cityhotel spread floors classic berliner und international staff welcoming extremely friendly breakfast fantastic modern hotel spacious feature balconies value price charged beats location heart easy walking distance bars restaurants shopping etc hotel aircondition hot summer day provide fans", "Date": "2010-06-15 00:00:00"}], "HotelInfo": {"Name": "City Hotel am Kurfuerstendamm", "HotelURL": "/ShowUserReviews-g187323-d675222-Reviews-City_Hotel_am_Kurfuerstendamm-Berlin.html", "Price": "$56 - $125*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kurfuerstendamm 173</span>, <span class=\"locality\"><span property=\"v:postal-code\">10707</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "675222", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8a/c9/8ac97b001734629cdec6551e1ba587711large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Moscow, Russia",
+      "Title": "\u201cHotel on the main shopping street in Berlin\u201d",
+      "Author": "KBH70",
+      "ReviewID": "UR128280635",
+      "Content": "hotel occupies floor house cozy clean furniture maintained bathroom looks modern background furniture hotel service standard breakfast dining hotel located street kurf\u00fcrstendamm considered head street shopping berlin walking distance hotel metro business trip vacation plan spend time hotel city wish",
+      "Date": "2012-04-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Leiden, The Netherlands",
+      "Title": "\u201cGood location, but very average inside\u201d",
+      "Author": "lanneNL",
+      "ReviewID": "UR122189641",
+      "Content": "city hotel am kurfurstendamm situated kurfurstendamm 2 minute walk ubahn subway station adenauerplatz lot busses stop kudamm lot shops nearest hotel upscale chains streets restaurants close hotel bakeries bar walk restaurants bit farther kudamm front hotel bus stop bus kudamm welcome card city card access free hotel ads 3 star hotel rate 25 stars located 4th 5th floors typically berlin building building built central courtyard elevator real lobby reception desk chair display tourist flyers drink snack machine breakfast floor located reception central hallway 5th floor accessed 4th floor elevator taking stairs 5th floor special tad outdated design clean beds seat tv clean bathroom dont expect designed hip decors nights sleep city trip suffice stayed single courtyard space suitcase moving bit single bed 2 tables chairs closet noise outside sometimes hear taps nextdoor bathroom kudamm bit outside noise wasnt disturbing winter staff okay helpfull read reviews stating hardly speak english eventhough spoke german english okay wifi coupons free valid 1 hour logging 1 time short city trip hotel okay clean located fair pricequality comparison pay hotels dont expect superior amenities city trip consider hotel budget",
+      "Date": "2011-12-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Oslo, Norway",
+      "Title": "\u201cGood location averaged hotel\u201d",
+      "Author": "TheAnotherTraveler",
+      "ReviewID": "UR121656318",
+      "Content": "location hotel close metro station size reasonably sized conditions cleanthe hotel reception located ground floor walk staircase lift reception beware entrance ground floor look hotel kettle teacoffee facilities provided convenient traveling babies children hot boiling water breakfast included hotel reasonable",
+      "Date": "2011-12-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Tega Cay",
+      "Title": "\u201cGreat hotel for college groups and other travelers on a budget\u201d",
+      "Author": "IncantatoTours",
+      "ReviewID": "UR67573868",
+      "Content": "recent college berlin enjoyed staying cityhotel spread floors classic berliner und international staff welcoming extremely friendly breakfast fantastic modern hotel spacious feature balconies value price charged beats location heart easy walking distance bars restaurants shopping etc hotel aircondition hot summer day provide fans",
+      "Date": "2010-06-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "City Hotel am Kurfuerstendamm",
+    "HotelURL": "/ShowUserReviews-g187323-d675222-Reviews-City_Hotel_am_Kurfuerstendamm-Berlin.html",
+    "Price": "$56 - $125*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kurfuerstendamm 173</span>, <span class=\"locality\"><span property=\"v:postal-code\">10707</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "675222",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8a/c9/8ac97b001734629cdec6551e1ba587711large.jpg"
+  }
+}

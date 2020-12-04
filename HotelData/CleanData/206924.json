@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Canada", "Title": "\u201cQuiet, Clean, Good, Not Overly Fancy\u201d", "Author": "Mary Lykes", "ReviewID": "UR120663548", "Content": "visited barcelona looking location noisy pricey ramblas night precruise stay hotel met expectations 60s bought cheap t10 ticket airport barcelona sants train station walked hotel rolling luggage day metro drassanes metro stop blue bus extra fare ship neighborhood quiet lots cafes grocery stores nearby suited doing fine dining board ship staff hotel courteous considering ease transportation barcelona accessibility nh forum metro bus lines basic alternative metro ramblas 15 minutes", "Date": "2011-11-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Sheffield, United Kingdom", "Title": "\u201cAn excellent hotel, and good value for money\u201d", "Author": "jazz86", "ReviewID": "UR87965606", "Content": "stayed hotel nights whilst located little centre barcelona convenient metro sants station trains airport restaurants hotel clean staff friendly helpful hotel extremely peaceful", "Date": "2010-11-23 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Athens, Greece", "Title": "\u201cA place to recommend!\u201d", "Author": "MyrtoT", "ReviewID": "UR56119836", "Content": "stayed nights busy weekend valentines day staff reception friendly helpful waitress breakfast speak english tried understand decent comfortable stay breakfast selection breakfast finished takes replace itor late sunday breakfast special weekend rate whic included breakfast free mini bar happy 500m metro station 1km sants convenient carry luggage elevator metro stations buses running close easier reach airport bus plaza catalunya bus 27 30 train sants taxi close pay 17 euros 1 km charge 2 euros suitcase internet expensive 55 euros 1 hour 11 euros 24 hours nevertheless stay leisure dont internet", "Date": "2010-02-16 00:00:00"}], "HotelInfo": {"Name": "NH Forum", "HotelURL": "/ShowUserReviews-g187497-d206924-Reviews-NH_Forum-Barcelona_Catalonia.html", "Price": "$82 - $140*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Ecuador 20</span>, <span class=\"locality\"><span property=\"v:postal-code\">08029</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "206924", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a6/d9/a6d9f25cdf54778e23bb32ec7deb434a7large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Canada",
+      "Title": "\u201cQuiet, Clean, Good, Not Overly Fancy\u201d",
+      "Author": "Mary Lykes",
+      "ReviewID": "UR120663548",
+      "Content": "visited barcelona looking location noisy pricey ramblas night precruise stay hotel met expectations 60s bought cheap t10 ticket airport barcelona sants train station walked hotel rolling luggage day metro drassanes metro stop blue bus extra fare ship neighborhood quiet lots cafes grocery stores nearby suited doing fine dining board ship staff hotel courteous considering ease transportation barcelona accessibility nh forum metro bus lines basic alternative metro ramblas 15 minutes",
+      "Date": "2011-11-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sheffield, United Kingdom",
+      "Title": "\u201cAn excellent hotel, and good value for money\u201d",
+      "Author": "jazz86",
+      "ReviewID": "UR87965606",
+      "Content": "stayed hotel nights whilst located little centre barcelona convenient metro sants station trains airport restaurants hotel clean staff friendly helpful hotel extremely peaceful",
+      "Date": "2010-11-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Athens, Greece",
+      "Title": "\u201cA place to recommend!\u201d",
+      "Author": "MyrtoT",
+      "ReviewID": "UR56119836",
+      "Content": "stayed nights busy weekend valentines day staff reception friendly helpful waitress breakfast speak english tried understand decent comfortable stay breakfast selection breakfast finished takes replace itor late sunday breakfast special weekend rate whic included breakfast free mini bar happy 500m metro station 1km sants convenient carry luggage elevator metro stations buses running close easier reach airport bus plaza catalunya bus 27 30 train sants taxi close pay 17 euros 1 km charge 2 euros suitcase internet expensive 55 euros 1 hour 11 euros 24 hours nevertheless stay leisure dont internet",
+      "Date": "2010-02-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "NH Forum",
+    "HotelURL": "/ShowUserReviews-g187497-d206924-Reviews-NH_Forum-Barcelona_Catalonia.html",
+    "Price": "$82 - $140*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Ecuador 20</span>, <span class=\"locality\"><span property=\"v:postal-code\">08029</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "206924",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a6/d9/a6d9f25cdf54778e23bb32ec7deb434a7large.jpg"
+  }
+}

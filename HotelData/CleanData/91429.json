@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "South Bend, Indiana", "Title": "\u201cGreat place to stay--even if road access isn't the easiest\u201d", "Author": "JustaHoosier", "ReviewID": "UR122584131", "Content": "jameson exit fine stay travelers cant afford luxury hotel downtown refuse pay average businessperson traveler stay night nice comfortable clean friendly helpful staff affordable price mind rates indy 500 memorial day weekend restaurants cracker barrel mcdonalds fancy easy word hotel hand lane coming interstate access road traffic light", "Date": "2012-01-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Michigan", "Title": "\u201cBad Experience\u201d", "Author": "amblessed", "ReviewID": "UR97342001", "Content": "wow looking reviews wouldnt lobby clean pretty looking sheets unwashed linen stains sheets makeup pillowcases makeup towels washcloths looked dusted stains carpets disappointing desk clerk friendly apologetic sheet stained looking towel dirty looking clerk towels beds themselves comfortable breakfast morning ice machines ice dont stay recommend", "Date": "2011-02-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Lafayette, Indiana", "Title": "\u201cSurprised in a good way!\u201d", "Author": "boiler_mom1968", "ReviewID": "UR89546059", "Content": "husband visiting family indianapolis didnt arrangements stay drove checking hotels found jameson looking couple unsavory hotels overall happy final choice staff nice beds free breakfast morning usual coffee doughnuts", "Date": "2010-12-10 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Chicago", "Title": "\u201cExcellent hotel & very cozy!\u201d", "Author": "colleenleopard", "ReviewID": "UR82585380", "Content": "husband stayed jameson weekend october nice hotel highway 465 close restaurants nice grocery store called marsh street thats 24 hrs hotel staff nice friendly clean cozy complaint housekeeping somehow didnt clean didnt fresh towels day overall recommend hotel family friends traveling indianapolis thank", "Date": "2010-10-08 00:00:00"}], "HotelInfo": {"Name": "Jameson Inn Indy West", "HotelURL": "/ShowUserReviews-g37209-d91429-Reviews-Jameson_Inn_Indy_West-Indianapolis_Indiana.html", "Price": "$88 - $150*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3850 Eagle View Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46254</span></span> </span> </span> </address>", "HotelID": "91429", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/31/9b/319bda4f1cf49b3124bc690a77e69a633large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "South Bend, Indiana",
+      "Title": "\u201cGreat place to stay--even if road access isn't the easiest\u201d",
+      "Author": "JustaHoosier",
+      "ReviewID": "UR122584131",
+      "Content": "jameson exit fine stay travelers cant afford luxury hotel downtown refuse pay average businessperson traveler stay night nice comfortable clean friendly helpful staff affordable price mind rates indy 500 memorial day weekend restaurants cracker barrel mcdonalds fancy easy word hotel hand lane coming interstate access road traffic light",
+      "Date": "2012-01-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Michigan",
+      "Title": "\u201cBad Experience\u201d",
+      "Author": "amblessed",
+      "ReviewID": "UR97342001",
+      "Content": "wow looking reviews wouldnt lobby clean pretty looking sheets unwashed linen stains sheets makeup pillowcases makeup towels washcloths looked dusted stains carpets disappointing desk clerk friendly apologetic sheet stained looking towel dirty looking clerk towels beds themselves comfortable breakfast morning ice machines ice dont stay recommend",
+      "Date": "2011-02-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Lafayette, Indiana",
+      "Title": "\u201cSurprised in a good way!\u201d",
+      "Author": "boiler_mom1968",
+      "ReviewID": "UR89546059",
+      "Content": "husband visiting family indianapolis didnt arrangements stay drove checking hotels found jameson looking couple unsavory hotels overall happy final choice staff nice beds free breakfast morning usual coffee doughnuts",
+      "Date": "2010-12-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Chicago",
+      "Title": "\u201cExcellent hotel & very cozy!\u201d",
+      "Author": "colleenleopard",
+      "ReviewID": "UR82585380",
+      "Content": "husband stayed jameson weekend october nice hotel highway 465 close restaurants nice grocery store called marsh street thats 24 hrs hotel staff nice friendly clean cozy complaint housekeeping somehow didnt clean didnt fresh towels day overall recommend hotel family friends traveling indianapolis thank",
+      "Date": "2010-10-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Jameson Inn Indy West",
+    "HotelURL": "/ShowUserReviews-g37209-d91429-Reviews-Jameson_Inn_Indy_West-Indianapolis_Indiana.html",
+    "Price": "$88 - $150*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3850 Eagle View Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46254</span></span> </span> </span> </address>",
+    "HotelID": "91429",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/31/9b/319bda4f1cf49b3124bc690a77e69a633large.jpg"
+  }
+}

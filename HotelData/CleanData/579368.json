@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Wagoner, Oklahoma", "Title": "\u201cBED BUGS!!!!\u201d", "Author": "Amber C", "ReviewID": "UR132743785", "Content": "stay bed bugs top worst hotels stayed reservations weeks advance 3 smoking cleaned dirty beds vomit floor reaked smoke maids cleaned apologizing mistake refused stay smoke smell strong moved clean liked due getting unpacked found dirty pair socks floor belong gross grandparents thursday paid thru sunday leave friday due grandmother getting ill front office clerk refused refund saturday night saying payment corporate office huge bed bugs night husband broke body third night children bites office refused refunds hear bed bugs regretably stayed fourth night paid spend money actually middle night threw sheets bugs family 5am bugs ziplock office morning bugs refused refund argued bed bugs tried refund grandparents told corporate office refund sending check remains seen recieved wifi building building stayed breakfast plain donuts coffe mention disgusting htis hotel location pool recommend staying", "Date": "2012-06-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "LaVista, Nebraska", "Title": "\u201cbeen coming here 13-years much much much much much better\u201d", "Author": "HYFIVE24", "ReviewID": "UR65826665", "Content": "stayed row times perfect stay 2years fallen people nice brought 2years branson mo spend money wisely caprice mean hey ritz dont ritz branson clean indoor pool hot tub nice people cares stay paid 45 50 dollars night tax mean stayed caprice dissapointed past 2years im people able hey stake hotels pay bucks thats families spend branson enjoy love stay raddison 125 night thanks ill caprice tickets family dinner okay caprice folks thanks stay grandpa saying stuck forever easy hope alot families visiting branson july fun ya caprice", "Date": "2010-05-30 00:00:00"}], "HotelInfo": {"Name": "Caprice Motor Inn Branson", "HotelURL": "/ShowUserReviews-g44160-d579368-Reviews-Caprice_Motor_Inn_Branson-Branson_Missouri.html", "Price": "$54 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3410 W. 76 Country Music Blvd.</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>", "HotelID": "579368", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f3/15/f31530dde7a16fdb0f364b0a6a11da161large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Wagoner, Oklahoma",
+      "Title": "\u201cBED BUGS!!!!\u201d",
+      "Author": "Amber C",
+      "ReviewID": "UR132743785",
+      "Content": "stay bed bugs top worst hotels stayed reservations weeks advance 3 smoking cleaned dirty beds vomit floor reaked smoke maids cleaned apologizing mistake refused stay smoke smell strong moved clean liked due getting unpacked found dirty pair socks floor belong gross grandparents thursday paid thru sunday leave friday due grandmother getting ill front office clerk refused refund saturday night saying payment corporate office huge bed bugs night husband broke body third night children bites office refused refunds hear bed bugs regretably stayed fourth night paid spend money actually middle night threw sheets bugs family 5am bugs ziplock office morning bugs refused refund argued bed bugs tried refund grandparents told corporate office refund sending check remains seen recieved wifi building building stayed breakfast plain donuts coffe mention disgusting htis hotel location pool recommend staying",
+      "Date": "2012-06-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "LaVista, Nebraska",
+      "Title": "\u201cbeen coming here 13-years much much much much much better\u201d",
+      "Author": "HYFIVE24",
+      "ReviewID": "UR65826665",
+      "Content": "stayed row times perfect stay 2years fallen people nice brought 2years branson mo spend money wisely caprice mean hey ritz dont ritz branson clean indoor pool hot tub nice people cares stay paid 45 50 dollars night tax mean stayed caprice dissapointed past 2years im people able hey stake hotels pay bucks thats families spend branson enjoy love stay raddison 125 night thanks ill caprice tickets family dinner okay caprice folks thanks stay grandpa saying stuck forever easy hope alot families visiting branson july fun ya caprice",
+      "Date": "2010-05-30 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Caprice Motor Inn Branson",
+    "HotelURL": "/ShowUserReviews-g44160-d579368-Reviews-Caprice_Motor_Inn_Branson-Branson_Missouri.html",
+    "Price": "$54 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3410 W. 76 Country Music Blvd.</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>",
+    "HotelID": "579368",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f3/15/f31530dde7a16fdb0f364b0a6a11da161large.jpg"
+  }
+}

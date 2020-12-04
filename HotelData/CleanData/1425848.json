@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Isle of Man", "Title": "\u201cHorrible!!! Stay well away!!! Avoid at all cost!!!\u201d", "Author": "rsb23", "ReviewID": "UR125864655", "Content": "horrible travel lot havent seen nor experienced seen third world countries apartments dirty dated stayed refurbished apartments cheaply looks dated dirty smells yourself favour stay apartments bit expensive ruin trip fire safety instructions normally short term stay accommodation liftelevator tiny broken extremely poor dont waste money else", "Date": "2012-03-09 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Chicago Park, California", "Title": "\u201cwebsite horribly misleading, rooms dated and dirty\u201d", "Author": "seabonnette", "ReviewID": "UR61398242", "Content": "staff putting positive reviews google review location overpriced advertise website leather couches glass tables etc internet buy separate wireless service 2 channels tv extremely dated kitchen apartment cracked countertop mold growing underneath mildew bath dirty carpets renovating staying dust debris smell everyones food cooking entire", "Date": "2010-04-15 00:00:00"}], "HotelInfo": {"Name": "Oxbridge Apartments", "HotelURL": "/ShowUserReviews-g186338-d1425848-Reviews-Oxbridge_Apartments-London_England.html", "Price": "0", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">8 Collingham Road</span> | <span class=\"extended-address\">Kensington</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">SW5 OLT</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>", "HotelID": "1425848", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Isle of Man",
+      "Title": "\u201cHorrible!!! Stay well away!!! Avoid at all cost!!!\u201d",
+      "Author": "rsb23",
+      "ReviewID": "UR125864655",
+      "Content": "horrible travel lot havent seen nor experienced seen third world countries apartments dirty dated stayed refurbished apartments cheaply looks dated dirty smells yourself favour stay apartments bit expensive ruin trip fire safety instructions normally short term stay accommodation liftelevator tiny broken extremely poor dont waste money else",
+      "Date": "2012-03-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Chicago Park, California",
+      "Title": "\u201cwebsite horribly misleading, rooms dated and dirty\u201d",
+      "Author": "seabonnette",
+      "ReviewID": "UR61398242",
+      "Content": "staff putting positive reviews google review location overpriced advertise website leather couches glass tables etc internet buy separate wireless service 2 channels tv extremely dated kitchen apartment cracked countertop mold growing underneath mildew bath dirty carpets renovating staying dust debris smell everyones food cooking entire",
+      "Date": "2010-04-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Oxbridge Apartments",
+    "HotelURL": "/ShowUserReviews-g186338-d1425848-Reviews-Oxbridge_Apartments-London_England.html",
+    "Price": "0",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">8 Collingham Road</span> | <span class=\"extended-address\">Kensington</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">SW5 OLT</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>",
+    "HotelID": "1425848",
+    "ImgURL": ""
+  }
+}

@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Lincoln, Nebraska", "Title": "\u201cWon't be coming back\u201d", "Author": "Normsie", "ReviewID": "UR122630452", "Content": "stayed 2 nights december wont coming dingy outdated heater loud sink cracks black stains replaced breakfast crowded filled surplus tvs donuts day coffee juice ok", "Date": "2012-01-05 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Springdale, Arkansas", "Title": "\u201chorrible room we where in & over priced\u201d", "Author": "redhairman", "ReviewID": "UR73314301", "Content": "checked pay 111 nights ac unplugged found knob missing pull switches bathroom door looked cheap bathtub handle missing exposed holes bathtub time sleep pulled sheets found urine stain inside sheet checked told desk rolled eyes didnt care stay motel", "Date": "2010-08-01 00:00:00"}], "HotelInfo": {"Name": "Ria Motor Inn", "HotelURL": "/ShowUserReviews-g44160-d1201086-Reviews-Ria_Motor_Inn-Branson_Missouri.html", "Price": "$39*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3325 Highway 76 West</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>", "HotelID": "1201086", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/9a/4d/9a4db1442ec015142897d797dd964e923large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Lincoln, Nebraska",
+      "Title": "\u201cWon't be coming back\u201d",
+      "Author": "Normsie",
+      "ReviewID": "UR122630452",
+      "Content": "stayed 2 nights december wont coming dingy outdated heater loud sink cracks black stains replaced breakfast crowded filled surplus tvs donuts day coffee juice ok",
+      "Date": "2012-01-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Springdale, Arkansas",
+      "Title": "\u201chorrible room we where in & over priced\u201d",
+      "Author": "redhairman",
+      "ReviewID": "UR73314301",
+      "Content": "checked pay 111 nights ac unplugged found knob missing pull switches bathroom door looked cheap bathtub handle missing exposed holes bathtub time sleep pulled sheets found urine stain inside sheet checked told desk rolled eyes didnt care stay motel",
+      "Date": "2010-08-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Ria Motor Inn",
+    "HotelURL": "/ShowUserReviews-g44160-d1201086-Reviews-Ria_Motor_Inn-Branson_Missouri.html",
+    "Price": "$39*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3325 Highway 76 West</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>",
+    "HotelID": "1201086",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/9a/4d/9a4db1442ec015142897d797dd964e923large.jpg"
+  }
+}

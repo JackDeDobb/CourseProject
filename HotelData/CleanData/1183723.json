@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Sofia, Bulgaria", "Title": "\u201cA happy stay, after s bad first expresion :)\u201d", "Author": "Radost_MM_", "ReviewID": "UR106481449", "Content": "booked via hostelworld instead 10 theyve billed credit cars 100 sum 10days booking time hostelworld cancelled booking ive tryed times reach via email phones hard till moment believe real moment met person vaporetto station key appartment finally ok appartment looks 100 pictures weve booked", "Date": "2011-05-02 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Manchester, United Kingdom", "Title": "\u201cA disgrace. DO NOT USE THIS COMPANY\u201d", "Author": "jack2101", "ReviewID": "UR103773783", "Content": "unfortunately didnt read trip advisor booking company horrible experience similar reviewed stayed beautiful apartments times venice money days arrived venice received cagey responses reply mail regarding collect keys apartment arrival venice met vaporetto stop person apparently speak understand english amount italian spoke entirely wrong direction apartment respond protests reaching wrong apartment half hours walk wrong direction apartment booked popular convenient venice found horrible apartment unpack belongings cook apartment seen website apartments advertised believe actually available reviewers promised transferred correct apartment following day left abruptly describe response mobiles landline company left numerous texts messages sat outside offices occasion met person company chance caught representative company called enrico entered offices assured moved following day called agreed removal time arranged meet luggage offices told telephone original apartment friend fluent italian emailed company failing receive response telephone messages eventually contacted result told refund late evening third day alternative accommodation hotel days spent venice trying solve family home spent lot time money trying contact deal people advise avoid company costs", "Date": "2011-04-12 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Amsterdam, The Netherlands", "Title": "\u201cDo not book\u201d", "Author": "hans93", "ReviewID": "UR94841158", "Content": "habit giving paid stated reviews unfortunately late apartment 2 instead 3 bedrooms lots promises remained silent tried charge mastercard 4 times amount course italy italians", "Date": "2011-01-29 00:00:00"}], "HotelInfo": {"Name": "Dimora Veneziana", "HotelURL": "/ShowUserReviews-g187870-d1183723-Reviews-Dimora_Veneziana-Venice_Veneto.html", "Price": "0", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">S. Marco, 2568</span>, <span class=\"locality\"><span property=\"v:postal-code\">30124</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "1183723", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/69/24/6924224e32179c97b037cf59d20eacba1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Sofia, Bulgaria",
+      "Title": "\u201cA happy stay, after s bad first expresion :)\u201d",
+      "Author": "Radost_MM_",
+      "ReviewID": "UR106481449",
+      "Content": "booked via hostelworld instead 10 theyve billed credit cars 100 sum 10days booking time hostelworld cancelled booking ive tryed times reach via email phones hard till moment believe real moment met person vaporetto station key appartment finally ok appartment looks 100 pictures weve booked",
+      "Date": "2011-05-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Manchester, United Kingdom",
+      "Title": "\u201cA disgrace. DO NOT USE THIS COMPANY\u201d",
+      "Author": "jack2101",
+      "ReviewID": "UR103773783",
+      "Content": "unfortunately didnt read trip advisor booking company horrible experience similar reviewed stayed beautiful apartments times venice money days arrived venice received cagey responses reply mail regarding collect keys apartment arrival venice met vaporetto stop person apparently speak understand english amount italian spoke entirely wrong direction apartment respond protests reaching wrong apartment half hours walk wrong direction apartment booked popular convenient venice found horrible apartment unpack belongings cook apartment seen website apartments advertised believe actually available reviewers promised transferred correct apartment following day left abruptly describe response mobiles landline company left numerous texts messages sat outside offices occasion met person company chance caught representative company called enrico entered offices assured moved following day called agreed removal time arranged meet luggage offices told telephone original apartment friend fluent italian emailed company failing receive response telephone messages eventually contacted result told refund late evening third day alternative accommodation hotel days spent venice trying solve family home spent lot time money trying contact deal people advise avoid company costs",
+      "Date": "2011-04-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Amsterdam, The Netherlands",
+      "Title": "\u201cDo not book\u201d",
+      "Author": "hans93",
+      "ReviewID": "UR94841158",
+      "Content": "habit giving paid stated reviews unfortunately late apartment 2 instead 3 bedrooms lots promises remained silent tried charge mastercard 4 times amount course italy italians",
+      "Date": "2011-01-29 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Dimora Veneziana",
+    "HotelURL": "/ShowUserReviews-g187870-d1183723-Reviews-Dimora_Veneziana-Venice_Veneto.html",
+    "Price": "0",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">S. Marco, 2568</span>, <span class=\"locality\"><span property=\"v:postal-code\">30124</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "1183723",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/69/24/6924224e32179c97b037cf59d20eacba1large.jpg"
+  }
+}

@@ -1,1 +1,165 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "San Jose Costa Rica", "Title": "\u201cTerrible experience. Damage to the Wyndham brand\u201d", "Author": "Rothaus", "ReviewID": "UR126463342", "Content": "booked family american airlines due flight delays reserved available flexibility staff help wrote gm sanjay request refund ignored example bad customer service hurt brand avoid hotel", "Date": "2012-03-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 2.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Georgia", "Title": "\u201cJust Right!\u201d", "Author": "RobGeorgia", "ReviewID": "UR126226342", "Content": "nice hotel hotel chain knights inn friendly staff priced issues traffic noise hotel close major road unreal suggest third floor hotel smell bug spray flat screen tv microwave frig nice hotel overall", "Date": "2012-03-17 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "New Orleans, Louisiana", "Title": "\u201cGood value for the price\u201d", "Author": "markichaus", "ReviewID": "UR126196859", "Content": "hotel value price location strip club wasnt wasnt bothered floor front desk elevators nice size king size bed sitting ceiling nice bit noisy cheerleader competition town lots girls cheerleader costumes running breakfast morning hot food sausage potatoes options", "Date": "2012-03-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Amarillo, Texas", "Title": "\u201cAlways a great place to stay\u201d", "Author": "John S", "ReviewID": "UR121833846", "Content": "choose stay company sends hotel stayed times found staff breakfast quality breakfast hot eggs bacon sausage waffles juices plenty eat day started easy i35 close downtown", "Date": "2011-12-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "San Antonio, Texas", "Title": "\u201cExcellent place to stay!\u201d", "Author": "JSIerra_11", "ReviewID": "UR118779179", "Content": "traveling dallas business 3 stay hotel time clients stay hotel staff helpful friendly management close airport quick ride downtown recommend hotel traveling visiting dallas", "Date": "2011-09-30 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Pflugerville, Texas", "Title": "\u201cLied about accommodations, bugs, non-working equipment, noisy, terrible staff\u201d", "Author": "patti8100", "ReviewID": "UR83528148", "Content": "dissatisfied stay prior reservation online called confirm king suite jacuzzi separate stand whirlpool bathtub jets told separate stand whirlpool twice sole deciding factor staying establishment expensive closer quality hotels arrived found dirty dark bathtub jets light fixtures function coffee pot outlet function moved bathroom noisy bugs keys door front desk housekeeping staff acted fault try remedy situation checkin fast staff friendly crack smile checkout enjoyed stay attendent bothered presence saved 50 100 choosing hotel false information top service terrible", "Date": "2010-10-14 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Arkansas", "Title": "\u201cBugs!\u201d", "Author": "Newlyparanoid", "ReviewID": "UR72809661", "Content": "nice price strip club staff friendly clean obvious insect time bathroom cockroach scurrying floor thats dealbreaker middle night brother bitten multiple times bugs im praying flees bedbugs dear god please bedbugs dont evidence theyve followed home ill ripping apart sheets doing thorough mattress inspection hotel stay disturbing", "Date": "2010-07-29 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Tyler, Texas", "Title": "\u201cDisgusting!!!\u201d", "Author": "Neches10", "ReviewID": "UR65378281", "Content": "family staying 2 yr son procedure childrens hospital morining pull sofa bed sheets mangled hair dirt sheets call bed sheets thrown yes fold upi told bed looked goes maid check assures fine call sheets takes 30 min fold bed half kids playing sex story short moved manager compensation poor service communicate front desk manager stepped complain corporate maybe nowthe nasty service sucked", "Date": "2010-05-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Corinth, TX", "Title": "\u201cBest little sleep house in TX!\u201d", "Author": "Pinkie87", "ReviewID": "UR60014322", "Content": "choose wingate time travel dallas staff accomdating clean roomy breakfast buffet til 930 am mornings sleep little love indoor pool hot tub relax unwind day location near downtown convient hubbub city highly recommend hotel value hospitality comfort", "Date": "2010-03-31 00:00:00"}], "HotelInfo": {"Name": "Wingate by Wyndham Dallas / Love Field", "HotelURL": "/ShowUserReviews-g55711-d109391-Reviews-Wingate_by_Wyndham_Dallas_Love_Field-Dallas_Texas.html", "Price": "$75 - $108*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">8650 North Stemmons Freeway</span>, <span class=\"extended-address\">I-35E North - Exit 434A Empire Central</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75247</span></span> </span></span></address>", "HotelID": "109391", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/2c/56/9e/wingate-by-wyndham-dallas.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "San Jose Costa Rica",
+      "Title": "\u201cTerrible experience. Damage to the Wyndham brand\u201d",
+      "Author": "Rothaus",
+      "ReviewID": "UR126463342",
+      "Content": "booked family american airlines due flight delays reserved available flexibility staff help wrote gm sanjay request refund ignored example bad customer service hurt brand avoid hotel",
+      "Date": "2012-03-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Georgia",
+      "Title": "\u201cJust Right!\u201d",
+      "Author": "RobGeorgia",
+      "ReviewID": "UR126226342",
+      "Content": "nice hotel hotel chain knights inn friendly staff priced issues traffic noise hotel close major road unreal suggest third floor hotel smell bug spray flat screen tv microwave frig nice hotel overall",
+      "Date": "2012-03-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "New Orleans, Louisiana",
+      "Title": "\u201cGood value for the price\u201d",
+      "Author": "markichaus",
+      "ReviewID": "UR126196859",
+      "Content": "hotel value price location strip club wasnt wasnt bothered floor front desk elevators nice size king size bed sitting ceiling nice bit noisy cheerleader competition town lots girls cheerleader costumes running breakfast morning hot food sausage potatoes options",
+      "Date": "2012-03-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Amarillo, Texas",
+      "Title": "\u201cAlways a great place to stay\u201d",
+      "Author": "John S",
+      "ReviewID": "UR121833846",
+      "Content": "choose stay company sends hotel stayed times found staff breakfast quality breakfast hot eggs bacon sausage waffles juices plenty eat day started easy i35 close downtown",
+      "Date": "2011-12-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "San Antonio, Texas",
+      "Title": "\u201cExcellent place to stay!\u201d",
+      "Author": "JSIerra_11",
+      "ReviewID": "UR118779179",
+      "Content": "traveling dallas business 3 stay hotel time clients stay hotel staff helpful friendly management close airport quick ride downtown recommend hotel traveling visiting dallas",
+      "Date": "2011-09-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Pflugerville, Texas",
+      "Title": "\u201cLied about accommodations, bugs, non-working equipment, noisy, terrible staff\u201d",
+      "Author": "patti8100",
+      "ReviewID": "UR83528148",
+      "Content": "dissatisfied stay prior reservation online called confirm king suite jacuzzi separate stand whirlpool bathtub jets told separate stand whirlpool twice sole deciding factor staying establishment expensive closer quality hotels arrived found dirty dark bathtub jets light fixtures function coffee pot outlet function moved bathroom noisy bugs keys door front desk housekeeping staff acted fault try remedy situation checkin fast staff friendly crack smile checkout enjoyed stay attendent bothered presence saved 50 100 choosing hotel false information top service terrible",
+      "Date": "2010-10-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Arkansas",
+      "Title": "\u201cBugs!\u201d",
+      "Author": "Newlyparanoid",
+      "ReviewID": "UR72809661",
+      "Content": "nice price strip club staff friendly clean obvious insect time bathroom cockroach scurrying floor thats dealbreaker middle night brother bitten multiple times bugs im praying flees bedbugs dear god please bedbugs dont evidence theyve followed home ill ripping apart sheets doing thorough mattress inspection hotel stay disturbing",
+      "Date": "2010-07-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Tyler, Texas",
+      "Title": "\u201cDisgusting!!!\u201d",
+      "Author": "Neches10",
+      "ReviewID": "UR65378281",
+      "Content": "family staying 2 yr son procedure childrens hospital morining pull sofa bed sheets mangled hair dirt sheets call bed sheets thrown yes fold upi told bed looked goes maid check assures fine call sheets takes 30 min fold bed half kids playing sex story short moved manager compensation poor service communicate front desk manager stepped complain corporate maybe nowthe nasty service sucked",
+      "Date": "2010-05-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Corinth, TX",
+      "Title": "\u201cBest little sleep house in TX!\u201d",
+      "Author": "Pinkie87",
+      "ReviewID": "UR60014322",
+      "Content": "choose wingate time travel dallas staff accomdating clean roomy breakfast buffet til 930 am mornings sleep little love indoor pool hot tub relax unwind day location near downtown convient hubbub city highly recommend hotel value hospitality comfort",
+      "Date": "2010-03-31 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Wingate by Wyndham Dallas / Love Field",
+    "HotelURL": "/ShowUserReviews-g55711-d109391-Reviews-Wingate_by_Wyndham_Dallas_Love_Field-Dallas_Texas.html",
+    "Price": "$75 - $108*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">8650 North Stemmons Freeway</span>, <span class=\"extended-address\">I-35E North - Exit 434A Empire Central</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75247</span></span> </span></span></address>",
+    "HotelID": "109391",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/2c/56/9e/wingate-by-wyndham-dallas.jpg"
+  }
+}

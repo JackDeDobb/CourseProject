@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Austin, Texas", "Title": "\u201cExcellant Like a Small Apartment\u201d", "Author": "nativem", "ReviewID": "UR125852097", "Content": "newly renovated nice clean apartment yes expressway reading address exterior highway am light sleeper fine 4 mini kitchen including dishwasher granite counter tops eating bar 2 seater living fireplace bedroom separated 2 sliding doors tv bedroom clock soothing sounds bath shower tub decorated bright modern colors pool hot tub coffer provided lobby free breakfast buffet whipped cream loved hot chocolate morning grocery store door foods street lot shopping easy access highway minutes downtown", "Date": "2012-03-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Lubbock, Texas", "Title": "\u201cDisappointing\u201d", "Author": "mom500", "ReviewID": "UR125320596", "Content": "located directly adjacent central expressway residence inn expect marriott property freeway noise stops exterior hallway traveling children friends stayed time reported dirty kitchens supposedly clean dirty silverware unit ran hot water occasions circumstances woul stay", "Date": "2012-02-27 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Seattle, WA", "Title": "\u201cGood family stay, good service\u201d", "Author": "nancymcjensen", "ReviewID": "UR124673999", "Content": "family stayed feb 2011 pick adopted son perfect setup bedrooms common complete kitchen day fitness facility hotel drive theirs washers dryers clean condition tough situation super bowl snowstorm original 5 day visit stretched 2 weeks recall hotel staff incredibly accommodating providing crib fresh bedding daily newborn allowing stretch stay hassles breakfast 5 talks", "Date": "2012-02-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Omaha, Nebraska", "Title": "\u201cGood value for the money.\u201d", "Author": "Charlie_from_Omaha", "ReviewID": "UR123337199", "Content": "upgraded reviewers stayed experience bit am ok separate sleeping feature clean properly front deck clerk john nice professional greeted promptly entire checkin process 23 minutes bit noise highway previous reviewers noted change suggest charge 75 cents local calls 1980s cheap doubt realize revenue people cell phones makes look tawdry return", "Date": "2012-01-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Naples, Florida", "Title": "\u201cGood Business Hotel\u201d", "Author": "BlueMarlinDave", "ReviewID": "UR120461305", "Content": "stayed weeks september business trip dallas greeted warm receptionist provided clean modern suite hotel centrally lcoated worth evening socials typical residence inns guests appear staying dallas extended business stays rate hotel excellent hesitate book trip future business stay dallas", "Date": "2011-11-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Austin, texas", "Title": "\u201cFar exceeded expectations\u201d", "Author": "jmanko", "ReviewID": "UR118949958", "Content": "reservations 3 attend funeral dallas family reservation agent special rate arrival woman greeted warmth friendliness true humanity recently renovated exceptionally comfortable evening happy hour nice food beer wine soda buffet breakfast offered huge selection eggs sausage potatoes waffles hot cereal cold cereal pastries etc entire staff stay pleasant homelike definitely stay property", "Date": "2011-10-04 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Arkansas", "Title": "\u201cWatch your Credit Card Charges\u201d", "Author": "trip100012", "ReviewID": "UR85059174", "Content": "stay hotel please watch credit card charges tried run credit card alot suppose charged bank mess luckily bank reimbursing fees happened begin", "Date": "2010-10-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Houston, Texas", "Title": "\u201cCheerful Service\u201d", "Author": "Jagshaw", "ReviewID": "UR70497554", "Content": "family stayed 4 nights hotel attending conference dallas greeted cheerfully reception arrived noticed travelling children unit main expressway clean arrived kept clean throughout stay cleaning lady left personal greeting arrived left additional personal notes stay cleaned dirty dishes left sink front staff provided couple services free charged definitely stay travel dallas future", "Date": "2010-07-11 00:00:00"}], "HotelInfo": {"Name": "Residence Inn Dallas Central Expressway", "HotelURL": "/ShowUserReviews-g55711-d109438-Reviews-Residence_Inn_Dallas_Central_Expressway-Dallas_Texas.html", "Price": "$111 - $164*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">10333 North Central Expressway</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75231</span></span> </span></span></address>", "HotelID": "109438", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/58/2c/582c94eee4455b6724ee21201ffbfb981large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Austin, Texas",
+      "Title": "\u201cExcellant Like a Small Apartment\u201d",
+      "Author": "nativem",
+      "ReviewID": "UR125852097",
+      "Content": "newly renovated nice clean apartment yes expressway reading address exterior highway am light sleeper fine 4 mini kitchen including dishwasher granite counter tops eating bar 2 seater living fireplace bedroom separated 2 sliding doors tv bedroom clock soothing sounds bath shower tub decorated bright modern colors pool hot tub coffer provided lobby free breakfast buffet whipped cream loved hot chocolate morning grocery store door foods street lot shopping easy access highway minutes downtown",
+      "Date": "2012-03-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Lubbock, Texas",
+      "Title": "\u201cDisappointing\u201d",
+      "Author": "mom500",
+      "ReviewID": "UR125320596",
+      "Content": "located directly adjacent central expressway residence inn expect marriott property freeway noise stops exterior hallway traveling children friends stayed time reported dirty kitchens supposedly clean dirty silverware unit ran hot water occasions circumstances woul stay",
+      "Date": "2012-02-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Seattle, WA",
+      "Title": "\u201cGood family stay, good service\u201d",
+      "Author": "nancymcjensen",
+      "ReviewID": "UR124673999",
+      "Content": "family stayed feb 2011 pick adopted son perfect setup bedrooms common complete kitchen day fitness facility hotel drive theirs washers dryers clean condition tough situation super bowl snowstorm original 5 day visit stretched 2 weeks recall hotel staff incredibly accommodating providing crib fresh bedding daily newborn allowing stretch stay hassles breakfast 5 talks",
+      "Date": "2012-02-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Omaha, Nebraska",
+      "Title": "\u201cGood value for the money.\u201d",
+      "Author": "Charlie_from_Omaha",
+      "ReviewID": "UR123337199",
+      "Content": "upgraded reviewers stayed experience bit am ok separate sleeping feature clean properly front deck clerk john nice professional greeted promptly entire checkin process 23 minutes bit noise highway previous reviewers noted change suggest charge 75 cents local calls 1980s cheap doubt realize revenue people cell phones makes look tawdry return",
+      "Date": "2012-01-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Naples, Florida",
+      "Title": "\u201cGood Business Hotel\u201d",
+      "Author": "BlueMarlinDave",
+      "ReviewID": "UR120461305",
+      "Content": "stayed weeks september business trip dallas greeted warm receptionist provided clean modern suite hotel centrally lcoated worth evening socials typical residence inns guests appear staying dallas extended business stays rate hotel excellent hesitate book trip future business stay dallas",
+      "Date": "2011-11-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Austin, texas",
+      "Title": "\u201cFar exceeded expectations\u201d",
+      "Author": "jmanko",
+      "ReviewID": "UR118949958",
+      "Content": "reservations 3 attend funeral dallas family reservation agent special rate arrival woman greeted warmth friendliness true humanity recently renovated exceptionally comfortable evening happy hour nice food beer wine soda buffet breakfast offered huge selection eggs sausage potatoes waffles hot cereal cold cereal pastries etc entire staff stay pleasant homelike definitely stay property",
+      "Date": "2011-10-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Arkansas",
+      "Title": "\u201cWatch your Credit Card Charges\u201d",
+      "Author": "trip100012",
+      "ReviewID": "UR85059174",
+      "Content": "stay hotel please watch credit card charges tried run credit card alot suppose charged bank mess luckily bank reimbursing fees happened begin",
+      "Date": "2010-10-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Houston, Texas",
+      "Title": "\u201cCheerful Service\u201d",
+      "Author": "Jagshaw",
+      "ReviewID": "UR70497554",
+      "Content": "family stayed 4 nights hotel attending conference dallas greeted cheerfully reception arrived noticed travelling children unit main expressway clean arrived kept clean throughout stay cleaning lady left personal greeting arrived left additional personal notes stay cleaned dirty dishes left sink front staff provided couple services free charged definitely stay travel dallas future",
+      "Date": "2010-07-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Residence Inn Dallas Central Expressway",
+    "HotelURL": "/ShowUserReviews-g55711-d109438-Reviews-Residence_Inn_Dallas_Central_Expressway-Dallas_Texas.html",
+    "Price": "$111 - $164*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">10333 North Central Expressway</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75231</span></span> </span></span></address>",
+    "HotelID": "109438",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/58/2c/582c94eee4455b6724ee21201ffbfb981large.jpg"
+  }
+}

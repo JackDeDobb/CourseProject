@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Lincoln, Nebraska", "Title": "\u201cTypical clean Marriott hotel but becareful of the Interstate noise\u201d", "Author": "Steve B", "ReviewID": "UR123703347", "Content": "clean suite fine travelers budget clean free internet free breakfast nightly cocktails front desk staff request interior interstate nights times night awoken traffic noise", "Date": "2012-01-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Denver, Colorado", "Title": "\u201cShowing some age\u201d", "Author": "econsultant", "ReviewID": "UR103440243", "Content": "hotel probably pretty nice age suite average style nonflat screen tvs ac unit noisy noise freeway venture nearby foot topping tree roach wall living morning staff shuttle service love field efficient leaving breakfast morning provide simple breakfast items night", "Date": "2011-04-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Hood River, Oregon", "Title": "\u201c2.5 stars at best\u201d", "Author": "BizDevRoadee", "ReviewID": "UR89103689", "Content": "hotel trying lookfeel higherend impression main doors hotel employee counter tells neighborhood guess ok tv oldschool crt flat screen lcd plasma door bathroom obviously door frame nailed hidden white caulking furniture fixtures nice details tell quick renovation thankfully 1 night", "Date": "2010-12-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Phoenix, Arizona", "Title": "\u201cGreat place!\u201d", "Author": "lws2001", "ReviewID": "UR63693358", "Content": "stayed springhill suites nervous walk pleasantly surprised quality service staff greeted kindly checked promptly key nice quick apologize resolve clean breakfast morning plenty options choose addition free hotel shuttle mileage restaurants store etc ive complaints hotel", "Date": "2010-05-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "TexasMason1429", "Title": "\u201cI practically lived here for 4 months. GREAT staff, average hotel.\u201d", "Author": "TexasMason1429", "ReviewID": "UR59275356", "Content": "stayed nearly mf october january location client fit pro staff outstanding donna bolts sales manager anna breakfast morning service property clean gym buffet morning snacks soda evening con particularly nice convenient nearby food lots restaurants movie theater etc past movie theater left quickly start running strip clubs massage parlors recommend hotel doing business medical center harry hines marriott property courtyard nearby parking lot divided liquor store", "Date": "2010-03-22 00:00:00"}], "HotelInfo": {"Name": "SpringHill Suites NW Hwy at Stemmons/I-35E", "HotelURL": "/ShowUserReviews-g55711-d98622-Reviews-SpringHill_Suites_NW_Hwy_at_Stemmons_I_35E-Dallas_Texas.html", "Price": "$90 - $137*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2363 Stemmons Trail</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75220</span></span> </span></span></address>", "HotelID": "98622", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/53/4e/534ec05df026226687cccbeea7565f514large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Lincoln, Nebraska",
+      "Title": "\u201cTypical clean Marriott hotel but becareful of the Interstate noise\u201d",
+      "Author": "Steve B",
+      "ReviewID": "UR123703347",
+      "Content": "clean suite fine travelers budget clean free internet free breakfast nightly cocktails front desk staff request interior interstate nights times night awoken traffic noise",
+      "Date": "2012-01-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Denver, Colorado",
+      "Title": "\u201cShowing some age\u201d",
+      "Author": "econsultant",
+      "ReviewID": "UR103440243",
+      "Content": "hotel probably pretty nice age suite average style nonflat screen tvs ac unit noisy noise freeway venture nearby foot topping tree roach wall living morning staff shuttle service love field efficient leaving breakfast morning provide simple breakfast items night",
+      "Date": "2011-04-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Hood River, Oregon",
+      "Title": "\u201c2.5 stars at best\u201d",
+      "Author": "BizDevRoadee",
+      "ReviewID": "UR89103689",
+      "Content": "hotel trying lookfeel higherend impression main doors hotel employee counter tells neighborhood guess ok tv oldschool crt flat screen lcd plasma door bathroom obviously door frame nailed hidden white caulking furniture fixtures nice details tell quick renovation thankfully 1 night",
+      "Date": "2010-12-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Phoenix, Arizona",
+      "Title": "\u201cGreat place!\u201d",
+      "Author": "lws2001",
+      "ReviewID": "UR63693358",
+      "Content": "stayed springhill suites nervous walk pleasantly surprised quality service staff greeted kindly checked promptly key nice quick apologize resolve clean breakfast morning plenty options choose addition free hotel shuttle mileage restaurants store etc ive complaints hotel",
+      "Date": "2010-05-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "TexasMason1429",
+      "Title": "\u201cI practically lived here for 4 months. GREAT staff, average hotel.\u201d",
+      "Author": "TexasMason1429",
+      "ReviewID": "UR59275356",
+      "Content": "stayed nearly mf october january location client fit pro staff outstanding donna bolts sales manager anna breakfast morning service property clean gym buffet morning snacks soda evening con particularly nice convenient nearby food lots restaurants movie theater etc past movie theater left quickly start running strip clubs massage parlors recommend hotel doing business medical center harry hines marriott property courtyard nearby parking lot divided liquor store",
+      "Date": "2010-03-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "SpringHill Suites NW Hwy at Stemmons/I-35E",
+    "HotelURL": "/ShowUserReviews-g55711-d98622-Reviews-SpringHill_Suites_NW_Hwy_at_Stemmons_I_35E-Dallas_Texas.html",
+    "Price": "$90 - $137*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2363 Stemmons Trail</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75220</span></span> </span></span></address>",
+    "HotelID": "98622",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/53/4e/534ec05df026226687cccbeea7565f514large.jpg"
+  }
+}

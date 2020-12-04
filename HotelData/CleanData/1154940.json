@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Scrignac, France", "Title": "\u201cGood value\u201d", "Author": "Wulfrun1an", "ReviewID": "UR126240701", "Content": "wish hotel 5 stars except serious failing sound proofing bedrooms service reception breakfast maid service unbeatable hotel clean run parking underground car park welcome bonus restaurant door management worth visiting food reasonable pricing friendly service near center remember price value", "Date": "2012-03-17 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "Kish Island, Iran", "Title": "\u201cFew bedrooms, not a hotel but clean and TOO FAR from ROME\u201d", "Author": "Emad_Ladonni", "ReviewID": "UR95091124", "Content": "hotel pair clean view restaurant breakfast hotel nice bar located hotel breakfast coupon hotel 2 buses metro line reach center rome hour reach city tourist attraction course public transportation cheap time price pay", "Date": "2011-01-31 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "San Diego, California", "Title": "\u201cclean, miniature rooms in a far away location\u201d", "Author": "Geneh48", "ReviewID": "UR85089422", "Content": "clean inexpensive rome action mass transit ito action close american hospital ten minute walk neighborhood pretty sketchy sidewalks missing minimal restaurant selection restaurant door surprisingly considering poor reviews glad wasnt", "Date": "2010-10-27 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Bologna", "Title": "\u201cJust in case your favorite Hotel in Rome is fully-booked ...as happened to me.\u201d", "Author": "Aldo051", "ReviewID": "UR70156642", "Content": "actually sad hotel front noisy road via close noisy wine bar invited taking breakfast especially unfortunate stay frontside equipped beds surrounding bad particular night except likes prostitutes corner rome downtown absolutely avoid tourists families tall people positive building clean freeofcharge garage", "Date": "2010-07-08 00:00:00"}], "HotelInfo": {"Name": "Hotel Bright", "HotelURL": "/ShowUserReviews-g187791-d1154940-Reviews-Hotel_Bright-Rome_Lazio.html", "Price": "$80 - $140*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Prenestina 940</span>, <span class=\"locality\"><span property=\"v:postal-code\">00155</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "1154940", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0c/88/0c88cd7403d31bc40b40d011a2f2e7485large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Scrignac, France",
+      "Title": "\u201cGood value\u201d",
+      "Author": "Wulfrun1an",
+      "ReviewID": "UR126240701",
+      "Content": "wish hotel 5 stars except serious failing sound proofing bedrooms service reception breakfast maid service unbeatable hotel clean run parking underground car park welcome bonus restaurant door management worth visiting food reasonable pricing friendly service near center remember price value",
+      "Date": "2012-03-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Kish Island, Iran",
+      "Title": "\u201cFew bedrooms, not a hotel but clean and TOO FAR from ROME\u201d",
+      "Author": "Emad_Ladonni",
+      "ReviewID": "UR95091124",
+      "Content": "hotel pair clean view restaurant breakfast hotel nice bar located hotel breakfast coupon hotel 2 buses metro line reach center rome hour reach city tourist attraction course public transportation cheap time price pay",
+      "Date": "2011-01-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "San Diego, California",
+      "Title": "\u201cclean, miniature rooms in a far away location\u201d",
+      "Author": "Geneh48",
+      "ReviewID": "UR85089422",
+      "Content": "clean inexpensive rome action mass transit ito action close american hospital ten minute walk neighborhood pretty sketchy sidewalks missing minimal restaurant selection restaurant door surprisingly considering poor reviews glad wasnt",
+      "Date": "2010-10-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Bologna",
+      "Title": "\u201cJust in case your favorite Hotel in Rome is fully-booked ...as happened to me.\u201d",
+      "Author": "Aldo051",
+      "ReviewID": "UR70156642",
+      "Content": "actually sad hotel front noisy road via close noisy wine bar invited taking breakfast especially unfortunate stay frontside equipped beds surrounding bad particular night except likes prostitutes corner rome downtown absolutely avoid tourists families tall people positive building clean freeofcharge garage",
+      "Date": "2010-07-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Bright",
+    "HotelURL": "/ShowUserReviews-g187791-d1154940-Reviews-Hotel_Bright-Rome_Lazio.html",
+    "Price": "$80 - $140*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Prenestina 940</span>, <span class=\"locality\"><span property=\"v:postal-code\">00155</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "1154940",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0c/88/0c88cd7403d31bc40b40d011a2f2e7485large.jpg"
+  }
+}

@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Finland", "Title": "\u201cGreat place, best possible location\u201d", "Author": "-MP069-", "ReviewID": "UR120016707", "Content": "barcelona wonderful week 6 booked flights plenty time choose apartment recently renovated apartment hotel location close ramblas passeig de gracia placa catalunya couple choices select \u2013 hotel de cent actually it\u2019s hotel name de cent it\u2019s name street apartment front door sign book apartment web site name didn\u2019t company happy service swing time answer website apartment pictures realistic appears reliable honest company apartment choices barcelona you\u2019re looking stay won\u2019t disappointed actually booked onebedroom twobedroom apartments fourth floor house consists 11 apartments five onebedroom five twobedroom ones similar attic apartments balcony floor there\u2019s onebedroom apartment facing street twobedroom apartment facing courtyard courtyard attractive extremely quiet you\u2019re light sleeper choose noise apposed street noisy try fifth floor ear apartments equipped self catering cooking utensils wide variety past acceptable anyway oven microwave hob fridge freezer washing machine dishwasher air conditioning effective provided apartments pleasant summer minus little toilet paper soap garbage bags washing powder washing machines shop corner buy yourself maybe belong price dusty clean beds hard thats matter taste soon exact time apartment remember call owner albert reception front door locked albert wait front door keys information nice helpful easy reach spoke location couldn\u2019t close major shopping streets close metro stations easily quickly move bakery shop doors minute walk wonderful caf\u00e9\u2019s restaurants round corner try tribeca restaurant money try michelin star perfect close satisfied definitely day tip metro buy t10 metro cards cost 825 \u20ac travel metro 10 times card cheap buy expensive city cards", "Date": "2011-11-01 00:00:00"}], "HotelInfo": {"Name": "Hotel Consell de Cent", "HotelURL": "/ShowUserReviews-g187497-d1143988-Reviews-Hotel_Consell_de_Cent-Barcelona_Catalonia.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle Consejo de Ciento 283</span>, <span class=\"locality\"><span property=\"v:postal-code\">8011</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "1143988", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/3f/fa/3ffa7ad5b508925cca5ca82088b217415large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Finland",
+      "Title": "\u201cGreat place, best possible location\u201d",
+      "Author": "-MP069-",
+      "ReviewID": "UR120016707",
+      "Content": "barcelona wonderful week 6 booked flights plenty time choose apartment recently renovated apartment hotel location close ramblas passeig de gracia placa catalunya couple choices select \u2013 hotel de cent actually it\u2019s hotel name de cent it\u2019s name street apartment front door sign book apartment web site name didn\u2019t company happy service swing time answer website apartment pictures realistic appears reliable honest company apartment choices barcelona you\u2019re looking stay won\u2019t disappointed actually booked onebedroom twobedroom apartments fourth floor house consists 11 apartments five onebedroom five twobedroom ones similar attic apartments balcony floor there\u2019s onebedroom apartment facing street twobedroom apartment facing courtyard courtyard attractive extremely quiet you\u2019re light sleeper choose noise apposed street noisy try fifth floor ear apartments equipped self catering cooking utensils wide variety past acceptable anyway oven microwave hob fridge freezer washing machine dishwasher air conditioning effective provided apartments pleasant summer minus little toilet paper soap garbage bags washing powder washing machines shop corner buy yourself maybe belong price dusty clean beds hard thats matter taste soon exact time apartment remember call owner albert reception front door locked albert wait front door keys information nice helpful easy reach spoke location couldn\u2019t close major shopping streets close metro stations easily quickly move bakery shop doors minute walk wonderful caf\u00e9\u2019s restaurants round corner try tribeca restaurant money try michelin star perfect close satisfied definitely day tip metro buy t10 metro cards cost 825 \u20ac travel metro 10 times card cheap buy expensive city cards",
+      "Date": "2011-11-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Consell de Cent",
+    "HotelURL": "/ShowUserReviews-g187497-d1143988-Reviews-Hotel_Consell_de_Cent-Barcelona_Catalonia.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle Consejo de Ciento 283</span>, <span class=\"locality\"><span property=\"v:postal-code\">8011</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "1143988",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/3f/fa/3ffa7ad5b508925cca5ca82088b217415large.jpg"
+  }
+}

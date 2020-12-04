@@ -1,1 +1,165 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Tahlequah, Oklahoma", "Title": "\u201cClean and affordable\u201d", "Author": "tsokie", "ReviewID": "UR137346249", "Content": "im person invest portion vacation money accomodations clean bed decent breakfast am happy exactly extras frills looking recommend hotel", "Date": "2012-08-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Charleston, AR", "Title": "\u201cIt's Fine\u201d", "Author": "ProgressiveHobo", "ReviewID": "UR134129320", "Content": "traveled branson night stay pickup family airport stayed red roof inn time looking bargain price surprised clean staff business ive visits daughter continue red roof inn branson price beds soft clean staff friendly", "Date": "2012-07-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Mercedes, Texas", "Title": "\u201cEconomical and Exceptionla\u201d", "Author": "David R", "ReviewID": "UR131052263", "Content": "time stayed red roof inn 5 star motel clean staff acted professional dont motel 2 3 star folks marriott dont expect steak paying bologna", "Date": "2012-05-31 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Richwoods Missouri", "Title": "\u201cmy stay\u201d", "Author": "Laura B", "ReviewID": "UR131026015", "Content": "stay red roof inn branson ok bed hard rock kinda smelled funny stay clean facility service nice front desk pool clean night people partied trash pool pool total mess nice warm breakfast eat", "Date": "2012-05-31 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Cabot,AR", "Title": "\u201cNothing worked.\u201d", "Author": "reemoo", "ReviewID": "UR125656041", "Content": "heater didnt moved heard apology tv remote didnt hotel phone didnt properly lobby breakfast joke cereal donuts carpet floor nasty stay red roof", "Date": "2012-03-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "kansas city, mo", "Title": "\u201cBasic but good\u201d", "Author": "alex197630", "ReviewID": "UR120163383", "Content": "staff pleasant helpful actual keys cards somewhat clean inn quiet red roof inn accept pets wo extra charge ice machine broken directions continental breakfast typical cereal fruit donuts plus waffles", "Date": "2011-11-04 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Des Moines IA", "Title": "\u201cFloors need help!!\u201d", "Author": "Woody81", "ReviewID": "UR71298859", "Content": "family stayed night front desk staff helpful pleasant carpet caused wifes feet black hour walking picture socks earlier review exactly results location free wifi nice hard overcome cleanliness issue", "Date": "2010-07-17 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "pierron, Illinois, USA", "Title": "\u201cMOTEL HELL!!!\u201d", "Author": "irishqpdoll", "ReviewID": "UR71019753", "Content": "dont start checked ok door clue door trashed im talking trash beds werent looked party therewe moved wasnt beds trash cans towels soap supplies gonna move stayed 2nd brought supplies morning couldnt check fast kicker allow animals grandson woke flea bites legs flea bitten motel", "Date": "2010-07-15 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "St Louis,Mo.", "Title": "\u201cNeeds Some Improvements\u201d", "Author": "bbh907", "ReviewID": "UR59960955", "Content": "particular red roof inn replace drapes traverse ones didnt hang close righti hair clip hold gaps top light replace stayed particular property picture coming volume hard didnt half channels advertise satellite chunks black stuff blowing read review location particular red roof beaten improvements basic maintenance", "Date": "2010-03-30 00:00:00"}], "HotelInfo": {"Name": "Red Roof Inn Branson", "HotelURL": "/ShowUserReviews-g44160-d225114-Reviews-Red_Roof_Inn_Branson-Branson_Missouri.html", "Price": "$56 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">220 S. Wildwood Drive</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>", "HotelID": "225114", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/13/a1/13a118c0917fa1e5912dded7d442f3866large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Tahlequah, Oklahoma",
+      "Title": "\u201cClean and affordable\u201d",
+      "Author": "tsokie",
+      "ReviewID": "UR137346249",
+      "Content": "im person invest portion vacation money accomodations clean bed decent breakfast am happy exactly extras frills looking recommend hotel",
+      "Date": "2012-08-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Charleston, AR",
+      "Title": "\u201cIt's Fine\u201d",
+      "Author": "ProgressiveHobo",
+      "ReviewID": "UR134129320",
+      "Content": "traveled branson night stay pickup family airport stayed red roof inn time looking bargain price surprised clean staff business ive visits daughter continue red roof inn branson price beds soft clean staff friendly",
+      "Date": "2012-07-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Mercedes, Texas",
+      "Title": "\u201cEconomical and Exceptionla\u201d",
+      "Author": "David R",
+      "ReviewID": "UR131052263",
+      "Content": "time stayed red roof inn 5 star motel clean staff acted professional dont motel 2 3 star folks marriott dont expect steak paying bologna",
+      "Date": "2012-05-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Richwoods Missouri",
+      "Title": "\u201cmy stay\u201d",
+      "Author": "Laura B",
+      "ReviewID": "UR131026015",
+      "Content": "stay red roof inn branson ok bed hard rock kinda smelled funny stay clean facility service nice front desk pool clean night people partied trash pool pool total mess nice warm breakfast eat",
+      "Date": "2012-05-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Cabot,AR",
+      "Title": "\u201cNothing worked.\u201d",
+      "Author": "reemoo",
+      "ReviewID": "UR125656041",
+      "Content": "heater didnt moved heard apology tv remote didnt hotel phone didnt properly lobby breakfast joke cereal donuts carpet floor nasty stay red roof",
+      "Date": "2012-03-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "kansas city, mo",
+      "Title": "\u201cBasic but good\u201d",
+      "Author": "alex197630",
+      "ReviewID": "UR120163383",
+      "Content": "staff pleasant helpful actual keys cards somewhat clean inn quiet red roof inn accept pets wo extra charge ice machine broken directions continental breakfast typical cereal fruit donuts plus waffles",
+      "Date": "2011-11-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Des Moines IA",
+      "Title": "\u201cFloors need help!!\u201d",
+      "Author": "Woody81",
+      "ReviewID": "UR71298859",
+      "Content": "family stayed night front desk staff helpful pleasant carpet caused wifes feet black hour walking picture socks earlier review exactly results location free wifi nice hard overcome cleanliness issue",
+      "Date": "2010-07-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "pierron, Illinois, USA",
+      "Title": "\u201cMOTEL HELL!!!\u201d",
+      "Author": "irishqpdoll",
+      "ReviewID": "UR71019753",
+      "Content": "dont start checked ok door clue door trashed im talking trash beds werent looked party therewe moved wasnt beds trash cans towels soap supplies gonna move stayed 2nd brought supplies morning couldnt check fast kicker allow animals grandson woke flea bites legs flea bitten motel",
+      "Date": "2010-07-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "St Louis,Mo.",
+      "Title": "\u201cNeeds Some Improvements\u201d",
+      "Author": "bbh907",
+      "ReviewID": "UR59960955",
+      "Content": "particular red roof inn replace drapes traverse ones didnt hang close righti hair clip hold gaps top light replace stayed particular property picture coming volume hard didnt half channels advertise satellite chunks black stuff blowing read review location particular red roof beaten improvements basic maintenance",
+      "Date": "2010-03-30 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Red Roof Inn Branson",
+    "HotelURL": "/ShowUserReviews-g44160-d225114-Reviews-Red_Roof_Inn_Branson-Branson_Missouri.html",
+    "Price": "$56 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">220 S. Wildwood Drive</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>",
+    "HotelID": "225114",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/13/a1/13a118c0917fa1e5912dded7d442f3866large.jpg"
+  }
+}

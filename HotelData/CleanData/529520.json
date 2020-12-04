@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Poznan, Poland", "Title": "\u201cExcellent location, so so value\u201d", "Author": "gadulec", "ReviewID": "UR124019100", "Content": "excellent location center city takes 7 minutes garden bus 1520 min walk nearest subway 710 min calm quiet friendly service speaking german russian supposedly worse english whats breakfast buffet day ie bread cheese salami mortadella hard boiled eggs butter jam yogurt cereals muesli juices coffee tea double private bathroom 5 nights breakfast paid little time cheaper", "Date": "2012-02-02 00:00:00"}], "HotelInfo": {"Name": "Pension Bella", "HotelURL": "/ShowUserReviews-g187323-d529520-Reviews-Pension_Bella-Berlin.html", "Price": "$53 - $95*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Ludwigkirchstrasse 10-A</span>, <span class=\"locality\"><span property=\"v:postal-code\">10719</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "529520", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/25/80/2580e19ec7958439a9382d68a9556f718large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Poznan, Poland",
+      "Title": "\u201cExcellent location, so so value\u201d",
+      "Author": "gadulec",
+      "ReviewID": "UR124019100",
+      "Content": "excellent location center city takes 7 minutes garden bus 1520 min walk nearest subway 710 min calm quiet friendly service speaking german russian supposedly worse english whats breakfast buffet day ie bread cheese salami mortadella hard boiled eggs butter jam yogurt cereals muesli juices coffee tea double private bathroom 5 nights breakfast paid little time cheaper",
+      "Date": "2012-02-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Pension Bella",
+    "HotelURL": "/ShowUserReviews-g187323-d529520-Reviews-Pension_Bella-Berlin.html",
+    "Price": "$53 - $95*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Ludwigkirchstrasse 10-A</span>, <span class=\"locality\"><span property=\"v:postal-code\">10719</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "529520",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/25/80/2580e19ec7958439a9382d68a9556f718large.jpg"
+  }
+}

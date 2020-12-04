@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 2.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Victoria, Canada", "Title": "\u201cWell located hotel at an affordable price\u201d", "Author": "Thorac519", "ReviewID": "UR125826679", "Content": "stayed times bristol mexico city excellent value staff eager please english spoken restaurant food comfortable location close reforma british embassies patrolled police cars", "Date": "2012-03-08 00:00:00"}], "HotelInfo": {"Name": "Hotel Bristol", "HotelURL": "/ShowUserReviews-g150800-d154649-Reviews-Hotel_Bristol-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$62 - $75*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Playa Necaxa 17 Col. Cuauhtemoc</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06500</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "154649", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ff/00/ff005b0f8c305ea24c7c05737cc30eaa3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 2.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Victoria, Canada",
+      "Title": "\u201cWell located hotel at an affordable price\u201d",
+      "Author": "Thorac519",
+      "ReviewID": "UR125826679",
+      "Content": "stayed times bristol mexico city excellent value staff eager please english spoken restaurant food comfortable location close reforma british embassies patrolled police cars",
+      "Date": "2012-03-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Bristol",
+    "HotelURL": "/ShowUserReviews-g150800-d154649-Reviews-Hotel_Bristol-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$62 - $75*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Playa Necaxa 17 Col. Cuauhtemoc</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06500</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "154649",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ff/00/ff005b0f8c305ea24c7c05737cc30eaa3large.jpg"
+  }
+}

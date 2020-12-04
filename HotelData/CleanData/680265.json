@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Wiesbaden, Hessen, Germany", "Title": "\u201cDirty, Old, Smelly....Not As Advertised\u201d", "Author": "Heather K", "ReviewID": "UR127821828", "Content": "booked hotel based website pictures posted booking website arrived hotel didnt car husband lobby wasnt bad look spend night told desk clerk left pay 80 total price nights immediately called booking company complained couldnt giving hellhole money sent husband street beer stay little drunk gone bedding searching bugs didnt thank goodness cant believe basically stay knowing miserable hated hotel fyi finding holiday inn express 5 euro night painful smelled walls dirty exhaust fan bathroom black stuff coming toilet disgusting windows dirty barely carpeting stained curtains didnt cover entire window crack dawn traditional key key lock door sleeping husband downstairs computer wake lock door lock speaking wifi 5 euro dayits 1 euro hour available lobby parking available site 5 euro day parking street metered disco door noisy disco closed woken street fight police trying break neighborhood looked sketchy owner shop street safe neighborhood told dont look eye okay wonderful phone tv maybe 20 remote control tv held duct tape literally forever hate hotel run fast", "Date": "2012-04-13 00:00:00"}], "HotelInfo": {"Name": "Alper Hotel am Potsdamer Platz", "HotelURL": "/ShowUserReviews-g187323-d680265-Reviews-Alper_Hotel_am_Potsdamer_Platz-Berlin.html", "Price": "$60 - $110*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Potsdamer Strasse 82-84</span>, <span class=\"locality\"><span property=\"v:postal-code\">10785</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "680265", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e9/9a/e99a8bb4c17f8b1cb12d24da7510255e10large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Wiesbaden, Hessen, Germany",
+      "Title": "\u201cDirty, Old, Smelly....Not As Advertised\u201d",
+      "Author": "Heather K",
+      "ReviewID": "UR127821828",
+      "Content": "booked hotel based website pictures posted booking website arrived hotel didnt car husband lobby wasnt bad look spend night told desk clerk left pay 80 total price nights immediately called booking company complained couldnt giving hellhole money sent husband street beer stay little drunk gone bedding searching bugs didnt thank goodness cant believe basically stay knowing miserable hated hotel fyi finding holiday inn express 5 euro night painful smelled walls dirty exhaust fan bathroom black stuff coming toilet disgusting windows dirty barely carpeting stained curtains didnt cover entire window crack dawn traditional key key lock door sleeping husband downstairs computer wake lock door lock speaking wifi 5 euro dayits 1 euro hour available lobby parking available site 5 euro day parking street metered disco door noisy disco closed woken street fight police trying break neighborhood looked sketchy owner shop street safe neighborhood told dont look eye okay wonderful phone tv maybe 20 remote control tv held duct tape literally forever hate hotel run fast",
+      "Date": "2012-04-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Alper Hotel am Potsdamer Platz",
+    "HotelURL": "/ShowUserReviews-g187323-d680265-Reviews-Alper_Hotel_am_Potsdamer_Platz-Berlin.html",
+    "Price": "$60 - $110*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Potsdamer Strasse 82-84</span>, <span class=\"locality\"><span property=\"v:postal-code\">10785</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "680265",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e9/9a/e99a8bb4c17f8b1cb12d24da7510255e10large.jpg"
+  }
+}

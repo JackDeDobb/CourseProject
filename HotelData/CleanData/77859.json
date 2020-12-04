@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "venice, ca", "Title": "\u201cWell worth it!\u201d", "Author": "fritzVenice_Ca", "ReviewID": "UR108009084", "Content": "object called flophouse ok term guests ok guests bathed downtown la 6 blocks staples center la convention center price fraction ritzcarlton enjoyed clean suggest hotel", "Date": "2011-05-12 00:00:00"}], "HotelInfo": {"Name": "Stillwell Hotel", "HotelURL": "/ShowUserReviews-g32655-d77859-Reviews-Stillwell_Hotel-Los_Angeles_California.html", "Price": "$85 - $99*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">838 South Grand Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">90017</span></span> </span> </span> </address>", "HotelID": "77859", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7a/2c/7a2cf05513a37d5bc5b59e6b1de7f3ce1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "venice, ca",
+      "Title": "\u201cWell worth it!\u201d",
+      "Author": "fritzVenice_Ca",
+      "ReviewID": "UR108009084",
+      "Content": "object called flophouse ok term guests ok guests bathed downtown la 6 blocks staples center la convention center price fraction ritzcarlton enjoyed clean suggest hotel",
+      "Date": "2011-05-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Stillwell Hotel",
+    "HotelURL": "/ShowUserReviews-g32655-d77859-Reviews-Stillwell_Hotel-Los_Angeles_California.html",
+    "Price": "$85 - $99*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">838 South Grand Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">90017</span></span> </span> </span> </address>",
+    "HotelID": "77859",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7a/2c/7a2cf05513a37d5bc5b59e6b1de7f3ce1large.jpg"
+  }
+}

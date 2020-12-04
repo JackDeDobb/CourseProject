@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Milwaukee, WI", "Title": "\u201cHorrible place to stay- BED BUGS!!!\u201d", "Author": "Romero M", "ReviewID": "UR125207715", "Content": "family traveled october2011 stayed dump 2 nights stair smelled urinal night nail sticking floor front bathroom door called front desk told theyd check morning dont step floor stained badly top home bed bugs", "Date": "2012-02-25 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "New Delhi, India", "Title": "\u201cnot bad!!\u201d", "Author": "dhar_sneha", "ReviewID": "UR123655980", "Content": "willing spend lot money stay save shopping found hotel decent bathrooms severe clogging nice shift hospitality nice carrying extension laptop charger receptionist somehow helped breakfast bagels pretty hard overall dont provide choices kitchen amenities time day night includes oven cutlery etc beds bedding clean cosy", "Date": "2012-01-26 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Cleveland, Ohio", "Title": "\u201cLeft after 15 minutes in the place!\u201d", "Author": "Benjamin B", "ReviewID": "UR120893192", "Content": "initially checked figured looking days inn sign counter refunds 10 minutes guess tipped entered initially check dresser cockroaches didnt filthy dont sheets washed hair mice droppings sink smoke alarm gone leaving wires exposed 6 month wife stay quickly loaded desk 102 refund la quinta highway 100", "Date": "2011-11-22 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Fayetteville, Arkansas", "Title": "\u201cBedbugs! Don't stay here!\u201d", "Author": "spaceheartl4", "ReviewID": "UR114433443", "Content": "terrible hotel bedbugs stopped seeing billboard i70 29 arrived price 49 clerk apologetic misinformation dingy upgrades light hall shown curtains dark woke middle night realizing hadnt checked bedbugs mistake pillow sheets days 2 dozen bites body downstairs night clerk didnt ability refund manager 89 shower hotel facilities wash clothes bedbugs time washed clothes checked luggage 830 day clerk arrived spoke poor english manager finally told wasnt getting 11 road tried calling leaving message told managers name based previous reviews dont hope resolving simply time noticed continental breakfast restocked 3 hours supposed available slice bread available 630 breakfast 69 granola bars etc laundry save yourself hassle drive stop", "Date": "2011-06-19 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Ohio", "Title": "\u201cAppauling!!!!!!!!\u201d", "Author": "angry12", "ReviewID": "UR84273790", "Content": "gas station attendant told driving paid isnt paid boyfriend operators union stay cheapest hotels condition cleaner stay recommend hotel dont yourself", "Date": "2010-10-20 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Alcudia, Spain", "Title": "\u201cAvoid this place\u201d", "Author": "MariaSilvestri", "ReviewID": "UR72429964", "Content": "happened i70 late night looking stay wish hadnt stopped outdoor corridors distinctly unsafe feeling clean horribly outdated severe updating starting scratch option realized walked wasnt desk looking window breakfast offerings taking advantage budget hotels closeby choose instead", "Date": "2010-07-26 00:00:00"}], "HotelInfo": {"Name": "Days Inn Indianapolis", "HotelURL": "/ShowUserReviews-g37209-d259022-Reviews-Days_Inn_Indianapolis-Indianapolis_Indiana.html", "Price": "$55 - $97*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2150 North Post Road</span>, <span class=\"extended-address\">I-70 Exit 91 Post Road NW Corner</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46219</span></span> </span> </span> </address>", "HotelID": "259022", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/49/b4/49b452e95d623e94a6480b8c4a700c6e4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Milwaukee, WI",
+      "Title": "\u201cHorrible place to stay- BED BUGS!!!\u201d",
+      "Author": "Romero M",
+      "ReviewID": "UR125207715",
+      "Content": "family traveled october2011 stayed dump 2 nights stair smelled urinal night nail sticking floor front bathroom door called front desk told theyd check morning dont step floor stained badly top home bed bugs",
+      "Date": "2012-02-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "New Delhi, India",
+      "Title": "\u201cnot bad!!\u201d",
+      "Author": "dhar_sneha",
+      "ReviewID": "UR123655980",
+      "Content": "willing spend lot money stay save shopping found hotel decent bathrooms severe clogging nice shift hospitality nice carrying extension laptop charger receptionist somehow helped breakfast bagels pretty hard overall dont provide choices kitchen amenities time day night includes oven cutlery etc beds bedding clean cosy",
+      "Date": "2012-01-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Cleveland, Ohio",
+      "Title": "\u201cLeft after 15 minutes in the place!\u201d",
+      "Author": "Benjamin B",
+      "ReviewID": "UR120893192",
+      "Content": "initially checked figured looking days inn sign counter refunds 10 minutes guess tipped entered initially check dresser cockroaches didnt filthy dont sheets washed hair mice droppings sink smoke alarm gone leaving wires exposed 6 month wife stay quickly loaded desk 102 refund la quinta highway 100",
+      "Date": "2011-11-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Fayetteville, Arkansas",
+      "Title": "\u201cBedbugs! Don't stay here!\u201d",
+      "Author": "spaceheartl4",
+      "ReviewID": "UR114433443",
+      "Content": "terrible hotel bedbugs stopped seeing billboard i70 29 arrived price 49 clerk apologetic misinformation dingy upgrades light hall shown curtains dark woke middle night realizing hadnt checked bedbugs mistake pillow sheets days 2 dozen bites body downstairs night clerk didnt ability refund manager 89 shower hotel facilities wash clothes bedbugs time washed clothes checked luggage 830 day clerk arrived spoke poor english manager finally told wasnt getting 11 road tried calling leaving message told managers name based previous reviews dont hope resolving simply time noticed continental breakfast restocked 3 hours supposed available slice bread available 630 breakfast 69 granola bars etc laundry save yourself hassle drive stop",
+      "Date": "2011-06-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Ohio",
+      "Title": "\u201cAppauling!!!!!!!!\u201d",
+      "Author": "angry12",
+      "ReviewID": "UR84273790",
+      "Content": "gas station attendant told driving paid isnt paid boyfriend operators union stay cheapest hotels condition cleaner stay recommend hotel dont yourself",
+      "Date": "2010-10-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Alcudia, Spain",
+      "Title": "\u201cAvoid this place\u201d",
+      "Author": "MariaSilvestri",
+      "ReviewID": "UR72429964",
+      "Content": "happened i70 late night looking stay wish hadnt stopped outdoor corridors distinctly unsafe feeling clean horribly outdated severe updating starting scratch option realized walked wasnt desk looking window breakfast offerings taking advantage budget hotels closeby choose instead",
+      "Date": "2010-07-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Days Inn Indianapolis",
+    "HotelURL": "/ShowUserReviews-g37209-d259022-Reviews-Days_Inn_Indianapolis-Indianapolis_Indiana.html",
+    "Price": "$55 - $97*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2150 North Post Road</span>, <span class=\"extended-address\">I-70 Exit 91 Post Road NW Corner</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46219</span></span> </span> </span> </address>",
+    "HotelID": "259022",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/49/b4/49b452e95d623e94a6480b8c4a700c6e4large.jpg"
+  }
+}

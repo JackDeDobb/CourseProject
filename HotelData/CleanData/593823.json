@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "The Hague, Netherlands", "Title": "\u201cDecent Hotel with helpful staff in an okay location\u201d", "Author": "MallishKumar", "ReviewID": "UR127600914", "Content": "decent hotel helpful staff okay location arrived morning checked provided breakfast extra cost change day streetfacing noisy accomodate request decent sized clean comfortable provide toiletries own toothbrush paste bathroom slippers note tv turkish channels am travel istanbul watch tv neednt bother mini bar ac summer real painful safe safe safe concern overlook concerns absolutely fine breakfast everyday choice manageable hotel health club equipments free access sauna hamam additional charges services massage 115 turkish liras scrub etc downside hotel location near tram stop 6 7 tram stops sultanahmet please aware monuments sultanahmet frequency trams minutes trams normally crowded painfully slow 20 minutes reach sultanahmet due crowd tram 20 minutes forever taksim square distance hotel late taxi tram 0000 hours square expensive location concern book hotel website provide free pick drop airport confirm personally manager try charge airport drop booked website speak manager issue resolved delayed 1520 minutes flight try reach manager directly phone follow required email responses considerable time overall hotel decent price ahead book else look decent hotel sultanahmet save precious time liras travel tips istanbul related hotel review 1 exchange money airport charge 4 commission numerous exchange offices city commission 2 trams akbil buy istanbul kart deposit charges vary kiosk kiosk 7 liras 10 liras savings marginal 34 days istanbul kart risk kiosk owners refund deposit guarantee deposit 3 operate 0000 midnight decide agree fare taking taxi 4 stay sultanahmet", "Date": "2012-04-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Thessaloniki", "Title": "\u201cUsual Average 4star\u201d", "Author": "Vasios", "ReviewID": "UR101824783", "Content": "stayed fo 15 people cant comment value money dont usual walkin price hotel 4 star average hotel impressive dissapointing offered wasnt cleaned change 5 minutes hassle hotel offers free bath cant comment quality facilities havent nice location tram station 30 meters hotel sultanahment blue mosque agia sofia etc 20 minutes hot apparent reason heat trouble sleep opinion choose hotel related price offered price deal", "Date": "2011-03-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "London/United Kindgdom", "Title": "\u201cPerfect stay with affordable prices\u201d", "Author": "Mavlyuda", "ReviewID": "UR86789585", "Content": "package looking clean bright quality service welcoming staff price paid hotel heaven suits everyones taste matter family tourists friends", "Date": "2010-11-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Houston, Texas", "Title": "\u201cIf you wanna have good time and impress your partners go toTopkapi Inter\u201d", "Author": "serdar_kakayev", "ReviewID": "UR86709513", "Content": "travel lot meet people set partners topkapi hotel impressed service clean neat provide wonderful food specially service waiters perfect bests comfortable turkey people serve highly recommend stay wonderful hotel", "Date": "2010-11-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Phoenix, Arizona", "Title": "\u201can excellent place to stay\u201d", "Author": "atiqq", "ReviewID": "UR86679588", "Content": "time turkey istanbul stayed hotel trip duration nice descent hotel receptionist nice polite istanbul stay recommend hotel planning stay istanbul am glad chose hotel", "Date": "2010-11-10 00:00:00"}], "HotelInfo": {"Name": "Topkapi Inter Istanbul Hotel", "HotelURL": "/ShowUserReviews-g293974-d593823-Reviews-Topkapi_Inter_Istanbul_Hotel-Istanbul.html", "Price": "$105 - $171*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Topkapi Caddesi 8</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34270</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "593823", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/82/d4/82d4bae08fb33592b5298805a5d519b61large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "The Hague, Netherlands",
+      "Title": "\u201cDecent Hotel with helpful staff in an okay location\u201d",
+      "Author": "MallishKumar",
+      "ReviewID": "UR127600914",
+      "Content": "decent hotel helpful staff okay location arrived morning checked provided breakfast extra cost change day streetfacing noisy accomodate request decent sized clean comfortable provide toiletries own toothbrush paste bathroom slippers note tv turkish channels am travel istanbul watch tv neednt bother mini bar ac summer real painful safe safe safe concern overlook concerns absolutely fine breakfast everyday choice manageable hotel health club equipments free access sauna hamam additional charges services massage 115 turkish liras scrub etc downside hotel location near tram stop 6 7 tram stops sultanahmet please aware monuments sultanahmet frequency trams minutes trams normally crowded painfully slow 20 minutes reach sultanahmet due crowd tram 20 minutes forever taksim square distance hotel late taxi tram 0000 hours square expensive location concern book hotel website provide free pick drop airport confirm personally manager try charge airport drop booked website speak manager issue resolved delayed 1520 minutes flight try reach manager directly phone follow required email responses considerable time overall hotel decent price ahead book else look decent hotel sultanahmet save precious time liras travel tips istanbul related hotel review 1 exchange money airport charge 4 commission numerous exchange offices city commission 2 trams akbil buy istanbul kart deposit charges vary kiosk kiosk 7 liras 10 liras savings marginal 34 days istanbul kart risk kiosk owners refund deposit guarantee deposit 3 operate 0000 midnight decide agree fare taking taxi 4 stay sultanahmet",
+      "Date": "2012-04-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Thessaloniki",
+      "Title": "\u201cUsual Average 4star\u201d",
+      "Author": "Vasios",
+      "ReviewID": "UR101824783",
+      "Content": "stayed fo 15 people cant comment value money dont usual walkin price hotel 4 star average hotel impressive dissapointing offered wasnt cleaned change 5 minutes hassle hotel offers free bath cant comment quality facilities havent nice location tram station 30 meters hotel sultanahment blue mosque agia sofia etc 20 minutes hot apparent reason heat trouble sleep opinion choose hotel related price offered price deal",
+      "Date": "2011-03-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London/United Kindgdom",
+      "Title": "\u201cPerfect stay with affordable prices\u201d",
+      "Author": "Mavlyuda",
+      "ReviewID": "UR86789585",
+      "Content": "package looking clean bright quality service welcoming staff price paid hotel heaven suits everyones taste matter family tourists friends",
+      "Date": "2010-11-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Houston, Texas",
+      "Title": "\u201cIf you wanna have good time and impress your partners go toTopkapi Inter\u201d",
+      "Author": "serdar_kakayev",
+      "ReviewID": "UR86709513",
+      "Content": "travel lot meet people set partners topkapi hotel impressed service clean neat provide wonderful food specially service waiters perfect bests comfortable turkey people serve highly recommend stay wonderful hotel",
+      "Date": "2010-11-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Phoenix, Arizona",
+      "Title": "\u201can excellent place to stay\u201d",
+      "Author": "atiqq",
+      "ReviewID": "UR86679588",
+      "Content": "time turkey istanbul stayed hotel trip duration nice descent hotel receptionist nice polite istanbul stay recommend hotel planning stay istanbul am glad chose hotel",
+      "Date": "2010-11-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Topkapi Inter Istanbul Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d593823-Reviews-Topkapi_Inter_Istanbul_Hotel-Istanbul.html",
+    "Price": "$105 - $171*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Topkapi Caddesi 8</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34270</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "593823",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/82/d4/82d4bae08fb33592b5298805a5d519b61large.jpg"
+  }
+}

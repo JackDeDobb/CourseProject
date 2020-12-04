@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Toronto", "Title": "\u201cVery satisfied with this little hotel.\u201d", "Author": "73DavidU", "ReviewID": "UR123228189", "Content": "stayed week found little meet standards remember budget hotel 1 clean carpet vacuumed covers fresh towels pretty dusted 2 price convenient stayed week offered weekly rate allowed save money pleased winter low prices 3 situated downtown montreal quebec minutes port couple streets bellow st catherine downtown street close st denis saint laurent st boutiques restaurants 4 staff professional friendly people obnoxious responded quickly demands dont service nor maids 2pm receptionist happy overall staying hotels worth money definitively coming recomend passing city explained staff budget hotel breakfast basic design parking difficult help lot moved car dont recomend date executive", "Date": "2012-01-17 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "toronto", "Title": "\u201cGood location and friendly staff\u201d", "Author": "JBFlyGirl", "ReviewID": "UR122535704", "Content": "hotel sherbrooke street downtown montreal blocks subway station 24 bus runs sherbrooke hotel clean cold arrived heater bathroom water pressure clean towels model tv fine budget hotel suggest romantic weekend suggest corporate client quiet rest head night spot", "Date": "2012-01-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Quebec", "Title": "\u201cClean & friendly budget hotel\u201d", "Author": "mel024", "ReviewID": "UR118574368", "Content": "dont spend money clean stay clean bed comfy quiet person front desk lot students stay holidays spring break christmas noisy times walking distance rue st denis lot restaurants blocks parc fontaine beautiful walk close subway station prefer drive city parking difficult city people front desk multilingual helpful friendly equipped hair dryer forgotten loan husband stayed superior double bed desk chair tv bathroom size furnishings adequate sort necessarily lounge hang luxurious elegant tv wouldnt spend lot time fine happened charming door access fire escape imagine fulfill artistic notion balcony provide perfect latenight drink hot summer night hotel secure buzzer front door day didnt feel wrong neighborhood sherbrooke street simply busy effort little lobby pleasant putting water fountain breakfast provided hotel elevator note reservation online system superior listed 85night checkout taxes fees brought total 116 taxes called hotel directly reservation person quoted rate 80night normal tax rate total 93 added fees obviously advantage call hotel directly called 72hour time limit cancellations offer change 48 hours 93 charged time reservation credit card parking street free real plus montreal stay clean simple lowcost city", "Date": "2011-09-25 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cClean budget hotel in a convenient location\u201d", "Author": "runawayvespa", "ReviewID": "UR103928373", "Content": "hotel sufficient size tidy clean booked budget plenty space move receptionist helpful providing information city buzzer front door annoying provided key buzz reception hotel location hotel blocks sherbrooke metro station short walk rue excellent shopping restaurants walls thin woken night snoring coming lift booked hotel advertises website parking difficult montreal arrival discovered hotel onsite parking receptionist directed free parking spaces street car stay preferred secure parking didnt try free breakfast cant comment quality", "Date": "2011-04-13 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "mumbai", "Title": "\u201cDont expect anything more than a tiny basic room and you wont be disappointed\u201d", "Author": "jetsetgo06", "ReviewID": "UR71608843", "Content": "hotel centrally located minutes walk subway found useful superior fitted bed table chair tiny bathroom planned entire day return night suited fine except packing unpacking theer bags reasonably clean carpets stained bed spreads thankfully foul smell staff friendly helpful esp caitlin late check offered store bags dont expecting absolutely basic accomodation central location wont disappointed", "Date": "2010-07-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Montreal, Canada", "Title": "\u201cVery professional front desk staff.\u201d", "Author": "Aggatta", "ReviewID": "UR65172218", "Content": "stayed nights 54 bathroom bigger call superior renting trust front desk staff professional single bed fridge microwave moment checkin receptionist latino david nice helpful map told restaurants port breakfast paid 80 cad night type wouldve cost 160 cad stars hotel", "Date": "2010-05-24 00:00:00"}], "HotelInfo": {"Name": "La Residence Du Voyageur", "HotelURL": "/ShowUserReviews-g155032-d183251-Reviews-La_Residence_Du_Voyageur-Montreal_Quebec.html", "Price": "$71 - $136*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">847 Rue Sherbrooke Est</span>, <span class=\"locality\"><span property=\"v:locality\">Montreal</span>, <span property=\"v:region\">Quebec</span> <span property=\"v:postal-code\">H2L 1K6</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span></span></address>", "HotelID": "183251", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/02/2f/022f1df94ffd3239a5a58c304b9070c58large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Toronto",
+      "Title": "\u201cVery satisfied with this little hotel.\u201d",
+      "Author": "73DavidU",
+      "ReviewID": "UR123228189",
+      "Content": "stayed week found little meet standards remember budget hotel 1 clean carpet vacuumed covers fresh towels pretty dusted 2 price convenient stayed week offered weekly rate allowed save money pleased winter low prices 3 situated downtown montreal quebec minutes port couple streets bellow st catherine downtown street close st denis saint laurent st boutiques restaurants 4 staff professional friendly people obnoxious responded quickly demands dont service nor maids 2pm receptionist happy overall staying hotels worth money definitively coming recomend passing city explained staff budget hotel breakfast basic design parking difficult help lot moved car dont recomend date executive",
+      "Date": "2012-01-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "toronto",
+      "Title": "\u201cGood location and friendly staff\u201d",
+      "Author": "JBFlyGirl",
+      "ReviewID": "UR122535704",
+      "Content": "hotel sherbrooke street downtown montreal blocks subway station 24 bus runs sherbrooke hotel clean cold arrived heater bathroom water pressure clean towels model tv fine budget hotel suggest romantic weekend suggest corporate client quiet rest head night spot",
+      "Date": "2012-01-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Quebec",
+      "Title": "\u201cClean & friendly budget hotel\u201d",
+      "Author": "mel024",
+      "ReviewID": "UR118574368",
+      "Content": "dont spend money clean stay clean bed comfy quiet person front desk lot students stay holidays spring break christmas noisy times walking distance rue st denis lot restaurants blocks parc fontaine beautiful walk close subway station prefer drive city parking difficult city people front desk multilingual helpful friendly equipped hair dryer forgotten loan husband stayed superior double bed desk chair tv bathroom size furnishings adequate sort necessarily lounge hang luxurious elegant tv wouldnt spend lot time fine happened charming door access fire escape imagine fulfill artistic notion balcony provide perfect latenight drink hot summer night hotel secure buzzer front door day didnt feel wrong neighborhood sherbrooke street simply busy effort little lobby pleasant putting water fountain breakfast provided hotel elevator note reservation online system superior listed 85night checkout taxes fees brought total 116 taxes called hotel directly reservation person quoted rate 80night normal tax rate total 93 added fees obviously advantage call hotel directly called 72hour time limit cancellations offer change 48 hours 93 charged time reservation credit card parking street free real plus montreal stay clean simple lowcost city",
+      "Date": "2011-09-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cClean budget hotel in a convenient location\u201d",
+      "Author": "runawayvespa",
+      "ReviewID": "UR103928373",
+      "Content": "hotel sufficient size tidy clean booked budget plenty space move receptionist helpful providing information city buzzer front door annoying provided key buzz reception hotel location hotel blocks sherbrooke metro station short walk rue excellent shopping restaurants walls thin woken night snoring coming lift booked hotel advertises website parking difficult montreal arrival discovered hotel onsite parking receptionist directed free parking spaces street car stay preferred secure parking didnt try free breakfast cant comment quality",
+      "Date": "2011-04-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "mumbai",
+      "Title": "\u201cDont expect anything more than a tiny basic room and you wont be disappointed\u201d",
+      "Author": "jetsetgo06",
+      "ReviewID": "UR71608843",
+      "Content": "hotel centrally located minutes walk subway found useful superior fitted bed table chair tiny bathroom planned entire day return night suited fine except packing unpacking theer bags reasonably clean carpets stained bed spreads thankfully foul smell staff friendly helpful esp caitlin late check offered store bags dont expecting absolutely basic accomodation central location wont disappointed",
+      "Date": "2010-07-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Montreal, Canada",
+      "Title": "\u201cVery professional front desk staff.\u201d",
+      "Author": "Aggatta",
+      "ReviewID": "UR65172218",
+      "Content": "stayed nights 54 bathroom bigger call superior renting trust front desk staff professional single bed fridge microwave moment checkin receptionist latino david nice helpful map told restaurants port breakfast paid 80 cad night type wouldve cost 160 cad stars hotel",
+      "Date": "2010-05-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "La Residence Du Voyageur",
+    "HotelURL": "/ShowUserReviews-g155032-d183251-Reviews-La_Residence_Du_Voyageur-Montreal_Quebec.html",
+    "Price": "$71 - $136*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">847 Rue Sherbrooke Est</span>, <span class=\"locality\"><span property=\"v:locality\">Montreal</span>, <span property=\"v:region\">Quebec</span> <span property=\"v:postal-code\">H2L 1K6</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span></span></address>",
+    "HotelID": "183251",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/02/2f/022f1df94ffd3239a5a58c304b9070c58large.jpg"
+  }
+}

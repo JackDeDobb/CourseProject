@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Auckland, New Zealand", "Title": "\u201cA wee gem!\u201d", "Author": "Elizabeth P", "ReviewID": "UR125057519", "Content": "stayed 11 th november 2011 nights charmed hotel handy location able train system ease free entertainment night bar supermarket road useful clean character original tiled bathroom cleaned serviced day expected breakfast stay friendly helpful floor noise staff friendly helpful jess pleasure deal enjoyed stay sydney 3 days re booked value fun stay", "Date": "2012-02-22 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Leeds, England, United Kingdom", "Title": "\u201cHappy and friendly\u201d", "Author": "Wendy D", "ReviewID": "UR122884065", "Content": "stayed christmas period wonderfull experience mixture people ages cultural backgrounds stay hotal visit bar common brilliant atmosphere entering bar pub clean affordable live music evening darts competion karaoke themed nights staff efficient friendly greet smile locals quick feel welcome hotel run clean comfortable sized bathroom spacious bedroom fridge tv tea facility stay enjoyable ideally located middle kings cross near city reliable train bus services lucky special friends booking", "Date": "2012-01-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 1.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cCute but expensive\u201d", "Author": "backpacker-couple11", "ReviewID": "UR119242454", "Content": "stayed encountering total horror hostels job little pricey staying kings cross unsavoury sydney quiet safe job pub cant hear noise little bit shining corridors dark quiet thats easily scared fridge teacoffee tv comfy clean", "Date": "2011-10-13 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "San Francisco", "Title": "\u201cDecent Budget Option, Provided You Don't Plan On Cooking\u201d", "Author": "gryphonisle", "ReviewID": "UR57743128", "Content": "reserved third floor expecting eat save money mac cheese hot dogs night cook kitchen whatever kitchen lacks view makes opera house bridge skyline sparkling tantalizing detail hill staff cheerful air conditioner fixed hot lower floors issues noise live bands heard top didnt neighborhood noisy live noisy urban setting bit insensitive noise kings cross lonely planet calls edgy prostitution crime indication drug dealers lots restaurants fast food catering hostels abundance potts market neighborhood kings cross couldnt conveniently situated kings cross station blocks hotelbut dont trust googles directions huge coke sign look hill youll hotel walk cbd easy pleasant albeit bit traffic blocks parksthe domain botanic beautifully landscaped exquisitely maintained weeds golden gate park walk opera house walked sydney rarely caught train bus favorite hotel shot budget option third floor id consider returning", "Date": "2010-03-04 00:00:00"}], "HotelInfo": {"Name": "O'Malley's Hotel", "HotelURL": "/ShowUserReviews-g255060-d594989-Reviews-O_Malley_s_Hotel-Sydney_New_South_Wales.html", "Price": "$92 - $144*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">228 William Street</span>, <span class=\"locality\"><span property=\"v:locality\">Sydney</span>, <span property=\"v:region\">New South Wales</span> <span property=\"v:postal-code\">2011</span></span>, <span class=\"country-name\" property=\"v:country-name\">Australia</span> </span></span></address>", "HotelID": "594989", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/00/14/1f/1a/the-better-side.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Auckland, New Zealand",
+      "Title": "\u201cA wee gem!\u201d",
+      "Author": "Elizabeth P",
+      "ReviewID": "UR125057519",
+      "Content": "stayed 11 th november 2011 nights charmed hotel handy location able train system ease free entertainment night bar supermarket road useful clean character original tiled bathroom cleaned serviced day expected breakfast stay friendly helpful floor noise staff friendly helpful jess pleasure deal enjoyed stay sydney 3 days re booked value fun stay",
+      "Date": "2012-02-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Leeds, England, United Kingdom",
+      "Title": "\u201cHappy and friendly\u201d",
+      "Author": "Wendy D",
+      "ReviewID": "UR122884065",
+      "Content": "stayed christmas period wonderfull experience mixture people ages cultural backgrounds stay hotal visit bar common brilliant atmosphere entering bar pub clean affordable live music evening darts competion karaoke themed nights staff efficient friendly greet smile locals quick feel welcome hotel run clean comfortable sized bathroom spacious bedroom fridge tv tea facility stay enjoyable ideally located middle kings cross near city reliable train bus services lucky special friends booking",
+      "Date": "2012-01-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cCute but expensive\u201d",
+      "Author": "backpacker-couple11",
+      "ReviewID": "UR119242454",
+      "Content": "stayed encountering total horror hostels job little pricey staying kings cross unsavoury sydney quiet safe job pub cant hear noise little bit shining corridors dark quiet thats easily scared fridge teacoffee tv comfy clean",
+      "Date": "2011-10-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "San Francisco",
+      "Title": "\u201cDecent Budget Option, Provided You Don't Plan On Cooking\u201d",
+      "Author": "gryphonisle",
+      "ReviewID": "UR57743128",
+      "Content": "reserved third floor expecting eat save money mac cheese hot dogs night cook kitchen whatever kitchen lacks view makes opera house bridge skyline sparkling tantalizing detail hill staff cheerful air conditioner fixed hot lower floors issues noise live bands heard top didnt neighborhood noisy live noisy urban setting bit insensitive noise kings cross lonely planet calls edgy prostitution crime indication drug dealers lots restaurants fast food catering hostels abundance potts market neighborhood kings cross couldnt conveniently situated kings cross station blocks hotelbut dont trust googles directions huge coke sign look hill youll hotel walk cbd easy pleasant albeit bit traffic blocks parksthe domain botanic beautifully landscaped exquisitely maintained weeds golden gate park walk opera house walked sydney rarely caught train bus favorite hotel shot budget option third floor id consider returning",
+      "Date": "2010-03-04 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "O'Malley's Hotel",
+    "HotelURL": "/ShowUserReviews-g255060-d594989-Reviews-O_Malley_s_Hotel-Sydney_New_South_Wales.html",
+    "Price": "$92 - $144*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">228 William Street</span>, <span class=\"locality\"><span property=\"v:locality\">Sydney</span>, <span property=\"v:region\">New South Wales</span> <span property=\"v:postal-code\">2011</span></span>, <span class=\"country-name\" property=\"v:country-name\">Australia</span> </span></span></address>",
+    "HotelID": "594989",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/00/14/1f/1a/the-better-side.jpg"
+  }
+}

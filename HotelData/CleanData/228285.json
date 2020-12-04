@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Tel Aviv, Israel", "Title": "\u201cNice basic hotel\u201d", "Author": "michal o", "ReviewID": "UR121780456", "Content": "stayed hotel october ok basic complaints close kudamm metro station service didnt encounter dont breakfast ate outside hotel nice cheap breakfasts city time berlin prefer hotel closer mitte neighborhood central berlin central charlottenburg", "Date": "2011-12-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Bucharest, Romania", "Title": "\u201c(positive) surprise in the basement\u201d", "Author": "dana_christian", "ReviewID": "UR121647145", "Content": "booking booking engine venere tell booked basement surprise reception checkin location anyway visit found newly furniture spotless modern bathroom indeed basement window strip close ceiling staying night perfect change fine slept test breakfast tough internet lobby free", "Date": "2011-12-12 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Delhi", "Title": "\u201cGood Budget Hotel\u201d", "Author": "Anirudh48", "ReviewID": "UR121121179", "Content": "weekend enjoyed stay hotel located main market kudam activities proximity metro near choice breakfast simple spread rest choice wanna crash nite", "Date": "2011-11-28 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "vancouver", "Title": "\u201cCHEAP and there is a reason why\u201d", "Author": "hartlando", "ReviewID": "UR105048476", "Content": "hall 4th floor night little noise slept run stained carpets incredibly average bathrooms tiny amenities told internet hotelin lobby barely spoke word breakfast highlight hotel location 49 pay", "Date": "2011-04-22 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cServed its purpose but not great...\u201d", "Author": "MattTripper", "ReviewID": "UR74798163", "Content": "stayed quentin stag party 10 attending berlin beer festival hotel nice minutes walk quiet little bar mins walk adenauerplatz metro stop additionally bigger id expect major city downside corridors leading tlc beds uncomfortable pillows nonexistent drinking day especially couldn\u2019t fathom radiator directly shower recommend hotel friend lads stag prob yes cheapness location travelling significant family chance", "Date": "2010-08-11 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Chennai (Madras), India", "Title": "\u201cNothing noticeable or great\u201d", "Author": "TravellerThilak", "ReviewID": "UR66824628", "Content": "hotel online hotel booking web site review found hotel budget value money wouldnt hotel lacked maintenance interior quality below average advantage hotel surely pricing car parking proximity berlin city shops restaurants easy accessible metro 3 min walk major bus station near 15 min walk terms breakfast served quality facilities", "Date": "2010-06-08 00:00:00"}], "HotelInfo": {"Name": "Quentin Berlin Hotel", "HotelURL": "/ShowUserReviews-g187323-d228285-Reviews-Quentin_Berlin_Hotel-Berlin.html", "Price": "$55 - $135*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Xantener Strasse 4</span>, <span class=\"locality\"><span property=\"v:postal-code\">10707</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "228285", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/28/8e/2a/double-room.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Tel Aviv, Israel",
+      "Title": "\u201cNice basic hotel\u201d",
+      "Author": "michal o",
+      "ReviewID": "UR121780456",
+      "Content": "stayed hotel october ok basic complaints close kudamm metro station service didnt encounter dont breakfast ate outside hotel nice cheap breakfasts city time berlin prefer hotel closer mitte neighborhood central berlin central charlottenburg",
+      "Date": "2011-12-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Bucharest, Romania",
+      "Title": "\u201c(positive) surprise in the basement\u201d",
+      "Author": "dana_christian",
+      "ReviewID": "UR121647145",
+      "Content": "booking booking engine venere tell booked basement surprise reception checkin location anyway visit found newly furniture spotless modern bathroom indeed basement window strip close ceiling staying night perfect change fine slept test breakfast tough internet lobby free",
+      "Date": "2011-12-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Delhi",
+      "Title": "\u201cGood Budget Hotel\u201d",
+      "Author": "Anirudh48",
+      "ReviewID": "UR121121179",
+      "Content": "weekend enjoyed stay hotel located main market kudam activities proximity metro near choice breakfast simple spread rest choice wanna crash nite",
+      "Date": "2011-11-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "vancouver",
+      "Title": "\u201cCHEAP and there is a reason why\u201d",
+      "Author": "hartlando",
+      "ReviewID": "UR105048476",
+      "Content": "hall 4th floor night little noise slept run stained carpets incredibly average bathrooms tiny amenities told internet hotelin lobby barely spoke word breakfast highlight hotel location 49 pay",
+      "Date": "2011-04-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cServed its purpose but not great...\u201d",
+      "Author": "MattTripper",
+      "ReviewID": "UR74798163",
+      "Content": "stayed quentin stag party 10 attending berlin beer festival hotel nice minutes walk quiet little bar mins walk adenauerplatz metro stop additionally bigger id expect major city downside corridors leading tlc beds uncomfortable pillows nonexistent drinking day especially couldn\u2019t fathom radiator directly shower recommend hotel friend lads stag prob yes cheapness location travelling significant family chance",
+      "Date": "2010-08-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Chennai (Madras), India",
+      "Title": "\u201cNothing noticeable or great\u201d",
+      "Author": "TravellerThilak",
+      "ReviewID": "UR66824628",
+      "Content": "hotel online hotel booking web site review found hotel budget value money wouldnt hotel lacked maintenance interior quality below average advantage hotel surely pricing car parking proximity berlin city shops restaurants easy accessible metro 3 min walk major bus station near 15 min walk terms breakfast served quality facilities",
+      "Date": "2010-06-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Quentin Berlin Hotel",
+    "HotelURL": "/ShowUserReviews-g187323-d228285-Reviews-Quentin_Berlin_Hotel-Berlin.html",
+    "Price": "$55 - $135*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Xantener Strasse 4</span>, <span class=\"locality\"><span property=\"v:postal-code\">10707</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "228285",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/28/8e/2a/double-room.jpg"
+  }
+}

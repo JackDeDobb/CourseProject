@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Kendal, United Kingdom", "Title": "\u201cGood location - average hotel\u201d", "Author": "icemandan", "ReviewID": "UR108698253", "Content": "excellent location tram line topkapi agia sophia galata bridge easy walking distance plenty shops eating drinking close bit shabby plug sockets hanging strange smells noise night expect main street city breakfast ok nice breads sign roof terrace referred reviews breakfast served dingy windowless basement", "Date": "2011-05-17 00:00:00"}], "HotelInfo": {"Name": "Kafkas Hotel Istanbul", "HotelURL": "/ShowUserReviews-g293974-d1019593-Reviews-Kafkas_Hotel_Istanbul-Istanbul.html", "Price": "$60 - $118*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Hudavendigar caddesi 35</span> | <span class=\"extended-address\">Sirkeci</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34110</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "1019593", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/20/cf/20cf4d892e3fe6f8cb05bd88ceeb5a273large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Kendal, United Kingdom",
+      "Title": "\u201cGood location - average hotel\u201d",
+      "Author": "icemandan",
+      "ReviewID": "UR108698253",
+      "Content": "excellent location tram line topkapi agia sophia galata bridge easy walking distance plenty shops eating drinking close bit shabby plug sockets hanging strange smells noise night expect main street city breakfast ok nice breads sign roof terrace referred reviews breakfast served dingy windowless basement",
+      "Date": "2011-05-17 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Kafkas Hotel Istanbul",
+    "HotelURL": "/ShowUserReviews-g293974-d1019593-Reviews-Kafkas_Hotel_Istanbul-Istanbul.html",
+    "Price": "$60 - $118*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Hudavendigar caddesi 35</span> | <span class=\"extended-address\">Sirkeci</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34110</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "1019593",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/20/cf/20cf4d892e3fe6f8cb05bd88ceeb5a273large.jpg"
+  }
+}

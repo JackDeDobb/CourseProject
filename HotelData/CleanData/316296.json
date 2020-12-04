@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 5.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Dubai", "Title": "\u201cTerrible hotel/ management staff\u201d", "Author": "Erica H", "ReviewID": "UR126439878", "Content": "stayed hotel week worst hotel cleaning service management staff horrible food cultural bias located ghetto dubai hotels supposed cater guest paying accommodations charged unreasonable amount past replaced worst internet connection horrible kept guest world comfortable dont advantage financially passport hold beds horrible seen throwing mattresses wonder located airport convenience highly recommend dont market street prices change register dont care prove price product robbed blind recommend hotel worst enemy", "Date": "2012-03-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "New Delhi, India", "Title": "\u201cfor easy experience in dubai\u201d", "Author": "rajdoot12", "ReviewID": "UR120381341", "Content": "hotel dubai grand imposing care specific atomosphere co operative service smile located bang opposite sunrise hyper mall takes care hotel grand takes cake example stay bought adapter mobile mall opposite hotel understand hotel provided gratis staff helpful food tasted vegeterian stuff tho stuff home india bell boy manager listens explains hope stay hope business centre prefered", "Date": "2011-11-09 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Nairobi, Kenya", "Title": "\u201caaaaammmmmhhhhh\u201d", "Author": "Kipz Nai", "ReviewID": "UR119880768", "Content": "hotel bad isssue service team lack customer care bit vital whan comes industry guys customer oriented waitresses nightmares service team alittle bit customer acually expressing rescue please actually relaxing kudos housekeeping stewards", "Date": "2011-10-30 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Osaka, Japan", "Title": "\u201cCharged me for nothing\u201d", "Author": "shinny117", "ReviewID": "UR118676950", "Content": "charged wifi connection functioned 5 minutes started connection claimed waiter try okay tried connection claimed front wrong reported 15minutes payment refund rip service average pay feels horrible reputation", "Date": "2011-09-27 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Chennai", "Title": "\u201cGood Hotel to Stay for few nights\u201d", "Author": "KSSkanth", "ReviewID": "UR83309474", "Content": "date stay 21 im average traveller business normally stay hotels dubai uae hotel suits quick business travellers location supermarket nearby indian restaurants im vegetarian walkable distance fairly near airport reach time tiresome travel complimentary breakfast airport pickup drop additional advantages restaurant hotel adds significant advantage lesiure stay overall hotel", "Date": "2010-10-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Chandigarh", "Title": "\u201cCozy and Cool environs in hot Dubai\u201d", "Author": "Olympian416", "ReviewID": "UR72862460", "Content": "july month travel dubai pretty hot temperature hovering 45 degrees 48 degrees celsius day 36 degrees 39 degrees celsius night located al found quiet conventient hotel super market street wellsized washrooms neat clean housekeeping people twice clean service pretty satisfactory supervisory staff makes cleaned quickly servicestaff friendly helpful common electricity adaptor quickly internet services little slow probably server overcrowded sufficient bandwidth enjoyed desi delicious food including tandoori chicken watch cultural folk singers folk dancers musicians hotel pool hot facility day time gym equipped night club disco fairly popular quality food served restaurants fairly airport pick drops satisfactory hotel travel desk facilitates sight seeing participation activites desert safari visit burj coffe shop ground floor spacious nice greet guests visitors hotel sufficient parking proximity airport makes ideal business travellers overall recommend hotel business travellers tourists moderate reasonable budget", "Date": "2010-07-29 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "new delhi", "Title": "\u201cDo not visit this hotel late night\u201d", "Author": "jagathotel", "ReviewID": "UR57229634", "Content": "hotel grand hotel\u201d fine day late night pick day reached 3 am reached hotel thailand females dressed drunk sitting reception coming neighboring accompanied children parents ashamed answer 5 son\u2019s frantic questions bashing people night told apprehensions front office loud music haunted till 3 am everyday 2nd floor appreciate staff hotel help help improving atmosphere breakfast 5 days cold except eggs location hotel", "Date": "2010-02-27 00:00:00"}], "HotelInfo": {"Name": "Dubai Grand Hotel", "HotelURL": "/ShowUserReviews-g295424-d316296-Reviews-Dubai_Grand_Hotel-Dubai.html", "Price": "$102 - $212*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Damascus Street</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span> <span property=\"v:postal-code\">34150</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "316296", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/cf/a2/cfa213846a70dae291b4fa102bf208021large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 5.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Dubai",
+      "Title": "\u201cTerrible hotel/ management staff\u201d",
+      "Author": "Erica H",
+      "ReviewID": "UR126439878",
+      "Content": "stayed hotel week worst hotel cleaning service management staff horrible food cultural bias located ghetto dubai hotels supposed cater guest paying accommodations charged unreasonable amount past replaced worst internet connection horrible kept guest world comfortable dont advantage financially passport hold beds horrible seen throwing mattresses wonder located airport convenience highly recommend dont market street prices change register dont care prove price product robbed blind recommend hotel worst enemy",
+      "Date": "2012-03-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "New Delhi, India",
+      "Title": "\u201cfor easy experience in dubai\u201d",
+      "Author": "rajdoot12",
+      "ReviewID": "UR120381341",
+      "Content": "hotel dubai grand imposing care specific atomosphere co operative service smile located bang opposite sunrise hyper mall takes care hotel grand takes cake example stay bought adapter mobile mall opposite hotel understand hotel provided gratis staff helpful food tasted vegeterian stuff tho stuff home india bell boy manager listens explains hope stay hope business centre prefered",
+      "Date": "2011-11-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Nairobi, Kenya",
+      "Title": "\u201caaaaammmmmhhhhh\u201d",
+      "Author": "Kipz Nai",
+      "ReviewID": "UR119880768",
+      "Content": "hotel bad isssue service team lack customer care bit vital whan comes industry guys customer oriented waitresses nightmares service team alittle bit customer acually expressing rescue please actually relaxing kudos housekeeping stewards",
+      "Date": "2011-10-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Osaka, Japan",
+      "Title": "\u201cCharged me for nothing\u201d",
+      "Author": "shinny117",
+      "ReviewID": "UR118676950",
+      "Content": "charged wifi connection functioned 5 minutes started connection claimed waiter try okay tried connection claimed front wrong reported 15minutes payment refund rip service average pay feels horrible reputation",
+      "Date": "2011-09-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Chennai",
+      "Title": "\u201cGood Hotel to Stay for few nights\u201d",
+      "Author": "KSSkanth",
+      "ReviewID": "UR83309474",
+      "Content": "date stay 21 im average traveller business normally stay hotels dubai uae hotel suits quick business travellers location supermarket nearby indian restaurants im vegetarian walkable distance fairly near airport reach time tiresome travel complimentary breakfast airport pickup drop additional advantages restaurant hotel adds significant advantage lesiure stay overall hotel",
+      "Date": "2010-10-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Chandigarh",
+      "Title": "\u201cCozy and Cool environs in hot Dubai\u201d",
+      "Author": "Olympian416",
+      "ReviewID": "UR72862460",
+      "Content": "july month travel dubai pretty hot temperature hovering 45 degrees 48 degrees celsius day 36 degrees 39 degrees celsius night located al found quiet conventient hotel super market street wellsized washrooms neat clean housekeeping people twice clean service pretty satisfactory supervisory staff makes cleaned quickly servicestaff friendly helpful common electricity adaptor quickly internet services little slow probably server overcrowded sufficient bandwidth enjoyed desi delicious food including tandoori chicken watch cultural folk singers folk dancers musicians hotel pool hot facility day time gym equipped night club disco fairly popular quality food served restaurants fairly airport pick drops satisfactory hotel travel desk facilitates sight seeing participation activites desert safari visit burj coffe shop ground floor spacious nice greet guests visitors hotel sufficient parking proximity airport makes ideal business travellers overall recommend hotel business travellers tourists moderate reasonable budget",
+      "Date": "2010-07-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "new delhi",
+      "Title": "\u201cDo not visit this hotel late night\u201d",
+      "Author": "jagathotel",
+      "ReviewID": "UR57229634",
+      "Content": "hotel grand hotel\u201d fine day late night pick day reached 3 am reached hotel thailand females dressed drunk sitting reception coming neighboring accompanied children parents ashamed answer 5 son\u2019s frantic questions bashing people night told apprehensions front office loud music haunted till 3 am everyday 2nd floor appreciate staff hotel help help improving atmosphere breakfast 5 days cold except eggs location hotel",
+      "Date": "2010-02-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Dubai Grand Hotel",
+    "HotelURL": "/ShowUserReviews-g295424-d316296-Reviews-Dubai_Grand_Hotel-Dubai.html",
+    "Price": "$102 - $212*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Damascus Street</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span> <span property=\"v:postal-code\">34150</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "316296",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/cf/a2/cfa213846a70dae291b4fa102bf208021large.jpg"
+  }
+}

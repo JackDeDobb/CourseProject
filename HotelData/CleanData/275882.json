@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Phoenix, Arizona", "Title": "\u201cNewer and clean hotel, but out of the way and indifferent staff\u201d", "Author": "switchflare", "ReviewID": "UR84076234", "Content": "hotel relatively clean inexpensive comes drawbacks location biggest drawback involving 2030 minute metro ride plus 1520 minute bus ride center rome pizzeria food option walking distance surrounded tor largest research universities italy lack life business surprising loud music surrounding neighborhoods night nights hotel staff indifferent concerns advertise free wifi clerks lack wifi assured told sit lobby trying connect attempts broken english dismiss network trying wasnt finally sometimes sometimes doesnt wifi nonexistent days stayed cheap hotel rome relatively short notice option otherwise else booked directly website additional 1015 discount red metro line anagnina line 506 507 509 bus tor youll yellow hotel laurence sign north road catch buses bus stop closest highway near parking lot dont public transport youll pay fortune taxi airport city center youre rental car probably wont gps", "Date": "2010-10-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 2.0}, "AuthorLocation": "Porto, Portugal", "Title": "\u201cGreat for a 3* Hotel\u201d", "Author": "PT-GDM", "ReviewID": "UR67249407", "Content": "hotel comfortable clean green outside tables chairs staff helpful friendly breakfast simple nice express coffee milk cappuccino fruit cereals yogurt croissants hotel location termini metro station takes 5060 minutes bus 506 507 509 metro station", "Date": "2010-06-12 00:00:00"}], "HotelInfo": {"Name": "Laurence Hotel", "HotelURL": "/ShowUserReviews-g187791-d275882-Reviews-Laurence_Hotel-Rome_Lazio.html", "Price": "$71 - $131*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Pietro Baragiola 18-24</span>, <span class=\"locality\"><span property=\"v:postal-code\">00133</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "275882", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4f/a6/4fa690ccb3da939dd5c52888d6b0d59e3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Phoenix, Arizona",
+      "Title": "\u201cNewer and clean hotel, but out of the way and indifferent staff\u201d",
+      "Author": "switchflare",
+      "ReviewID": "UR84076234",
+      "Content": "hotel relatively clean inexpensive comes drawbacks location biggest drawback involving 2030 minute metro ride plus 1520 minute bus ride center rome pizzeria food option walking distance surrounded tor largest research universities italy lack life business surprising loud music surrounding neighborhoods night nights hotel staff indifferent concerns advertise free wifi clerks lack wifi assured told sit lobby trying connect attempts broken english dismiss network trying wasnt finally sometimes sometimes doesnt wifi nonexistent days stayed cheap hotel rome relatively short notice option otherwise else booked directly website additional 1015 discount red metro line anagnina line 506 507 509 bus tor youll yellow hotel laurence sign north road catch buses bus stop closest highway near parking lot dont public transport youll pay fortune taxi airport city center youre rental car probably wont gps",
+      "Date": "2010-10-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Porto, Portugal",
+      "Title": "\u201cGreat for a 3* Hotel\u201d",
+      "Author": "PT-GDM",
+      "ReviewID": "UR67249407",
+      "Content": "hotel comfortable clean green outside tables chairs staff helpful friendly breakfast simple nice express coffee milk cappuccino fruit cereals yogurt croissants hotel location termini metro station takes 5060 minutes bus 506 507 509 metro station",
+      "Date": "2010-06-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Laurence Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d275882-Reviews-Laurence_Hotel-Rome_Lazio.html",
+    "Price": "$71 - $131*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Pietro Baragiola 18-24</span>, <span class=\"locality\"><span property=\"v:postal-code\">00133</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "275882",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4f/a6/4fa690ccb3da939dd5c52888d6b0d59e3large.jpg"
+  }
+}

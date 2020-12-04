@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Las Vegas, Nevada", "Title": "\u201cHomeless people would not even stay here.\u201d", "Author": "Kalai M", "ReviewID": "UR126236343", "Content": "bathroom floor sticky bed filled cat hair door broken extremely smelt vomit yourself favor pay extra stay sheraton little expensive stay sheraton universal evens using shuttle services avoid universal studios parking fees trust wont regret worst hotel experience trying help world prevent future experiences humanity", "Date": "2012-03-17 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Denver, Colorado", "Title": "\u201cPaid for 5 nights, stayed for 1\u201d", "Author": "satisfieddog", "ReviewID": "UR122172717", "Content": "disappointing left 1 night paid 5 tiny horrible bed bathtub stuff towels crack door door jam attempt stop cold december draft super 8 miles clean served breakfast secure clean 3 times size", "Date": "2011-12-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "honolulu", "Title": "\u201cCharming because of vegetation\u201d", "Author": "zinzuni j", "ReviewID": "UR118635966", "Content": "stayed inn 2 weeks 9yr son mother staff friendly helpful especially anna son food allergies requested refrigerator able special items set extra cost set table son home school spacious double bed clean ceiling sensation bigger towels change everyday towels home earth friendly little change help save natural resources bedspreads curtains ugly 100 polyester matter subjective taste affect overall positive experience donuts breakfast everyday 15 day stay drink coffee juice little juice fridge whatever prefer prices low prices provide breakfast ac handy hot days outside pleasant lanai seat sense privacy magnificent plants little hotel charming due vegetation motel staying hacienda middle city am planning return la definitely stay highly recommend", "Date": "2011-09-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "AZ", "Title": "\u201cBest value if you are looking for a place to sleep\u201d", "Author": "AZPhoenix5", "ReviewID": "UR108325791", "Content": "stayed inn 5 days attending seminar hilton universal studio value money slept showered inn looking amenities willing pay staff friendly especially manager anna day location close dining shopping entertainment bus universal studios save money parking negatively comment quality bath towels thin rough looks 3rd hand 2nd class hotels parking tight guaranteed space free cost 20 bucks bigger hotels advice purpose stay plan stay hotel advantage amenities bigger hotels looking bed shower inn provides unlimited fresh donuts lots variety coffee juice 510 value starbucks", "Date": "2011-05-15 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Salem, MA", "Title": "\u201cIt's Alright\u201d", "Author": "thewoodith", "ReviewID": "UR87051422", "Content": "el patio inn located studio city california generic basic motel located 10 mins driving time nearest train station access hollywood 10 min drive universal studios arrive required pay park motel close normal basic bed shower sink toilet special except people outside entire time enjoying herbal drugs gonna stay bring breath mint ready walk walk walk hey 7eleven street visit sense society", "Date": "2010-11-14 00:00:00"}], "HotelInfo": {"Name": "El Patio Inn", "HotelURL": "/ShowUserReviews-g32655-d217256-Reviews-El_Patio_Inn-Los_Angeles_California.html", "Price": "$79 - $124*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">11466 Ventura Blvd.</span>, <span class=\"extended-address\">Studio City</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">91604</span></span> </span> </span> </address>", "HotelID": "217256", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/23/a3/ab/interior-corridors-of.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Las Vegas, Nevada",
+      "Title": "\u201cHomeless people would not even stay here.\u201d",
+      "Author": "Kalai M",
+      "ReviewID": "UR126236343",
+      "Content": "bathroom floor sticky bed filled cat hair door broken extremely smelt vomit yourself favor pay extra stay sheraton little expensive stay sheraton universal evens using shuttle services avoid universal studios parking fees trust wont regret worst hotel experience trying help world prevent future experiences humanity",
+      "Date": "2012-03-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Denver, Colorado",
+      "Title": "\u201cPaid for 5 nights, stayed for 1\u201d",
+      "Author": "satisfieddog",
+      "ReviewID": "UR122172717",
+      "Content": "disappointing left 1 night paid 5 tiny horrible bed bathtub stuff towels crack door door jam attempt stop cold december draft super 8 miles clean served breakfast secure clean 3 times size",
+      "Date": "2011-12-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "honolulu",
+      "Title": "\u201cCharming because of vegetation\u201d",
+      "Author": "zinzuni j",
+      "ReviewID": "UR118635966",
+      "Content": "stayed inn 2 weeks 9yr son mother staff friendly helpful especially anna son food allergies requested refrigerator able special items set extra cost set table son home school spacious double bed clean ceiling sensation bigger towels change everyday towels home earth friendly little change help save natural resources bedspreads curtains ugly 100 polyester matter subjective taste affect overall positive experience donuts breakfast everyday 15 day stay drink coffee juice little juice fridge whatever prefer prices low prices provide breakfast ac handy hot days outside pleasant lanai seat sense privacy magnificent plants little hotel charming due vegetation motel staying hacienda middle city am planning return la definitely stay highly recommend",
+      "Date": "2011-09-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "AZ",
+      "Title": "\u201cBest value if you are looking for a place to sleep\u201d",
+      "Author": "AZPhoenix5",
+      "ReviewID": "UR108325791",
+      "Content": "stayed inn 5 days attending seminar hilton universal studio value money slept showered inn looking amenities willing pay staff friendly especially manager anna day location close dining shopping entertainment bus universal studios save money parking negatively comment quality bath towels thin rough looks 3rd hand 2nd class hotels parking tight guaranteed space free cost 20 bucks bigger hotels advice purpose stay plan stay hotel advantage amenities bigger hotels looking bed shower inn provides unlimited fresh donuts lots variety coffee juice 510 value starbucks",
+      "Date": "2011-05-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Salem, MA",
+      "Title": "\u201cIt's Alright\u201d",
+      "Author": "thewoodith",
+      "ReviewID": "UR87051422",
+      "Content": "el patio inn located studio city california generic basic motel located 10 mins driving time nearest train station access hollywood 10 min drive universal studios arrive required pay park motel close normal basic bed shower sink toilet special except people outside entire time enjoying herbal drugs gonna stay bring breath mint ready walk walk walk hey 7eleven street visit sense society",
+      "Date": "2010-11-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "El Patio Inn",
+    "HotelURL": "/ShowUserReviews-g32655-d217256-Reviews-El_Patio_Inn-Los_Angeles_California.html",
+    "Price": "$79 - $124*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">11466 Ventura Blvd.</span>, <span class=\"extended-address\">Studio City</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">91604</span></span> </span> </span> </address>",
+    "HotelID": "217256",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/23/a3/ab/interior-corridors-of.jpg"
+  }
+}

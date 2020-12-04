@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Leicester, England", "Title": "\u201cGood value for money\u201d", "Author": "DannyMarkLee", "ReviewID": "UR125568682", "Content": "stayed 3 nights feb 2012 little walk 5 mins uphill san pietro station underground station lovely little quaint hotel offers views vatican nice service friendly staff access free wifi breakfast price hotel value money rome amazing city", "Date": "2012-03-03 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Lincoln, United Kingdom", "Title": "\u201cGood Value\u201d", "Author": "Darshy", "ReviewID": "UR118655995", "Content": "taxi airport dropped bottom hill direction hotel hard mastered bad walk wouldnt recommend unfit didnt shortcut till day staff polite liked amount damp ceiling tried clean tv breakfast mornings time week stayed lots greedy people stuffing themselves found lady breakfast hall wasnt friendliest person didnt care free wifi reception password id recommend hotel doesnt mind centre rome mind vatican bedroom window 10 min walk walking distance wouldnt bother buses metro walking distance", "Date": "2011-09-27 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Greece", "Title": "\u201cWe'll not stay there again\u201d", "Author": "ToTravel_10", "ReviewID": "UR104106672", "Content": "hotel difficult close metro station train station hill youll walk little lost youll stairs suitcases taxi staff indifferent specific smell day window towels changed everyday free wifi close vatican options stay rome price hotel", "Date": "2011-04-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Bucharest, Romania", "Title": "\u201cBig rooms, small breakfast, great views.\u201d", "Author": "Andy17", "ReviewID": "UR101543074", "Content": "browsing list hotels rome decided staying appeared pricequality ratio located pretty steep hill closer center price range vatican 15 minutes foot stayed curved shape didnt feel living box downside poor breakfast admittedly summer terrace atop hotel distance mountains closer vatican dome definitely recommend hotel stay", "Date": "2011-03-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cvery nice small hotel close to public transport and Vatican city\u201d", "Author": "Dee_225", "ReviewID": "UR78168468", "Content": "stayed 2 nights bad hotel 3 star hotel expect luxury nice clean staff friendly helpful cozy internet didnt spend time hotel anyway bed comfortable minutes road short cut san pietro train station half hour walk vatican city buses central rome recommend definitely", "Date": "2010-09-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Galesburg, Illinois", "Title": "\u201cLovely small hotel, near bus and train, accommodating staff, friendly (and very Roman) neighborhood. I'll be back.\u201d", "Author": "Classicist_60", "ReviewID": "UR70944626", "Content": "loved staying hotel front desk staffed accommodating wellinformed employees ready help guests directions restaurant suggestions etc contact roman georgio phone call negotiated introductions italian ready quick phone conversation loved breakfast breakfast lovely eat outside al fresco patio selection food includes hot bacon eggs cold items cereal yogurt fruit juices fresh breads pastries included price building charming wellmaintained clean pleasantly tucked noise crowds city wonderful windows vertical hinges delightful breeze closed prefer air conditioning stayed ten days july heat city day grueling pleasant breeze evening air conditioning night via monte del gallo street leads hotel else includes adequate grocery friendly coffee bar san pietro train station larger carrefour supermarket 3 minute walk visible bus stop san pietro station rome research american academy library hotel near hill look forward staying time am rome study play comfort hot day library forum look forward quiet comfort taxi car sensible arrive depart hotel unless shape hotel located street block bus stop blocks san pietro train station luggage walk train station easy pleasant 64 bus departs 5 minutes san pietro train station finishes termini train stationso rome change train san pietro station regional train metro stop termini destinations", "Date": "2010-07-14 00:00:00"}], "HotelInfo": {"Name": "Alessandrino Hotel", "HotelURL": "/ShowUserReviews-g187791-d255194-Reviews-Alessandrino_Hotel-Rome_Lazio.html", "Price": "$79 - $222*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Clemente Alessandrino 9</span>, <span class=\"locality\"><span property=\"v:postal-code\">00165</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "255194", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/af/cc/afcc49cf0940343eab81e564c8a8bfce8large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Leicester, England",
+      "Title": "\u201cGood value for money\u201d",
+      "Author": "DannyMarkLee",
+      "ReviewID": "UR125568682",
+      "Content": "stayed 3 nights feb 2012 little walk 5 mins uphill san pietro station underground station lovely little quaint hotel offers views vatican nice service friendly staff access free wifi breakfast price hotel value money rome amazing city",
+      "Date": "2012-03-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Lincoln, United Kingdom",
+      "Title": "\u201cGood Value\u201d",
+      "Author": "Darshy",
+      "ReviewID": "UR118655995",
+      "Content": "taxi airport dropped bottom hill direction hotel hard mastered bad walk wouldnt recommend unfit didnt shortcut till day staff polite liked amount damp ceiling tried clean tv breakfast mornings time week stayed lots greedy people stuffing themselves found lady breakfast hall wasnt friendliest person didnt care free wifi reception password id recommend hotel doesnt mind centre rome mind vatican bedroom window 10 min walk walking distance wouldnt bother buses metro walking distance",
+      "Date": "2011-09-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Greece",
+      "Title": "\u201cWe'll not stay there again\u201d",
+      "Author": "ToTravel_10",
+      "ReviewID": "UR104106672",
+      "Content": "hotel difficult close metro station train station hill youll walk little lost youll stairs suitcases taxi staff indifferent specific smell day window towels changed everyday free wifi close vatican options stay rome price hotel",
+      "Date": "2011-04-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bucharest, Romania",
+      "Title": "\u201cBig rooms, small breakfast, great views.\u201d",
+      "Author": "Andy17",
+      "ReviewID": "UR101543074",
+      "Content": "browsing list hotels rome decided staying appeared pricequality ratio located pretty steep hill closer center price range vatican 15 minutes foot stayed curved shape didnt feel living box downside poor breakfast admittedly summer terrace atop hotel distance mountains closer vatican dome definitely recommend hotel stay",
+      "Date": "2011-03-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cvery nice small hotel close to public transport and Vatican city\u201d",
+      "Author": "Dee_225",
+      "ReviewID": "UR78168468",
+      "Content": "stayed 2 nights bad hotel 3 star hotel expect luxury nice clean staff friendly helpful cozy internet didnt spend time hotel anyway bed comfortable minutes road short cut san pietro train station half hour walk vatican city buses central rome recommend definitely",
+      "Date": "2010-09-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Galesburg, Illinois",
+      "Title": "\u201cLovely small hotel, near bus and train, accommodating staff, friendly (and very Roman) neighborhood. I'll be back.\u201d",
+      "Author": "Classicist_60",
+      "ReviewID": "UR70944626",
+      "Content": "loved staying hotel front desk staffed accommodating wellinformed employees ready help guests directions restaurant suggestions etc contact roman georgio phone call negotiated introductions italian ready quick phone conversation loved breakfast breakfast lovely eat outside al fresco patio selection food includes hot bacon eggs cold items cereal yogurt fruit juices fresh breads pastries included price building charming wellmaintained clean pleasantly tucked noise crowds city wonderful windows vertical hinges delightful breeze closed prefer air conditioning stayed ten days july heat city day grueling pleasant breeze evening air conditioning night via monte del gallo street leads hotel else includes adequate grocery friendly coffee bar san pietro train station larger carrefour supermarket 3 minute walk visible bus stop san pietro station rome research american academy library hotel near hill look forward staying time am rome study play comfort hot day library forum look forward quiet comfort taxi car sensible arrive depart hotel unless shape hotel located street block bus stop blocks san pietro train station luggage walk train station easy pleasant 64 bus departs 5 minutes san pietro train station finishes termini train stationso rome change train san pietro station regional train metro stop termini destinations",
+      "Date": "2010-07-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Alessandrino Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d255194-Reviews-Alessandrino_Hotel-Rome_Lazio.html",
+    "Price": "$79 - $222*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Clemente Alessandrino 9</span>, <span class=\"locality\"><span property=\"v:postal-code\">00165</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "255194",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/af/cc/afcc49cf0940343eab81e564c8a8bfce8large.jpg"
+  }
+}

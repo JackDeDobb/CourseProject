@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Sofia, Bulgaria", "Title": "\u201cCould do better for their rates\u201d", "Author": "TsvetelinaR", "ReviewID": "UR125985544", "Content": "excellent location charlottenburg close sbahn ubahn stops various restaurants nice shopping disadvantage internet access available reception fifth floor clean spacious elevator takes half storey level climb 910 stares suitcase reach uncomfortable breakfast stuff russians polite helpful periods events fe itb messe berlin", "Date": "2012-03-12 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Key Biscayne, Florida", "Title": "\u201cGreat location, decent value\u201d", "Author": "Magnus W", "ReviewID": "UR125848491", "Content": "night stay connection trade recently decided try hotel due location charlottenburg kurfurstendamm lots restaurants bars shops walking distance connected subway station 500 little shady neighborhood late night close prestigious hotel building furnished somewhat worn furniture found cleaned served purpose breakfast included bad lots choices nice little buy beer wine reasonable prices complimentary wifi internet connection tv ok german channels decent value price", "Date": "2012-03-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Rome, Italy", "Title": "\u201cbest location / price\u201d", "Author": "ElenaBrini", "ReviewID": "UR122561708", "Content": "advantage location charlottenburg stayed 8 nights hotel situated perfect conjunction metrounderground bahn bahn train u7 close 10 min walk corner coming tegel airport extremely easy reach hotel building acceptable special bathroom suggested couple hotel base sleep shower continental breakfast nice selection cold meats staff reception friendly helpful lots local tips close hotel savigny platz restaurants 30 mt hotel convenient supermarket 24 hour", "Date": "2012-01-05 00:00:00"}], "HotelInfo": {"Name": "Hotel Spreewitz", "HotelURL": "/ShowUserReviews-g187323-d613053-Reviews-Hotel_Spreewitz-Berlin.html", "Price": "$59 - $151*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kantstrasse 104</span>, <span class=\"locality\"><span property=\"v:postal-code\">10627</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "613053", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b7/b0/b7b084d0d2ab380e4e8b80f5c8a41b9f4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Sofia, Bulgaria",
+      "Title": "\u201cCould do better for their rates\u201d",
+      "Author": "TsvetelinaR",
+      "ReviewID": "UR125985544",
+      "Content": "excellent location charlottenburg close sbahn ubahn stops various restaurants nice shopping disadvantage internet access available reception fifth floor clean spacious elevator takes half storey level climb 910 stares suitcase reach uncomfortable breakfast stuff russians polite helpful periods events fe itb messe berlin",
+      "Date": "2012-03-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Key Biscayne, Florida",
+      "Title": "\u201cGreat location, decent value\u201d",
+      "Author": "Magnus W",
+      "ReviewID": "UR125848491",
+      "Content": "night stay connection trade recently decided try hotel due location charlottenburg kurfurstendamm lots restaurants bars shops walking distance connected subway station 500 little shady neighborhood late night close prestigious hotel building furnished somewhat worn furniture found cleaned served purpose breakfast included bad lots choices nice little buy beer wine reasonable prices complimentary wifi internet connection tv ok german channels decent value price",
+      "Date": "2012-03-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rome, Italy",
+      "Title": "\u201cbest location / price\u201d",
+      "Author": "ElenaBrini",
+      "ReviewID": "UR122561708",
+      "Content": "advantage location charlottenburg stayed 8 nights hotel situated perfect conjunction metrounderground bahn bahn train u7 close 10 min walk corner coming tegel airport extremely easy reach hotel building acceptable special bathroom suggested couple hotel base sleep shower continental breakfast nice selection cold meats staff reception friendly helpful lots local tips close hotel savigny platz restaurants 30 mt hotel convenient supermarket 24 hour",
+      "Date": "2012-01-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Spreewitz",
+    "HotelURL": "/ShowUserReviews-g187323-d613053-Reviews-Hotel_Spreewitz-Berlin.html",
+    "Price": "$59 - $151*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kantstrasse 104</span>, <span class=\"locality\"><span property=\"v:postal-code\">10627</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "613053",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b7/b0/b7b084d0d2ab380e4e8b80f5c8a41b9f4large.jpg"
+  }
+}

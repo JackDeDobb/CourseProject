@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Phoenix, Arizona", "Title": "\u201cSafe, secure, value lodging 2 minutes north of the U.S. Border\u201d", "Author": "Leigh K", "ReviewID": "UR127190229", "Content": "hesitant stay hotel tijuana drug cartel violence citys tarnished reputation western americana interstate 5 dairy mart road option vacationers business travelers alike dont complimentary breakfast cocos carls junior 100 yards mcdonalds block south beautifully landscaped pool beds minifridge shuttle crosses border daily 7 am 9 am departures serving passengers heading valuepriced medical clinics dentists tijuana 20 cheaper taxi", "Date": "2012-04-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Seattle, Washington", "Title": "\u201cGreat Stay\u201d", "Author": "DiamondGirl55", "ReviewID": "UR125141792", "Content": "nice stay staff attentive pleasant clean nice fridge microwave beds nice quiet breakfast pretty typical fare protein options boiled eggs helped bit south accessing san diego helped south town bit", "Date": "2012-02-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Santa Barbara", "Title": "\u201cNice Motel and very nice people\u201d", "Author": "GracieLee'smom", "ReviewID": "UR121645304", "Content": "hotel included shuttle service mexico people stay medical treatments tijuana people met breakfast nice breakfast fine carls junior cocos door nice pastries breakfast cereal toast coffee definitely stay huge outlet mall nearby", "Date": "2011-12-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Soldonta, Alaska", "Title": "\u201cExcellent Hotel\u201d", "Author": "ReluctantTraveler00", "ReviewID": "UR95126072", "Content": "clean comfortable basic accomodating staff stayed travel border medical reasons reasonably priced value appreciated cleanliness adequet alot frills exceeded expectations stayed hotel nearby similarly priced return winner", "Date": "2011-01-31 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "San Diego, California", "Title": "\u201cAs far as Best Westerns go this is a plus!!\u201d", "Author": "onereview", "ReviewID": "UR78694670", "Content": "offered job marketing accept position stay hotel freeway mexico isnt downtown clean nicely remodeled plus book dirty bedspreads bit info trash recycle bin free breakfast cant beat oh border discreet surgery shuttle clinics staff friendly", "Date": "2010-09-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Ensenada", "Title": "\u201cI love this place!\u201d", "Author": "doximom2", "ReviewID": "UR62024179", "Content": "found hotel accident wouldnt stay else im san diego exceptional price bright cheery comfortable beds dont usually sleep strange bed overall spotless amenities excellent location else", "Date": "2010-04-20 00:00:00"}], "HotelInfo": {"Name": "BEST WESTERN Americana Inn", "HotelURL": "/ShowUserReviews-g60750-d81797-Reviews-BEST_WESTERN_Americana_Inn-San_Diego_California.html", "Price": "$65 - $112*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">815 West San Ysidro Boulevard</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92173-1827</span></span> </span> </span> </address>", "HotelID": "2515460", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2f/01/2f017a8b475cabb0634092126ad1eb0912large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Phoenix, Arizona",
+      "Title": "\u201cSafe, secure, value lodging 2 minutes north of the U.S. Border\u201d",
+      "Author": "Leigh K",
+      "ReviewID": "UR127190229",
+      "Content": "hesitant stay hotel tijuana drug cartel violence citys tarnished reputation western americana interstate 5 dairy mart road option vacationers business travelers alike dont complimentary breakfast cocos carls junior 100 yards mcdonalds block south beautifully landscaped pool beds minifridge shuttle crosses border daily 7 am 9 am departures serving passengers heading valuepriced medical clinics dentists tijuana 20 cheaper taxi",
+      "Date": "2012-04-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Seattle, Washington",
+      "Title": "\u201cGreat Stay\u201d",
+      "Author": "DiamondGirl55",
+      "ReviewID": "UR125141792",
+      "Content": "nice stay staff attentive pleasant clean nice fridge microwave beds nice quiet breakfast pretty typical fare protein options boiled eggs helped bit south accessing san diego helped south town bit",
+      "Date": "2012-02-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Santa Barbara",
+      "Title": "\u201cNice Motel and very nice people\u201d",
+      "Author": "GracieLee'smom",
+      "ReviewID": "UR121645304",
+      "Content": "hotel included shuttle service mexico people stay medical treatments tijuana people met breakfast nice breakfast fine carls junior cocos door nice pastries breakfast cereal toast coffee definitely stay huge outlet mall nearby",
+      "Date": "2011-12-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Soldonta, Alaska",
+      "Title": "\u201cExcellent Hotel\u201d",
+      "Author": "ReluctantTraveler00",
+      "ReviewID": "UR95126072",
+      "Content": "clean comfortable basic accomodating staff stayed travel border medical reasons reasonably priced value appreciated cleanliness adequet alot frills exceeded expectations stayed hotel nearby similarly priced return winner",
+      "Date": "2011-01-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "San Diego, California",
+      "Title": "\u201cAs far as Best Westerns go this is a plus!!\u201d",
+      "Author": "onereview",
+      "ReviewID": "UR78694670",
+      "Content": "offered job marketing accept position stay hotel freeway mexico isnt downtown clean nicely remodeled plus book dirty bedspreads bit info trash recycle bin free breakfast cant beat oh border discreet surgery shuttle clinics staff friendly",
+      "Date": "2010-09-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ensenada",
+      "Title": "\u201cI love this place!\u201d",
+      "Author": "doximom2",
+      "ReviewID": "UR62024179",
+      "Content": "found hotel accident wouldnt stay else im san diego exceptional price bright cheery comfortable beds dont usually sleep strange bed overall spotless amenities excellent location else",
+      "Date": "2010-04-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "BEST WESTERN Americana Inn",
+    "HotelURL": "/ShowUserReviews-g60750-d81797-Reviews-BEST_WESTERN_Americana_Inn-San_Diego_California.html",
+    "Price": "$65 - $112*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">815 West San Ysidro Boulevard</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92173-1827</span></span> </span> </span> </address>",
+    "HotelID": "2515460",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2f/01/2f017a8b475cabb0634092126ad1eb0912large.jpg"
+  }
+}

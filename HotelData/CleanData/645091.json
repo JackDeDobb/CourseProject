@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Worthing, United Kingdom", "Title": "\u201cS**thole\u201d", "Author": "Kellie E", "ReviewID": "UR125234895", "Content": "moved hotel reception staff clueless alot getting key night couldnt receipt offered fight male staff reception drunk inside bin cleaner prettier hotel dirty pick mushrooms bathroom floor cold night sheet flea ridden blanket bed", "Date": "2012-02-26 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Sweden", "Title": "\u201cA sent of the slum\u201d", "Author": "JanJohansson", "ReviewID": "UR55009663", "Content": "dreaming staying ramshackle hotel london it\u00e2\u00b4s hotel bayswater london hotel exelent position bayswater near tube hyde park building cosy facade slum begins hotel disgusting dirty unhealthy whould research fo living ghetto it\u00e2\u00b4s ok private rubbish mountain backyard impressive homemade art hotel facilitys cockroaches pigeons electric radiator draughty windows dirty television rude polite service", "Date": "2010-02-02 00:00:00"}], "HotelInfo": {"Name": "Queen's Hotel", "HotelURL": "/ShowUserReviews-g186338-d645091-Reviews-Queen_s_Hotel-London_England.html", "Price": "0", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">86 - 92 Inverness Terrace</span> | <span class=\"extended-address\">Bayswater</span>, <span class=\"locality\"><span property=\"v:locality\">London</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>", "HotelID": "645091", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Worthing, United Kingdom",
+      "Title": "\u201cS**thole\u201d",
+      "Author": "Kellie E",
+      "ReviewID": "UR125234895",
+      "Content": "moved hotel reception staff clueless alot getting key night couldnt receipt offered fight male staff reception drunk inside bin cleaner prettier hotel dirty pick mushrooms bathroom floor cold night sheet flea ridden blanket bed",
+      "Date": "2012-02-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Sweden",
+      "Title": "\u201cA sent of the slum\u201d",
+      "Author": "JanJohansson",
+      "ReviewID": "UR55009663",
+      "Content": "dreaming staying ramshackle hotel london it\u00e2\u00b4s hotel bayswater london hotel exelent position bayswater near tube hyde park building cosy facade slum begins hotel disgusting dirty unhealthy whould research fo living ghetto it\u00e2\u00b4s ok private rubbish mountain backyard impressive homemade art hotel facilitys cockroaches pigeons electric radiator draughty windows dirty television rude polite service",
+      "Date": "2010-02-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Queen's Hotel",
+    "HotelURL": "/ShowUserReviews-g186338-d645091-Reviews-Queen_s_Hotel-London_England.html",
+    "Price": "0",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">86 - 92 Inverness Terrace</span> | <span class=\"extended-address\">Bayswater</span>, <span class=\"locality\"><span property=\"v:locality\">London</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>",
+    "HotelID": "645091",
+    "ImgURL": ""
+  }
+}

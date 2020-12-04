@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Denver", "Title": "\u201cDo Not Stay Here!!\u201d", "Author": "Nette69", "ReviewID": "UR128029224", "Content": "website recently renovated based stayed wall paper peeling tub mold comforters holes stuffing coming furniture scratched worn separated wall check chairs mud clumps carpet dirty representing wyndham badly cared worth breakfast consists coffee juice free internet joke dirty check roaches seen stay recommend", "Date": "2012-04-17 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "San Antonio, Texas", "Title": "\u201cIf you just need the basics, this motel is for you.\u201d", "Author": "GothicblueCJ", "ReviewID": "UR125382183", "Content": "friend friend stayed night pretty ok title bath sleep motel job worries loudness outside notice sheet table stated service friends friend stated gotten night walked sonic couple blocks motel couple deliver motel motel located woods looks considered isolated traveling foot careful frills cover basic saving money suggest", "Date": "2012-02-29 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "san diego", "Title": "\u201cDo you like bed bugs and prostitution? if so pay in cash.\u201d", "Author": "sdbeachhomes", "ReviewID": "UR82780296", "Content": "servicing female bed bugs bags pay cash charge credit card 2x dispute charge bank beware walking hassled thugs walking mcds worst motel stayed save yourself disease pay 10 stay embassy suites budget suites lesson learned", "Date": "2010-10-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Ohio", "Title": "\u201cWorthwhile, Good Rate, Very Comfortable\u201d", "Author": "DaytonDoc", "ReviewID": "UR58175424", "Content": "enjoyed stay deal price clean quiet atmosphere didnt worry robbed hotel plan returning future trips", "Date": "2010-03-09 00:00:00"}], "HotelInfo": {"Name": "Knights Inn Market Center", "HotelURL": "/ShowUserReviews-g55711-d98704-Reviews-Knights_Inn_Market_Center-Dallas_Texas.html", "Price": "$43 - $51*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1550 Empire Central</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75235</span></span> (Formerly Red Roof)</span></span></address>", "HotelID": "98704", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/44/db/44dbf5cdbcd445d2cc4625e30f34dd884large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Denver",
+      "Title": "\u201cDo Not Stay Here!!\u201d",
+      "Author": "Nette69",
+      "ReviewID": "UR128029224",
+      "Content": "website recently renovated based stayed wall paper peeling tub mold comforters holes stuffing coming furniture scratched worn separated wall check chairs mud clumps carpet dirty representing wyndham badly cared worth breakfast consists coffee juice free internet joke dirty check roaches seen stay recommend",
+      "Date": "2012-04-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "San Antonio, Texas",
+      "Title": "\u201cIf you just need the basics, this motel is for you.\u201d",
+      "Author": "GothicblueCJ",
+      "ReviewID": "UR125382183",
+      "Content": "friend friend stayed night pretty ok title bath sleep motel job worries loudness outside notice sheet table stated service friends friend stated gotten night walked sonic couple blocks motel couple deliver motel motel located woods looks considered isolated traveling foot careful frills cover basic saving money suggest",
+      "Date": "2012-02-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "san diego",
+      "Title": "\u201cDo you like bed bugs and prostitution? if so pay in cash.\u201d",
+      "Author": "sdbeachhomes",
+      "ReviewID": "UR82780296",
+      "Content": "servicing female bed bugs bags pay cash charge credit card 2x dispute charge bank beware walking hassled thugs walking mcds worst motel stayed save yourself disease pay 10 stay embassy suites budget suites lesson learned",
+      "Date": "2010-10-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ohio",
+      "Title": "\u201cWorthwhile, Good Rate, Very Comfortable\u201d",
+      "Author": "DaytonDoc",
+      "ReviewID": "UR58175424",
+      "Content": "enjoyed stay deal price clean quiet atmosphere didnt worry robbed hotel plan returning future trips",
+      "Date": "2010-03-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Knights Inn Market Center",
+    "HotelURL": "/ShowUserReviews-g55711-d98704-Reviews-Knights_Inn_Market_Center-Dallas_Texas.html",
+    "Price": "$43 - $51*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1550 Empire Central</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75235</span></span> (Formerly Red Roof)</span></span></address>",
+    "HotelID": "98704",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/44/db/44dbf5cdbcd445d2cc4625e30f34dd884large.jpg"
+  }
+}

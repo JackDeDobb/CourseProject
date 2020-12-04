@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Budapest, Hungary", "Title": "\u201cVery Good\u201d", "Author": "Paul M", "ReviewID": "UR123523636", "Content": "hotel month weekend service excellent clean restaurant waitress professional enjoy expensive hotel reception service awsome receptionist smiling wifi network connect internet breakfast beautiful breakfast", "Date": "2012-01-23 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Chisinau, Moldova", "Title": "\u201cDecent hotel, but far from city center\u201d", "Author": "Iuliancik", "ReviewID": "UR119924026", "Content": "pro 1 nice 2 free wifi desk 24 password 3 breakfast serve terrace warm season cons 1 hotel stuff nice 2 location citycenter average fast public transport 3 neighborhood shady theres decent nearby eat drink 4 double bed 2 matresses instead single matress 5 dont pool shown pictures", "Date": "2011-10-31 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "New Delhi, India", "Title": "\u201cRoma Tor Vergata, Italy\u201d", "Author": "akshaymadan04", "ReviewID": "UR105170192", "Content": "western hotel highway main city hotel stay italy day europe tour covering 9 countries tall hotel building parking guests coaches top class compact stylish fittings furniture equipped bed tv hair dryer complimentary breakfast basement restaurant hotel value money city rome roma own car due easy access approach free highway", "Date": "2011-04-23 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Dallas, Texas", "Title": "\u201cTerrible and dangerous Rome area\u201d", "Author": "imoreno", "ReviewID": "UR99831719", "Content": "hotel rome bad rome cheap trashy town taxi driver whom taking center rome litlle afraid taking decided bus center eary day running teenagers looked gand camera sunglasses yes hear definitely bus taxi stay center hotel choice tour company", "Date": "2011-03-11 00:00:00"}], "HotelInfo": {"Name": "BEST WESTERN Hotel Roma Tor Vergata", "HotelURL": "/ShowUserReviews-g187791-d233406-Reviews-BEST_WESTERN_Hotel_Roma_Tor_Vergata-Rome_Lazio.html", "Price": "$73 - $146*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Vico Vigano 24, Angolo Via Duilio Cambellotti</span> | <span class=\"extended-address\">Tor Vergata</span>, <span class=\"locality\"><span property=\"v:postal-code\">00133</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "233406", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/82/8c/828c34502813d34f44fc8a3b30799cc77large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Budapest, Hungary",
+      "Title": "\u201cVery Good\u201d",
+      "Author": "Paul M",
+      "ReviewID": "UR123523636",
+      "Content": "hotel month weekend service excellent clean restaurant waitress professional enjoy expensive hotel reception service awsome receptionist smiling wifi network connect internet breakfast beautiful breakfast",
+      "Date": "2012-01-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Chisinau, Moldova",
+      "Title": "\u201cDecent hotel, but far from city center\u201d",
+      "Author": "Iuliancik",
+      "ReviewID": "UR119924026",
+      "Content": "pro 1 nice 2 free wifi desk 24 password 3 breakfast serve terrace warm season cons 1 hotel stuff nice 2 location citycenter average fast public transport 3 neighborhood shady theres decent nearby eat drink 4 double bed 2 matresses instead single matress 5 dont pool shown pictures",
+      "Date": "2011-10-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "New Delhi, India",
+      "Title": "\u201cRoma Tor Vergata, Italy\u201d",
+      "Author": "akshaymadan04",
+      "ReviewID": "UR105170192",
+      "Content": "western hotel highway main city hotel stay italy day europe tour covering 9 countries tall hotel building parking guests coaches top class compact stylish fittings furniture equipped bed tv hair dryer complimentary breakfast basement restaurant hotel value money city rome roma own car due easy access approach free highway",
+      "Date": "2011-04-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Dallas, Texas",
+      "Title": "\u201cTerrible and dangerous Rome area\u201d",
+      "Author": "imoreno",
+      "ReviewID": "UR99831719",
+      "Content": "hotel rome bad rome cheap trashy town taxi driver whom taking center rome litlle afraid taking decided bus center eary day running teenagers looked gand camera sunglasses yes hear definitely bus taxi stay center hotel choice tour company",
+      "Date": "2011-03-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "BEST WESTERN Hotel Roma Tor Vergata",
+    "HotelURL": "/ShowUserReviews-g187791-d233406-Reviews-BEST_WESTERN_Hotel_Roma_Tor_Vergata-Rome_Lazio.html",
+    "Price": "$73 - $146*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Vico Vigano 24, Angolo Via Duilio Cambellotti</span> | <span class=\"extended-address\">Tor Vergata</span>, <span class=\"locality\"><span property=\"v:postal-code\">00133</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "233406",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/82/8c/828c34502813d34f44fc8a3b30799cc77large.jpg"
+  }
+}

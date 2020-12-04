@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Z\u00fcrich", "Title": "\u201cNot worth the money\u201d", "Author": "William_Helgason", "ReviewID": "UR125272368", "Content": "hotel located staff friendly helpful hotel worth 180 night paid decor dated bit shabby building size 3 bed people lacked furniture dated decor bit shabby tv tube english channel bbc news wifi free constantly dropping connections breakfast below average recommend hotel merits 4 stars pricetag", "Date": "2012-02-27 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Newport Beach, California", "Title": "\u201chotel too old and dirty\u201d", "Author": "Brennan17", "ReviewID": "UR104269426", "Content": "location inside pocket jacket 250 gone hotel oldthe rudeness waitress water bottle 4 stars rome ago remained memories time disappointed", "Date": "2011-04-16 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Malta", "Title": "\u201cExcellent location, good value for money, staff speak english\u201d", "Author": "kikka1", "ReviewID": "UR92552740", "Content": "holiday purely cultural hotel situation heart rome spanish steps piazza barberini excellent location barberini metro 2 minutes walk 2 3 tavola street convenient comfortable spacious bathrooms clean amenities included tv telephone mini bar staff spoke english polite friendly breakfast abundant week christmas rates paid value money recommend hotel", "Date": "2011-01-11 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Bucharest, Romania", "Title": "\u201cHorrible, the heating doesn't work, nasty smell in the lobby, impolite receptionist\u201d", "Author": "Lexxisz", "ReviewID": "UR90929030", "Content": "hotel 2 weeks ago week floor hotel 4th floor couldnt natural light dust bathroom heating frosty doors shower cabin couldnt closed properly impossible sleep horrible conditions day change third floor heating 2 nights 6 outside cold 68 celsius degrees night liked rainy night started rain oozed water ceiling 4th floor terrace hotel liked breakfast hotel diversified especially cakes delicious location hotel city center 2 minutes underground bus station", "Date": "2010-12-28 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cThis hotel is old, tired and smelly and badly needs refurbishing.\u201d", "Author": "LouiseandSam", "ReviewID": "UR68389759", "Content": "stayed couple times requested breakfast poor coffee worst italy world believe espresso machine stew vile brew kitchen", "Date": "2010-06-23 00:00:00"}], "HotelInfo": {"Name": "Leonardi Sistina Hotel", "HotelURL": "/ShowUserReviews-g187791-d203169-Reviews-Leonardi_Sistina_Hotel-Rome_Lazio.html", "Price": "$115 - $276*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Sistina 136</span> | <span class=\"extended-address\">Piazza di Spagna</span>, <span class=\"locality\"><span property=\"v:postal-code\">00187</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "203169", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2e/c0/2ec0c05cc1805851a6a4271fa283d8283large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Z\u00fcrich",
+      "Title": "\u201cNot worth the money\u201d",
+      "Author": "William_Helgason",
+      "ReviewID": "UR125272368",
+      "Content": "hotel located staff friendly helpful hotel worth 180 night paid decor dated bit shabby building size 3 bed people lacked furniture dated decor bit shabby tv tube english channel bbc news wifi free constantly dropping connections breakfast below average recommend hotel merits 4 stars pricetag",
+      "Date": "2012-02-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Newport Beach, California",
+      "Title": "\u201chotel too old and dirty\u201d",
+      "Author": "Brennan17",
+      "ReviewID": "UR104269426",
+      "Content": "location inside pocket jacket 250 gone hotel oldthe rudeness waitress water bottle 4 stars rome ago remained memories time disappointed",
+      "Date": "2011-04-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Malta",
+      "Title": "\u201cExcellent location, good value for money, staff speak english\u201d",
+      "Author": "kikka1",
+      "ReviewID": "UR92552740",
+      "Content": "holiday purely cultural hotel situation heart rome spanish steps piazza barberini excellent location barberini metro 2 minutes walk 2 3 tavola street convenient comfortable spacious bathrooms clean amenities included tv telephone mini bar staff spoke english polite friendly breakfast abundant week christmas rates paid value money recommend hotel",
+      "Date": "2011-01-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bucharest, Romania",
+      "Title": "\u201cHorrible, the heating doesn't work, nasty smell in the lobby, impolite receptionist\u201d",
+      "Author": "Lexxisz",
+      "ReviewID": "UR90929030",
+      "Content": "hotel 2 weeks ago week floor hotel 4th floor couldnt natural light dust bathroom heating frosty doors shower cabin couldnt closed properly impossible sleep horrible conditions day change third floor heating 2 nights 6 outside cold 68 celsius degrees night liked rainy night started rain oozed water ceiling 4th floor terrace hotel liked breakfast hotel diversified especially cakes delicious location hotel city center 2 minutes underground bus station",
+      "Date": "2010-12-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cThis hotel is old, tired and smelly and badly needs refurbishing.\u201d",
+      "Author": "LouiseandSam",
+      "ReviewID": "UR68389759",
+      "Content": "stayed couple times requested breakfast poor coffee worst italy world believe espresso machine stew vile brew kitchen",
+      "Date": "2010-06-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Leonardi Sistina Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d203169-Reviews-Leonardi_Sistina_Hotel-Rome_Lazio.html",
+    "Price": "$115 - $276*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Sistina 136</span> | <span class=\"extended-address\">Piazza di Spagna</span>, <span class=\"locality\"><span property=\"v:postal-code\">00187</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "203169",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2e/c0/2ec0c05cc1805851a6a4271fa283d8283large.jpg"
+  }
+}

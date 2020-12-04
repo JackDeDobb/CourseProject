@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cGood value, great view & ... remarkably peculiar!\u201d", "Author": "nydp2003", "ReviewID": "UR126471685", "Content": "hotel easiest cab driver confused takes floor building otherwise occupied financial companies morgan stanley floor below news located 40th floor impossible view chicago plus huge nice couch window appreciate view quiet times people building obviously guests decor bit odd oldlooking furniture bathroom modern looking appliances ugly bedside table alarm clocks didnt bother luxury hotels definitely peculiarity switch elevators 39th floor hotel breakfast 3rd floor athletic club change elevators twice floor 39 time lobby floor 3 compensate breakfast athletic facility looking pool squash golf didnt time included makes hotel value location perfect north river night pretty block south loop blocks willis sears tower access transportation including el subway line ohare airport taking cab shuttle bus ohare sets ouch negatives low variable pressure shower beds soft people otherwise pleasant stay", "Date": "2012-03-22 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Kentucky", "Title": "\u201cI hope no one reads this review!!\u201d", "Author": "KyDrew", "ReviewID": "UR126014904", "Content": "stay time chicago weekend dont barista lobby enter financial lobby ease finding hotel staff excellent hotel tremendous romance views inexpensive beyond belief pool athletic club try time yes fluctuating water pressure minutes shower else makes hotel stay views suite soldier field adler planetarium lake michigan chase building willis tower door breakfast fine light healthy real continental breakfast fresh fruit pastries coffee juices ran staff refilled minibar expensive mini fridge cant wait", "Date": "2012-03-12 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Las Vegas, NV", "Title": "\u201cFantastic views!\u201d", "Author": "GAJoe", "ReviewID": "UR122773611", "Content": "spent night unique lodging heart chicago financial district hotel occupies 40th floor otherwise upscale office building result 400 feet sky amazing views surrounding skyline looked north enabling view willis formerly sears tower look lake perch beautifully appointed couch bay window facilitated view breakfast provided rate provided athletic club dining third floor building wished workout facilities additional charge highly recommend love location facility hotel deals ive found", "Date": "2012-01-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Newcastle upon Tyne, United Kingdom", "Title": "\u201cAmazing views!!\u201d", "Author": "peterbell1", "ReviewID": "UR84871040", "Content": "chicago business conference found hotel package uk 40th floor office block downtown district reception desk ground floor separate elevators top floor hotel located clean comfortable tv cable channels minibar desk lots seating fabulous views faced north sears tower left lake michigan free wireless internet access free continental breakfast served lounge fantastic views leisure club 3rd floor didnt time 22 hotel quiet safe access building controlled security reception desk 24hours day located business isnt nightlife immediate vicinity plenty shops bars theatres restaurants short walk hotel easy ohare airport blue line station lots lines close metra overground rail station tenminute walk takes van buren metra station takes direct mccormick conference centre id definitely hotel chicago business leisure", "Date": "2010-10-26 00:00:00"}], "HotelInfo": {"Name": "Buckingham Athletic Club", "HotelURL": "/ShowUserReviews-g35805-d498305-Reviews-Buckingham_Athletic_Club-Chicago_Illinois.html", "Price": "$160 - $266*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">440 South Lasalle Street</span>, <span class=\"extended-address\">40th Floor</span>, <span class=\"locality\"><span property=\"v:locality\">Chicago</span>, <span property=\"v:region\">IL</span> <span property=\"v:postal-code\">60605</span></span> </span> </span> </address>", "HotelID": "498305", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d7/55/d755ead4e5511e9eddf3c5082a9e499023large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cGood value, great view & ... remarkably peculiar!\u201d",
+      "Author": "nydp2003",
+      "ReviewID": "UR126471685",
+      "Content": "hotel easiest cab driver confused takes floor building otherwise occupied financial companies morgan stanley floor below news located 40th floor impossible view chicago plus huge nice couch window appreciate view quiet times people building obviously guests decor bit odd oldlooking furniture bathroom modern looking appliances ugly bedside table alarm clocks didnt bother luxury hotels definitely peculiarity switch elevators 39th floor hotel breakfast 3rd floor athletic club change elevators twice floor 39 time lobby floor 3 compensate breakfast athletic facility looking pool squash golf didnt time included makes hotel value location perfect north river night pretty block south loop blocks willis sears tower access transportation including el subway line ohare airport taking cab shuttle bus ohare sets ouch negatives low variable pressure shower beds soft people otherwise pleasant stay",
+      "Date": "2012-03-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Kentucky",
+      "Title": "\u201cI hope no one reads this review!!\u201d",
+      "Author": "KyDrew",
+      "ReviewID": "UR126014904",
+      "Content": "stay time chicago weekend dont barista lobby enter financial lobby ease finding hotel staff excellent hotel tremendous romance views inexpensive beyond belief pool athletic club try time yes fluctuating water pressure minutes shower else makes hotel stay views suite soldier field adler planetarium lake michigan chase building willis tower door breakfast fine light healthy real continental breakfast fresh fruit pastries coffee juices ran staff refilled minibar expensive mini fridge cant wait",
+      "Date": "2012-03-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Las Vegas, NV",
+      "Title": "\u201cFantastic views!\u201d",
+      "Author": "GAJoe",
+      "ReviewID": "UR122773611",
+      "Content": "spent night unique lodging heart chicago financial district hotel occupies 40th floor otherwise upscale office building result 400 feet sky amazing views surrounding skyline looked north enabling view willis formerly sears tower look lake perch beautifully appointed couch bay window facilitated view breakfast provided rate provided athletic club dining third floor building wished workout facilities additional charge highly recommend love location facility hotel deals ive found",
+      "Date": "2012-01-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Newcastle upon Tyne, United Kingdom",
+      "Title": "\u201cAmazing views!!\u201d",
+      "Author": "peterbell1",
+      "ReviewID": "UR84871040",
+      "Content": "chicago business conference found hotel package uk 40th floor office block downtown district reception desk ground floor separate elevators top floor hotel located clean comfortable tv cable channels minibar desk lots seating fabulous views faced north sears tower left lake michigan free wireless internet access free continental breakfast served lounge fantastic views leisure club 3rd floor didnt time 22 hotel quiet safe access building controlled security reception desk 24hours day located business isnt nightlife immediate vicinity plenty shops bars theatres restaurants short walk hotel easy ohare airport blue line station lots lines close metra overground rail station tenminute walk takes van buren metra station takes direct mccormick conference centre id definitely hotel chicago business leisure",
+      "Date": "2010-10-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Buckingham Athletic Club",
+    "HotelURL": "/ShowUserReviews-g35805-d498305-Reviews-Buckingham_Athletic_Club-Chicago_Illinois.html",
+    "Price": "$160 - $266*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">440 South Lasalle Street</span>, <span class=\"extended-address\">40th Floor</span>, <span class=\"locality\"><span property=\"v:locality\">Chicago</span>, <span property=\"v:region\">IL</span> <span property=\"v:postal-code\">60605</span></span> </span> </span> </address>",
+    "HotelID": "498305",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d7/55/d755ead4e5511e9eddf3c5082a9e499023large.jpg"
+  }
+}

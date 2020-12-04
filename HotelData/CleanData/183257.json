@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cWhat I saw from the hotel\u201d", "Author": "enjoy_music", "ReviewID": "UR90106024", "Content": "dont people comment hotel bad stayed month friends enjoyed clean comfortable comments bugs seriously didnt receptionist nice anyways trust ur decisions", "Date": "2010-12-17 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Vancouver, Canada", "Title": "\u201cDon't stay here!\u201d", "Author": "wcullen", "ReviewID": "UR87435282", "Content": "hands worst hotel stayed cheap mean unclean run musty noisy mismanaged bed bedding unclean musty floors walls filthy smelled kicked screwed wall lock wouldnt able handle person leaning bathtub water underneath couldnt safely stand inon wish kidding table legs bent shape table basically unusable chair stained connected vents except bathroom hear lowest conversations 4 5 staying obnoxious leaving trying staff breakfast insult youre montreal definitely food city location isnt safest town lot drunks rowdies simply dump", "Date": "2010-11-17 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cYou get what you pay for\u201d", "Author": "wonder-luster", "ReviewID": "UR68418681", "Content": "husband booked hotel colleagues cheap near ecole polytechnic paid breakfast muffins coffee bring eat walls thin bed narrow asian sized guy space maneuver bed bed bugs thank goodness toilet regular sized hes seen ones staff clueless location power cupboard search tries help connection reliable located residential ideal wish sights foot checked reviews booking", "Date": "2010-06-23 00:00:00"}], "HotelInfo": {"Name": "Le Saint Malo", "HotelURL": "/ShowUserReviews-g155032-d183257-Reviews-Le_Saint_Malo-Montreal_Quebec.html", "Price": "$70 - $139*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1455 Rue Du Fort</span>, <span class=\"locality\"><span property=\"v:locality\">Montreal</span>, <span property=\"v:region\">Quebec</span> <span property=\"v:postal-code\">H3H 2C2</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span></span></address>", "HotelID": "183257", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b9/18/b91879be413da0989d6067ceb549db711large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cWhat I saw from the hotel\u201d",
+      "Author": "enjoy_music",
+      "ReviewID": "UR90106024",
+      "Content": "dont people comment hotel bad stayed month friends enjoyed clean comfortable comments bugs seriously didnt receptionist nice anyways trust ur decisions",
+      "Date": "2010-12-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Vancouver, Canada",
+      "Title": "\u201cDon't stay here!\u201d",
+      "Author": "wcullen",
+      "ReviewID": "UR87435282",
+      "Content": "hands worst hotel stayed cheap mean unclean run musty noisy mismanaged bed bedding unclean musty floors walls filthy smelled kicked screwed wall lock wouldnt able handle person leaning bathtub water underneath couldnt safely stand inon wish kidding table legs bent shape table basically unusable chair stained connected vents except bathroom hear lowest conversations 4 5 staying obnoxious leaving trying staff breakfast insult youre montreal definitely food city location isnt safest town lot drunks rowdies simply dump",
+      "Date": "2010-11-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cYou get what you pay for\u201d",
+      "Author": "wonder-luster",
+      "ReviewID": "UR68418681",
+      "Content": "husband booked hotel colleagues cheap near ecole polytechnic paid breakfast muffins coffee bring eat walls thin bed narrow asian sized guy space maneuver bed bed bugs thank goodness toilet regular sized hes seen ones staff clueless location power cupboard search tries help connection reliable located residential ideal wish sights foot checked reviews booking",
+      "Date": "2010-06-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Le Saint Malo",
+    "HotelURL": "/ShowUserReviews-g155032-d183257-Reviews-Le_Saint_Malo-Montreal_Quebec.html",
+    "Price": "$70 - $139*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1455 Rue Du Fort</span>, <span class=\"locality\"><span property=\"v:locality\">Montreal</span>, <span property=\"v:region\">Quebec</span> <span property=\"v:postal-code\">H3H 2C2</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span></span></address>",
+    "HotelID": "183257",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b9/18/b91879be413da0989d6067ceb549db711large.jpg"
+  }
+}

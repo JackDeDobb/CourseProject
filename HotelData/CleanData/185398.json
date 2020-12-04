@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "London", "Title": "\u201cexcellent location, spacious rooms, nice value when booked online\u201d", "Author": "Brit007", "ReviewID": "UR121478646", "Content": "walkin rate twice 55 usd web offer 10 usd breakfast skipped 141 peso top notch breakfast brunch exciting restaurants steps door fast wifi 6th floor clean adequate kitchenette bath shiny value stayed 9 days definitely stay time city mind mexico city noisy 247 100 yards angel sheraton embassy zona rosa youre 22 million people considerable noise", "Date": "2011-12-07 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Mexico City, Mexico", "Title": "\u201cHomely way of Staying in an another country\u201d", "Author": "kavitag", "ReviewID": "UR101565711", "Content": "hotel kitchenette suites stay comfortable opportunity own food miss home country spacy makes feel home breakfast restaurant amazing liked authentic mexican food ambience restaurant beautiful cozy overall experience stay hotel", "Date": "2011-03-25 00:00:00"}], "HotelInfo": {"Name": "San Marino Suites Hotel", "HotelURL": "/ShowUserReviews-g150800-d185398-Reviews-San_Marino_Suites_Hotel-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$55 - $79*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Rio Tiber, 107 - Col. Cuauhtemoc</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06500</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "185398", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/20/9e/209e714dce6898e0d7be6ceca7afb22e2large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cexcellent location, spacious rooms, nice value when booked online\u201d",
+      "Author": "Brit007",
+      "ReviewID": "UR121478646",
+      "Content": "walkin rate twice 55 usd web offer 10 usd breakfast skipped 141 peso top notch breakfast brunch exciting restaurants steps door fast wifi 6th floor clean adequate kitchenette bath shiny value stayed 9 days definitely stay time city mind mexico city noisy 247 100 yards angel sheraton embassy zona rosa youre 22 million people considerable noise",
+      "Date": "2011-12-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Mexico City, Mexico",
+      "Title": "\u201cHomely way of Staying in an another country\u201d",
+      "Author": "kavitag",
+      "ReviewID": "UR101565711",
+      "Content": "hotel kitchenette suites stay comfortable opportunity own food miss home country spacy makes feel home breakfast restaurant amazing liked authentic mexican food ambience restaurant beautiful cozy overall experience stay hotel",
+      "Date": "2011-03-25 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "San Marino Suites Hotel",
+    "HotelURL": "/ShowUserReviews-g150800-d185398-Reviews-San_Marino_Suites_Hotel-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$55 - $79*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Rio Tiber, 107 - Col. Cuauhtemoc</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06500</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "185398",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/20/9e/209e714dce6898e0d7be6ceca7afb22e2large.jpg"
+  }
+}

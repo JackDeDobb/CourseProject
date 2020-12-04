@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cOne of the best basic hotels I have stayed at!\u201d", "Author": "TurnerJP", "ReviewID": "UR126151742", "Content": "hotel stay reason business personal little basic theyre clean comfortable functional tv wifi available food taste value chef willing discuss cooking youre waiters reception staff willing assist welcome smile incredibly friendly hotel value close anagnina shopping centre plenty parking available stayed twice time week thoroughly enjoyed visits", "Date": "2012-03-15 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Uppsala, Sweden", "Title": "\u201cAverage stay\u201d", "Author": "Cestovatel_W", "ReviewID": "UR123805129", "Content": "hotel absolutely outside city close ikea ciampino airport dont car dont stay ready spend 12 hr getting city centre depends traffic serious jams morning evening hours hotel basic guests huge tourists bus east basic minibar empty beds comfortable sleeping breakfast fine maintained outs chance offering wring moment", "Date": "2012-01-29 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Marinha Grande, Portugal", "Title": "\u201cAverage hotel at a reasonable price\u201d", "Author": "Telmo A", "ReviewID": "UR121143556", "Content": "hotel located shopping nice comfortable bathrooms clean biggest breakfast variety food rarely replaced guests wait food bread pastry fresh industrial anda packed fruit canned hotel near anagnina metro station impossible walk station hotel sation bus metro takes 20 minutes central rome hotel hotel accessible price mind city center", "Date": "2011-11-28 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cPerfect for Rome short stay and Metro access.\u201d", "Author": "daveion", "ReviewID": "UR118934482", "Content": "stayed hotel 2 nights found location perfect close anagnina metro airport following driving sorrento hotel recent build integrated retail park facility hotel facilities modern clean helpful staff reliable shuttle anagnina metro breakfast buffet provided breads cakes fruit cereal cold meats cheese rest following day rome reasonable 2 nights recommend stays walking distance attached retail park", "Date": "2011-10-04 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 2.0}, "AuthorLocation": "Sydney", "Title": "\u201cAwesome hotel in outer suburb!\u201d", "Author": "L4ZY_80Y", "ReviewID": "UR118781466", "Content": "hotel appears hallways look nice trendy doors hall enlarged scene classic movie classic actor spacious tile flooring look feel clean bedding nice comfortable queen bed book twin sister didnt bother changing informed reception dont except views expected affordable pricing hotel location hotel buffet breakfast nice wide selection food including hot cold food hotel located anagnina region 20 minute metro ride termini station downside metro running 9pm public buses hotel 2min bus ride dont run 9pm abouts hotel own shuttle bus service times limited mention bus ride short 2 minutes anagnina metro station sad walk metro highway absolutely tried couple times arrive rome late night bus service termini anagnina taxi pocket 10euros hotel close proximity ciampino airport shuttle service staff hotel nice smile definitely recommend hotel people wish save money stay hustle bustle city centre", "Date": "2011-09-30 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Regina, Canada", "Title": "\u201cGood Value but very noisy during weekend\u201d", "Author": "wescbr", "ReviewID": "UR110308682", "Content": "travel agency booked hotel entire tour hotel relatively renovated believe updated modern bathroom layout tiles toilets hotel packed tourist checkin hectic checkedin friday night lady 830pm biggest hotel shopping mall complex normally fine friday night parking lot illegal racing hotspot rides okay drivers audiences doing disturbing tourists air conditioning dont window means heard sound night luckily police crowd dispersed accident fulfill shopping mcdonalds corner 24hrs", "Date": "2011-05-29 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Foxford", "Title": "\u201cDifficult to find and nowhere to eat\u201d", "Author": "Trishku", "ReviewID": "UR108663486", "Content": "hotel difficult using public transport confortable clean unfortunately airconditioning staff try restaurant hotel nearby eat ikea cafe option city centre worst aspect stay race track carpark outside racing cars midnight 130 morning unacceptable complained staff told police called police arrive soon left racing music started race eventually broke car crash police returned able sleep airport shuttle bus time efficient", "Date": "2011-05-17 00:00:00"}], "HotelInfo": {"Name": "Idea Hotel Roma Cinecitta", "HotelURL": "/ShowUserReviews-g187791-d498904-Reviews-Idea_Hotel_Roma_Cinecitta-Rome_Lazio.html", "Price": "$70 - $187*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Torre di Mezzavia 25</span>, <span class=\"locality\"><span property=\"v:postal-code\">00173</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> (Formerly Anagnina Hotel)</span></span></address>", "HotelID": "498904", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7b/b0/7bb043ce991fcdafb598461ef0e2a0d410large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cOne of the best basic hotels I have stayed at!\u201d",
+      "Author": "TurnerJP",
+      "ReviewID": "UR126151742",
+      "Content": "hotel stay reason business personal little basic theyre clean comfortable functional tv wifi available food taste value chef willing discuss cooking youre waiters reception staff willing assist welcome smile incredibly friendly hotel value close anagnina shopping centre plenty parking available stayed twice time week thoroughly enjoyed visits",
+      "Date": "2012-03-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Uppsala, Sweden",
+      "Title": "\u201cAverage stay\u201d",
+      "Author": "Cestovatel_W",
+      "ReviewID": "UR123805129",
+      "Content": "hotel absolutely outside city close ikea ciampino airport dont car dont stay ready spend 12 hr getting city centre depends traffic serious jams morning evening hours hotel basic guests huge tourists bus east basic minibar empty beds comfortable sleeping breakfast fine maintained outs chance offering wring moment",
+      "Date": "2012-01-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Marinha Grande, Portugal",
+      "Title": "\u201cAverage hotel at a reasonable price\u201d",
+      "Author": "Telmo A",
+      "ReviewID": "UR121143556",
+      "Content": "hotel located shopping nice comfortable bathrooms clean biggest breakfast variety food rarely replaced guests wait food bread pastry fresh industrial anda packed fruit canned hotel near anagnina metro station impossible walk station hotel sation bus metro takes 20 minutes central rome hotel hotel accessible price mind city center",
+      "Date": "2011-11-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cPerfect for Rome short stay and Metro access.\u201d",
+      "Author": "daveion",
+      "ReviewID": "UR118934482",
+      "Content": "stayed hotel 2 nights found location perfect close anagnina metro airport following driving sorrento hotel recent build integrated retail park facility hotel facilities modern clean helpful staff reliable shuttle anagnina metro breakfast buffet provided breads cakes fruit cereal cold meats cheese rest following day rome reasonable 2 nights recommend stays walking distance attached retail park",
+      "Date": "2011-10-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Sydney",
+      "Title": "\u201cAwesome hotel in outer suburb!\u201d",
+      "Author": "L4ZY_80Y",
+      "ReviewID": "UR118781466",
+      "Content": "hotel appears hallways look nice trendy doors hall enlarged scene classic movie classic actor spacious tile flooring look feel clean bedding nice comfortable queen bed book twin sister didnt bother changing informed reception dont except views expected affordable pricing hotel location hotel buffet breakfast nice wide selection food including hot cold food hotel located anagnina region 20 minute metro ride termini station downside metro running 9pm public buses hotel 2min bus ride dont run 9pm abouts hotel own shuttle bus service times limited mention bus ride short 2 minutes anagnina metro station sad walk metro highway absolutely tried couple times arrive rome late night bus service termini anagnina taxi pocket 10euros hotel close proximity ciampino airport shuttle service staff hotel nice smile definitely recommend hotel people wish save money stay hustle bustle city centre",
+      "Date": "2011-09-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Regina, Canada",
+      "Title": "\u201cGood Value but very noisy during weekend\u201d",
+      "Author": "wescbr",
+      "ReviewID": "UR110308682",
+      "Content": "travel agency booked hotel entire tour hotel relatively renovated believe updated modern bathroom layout tiles toilets hotel packed tourist checkin hectic checkedin friday night lady 830pm biggest hotel shopping mall complex normally fine friday night parking lot illegal racing hotspot rides okay drivers audiences doing disturbing tourists air conditioning dont window means heard sound night luckily police crowd dispersed accident fulfill shopping mcdonalds corner 24hrs",
+      "Date": "2011-05-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Foxford",
+      "Title": "\u201cDifficult to find and nowhere to eat\u201d",
+      "Author": "Trishku",
+      "ReviewID": "UR108663486",
+      "Content": "hotel difficult using public transport confortable clean unfortunately airconditioning staff try restaurant hotel nearby eat ikea cafe option city centre worst aspect stay race track carpark outside racing cars midnight 130 morning unacceptable complained staff told police called police arrive soon left racing music started race eventually broke car crash police returned able sleep airport shuttle bus time efficient",
+      "Date": "2011-05-17 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Idea Hotel Roma Cinecitta",
+    "HotelURL": "/ShowUserReviews-g187791-d498904-Reviews-Idea_Hotel_Roma_Cinecitta-Rome_Lazio.html",
+    "Price": "$70 - $187*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Torre di Mezzavia 25</span>, <span class=\"locality\"><span property=\"v:postal-code\">00173</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> (Formerly Anagnina Hotel)</span></span></address>",
+    "HotelID": "498904",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7b/b0/7bb043ce991fcdafb598461ef0e2a0d410large.jpg"
+  }
+}

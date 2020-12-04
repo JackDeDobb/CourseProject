@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 1.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Brussel", "Title": "\u201cOverpriced.\u201d", "Author": "BrusselStardancer", "ReviewID": "UR119559332", "Content": "title surprise travelers 210 \u20ac night normal 4 star paris except banner wall star 3 reception makes feel near railway station hotel clean personnel helpful scary elevator brings floor reach aisle superior ok morning breakfast basement paris choices money", "Date": "2011-10-21 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 1.0}, "AuthorLocation": "Izola, Slovenia", "Title": "\u201cA nice 3* hotel all in all\u201d", "Author": "AnastasijaA2", "ReviewID": "UR118403270", "Content": "stayed hotel short trip paris beginning hotel outside little bit scared feeling following reception beautiful clean wish romantic trip paris view balconies beautiful parisien magic breakfast little bit disappointing experiences paris foodbut time lot choice waitresses couldnt minus hotel definitely 15minutes metro walking day parisyou die coming hotel", "Date": "2011-09-21 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Den Haag", "Title": "\u201cmixed feelings....\u201d", "Author": "Posted by a hotelsgrandparis.com traveler", "ReviewID": "UR103863849", "Content": "booked nov 2010 discovered january 2011 changed ownership notifying lengthy agreement arrangements november free bottled water perks initially included deal supplied disappointing reception staff except friendly lady kenya bother recognize guests", "Date": "2011-04-13 00:00:00"}], "HotelInfo": {"Name": "BEST WESTERN Opera Batignolles", "HotelURL": "/ShowUserReviews-g187147-d233774-Reviews-BEST_WESTERN_Opera_Batignolles-Paris_Ile_de_France.html", "Price": "$193 - $359*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">165 Rue de Rome</span> | <span class=\"extended-address\">17 Arr.</span>, <span class=\"locality\"><span property=\"v:postal-code\">75017</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>", "HotelID": "233774", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/c5/74/bf/hotel-mercure-paris-square.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 1.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Brussel",
+      "Title": "\u201cOverpriced.\u201d",
+      "Author": "BrusselStardancer",
+      "ReviewID": "UR119559332",
+      "Content": "title surprise travelers 210 \u20ac night normal 4 star paris except banner wall star 3 reception makes feel near railway station hotel clean personnel helpful scary elevator brings floor reach aisle superior ok morning breakfast basement paris choices money",
+      "Date": "2011-10-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Izola, Slovenia",
+      "Title": "\u201cA nice 3* hotel all in all\u201d",
+      "Author": "AnastasijaA2",
+      "ReviewID": "UR118403270",
+      "Content": "stayed hotel short trip paris beginning hotel outside little bit scared feeling following reception beautiful clean wish romantic trip paris view balconies beautiful parisien magic breakfast little bit disappointing experiences paris foodbut time lot choice waitresses couldnt minus hotel definitely 15minutes metro walking day parisyou die coming hotel",
+      "Date": "2011-09-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Den Haag",
+      "Title": "\u201cmixed feelings....\u201d",
+      "Author": "Posted by a hotelsgrandparis.com traveler",
+      "ReviewID": "UR103863849",
+      "Content": "booked nov 2010 discovered january 2011 changed ownership notifying lengthy agreement arrangements november free bottled water perks initially included deal supplied disappointing reception staff except friendly lady kenya bother recognize guests",
+      "Date": "2011-04-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "BEST WESTERN Opera Batignolles",
+    "HotelURL": "/ShowUserReviews-g187147-d233774-Reviews-BEST_WESTERN_Opera_Batignolles-Paris_Ile_de_France.html",
+    "Price": "$193 - $359*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">165 Rue de Rome</span> | <span class=\"extended-address\">17 Arr.</span>, <span class=\"locality\"><span property=\"v:postal-code\">75017</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>",
+    "HotelID": "233774",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/c5/74/bf/hotel-mercure-paris-square.jpg"
+  }
+}

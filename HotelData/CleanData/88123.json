@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 5.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Richmond, Virginia", "Title": "\u201cOK, if you just need a place to sleep\u201d", "Author": "Panthers82", "ReviewID": "UR92009817", "Content": "knights inn okay looking sleep served purpose sleep amusement parks week tired antonios pizza putting papers door week dont wed stay", "Date": "2011-01-06 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Snow Camp, North Carolina", "Title": "\u201cNEVER, NEVER GO TO THIS MOTEL\u201d", "Author": "Inman726", "ReviewID": "UR91548501", "Content": "dirty hair dirt bathrooms arrived 12 roll toliet paper requested towels maid towels dirty bring soon clean showered dressed 4 sheet nonsmoking burn holes nasty hotel cont lie traveled 26 hotels motels 2010 worse couldnt leave refund paid advanced online crappy pleas smart stay", "Date": "2011-01-03 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Princeton, New Jersey", "Title": "\u201cpls avoid this place\u201d", "Author": "smat2008", "ReviewID": "UR87455641", "Content": "booked reasonably priced looked fine pictures paid price reached booked guy front desk told available else called canceled reservations stay clean furniture equipments moved hotel day", "Date": "2010-11-18 00:00:00"}], "HotelInfo": {"Name": "Knights Inn Orlando East", "HotelURL": "/ShowUserReviews-g34352-d88123-Reviews-Knights_Inn_Orlando_East-Kissimmee_Florida.html", "Price": "$30 - $80*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2880 North Poinciana Boulevard</span>, <span class=\"locality\"><span property=\"v:locality\">Kissimmee</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">34746</span></span> </span></span></address>", "HotelID": "88123", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/05/ec/05ec4833ca8df9847e1a09600be4e5375large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 5.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Richmond, Virginia",
+      "Title": "\u201cOK, if you just need a place to sleep\u201d",
+      "Author": "Panthers82",
+      "ReviewID": "UR92009817",
+      "Content": "knights inn okay looking sleep served purpose sleep amusement parks week tired antonios pizza putting papers door week dont wed stay",
+      "Date": "2011-01-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Snow Camp, North Carolina",
+      "Title": "\u201cNEVER, NEVER GO TO THIS MOTEL\u201d",
+      "Author": "Inman726",
+      "ReviewID": "UR91548501",
+      "Content": "dirty hair dirt bathrooms arrived 12 roll toliet paper requested towels maid towels dirty bring soon clean showered dressed 4 sheet nonsmoking burn holes nasty hotel cont lie traveled 26 hotels motels 2010 worse couldnt leave refund paid advanced online crappy pleas smart stay",
+      "Date": "2011-01-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Princeton, New Jersey",
+      "Title": "\u201cpls avoid this place\u201d",
+      "Author": "smat2008",
+      "ReviewID": "UR87455641",
+      "Content": "booked reasonably priced looked fine pictures paid price reached booked guy front desk told available else called canceled reservations stay clean furniture equipments moved hotel day",
+      "Date": "2010-11-18 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Knights Inn Orlando East",
+    "HotelURL": "/ShowUserReviews-g34352-d88123-Reviews-Knights_Inn_Orlando_East-Kissimmee_Florida.html",
+    "Price": "$30 - $80*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2880 North Poinciana Boulevard</span>, <span class=\"locality\"><span property=\"v:locality\">Kissimmee</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">34746</span></span> </span></span></address>",
+    "HotelID": "88123",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/05/ec/05ec4833ca8df9847e1a09600be4e5375large.jpg"
+  }
+}

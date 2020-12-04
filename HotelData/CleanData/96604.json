@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Dardanelle, Arkansas", "Title": "\u201cRip Off\u201d", "Author": "Karen P", "ReviewID": "UR140033955", "Content": "charged account called inquire told tax signed piece paper account booked hot wire 4500 worth nonsmoking employees apparently smoke leave soon arrived due stench folks branson motels staff taking bank money principal", "Date": "2012-09-11 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "holdingford", "Title": "\u201ccommendation to breakfast host\u201d", "Author": "patty k", "ReviewID": "UR139488770", "Content": "stayed motel 6 consecutive nights late august 2012 nice quiet enjoyed tasty breakfast morning commend breakfast host happily greeted entering dining keeping tables counter tops spotless times food neat presentable manner days name lana pat job minnesota stay motel time branson", "Date": "2012-09-05 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Fort Lauderdale, Florida, United States", "Title": "\u201caweful\u201d", "Author": "Lisa A", "ReviewID": "UR138833335", "Content": "hate staying stay house keeping speak meds counter gone tell dont stay", "Date": "2012-08-29 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Tomball, Texas", "Title": "\u201cGreat Breakfast\u201d", "Author": "teddies1999", "ReviewID": "UR137278608", "Content": "staff friendly helped driving directions requested near enterance due brace knee ankle told none available building parking hard hill breakfast pool noise load inside air conditioner loud earplugs", "Date": "2012-08-15 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Kane, IL", "Title": "\u201cAwesome place to stay\u201d", "Author": "scoobym0m", "ReviewID": "UR136910520", "Content": "bad experience choice hotel checking hotel dinner booked eating dinner excellent choice staff super friendly clean smelled nice equipped fridge feature travel kids pool nice clean breakfast attendant morning nice friendly glad chance meet experience", "Date": "2012-08-11 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Bethalto, Illinois", "Title": "\u201cThey do not care and floors are very dirty\u201d", "Author": "Mary S", "ReviewID": "UR135284970", "Content": "property allows pets love dogs barks 247 poor dog happy sleep noise barking requested refund night sleep night stay refused nights refund offered floor dogs offered inferior hotel refund offer help move luggage dogs allowed floor poor dog 2 doors manager refused dog owners move floor moved luggage car headed home stay shoes wear bathroom carpet bathroom floor dirty breakfast ok 4 plate eat joke", "Date": "2012-07-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Kansas City, Missouri", "Title": "\u201cOld but very clean!!!\u201d", "Author": "jessido", "ReviewID": "UR132617239", "Content": "recent trip branson mom walked checked assigned double queen overlooking pool level front parking perfect elderly grandpa smelled clean soon walked bathroom tiny clean carpet looked recently vaccumed ac beds comfortable mattress toppers tell time mattresses linens fresh comfortable soft rough fine flat screen tv ok issues remote bad prob faulty batteries blow dryer didnt bring toilettries soap hair conditioner shower cap coffee machine didnt hot breakfast looked clean tasty liked ea slice bread own sandwich bag slice toast juice yogurt biscuits gravy sc eggs sausages overall stay def reason didnt book advance horrible experience ramada inn check checking staff excellent helpful directions advise eat etc bad call parking bit restricted limited spots front location walking distance strip branson traffic call major positive plus", "Date": "2012-06-23 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Lake Ozark, Missouri", "Title": "\u201cGreat Value!\u201d", "Author": "corvettefan", "ReviewID": "UR132057976", "Content": "previously ramada inn cleaned somewhat little paid moneys worth 2 queen bed appreciate sink counter outside toiletshower getting ready time accessed outside walkways free breakfast consisting sausage patties bisquits gravy toast donuts prepared egg patties fruit dry cereal etc front desk extremely friendly helpful motel located quiet busy hwy 76", "Date": "2012-06-15 00:00:00"}], "HotelInfo": {"Name": "Southern Country Inn", "HotelURL": "/ShowUserReviews-g44160-d96604-Reviews-Southern_Country_Inn-Branson_Missouri.html", "Price": "$46 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2316 Shepherd of the Hills Expressway</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> (Formerly Ramada Limited Branson)</span></span></address>", "HotelID": "96604", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/5f/96/01/southern-country-inn.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Dardanelle, Arkansas",
+      "Title": "\u201cRip Off\u201d",
+      "Author": "Karen P",
+      "ReviewID": "UR140033955",
+      "Content": "charged account called inquire told tax signed piece paper account booked hot wire 4500 worth nonsmoking employees apparently smoke leave soon arrived due stench folks branson motels staff taking bank money principal",
+      "Date": "2012-09-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "holdingford",
+      "Title": "\u201ccommendation to breakfast host\u201d",
+      "Author": "patty k",
+      "ReviewID": "UR139488770",
+      "Content": "stayed motel 6 consecutive nights late august 2012 nice quiet enjoyed tasty breakfast morning commend breakfast host happily greeted entering dining keeping tables counter tops spotless times food neat presentable manner days name lana pat job minnesota stay motel time branson",
+      "Date": "2012-09-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Fort Lauderdale, Florida, United States",
+      "Title": "\u201caweful\u201d",
+      "Author": "Lisa A",
+      "ReviewID": "UR138833335",
+      "Content": "hate staying stay house keeping speak meds counter gone tell dont stay",
+      "Date": "2012-08-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Tomball, Texas",
+      "Title": "\u201cGreat Breakfast\u201d",
+      "Author": "teddies1999",
+      "ReviewID": "UR137278608",
+      "Content": "staff friendly helped driving directions requested near enterance due brace knee ankle told none available building parking hard hill breakfast pool noise load inside air conditioner loud earplugs",
+      "Date": "2012-08-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Kane, IL",
+      "Title": "\u201cAwesome place to stay\u201d",
+      "Author": "scoobym0m",
+      "ReviewID": "UR136910520",
+      "Content": "bad experience choice hotel checking hotel dinner booked eating dinner excellent choice staff super friendly clean smelled nice equipped fridge feature travel kids pool nice clean breakfast attendant morning nice friendly glad chance meet experience",
+      "Date": "2012-08-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bethalto, Illinois",
+      "Title": "\u201cThey do not care and floors are very dirty\u201d",
+      "Author": "Mary S",
+      "ReviewID": "UR135284970",
+      "Content": "property allows pets love dogs barks 247 poor dog happy sleep noise barking requested refund night sleep night stay refused nights refund offered floor dogs offered inferior hotel refund offer help move luggage dogs allowed floor poor dog 2 doors manager refused dog owners move floor moved luggage car headed home stay shoes wear bathroom carpet bathroom floor dirty breakfast ok 4 plate eat joke",
+      "Date": "2012-07-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Kansas City, Missouri",
+      "Title": "\u201cOld but very clean!!!\u201d",
+      "Author": "jessido",
+      "ReviewID": "UR132617239",
+      "Content": "recent trip branson mom walked checked assigned double queen overlooking pool level front parking perfect elderly grandpa smelled clean soon walked bathroom tiny clean carpet looked recently vaccumed ac beds comfortable mattress toppers tell time mattresses linens fresh comfortable soft rough fine flat screen tv ok issues remote bad prob faulty batteries blow dryer didnt bring toilettries soap hair conditioner shower cap coffee machine didnt hot breakfast looked clean tasty liked ea slice bread own sandwich bag slice toast juice yogurt biscuits gravy sc eggs sausages overall stay def reason didnt book advance horrible experience ramada inn check checking staff excellent helpful directions advise eat etc bad call parking bit restricted limited spots front location walking distance strip branson traffic call major positive plus",
+      "Date": "2012-06-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Lake Ozark, Missouri",
+      "Title": "\u201cGreat Value!\u201d",
+      "Author": "corvettefan",
+      "ReviewID": "UR132057976",
+      "Content": "previously ramada inn cleaned somewhat little paid moneys worth 2 queen bed appreciate sink counter outside toiletshower getting ready time accessed outside walkways free breakfast consisting sausage patties bisquits gravy toast donuts prepared egg patties fruit dry cereal etc front desk extremely friendly helpful motel located quiet busy hwy 76",
+      "Date": "2012-06-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Southern Country Inn",
+    "HotelURL": "/ShowUserReviews-g44160-d96604-Reviews-Southern_Country_Inn-Branson_Missouri.html",
+    "Price": "$46 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2316 Shepherd of the Hills Expressway</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> (Formerly Ramada Limited Branson)</span></span></address>",
+    "HotelID": "96604",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/5f/96/01/southern-country-inn.jpg"
+  }
+}

@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Ellicott City, Maryland", "Title": "\u201cGreat Breakfast, Good Price, and Close to the U Bahn\u201d", "Author": "vtely", "ReviewID": "UR110593749", "Content": "picked hotel based tripadvisor reviews yes hotel comfortable convenient ubahn station yes plenty shops food nearby prepared carry luggage 3 flights stairs elevator consider hotel located relation city center overall hotel comfortable stay value wed recommend wasnt hotel stayed berlin amy", "Date": "2011-05-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Kolding Denmark", "Title": "\u201cFirst time, but not the last time.\u201d", "Author": "pkr6000", "ReviewID": "UR106552640", "Content": "nice pleasant family hotel helpfull staff excellent value money excellent breakfast hotel spandau outskirts berlin assures nice quet sleep night traffic ubahn directly outside hotel numerous restaurants cafes reasonable prices 100 meteres walking distance car parking cheap paid 5 euro afternoon til sunday afternoon car buy travellers card save lot money trouble bahn fast trouble stairs lower floors stairs maybe hotel complaints none missed", "Date": "2011-05-02 00:00:00"}], "HotelInfo": {"Name": "Hotel Lindenufer", "HotelURL": "/ShowUserReviews-g187323-d232611-Reviews-Hotel_Lindenufer-Berlin.html", "Price": "$95 - $134*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Breite Strasse 36</span>, <span class=\"locality\"><span property=\"v:postal-code\">13597</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "232611", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/e2/d3/85/hotel-lindenufer.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Ellicott City, Maryland",
+      "Title": "\u201cGreat Breakfast, Good Price, and Close to the U Bahn\u201d",
+      "Author": "vtely",
+      "ReviewID": "UR110593749",
+      "Content": "picked hotel based tripadvisor reviews yes hotel comfortable convenient ubahn station yes plenty shops food nearby prepared carry luggage 3 flights stairs elevator consider hotel located relation city center overall hotel comfortable stay value wed recommend wasnt hotel stayed berlin amy",
+      "Date": "2011-05-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Kolding Denmark",
+      "Title": "\u201cFirst time, but not the last time.\u201d",
+      "Author": "pkr6000",
+      "ReviewID": "UR106552640",
+      "Content": "nice pleasant family hotel helpfull staff excellent value money excellent breakfast hotel spandau outskirts berlin assures nice quet sleep night traffic ubahn directly outside hotel numerous restaurants cafes reasonable prices 100 meteres walking distance car parking cheap paid 5 euro afternoon til sunday afternoon car buy travellers card save lot money trouble bahn fast trouble stairs lower floors stairs maybe hotel complaints none missed",
+      "Date": "2011-05-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Lindenufer",
+    "HotelURL": "/ShowUserReviews-g187323-d232611-Reviews-Hotel_Lindenufer-Berlin.html",
+    "Price": "$95 - $134*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Breite Strasse 36</span>, <span class=\"locality\"><span property=\"v:postal-code\">13597</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "232611",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/e2/d3/85/hotel-lindenufer.jpg"
+  }
+}

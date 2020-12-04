@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Bourbon, Missouri", "Title": "\u201cGood Deal for the $\u201d", "Author": "Gail B", "ReviewID": "UR130302468", "Content": "econo lodge experience value price looking fancy resortthis nights sleep friendly helpful proprietors clean people friendlier helpful stay close town close silver dollar city silver dollar city 55 miles 3 miles aware motel wifi access mentioned ad laptop", "Date": "2012-05-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Monroe, Louisiana", "Title": "\u201cWe are repeat customers\u201d", "Author": "cnh624", "ReviewID": "UR128677609", "Content": "quiet location peaceful setting comfortable return clean facility fancy accomdations spending days silver dollar city clean comfortable rest day silver dollar city perfect bypass branson hustle bustle noise crowded breakfast appreciate comfort quiet thankfully didnt tour bus sight", "Date": "2012-04-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Malden, Mo 63863", "Title": "\u201cAwesome!!\u201d", "Author": "misterzip43", "ReviewID": "UR78411222", "Content": "third motel stayed trip st louis ozark mo nicest cleanest friendliest rates quality joe juanita crew nice friendly care family location central lake branson perfect spot enjoyed stay complaints", "Date": "2010-09-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "USA", "Title": "\u201cGreat!\u201d", "Author": "Aaron121", "ReviewID": "UR68752304", "Content": "am surprised reviews am glad family decided stay wonderful stay bit hotel expected didnt google called hotel appologized road signs hwy hadnt hotel process putting receiving directions checkin bit flustered five yearold breakdown erin didnt nap drive cranky owner quickly checked recommendations eat queens plesantly surprised cleanliness beds comfortable towels soft continental breakfast wasnt expecting bob evans meal isnt paid erin loved mini muffins stay travel hello owners erin loved petting", "Date": "2010-06-26 00:00:00"}], "HotelInfo": {"Name": "Econo Lodge Silver Dollar City", "HotelURL": "/ShowUserReviews-g44161-d96620-Reviews-Econo_Lodge_Silver_Dollar_City-Branson_West_Branson_Missouri.html", "Price": "$52 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">State Route 13</span>, <span class=\"locality\"><span property=\"v:locality\">Branson West</span>, <span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65737</span></span> </span></span></address>", "HotelID": "96620", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/3f/65/3f659cd8c436e6ff74abfd8bd9360b383large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bourbon, Missouri",
+      "Title": "\u201cGood Deal for the $\u201d",
+      "Author": "Gail B",
+      "ReviewID": "UR130302468",
+      "Content": "econo lodge experience value price looking fancy resortthis nights sleep friendly helpful proprietors clean people friendlier helpful stay close town close silver dollar city silver dollar city 55 miles 3 miles aware motel wifi access mentioned ad laptop",
+      "Date": "2012-05-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Monroe, Louisiana",
+      "Title": "\u201cWe are repeat customers\u201d",
+      "Author": "cnh624",
+      "ReviewID": "UR128677609",
+      "Content": "quiet location peaceful setting comfortable return clean facility fancy accomdations spending days silver dollar city clean comfortable rest day silver dollar city perfect bypass branson hustle bustle noise crowded breakfast appreciate comfort quiet thankfully didnt tour bus sight",
+      "Date": "2012-04-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Malden, Mo 63863",
+      "Title": "\u201cAwesome!!\u201d",
+      "Author": "misterzip43",
+      "ReviewID": "UR78411222",
+      "Content": "third motel stayed trip st louis ozark mo nicest cleanest friendliest rates quality joe juanita crew nice friendly care family location central lake branson perfect spot enjoyed stay complaints",
+      "Date": "2010-09-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "USA",
+      "Title": "\u201cGreat!\u201d",
+      "Author": "Aaron121",
+      "ReviewID": "UR68752304",
+      "Content": "am surprised reviews am glad family decided stay wonderful stay bit hotel expected didnt google called hotel appologized road signs hwy hadnt hotel process putting receiving directions checkin bit flustered five yearold breakdown erin didnt nap drive cranky owner quickly checked recommendations eat queens plesantly surprised cleanliness beds comfortable towels soft continental breakfast wasnt expecting bob evans meal isnt paid erin loved mini muffins stay travel hello owners erin loved petting",
+      "Date": "2010-06-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Econo Lodge Silver Dollar City",
+    "HotelURL": "/ShowUserReviews-g44161-d96620-Reviews-Econo_Lodge_Silver_Dollar_City-Branson_West_Branson_Missouri.html",
+    "Price": "$52 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">State Route 13</span>, <span class=\"locality\"><span property=\"v:locality\">Branson West</span>, <span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65737</span></span> </span></span></address>",
+    "HotelID": "96620",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/3f/65/3f659cd8c436e6ff74abfd8bd9360b383large.jpg"
+  }
+}

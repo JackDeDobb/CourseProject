@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Buenos Aires", "Title": "\u201cNice stay in May 2012\u201d", "Author": "Marceli", "ReviewID": "UR136758029", "Content": "nice hostal located near gran via puerta del sol plaza mayor walk attractions course subway station close taxi airport easily bus emt express airport plaza de cibeles walk 5 6 blocks hotel simple comfortable stay clean hair dryer 2 morning reception experience actually hair dryer available heat little bit hot cristina girl reception nice issues credit card trying authorize arrival kept reservation helpful anyway nice stay day walking getting madrid rest sleep offers servicethis hotel id recommend definitely de", "Date": "2012-08-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "UK", "Title": "\u201cVery convenient, clean and friendly hostel\u201d", "Author": "SC168", "ReviewID": "UR130889925", "Content": "wife stayed 3 nights walkabout short trip madrid location wise 15 minutes walk royal palace plaza de espana temple debod west 15 minutes retiro park east plenty restaurants cafes nearby 5 minutes clean tidy 13 cosy clean shower aircon strong definitely summer window facing inner noisy image windows facing sqaure noisy christina receptionist owners son speak english friendly overall satisfied recommend hostel considering rate charged location middle madrid ps careful madrid professional pickpockets money calling shop western union street hostel 7 days week rate changing euro", "Date": "2012-05-29 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Brooklyn, New York, United States", "Title": "\u201cSo loud it was nuts!\u201d", "Author": "Bobby F", "ReviewID": "UR128985548", "Content": "am light sleeper am nyc sleep nearly hostel walls encountered honestly ridiculous hear happened hostel night sounds toilets fixed keys night talking phone conversations various guests hours joke noisy walls thin hostel fine otherwise clean central location isnt luxury accommodations expected able nights sleep happen maybe bad caution risking madrid tons options choose actually sleep", "Date": "2012-04-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Ayr, United Kingdom", "Title": "\u201cAs always - welcoming, no fuss and clean\u201d", "Author": "Rugbysw11", "ReviewID": "UR125339912", "Content": "2nd time hostal trip regular spot ideally situated mins walk max 5 gran via station clean informal plenty eat drink nearby reviews information putting standards internetwifi helpful staff comfortable bed quiet nights sleep", "Date": "2012-02-28 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Ayr, United Kingdom", "Title": "\u201cGreat find!\u201d", "Author": "Rugbysw11", "ReviewID": "UR106300197", "Content": "arrived booking internet hotels own website emails answered promptly confirmed double bed request arrival shown straight clean television internet connections bathroom clean functional balcony heating ac worried noice square below window double glazing didnt hear enjoyed 4 nights quality sleep trouble staff", "Date": "2011-05-01 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Portugal", "Title": "\u201cGreat value with perfect location for short stays\u201d", "Author": "ric_mendes", "ReviewID": "UR64760165", "Content": "honest doesnt promise short stay madrid stayed 3 nights complete bathroom cleaned day located central madrid 60 mt metro station gran via foot staff nice strongly recommend negative", "Date": "2010-05-19 00:00:00"}], "HotelInfo": {"Name": "Hostal Vazquez de Mella", "HotelURL": "/ShowUserReviews-g187514-d1228485-Reviews-Hostal_Vazquez_de_Mella-Madrid.html", "Price": "$55 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Plz Vazquez de Mella, 1-3</span>, <span class=\"locality\"><span property=\"v:postal-code\">28004</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "1228485", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ed/b0/edb096b068f8d3140a5cf5fac68ac4ed1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Buenos Aires",
+      "Title": "\u201cNice stay in May 2012\u201d",
+      "Author": "Marceli",
+      "ReviewID": "UR136758029",
+      "Content": "nice hostal located near gran via puerta del sol plaza mayor walk attractions course subway station close taxi airport easily bus emt express airport plaza de cibeles walk 5 6 blocks hotel simple comfortable stay clean hair dryer 2 morning reception experience actually hair dryer available heat little bit hot cristina girl reception nice issues credit card trying authorize arrival kept reservation helpful anyway nice stay day walking getting madrid rest sleep offers servicethis hotel id recommend definitely de",
+      "Date": "2012-08-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "UK",
+      "Title": "\u201cVery convenient, clean and friendly hostel\u201d",
+      "Author": "SC168",
+      "ReviewID": "UR130889925",
+      "Content": "wife stayed 3 nights walkabout short trip madrid location wise 15 minutes walk royal palace plaza de espana temple debod west 15 minutes retiro park east plenty restaurants cafes nearby 5 minutes clean tidy 13 cosy clean shower aircon strong definitely summer window facing inner noisy image windows facing sqaure noisy christina receptionist owners son speak english friendly overall satisfied recommend hostel considering rate charged location middle madrid ps careful madrid professional pickpockets money calling shop western union street hostel 7 days week rate changing euro",
+      "Date": "2012-05-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Brooklyn, New York, United States",
+      "Title": "\u201cSo loud it was nuts!\u201d",
+      "Author": "Bobby F",
+      "ReviewID": "UR128985548",
+      "Content": "am light sleeper am nyc sleep nearly hostel walls encountered honestly ridiculous hear happened hostel night sounds toilets fixed keys night talking phone conversations various guests hours joke noisy walls thin hostel fine otherwise clean central location isnt luxury accommodations expected able nights sleep happen maybe bad caution risking madrid tons options choose actually sleep",
+      "Date": "2012-04-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ayr, United Kingdom",
+      "Title": "\u201cAs always - welcoming, no fuss and clean\u201d",
+      "Author": "Rugbysw11",
+      "ReviewID": "UR125339912",
+      "Content": "2nd time hostal trip regular spot ideally situated mins walk max 5 gran via station clean informal plenty eat drink nearby reviews information putting standards internetwifi helpful staff comfortable bed quiet nights sleep",
+      "Date": "2012-02-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ayr, United Kingdom",
+      "Title": "\u201cGreat find!\u201d",
+      "Author": "Rugbysw11",
+      "ReviewID": "UR106300197",
+      "Content": "arrived booking internet hotels own website emails answered promptly confirmed double bed request arrival shown straight clean television internet connections bathroom clean functional balcony heating ac worried noice square below window double glazing didnt hear enjoyed 4 nights quality sleep trouble staff",
+      "Date": "2011-05-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Portugal",
+      "Title": "\u201cGreat value with perfect location for short stays\u201d",
+      "Author": "ric_mendes",
+      "ReviewID": "UR64760165",
+      "Content": "honest doesnt promise short stay madrid stayed 3 nights complete bathroom cleaned day located central madrid 60 mt metro station gran via foot staff nice strongly recommend negative",
+      "Date": "2010-05-19 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hostal Vazquez de Mella",
+    "HotelURL": "/ShowUserReviews-g187514-d1228485-Reviews-Hostal_Vazquez_de_Mella-Madrid.html",
+    "Price": "$55 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Plz Vazquez de Mella, 1-3</span>, <span class=\"locality\"><span property=\"v:postal-code\">28004</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "1228485",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ed/b0/edb096b068f8d3140a5cf5fac68ac4ed1large.jpg"
+  }
+}

@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cA rather dated hotel but a good one to experience the local neighbourhood\u201d", "Author": "thegohtravellers", "ReviewID": "UR131141678", "Content": "stayed newton inn july 2011 hotel 5min walk mtr northpoint luggage coming mtr station lift faster easier fight stairs endless escalators hotel near ding ding electric tram terminal cheap fun mode transport pictures hong kong streets especially sitting seat upper deck note trams aircon slower travelling mtr trams operate till late mtr checkin hotel fast front desk staff kindly upgraded parents grandparents suite 2 bedrooms easier look suite comes 1 common bathroom bathtub 2 bedrooms nearly impossible doors wardrobe suite comes kitchenette dining sofas normal hand comes comfortable size suite offer harbour view fantastic opt floor swimming pool roof top lift top floor follow signage swimming pool climbing flights stairs hotel located middle market experiencing local life famous egg roll shop near hotel 492 kings road 930am sold 11am locals seen queuing outside shop 8am eateries near hotel including bakery convenience stall located shops street besides shopping mall tai koo mtr stop northpoint thinking shopping kowloon newton inn little located middle market hygiene cause concern smell market hotel lobby luggage pulled watery streets cleanliness topnotched stained carpets bathtub besides hotel aged goes furniture fixtures fittings stay", "Date": "2012-06-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Manila, Philippines", "Title": "\u201cnewton inn, hongkong\u201d", "Author": "Shayne F", "ReviewID": "UR125120942", "Content": "company stayed cheaper decent hotels decent compared hostels hongkong 2 star hotel private toilet bath view spectacular overlooking harbour 25 view night amazing lights harbour bed bit sheets okay hotel close mini train public market 3 blocks mtr station close stores", "Date": "2012-02-24 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Bristol, United Kingdom", "Title": "\u201cGood standard Hotel in Great Location\u201d", "Author": "Mimi_8016", "ReviewID": "UR86378602", "Content": "stayed newton 3 nights enjoyed stay nice clean bathrooms excellent views kowloon especially night staff helpful little curt bit disppointed rooftop swimming pool closed hotel enjoyable stay cheap eat round corner hotel", "Date": "2010-11-08 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cA Little Gem which is easy to miss in a marketplace\u201d", "Author": "Netizen1917", "ReviewID": "UR74550285", "Content": "hotel located marketplace hard locate instance found accessible hotel staff friendly patient bell boy time explain suitable airport shuttle vs hotel limo ive luggages im travelling 6 hotel limo 6 passengers wouldnt luggages", "Date": "2010-08-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Perth, United Kingdom", "Title": "\u201cHad everything we needed. A good choice.\u201d", "Author": "acjkt", "ReviewID": "UR63927212", "Content": "stayed 11 people 5 nights accommodation cheap hong kong searching decided hotel price location arrived aware location hotel literally middle busy market guess people intimidating wasnt disturbing check efficient pleasantly suprised politeness receptionist dealt booking efficiently 10 minutes fairly standard facilities expect bathrooms bath tub shower clean beds hard issue internet cable day didnt mind paying convenience cheaper option internet cafes 5 minutes walk abundance cheap eat hotel bargains found market below meat fish market sometimes bit pungent didnt bother location hong kong island 4 5 minutes walk north station pretty accessible looking reasonable clean stay happily reccomend newton inn north", "Date": "2010-05-12 00:00:00"}], "HotelInfo": {"Name": "Newton Inn North Point Hotel", "HotelURL": "/ShowUserReviews-g294217-d305875-Reviews-Newton_Inn_North_Point_Hotel-Hong_Kong.html", "Price": "$105 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.88 Chun Yeung Street, North Point</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>", "HotelID": "305875", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/cc/db/ccdb32992b792e9d43ece71eb3c2b9011large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cA rather dated hotel but a good one to experience the local neighbourhood\u201d",
+      "Author": "thegohtravellers",
+      "ReviewID": "UR131141678",
+      "Content": "stayed newton inn july 2011 hotel 5min walk mtr northpoint luggage coming mtr station lift faster easier fight stairs endless escalators hotel near ding ding electric tram terminal cheap fun mode transport pictures hong kong streets especially sitting seat upper deck note trams aircon slower travelling mtr trams operate till late mtr checkin hotel fast front desk staff kindly upgraded parents grandparents suite 2 bedrooms easier look suite comes 1 common bathroom bathtub 2 bedrooms nearly impossible doors wardrobe suite comes kitchenette dining sofas normal hand comes comfortable size suite offer harbour view fantastic opt floor swimming pool roof top lift top floor follow signage swimming pool climbing flights stairs hotel located middle market experiencing local life famous egg roll shop near hotel 492 kings road 930am sold 11am locals seen queuing outside shop 8am eateries near hotel including bakery convenience stall located shops street besides shopping mall tai koo mtr stop northpoint thinking shopping kowloon newton inn little located middle market hygiene cause concern smell market hotel lobby luggage pulled watery streets cleanliness topnotched stained carpets bathtub besides hotel aged goes furniture fixtures fittings stay",
+      "Date": "2012-06-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Manila, Philippines",
+      "Title": "\u201cnewton inn, hongkong\u201d",
+      "Author": "Shayne F",
+      "ReviewID": "UR125120942",
+      "Content": "company stayed cheaper decent hotels decent compared hostels hongkong 2 star hotel private toilet bath view spectacular overlooking harbour 25 view night amazing lights harbour bed bit sheets okay hotel close mini train public market 3 blocks mtr station close stores",
+      "Date": "2012-02-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bristol, United Kingdom",
+      "Title": "\u201cGood standard Hotel in Great Location\u201d",
+      "Author": "Mimi_8016",
+      "ReviewID": "UR86378602",
+      "Content": "stayed newton 3 nights enjoyed stay nice clean bathrooms excellent views kowloon especially night staff helpful little curt bit disppointed rooftop swimming pool closed hotel enjoyable stay cheap eat round corner hotel",
+      "Date": "2010-11-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cA Little Gem which is easy to miss in a marketplace\u201d",
+      "Author": "Netizen1917",
+      "ReviewID": "UR74550285",
+      "Content": "hotel located marketplace hard locate instance found accessible hotel staff friendly patient bell boy time explain suitable airport shuttle vs hotel limo ive luggages im travelling 6 hotel limo 6 passengers wouldnt luggages",
+      "Date": "2010-08-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Perth, United Kingdom",
+      "Title": "\u201cHad everything we needed. A good choice.\u201d",
+      "Author": "acjkt",
+      "ReviewID": "UR63927212",
+      "Content": "stayed 11 people 5 nights accommodation cheap hong kong searching decided hotel price location arrived aware location hotel literally middle busy market guess people intimidating wasnt disturbing check efficient pleasantly suprised politeness receptionist dealt booking efficiently 10 minutes fairly standard facilities expect bathrooms bath tub shower clean beds hard issue internet cable day didnt mind paying convenience cheaper option internet cafes 5 minutes walk abundance cheap eat hotel bargains found market below meat fish market sometimes bit pungent didnt bother location hong kong island 4 5 minutes walk north station pretty accessible looking reasonable clean stay happily reccomend newton inn north",
+      "Date": "2010-05-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Newton Inn North Point Hotel",
+    "HotelURL": "/ShowUserReviews-g294217-d305875-Reviews-Newton_Inn_North_Point_Hotel-Hong_Kong.html",
+    "Price": "$105 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.88 Chun Yeung Street, North Point</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>",
+    "HotelID": "305875",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/cc/db/ccdb32992b792e9d43ece71eb3c2b9011large.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cMaking Paris affordable\u201d", "Author": "nlonsasha", "ReviewID": "UR125312515", "Content": "stayed hotel sister mum feb standard theyre definitely cold visited beginning february nice temperature staff helpful especially owner local bus info mum happy found steps metro hard bring own toiletries provided couple satchets affordable nice city paris definitely return recommeded hotel friends", "Date": "2012-02-27 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "UK", "Title": "\u201cFor a 2* City break, this is spot on\u201d", "Author": "GavTravels", "ReviewID": "UR123546771", "Content": "stayed hotel du prince eugene family birthday excursion 2 nights paris hotel catered perfectly placed metro 5 mins straight walk nation station bars shops selling predictably kept immaculately clean designed space convenience party separated 3 floors guest experience arrival receptionist gained directions travel dinner venue service breakfast exactly expected selection pastries cold meats cheese staff providing hot drinks minor niggle towel rail didnt overnight else positive", "Date": "2012-01-24 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Oegstgeest, The Netherlands", "Title": "\u201cNice price, perfect base for a citytrip to Paris\u201d", "Author": "RvDelft", "ReviewID": "UR122454088", "Content": "stayed nights time hotel simple looked nice red clean nice bathroom bath perfectly clean nearby metro station nation direction", "Date": "2012-01-03 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Berlin, Germany", "Title": "\u201cgut\u201d", "Author": "yous G", "ReviewID": "UR120059021", "Content": "clean calm hotel near national nice walk huge metro reach seeings easy guy reception helpful giving tips food clubs evening friendly guy team mixed", "Date": "2011-11-02 00:00:00"}], "HotelInfo": {"Name": "Hotel du Prince Eugene", "HotelURL": "/ShowUserReviews-g187147-d567407-Reviews-Hotel_du_Prince_Eugene-Paris_Ile_de_France.html", "Price": "$105 - $248*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">247 Boulevard Voltaire</span>, <span class=\"locality\"><span property=\"v:postal-code\">75011</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>", "HotelID": "2515293", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/1f/1d/1f1dc8dddd9c4853303719b43e049ad45large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cMaking Paris affordable\u201d",
+      "Author": "nlonsasha",
+      "ReviewID": "UR125312515",
+      "Content": "stayed hotel sister mum feb standard theyre definitely cold visited beginning february nice temperature staff helpful especially owner local bus info mum happy found steps metro hard bring own toiletries provided couple satchets affordable nice city paris definitely return recommeded hotel friends",
+      "Date": "2012-02-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "UK",
+      "Title": "\u201cFor a 2* City break, this is spot on\u201d",
+      "Author": "GavTravels",
+      "ReviewID": "UR123546771",
+      "Content": "stayed hotel du prince eugene family birthday excursion 2 nights paris hotel catered perfectly placed metro 5 mins straight walk nation station bars shops selling predictably kept immaculately clean designed space convenience party separated 3 floors guest experience arrival receptionist gained directions travel dinner venue service breakfast exactly expected selection pastries cold meats cheese staff providing hot drinks minor niggle towel rail didnt overnight else positive",
+      "Date": "2012-01-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Oegstgeest, The Netherlands",
+      "Title": "\u201cNice price, perfect base for a citytrip to Paris\u201d",
+      "Author": "RvDelft",
+      "ReviewID": "UR122454088",
+      "Content": "stayed nights time hotel simple looked nice red clean nice bathroom bath perfectly clean nearby metro station nation direction",
+      "Date": "2012-01-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Berlin, Germany",
+      "Title": "\u201cgut\u201d",
+      "Author": "yous G",
+      "ReviewID": "UR120059021",
+      "Content": "clean calm hotel near national nice walk huge metro reach seeings easy guy reception helpful giving tips food clubs evening friendly guy team mixed",
+      "Date": "2011-11-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel du Prince Eugene",
+    "HotelURL": "/ShowUserReviews-g187147-d567407-Reviews-Hotel_du_Prince_Eugene-Paris_Ile_de_France.html",
+    "Price": "$105 - $248*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">247 Boulevard Voltaire</span>, <span class=\"locality\"><span property=\"v:postal-code\">75011</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>",
+    "HotelID": "2515293",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/1f/1d/1f1dc8dddd9c4853303719b43e049ad45large.jpg"
+  }
+}

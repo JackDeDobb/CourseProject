@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Kitchener, Canada", "Title": "\u201cTotally deceiving\u201d", "Author": "411cari31", "ReviewID": "UR122716956", "Content": "walked disappointment evident partner left hotel booking expectations 3 star hotel lowest class motel bed comfortable clean breakfast basic set basement coffee extremely watery checked day course refund uneasy persons hanging front hotel night arrived wont stay", "Date": "2012-01-07 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Kaplan, Louisiana", "Title": "\u201cDeceiving pictures\u201d", "Author": "Brenda S", "ReviewID": "UR118868900", "Content": "start saying desk extremely friendly helpful ive hotel dumpy air conditioner froze told window closed immediately screen manager nice bring fan furniture cheap bathroom elevator luckily floor flight stairs heavy luggage breakfast closet parking horrible recommend hotel unless desperate", "Date": "2011-10-02 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Montreal, Canada", "Title": "\u201cTerrible hotel to stay ... bad image to show to visitors who visit montreal for the first time !!!!!\u201d", "Author": "dbc155032", "ReviewID": "UR92653936", "Content": "service ok coffee machine tea decor poor equipments sofa bed wall bathroom renovation humidity parking none pay parking street hotel renting hour hour hotel price 6000 night price proper clean stay cost hotels promotions expedia visitors money recommended mistake", "Date": "2011-01-12 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Waterloo, Canada", "Title": "\u201cHas potential ... but not great\u201d", "Author": "Waterloon", "ReviewID": "UR69758287", "Content": "fairly clean location lingering montreal seeing major sites bit main drag montreal unfortunately jazz day weekend prices im told offseason prices affordable hotels 2 queen beds central montreal weekend staff quirky charm creaky european urban hotel breakfast pretty mediocre fairly comfortable clean bit lingering odor smoke orange cleanser bygone era smoking bathroom clean functional nice close plateau neighborhood famous st laurent st denis restaurants funky shops st cat drag montreal youll cab 8 10 parkings minimal reserve spot ahead time options id gladly stay hear ive able options occasion bit odd due jazz fest", "Date": "2010-07-05 00:00:00"}], "HotelInfo": {"Name": "Hotel Plateau Royale", "HotelURL": "/ShowUserReviews-g155032-d676573-Reviews-Hotel_Plateau_Royale-Montreal_Quebec.html", "Price": "$57 - $238*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4555 Avenue du Parc</span>, <span class=\"locality\"><span property=\"v:locality\">Montreal</span>, <span property=\"v:region\">Quebec</span> <span property=\"v:postal-code\">H2V 4E4</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span></span></address>", "HotelID": "676573", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/08/b4/08b4cf490195bee4c1db53452a94acae5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Kitchener, Canada",
+      "Title": "\u201cTotally deceiving\u201d",
+      "Author": "411cari31",
+      "ReviewID": "UR122716956",
+      "Content": "walked disappointment evident partner left hotel booking expectations 3 star hotel lowest class motel bed comfortable clean breakfast basic set basement coffee extremely watery checked day course refund uneasy persons hanging front hotel night arrived wont stay",
+      "Date": "2012-01-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Kaplan, Louisiana",
+      "Title": "\u201cDeceiving pictures\u201d",
+      "Author": "Brenda S",
+      "ReviewID": "UR118868900",
+      "Content": "start saying desk extremely friendly helpful ive hotel dumpy air conditioner froze told window closed immediately screen manager nice bring fan furniture cheap bathroom elevator luckily floor flight stairs heavy luggage breakfast closet parking horrible recommend hotel unless desperate",
+      "Date": "2011-10-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Montreal, Canada",
+      "Title": "\u201cTerrible hotel to stay ... bad image to show to visitors who visit montreal for the first time !!!!!\u201d",
+      "Author": "dbc155032",
+      "ReviewID": "UR92653936",
+      "Content": "service ok coffee machine tea decor poor equipments sofa bed wall bathroom renovation humidity parking none pay parking street hotel renting hour hour hotel price 6000 night price proper clean stay cost hotels promotions expedia visitors money recommended mistake",
+      "Date": "2011-01-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Waterloo, Canada",
+      "Title": "\u201cHas potential ... but not great\u201d",
+      "Author": "Waterloon",
+      "ReviewID": "UR69758287",
+      "Content": "fairly clean location lingering montreal seeing major sites bit main drag montreal unfortunately jazz day weekend prices im told offseason prices affordable hotels 2 queen beds central montreal weekend staff quirky charm creaky european urban hotel breakfast pretty mediocre fairly comfortable clean bit lingering odor smoke orange cleanser bygone era smoking bathroom clean functional nice close plateau neighborhood famous st laurent st denis restaurants funky shops st cat drag montreal youll cab 8 10 parkings minimal reserve spot ahead time options id gladly stay hear ive able options occasion bit odd due jazz fest",
+      "Date": "2010-07-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Plateau Royale",
+    "HotelURL": "/ShowUserReviews-g155032-d676573-Reviews-Hotel_Plateau_Royale-Montreal_Quebec.html",
+    "Price": "$57 - $238*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4555 Avenue du Parc</span>, <span class=\"locality\"><span property=\"v:locality\">Montreal</span>, <span property=\"v:region\">Quebec</span> <span property=\"v:postal-code\">H2V 4E4</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span></span></address>",
+    "HotelID": "676573",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/08/b4/08b4cf490195bee4c1db53452a94acae5large.jpg"
+  }
+}

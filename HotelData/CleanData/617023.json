@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Nairobi, Kenya", "Title": "\u201cloved it\u201d", "Author": "bridgitndinda", "ReviewID": "UR125791035", "Content": "bit adamant negative reviews decided company book 2 week business stay flight delayed day late reservation warmly welcomed breakfast buffet variety amazing foods eat dinner hotel suppose amazing bars inside hotel makes start party animal heard noices reviewers complaining located 10 mins terminal 15 terminal convinient easy hail taxi outside hotel spotless clean swimming pool bit ok furnished gym facility sauna spend evenings reccomend hotel dubai definatly staying oh metro outside hotel ride", "Date": "2012-03-08 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Dubai", "Title": "\u201cGreat budget hotel with nearby facilities\u201d", "Author": "Thai4Ever", "ReviewID": "UR123606824", "Content": "hotel located al rigga street main road lots restaurants till late night al metro station walking distance taxi easily hailed outside hotel clean maintained flat screen tv bathtub ac etc definitely recommend budget travellers", "Date": "2012-01-25 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": ", United KingdomBournemouth", "Title": "\u201cVery basic and bad service\u201d", "Author": "Tojamul", "ReviewID": "UR90140074", "Content": "pictures stayed 7 nights cleanliness food service size hotel upto standard 3 star hotel purely opinion fitness centre basic facilities 2 jogging machines dumbells bench press positive location quick taxi ride own agents proved useful desert safari boat ride burj tour guide recommended pricey", "Date": "2010-12-18 00:00:00"}], "HotelInfo": {"Name": "Fortune Hotel", "HotelURL": "/ShowUserReviews-g295424-d617023-Reviews-Fortune_Hotel-Dubai.html", "Price": "$73 - $149*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Al Rigga Road</span> | <span class=\"extended-address\">PO Box 49185</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "617023", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/98/97/9897b8363b09e337787b2c3fe76525622large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Nairobi, Kenya",
+      "Title": "\u201cloved it\u201d",
+      "Author": "bridgitndinda",
+      "ReviewID": "UR125791035",
+      "Content": "bit adamant negative reviews decided company book 2 week business stay flight delayed day late reservation warmly welcomed breakfast buffet variety amazing foods eat dinner hotel suppose amazing bars inside hotel makes start party animal heard noices reviewers complaining located 10 mins terminal 15 terminal convinient easy hail taxi outside hotel spotless clean swimming pool bit ok furnished gym facility sauna spend evenings reccomend hotel dubai definatly staying oh metro outside hotel ride",
+      "Date": "2012-03-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dubai",
+      "Title": "\u201cGreat budget hotel with nearby facilities\u201d",
+      "Author": "Thai4Ever",
+      "ReviewID": "UR123606824",
+      "Content": "hotel located al rigga street main road lots restaurants till late night al metro station walking distance taxi easily hailed outside hotel clean maintained flat screen tv bathtub ac etc definitely recommend budget travellers",
+      "Date": "2012-01-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": ", United KingdomBournemouth",
+      "Title": "\u201cVery basic and bad service\u201d",
+      "Author": "Tojamul",
+      "ReviewID": "UR90140074",
+      "Content": "pictures stayed 7 nights cleanliness food service size hotel upto standard 3 star hotel purely opinion fitness centre basic facilities 2 jogging machines dumbells bench press positive location quick taxi ride own agents proved useful desert safari boat ride burj tour guide recommended pricey",
+      "Date": "2010-12-18 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Fortune Hotel",
+    "HotelURL": "/ShowUserReviews-g295424-d617023-Reviews-Fortune_Hotel-Dubai.html",
+    "Price": "$73 - $149*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Al Rigga Road</span> | <span class=\"extended-address\">PO Box 49185</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "617023",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/98/97/9897b8363b09e337787b2c3fe76525622large.jpg"
+  }
+}

@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Moscow, Russia", "Title": "\u201cReally worth it\u201d", "Author": "Maryana D", "ReviewID": "UR128540164", "Content": "hotel 10 sleep night hotel quiet simple cozy tea pot hot water tv located doesnt noise lived regretted hadnt seen booking", "Date": "2012-04-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "zagreb", "Title": "\u201cNice staff\u201d", "Author": "djeki", "ReviewID": "UR128159264", "Content": "serenity situated close attractions city centre nice hotel staying petite cosy stomach poisoning day stay lie fewer cramps stuff super nice stay extra charge day checked nice breakfast nice terrace day pick istanbul expensive days prices 5 ago city stay hotel wasnt price worth stuff compensates", "Date": "2012-04-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "New York City, New York", "Title": "\u201ccannot recommend this hotel highly enough.\u201d", "Author": "hallowman m", "ReviewID": "UR127693682", "Content": "visit istanbul seen serenity hotel online booked direct meaning free airport transfer fantastic hotel lovely staff helpful reception brilliant friendly helpful helped holiday hotel fantastic lucky stay penthouse views bosphorous amazing roof terrace warmer weather perfect visit summer loved istanbul amazing historical city cant wait visit 4 days wasnt definitely visiting serenity hotel recommend hotel highly", "Date": "2012-04-11 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Salamanca, Castilla y Leon, Spain", "Title": "\u201cShort stopover in Istanbul\u201d", "Author": "CDMalano", "ReviewID": "UR126637035", "Content": "extending simple stopover istanbul twonight stay stay access internet research friend recommended serenity staying reservations doing recommending staff friendly helpful welcomed return excusion etc hotel located minutes blue mosque words close attractions calm corner neighbourhood beds comfortable toilets clean aspect nice stay", "Date": "2012-03-25 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "California", "Title": "\u201cLocation, location, location\u201d", "Author": "Middle_Aged_Guy", "ReviewID": "UR91642912", "Content": "stayed hotel twice package tour impression arrived night hotel negative 14 dark street comfortable found comfortable reasonably sized daylight bearings found hotel 5 minutes walk blue mosque short walk main istanbul tourist hagia sophia topkapi palace grand bazaar skip taking city tour stay hotel walk sights yourself close walk restaurants groceries hotel street advantage dont road street noise hotels main street travel advice door bell hop concierge hotel stay floor street view third floor larger roof top view bosphorus basis am giving hotel 4 stars couple hints stay hotel bring hotel business card help tell taxi driver hotel hotel people dont bring bar soap buy store close hotel free slippers soap complaint luxury hotel bargain hotel unbeatable location", "Date": "2011-01-04 00:00:00"}], "HotelInfo": {"Name": "Serenity Hotel Istanbul", "HotelURL": "/ShowUserReviews-g293974-d1862998-Reviews-Serenity_Hotel_Istanbul-Istanbul.html", "Price": "$71 - $110*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kucukayasofya mahallesi Kasaposman sokak no 27</span> | <span class=\"extended-address\">Sultanahmet</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34122</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "1862998", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/a1/8f/da/serenity-hotel-istanbul.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Moscow, Russia",
+      "Title": "\u201cReally worth it\u201d",
+      "Author": "Maryana D",
+      "ReviewID": "UR128540164",
+      "Content": "hotel 10 sleep night hotel quiet simple cozy tea pot hot water tv located doesnt noise lived regretted hadnt seen booking",
+      "Date": "2012-04-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "zagreb",
+      "Title": "\u201cNice staff\u201d",
+      "Author": "djeki",
+      "ReviewID": "UR128159264",
+      "Content": "serenity situated close attractions city centre nice hotel staying petite cosy stomach poisoning day stay lie fewer cramps stuff super nice stay extra charge day checked nice breakfast nice terrace day pick istanbul expensive days prices 5 ago city stay hotel wasnt price worth stuff compensates",
+      "Date": "2012-04-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201ccannot recommend this hotel highly enough.\u201d",
+      "Author": "hallowman m",
+      "ReviewID": "UR127693682",
+      "Content": "visit istanbul seen serenity hotel online booked direct meaning free airport transfer fantastic hotel lovely staff helpful reception brilliant friendly helpful helped holiday hotel fantastic lucky stay penthouse views bosphorous amazing roof terrace warmer weather perfect visit summer loved istanbul amazing historical city cant wait visit 4 days wasnt definitely visiting serenity hotel recommend hotel highly",
+      "Date": "2012-04-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Salamanca, Castilla y Leon, Spain",
+      "Title": "\u201cShort stopover in Istanbul\u201d",
+      "Author": "CDMalano",
+      "ReviewID": "UR126637035",
+      "Content": "extending simple stopover istanbul twonight stay stay access internet research friend recommended serenity staying reservations doing recommending staff friendly helpful welcomed return excusion etc hotel located minutes blue mosque words close attractions calm corner neighbourhood beds comfortable toilets clean aspect nice stay",
+      "Date": "2012-03-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "California",
+      "Title": "\u201cLocation, location, location\u201d",
+      "Author": "Middle_Aged_Guy",
+      "ReviewID": "UR91642912",
+      "Content": "stayed hotel twice package tour impression arrived night hotel negative 14 dark street comfortable found comfortable reasonably sized daylight bearings found hotel 5 minutes walk blue mosque short walk main istanbul tourist hagia sophia topkapi palace grand bazaar skip taking city tour stay hotel walk sights yourself close walk restaurants groceries hotel street advantage dont road street noise hotels main street travel advice door bell hop concierge hotel stay floor street view third floor larger roof top view bosphorus basis am giving hotel 4 stars couple hints stay hotel bring hotel business card help tell taxi driver hotel hotel people dont bring bar soap buy store close hotel free slippers soap complaint luxury hotel bargain hotel unbeatable location",
+      "Date": "2011-01-04 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Serenity Hotel Istanbul",
+    "HotelURL": "/ShowUserReviews-g293974-d1862998-Reviews-Serenity_Hotel_Istanbul-Istanbul.html",
+    "Price": "$71 - $110*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kucukayasofya mahallesi Kasaposman sokak no 27</span> | <span class=\"extended-address\">Sultanahmet</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34122</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "1862998",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/a1/8f/da/serenity-hotel-istanbul.jpg"
+  }
+}

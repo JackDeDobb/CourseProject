@@ -1,1 +1,165 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "D\u00c3\u00bcsseldorf", "Title": "\u201cGreat Place with nice people\u201d", "Author": "Typvonnebenan", "ReviewID": "UR128261588", "Content": "directly bosphorus extremely nice view due amount beeing guests peolple friendly helpful tip stay night special breakfast otherwise bring plate varieties day bit boring downside definitely aircon everytime stayed extremely warm tip check upgrade difference tiny rooftop normal hughe completely change holiday experience regarding view balcony bosphorus time basically wall building front windows", "Date": "2012-04-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Khartoum, Sudan", "Title": "\u201cWatching the ships go by and eating fresh fish\u201d", "Author": "Laura B", "ReviewID": "UR128166124", "Content": "hotel delightful location asian feels real sultanahmet obviously sightseeing apart boat trips harder restaurants particular service value hotel little seafront square range fish restaurants hotel breakfasts highlight course ships past window watch hours dot com wellappointed luxurious staff lovely", "Date": "2012-04-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Rickmansworth, United Kingdom", "Title": "\u201cLovely staff, Beautiful Hotel, Amazing views\u201d", "Author": "caroline m", "ReviewID": "UR127419017", "Content": "loved hotel staff lovely minute arrived deluxe bosphorus view lovely real attention detail telephone views bosphorus wonderful trouble staff followed receptionist advice ferry european hesitation recommending hotel time return", "Date": "2012-04-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Antalya, Turkey", "Title": "\u201cGreat Honeymoon Hotel By The Bridge\u201d", "Author": "captainergun", "ReviewID": "UR126550409", "Content": "stayed hotel wedding party istanbul highlights stay stunning view bosphorus breakfast service decoration hotel windows cleaned stay bosphorus hotel palace defineatly suits", "Date": "2012-03-23 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Rome, Italy", "Title": "\u201cHappyAsLarry\u201d", "Author": "Kees L", "ReviewID": "UR121080977", "Content": "stayed bosphorus palace 2 nights people reception friendly fantastic magic sit windows ships passing table dining enchanting spot looking porch boat launching dinner breakfasts excellent staff friendly welcome istanbul bosphorus palace", "Date": "2011-11-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Tel Aviv, Israel", "Title": "\u201cMixed emotions\u201d", "Author": "aeilat", "ReviewID": "UR120545890", "Content": "stayed 2 nights service ok ac bed hard mosque nearby noise wrong time vey nice comfortable mosque location nice business asian nice walk nearby restaurants views nice excellent breakfast", "Date": "2011-11-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "LONDON ENGLAND", "Title": "\u201cCHARMING, SMALL AND VERY COMFORTABLE\u201d", "Author": "marvthemarv", "ReviewID": "UR118598648", "Content": "previously spent time istanbul bride wedding invited stay told hotel near venue comfortable couple nights easy understand previously palace rich individual overlooking bosphorus adequately furnished sort 1930s light bright bathroom arrived late restaurant fine light meal pleasure hours delay airport nightmare istanbuls traffic eight nine breakfast buffet adequate opposed lavish individual requests pleasantly complied desk staff helpful apart morning call prayer nearby mosque suggest wishes stay asian ferry bosphorus grand bazaar ten minute 10tl cab ride", "Date": "2011-09-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "West Malling", "Title": "\u201cLovely Hotel - little far from the main sites.\u201d", "Author": "CCastleWestMalling", "ReviewID": "UR108315436", "Content": "lovely luxury hotel banks bosphorus gorgeous views comfortable little main sites city trip istanbul probably staying youre sightseeing shopping perfect relax lovely fish restaurants round corner spectacular views bosphorus", "Date": "2011-05-15 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Istanbul, Turkey", "Title": "\u201cA Fairytale by the Bosphorus\u201d", "Author": "Taslardan", "ReviewID": "UR104441963", "Content": "pleasure spending 34th birthday bosphorus palace hotel perfect choice newly renovated asian bosphorus serenity style luxury feel queen sending chocolates birthday cakes upgraded hotel employees true feel special enjoy beauty spend night rested week incredible experience indeed highly recommended", "Date": "2011-04-18 00:00:00"}], "HotelInfo": {"Name": "Bosphorus Palace", "HotelURL": "/ShowUserReviews-g293974-d295482-Reviews-Bosphorus_Palace-Istanbul.html", "Price": "$224 - $942*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Yaliboyu Cad 64</span> | <span class=\"extended-address\">Beylerbeyi</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34676</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "295482", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ce/f6/cef65a4e426057af0eb6dd895f2416053large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "D\u00c3\u00bcsseldorf",
+      "Title": "\u201cGreat Place with nice people\u201d",
+      "Author": "Typvonnebenan",
+      "ReviewID": "UR128261588",
+      "Content": "directly bosphorus extremely nice view due amount beeing guests peolple friendly helpful tip stay night special breakfast otherwise bring plate varieties day bit boring downside definitely aircon everytime stayed extremely warm tip check upgrade difference tiny rooftop normal hughe completely change holiday experience regarding view balcony bosphorus time basically wall building front windows",
+      "Date": "2012-04-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Khartoum, Sudan",
+      "Title": "\u201cWatching the ships go by and eating fresh fish\u201d",
+      "Author": "Laura B",
+      "ReviewID": "UR128166124",
+      "Content": "hotel delightful location asian feels real sultanahmet obviously sightseeing apart boat trips harder restaurants particular service value hotel little seafront square range fish restaurants hotel breakfasts highlight course ships past window watch hours dot com wellappointed luxurious staff lovely",
+      "Date": "2012-04-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Rickmansworth, United Kingdom",
+      "Title": "\u201cLovely staff, Beautiful Hotel, Amazing views\u201d",
+      "Author": "caroline m",
+      "ReviewID": "UR127419017",
+      "Content": "loved hotel staff lovely minute arrived deluxe bosphorus view lovely real attention detail telephone views bosphorus wonderful trouble staff followed receptionist advice ferry european hesitation recommending hotel time return",
+      "Date": "2012-04-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Antalya, Turkey",
+      "Title": "\u201cGreat Honeymoon Hotel By The Bridge\u201d",
+      "Author": "captainergun",
+      "ReviewID": "UR126550409",
+      "Content": "stayed hotel wedding party istanbul highlights stay stunning view bosphorus breakfast service decoration hotel windows cleaned stay bosphorus hotel palace defineatly suits",
+      "Date": "2012-03-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rome, Italy",
+      "Title": "\u201cHappyAsLarry\u201d",
+      "Author": "Kees L",
+      "ReviewID": "UR121080977",
+      "Content": "stayed bosphorus palace 2 nights people reception friendly fantastic magic sit windows ships passing table dining enchanting spot looking porch boat launching dinner breakfasts excellent staff friendly welcome istanbul bosphorus palace",
+      "Date": "2011-11-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Tel Aviv, Israel",
+      "Title": "\u201cMixed emotions\u201d",
+      "Author": "aeilat",
+      "ReviewID": "UR120545890",
+      "Content": "stayed 2 nights service ok ac bed hard mosque nearby noise wrong time vey nice comfortable mosque location nice business asian nice walk nearby restaurants views nice excellent breakfast",
+      "Date": "2011-11-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "LONDON ENGLAND",
+      "Title": "\u201cCHARMING, SMALL AND VERY COMFORTABLE\u201d",
+      "Author": "marvthemarv",
+      "ReviewID": "UR118598648",
+      "Content": "previously spent time istanbul bride wedding invited stay told hotel near venue comfortable couple nights easy understand previously palace rich individual overlooking bosphorus adequately furnished sort 1930s light bright bathroom arrived late restaurant fine light meal pleasure hours delay airport nightmare istanbuls traffic eight nine breakfast buffet adequate opposed lavish individual requests pleasantly complied desk staff helpful apart morning call prayer nearby mosque suggest wishes stay asian ferry bosphorus grand bazaar ten minute 10tl cab ride",
+      "Date": "2011-09-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "West Malling",
+      "Title": "\u201cLovely Hotel - little far from the main sites.\u201d",
+      "Author": "CCastleWestMalling",
+      "ReviewID": "UR108315436",
+      "Content": "lovely luxury hotel banks bosphorus gorgeous views comfortable little main sites city trip istanbul probably staying youre sightseeing shopping perfect relax lovely fish restaurants round corner spectacular views bosphorus",
+      "Date": "2011-05-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Istanbul, Turkey",
+      "Title": "\u201cA Fairytale by the Bosphorus\u201d",
+      "Author": "Taslardan",
+      "ReviewID": "UR104441963",
+      "Content": "pleasure spending 34th birthday bosphorus palace hotel perfect choice newly renovated asian bosphorus serenity style luxury feel queen sending chocolates birthday cakes upgraded hotel employees true feel special enjoy beauty spend night rested week incredible experience indeed highly recommended",
+      "Date": "2011-04-18 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Bosphorus Palace",
+    "HotelURL": "/ShowUserReviews-g293974-d295482-Reviews-Bosphorus_Palace-Istanbul.html",
+    "Price": "$224 - $942*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Yaliboyu Cad 64</span> | <span class=\"extended-address\">Beylerbeyi</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34676</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "295482",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ce/f6/cef65a4e426057af0eb6dd895f2416053large.jpg"
+  }
+}

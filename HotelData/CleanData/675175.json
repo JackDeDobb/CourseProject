@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "", "Title": "\u201cA nice little hotel with a good service\u201d", "Author": "Posted by an Easytobook.com traveler", "ReviewID": "UR127993753", "Content": "nice little hotel helpful service team clean quality price easy reach connected centre rome nights located quiet 10 minutes trip tram bus termini station hot water boiler happen visit surely stay", "Date": "2012-04-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cSensible Hotel\u201d", "Author": "Mark E", "ReviewID": "UR126539278", "Content": "little budget hotel hotel clean adequate close frequent trams buses 20 minute walk nearest metro weekend nearby via del lively restaurants bars food worth stay", "Date": "2012-03-23 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Bucharest, Romania", "Title": "\u201cAn Honest Opinion\u201d", "Author": "LCezar", "ReviewID": "UR102136063", "Content": "location pro located relatively close 2 metro lines 200m nearest bus tram stationthe stations called tram 6 stations termini 105 termini 5 stations tram ground time travel hotel termini aprox 15 min con located looks bit dodgy shopsthe walls filled grafitti doesnt bother quiet opinion safethe police station 300 hotel hotel pro hotel cleanit 4 stories fancy hotel free wifi free internet pc user name password con people hotel bit stayed triple pro comfortable staythere lcd tv roomthe basically clean tidythe ac sun bathroom hot water cleanthere mini fridge water pay con safe deposit box roomthe tv hasnt international channels music food breakfast 730 1000 eat breakfast 4th surrounded 3 windows maximum capacity 50 staff friendly lady concierge spoke english conclusion 30 euro breakfast included pretty goodwe didnt problemsthe staff hotel cleani thumbs price range close termini hope helps", "Date": "2011-03-30 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Bristol", "Title": "\u201cOk basically\u201d", "Author": "binklebonk", "ReviewID": "UR82474428", "Content": "3 stars wont shower world job friendly helpful desk person stayed cheapest single clean shower curtain door avoid flooding biggie breakfast top enclosed terrace toast plastic packet tram road main transport hub termini jammed commuters wait termini punch ticket machine tram termini security check tram termini stops time 11pm found taxi time expensive 22 euros kms walk tram 1 euro tickets bus news google earth tram line wont info tram stop hotel called 2 stops termini pretty close walk havent rome", "Date": "2010-10-07 00:00:00"}], "HotelInfo": {"Name": "Hotel Antico Acquedotto", "HotelURL": "/ShowUserReviews-g187791-d675175-Reviews-Hotel_Antico_Acquedotto-Rome_Lazio.html", "Price": "$65 - $146*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via di Villa Serventi 9</span>, <span class=\"locality\"><span property=\"v:postal-code\">00176</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "675175", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/da/32/da32fa1d64198b155b60df21e16444517large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cA nice little hotel with a good service\u201d",
+      "Author": "Posted by an Easytobook.com traveler",
+      "ReviewID": "UR127993753",
+      "Content": "nice little hotel helpful service team clean quality price easy reach connected centre rome nights located quiet 10 minutes trip tram bus termini station hot water boiler happen visit surely stay",
+      "Date": "2012-04-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cSensible Hotel\u201d",
+      "Author": "Mark E",
+      "ReviewID": "UR126539278",
+      "Content": "little budget hotel hotel clean adequate close frequent trams buses 20 minute walk nearest metro weekend nearby via del lively restaurants bars food worth stay",
+      "Date": "2012-03-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Bucharest, Romania",
+      "Title": "\u201cAn Honest Opinion\u201d",
+      "Author": "LCezar",
+      "ReviewID": "UR102136063",
+      "Content": "location pro located relatively close 2 metro lines 200m nearest bus tram stationthe stations called tram 6 stations termini 105 termini 5 stations tram ground time travel hotel termini aprox 15 min con located looks bit dodgy shopsthe walls filled grafitti doesnt bother quiet opinion safethe police station 300 hotel hotel pro hotel cleanit 4 stories fancy hotel free wifi free internet pc user name password con people hotel bit stayed triple pro comfortable staythere lcd tv roomthe basically clean tidythe ac sun bathroom hot water cleanthere mini fridge water pay con safe deposit box roomthe tv hasnt international channels music food breakfast 730 1000 eat breakfast 4th surrounded 3 windows maximum capacity 50 staff friendly lady concierge spoke english conclusion 30 euro breakfast included pretty goodwe didnt problemsthe staff hotel cleani thumbs price range close termini hope helps",
+      "Date": "2011-03-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Bristol",
+      "Title": "\u201cOk basically\u201d",
+      "Author": "binklebonk",
+      "ReviewID": "UR82474428",
+      "Content": "3 stars wont shower world job friendly helpful desk person stayed cheapest single clean shower curtain door avoid flooding biggie breakfast top enclosed terrace toast plastic packet tram road main transport hub termini jammed commuters wait termini punch ticket machine tram termini security check tram termini stops time 11pm found taxi time expensive 22 euros kms walk tram 1 euro tickets bus news google earth tram line wont info tram stop hotel called 2 stops termini pretty close walk havent rome",
+      "Date": "2010-10-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Antico Acquedotto",
+    "HotelURL": "/ShowUserReviews-g187791-d675175-Reviews-Hotel_Antico_Acquedotto-Rome_Lazio.html",
+    "Price": "$65 - $146*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via di Villa Serventi 9</span>, <span class=\"locality\"><span property=\"v:postal-code\">00176</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "675175",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/da/32/da32fa1d64198b155b60df21e16444517large.jpg"
+  }
+}

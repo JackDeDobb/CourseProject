@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "", "Title": "\u201cOld Review But Worth a Mention\u201d", "Author": "Rsjones1", "ReviewID": "UR121060669", "Content": "stayed hotel 2008 offer review site look recent reviews changed hotel little metro station walk maybe 15 mins hotel western expect cleanness basic facilities nice little restaurant hotel owned hotel basic stuff tv en suite bed comfortable staff helpful recommend hotel people centrally located hotel", "Date": "2011-11-26 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Seattle, Washington", "Title": "\u201cNot Like the Website Advertises\u201d", "Author": "Angear77", "ReviewID": "UR89183266", "Content": "hotel website contemporary modern neat location extremely inconvenient central berlin trams bus hour bus constantly late doesnt run past 12am smelled musty chairs stained breakfast expensive mediocre cold eggs bacon pasta dinner send undercooked crunchy left item bill offered shot declined item removed bill obliged althoug shold overall dissapointed stay nor recommend", "Date": "2010-12-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Ogre", "Title": "\u201cGood choice for budget travelers\u201d", "Author": "Eisaksrx", "ReviewID": "UR88160518", "Content": "choosed hotel loyalty programmes cheap option possibility western rewards sas checked registered positive surprice easy accessible bus nr 171 directly schonefeld airport bus station bus metro travel center city hotel looks \u2013 clean perfect staff satisfied", "Date": "2010-11-25 00:00:00"}], "HotelInfo": {"Name": "Leonardo Hotel Berlin City Sud", "HotelURL": "/ShowUserReviews-g187323-d199433-Reviews-Leonardo_Hotel_Berlin_City_Sud-Berlin.html", "Price": "$55 - $108*", "Address": "<div class=\"amenFloat\">", "HotelID": "199433", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/3d/57/3d57178771f1e588a286d4a0c8b978a65large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cOld Review But Worth a Mention\u201d",
+      "Author": "Rsjones1",
+      "ReviewID": "UR121060669",
+      "Content": "stayed hotel 2008 offer review site look recent reviews changed hotel little metro station walk maybe 15 mins hotel western expect cleanness basic facilities nice little restaurant hotel owned hotel basic stuff tv en suite bed comfortable staff helpful recommend hotel people centrally located hotel",
+      "Date": "2011-11-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Seattle, Washington",
+      "Title": "\u201cNot Like the Website Advertises\u201d",
+      "Author": "Angear77",
+      "ReviewID": "UR89183266",
+      "Content": "hotel website contemporary modern neat location extremely inconvenient central berlin trams bus hour bus constantly late doesnt run past 12am smelled musty chairs stained breakfast expensive mediocre cold eggs bacon pasta dinner send undercooked crunchy left item bill offered shot declined item removed bill obliged althoug shold overall dissapointed stay nor recommend",
+      "Date": "2010-12-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Ogre",
+      "Title": "\u201cGood choice for budget travelers\u201d",
+      "Author": "Eisaksrx",
+      "ReviewID": "UR88160518",
+      "Content": "choosed hotel loyalty programmes cheap option possibility western rewards sas checked registered positive surprice easy accessible bus nr 171 directly schonefeld airport bus station bus metro travel center city hotel looks \u2013 clean perfect staff satisfied",
+      "Date": "2010-11-25 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Leonardo Hotel Berlin City Sud",
+    "HotelURL": "/ShowUserReviews-g187323-d199433-Reviews-Leonardo_Hotel_Berlin_City_Sud-Berlin.html",
+    "Price": "$55 - $108*",
+    "Address": "<div class=\"amenFloat\">",
+    "HotelID": "199433",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/3d/57/3d57178771f1e588a286d4a0c8b978a65large.jpg"
+  }
+}

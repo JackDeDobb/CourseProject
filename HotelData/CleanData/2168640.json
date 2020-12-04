@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Portland, Oregon", "Title": "\u201cnice location and great hospitality\u201d", "Author": "Murat_Demirci", "ReviewID": "UR123307545", "Content": "location heart distance tourist spots transportationthe breakfast served terrace awsome viewthe smelling fresh guy reception told hotel begining couple months staff forward visit agin", "Date": "2012-01-19 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "corfu", "Title": "\u201cVery clean, very good location\u201d", "Author": "anmarcorfu", "ReviewID": "UR121042361", "Content": "hotelclean stylish bigbut istanbul rest hours stay hotel location perfect 50 tram 200 grand baazar 10 minutes walk ayia sofia blue mosque top capi street friendly staf metin nice minor coridor times noisy afternoon siesta found prices 65 euros price stay", "Date": "2011-11-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Algiers, Algeria", "Title": "\u201cVery good hotel\u201d", "Author": "Mido2003", "ReviewID": "UR118710081", "Content": "time hotel ve stayed days location sultan ahmet areavery close tram market tourist historic reach aeroport via bed hotel breakfast size extra luggage service perfect", "Date": "2011-09-28 00:00:00"}], "HotelInfo": {"Name": "Salinas Istanbul Boutique Hotel", "HotelURL": "/ShowUserReviews-g293974-d2168640-Reviews-Salinas_Istanbul_Boutique_Hotel-Istanbul.html", "Price": "$92 - $171*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Mithatpasa Cad. Buyuk Haydar Efendi Sok. no:26</span> | <span class=\"extended-address\">Beyazit</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34400</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "2168640", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/ea/9c/49/standart-room.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Portland, Oregon",
+      "Title": "\u201cnice location and great hospitality\u201d",
+      "Author": "Murat_Demirci",
+      "ReviewID": "UR123307545",
+      "Content": "location heart distance tourist spots transportationthe breakfast served terrace awsome viewthe smelling fresh guy reception told hotel begining couple months staff forward visit agin",
+      "Date": "2012-01-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "corfu",
+      "Title": "\u201cVery clean, very good location\u201d",
+      "Author": "anmarcorfu",
+      "ReviewID": "UR121042361",
+      "Content": "hotelclean stylish bigbut istanbul rest hours stay hotel location perfect 50 tram 200 grand baazar 10 minutes walk ayia sofia blue mosque top capi street friendly staf metin nice minor coridor times noisy afternoon siesta found prices 65 euros price stay",
+      "Date": "2011-11-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Algiers, Algeria",
+      "Title": "\u201cVery good hotel\u201d",
+      "Author": "Mido2003",
+      "ReviewID": "UR118710081",
+      "Content": "time hotel ve stayed days location sultan ahmet areavery close tram market tourist historic reach aeroport via bed hotel breakfast size extra luggage service perfect",
+      "Date": "2011-09-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Salinas Istanbul Boutique Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d2168640-Reviews-Salinas_Istanbul_Boutique_Hotel-Istanbul.html",
+    "Price": "$92 - $171*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Mithatpasa Cad. Buyuk Haydar Efendi Sok. no:26</span> | <span class=\"extended-address\">Beyazit</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34400</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "2168640",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/ea/9c/49/standart-room.jpg"
+  }
+}

@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Washington DC, District of Columbia", "Title": "\u201cWorst Hotel In Dubai\u201d", "Author": "ITRAVEL202", "ReviewID": "UR124353492", "Content": "check interrogated hotel staff bringing person customer service existent hotel overpriced size neighborhood free internet tv set size calculator wall stay left feeling robbed money", "Date": "2012-02-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "west yorkshire", "Title": "\u201cGood Vacations in Duabi\u201d", "Author": "SAB723", "ReviewID": "UR122112708", "Content": "nice location close metro train station shops food 6th floor floor nice comfortable facilities yes hotel 2 clubs guests lower floors disturbed noise value money yes staff helpful", "Date": "2011-12-26 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Muscat, Oman", "Title": "\u201cTHIS HOTEL STOLE MONEY FROM MY ACCOUNT\u201d", "Author": "Steve W", "ReviewID": "UR121761265", "Content": "worst hotel stayed life firstly blocking card assured cancelled checked returned home noticed deducted funds form account 2 months ago refusing hotel absolute disgrace round 3 4 night clubs 4 morning hotel 6 floors unless 6th floor hotel able sleep due sound nightclubs staff particularly hotel manager rude aggressive wife breakfast buffet terrible sheets filthy strongly recomend avoid hotel costs", "Date": "2011-12-15 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Tbilisi, Georgia", "Title": "\u201cIt's like house of prostitution\u201d", "Author": "AtoZge", "ReviewID": "UR100172642", "Content": "2 day trip dubai city booked hotel located arrived vision hotel changed 3 am people running inside hotel walking laughing kissing theses 2 night clubs closed hotel management change image otherwise house prostitution", "Date": "2011-03-14 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Ardabil, Iran", "Title": "\u201cLess Than 3 Stars!\u201d", "Author": "elyar", "ReviewID": "UR97155920", "Content": "expectations hotel am staying minimum basic facilities satisfy hotel expecting maybe hotel location 5 min walk metro station hotels nearby advantage amount money paid hotel stay hotels dubai floor hear noises arabic night club till 3 am sometimes sleep slippers bathroom safe internet connection wireless free worst food breakfast lunch low standards choices breakfast lunch time door keys cards day enter days left wet sheets ground front unknown reason 90 percent hotel residents didnt complain recommend hotel money deals night clubs hotel african arabic pool bar roof serving drinks billiard standards", "Date": "2011-02-19 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Arbil, Iraq", "Title": "\u201ctotally disappointing !\u201d", "Author": "BiscuitPolo", "ReviewID": "UR86478989", "Content": "sun sand dubai shopping festival actually travel agency recommended hotel time trusted travel agency select proper hotel undoubtedly time dont start staff impolite receptionist treated prisoner instead guest dirty water freezing called maintenance check 1 hour calling service time drink 45 minutes", "Date": "2010-11-09 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Tehran, Iran", "Title": "\u201cvery disappointing\u201d", "Author": "Arineh", "ReviewID": "UR78110474", "Content": "service terrible times shampoo lotion didn\u2019t clean daily food wasn\u2019t breakfast ok damp bit smelly staff polite especially ones buffet helpful guests iranian actually iranian restaurant hotel free transfer service nearby beach afterall wouldn\u2019t recommend", "Date": "2010-09-03 00:00:00"}], "HotelInfo": {"Name": "Sun & Sands Hotel", "HotelURL": "/ShowUserReviews-g295424-d671967-Reviews-Sun_Sands_Hotel-Dubai.html", "Price": "$86 - $859*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">PO Box 35659</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "671967", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/30/94/30945636f48bd57e68028dd556c996d21large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Washington DC, District of Columbia",
+      "Title": "\u201cWorst Hotel In Dubai\u201d",
+      "Author": "ITRAVEL202",
+      "ReviewID": "UR124353492",
+      "Content": "check interrogated hotel staff bringing person customer service existent hotel overpriced size neighborhood free internet tv set size calculator wall stay left feeling robbed money",
+      "Date": "2012-02-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "west yorkshire",
+      "Title": "\u201cGood Vacations in Duabi\u201d",
+      "Author": "SAB723",
+      "ReviewID": "UR122112708",
+      "Content": "nice location close metro train station shops food 6th floor floor nice comfortable facilities yes hotel 2 clubs guests lower floors disturbed noise value money yes staff helpful",
+      "Date": "2011-12-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Muscat, Oman",
+      "Title": "\u201cTHIS HOTEL STOLE MONEY FROM MY ACCOUNT\u201d",
+      "Author": "Steve W",
+      "ReviewID": "UR121761265",
+      "Content": "worst hotel stayed life firstly blocking card assured cancelled checked returned home noticed deducted funds form account 2 months ago refusing hotel absolute disgrace round 3 4 night clubs 4 morning hotel 6 floors unless 6th floor hotel able sleep due sound nightclubs staff particularly hotel manager rude aggressive wife breakfast buffet terrible sheets filthy strongly recomend avoid hotel costs",
+      "Date": "2011-12-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Tbilisi, Georgia",
+      "Title": "\u201cIt's like house of prostitution\u201d",
+      "Author": "AtoZge",
+      "ReviewID": "UR100172642",
+      "Content": "2 day trip dubai city booked hotel located arrived vision hotel changed 3 am people running inside hotel walking laughing kissing theses 2 night clubs closed hotel management change image otherwise house prostitution",
+      "Date": "2011-03-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Ardabil, Iran",
+      "Title": "\u201cLess Than 3 Stars!\u201d",
+      "Author": "elyar",
+      "ReviewID": "UR97155920",
+      "Content": "expectations hotel am staying minimum basic facilities satisfy hotel expecting maybe hotel location 5 min walk metro station hotels nearby advantage amount money paid hotel stay hotels dubai floor hear noises arabic night club till 3 am sometimes sleep slippers bathroom safe internet connection wireless free worst food breakfast lunch low standards choices breakfast lunch time door keys cards day enter days left wet sheets ground front unknown reason 90 percent hotel residents didnt complain recommend hotel money deals night clubs hotel african arabic pool bar roof serving drinks billiard standards",
+      "Date": "2011-02-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Arbil, Iraq",
+      "Title": "\u201ctotally disappointing !\u201d",
+      "Author": "BiscuitPolo",
+      "ReviewID": "UR86478989",
+      "Content": "sun sand dubai shopping festival actually travel agency recommended hotel time trusted travel agency select proper hotel undoubtedly time dont start staff impolite receptionist treated prisoner instead guest dirty water freezing called maintenance check 1 hour calling service time drink 45 minutes",
+      "Date": "2010-11-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Tehran, Iran",
+      "Title": "\u201cvery disappointing\u201d",
+      "Author": "Arineh",
+      "ReviewID": "UR78110474",
+      "Content": "service terrible times shampoo lotion didn\u2019t clean daily food wasn\u2019t breakfast ok damp bit smelly staff polite especially ones buffet helpful guests iranian actually iranian restaurant hotel free transfer service nearby beach afterall wouldn\u2019t recommend",
+      "Date": "2010-09-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Sun & Sands Hotel",
+    "HotelURL": "/ShowUserReviews-g295424-d671967-Reviews-Sun_Sands_Hotel-Dubai.html",
+    "Price": "$86 - $859*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">PO Box 35659</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "671967",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/30/94/30945636f48bd57e68028dd556c996d21large.jpg"
+  }
+}

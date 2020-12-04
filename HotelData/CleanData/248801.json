@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Cuernavaca, Mexico", "Title": "\u201cBeautiful MEXICAN Charming hotel\u201d", "Author": "Bernardo R", "ReviewID": "UR123004455", "Content": "super private bedroom excelent size livingroom perfect stays personal super friendly evrything close restaurants boutiques specialy museums museum quiet polanco ver little noise love business safe", "Date": "2012-01-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Monterrey, Mexico", "Title": "\u201cAdequate lodging\u201d", "Author": "Robert B", "ReviewID": "UR107663825", "Content": "appointment immigration looking affordable hotel lived mexico idea real mexican hotel chain hotel discourage found hotel expected activity encountered couple guests using stairs elevator night fairly quiet uneventful 2 suites bed typical rock nice flat screen tv internet flawlessly breakfast included price consisted coffee toast fruit juice served delightful gentleman whos hotel 10 restaurant undergoing remodeling currently compared prices nearby hotels hotel value 5star luxury property adequate choose hotel", "Date": "2011-05-10 00:00:00"}], "HotelInfo": {"Name": "Residencia Polanco", "HotelURL": "/ShowUserReviews-g150800-d248801-Reviews-Residencia_Polanco-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$96 - $157*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Newton 272 Colonia Chapultepec</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">11570</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "248801", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6d/fd/6dfdc7752b885eee9b6c7bd61f57d5269large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Cuernavaca, Mexico",
+      "Title": "\u201cBeautiful MEXICAN Charming hotel\u201d",
+      "Author": "Bernardo R",
+      "ReviewID": "UR123004455",
+      "Content": "super private bedroom excelent size livingroom perfect stays personal super friendly evrything close restaurants boutiques specialy museums museum quiet polanco ver little noise love business safe",
+      "Date": "2012-01-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Monterrey, Mexico",
+      "Title": "\u201cAdequate lodging\u201d",
+      "Author": "Robert B",
+      "ReviewID": "UR107663825",
+      "Content": "appointment immigration looking affordable hotel lived mexico idea real mexican hotel chain hotel discourage found hotel expected activity encountered couple guests using stairs elevator night fairly quiet uneventful 2 suites bed typical rock nice flat screen tv internet flawlessly breakfast included price consisted coffee toast fruit juice served delightful gentleman whos hotel 10 restaurant undergoing remodeling currently compared prices nearby hotels hotel value 5star luxury property adequate choose hotel",
+      "Date": "2011-05-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Residencia Polanco",
+    "HotelURL": "/ShowUserReviews-g150800-d248801-Reviews-Residencia_Polanco-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$96 - $157*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Newton 272 Colonia Chapultepec</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">11570</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "248801",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6d/fd/6dfdc7752b885eee9b6c7bd61f57d5269large.jpg"
+  }
+}

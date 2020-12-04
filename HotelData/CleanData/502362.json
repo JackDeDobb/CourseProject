@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Nuremberg, Germany", "Title": "\u201cDirty room and far from the citycenter...\u201d", "Author": "Jasmin S", "ReviewID": "UR119035737", "Content": "stayed green hotel 4 days 28th august 2011 til 01 september 2011 double 2 single beds dirty hair serveral people stayed blanket dirty aswell noisy night hear airplanes air conditioning system loud hear noise street hotel breakfast horrible bread dry rest buffet course depends time you\u00e2\u00b4re breakfast varied late time lucky breakfast ok special hotel sleep okay definately hotel istanbul fantastic magical ramadan wanna istanbul soon", "Date": "2011-10-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Najaf, Iraq", "Title": "\u201cDo Not Stay A Lot in Green Anka\u201d", "Author": "Azar_Maluki", "ReviewID": "UR75984615", "Content": "hotel clean calm service hot sleep stay hour hotel air conditioning ac central operate ac otherwise tolerate humid hot weather inside restaurant food average little amounts staff lift dishes eating recommend hotel families couples especially stay", "Date": "2010-08-19 00:00:00"}], "HotelInfo": {"Name": "Green Anka Hotel", "HotelURL": "/ShowUserReviews-g293974-d502362-Reviews-Green_Anka_Hotel-Istanbul.html", "Price": "$79 - $212*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Millet Caddesi Findikzade Sokak No:4, Findikzade</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34270 </span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "502362", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/17/a8/17a8bd81ebc0ec551e4f18e74512ed0a6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Nuremberg, Germany",
+      "Title": "\u201cDirty room and far from the citycenter...\u201d",
+      "Author": "Jasmin S",
+      "ReviewID": "UR119035737",
+      "Content": "stayed green hotel 4 days 28th august 2011 til 01 september 2011 double 2 single beds dirty hair serveral people stayed blanket dirty aswell noisy night hear airplanes air conditioning system loud hear noise street hotel breakfast horrible bread dry rest buffet course depends time you\u00e2\u00b4re breakfast varied late time lucky breakfast ok special hotel sleep okay definately hotel istanbul fantastic magical ramadan wanna istanbul soon",
+      "Date": "2011-10-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Najaf, Iraq",
+      "Title": "\u201cDo Not Stay A Lot in Green Anka\u201d",
+      "Author": "Azar_Maluki",
+      "ReviewID": "UR75984615",
+      "Content": "hotel clean calm service hot sleep stay hour hotel air conditioning ac central operate ac otherwise tolerate humid hot weather inside restaurant food average little amounts staff lift dishes eating recommend hotel families couples especially stay",
+      "Date": "2010-08-19 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Green Anka Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d502362-Reviews-Green_Anka_Hotel-Istanbul.html",
+    "Price": "$79 - $212*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Millet Caddesi Findikzade Sokak No:4, Findikzade</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34270 </span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "502362",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/17/a8/17a8bd81ebc0ec551e4f18e74512ed0a6large.jpg"
+  }
+}

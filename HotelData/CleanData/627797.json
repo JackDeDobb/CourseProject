@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Saint Paul, Minnesota", "Title": "\u201cGreat location, great people for the price\u201d", "Author": "leex1080", "ReviewID": "UR120498705", "Content": "stay 7 nights expected clean private shower toilet bathroom pretty roomy hotel stayed trip staff hand super nice friendly building door construction little loud fault hotel walking distance metro central id stay", "Date": "2011-11-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Madrid, Spain", "Title": "\u201cGreat deal, lovely stay!\u201d", "Author": "AVLee34", "ReviewID": "UR118644825", "Content": "students travelling budget decentsized bathroom paris clean simple welcoming familyrun feel excellent location montparnasse lively central tourist trap paid 80 eurosnight boyfriend nicer hostel discount staying main floor decent courtyard view window 12 euros third night concierge recommended nice bistro neighbourhood filled restuarants cafes bars creperies bakeries quality arent filled tourists certianly stay", "Date": "2011-09-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Tucson", "Title": "\u201cIt has everything!\u201d", "Author": "fairbug", "ReviewID": "UR110161646", "Content": "near river walkable metro train bus station close farmers market block 2 days week charming neighborhood walking street nearby bars restaurants shops hotel nice owners provide information restaurants directions cultural activities accommodating computer provided lobby guests breakfast excellent worth money", "Date": "2011-05-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Stamford, Connecticut", "Title": "\u201cA Hidden Gem in Paris\u201d", "Author": "cmbknit", "ReviewID": "UR83854785", "Content": "lovely moderately priced hotel tucked quiet street major roads near public transportation paris charles de gaulle airport numerous restaurants short distance including chez papa real food moderate cost recommended hotel owner bath comfortable air conditioning summery warm breakfast assets proprietors francois frederique la friendly knowledgeable paris helpful patient answered innumerable questions nice experience brief stay paris enjoyable", "Date": "2010-10-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Jersey", "Title": "\u201cVery good value\u201d", "Author": "marie2010Uk", "ReviewID": "UR81004857", "Content": "found nice little hotel paris fancy staff lovely simple stayed floor tiny tiny tiny little elevator size facing courtyard noise bed wasnt perfect fine bathroom bit dated clean fine 10 minutes foot denfert direct train roissy montparnasse", "Date": "2010-09-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cGreat Hotel - friendly staff\u201d", "Author": "happyholidays88", "ReviewID": "UR67452855", "Content": "hotel staff friendly helpful clean location bit walk attractions metro road walk streets anyway stay hotel time paris", "Date": "2010-06-14 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Clearwater, Florida", "Title": "\u201cMy feelings about this place are mixed.\u201d", "Author": "kitchenchemist", "ReviewID": "UR62928337", "Content": "pros little elevator stair climbing free wifi guest computer lobby soft toilet paper husband spoke english helpful windows kept street noise cons bed low hard bathroom cosmetic touchup grout wifi half day wife didnt speak english charge breakfast 120night budget price", "Date": "2010-05-01 00:00:00"}], "HotelInfo": {"Name": "Hotel Agenor", "HotelURL": "/ShowUserReviews-g187147-d627797-Reviews-Hotel_Agenor-Paris_Ile_de_France.html", "Price": "$110 - $159*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">22 rue Cels</span> | <span class=\"extended-address\">14 Arr.</span>, <span class=\"locality\"><span property=\"v:postal-code\">75014</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>", "HotelID": "627797", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/be/ae/6e/hotel-agenor-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Saint Paul, Minnesota",
+      "Title": "\u201cGreat location, great people for the price\u201d",
+      "Author": "leex1080",
+      "ReviewID": "UR120498705",
+      "Content": "stay 7 nights expected clean private shower toilet bathroom pretty roomy hotel stayed trip staff hand super nice friendly building door construction little loud fault hotel walking distance metro central id stay",
+      "Date": "2011-11-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Madrid, Spain",
+      "Title": "\u201cGreat deal, lovely stay!\u201d",
+      "Author": "AVLee34",
+      "ReviewID": "UR118644825",
+      "Content": "students travelling budget decentsized bathroom paris clean simple welcoming familyrun feel excellent location montparnasse lively central tourist trap paid 80 eurosnight boyfriend nicer hostel discount staying main floor decent courtyard view window 12 euros third night concierge recommended nice bistro neighbourhood filled restuarants cafes bars creperies bakeries quality arent filled tourists certianly stay",
+      "Date": "2011-09-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Tucson",
+      "Title": "\u201cIt has everything!\u201d",
+      "Author": "fairbug",
+      "ReviewID": "UR110161646",
+      "Content": "near river walkable metro train bus station close farmers market block 2 days week charming neighborhood walking street nearby bars restaurants shops hotel nice owners provide information restaurants directions cultural activities accommodating computer provided lobby guests breakfast excellent worth money",
+      "Date": "2011-05-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Stamford, Connecticut",
+      "Title": "\u201cA Hidden Gem in Paris\u201d",
+      "Author": "cmbknit",
+      "ReviewID": "UR83854785",
+      "Content": "lovely moderately priced hotel tucked quiet street major roads near public transportation paris charles de gaulle airport numerous restaurants short distance including chez papa real food moderate cost recommended hotel owner bath comfortable air conditioning summery warm breakfast assets proprietors francois frederique la friendly knowledgeable paris helpful patient answered innumerable questions nice experience brief stay paris enjoyable",
+      "Date": "2010-10-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Jersey",
+      "Title": "\u201cVery good value\u201d",
+      "Author": "marie2010Uk",
+      "ReviewID": "UR81004857",
+      "Content": "found nice little hotel paris fancy staff lovely simple stayed floor tiny tiny tiny little elevator size facing courtyard noise bed wasnt perfect fine bathroom bit dated clean fine 10 minutes foot denfert direct train roissy montparnasse",
+      "Date": "2010-09-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cGreat Hotel - friendly staff\u201d",
+      "Author": "happyholidays88",
+      "ReviewID": "UR67452855",
+      "Content": "hotel staff friendly helpful clean location bit walk attractions metro road walk streets anyway stay hotel time paris",
+      "Date": "2010-06-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Clearwater, Florida",
+      "Title": "\u201cMy feelings about this place are mixed.\u201d",
+      "Author": "kitchenchemist",
+      "ReviewID": "UR62928337",
+      "Content": "pros little elevator stair climbing free wifi guest computer lobby soft toilet paper husband spoke english helpful windows kept street noise cons bed low hard bathroom cosmetic touchup grout wifi half day wife didnt speak english charge breakfast 120night budget price",
+      "Date": "2010-05-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Agenor",
+    "HotelURL": "/ShowUserReviews-g187147-d627797-Reviews-Hotel_Agenor-Paris_Ile_de_France.html",
+    "Price": "$110 - $159*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">22 rue Cels</span> | <span class=\"extended-address\">14 Arr.</span>, <span class=\"locality\"><span property=\"v:postal-code\">75014</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>",
+    "HotelID": "627797",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/be/ae/6e/hotel-agenor-thumbnail.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Hong Kong, China", "Title": "\u201cExcellent choice\u201d", "Author": "Car1965", "ReviewID": "UR137429918", "Content": "im staying fraser suites month decided share impressions frst weeks definitely choice business travellers visiting hk holidays offers value money competitve rates location wan chain mtr station plenty shops restaurants quiet inside quality staff impressive flexible able eager solve effectively smile preferred choice future stays hk doubt", "Date": "2012-08-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Hamilton, Bermuda", "Title": "\u201cExcellent rooms and service for long term stay\u201d", "Author": "jdub17", "ReviewID": "UR136880941", "Content": "building location close central street metro tram stop financial district nice furnished extremely clean nice bathrooms kitchen perfect size amenities able cook dinner daily basis includes washerdryer expected perfect executive type apartments short especially term stays am months am perfectly happy", "Date": "2012-08-11 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Hong Kong, China", "Title": "\u201cPretty good home from home\u201d", "Author": "SarahMckSingapore", "ReviewID": "UR130550655", "Content": "stayed fraser suites wan chai 2 weeks relocating hong kong hotel experiences hong kong easy stay location regardless hotel sick able home serviced apartment worlds apartment laid separate kitchen bathroom sitting bedroom extras medicine cabinet bathroom life lot easier space own cooking washing watch televisions busy wan chai check vibrant night life restaurants property fairly clean shape fittings stylish minor hitches annoying hard fix wifi constantly helpful staff installed router boost signal tries staff running struggled decent shower pet peeve mine freezing burning waster temperature air con fans main bedroom directly bed switched minutes time freeze frustrating hot weather temp warm sticky nights free breakfast provided downstairs reception week day partake reception friendly responsive requests 3rd floor suggest floor traffic noise significant bus stop tram line stop literally front door mtr train stop minutes walk overall recommended experience id youre staying hong kong island", "Date": "2012-05-24 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Sydney, Australian", "Title": "\u201cNoisy and a little odd, there's much better in Hong Kong for the same price.\u201d", "Author": "disport", "ReviewID": "UR74233740", "Content": "month fraser suites hong kong firstly larger look website reservations manger lovely bose ipod doc kitchen equipped marks spencer plus welcome mart nearby washerdryer kitchen below lots wardrobe space pack trams front mtr gym policy keeping deposit 30 days check stay month dont deposit 60 days credit cards refunded beware fx rate move lot 60 days meant company credit card limit construction site nearby underway sleeping saturday pool weird hours basic cable tv channels taxis cant pick drop hotel arrival drag bags 3 blocks makes checking washerdryer people washing machine night buy ear plugs noise floors floating floor boards hear step people shoes mcdonalds basement bit handy theres 4 floor abc office block metres looking straight looks straight building shaped little privacy football field road curtains dont compared serviced apartments hong kong harbour views fraser suits dont represent value money theyre little claustrophobic hong kong standards photo close offices window below", "Date": "2010-08-07 00:00:00"}], "HotelInfo": {"Name": "Fraser Suites Hong Kong", "HotelURL": "/ShowUserReviews-g294217-d1235790-Reviews-Fraser_Suites_Hong_Kong-Hong_Kong.html", "Price": "$153 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.74-80 Johnston Road, Wanchai</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>", "HotelID": "1235790", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0e/bb/0ebb8a94300432c92d9a6282bf2f80d01large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Hong Kong, China",
+      "Title": "\u201cExcellent choice\u201d",
+      "Author": "Car1965",
+      "ReviewID": "UR137429918",
+      "Content": "im staying fraser suites month decided share impressions frst weeks definitely choice business travellers visiting hk holidays offers value money competitve rates location wan chain mtr station plenty shops restaurants quiet inside quality staff impressive flexible able eager solve effectively smile preferred choice future stays hk doubt",
+      "Date": "2012-08-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Hamilton, Bermuda",
+      "Title": "\u201cExcellent rooms and service for long term stay\u201d",
+      "Author": "jdub17",
+      "ReviewID": "UR136880941",
+      "Content": "building location close central street metro tram stop financial district nice furnished extremely clean nice bathrooms kitchen perfect size amenities able cook dinner daily basis includes washerdryer expected perfect executive type apartments short especially term stays am months am perfectly happy",
+      "Date": "2012-08-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Hong Kong, China",
+      "Title": "\u201cPretty good home from home\u201d",
+      "Author": "SarahMckSingapore",
+      "ReviewID": "UR130550655",
+      "Content": "stayed fraser suites wan chai 2 weeks relocating hong kong hotel experiences hong kong easy stay location regardless hotel sick able home serviced apartment worlds apartment laid separate kitchen bathroom sitting bedroom extras medicine cabinet bathroom life lot easier space own cooking washing watch televisions busy wan chai check vibrant night life restaurants property fairly clean shape fittings stylish minor hitches annoying hard fix wifi constantly helpful staff installed router boost signal tries staff running struggled decent shower pet peeve mine freezing burning waster temperature air con fans main bedroom directly bed switched minutes time freeze frustrating hot weather temp warm sticky nights free breakfast provided downstairs reception week day partake reception friendly responsive requests 3rd floor suggest floor traffic noise significant bus stop tram line stop literally front door mtr train stop minutes walk overall recommended experience id youre staying hong kong island",
+      "Date": "2012-05-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sydney, Australian",
+      "Title": "\u201cNoisy and a little odd, there's much better in Hong Kong for the same price.\u201d",
+      "Author": "disport",
+      "ReviewID": "UR74233740",
+      "Content": "month fraser suites hong kong firstly larger look website reservations manger lovely bose ipod doc kitchen equipped marks spencer plus welcome mart nearby washerdryer kitchen below lots wardrobe space pack trams front mtr gym policy keeping deposit 30 days check stay month dont deposit 60 days credit cards refunded beware fx rate move lot 60 days meant company credit card limit construction site nearby underway sleeping saturday pool weird hours basic cable tv channels taxis cant pick drop hotel arrival drag bags 3 blocks makes checking washerdryer people washing machine night buy ear plugs noise floors floating floor boards hear step people shoes mcdonalds basement bit handy theres 4 floor abc office block metres looking straight looks straight building shaped little privacy football field road curtains dont compared serviced apartments hong kong harbour views fraser suits dont represent value money theyre little claustrophobic hong kong standards photo close offices window below",
+      "Date": "2010-08-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Fraser Suites Hong Kong",
+    "HotelURL": "/ShowUserReviews-g294217-d1235790-Reviews-Fraser_Suites_Hong_Kong-Hong_Kong.html",
+    "Price": "$153 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.74-80 Johnston Road, Wanchai</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>",
+    "HotelID": "1235790",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0e/bb/0ebb8a94300432c92d9a6282bf2f80d01large.jpg"
+  }
+}

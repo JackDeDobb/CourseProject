@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Hail", "Title": "\u201cthere are better than the lowest price.\u201d", "Author": "Khaled M", "ReviewID": "UR126380975", "Content": "international hotel dubai united arabic emirates assessment lowest price hotel rating 3 stars advantages 1 parking 2 2 elevator size 3 fax service available 4 conditioning 5 hygiene acceptable 6 reminder service available observations 1 bad deal reception desk staff 2 determination reception desk retain passport guests 3 reception lounge 4 hotel management skill training courses dealing tourists 5 laundry service washing 6 internet available 7 slow lock receptionists 8 size 15 2 9 price comparing hotels 10 dont recommend greetings khalid", "Date": "2012-03-20 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cWould not recommend this to couples\u201d", "Author": "Sahira M", "ReviewID": "UR119604159", "Content": "supposed stay hotel 5 days 1 night checked nicer hotel cheaper hotel ok day staff rude laughing horrible unhelpful rude due behaviour left night", "Date": "2011-10-22 00:00:00"}], "HotelInfo": {"Name": "Zain International Hotel", "HotelURL": "/ShowUserReviews-g295424-d1120857-Reviews-Zain_International_Hotel-Dubai.html", "Price": "$67 - $436*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Al Rigga Rd</span> | <span class=\"extended-address\">P.O.Box 32685</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "1120857", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2a/18/2a1883558c166f4913e38d80c793ee702large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Hail",
+      "Title": "\u201cthere are better than the lowest price.\u201d",
+      "Author": "Khaled M",
+      "ReviewID": "UR126380975",
+      "Content": "international hotel dubai united arabic emirates assessment lowest price hotel rating 3 stars advantages 1 parking 2 2 elevator size 3 fax service available 4 conditioning 5 hygiene acceptable 6 reminder service available observations 1 bad deal reception desk staff 2 determination reception desk retain passport guests 3 reception lounge 4 hotel management skill training courses dealing tourists 5 laundry service washing 6 internet available 7 slow lock receptionists 8 size 15 2 9 price comparing hotels 10 dont recommend greetings khalid",
+      "Date": "2012-03-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cWould not recommend this to couples\u201d",
+      "Author": "Sahira M",
+      "ReviewID": "UR119604159",
+      "Content": "supposed stay hotel 5 days 1 night checked nicer hotel cheaper hotel ok day staff rude laughing horrible unhelpful rude due behaviour left night",
+      "Date": "2011-10-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Zain International Hotel",
+    "HotelURL": "/ShowUserReviews-g295424-d1120857-Reviews-Zain_International_Hotel-Dubai.html",
+    "Price": "$67 - $436*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Al Rigga Rd</span> | <span class=\"extended-address\">P.O.Box 32685</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "1120857",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2a/18/2a1883558c166f4913e38d80c793ee702large.jpg"
+  }
+}

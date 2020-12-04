@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Adelaide, Australia", "Title": "\u201cBums On seats Tours Adelaide Australia\u201d", "Author": "BumsOnSeatsTours", "ReviewID": "UR124640042", "Content": "bums seats tours distinctive style travel offers ordinary guided tour package holiday 19th discovery knowledge experience share favourites secret spots wont map 19 mystery road beckons strong staying true mantra fun freedom flexibility youll corner inviting unknown welcoming unexpected creating unimaginable bums seats tours join", "Date": "2012-02-15 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "boston", "Title": "\u201cSuper Bowl Trip\u201d", "Author": "pickymomboston", "ReviewID": "UR124351917", "Content": "stayed hotel 3 nights super bowl weekend rate times normally hotel line charging staff extremely friendly accommodating sales manager dennis helpful welcoming taxi 40 downtown hotel staff helped calling car securing average size clean beds super comfortable entire hotel spotless complimentary breakfast morning", "Date": "2012-02-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Chicago, Illinois", "Title": "\u201cGreat hotel!\u201d", "Author": "Sailguy", "ReviewID": "UR118911294", "Content": "wife stayed taking iu football game chicago didnt feel driving night property definitely 465 nice lobby tons parking fountain main entrance nice touch staff friendly sized flat screen tv king mattress excellent fridge microwave pool heated hot tub suburban hotel pool nice sized adjacent super clean precor equipment gym definitely nice didnt try bar service fast person friendly food reasonably priced", "Date": "2011-10-03 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Philad", "Title": "\u201cGreat Hotel, Excellent Staff\u201d", "Author": "Keeblerelf928", "ReviewID": "UR84829999", "Content": "stayed hotel 6 nights business comfortable bed awesome mention hd tv watch baseball games service food night forever food wrong annoying brought 20 minutes breakfast buffet lots options fruit set hard fruit short am relatively quiet hotel event ton kids heard noises overall stay hotel thankful nice days office", "Date": "2010-10-25 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "WORCESTER, MA", "Title": "\u201cAdjust.Sleep System Beds!!!!\u201d", "Author": "BLITZMA", "ReviewID": "UR81271246", "Content": "hotels choose chose low price proximity family try system bed hotel fine pluses free wifi easy parking gym pool business center minuses poor lighting able bathroom door ajar night light system bed purely plus", "Date": "2010-09-27 00:00:00"}], "HotelInfo": {"Name": "Hilton Garden Inn Indianapolis Northwest", "HotelURL": "/ShowUserReviews-g37209-d1641470-Reviews-Hilton_Garden_Inn_Indianapolis_Northwest-Indianapolis_Indiana.html", "Price": "$103 - $180*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">6930 Intech Blvd</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46278</span></span> </span> </span> </address>", "HotelID": "1641470", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/cc/4b/b5/entrance-lobby.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Adelaide, Australia",
+      "Title": "\u201cBums On seats Tours Adelaide Australia\u201d",
+      "Author": "BumsOnSeatsTours",
+      "ReviewID": "UR124640042",
+      "Content": "bums seats tours distinctive style travel offers ordinary guided tour package holiday 19th discovery knowledge experience share favourites secret spots wont map 19 mystery road beckons strong staying true mantra fun freedom flexibility youll corner inviting unknown welcoming unexpected creating unimaginable bums seats tours join",
+      "Date": "2012-02-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "boston",
+      "Title": "\u201cSuper Bowl Trip\u201d",
+      "Author": "pickymomboston",
+      "ReviewID": "UR124351917",
+      "Content": "stayed hotel 3 nights super bowl weekend rate times normally hotel line charging staff extremely friendly accommodating sales manager dennis helpful welcoming taxi 40 downtown hotel staff helped calling car securing average size clean beds super comfortable entire hotel spotless complimentary breakfast morning",
+      "Date": "2012-02-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Chicago, Illinois",
+      "Title": "\u201cGreat hotel!\u201d",
+      "Author": "Sailguy",
+      "ReviewID": "UR118911294",
+      "Content": "wife stayed taking iu football game chicago didnt feel driving night property definitely 465 nice lobby tons parking fountain main entrance nice touch staff friendly sized flat screen tv king mattress excellent fridge microwave pool heated hot tub suburban hotel pool nice sized adjacent super clean precor equipment gym definitely nice didnt try bar service fast person friendly food reasonably priced",
+      "Date": "2011-10-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Philad",
+      "Title": "\u201cGreat Hotel, Excellent Staff\u201d",
+      "Author": "Keeblerelf928",
+      "ReviewID": "UR84829999",
+      "Content": "stayed hotel 6 nights business comfortable bed awesome mention hd tv watch baseball games service food night forever food wrong annoying brought 20 minutes breakfast buffet lots options fruit set hard fruit short am relatively quiet hotel event ton kids heard noises overall stay hotel thankful nice days office",
+      "Date": "2010-10-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "WORCESTER, MA",
+      "Title": "\u201cAdjust.Sleep System Beds!!!!\u201d",
+      "Author": "BLITZMA",
+      "ReviewID": "UR81271246",
+      "Content": "hotels choose chose low price proximity family try system bed hotel fine pluses free wifi easy parking gym pool business center minuses poor lighting able bathroom door ajar night light system bed purely plus",
+      "Date": "2010-09-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hilton Garden Inn Indianapolis Northwest",
+    "HotelURL": "/ShowUserReviews-g37209-d1641470-Reviews-Hilton_Garden_Inn_Indianapolis_Northwest-Indianapolis_Indiana.html",
+    "Price": "$103 - $180*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">6930 Intech Blvd</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46278</span></span> </span> </span> </address>",
+    "HotelID": "1641470",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/cc/4b/b5/entrance-lobby.jpg"
+  }
+}

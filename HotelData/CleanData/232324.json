@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Scotland", "Title": "\u201cVERY GOOD PLACE TO STAY IN AMSTERDAM\u201d", "Author": "highflyeye", "ReviewID": "UR122907831", "Content": "experience staying jan 2012 spotless location short walk tram 24 5 centre 15 minutes getting amsterdam hotel easy negative 7 euro day pass centre worth buying tickets journey day pass soon issues staff pleasant helpful rated hotel 5 location", "Date": "2012-01-11 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Paris", "Title": "\u201cVery bad service - Doesn't stand up to its 4 stars\u201d", "Author": "lacordaire", "ReviewID": "UR109002182", "Content": "stayed hotel week business trip wont return anytime soon recommend hotel future business trips internet access poor connections interrupted time breakfast ok lunch varied rude service clean service mediocre start wait half hour ready credit cart waitress key notice reason hadnt credit cart properly joke knowing business travellers company paying expenses treated thief course appreciate", "Date": "2011-05-19 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "New York", "Title": "\u201cBad service\u201d", "Author": "PeterKNewYork", "ReviewID": "UR60514063", "Content": "tv reception fix wrong itwhen checked hotel charged tv anyway admitted own fault disappointing", "Date": "2010-04-06 00:00:00"}], "HotelInfo": {"Name": "Apollofirst - Hampshire Classic", "HotelURL": "/ShowUserReviews-g188590-d232324-Reviews-Apollofirst_Hampshire_Classic-Amsterdam_Noord_Holland.html", "Price": "$117 - $216*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Apollolaan 123</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1077 AP</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>", "HotelID": "232324", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/70/c0/70c04868fe3c0869100db4d904c985ca37large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Scotland",
+      "Title": "\u201cVERY GOOD PLACE TO STAY IN AMSTERDAM\u201d",
+      "Author": "highflyeye",
+      "ReviewID": "UR122907831",
+      "Content": "experience staying jan 2012 spotless location short walk tram 24 5 centre 15 minutes getting amsterdam hotel easy negative 7 euro day pass centre worth buying tickets journey day pass soon issues staff pleasant helpful rated hotel 5 location",
+      "Date": "2012-01-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Paris",
+      "Title": "\u201cVery bad service - Doesn't stand up to its 4 stars\u201d",
+      "Author": "lacordaire",
+      "ReviewID": "UR109002182",
+      "Content": "stayed hotel week business trip wont return anytime soon recommend hotel future business trips internet access poor connections interrupted time breakfast ok lunch varied rude service clean service mediocre start wait half hour ready credit cart waitress key notice reason hadnt credit cart properly joke knowing business travellers company paying expenses treated thief course appreciate",
+      "Date": "2011-05-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "New York",
+      "Title": "\u201cBad service\u201d",
+      "Author": "PeterKNewYork",
+      "ReviewID": "UR60514063",
+      "Content": "tv reception fix wrong itwhen checked hotel charged tv anyway admitted own fault disappointing",
+      "Date": "2010-04-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Apollofirst - Hampshire Classic",
+    "HotelURL": "/ShowUserReviews-g188590-d232324-Reviews-Apollofirst_Hampshire_Classic-Amsterdam_Noord_Holland.html",
+    "Price": "$117 - $216*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Apollolaan 123</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1077 AP</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>",
+    "HotelID": "232324",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/70/c0/70c04868fe3c0869100db4d904c985ca37large.jpg"
+  }
+}

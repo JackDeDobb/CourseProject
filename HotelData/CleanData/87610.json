@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Avon, Ohio", "Title": "\u201cGood Port in a Storm\u201d", "Author": "Steve1362", "ReviewID": "UR121746721", "Content": "stranded chi due flight cancellation desperate hotel break bank names usually trust quality stay hotel vacancy cost arm leg decided chance pleasantly surprised hotel wear staff friendly greatly appreciated stress stranded decent meal adjoining restaurant price night\u2019s sleep complimentary breakfast time friendly van driver getting airport morning plenty time catch flight", "Date": "2011-12-14 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "houston", "Title": "\u201cConvenient\u201d", "Author": "tomval", "ReviewID": "UR119667627", "Content": "stayed times flight catch midway hotel convenient free parking price hotel adequate updating staff accomodating price quiet convenient clarion property upgrade", "Date": "2011-10-24 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Winston Salem, North Carolina", "Title": "\u201cNot impressed for a Sheraton property. OLD property in need of updating\u201d", "Author": "YepBeenThere", "ReviewID": "UR106017080", "Content": "price sheraton name impressed converted property updating convienient airport shuttle slow beds ok pillows ok chair plugs nearby moderate road noise bathroom updated decent flat screen tv noisey ac unit overall ok property sheraton name calls standards nightly rate bargin", "Date": "2011-04-28 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Kentuckiana", "Title": "\u201cThere are worse places to stay\u201d", "Author": "JustJeri", "ReviewID": "UR82686054", "Content": "spent 2 nights training session training event totally disrupted events hotel time please understand holding education presentation loud worship front desk staff fault found resolution assistance staff stayed kept window latch allowed cool chicago breeze blow night didnt discover unpacked stuff trouble leave dirty carpet checked mattress newish relief tried breakfast delivered answered phone 2 attempts stay flying midway choices actually closer airport unless sheraton planning renovation someplace stay vicinity midway looking training facilities", "Date": "2010-10-09 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Covina", "Title": "\u201cFilthy!\u201d", "Author": "lgarriso", "ReviewID": "UR77902480", "Content": "unfortunately arrived 200 am otherwise stayed minute looking honey strange coming bar told bar closed midnight smell immediately rancid dirty smell worse hallway stains stabbed bleeding stain cleaned filthy tried move night reserved 6 family inlcuding children experience tubs actually brown none cleaned reserved hotel starwoods considered health hazard", "Date": "2010-09-01 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Sunderland, MA", "Title": "\u201cGood location, kind of yucky\u201d", "Author": "cbarcelos", "ReviewID": "UR70828587", "Content": "stayed using hotel morning flight midway overall wasnt pleased partner am overreacting hallway rug floor incredibly stained looked hadnt cleaned looooong time ok stuffy hotel stench air conditioner leaked water floor tired call front desk deal king bed incredibly flimsy pillows overall eh convenient airport sort id spend money watch red light camera street intersection confusing ticket", "Date": "2010-07-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Glendale", "Title": "\u201cGood place to crash near Midway\u201d", "Author": "Glendale_Sarah", "ReviewID": "UR68335080", "Content": "title pretty hotel crash pad flight midway clean quiet shuttle service available morning flight id definitely stay traveling midway", "Date": "2010-06-22 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Los Angeles", "Title": "\u201cBASIC BASIC BASIC\u201d", "Author": "MONYLINE", "ReviewID": "UR64993459", "Content": "basic tired hotel sheraton shingle rate hotel marginally special soso help soso etc hilton street call hotel 6 comfort inn road plus close airport", "Date": "2010-05-22 00:00:00"}], "HotelInfo": {"Name": "Four Points by Sheraton Chicago Midway Airport", "HotelURL": "/ShowUserReviews-g35805-d87610-Reviews-Four_Points_by_Sheraton_Chicago_Midway_Airport-Chicago_Illinois.html", "Price": "$103 - $127*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">7353 South Cicero Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Chicago</span>, <span property=\"v:region\">IL</span> <span property=\"v:postal-code\">60629</span></span> </span> </span> </address>", "HotelID": "87610", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/53/08/530805d73110337a6cced5599d16032b6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Avon, Ohio",
+      "Title": "\u201cGood Port in a Storm\u201d",
+      "Author": "Steve1362",
+      "ReviewID": "UR121746721",
+      "Content": "stranded chi due flight cancellation desperate hotel break bank names usually trust quality stay hotel vacancy cost arm leg decided chance pleasantly surprised hotel wear staff friendly greatly appreciated stress stranded decent meal adjoining restaurant price night\u2019s sleep complimentary breakfast time friendly van driver getting airport morning plenty time catch flight",
+      "Date": "2011-12-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "houston",
+      "Title": "\u201cConvenient\u201d",
+      "Author": "tomval",
+      "ReviewID": "UR119667627",
+      "Content": "stayed times flight catch midway hotel convenient free parking price hotel adequate updating staff accomodating price quiet convenient clarion property upgrade",
+      "Date": "2011-10-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Winston Salem, North Carolina",
+      "Title": "\u201cNot impressed for a Sheraton property. OLD property in need of updating\u201d",
+      "Author": "YepBeenThere",
+      "ReviewID": "UR106017080",
+      "Content": "price sheraton name impressed converted property updating convienient airport shuttle slow beds ok pillows ok chair plugs nearby moderate road noise bathroom updated decent flat screen tv noisey ac unit overall ok property sheraton name calls standards nightly rate bargin",
+      "Date": "2011-04-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Kentuckiana",
+      "Title": "\u201cThere are worse places to stay\u201d",
+      "Author": "JustJeri",
+      "ReviewID": "UR82686054",
+      "Content": "spent 2 nights training session training event totally disrupted events hotel time please understand holding education presentation loud worship front desk staff fault found resolution assistance staff stayed kept window latch allowed cool chicago breeze blow night didnt discover unpacked stuff trouble leave dirty carpet checked mattress newish relief tried breakfast delivered answered phone 2 attempts stay flying midway choices actually closer airport unless sheraton planning renovation someplace stay vicinity midway looking training facilities",
+      "Date": "2010-10-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Covina",
+      "Title": "\u201cFilthy!\u201d",
+      "Author": "lgarriso",
+      "ReviewID": "UR77902480",
+      "Content": "unfortunately arrived 200 am otherwise stayed minute looking honey strange coming bar told bar closed midnight smell immediately rancid dirty smell worse hallway stains stabbed bleeding stain cleaned filthy tried move night reserved 6 family inlcuding children experience tubs actually brown none cleaned reserved hotel starwoods considered health hazard",
+      "Date": "2010-09-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Sunderland, MA",
+      "Title": "\u201cGood location, kind of yucky\u201d",
+      "Author": "cbarcelos",
+      "ReviewID": "UR70828587",
+      "Content": "stayed using hotel morning flight midway overall wasnt pleased partner am overreacting hallway rug floor incredibly stained looked hadnt cleaned looooong time ok stuffy hotel stench air conditioner leaked water floor tired call front desk deal king bed incredibly flimsy pillows overall eh convenient airport sort id spend money watch red light camera street intersection confusing ticket",
+      "Date": "2010-07-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Glendale",
+      "Title": "\u201cGood place to crash near Midway\u201d",
+      "Author": "Glendale_Sarah",
+      "ReviewID": "UR68335080",
+      "Content": "title pretty hotel crash pad flight midway clean quiet shuttle service available morning flight id definitely stay traveling midway",
+      "Date": "2010-06-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Los Angeles",
+      "Title": "\u201cBASIC BASIC BASIC\u201d",
+      "Author": "MONYLINE",
+      "ReviewID": "UR64993459",
+      "Content": "basic tired hotel sheraton shingle rate hotel marginally special soso help soso etc hilton street call hotel 6 comfort inn road plus close airport",
+      "Date": "2010-05-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Four Points by Sheraton Chicago Midway Airport",
+    "HotelURL": "/ShowUserReviews-g35805-d87610-Reviews-Four_Points_by_Sheraton_Chicago_Midway_Airport-Chicago_Illinois.html",
+    "Price": "$103 - $127*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">7353 South Cicero Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Chicago</span>, <span property=\"v:region\">IL</span> <span property=\"v:postal-code\">60629</span></span> </span> </span> </address>",
+    "HotelID": "87610",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/53/08/530805d73110337a6cced5599d16032b6large.jpg"
+  }
+}

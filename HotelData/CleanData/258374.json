@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Stockholm", "Title": "\u201cIt was so horrible, stay away...\u201d", "Author": "vitucis", "ReviewID": "UR69848774", "Content": "lovely vacation italy rome wonderful stop stayed hotel nights dissapointed wrote bad 1 service staff unbelievable unfriendly help talk breakfest staff service unbelivable poor angry time dont tourists hotel emty 2 stairs difficult luggage baby pram 3 breakfest att bad lady breakfest unbelivable location close central station nice cheap hotle little stars star hotel bad staff stay nicer cheap hotels", "Date": "2010-07-06 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Ostend, Belgium", "Title": "\u201cDisappointing... Good location but unfriendly staff, poor service\u201d", "Author": "davidloncke", "ReviewID": "UR60387192", "Content": "stayed 6 nights troubles personel neither friendly nor helpful arrogant low attention guests impression ignorant arrival arrange taxi transport airport catch plane time public transport rome isnt running receptionist told arrange day leave arranged time 2 days stay insisted arranging transport answer day left morning receptionist arrange transport doubts transport available eating breakfast supposedly called service message booked arrange ourselves city taxi day city worried frustrated taking account allready arranged day arrived evening hotel receptionist strange service booked called front arrange transport breakfast eatable special common italy wasnt bad breakfast weve eaten difficult guests coffee tea milk powder orange juice bread hard jam honey butter belgian itallian butter doesnt taste weird tasting sweet bread wife liked closet little desk tv lot channels itallian matters didnt rome watch tv usefull weather report news understand little itallian bathroom little bathtubshower plenty hot water bathroom renovation humid spots floor theres lead bad moments quantity water tub lead shower peace weird toilet narrow totally comfortable stay rome compare price paid stay pretty center hotel literally 200 meters termini station connect city bus tram metro taxi airport train bus day taxi hotel plenty little restaurants food ok payable italian food expected expect actually ideas unfortunately italians refined cooks pretend found worthy fame italian ice cream romans friendly arrogant mainly tourists hear speaking total tone level friendliness time rome consider stay else theres hotel price absolute option stay location", "Date": "2010-04-05 00:00:00"}], "HotelInfo": {"Name": "Hotel Capitol Roma", "HotelURL": "/ShowUserReviews-g187791-d258374-Reviews-Hotel_Capitol_Roma-Rome_Lazio.html", "Price": "$99 - $175*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via G Amendola 83-85</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "258374", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/04/22/0422d9fc40c6ffd3869a0d00bf4e46b31large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Stockholm",
+      "Title": "\u201cIt was so horrible, stay away...\u201d",
+      "Author": "vitucis",
+      "ReviewID": "UR69848774",
+      "Content": "lovely vacation italy rome wonderful stop stayed hotel nights dissapointed wrote bad 1 service staff unbelievable unfriendly help talk breakfest staff service unbelivable poor angry time dont tourists hotel emty 2 stairs difficult luggage baby pram 3 breakfest att bad lady breakfest unbelivable location close central station nice cheap hotle little stars star hotel bad staff stay nicer cheap hotels",
+      "Date": "2010-07-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ostend, Belgium",
+      "Title": "\u201cDisappointing... Good location but unfriendly staff, poor service\u201d",
+      "Author": "davidloncke",
+      "ReviewID": "UR60387192",
+      "Content": "stayed 6 nights troubles personel neither friendly nor helpful arrogant low attention guests impression ignorant arrival arrange taxi transport airport catch plane time public transport rome isnt running receptionist told arrange day leave arranged time 2 days stay insisted arranging transport answer day left morning receptionist arrange transport doubts transport available eating breakfast supposedly called service message booked arrange ourselves city taxi day city worried frustrated taking account allready arranged day arrived evening hotel receptionist strange service booked called front arrange transport breakfast eatable special common italy wasnt bad breakfast weve eaten difficult guests coffee tea milk powder orange juice bread hard jam honey butter belgian itallian butter doesnt taste weird tasting sweet bread wife liked closet little desk tv lot channels itallian matters didnt rome watch tv usefull weather report news understand little itallian bathroom little bathtubshower plenty hot water bathroom renovation humid spots floor theres lead bad moments quantity water tub lead shower peace weird toilet narrow totally comfortable stay rome compare price paid stay pretty center hotel literally 200 meters termini station connect city bus tram metro taxi airport train bus day taxi hotel plenty little restaurants food ok payable italian food expected expect actually ideas unfortunately italians refined cooks pretend found worthy fame italian ice cream romans friendly arrogant mainly tourists hear speaking total tone level friendliness time rome consider stay else theres hotel price absolute option stay location",
+      "Date": "2010-04-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Capitol Roma",
+    "HotelURL": "/ShowUserReviews-g187791-d258374-Reviews-Hotel_Capitol_Roma-Rome_Lazio.html",
+    "Price": "$99 - $175*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via G Amendola 83-85</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "258374",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/04/22/0422d9fc40c6ffd3869a0d00bf4e46b31large.jpg"
+  }
+}

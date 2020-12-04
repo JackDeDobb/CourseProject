@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Thessaloniki, Greece", "Title": "\u201cConvinient location.\u201d", "Author": "Christina023", "ReviewID": "UR122674275", "Content": "hotel cosy stuff friendly nice bed confortable bathroom ok renovation wouldnt bad idea breakfast cakes eggs croissant cheese ham milk variety yogurt cereal hotel block termini station 2 minutes walk makes moving city easy metro bus station termini drop buses airport convinient definetely stay", "Date": "2012-01-06 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Langley City, Canada", "Title": "\u201cNot what we expected\u201d", "Author": "DonCar65", "ReviewID": "UR118547677", "Content": "arrived rome oct 2010 directly hotel termini overall experience wasnt entirely unsatisfactory marconi located 2 blocks rome termini desirable receptionist wasnt friendly hotel updating", "Date": "2011-09-24 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Wolverhampton, United Kingdom", "Title": "\u201cGreat location\u201d", "Author": "Rich-Tracy", "ReviewID": "UR94730334", "Content": "started trip advisor alot hotel information etc written review stayed 3 nights january 2011 marconi hotel location 10 mins walk colleseum fairly clean cosmetic view window wall someones parking space location tea coffee facilities kettle fridge nice touch mini bar expensive shop minute hotel water etc 2 litres 2 euros 500ml hotel price stayed bed breakfast found choices available breakfast cereal bread pastries eggs sausages chips lol fresh honey cut honeycomb fruit juices coffee tea etc tranfer airport 100 euros return hotel 30 km taxis appear set prices sight seeing rome signposted city map available free charge hotel weather nice walked vatican hour lots trevi fountain spanish steps def missed street entertainers night fantastic recommend taking dvd book unwind day sight seeing hotel sattelite tv 300 channels 1 english speaking news channel cnn couple music channels charge government summer charge 2 euros night person payable check", "Date": "2011-01-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Patras, Greece", "Title": "\u201cjust a great choice ...\u201d", "Author": "8sagittarius", "ReviewID": "UR62005209", "Content": "9 people opinion hotel absolutely choice helpful polite stuff roberta super owing volcano ash clouds help apreciate comfortable hotel marconi close central transport station location convenient breakfast variety soon", "Date": "2010-04-20 00:00:00"}], "HotelInfo": {"Name": "Marconi", "HotelURL": "/ShowUserReviews-g187791-d272490-Reviews-Marconi-Rome_Lazio.html", "Price": "$90 - $178*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Giovanni Amendola, 97</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "272490", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/1c/49/1c49905f142638a840adcbd1a24606898large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Thessaloniki, Greece",
+      "Title": "\u201cConvinient location.\u201d",
+      "Author": "Christina023",
+      "ReviewID": "UR122674275",
+      "Content": "hotel cosy stuff friendly nice bed confortable bathroom ok renovation wouldnt bad idea breakfast cakes eggs croissant cheese ham milk variety yogurt cereal hotel block termini station 2 minutes walk makes moving city easy metro bus station termini drop buses airport convinient definetely stay",
+      "Date": "2012-01-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Langley City, Canada",
+      "Title": "\u201cNot what we expected\u201d",
+      "Author": "DonCar65",
+      "ReviewID": "UR118547677",
+      "Content": "arrived rome oct 2010 directly hotel termini overall experience wasnt entirely unsatisfactory marconi located 2 blocks rome termini desirable receptionist wasnt friendly hotel updating",
+      "Date": "2011-09-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Wolverhampton, United Kingdom",
+      "Title": "\u201cGreat location\u201d",
+      "Author": "Rich-Tracy",
+      "ReviewID": "UR94730334",
+      "Content": "started trip advisor alot hotel information etc written review stayed 3 nights january 2011 marconi hotel location 10 mins walk colleseum fairly clean cosmetic view window wall someones parking space location tea coffee facilities kettle fridge nice touch mini bar expensive shop minute hotel water etc 2 litres 2 euros 500ml hotel price stayed bed breakfast found choices available breakfast cereal bread pastries eggs sausages chips lol fresh honey cut honeycomb fruit juices coffee tea etc tranfer airport 100 euros return hotel 30 km taxis appear set prices sight seeing rome signposted city map available free charge hotel weather nice walked vatican hour lots trevi fountain spanish steps def missed street entertainers night fantastic recommend taking dvd book unwind day sight seeing hotel sattelite tv 300 channels 1 english speaking news channel cnn couple music channels charge government summer charge 2 euros night person payable check",
+      "Date": "2011-01-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Patras, Greece",
+      "Title": "\u201cjust a great choice ...\u201d",
+      "Author": "8sagittarius",
+      "ReviewID": "UR62005209",
+      "Content": "9 people opinion hotel absolutely choice helpful polite stuff roberta super owing volcano ash clouds help apreciate comfortable hotel marconi close central transport station location convenient breakfast variety soon",
+      "Date": "2010-04-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Marconi",
+    "HotelURL": "/ShowUserReviews-g187791-d272490-Reviews-Marconi-Rome_Lazio.html",
+    "Price": "$90 - $178*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Giovanni Amendola, 97</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "272490",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/1c/49/1c49905f142638a840adcbd1a24606898large.jpg"
+  }
+}

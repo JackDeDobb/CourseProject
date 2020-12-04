@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Tehran, Iran", "Title": "\u201cit was neglected\u201d", "Author": "peyman46", "ReviewID": "UR126393269", "Content": "hotel poor manage opportunity naught excellent position hotel unique poor maintenance decrease quality hotel swiming pool beautiful water tempreture cold pool impossible swin course transportation city season uncomfortable wait 45 min car swiming pool 45 min waiting car suits breakfast excitable 4 stars hotels breakfasts arrival 1050 excess bed 2 children 12 free money didnt internet site undeniable closest deira city center plus", "Date": "2012-03-20 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Baku", "Title": "\u201cAlmost perfect!\u201d", "Author": "liliya_nebes", "ReviewID": "UR124665797", "Content": "perfect family deluxe 4 kitchen facilities machine service impressive lobby elevators staff complimentary water tea coffee outdoor swimming pool jacuzzi sauna gym highly recommended wired internet connection free charge wifi connect ipads wireless wifi provided lobby bathrobe slippers provided 1 person 4 ppl", "Date": "2012-02-16 00:00:00"}], "HotelInfo": {"Name": "City Seasons Suites", "HotelURL": "/ShowUserReviews-g295424-d582840-Reviews-City_Seasons_Suites-Dubai.html", "Price": "$123 - $428*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">8th Street Port Saeed District</span> | <span class=\"extended-address\">PO Box 56421</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span> <span property=\"v:postal-code\">182002</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "582840", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/2c/16/9b/city-seasons-suites-dubai.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Tehran, Iran",
+      "Title": "\u201cit was neglected\u201d",
+      "Author": "peyman46",
+      "ReviewID": "UR126393269",
+      "Content": "hotel poor manage opportunity naught excellent position hotel unique poor maintenance decrease quality hotel swiming pool beautiful water tempreture cold pool impossible swin course transportation city season uncomfortable wait 45 min car swiming pool 45 min waiting car suits breakfast excitable 4 stars hotels breakfasts arrival 1050 excess bed 2 children 12 free money didnt internet site undeniable closest deira city center plus",
+      "Date": "2012-03-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Baku",
+      "Title": "\u201cAlmost perfect!\u201d",
+      "Author": "liliya_nebes",
+      "ReviewID": "UR124665797",
+      "Content": "perfect family deluxe 4 kitchen facilities machine service impressive lobby elevators staff complimentary water tea coffee outdoor swimming pool jacuzzi sauna gym highly recommended wired internet connection free charge wifi connect ipads wireless wifi provided lobby bathrobe slippers provided 1 person 4 ppl",
+      "Date": "2012-02-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "City Seasons Suites",
+    "HotelURL": "/ShowUserReviews-g295424-d582840-Reviews-City_Seasons_Suites-Dubai.html",
+    "Price": "$123 - $428*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">8th Street Port Saeed District</span> | <span class=\"extended-address\">PO Box 56421</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span> <span property=\"v:postal-code\">182002</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "582840",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/2c/16/9b/city-seasons-suites-dubai.jpg"
+  }
+}

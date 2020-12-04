@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Eureka, California", "Title": "\u201cElegant Old Lady\u201d", "Author": "LadyDragonHumboldt", "ReviewID": "UR118717833", "Content": "call tropicana shabby chic slightly worn edges clean character suite comfy clean couldnt hear neighbors kitchen impeccably clean supplied dishes cookware clean walk socks rug stayed clean clean test price downtown vancouver restaurants shopping walking distance free street parking attentive staff lower floors permanent residents met cordial helpful sign children tearing lobby surly staff definitly time travel vancouver", "Date": "2011-09-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Eureka ca", "Title": "\u201cWorking hard to keep your business\u201d", "Author": "bouncey", "ReviewID": "UR118512895", "Content": "suite hotel mix residents guests delighted clean apartment wonderful staff helpful looking multicultural experience multicultural city holiday inn type prefab breakfast junk food look elsewhere recently renovated complete apartment including pots pans dining shopping opportunities nearby hop tour busses st fashion vancouver available enjoy", "Date": "2011-09-23 00:00:00"}], "HotelInfo": {"Name": "Tropicana Motor Inn", "HotelURL": "/ShowUserReviews-g154943-d182551-Reviews-Tropicana_Motor_Inn-Vancouver_British_Columbia.html", "Price": "$110 - $160*", "Address": "<div class=\"amenFloat\">", "HotelID": "182551", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/db/02/db02e6386e733d0f93cbeeecf3b05a661large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Eureka, California",
+      "Title": "\u201cElegant Old Lady\u201d",
+      "Author": "LadyDragonHumboldt",
+      "ReviewID": "UR118717833",
+      "Content": "call tropicana shabby chic slightly worn edges clean character suite comfy clean couldnt hear neighbors kitchen impeccably clean supplied dishes cookware clean walk socks rug stayed clean clean test price downtown vancouver restaurants shopping walking distance free street parking attentive staff lower floors permanent residents met cordial helpful sign children tearing lobby surly staff definitly time travel vancouver",
+      "Date": "2011-09-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Eureka ca",
+      "Title": "\u201cWorking hard to keep your business\u201d",
+      "Author": "bouncey",
+      "ReviewID": "UR118512895",
+      "Content": "suite hotel mix residents guests delighted clean apartment wonderful staff helpful looking multicultural experience multicultural city holiday inn type prefab breakfast junk food look elsewhere recently renovated complete apartment including pots pans dining shopping opportunities nearby hop tour busses st fashion vancouver available enjoy",
+      "Date": "2011-09-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Tropicana Motor Inn",
+    "HotelURL": "/ShowUserReviews-g154943-d182551-Reviews-Tropicana_Motor_Inn-Vancouver_British_Columbia.html",
+    "Price": "$110 - $160*",
+    "Address": "<div class=\"amenFloat\">",
+    "HotelID": "182551",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/db/02/db02e6386e733d0f93cbeeecf3b05a661large.jpg"
+  }
+}

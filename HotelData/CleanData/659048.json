@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "bogota", "Title": "\u201cGreat value, excellent quiet location, friendly staff.\u201d", "Author": "pabstraveller", "ReviewID": "UR123294258", "Content": "stayed hotel couple nights dec 27th 29th floor quiet able sleep ear plugs bed pillow comfortable manual safe deposit lock set keys receive check bathroom super clean paid 33 euros night including breakfast nollendorfplatz station close hte wifi bed feel bit packed friends couple stayed reception floor theyre bed single beds wasnt comfortable", "Date": "2012-01-19 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Copenhagen, Denmark", "Title": "\u201cGreat\u201d", "Author": "Dave6705", "ReviewID": "UR89073688", "Content": "little stayed times quiet scrupulously clean decent breakfast id ive stayed cleaner luxury neither price beds comfortable bathrooms staff courteous english varies communicate okay location seriously spend fortune comfortable clean cozy cant past", "Date": "2010-12-05 00:00:00"}], "HotelInfo": {"Name": "Ambiente Hotel", "HotelURL": "/ShowUserReviews-g187323-d659048-Reviews-Ambiente_Hotel-Berlin.html", "Price": "$63 - $105*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gossowstrasse 11</span>, <span class=\"locality\"><span property=\"v:postal-code\">10777</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "659048", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/08/33/08337bbfc86292351d69a946431316831large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "bogota",
+      "Title": "\u201cGreat value, excellent quiet location, friendly staff.\u201d",
+      "Author": "pabstraveller",
+      "ReviewID": "UR123294258",
+      "Content": "stayed hotel couple nights dec 27th 29th floor quiet able sleep ear plugs bed pillow comfortable manual safe deposit lock set keys receive check bathroom super clean paid 33 euros night including breakfast nollendorfplatz station close hte wifi bed feel bit packed friends couple stayed reception floor theyre bed single beds wasnt comfortable",
+      "Date": "2012-01-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Copenhagen, Denmark",
+      "Title": "\u201cGreat\u201d",
+      "Author": "Dave6705",
+      "ReviewID": "UR89073688",
+      "Content": "little stayed times quiet scrupulously clean decent breakfast id ive stayed cleaner luxury neither price beds comfortable bathrooms staff courteous english varies communicate okay location seriously spend fortune comfortable clean cozy cant past",
+      "Date": "2010-12-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Ambiente Hotel",
+    "HotelURL": "/ShowUserReviews-g187323-d659048-Reviews-Ambiente_Hotel-Berlin.html",
+    "Price": "$63 - $105*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gossowstrasse 11</span>, <span class=\"locality\"><span property=\"v:postal-code\">10777</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "659048",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/08/33/08337bbfc86292351d69a946431316831large.jpg"
+  }
+}

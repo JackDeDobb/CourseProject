@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Whittier, California", "Title": "\u201cNot Even To My Worst Enemy...\u201d", "Author": "Miguel-Mex", "ReviewID": "UR86858293", "Content": "stay hotel logo hotel five stars appearance outside nice ample lobby thats assigned dark light bulbs due distance construction style wifi signal couldnt reach cars noise outside division del norte ave ramp wasnt stopped windows requested waiting minutes moved 3rd floor size coffee maker coffee lighting wifi strength signal change soooo times system preferences gain internet access im trouble mac iphone real pain trying access time devices doors windows sealed noise st music lobby bar goes loud staff friendly parking free recommend hotel worst enemy oh deception", "Date": "2010-11-12 00:00:00"}], "HotelInfo": {"Name": "Real del Sur", "HotelURL": "/ShowUserReviews-g150800-d154678-Reviews-Real_del_Sur-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$710 - $950*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Division Del Norte 3640 Coyoacan</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">04620</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "154678", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/1e/d2/1ed2ab7cc0d308fc003e622cbb31cd932large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Whittier, California",
+      "Title": "\u201cNot Even To My Worst Enemy...\u201d",
+      "Author": "Miguel-Mex",
+      "ReviewID": "UR86858293",
+      "Content": "stay hotel logo hotel five stars appearance outside nice ample lobby thats assigned dark light bulbs due distance construction style wifi signal couldnt reach cars noise outside division del norte ave ramp wasnt stopped windows requested waiting minutes moved 3rd floor size coffee maker coffee lighting wifi strength signal change soooo times system preferences gain internet access im trouble mac iphone real pain trying access time devices doors windows sealed noise st music lobby bar goes loud staff friendly parking free recommend hotel worst enemy oh deception",
+      "Date": "2010-11-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Real del Sur",
+    "HotelURL": "/ShowUserReviews-g150800-d154678-Reviews-Real_del_Sur-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$710 - $950*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Division Del Norte 3640 Coyoacan</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">04620</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "154678",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/1e/d2/1ed2ab7cc0d308fc003e622cbb31cd932large.jpg"
+  }
+}

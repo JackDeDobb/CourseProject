@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "London", "Title": "\u201cPretty awful\u201d", "Author": "AndrewtLondon", "ReviewID": "UR123299832", "Content": "poor repair light didnt guy shrugged couldnt expedia reservation couldnt tell deposit breakfast poor location reforma fairly cheap 485 preferred pay bit manager pretty grumpy", "Date": "2012-01-19 00:00:00"}], "HotelInfo": {"Name": "Reforma Avenue Hotel", "HotelURL": "/ShowUserReviews-g150800-d729474-Reviews-Reforma_Avenue_Hotel-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "0", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle Donato Guerra 24</span> | <span class=\"extended-address\">Colonia Ju&aacute;rez</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06600</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "729474", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/17/a1/17a18af6fb9819e895920a9528306a681large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cPretty awful\u201d",
+      "Author": "AndrewtLondon",
+      "ReviewID": "UR123299832",
+      "Content": "poor repair light didnt guy shrugged couldnt expedia reservation couldnt tell deposit breakfast poor location reforma fairly cheap 485 preferred pay bit manager pretty grumpy",
+      "Date": "2012-01-19 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Reforma Avenue Hotel",
+    "HotelURL": "/ShowUserReviews-g150800-d729474-Reviews-Reforma_Avenue_Hotel-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "0",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle Donato Guerra 24</span> | <span class=\"extended-address\">Colonia Ju&aacute;rez</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06600</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "729474",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/17/a1/17a18af6fb9819e895920a9528306a681large.jpg"
+  }
+}

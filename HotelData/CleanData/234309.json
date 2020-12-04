@@ -1,1 +1,165 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Melbourne", "Title": "\u201cYes it's retro but it's very comfortable and clean\u201d", "Author": "SusannahPK", "ReviewID": "UR139161738", "Content": "initially husband strange 1970s deco massive apartment sized decked browns whites orange apartment spacious contains lounge massive bathroom comfortable bath criticism expensive price wifi \u20ac12 24hours issues actually getting free charge meant originally town program deal stayed participate town program stay time madrid program try past deco enjoy swimming pool feel satisfied", "Date": "2012-09-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Malaga, Spain", "Title": "\u201cSummer in Madrid\u201d", "Author": "Butterflybrain", "ReviewID": "UR137543617", "Content": "nice apartment move fitted separate kitchen spacious bathroom conveniently placed metro stops business nice quiet couple stops gran via definitely stay didnt breakfast easier cheaper eat spain", "Date": "2012-08-18 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "", "Title": "\u201cCheap, very tired, no extras but good location\u201d", "Author": "AviaMinnie", "ReviewID": "UR134486003", "Content": "definitely 4 star barely rate 2 tired furniture grubby blanket cover couch bedding clean twin beds reception staff didnt speak english friendly job description safe internet internet deposit keyboard terminal corner queue kitchen equipment minimal apartment lacked washing machine dish washer cleaning products provided parking available building \u20ac20 plus tax day accommodation cheap", "Date": "2012-07-16 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Cape Town Central, South Africa", "Title": "\u201cDue for an upgrade\u201d", "Author": "always-l", "ReviewID": "UR126965786", "Content": "agree update tired worn stayed 2 3 days apartment furniture seal bath black aircon metro bus stops close restaurants tapas bars hotel overdue upgrade stay", "Date": "2012-03-30 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Los Angeles, California", "Title": "\u201cVery Nice - Apartment Style Hotel\u201d", "Author": "ReNee A", "ReviewID": "UR125568216", "Content": "travels northern spain stayed 2 madrid skeptical read previous mixed reviews trip advisor decided try anyway enjoyed stay quiet apartment spacious definitely home home liked art deco style lot charm perfect person clean comfortable appreciated option include breakfast enjoyed breakfast morning staff pleasant accomodating location hotel absolutely perfect walking distance restuarants metro bus route drug stores markets etc friend safe time visiting spain staying experience am bilingual helpful staff spoke english bit guess statement managed hotel plan stay am encouraged spanish class time", "Date": "2012-03-03 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "netherlands", "Title": "\u201caverage apartments but good location and nice roof pool\u201d", "Author": "casper53", "ReviewID": "UR118487301", "Content": "business financial district madrid location short distance metro station cuzco apartments bit run overall bearable avoid rip internet charges 13 euro24 hrs instead nearby starbucks couple hundred yards bookingcom free internet lobby isnt plenty breakfast road free wifi choose hotel roof pool dip sunshine 1830 hrs pool kept hotel staff courteous times", "Date": "2011-09-23 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Edmonton, Canada", "Title": "\u201cComfortable & Convenient\u201d", "Author": "KayeEdmontonAlberta", "ReviewID": "UR88673510", "Content": "opportunity stay couple occassions november conveniently located business section madrid metro short walk 5 minutes eating establishments shopping mall blocks safe walking hotel late night staff reception friendly accommodating reservations handled promptly questions answered prior arrival enjoyed eating restaurant couple occassions found buffet breakfast located main restaurant highly priced breakfast included accommodations difficulty finding breakfast steps outside hotel enjoyed apartment style accommodations suite comfortable living furniture replaced appeared dirty worn avoided sitting couch loved suite lots nice table living kitchen suite following week comfortable suite nice furniture recommeded looking comfortable clean environment excellent staff service", "Date": "2010-11-30 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Cape Town", "Title": "\u201cFunctional but tired and noisy\u201d", "Author": "HarveyCapeTown", "ReviewID": "UR83344330", "Content": "apartments serious renovation kitchen kettle boil water stove safe bathrooms attention furniture lumpy apartment odd calle dont sleep wink reasonably priced tourist city short walk metro station 3 blocks stayed practical businessrelated reasons price", "Date": "2010-10-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Athens, Greece", "Title": "\u201cNot Bad\u201d", "Author": "tharsdim", "ReviewID": "UR58816535", "Content": "stayed nights separate hotel nice repaired immediately firts heating rust coming water bathroom internet 12 \u20ac poor breakfast spacey nice view", "Date": "2010-03-17 00:00:00"}], "HotelInfo": {"Name": "Eurobuilding 2", "HotelURL": "/ShowUserReviews-g187514-d234309-Reviews-Eurobuilding_2-Madrid.html", "Price": "$78 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Orense 69</span>, <span class=\"locality\"><span property=\"v:postal-code\">28020</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "234309", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/36/41/fe/edificio.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Melbourne",
+      "Title": "\u201cYes it's retro but it's very comfortable and clean\u201d",
+      "Author": "SusannahPK",
+      "ReviewID": "UR139161738",
+      "Content": "initially husband strange 1970s deco massive apartment sized decked browns whites orange apartment spacious contains lounge massive bathroom comfortable bath criticism expensive price wifi \u20ac12 24hours issues actually getting free charge meant originally town program deal stayed participate town program stay time madrid program try past deco enjoy swimming pool feel satisfied",
+      "Date": "2012-09-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Malaga, Spain",
+      "Title": "\u201cSummer in Madrid\u201d",
+      "Author": "Butterflybrain",
+      "ReviewID": "UR137543617",
+      "Content": "nice apartment move fitted separate kitchen spacious bathroom conveniently placed metro stops business nice quiet couple stops gran via definitely stay didnt breakfast easier cheaper eat spain",
+      "Date": "2012-08-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cCheap, very tired, no extras but good location\u201d",
+      "Author": "AviaMinnie",
+      "ReviewID": "UR134486003",
+      "Content": "definitely 4 star barely rate 2 tired furniture grubby blanket cover couch bedding clean twin beds reception staff didnt speak english friendly job description safe internet internet deposit keyboard terminal corner queue kitchen equipment minimal apartment lacked washing machine dish washer cleaning products provided parking available building \u20ac20 plus tax day accommodation cheap",
+      "Date": "2012-07-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Cape Town Central, South Africa",
+      "Title": "\u201cDue for an upgrade\u201d",
+      "Author": "always-l",
+      "ReviewID": "UR126965786",
+      "Content": "agree update tired worn stayed 2 3 days apartment furniture seal bath black aircon metro bus stops close restaurants tapas bars hotel overdue upgrade stay",
+      "Date": "2012-03-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Los Angeles, California",
+      "Title": "\u201cVery Nice - Apartment Style Hotel\u201d",
+      "Author": "ReNee A",
+      "ReviewID": "UR125568216",
+      "Content": "travels northern spain stayed 2 madrid skeptical read previous mixed reviews trip advisor decided try anyway enjoyed stay quiet apartment spacious definitely home home liked art deco style lot charm perfect person clean comfortable appreciated option include breakfast enjoyed breakfast morning staff pleasant accomodating location hotel absolutely perfect walking distance restuarants metro bus route drug stores markets etc friend safe time visiting spain staying experience am bilingual helpful staff spoke english bit guess statement managed hotel plan stay am encouraged spanish class time",
+      "Date": "2012-03-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "netherlands",
+      "Title": "\u201caverage apartments but good location and nice roof pool\u201d",
+      "Author": "casper53",
+      "ReviewID": "UR118487301",
+      "Content": "business financial district madrid location short distance metro station cuzco apartments bit run overall bearable avoid rip internet charges 13 euro24 hrs instead nearby starbucks couple hundred yards bookingcom free internet lobby isnt plenty breakfast road free wifi choose hotel roof pool dip sunshine 1830 hrs pool kept hotel staff courteous times",
+      "Date": "2011-09-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Edmonton, Canada",
+      "Title": "\u201cComfortable & Convenient\u201d",
+      "Author": "KayeEdmontonAlberta",
+      "ReviewID": "UR88673510",
+      "Content": "opportunity stay couple occassions november conveniently located business section madrid metro short walk 5 minutes eating establishments shopping mall blocks safe walking hotel late night staff reception friendly accommodating reservations handled promptly questions answered prior arrival enjoyed eating restaurant couple occassions found buffet breakfast located main restaurant highly priced breakfast included accommodations difficulty finding breakfast steps outside hotel enjoyed apartment style accommodations suite comfortable living furniture replaced appeared dirty worn avoided sitting couch loved suite lots nice table living kitchen suite following week comfortable suite nice furniture recommeded looking comfortable clean environment excellent staff service",
+      "Date": "2010-11-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Cape Town",
+      "Title": "\u201cFunctional but tired and noisy\u201d",
+      "Author": "HarveyCapeTown",
+      "ReviewID": "UR83344330",
+      "Content": "apartments serious renovation kitchen kettle boil water stove safe bathrooms attention furniture lumpy apartment odd calle dont sleep wink reasonably priced tourist city short walk metro station 3 blocks stayed practical businessrelated reasons price",
+      "Date": "2010-10-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Athens, Greece",
+      "Title": "\u201cNot Bad\u201d",
+      "Author": "tharsdim",
+      "ReviewID": "UR58816535",
+      "Content": "stayed nights separate hotel nice repaired immediately firts heating rust coming water bathroom internet 12 \u20ac poor breakfast spacey nice view",
+      "Date": "2010-03-17 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Eurobuilding 2",
+    "HotelURL": "/ShowUserReviews-g187514-d234309-Reviews-Eurobuilding_2-Madrid.html",
+    "Price": "$78 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Orense 69</span>, <span class=\"locality\"><span property=\"v:postal-code\">28020</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "234309",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/36/41/fe/edificio.jpg"
+  }
+}

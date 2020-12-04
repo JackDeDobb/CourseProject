@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "London", "Title": "\u201cPoor standard, not recommended\u201d", "Author": "jdavies2001", "ReviewID": "UR125713829", "Content": "travelodge pretty run stained dirty curtain fell pole staff friendly hotel simply tired bit grotty cant fault location major revamp premier inn hill miles similar price", "Date": "2012-03-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Saxilby, United Kingdom", "Title": "\u201cGreat location, just the job\u201d", "Author": "bikesbmr", "ReviewID": "UR124271318", "Content": "stayed visiting london hotel location excellent transport centre london 5 minute walk underground station close nice pubs shops restaurants street pub restaurant door nice pub serves breakfast eat clean spacious family booked advance rate \u00a325 normally \u00a375 mark ground floor contrary reviews tube line note baths showers larger normal shower cubicle nice staff encountered friendly willing help pleasent stay", "Date": "2012-02-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Wolverhampton, United Kingdom", "Title": "\u201cArtwork on walls in a Travelodge?\u201d", "Author": "Rainbows75", "ReviewID": "UR123113986", "Content": "booked six months advance paid family 2 couple days christmas visiting family surprised clean decorative little travelodge central line passed hotel didnt notice receptionist helpful available time mentioned travelodge signposted able busy road past car park welllit secure leave car overnight book travelodge youd book deal easy walk morning leaving car getting breakfast local cafe surrounding pleasant evening meal hard", "Date": "2012-01-15 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Leeds", "Title": "\u201cBig Disappointment\u201d", "Author": "jillip", "ReviewID": "UR121375642", "Content": "booked advanced paid night 2 nights arrived stay booked hotel parking close proximity underground london sons wedding intention using car instead stay travelodge underground nearly mile re arrange plans wedding car inconvenience travelodge measly \u00a35000 voucher", "Date": "2011-12-04 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Cheddar, United Kingdom", "Title": "\u201cone of the best!\u201d", "Author": "sbarrett91", "ReviewID": "UR110667043", "Content": "read mixed reviews booking didnt expect expected noisy pipes didnt hear peep greeted lovely female receptionist feel welcome unlike liverpool street travelodge clean tidy quiet nights sleep ater watching shrek musical theatre royal worth defintely using travelodge vending machine selling usual shampoos shower gels etc useful", "Date": "2011-05-31 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Wrexham, United Kingdom", "Title": "\u201cWouldn't return\u201d", "Author": "catrinheledd", "ReviewID": "UR91588539", "Content": "hotel okay usual travelodge basic stayed 5 nights clean sheets towels day staying towels toilet roll ran week corridor strong smell ground floor coming hotel ideal children reception staff males ones rude unhelpful toby door awful staff miserable told food served breakfast served bag outside 700 school packed lunch style hotel extremely noisy sleep night pipes noisy door shower woken location hand excellent walking distance tesco convenient buy toilet roll boots newsagent lovely chinese restraunt corner tube station 2 minute walk 20 mins oxford street main shops parking drive okay staying night im student fussy expect", "Date": "2011-01-03 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Worcester, United Kingdom", "Title": "\u201cAn OK hotel, but needs a few things being done.\u201d", "Author": "MidnightGuard", "ReviewID": "UR80644880", "Content": "note \u00e2\u20ac\u201c it\u00e2\u20ac\u2122s travelodge negatives bathroom lights temperamental \u00e2\u20ac\u201c occasionally door shower pipes vibrate it\u00e2\u20ac\u2122s loud \u00e2\u20ac\u201c especially they\u00e2\u20ac\u2122re showering 1 morning breakfast bag day outside door 0700 inside bag orange juice croissant jam cereals chocolate muffin longlife milk type it\u00e2\u20ac\u2122s perfect \u00e2\u20ac\u201c it\u00e2\u20ac\u2122s expected jam flavours vary cereals warning smartphone users wifi due 3g \u00e2\u20ac\u201c hated time connected internet login page pop bit tedious positives location 2 minute walk underground surrounding quiet price cheap approximately \u00e2\u00a3250 5 nights", "Date": "2010-09-22 00:00:00"}], "HotelInfo": {"Name": "Travelodge Snaresbrook", "HotelURL": "/ShowUserReviews-g186338-d630310-Reviews-Travelodge_Snaresbrook-London_England.html", "Price": "0", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">73 Hollybush Hill</span> | <span class=\"extended-address\">Snaresbrook</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">E11 1PE</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> (Formerly London Snaresbrook)</span> </span> </address>", "HotelID": "630310", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cPoor standard, not recommended\u201d",
+      "Author": "jdavies2001",
+      "ReviewID": "UR125713829",
+      "Content": "travelodge pretty run stained dirty curtain fell pole staff friendly hotel simply tired bit grotty cant fault location major revamp premier inn hill miles similar price",
+      "Date": "2012-03-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Saxilby, United Kingdom",
+      "Title": "\u201cGreat location, just the job\u201d",
+      "Author": "bikesbmr",
+      "ReviewID": "UR124271318",
+      "Content": "stayed visiting london hotel location excellent transport centre london 5 minute walk underground station close nice pubs shops restaurants street pub restaurant door nice pub serves breakfast eat clean spacious family booked advance rate \u00a325 normally \u00a375 mark ground floor contrary reviews tube line note baths showers larger normal shower cubicle nice staff encountered friendly willing help pleasent stay",
+      "Date": "2012-02-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Wolverhampton, United Kingdom",
+      "Title": "\u201cArtwork on walls in a Travelodge?\u201d",
+      "Author": "Rainbows75",
+      "ReviewID": "UR123113986",
+      "Content": "booked six months advance paid family 2 couple days christmas visiting family surprised clean decorative little travelodge central line passed hotel didnt notice receptionist helpful available time mentioned travelodge signposted able busy road past car park welllit secure leave car overnight book travelodge youd book deal easy walk morning leaving car getting breakfast local cafe surrounding pleasant evening meal hard",
+      "Date": "2012-01-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Leeds",
+      "Title": "\u201cBig Disappointment\u201d",
+      "Author": "jillip",
+      "ReviewID": "UR121375642",
+      "Content": "booked advanced paid night 2 nights arrived stay booked hotel parking close proximity underground london sons wedding intention using car instead stay travelodge underground nearly mile re arrange plans wedding car inconvenience travelodge measly \u00a35000 voucher",
+      "Date": "2011-12-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Cheddar, United Kingdom",
+      "Title": "\u201cone of the best!\u201d",
+      "Author": "sbarrett91",
+      "ReviewID": "UR110667043",
+      "Content": "read mixed reviews booking didnt expect expected noisy pipes didnt hear peep greeted lovely female receptionist feel welcome unlike liverpool street travelodge clean tidy quiet nights sleep ater watching shrek musical theatre royal worth defintely using travelodge vending machine selling usual shampoos shower gels etc useful",
+      "Date": "2011-05-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Wrexham, United Kingdom",
+      "Title": "\u201cWouldn't return\u201d",
+      "Author": "catrinheledd",
+      "ReviewID": "UR91588539",
+      "Content": "hotel okay usual travelodge basic stayed 5 nights clean sheets towels day staying towels toilet roll ran week corridor strong smell ground floor coming hotel ideal children reception staff males ones rude unhelpful toby door awful staff miserable told food served breakfast served bag outside 700 school packed lunch style hotel extremely noisy sleep night pipes noisy door shower woken location hand excellent walking distance tesco convenient buy toilet roll boots newsagent lovely chinese restraunt corner tube station 2 minute walk 20 mins oxford street main shops parking drive okay staying night im student fussy expect",
+      "Date": "2011-01-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Worcester, United Kingdom",
+      "Title": "\u201cAn OK hotel, but needs a few things being done.\u201d",
+      "Author": "MidnightGuard",
+      "ReviewID": "UR80644880",
+      "Content": "note \u00e2\u20ac\u201c it\u00e2\u20ac\u2122s travelodge negatives bathroom lights temperamental \u00e2\u20ac\u201c occasionally door shower pipes vibrate it\u00e2\u20ac\u2122s loud \u00e2\u20ac\u201c especially they\u00e2\u20ac\u2122re showering 1 morning breakfast bag day outside door 0700 inside bag orange juice croissant jam cereals chocolate muffin longlife milk type it\u00e2\u20ac\u2122s perfect \u00e2\u20ac\u201c it\u00e2\u20ac\u2122s expected jam flavours vary cereals warning smartphone users wifi due 3g \u00e2\u20ac\u201c hated time connected internet login page pop bit tedious positives location 2 minute walk underground surrounding quiet price cheap approximately \u00e2\u00a3250 5 nights",
+      "Date": "2010-09-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Travelodge Snaresbrook",
+    "HotelURL": "/ShowUserReviews-g186338-d630310-Reviews-Travelodge_Snaresbrook-London_England.html",
+    "Price": "0",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">73 Hollybush Hill</span> | <span class=\"extended-address\">Snaresbrook</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">E11 1PE</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> (Formerly London Snaresbrook)</span> </span> </address>",
+    "HotelID": "630310",
+    "ImgURL": ""
+  }
+}

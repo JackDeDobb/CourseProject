@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Glasgow, United Kingdom", "Title": "\u201cNot great.\u201d", "Author": "Phospheris", "ReviewID": "UR120798794", "Content": "wasnt worst ive stayed funny story hard completely negative huge selling location minute street forum 5 minutes colosseum 5 minutes birthday cake awesome location wasnt explaining ill seeing night porter towel expected breakfast horrendous dont bother giving croissants packet theyre chewy minging difficult main street cavour towards forum brown door signage noticed enter lift floor hotel little cost bathroom isnt separate walls raised cubicle corner air conditioning looked pretty liked decor traditional looking key huge sort air authentic tradition bed massive 10 hours walking rome course location close outweighed bad breakfast overpriced dont recommend theres probably nicer road", "Date": "2011-11-19 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Manchester", "Title": "\u201cGood budget option, nice location\u201d", "Author": "Rackidoo", "ReviewID": "UR118536451", "Content": "hotel 5 mins walk colloseum metro stop location handy wasnt ready arrived 1pm lady reception friendly wait lobby pleasant surprise modern classical scruffy clean bathroom size aircon fair raised issue naturally cool 4 5 hadnt woken night 4am lots guests shouting laughing staff reception noise advice offered staff rome questionable directed restaurant didnt exist told wrong bus route friendly polite overall stay recommend hotel price cleanliness location main priorities", "Date": "2011-09-24 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Leeds", "Title": "\u201cWould never stay here again !!!\u201d", "Author": "UK-Leeds", "ReviewID": "UR80052446", "Content": "arriving train journey como arrived 530 travelling son booked twin initially shown tiny door double bed told twin obviously sent 15 minutes told available coffee street shown double single bed main road overall impression 205 dingy smelly towels clean decent size fashioned air conditioning unit noisy toilet flush son hand cistern times release flushing mechanism ideal holiday shower doors plastic sliding doors grimy damp black marks 1 am air conditioning stopped sleep noisy road windows morning shower broken hold shower head outr hand shower told air con emptying night kept air con 4 am toilet consequently stepped floor covered water deep consequently slipped fell hurting hip leg seen blankets sheets towels mop 6 am pompei knock explain faults hairdryer broke time flood broken toilet shower move concern shown fallen acknowledged evening moved tiny scruffy couldnt swing cat trip 13 hours didnt energy argue bed oh coffee wasnt tea coffee facilities hotel road morning coffee stay discount inconvenience happened home unfortunate letting leave bags free charge afternoon redeeming feature location stop decent hotel aswell", "Date": "2010-09-18 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Chilliwack", "Title": "\u201cGreat staff, great location\u201d", "Author": "AndyCatChilliwack", "ReviewID": "UR71295591", "Content": "dont weird cage elevator youre buzzed hotel reception third floor 4th north american counting dont carry bags floors tad livedin glimpsed couple looked nice fresh son recommended cavour colosseum street facing cavour wasnt noisy theres breakfast modest nice continental breakfast served whatever time choose complete cappuccino prefer nice helpful staff restaurant street terrific", "Date": "2010-07-17 00:00:00"}], "HotelInfo": {"Name": "Hotel Labelle", "HotelURL": "/ShowUserReviews-g187791-d568348-Reviews-Hotel_Labelle-Rome_Lazio.html", "Price": "$99 - $215*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">310, v. Cavour</span>, <span class=\"locality\"><span property=\"v:postal-code\">00184</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "568348", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0d/59/0d5978124c790611b899acecfbbf01a81large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Glasgow, United Kingdom",
+      "Title": "\u201cNot great.\u201d",
+      "Author": "Phospheris",
+      "ReviewID": "UR120798794",
+      "Content": "wasnt worst ive stayed funny story hard completely negative huge selling location minute street forum 5 minutes colosseum 5 minutes birthday cake awesome location wasnt explaining ill seeing night porter towel expected breakfast horrendous dont bother giving croissants packet theyre chewy minging difficult main street cavour towards forum brown door signage noticed enter lift floor hotel little cost bathroom isnt separate walls raised cubicle corner air conditioning looked pretty liked decor traditional looking key huge sort air authentic tradition bed massive 10 hours walking rome course location close outweighed bad breakfast overpriced dont recommend theres probably nicer road",
+      "Date": "2011-11-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Manchester",
+      "Title": "\u201cGood budget option, nice location\u201d",
+      "Author": "Rackidoo",
+      "ReviewID": "UR118536451",
+      "Content": "hotel 5 mins walk colloseum metro stop location handy wasnt ready arrived 1pm lady reception friendly wait lobby pleasant surprise modern classical scruffy clean bathroom size aircon fair raised issue naturally cool 4 5 hadnt woken night 4am lots guests shouting laughing staff reception noise advice offered staff rome questionable directed restaurant didnt exist told wrong bus route friendly polite overall stay recommend hotel price cleanliness location main priorities",
+      "Date": "2011-09-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Leeds",
+      "Title": "\u201cWould never stay here again !!!\u201d",
+      "Author": "UK-Leeds",
+      "ReviewID": "UR80052446",
+      "Content": "arriving train journey como arrived 530 travelling son booked twin initially shown tiny door double bed told twin obviously sent 15 minutes told available coffee street shown double single bed main road overall impression 205 dingy smelly towels clean decent size fashioned air conditioning unit noisy toilet flush son hand cistern times release flushing mechanism ideal holiday shower doors plastic sliding doors grimy damp black marks 1 am air conditioning stopped sleep noisy road windows morning shower broken hold shower head outr hand shower told air con emptying night kept air con 4 am toilet consequently stepped floor covered water deep consequently slipped fell hurting hip leg seen blankets sheets towels mop 6 am pompei knock explain faults hairdryer broke time flood broken toilet shower move concern shown fallen acknowledged evening moved tiny scruffy couldnt swing cat trip 13 hours didnt energy argue bed oh coffee wasnt tea coffee facilities hotel road morning coffee stay discount inconvenience happened home unfortunate letting leave bags free charge afternoon redeeming feature location stop decent hotel aswell",
+      "Date": "2010-09-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Chilliwack",
+      "Title": "\u201cGreat staff, great location\u201d",
+      "Author": "AndyCatChilliwack",
+      "ReviewID": "UR71295591",
+      "Content": "dont weird cage elevator youre buzzed hotel reception third floor 4th north american counting dont carry bags floors tad livedin glimpsed couple looked nice fresh son recommended cavour colosseum street facing cavour wasnt noisy theres breakfast modest nice continental breakfast served whatever time choose complete cappuccino prefer nice helpful staff restaurant street terrific",
+      "Date": "2010-07-17 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Labelle",
+    "HotelURL": "/ShowUserReviews-g187791-d568348-Reviews-Hotel_Labelle-Rome_Lazio.html",
+    "Price": "$99 - $215*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">310, v. Cavour</span>, <span class=\"locality\"><span property=\"v:postal-code\">00184</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "568348",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0d/59/0d5978124c790611b899acecfbbf01a81large.jpg"
+  }
+}

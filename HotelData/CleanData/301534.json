@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Bangalore, India", "Title": "\u201cDubai Feb 2012\u201d", "Author": "skfamily_15", "ReviewID": "UR125745914", "Content": "decent live dubai sized double centre plan dubai location central restaurants available hotel referred fortune plaza accessible dubai metro clubs decide stay", "Date": "2012-03-07 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Belfast, United Kingdom", "Title": "\u201cFilthy !!!\u201d", "Author": "Shaz230", "ReviewID": "UR120818275", "Content": "booked hotel close airport shower change flight close airport smelt toilet filthy carpet threadbare covered stains bedside cabinet unused thankfully spent day didnt showe towels dirty redeeming feature didnt actually sleep bed", "Date": "2011-11-20 00:00:00"}], "HotelInfo": {"Name": "Princess Hotel", "HotelURL": "/ShowUserReviews-g295424-d301534-Reviews-Princess_Hotel-Dubai.html", "Price": "$41*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Al Nahdha Rd</span> | <span class=\"extended-address\">nr Airport Terminal 2</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "301534", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bangalore, India",
+      "Title": "\u201cDubai Feb 2012\u201d",
+      "Author": "skfamily_15",
+      "ReviewID": "UR125745914",
+      "Content": "decent live dubai sized double centre plan dubai location central restaurants available hotel referred fortune plaza accessible dubai metro clubs decide stay",
+      "Date": "2012-03-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Belfast, United Kingdom",
+      "Title": "\u201cFilthy !!!\u201d",
+      "Author": "Shaz230",
+      "ReviewID": "UR120818275",
+      "Content": "booked hotel close airport shower change flight close airport smelt toilet filthy carpet threadbare covered stains bedside cabinet unused thankfully spent day didnt showe towels dirty redeeming feature didnt actually sleep bed",
+      "Date": "2011-11-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Princess Hotel",
+    "HotelURL": "/ShowUserReviews-g295424-d301534-Reviews-Princess_Hotel-Dubai.html",
+    "Price": "$41*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Al Nahdha Rd</span> | <span class=\"extended-address\">nr Airport Terminal 2</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "301534",
+    "ImgURL": ""
+  }
+}

@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Ho Chi Minh City, Vietnam", "Title": "\u201cGood location for airport/Feria, not too far from town\u201d", "Author": "ComeAndGoVietnam", "ReviewID": "UR93981266", "Content": "attending feria de madrid near airport booked dont travel day hotel located barajas frankly pretty rough madrid hotel 10 minutes walk barajas metro easy stop en route able direct 5 mins walk bus 101 stop goes airport bathroom bathshower tv minibar adsl internet staff helpful friendly buffet breakfast worth cost continental isnt barajas pretty shabby superb restaurants near hotel notably el de upmarket la value spanish food el principal rough ready workers bar set menus centre city 3040 minutes metro 1 euro value metro system europe short youre madrid purely tourism youre centre town near airport exhibition centre real gem", "Date": "2011-01-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Prague, Czech Republic", "Title": "\u201cNice small hotel close to the Barajas Airport\u201d", "Author": "MalvolioBlanco", "ReviewID": "UR75140164", "Content": "obviously chose hotel location due late arrival departure barajas airport recommend hotel stay city hotel ideally located 5 mins walk barajas tube station offers nice familylike atmosphere service staff delicious breakfastall reasonable price definately stay trip madrid spain", "Date": "2010-08-14 00:00:00"}], "HotelInfo": {"Name": "Don Luis", "HotelURL": "/ShowUserReviews-g187514-d503539-Reviews-Don_Luis-Madrid.html", "Price": "$54 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Avda General, 12</span>, <span class=\"locality\"><span property=\"v:postal-code\">28042</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "503539", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/67/80/67801491d54b836f40bb133bf2236c9f5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Ho Chi Minh City, Vietnam",
+      "Title": "\u201cGood location for airport/Feria, not too far from town\u201d",
+      "Author": "ComeAndGoVietnam",
+      "ReviewID": "UR93981266",
+      "Content": "attending feria de madrid near airport booked dont travel day hotel located barajas frankly pretty rough madrid hotel 10 minutes walk barajas metro easy stop en route able direct 5 mins walk bus 101 stop goes airport bathroom bathshower tv minibar adsl internet staff helpful friendly buffet breakfast worth cost continental isnt barajas pretty shabby superb restaurants near hotel notably el de upmarket la value spanish food el principal rough ready workers bar set menus centre city 3040 minutes metro 1 euro value metro system europe short youre madrid purely tourism youre centre town near airport exhibition centre real gem",
+      "Date": "2011-01-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Prague, Czech Republic",
+      "Title": "\u201cNice small hotel close to the Barajas Airport\u201d",
+      "Author": "MalvolioBlanco",
+      "ReviewID": "UR75140164",
+      "Content": "obviously chose hotel location due late arrival departure barajas airport recommend hotel stay city hotel ideally located 5 mins walk barajas tube station offers nice familylike atmosphere service staff delicious breakfastall reasonable price definately stay trip madrid spain",
+      "Date": "2010-08-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Don Luis",
+    "HotelURL": "/ShowUserReviews-g187514-d503539-Reviews-Don_Luis-Madrid.html",
+    "Price": "$54 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Avda General, 12</span>, <span class=\"locality\"><span property=\"v:postal-code\">28042</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "503539",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/67/80/67801491d54b836f40bb133bf2236c9f5large.jpg"
+  }
+}

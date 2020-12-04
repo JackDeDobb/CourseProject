@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Los Angeles, California", "Title": "\u201cGreat find in a spread out city!\u201d", "Author": "NJGirlvTheWorld", "ReviewID": "UR125445141", "Content": "tough time finding hotel berlin city spread wasnt town maximize time im solo female traveler budget typically look wallet friendly safe neighborhood particularly night close transit free wireless internet own bathroom hotel arrived brussels wasnt ready front desk rush ready offered complimentary wine waited gentlemen tired traveling 3rd stop 5 city tour 3045 minutes ready spacious clean didnt sleep bed bed comfortable starting little sick trying fight bit confused bahn system arrived spending 5 minutes front desk incredibly helpful travels questions isnt sightseeing o2 world arena train 5 minute walk stops city center attractions hotel quiet low profile neighborhood women walking children normal everyday activities return sightseeing night 100 comfortable walked past bars looked time tired stop trying fight cold front desk arranged cab airport morning 5am desk told key packed breakfast kept fridge time stood outside 1015 minutes waiting cab 445am dark completely comfortable found hotel minute booking hotel im glad absolutely met stated budget friendly", "Date": "2012-03-01 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Bury, manchester", "Title": "\u201cGreat location as a base in Berlin\u201d", "Author": "Brian96", "ReviewID": "UR121544983", "Content": "reading reviews book anyway stayed 4th 7th december 2011 mentioned short walk bahn train services main quickly breakfast fine selection cereals cold meats bread eggs sausages staff experienced poor service mentioned reviews attitude customers bed tv shower toilet folks sleep days city probably spring summer reason stay tip teh bus tour morning fine day walking tour 3 12 4 hour walk break information knowledge hard guarantee maintained plus course questions wander tours extra time woudl couple try instead bus close", "Date": "2011-12-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Brighton, United Kingdom", "Title": "\u201cLovely hotel tucked away from it all!\u201d", "Author": "Pammi0203", "ReviewID": "UR94937537", "Content": "arrived earlier check friendly staff happy look hotel 5 mins walk train station o2 centre 15mins walk bedroom bathroom clean tidy bedrooms inner courtyard totally silent night enjoyed breakfast 6euros probably experienced lots fresh fruit yoghurts cereals eggs sausages plus continental breakfast choices lovely choice hot drinks topped required attentive staff supermarket mins walk plenty cafes restaurants locally", "Date": "2011-01-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Tel Aviv, Israel", "Title": "\u201cgreat hospitality, very rich breakfast and good sleep quality\u201d", "Author": "lior14", "ReviewID": "UR92507606", "Content": "liked staff hotel hospitality hotel equiped facilities public ars clean liked stay hotel stays berlin", "Date": "2011-01-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Frankfurt", "Title": "\u201cgreat hotel, perfect value for money\u201d", "Author": "arnsch", "ReviewID": "UR75421926", "Content": "stays enjoyed minute stay location neighborhood acess public transport easy 10minute walk supermarket midnight close staff friendly helpful times clean perfect breakfast special perfect included rate definitely value money", "Date": "2010-08-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Steiermark", "Title": "\u201cGem hidden in a courtyard\u201d", "Author": "Austriacus", "ReviewID": "UR71226106", "Content": "half dozen stays berlin course little suspicious learnt nu hotel berlin offer service rate typical berlins accommodations booked hotel despite distrust regretted entire little hotel situated court none affected street noise hotel perfect shape stayed equipped kingsize bed suspect doubleroom couple indeed cupboard space scarce missed modern designed piece furniture suitcase unpack pack floor avoid laying suitcase white bedsheets apart essentials desk decent lamp comfortable chair appreciated comfort bed am looking rarely hotels nu hotel berlin special pillows request stay coincided terrible heat wave nu hotel berlin airconditioned kept falling asleep leave window wide due tranquillity bit nuisance poorly constructed swivel door shower cabin required hard pulling pushing close outside floor otherwise cleverly designed albeit bathroom wet leaves shower attempts successful technique avoid staff friendly helpful especially attentive breakfast miss breakfast buffet fruits freshly prepared fruit salad scrambled eggs ubahn sbahn stations warschauer strasse corned short walking distance provide excellent connections enormous plus huge restaurants nearby summed recommend hotel reservations offers value astonishingly little money couples matter", "Date": "2010-07-17 00:00:00"}], "HotelInfo": {"Name": "nu hotel berlin", "HotelURL": "/ShowUserReviews-g187323-d1308958-Reviews-Nu_hotel_berlin-Berlin.html", "Price": "$72 - $114*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gubener Strasse 46/47</span>, <span class=\"locality\"><span property=\"v:postal-code\">10243</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "1308958", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/dc/c3/12/getlstd-property-photo.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Los Angeles, California",
+      "Title": "\u201cGreat find in a spread out city!\u201d",
+      "Author": "NJGirlvTheWorld",
+      "ReviewID": "UR125445141",
+      "Content": "tough time finding hotel berlin city spread wasnt town maximize time im solo female traveler budget typically look wallet friendly safe neighborhood particularly night close transit free wireless internet own bathroom hotel arrived brussels wasnt ready front desk rush ready offered complimentary wine waited gentlemen tired traveling 3rd stop 5 city tour 3045 minutes ready spacious clean didnt sleep bed bed comfortable starting little sick trying fight bit confused bahn system arrived spending 5 minutes front desk incredibly helpful travels questions isnt sightseeing o2 world arena train 5 minute walk stops city center attractions hotel quiet low profile neighborhood women walking children normal everyday activities return sightseeing night 100 comfortable walked past bars looked time tired stop trying fight cold front desk arranged cab airport morning 5am desk told key packed breakfast kept fridge time stood outside 1015 minutes waiting cab 445am dark completely comfortable found hotel minute booking hotel im glad absolutely met stated budget friendly",
+      "Date": "2012-03-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bury, manchester",
+      "Title": "\u201cGreat location as a base in Berlin\u201d",
+      "Author": "Brian96",
+      "ReviewID": "UR121544983",
+      "Content": "reading reviews book anyway stayed 4th 7th december 2011 mentioned short walk bahn train services main quickly breakfast fine selection cereals cold meats bread eggs sausages staff experienced poor service mentioned reviews attitude customers bed tv shower toilet folks sleep days city probably spring summer reason stay tip teh bus tour morning fine day walking tour 3 12 4 hour walk break information knowledge hard guarantee maintained plus course questions wander tours extra time woudl couple try instead bus close",
+      "Date": "2011-12-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Brighton, United Kingdom",
+      "Title": "\u201cLovely hotel tucked away from it all!\u201d",
+      "Author": "Pammi0203",
+      "ReviewID": "UR94937537",
+      "Content": "arrived earlier check friendly staff happy look hotel 5 mins walk train station o2 centre 15mins walk bedroom bathroom clean tidy bedrooms inner courtyard totally silent night enjoyed breakfast 6euros probably experienced lots fresh fruit yoghurts cereals eggs sausages plus continental breakfast choices lovely choice hot drinks topped required attentive staff supermarket mins walk plenty cafes restaurants locally",
+      "Date": "2011-01-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Tel Aviv, Israel",
+      "Title": "\u201cgreat hospitality, very rich breakfast and good sleep quality\u201d",
+      "Author": "lior14",
+      "ReviewID": "UR92507606",
+      "Content": "liked staff hotel hospitality hotel equiped facilities public ars clean liked stay hotel stays berlin",
+      "Date": "2011-01-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Frankfurt",
+      "Title": "\u201cgreat hotel, perfect value for money\u201d",
+      "Author": "arnsch",
+      "ReviewID": "UR75421926",
+      "Content": "stays enjoyed minute stay location neighborhood acess public transport easy 10minute walk supermarket midnight close staff friendly helpful times clean perfect breakfast special perfect included rate definitely value money",
+      "Date": "2010-08-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Steiermark",
+      "Title": "\u201cGem hidden in a courtyard\u201d",
+      "Author": "Austriacus",
+      "ReviewID": "UR71226106",
+      "Content": "half dozen stays berlin course little suspicious learnt nu hotel berlin offer service rate typical berlins accommodations booked hotel despite distrust regretted entire little hotel situated court none affected street noise hotel perfect shape stayed equipped kingsize bed suspect doubleroom couple indeed cupboard space scarce missed modern designed piece furniture suitcase unpack pack floor avoid laying suitcase white bedsheets apart essentials desk decent lamp comfortable chair appreciated comfort bed am looking rarely hotels nu hotel berlin special pillows request stay coincided terrible heat wave nu hotel berlin airconditioned kept falling asleep leave window wide due tranquillity bit nuisance poorly constructed swivel door shower cabin required hard pulling pushing close outside floor otherwise cleverly designed albeit bathroom wet leaves shower attempts successful technique avoid staff friendly helpful especially attentive breakfast miss breakfast buffet fruits freshly prepared fruit salad scrambled eggs ubahn sbahn stations warschauer strasse corned short walking distance provide excellent connections enormous plus huge restaurants nearby summed recommend hotel reservations offers value astonishingly little money couples matter",
+      "Date": "2010-07-17 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "nu hotel berlin",
+    "HotelURL": "/ShowUserReviews-g187323-d1308958-Reviews-Nu_hotel_berlin-Berlin.html",
+    "Price": "$72 - $114*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gubener Strasse 46/47</span>, <span class=\"locality\"><span property=\"v:postal-code\">10243</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "1308958",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/dc/c3/12/getlstd-property-photo.jpg"
+  }
+}

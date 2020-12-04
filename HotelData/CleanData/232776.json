@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Dublin", "Title": "\u201cReview of Eurostars Parc del Valles, Barcelona\u201d", "Author": "Kelsey W", "ReviewID": "UR128216202", "Content": "price reasonable five nights city centre bus stop front hotel road convenient taking bus friend train station free breakfast bummer hotel offered computer speed internet couple free maps barcelona stay recommend dont mind travelling outside city hotel", "Date": "2012-04-20 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Leeds", "Title": "\u201cBest price hotel but far away\u201d", "Author": "herolina", "ReviewID": "UR124187973", "Content": "husband enjoyed stay hotel hotel centre taxi 6 euro bus stop front hotel didnt usethere bar opposite reception taste spanish international beers benefit limited food menuthe reception lobby bar staff friendlythe housekeeping inernet free breakfast pastries delicious", "Date": "2012-02-06 00:00:00"}], "HotelInfo": {"Name": "Eurostars Hotel Parc del Valles", "HotelURL": "/ShowUserReviews-g187497-d232776-Reviews-Eurostars_Hotel_Parc_del_Valles-Barcelona_Catalonia.html", "Price": "$62 - $142*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/ Artesans 2-8</span>, <span class=\"locality\"><span property=\"v:postal-code\">08290</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> (Formerly Parc del Vall&egrave;s Hotel)</span></span></address>", "HotelID": "232776", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/3b/6a/3b6a60805f540b93fd108f59969c9cfe4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Dublin",
+      "Title": "\u201cReview of Eurostars Parc del Valles, Barcelona\u201d",
+      "Author": "Kelsey W",
+      "ReviewID": "UR128216202",
+      "Content": "price reasonable five nights city centre bus stop front hotel road convenient taking bus friend train station free breakfast bummer hotel offered computer speed internet couple free maps barcelona stay recommend dont mind travelling outside city hotel",
+      "Date": "2012-04-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Leeds",
+      "Title": "\u201cBest price hotel but far away\u201d",
+      "Author": "herolina",
+      "ReviewID": "UR124187973",
+      "Content": "husband enjoyed stay hotel hotel centre taxi 6 euro bus stop front hotel didnt usethere bar opposite reception taste spanish international beers benefit limited food menuthe reception lobby bar staff friendlythe housekeeping inernet free breakfast pastries delicious",
+      "Date": "2012-02-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Eurostars Hotel Parc del Valles",
+    "HotelURL": "/ShowUserReviews-g187497-d232776-Reviews-Eurostars_Hotel_Parc_del_Valles-Barcelona_Catalonia.html",
+    "Price": "$62 - $142*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/ Artesans 2-8</span>, <span class=\"locality\"><span property=\"v:postal-code\">08290</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> (Formerly Parc del Vall&egrave;s Hotel)</span></span></address>",
+    "HotelID": "232776",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/3b/6a/3b6a60805f540b93fd108f59969c9cfe4large.jpg"
+  }
+}

@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Nashville, Tennessee", "Title": "\u201cGreat motel off the beaten path!\u201d", "Author": "woodyball6", "ReviewID": "UR122380927", "Content": "spent nights 1230 1231 clean bed comfortable quiet stated airplane noise close airport heard plane time evening parking lot gated key access liked quiet definitely stay memphis easy access interstate little restaurant road kettle review restaurants eat motel free breakfast slept morning drawback parking morning 100 am parking park front walk building am parking spots rent appear stay smoking smelled fresh pleasantly surprised smoking smell terrible smoker", "Date": "2012-01-01 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Montreal, Canada", "Title": "\u201cGreat place near the airport, Graceland. Good, friendly service, too.\u201d", "Author": "okazon69", "ReviewID": "UR121520527", "Content": "hotel located industrial near airport nice spend night quick call courtesy phone airport brought shuttle 10 minutes quick drive hotel able check checkin recognition guests elite status bw rewards program offer upgrade gift bag bonus bit unfortunate comfortably arranged sitting desk comfortable king bed enclosed bathtoilet sink closet flat screen tv ample lighting looked recently renovated clean tidy shower head definitely water saver model gallons gallons hot water available pressure towels adequate bit larger internet connection albeit slowly jack ethernet connection cable provided couldnt check breakfast decent choices including waffles yogurt biscuits grits cereal fresh fruit various breads juices coffee overall departure offered shuttle ride nearby convenient appreciated id recommend hotel future stay memphis near airport visit graceland", "Date": "2011-12-08 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Dayton, Ohio", "Title": "\u201cbest western executive inn memphis\u201d", "Author": "debbyt1051", "ReviewID": "UR120507748", "Content": "okay stayed 2 nights getaway weekend couple breakfast posted time dont replenish items gates lower expectations adquate stay", "Date": "2011-11-12 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 4.0, "Location": 1.0}, "AuthorLocation": "Bonney Lake", "Title": "\u201cSo-So\u201d", "Author": "mdtravelling", "ReviewID": "UR82156465", "Content": "bad start key card door third try reprogramming key manager finally reprogrammed lock security gates fencing create impression clean bed comfortable sleep hard street building rough street lots truck traffic stay hotel", "Date": "2010-10-05 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "Ohio", "Title": "\u201cFind a better area !!!\u201d", "Author": "NorthernOhio", "ReviewID": "UR60912303", "Content": "location respect access graceland driving mansion extremely easy \u00e2\u20ac\u00a6 it\u00e2\u20ac\u2122s hood half homes businesses boarded weeds growing yards parking lots scared stop eat graceland kept safe daytime opinion hotel priced located hood issues include wireless network connection didn\u00e2\u20ac\u2122t alarm clock broken it\u00e2\u20ac\u2122s mediocre carpet smell etc wouldnt stay drive graceland park day leave", "Date": "2010-04-10 00:00:00"}], "HotelInfo": {"Name": "BEST WESTERN Executive Inn", "HotelURL": "/ShowUserReviews-g55197-d239950-Reviews-BEST_WESTERN_Executive_Inn-Memphis_Tennessee.html", "Price": "$88 - $104*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3105 Millbranch Road</span>, <span class=\"locality\"><span property=\"v:locality\">Memphis</span>, <span property=\"v:region\">TN</span> <span property=\"v:postal-code\">38116-1917</span></span> </span> </span> </address>", "HotelID": "239950", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0f/d7/0fd7c98c7fcd1abb2279be5dc7bf25fe5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Nashville, Tennessee",
+      "Title": "\u201cGreat motel off the beaten path!\u201d",
+      "Author": "woodyball6",
+      "ReviewID": "UR122380927",
+      "Content": "spent nights 1230 1231 clean bed comfortable quiet stated airplane noise close airport heard plane time evening parking lot gated key access liked quiet definitely stay memphis easy access interstate little restaurant road kettle review restaurants eat motel free breakfast slept morning drawback parking morning 100 am parking park front walk building am parking spots rent appear stay smoking smelled fresh pleasantly surprised smoking smell terrible smoker",
+      "Date": "2012-01-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Montreal, Canada",
+      "Title": "\u201cGreat place near the airport, Graceland. Good, friendly service, too.\u201d",
+      "Author": "okazon69",
+      "ReviewID": "UR121520527",
+      "Content": "hotel located industrial near airport nice spend night quick call courtesy phone airport brought shuttle 10 minutes quick drive hotel able check checkin recognition guests elite status bw rewards program offer upgrade gift bag bonus bit unfortunate comfortably arranged sitting desk comfortable king bed enclosed bathtoilet sink closet flat screen tv ample lighting looked recently renovated clean tidy shower head definitely water saver model gallons gallons hot water available pressure towels adequate bit larger internet connection albeit slowly jack ethernet connection cable provided couldnt check breakfast decent choices including waffles yogurt biscuits grits cereal fresh fruit various breads juices coffee overall departure offered shuttle ride nearby convenient appreciated id recommend hotel future stay memphis near airport visit graceland",
+      "Date": "2011-12-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Dayton, Ohio",
+      "Title": "\u201cbest western executive inn memphis\u201d",
+      "Author": "debbyt1051",
+      "ReviewID": "UR120507748",
+      "Content": "okay stayed 2 nights getaway weekend couple breakfast posted time dont replenish items gates lower expectations adquate stay",
+      "Date": "2011-11-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 4.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Bonney Lake",
+      "Title": "\u201cSo-So\u201d",
+      "Author": "mdtravelling",
+      "ReviewID": "UR82156465",
+      "Content": "bad start key card door third try reprogramming key manager finally reprogrammed lock security gates fencing create impression clean bed comfortable sleep hard street building rough street lots truck traffic stay hotel",
+      "Date": "2010-10-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Ohio",
+      "Title": "\u201cFind a better area !!!\u201d",
+      "Author": "NorthernOhio",
+      "ReviewID": "UR60912303",
+      "Content": "location respect access graceland driving mansion extremely easy \u00e2\u20ac\u00a6 it\u00e2\u20ac\u2122s hood half homes businesses boarded weeds growing yards parking lots scared stop eat graceland kept safe daytime opinion hotel priced located hood issues include wireless network connection didn\u00e2\u20ac\u2122t alarm clock broken it\u00e2\u20ac\u2122s mediocre carpet smell etc wouldnt stay drive graceland park day leave",
+      "Date": "2010-04-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "BEST WESTERN Executive Inn",
+    "HotelURL": "/ShowUserReviews-g55197-d239950-Reviews-BEST_WESTERN_Executive_Inn-Memphis_Tennessee.html",
+    "Price": "$88 - $104*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3105 Millbranch Road</span>, <span class=\"locality\"><span property=\"v:locality\">Memphis</span>, <span property=\"v:region\">TN</span> <span property=\"v:postal-code\">38116-1917</span></span> </span> </span> </address>",
+    "HotelID": "239950",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0f/d7/0fd7c98c7fcd1abb2279be5dc7bf25fe5large.jpg"
+  }
+}

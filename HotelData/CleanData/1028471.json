@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Milton Keynes", "Title": "\u201cGood choice, classy decor, good transport links\u201d", "Author": "Stephen J", "ReviewID": "UR120852374", "Content": "selected hotel former east berlin near public transport facilities daughter lives berlin hotels located tram stop useful route serves inner suburbs trams lots connections rail services hotel 5 min walk warschauer str interchange stations frequent sbahn services alexanderplatz former west berlin minutes ubahn equivalent station 5 min walk road actually terminus historic original ubahn line significant surviving remnant wall 57 minutes towards river hotel redecorated redesigned classic suits name top notch breakfast ample ample choices served thin dining links lifts mirrors reflective lighting front reception doubles bar staff expects standards behaviour appearance guests reprimanded unacceptable appearance immediate surroundings nor somewhat scruffy rail station located split site air ticket hall lots regular taxis schonefeld airport taxi cant rail links humble lebanese selfservice cafe door offer food main tram service offers mix health food supermarkets chemists nail bars hand book shops hotel rail station offer terrific choice cafes restaurants specialist shops fashion shops eat clock hotel vicinity takeway cafe sunday 15 minutes north hotel park square stay", "Date": "2011-11-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Tel Aviv, Israel", "Title": "\u201cVery recommended!!!\u201d", "Author": "Dimac1982", "ReviewID": "UR113812660", "Content": "expensive nice hotel connection center berlin metro 90 euro night bb 3 persons received beautiful beautiful looks 5 star hotel swear building isnt hotel inside groom staff friendly breakfast nice im visit berlin dilemma ill sleep little hot times summer hot didnt check september aprilmay hotel", "Date": "2011-06-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 1.0}, "AuthorLocation": "Cork, Ireland", "Title": "\u201cNice Hotel, Close to S/U Banh. area not great friday/saturday nights!!\u201d", "Author": "Corkonian_85", "ReviewID": "UR66957396", "Content": "stayed hotel friday monday arrive late friday night hotel surrounded outdoor clubs fast food outlets drunk kids punk variety feel safe train platform walking 200 meters hotel hotel beauitful hear techno music clubs sounds roads outside size staff excelent breakfast day day surrounding looked fine mainly students living broken glass gound nights recomend hotel children drinking culture turnoff hotel looking cheap comfortable hotel close train lines", "Date": "2010-06-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Manchester", "Title": "\u201cRecommended\u201d", "Author": "wanna-angelina", "ReviewID": "UR57692176", "Content": "visited berlin times usually staying hostels private husband time bit treat hostels clean little cosy spend time relaxing beer dancing hotel disappoint pleased clean warm quiet surprisingly considering location busy road train station staff polite friendly bed comfy breakfast buffet fruit salad bread eggs cheese juices bar welcoming hotel makes cosy convenient maintains professional ambiance pleased rate 230 euro 3 nights sun wed hotel held bags saturday checked sunday location close main station ubahn station trams 10 minute walk panorama bar recommend stay", "Date": "2010-03-04 00:00:00"}], "HotelInfo": {"Name": "Klassik Hotel", "HotelURL": "/ShowUserReviews-g187323-d1028471-Reviews-Klassik_Hotel-Berlin.html", "Price": "$71 - $160*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Revaler Strasse 6</span>, <span class=\"locality\"><span property=\"v:postal-code\">10245</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "1028471", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/87/9e/879e16fbc0bd6ac977191f72f55a1c1e7large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Milton Keynes",
+      "Title": "\u201cGood choice, classy decor, good transport links\u201d",
+      "Author": "Stephen J",
+      "ReviewID": "UR120852374",
+      "Content": "selected hotel former east berlin near public transport facilities daughter lives berlin hotels located tram stop useful route serves inner suburbs trams lots connections rail services hotel 5 min walk warschauer str interchange stations frequent sbahn services alexanderplatz former west berlin minutes ubahn equivalent station 5 min walk road actually terminus historic original ubahn line significant surviving remnant wall 57 minutes towards river hotel redecorated redesigned classic suits name top notch breakfast ample ample choices served thin dining links lifts mirrors reflective lighting front reception doubles bar staff expects standards behaviour appearance guests reprimanded unacceptable appearance immediate surroundings nor somewhat scruffy rail station located split site air ticket hall lots regular taxis schonefeld airport taxi cant rail links humble lebanese selfservice cafe door offer food main tram service offers mix health food supermarkets chemists nail bars hand book shops hotel rail station offer terrific choice cafes restaurants specialist shops fashion shops eat clock hotel vicinity takeway cafe sunday 15 minutes north hotel park square stay",
+      "Date": "2011-11-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Tel Aviv, Israel",
+      "Title": "\u201cVery recommended!!!\u201d",
+      "Author": "Dimac1982",
+      "ReviewID": "UR113812660",
+      "Content": "expensive nice hotel connection center berlin metro 90 euro night bb 3 persons received beautiful beautiful looks 5 star hotel swear building isnt hotel inside groom staff friendly breakfast nice im visit berlin dilemma ill sleep little hot times summer hot didnt check september aprilmay hotel",
+      "Date": "2011-06-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Cork, Ireland",
+      "Title": "\u201cNice Hotel, Close to S/U Banh. area not great friday/saturday nights!!\u201d",
+      "Author": "Corkonian_85",
+      "ReviewID": "UR66957396",
+      "Content": "stayed hotel friday monday arrive late friday night hotel surrounded outdoor clubs fast food outlets drunk kids punk variety feel safe train platform walking 200 meters hotel hotel beauitful hear techno music clubs sounds roads outside size staff excelent breakfast day day surrounding looked fine mainly students living broken glass gound nights recomend hotel children drinking culture turnoff hotel looking cheap comfortable hotel close train lines",
+      "Date": "2010-06-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Manchester",
+      "Title": "\u201cRecommended\u201d",
+      "Author": "wanna-angelina",
+      "ReviewID": "UR57692176",
+      "Content": "visited berlin times usually staying hostels private husband time bit treat hostels clean little cosy spend time relaxing beer dancing hotel disappoint pleased clean warm quiet surprisingly considering location busy road train station staff polite friendly bed comfy breakfast buffet fruit salad bread eggs cheese juices bar welcoming hotel makes cosy convenient maintains professional ambiance pleased rate 230 euro 3 nights sun wed hotel held bags saturday checked sunday location close main station ubahn station trams 10 minute walk panorama bar recommend stay",
+      "Date": "2010-03-04 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Klassik Hotel",
+    "HotelURL": "/ShowUserReviews-g187323-d1028471-Reviews-Klassik_Hotel-Berlin.html",
+    "Price": "$71 - $160*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Revaler Strasse 6</span>, <span class=\"locality\"><span property=\"v:postal-code\">10245</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "1028471",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/87/9e/879e16fbc0bd6ac977191f72f55a1c1e7large.jpg"
+  }
+}

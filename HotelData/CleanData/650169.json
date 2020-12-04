@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Glasgow, United Kingdom", "Title": "\u201cA Gem of a find.\u201d", "Author": "VinRouge79", "ReviewID": "UR120050656", "Content": "stay sleep whilst paris fab location paris 2 mns walk cdg elysees bliss easy walk eiffel tower bateaux mouche seine paris rates gem breakfast continental probs clean basic staff helpful friendly rates location marriott charles etc pay 5 accomodation lift quaint persons time luggage optional balcony double doors onto street below atmospheric discover vists", "Date": "2011-11-01 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Rabat, Morocco", "Title": "\u201cPerfect location\u201d", "Author": "FHN21", "ReviewID": "UR109373938", "Content": "2 minutes walk airport bus stop 3 minutes walk top champs \u00e9lys\u00e9es hotel perfect short stay paris stayed night found staff friendly breakfast simple adequate price 80euros extraordinary location", "Date": "2011-05-22 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Veliko Turnovo, Bulgaria", "Title": "\u201cExcellent location\u201d", "Author": "Mir929", "ReviewID": "UR94708034", "Content": "stayed five nights business trip hotel recommended hosts location near arc champs person guests complained noise street ok bathroom clean staff friendly answered questions breakfast basic recommend people budget truth slept dont paris stay", "Date": "2011-01-28 00:00:00"}], "HotelInfo": {"Name": "Phenix Hotel", "HotelURL": "/ShowUserReviews-g187147-d650169-Reviews-Phenix_Hotel-Paris_Ile_de_France.html", "Price": "0", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5 rue General Lanrezac</span>, <span class=\"locality\"><span property=\"v:postal-code\">75017</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>", "HotelID": "650169", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Glasgow, United Kingdom",
+      "Title": "\u201cA Gem of a find.\u201d",
+      "Author": "VinRouge79",
+      "ReviewID": "UR120050656",
+      "Content": "stay sleep whilst paris fab location paris 2 mns walk cdg elysees bliss easy walk eiffel tower bateaux mouche seine paris rates gem breakfast continental probs clean basic staff helpful friendly rates location marriott charles etc pay 5 accomodation lift quaint persons time luggage optional balcony double doors onto street below atmospheric discover vists",
+      "Date": "2011-11-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rabat, Morocco",
+      "Title": "\u201cPerfect location\u201d",
+      "Author": "FHN21",
+      "ReviewID": "UR109373938",
+      "Content": "2 minutes walk airport bus stop 3 minutes walk top champs \u00e9lys\u00e9es hotel perfect short stay paris stayed night found staff friendly breakfast simple adequate price 80euros extraordinary location",
+      "Date": "2011-05-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Veliko Turnovo, Bulgaria",
+      "Title": "\u201cExcellent location\u201d",
+      "Author": "Mir929",
+      "ReviewID": "UR94708034",
+      "Content": "stayed five nights business trip hotel recommended hosts location near arc champs person guests complained noise street ok bathroom clean staff friendly answered questions breakfast basic recommend people budget truth slept dont paris stay",
+      "Date": "2011-01-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Phenix Hotel",
+    "HotelURL": "/ShowUserReviews-g187147-d650169-Reviews-Phenix_Hotel-Paris_Ile_de_France.html",
+    "Price": "0",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5 rue General Lanrezac</span>, <span class=\"locality\"><span property=\"v:postal-code\">75017</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>",
+    "HotelID": "650169",
+    "ImgURL": ""
+  }
+}

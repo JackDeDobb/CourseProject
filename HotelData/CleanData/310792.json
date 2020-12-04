@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Alexandria, Egypt", "Title": "\u201cgreat breakfast and restaurant view\u201d", "Author": "sai-amr", "ReviewID": "UR124000424", "Content": "remarkable breakfast lots variety restaurant cozy nice view clean comfy bosphorus view location gr8 steps istiklal street main night life exists lots shopping steps taksim square staff polite helpful planning nxt trip stay", "Date": "2012-02-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Zagreb, Croatia", "Title": "\u201cIn fact it is - really ok.\u201d", "Author": "Croatia_ZG", "ReviewID": "UR109634187", "Content": "writing comments reading thinking dump completely wrong marble hotel exactly paying neither dump nor deluxe resort firstly ive stayed marble nippon grand hotels times privately business wise am talking main mind booking marble location probably istanbul walking citys artery istiklal little shopping try bars people enjoy nightlife culture visit city attractions rest hotel withour trying restaurants bars istanbul famous else mind literaly regarding marble staying location steps hotel taxi tobacco food money exchange bars shops restaurants istiklal street view nice book bosphorus view breakfast little bit stronger fair hotel parking free guests town look little bit worn price paying ive stayed hotel ok facing cadessi noisy due turkish horn play loud music cars specially weekend booking upper floors hotel normal person normal clean spend hours sleeping wondering town day marble choice youre looking enjoy free time relax hotel lobby whatever similar book hotel", "Date": "2011-05-24 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Cairo, Egypt", "Title": "\u201cAverage & accepted Hotel\u201d", "Author": "Uschi-Cairo", "ReviewID": "UR83447646", "Content": "stayed week sleeping acceptable moderate hotel 4 star hotel told travel agency clean tidy towels bed sheets sometimes ripped ac horrible changed 3 days struggling ac ac little people staying hotels complaint thats common reception helpful polite location cause access shops bus station underground restaurants etc breakfast fine hotel quiet inside surrounding crowded busy moderate rate bit 3 star hotel", "Date": "2010-10-14 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "cairo", "Title": "\u201cNot a 4 stars hotel but still not as horrible as mentioned in some reviews\u201d", "Author": "travellerCairo", "ReviewID": "UR83426249", "Content": "hotel deserves 4 stars nice 3 stars hotels modest clean actually trip friends course dont recommend honeymooners mention hotels istanbul overrated 4 stars hotels 5 stars hotels breakfast delicious variety delicious food offered staff friendly english turkish people location near please leave valued belongings money expensive jewlery outside safe box", "Date": "2010-10-14 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Graz", "Title": "\u201cImprovable comfort\u201d", "Author": "Steirerbub", "ReviewID": "UR75569609", "Content": "pros close taksim square istiklal cad nice view restaurant bosphorus comprehensive breakfast turkish american style price cons air condition poor obviously ac lobby restaurant wlan lobby noise street outside hot season ac recommend hotel friends", "Date": "2010-08-17 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Jeddah, Saudi Arabia", "Title": "\u201cWorst 4 star hotel ever\u201d", "Author": "Bera09", "ReviewID": "UR67602746", "Content": "hotel worst life experiences service substandard dirty creepy tiny walls paper thin hear guest door urinating flushing toilet ofcourse air conditioner bad leaking water noisy able sleep easily hotel owner extremely cheap neon lamps reception corridors dark unless moving teeny tiny advantage hellhole location near istiklal street hotel unpleasant street strongly recommend hotel wonder standard rated 4 stars", "Date": "2010-06-15 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Benghazi, Libya", "Title": "\u201cit's a nightmare, it's not 4-star hotel it was not up to one star\u201d", "Author": "sveit", "ReviewID": "UR63838751", "Content": "worst hotel lived life smelled bad furniture carpets invalid changed strange bathwater rusted pipe rust air conditioner noises wake sleepthe heating system complain hear word courtesy welcome hotel staff receptionist reception staff try sell mobile sms price usual refused buy answer whenever breakfast notice ants eat table breakfast hotel lived 7 daysi leave hell hotels contacted available tried eating meal hotel breakfast helps carry bags bag carry yourself try assistance staff hotel exploit time life heard hotel heavy maintenance presence hotel guests hear noise cracking heavy drill complain building door write notes nightmare yes nightmare 4star hotel star", "Date": "2010-05-11 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "LA", "Title": "\u201cAwful,stay away\u201d", "Author": "Sanif", "ReviewID": "UR58095054", "Content": "1 rude staffs 2 offer services 3 4star 2 star 4 relax calm sleep hotel noise street disturb night bother car horns ambulances sirens 5 hotels prices istanbul dont rush booking", "Date": "2010-03-08 00:00:00"}], "HotelInfo": {"Name": "Marble Hotel", "HotelURL": "/ShowUserReviews-g293974-d310792-Reviews-Marble_Hotel-Istanbul.html", "Price": "$125 - $287*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Syraselviler Cad. No:41, Taksim</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">80090</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "310792", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6e/8b/6e8bb77356b780165948a73e02d28ef33large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Alexandria, Egypt",
+      "Title": "\u201cgreat breakfast and restaurant view\u201d",
+      "Author": "sai-amr",
+      "ReviewID": "UR124000424",
+      "Content": "remarkable breakfast lots variety restaurant cozy nice view clean comfy bosphorus view location gr8 steps istiklal street main night life exists lots shopping steps taksim square staff polite helpful planning nxt trip stay",
+      "Date": "2012-02-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Zagreb, Croatia",
+      "Title": "\u201cIn fact it is - really ok.\u201d",
+      "Author": "Croatia_ZG",
+      "ReviewID": "UR109634187",
+      "Content": "writing comments reading thinking dump completely wrong marble hotel exactly paying neither dump nor deluxe resort firstly ive stayed marble nippon grand hotels times privately business wise am talking main mind booking marble location probably istanbul walking citys artery istiklal little shopping try bars people enjoy nightlife culture visit city attractions rest hotel withour trying restaurants bars istanbul famous else mind literaly regarding marble staying location steps hotel taxi tobacco food money exchange bars shops restaurants istiklal street view nice book bosphorus view breakfast little bit stronger fair hotel parking free guests town look little bit worn price paying ive stayed hotel ok facing cadessi noisy due turkish horn play loud music cars specially weekend booking upper floors hotel normal person normal clean spend hours sleeping wondering town day marble choice youre looking enjoy free time relax hotel lobby whatever similar book hotel",
+      "Date": "2011-05-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Cairo, Egypt",
+      "Title": "\u201cAverage & accepted Hotel\u201d",
+      "Author": "Uschi-Cairo",
+      "ReviewID": "UR83447646",
+      "Content": "stayed week sleeping acceptable moderate hotel 4 star hotel told travel agency clean tidy towels bed sheets sometimes ripped ac horrible changed 3 days struggling ac ac little people staying hotels complaint thats common reception helpful polite location cause access shops bus station underground restaurants etc breakfast fine hotel quiet inside surrounding crowded busy moderate rate bit 3 star hotel",
+      "Date": "2010-10-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "cairo",
+      "Title": "\u201cNot a 4 stars hotel but still not as horrible as mentioned in some reviews\u201d",
+      "Author": "travellerCairo",
+      "ReviewID": "UR83426249",
+      "Content": "hotel deserves 4 stars nice 3 stars hotels modest clean actually trip friends course dont recommend honeymooners mention hotels istanbul overrated 4 stars hotels 5 stars hotels breakfast delicious variety delicious food offered staff friendly english turkish people location near please leave valued belongings money expensive jewlery outside safe box",
+      "Date": "2010-10-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Graz",
+      "Title": "\u201cImprovable comfort\u201d",
+      "Author": "Steirerbub",
+      "ReviewID": "UR75569609",
+      "Content": "pros close taksim square istiklal cad nice view restaurant bosphorus comprehensive breakfast turkish american style price cons air condition poor obviously ac lobby restaurant wlan lobby noise street outside hot season ac recommend hotel friends",
+      "Date": "2010-08-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Jeddah, Saudi Arabia",
+      "Title": "\u201cWorst 4 star hotel ever\u201d",
+      "Author": "Bera09",
+      "ReviewID": "UR67602746",
+      "Content": "hotel worst life experiences service substandard dirty creepy tiny walls paper thin hear guest door urinating flushing toilet ofcourse air conditioner bad leaking water noisy able sleep easily hotel owner extremely cheap neon lamps reception corridors dark unless moving teeny tiny advantage hellhole location near istiklal street hotel unpleasant street strongly recommend hotel wonder standard rated 4 stars",
+      "Date": "2010-06-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Benghazi, Libya",
+      "Title": "\u201cit's a nightmare, it's not 4-star hotel it was not up to one star\u201d",
+      "Author": "sveit",
+      "ReviewID": "UR63838751",
+      "Content": "worst hotel lived life smelled bad furniture carpets invalid changed strange bathwater rusted pipe rust air conditioner noises wake sleepthe heating system complain hear word courtesy welcome hotel staff receptionist reception staff try sell mobile sms price usual refused buy answer whenever breakfast notice ants eat table breakfast hotel lived 7 daysi leave hell hotels contacted available tried eating meal hotel breakfast helps carry bags bag carry yourself try assistance staff hotel exploit time life heard hotel heavy maintenance presence hotel guests hear noise cracking heavy drill complain building door write notes nightmare yes nightmare 4star hotel star",
+      "Date": "2010-05-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "LA",
+      "Title": "\u201cAwful,stay away\u201d",
+      "Author": "Sanif",
+      "ReviewID": "UR58095054",
+      "Content": "1 rude staffs 2 offer services 3 4star 2 star 4 relax calm sleep hotel noise street disturb night bother car horns ambulances sirens 5 hotels prices istanbul dont rush booking",
+      "Date": "2010-03-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Marble Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d310792-Reviews-Marble_Hotel-Istanbul.html",
+    "Price": "$125 - $287*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Syraselviler Cad. No:41, Taksim</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">80090</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "310792",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6e/8b/6e8bb77356b780165948a73e02d28ef33large.jpg"
+  }
+}

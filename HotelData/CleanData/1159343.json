@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Bath UK", "Title": "\u201cCheap & Cheerful\u201d", "Author": "Bathlady", "ReviewID": "UR127020285", "Content": "hotel main tourist rambles relatively quiet square door cocktail bar friendly cafe sells coffee tea hotel basic clean staff helpful bad hotel pillows hard", "Date": "2012-03-31 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Seattle", "Title": "\u201cGreat Location, OK Hotel\u201d", "Author": "jMacL", "ReviewID": "UR124180784", "Content": "impressions consistant reviewers loved close las ramblas set block quiet checked guys front desk taking letting pick night grumpy desk clerk wasn\u2019t answering questions giving directions bothered guests unfortunate guys night dark clean bed hard rock i\u2019d flown west coast 4 hour weather delay slept stairs biggest negative bathroom basic cramped black mold ceiling breakfast wasn\u2019t bad sausage count chunks hot dogs sausage handy computer workstations lobby printer attached couldn\u2019t print boarding passes grumpy desk clerk wasn\u2019t helping", "Date": "2012-02-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Chelmsford", "Title": "\u201cNice hotel, great location\u201d", "Author": "ParkerPies", "ReviewID": "UR118649497", "Content": "stayed san weekend festival merce experience added carnival atmosphere city hotel location 50 metres set ramblas means central little set avoid noise reception clean welcoming reception staff extremely helpful providing maps advice travel sightseeing booking tickets nice top floor clean roomy fairly equipped neeed sleep shower dress breakfast fine usual mix breads pastries cold meats cheeses plus scrambled eggs sausages plus drinks toast etc self service buffet basis didnt eat hotel restaurant cant comment youd expect hundreds eat city loved barcelona definitely book san top sightseeing harbour railway cable car montjuic la sagrada familia ramblas top bus ride worth doing", "Date": "2011-09-27 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Bratislava, Slovakia", "Title": "\u201cNot worth such price! Even the location is great...\u201d", "Author": "adricka", "ReviewID": "UR102522512", "Content": "trip minute decision tried central didnt spend time traveling fromto city else booked decided san augustin confusing positive reviews location perfect stay close la noisy street 2 min walking la rambla close unique charming food market san augustin plaza quiet church shops location butthe hotel hardly move quiet claustrophobic terrible dormer window dark depressive book plaza view bigger corridor floor noisy material single time walks corridor wheel luggage drives nuts poor breakfast friendly staff definitely worth price", "Date": "2011-04-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Plymouth, United Kingdom", "Title": "\u201cExcellent hotel, will be back!\u201d", "Author": "brettnu", "ReviewID": "UR101760871", "Content": "partner stayed hotel august 2010 recommend reception staff welcoming helped arrange book tours nou camp la sagrada familia park guell contacting company behalf clean roomy airconditioned couldnt location approximately 50 metres la ramblas easy links rest city breakfast nice hugely ambitious tasty basic continental breakfast based third floor overlooking square worried noise found disturbed nightlife stay 5star hotel means reasonablypriced hotels excellent location barcelona fits bill highly recommended weekend breaks", "Date": "2011-03-27 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cAhhh Barcelona\u201d", "Author": "eberbach96", "ReviewID": "UR90689684", "Content": "arrived late evening morning depending view late arrival met kindness understanding soon shown blessing endured disjointed train trip lyon beautiful tastefully furnished spotlessly clean ensuite found stuffy hotel enter tried window top cool air barcelona nightlife night hotel airconditioned airconditioning closed window cooler air reasonably quiet night breakfast day beautifully little adequate location hotel square night fair share activity trouble varied restaurants tapas bars located nearby travel eat totally unnecessary las ramblas fifty metres wifi available free hotel lobby lovely five night stay recommend hotel", "Date": "2010-12-25 00:00:00"}], "HotelInfo": {"Name": "San Agustin", "HotelURL": "/ShowUserReviews-g187497-d1159343-Reviews-San_Agustin-Barcelona_Catalonia.html", "Price": "$138 - $186*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Plaza San Agustin, 3</span> | <span class=\"extended-address\">Barcelona</span>, <span class=\"locality\"><span property=\"v:postal-code\">8001</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "1159343", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fc/4e/fc4e1f7fc3a3ab142806a8170b6e648c2large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bath UK",
+      "Title": "\u201cCheap & Cheerful\u201d",
+      "Author": "Bathlady",
+      "ReviewID": "UR127020285",
+      "Content": "hotel main tourist rambles relatively quiet square door cocktail bar friendly cafe sells coffee tea hotel basic clean staff helpful bad hotel pillows hard",
+      "Date": "2012-03-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Seattle",
+      "Title": "\u201cGreat Location, OK Hotel\u201d",
+      "Author": "jMacL",
+      "ReviewID": "UR124180784",
+      "Content": "impressions consistant reviewers loved close las ramblas set block quiet checked guys front desk taking letting pick night grumpy desk clerk wasn\u2019t answering questions giving directions bothered guests unfortunate guys night dark clean bed hard rock i\u2019d flown west coast 4 hour weather delay slept stairs biggest negative bathroom basic cramped black mold ceiling breakfast wasn\u2019t bad sausage count chunks hot dogs sausage handy computer workstations lobby printer attached couldn\u2019t print boarding passes grumpy desk clerk wasn\u2019t helping",
+      "Date": "2012-02-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Chelmsford",
+      "Title": "\u201cNice hotel, great location\u201d",
+      "Author": "ParkerPies",
+      "ReviewID": "UR118649497",
+      "Content": "stayed san weekend festival merce experience added carnival atmosphere city hotel location 50 metres set ramblas means central little set avoid noise reception clean welcoming reception staff extremely helpful providing maps advice travel sightseeing booking tickets nice top floor clean roomy fairly equipped neeed sleep shower dress breakfast fine usual mix breads pastries cold meats cheeses plus scrambled eggs sausages plus drinks toast etc self service buffet basis didnt eat hotel restaurant cant comment youd expect hundreds eat city loved barcelona definitely book san top sightseeing harbour railway cable car montjuic la sagrada familia ramblas top bus ride worth doing",
+      "Date": "2011-09-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bratislava, Slovakia",
+      "Title": "\u201cNot worth such price! Even the location is great...\u201d",
+      "Author": "adricka",
+      "ReviewID": "UR102522512",
+      "Content": "trip minute decision tried central didnt spend time traveling fromto city else booked decided san augustin confusing positive reviews location perfect stay close la noisy street 2 min walking la rambla close unique charming food market san augustin plaza quiet church shops location butthe hotel hardly move quiet claustrophobic terrible dormer window dark depressive book plaza view bigger corridor floor noisy material single time walks corridor wheel luggage drives nuts poor breakfast friendly staff definitely worth price",
+      "Date": "2011-04-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Plymouth, United Kingdom",
+      "Title": "\u201cExcellent hotel, will be back!\u201d",
+      "Author": "brettnu",
+      "ReviewID": "UR101760871",
+      "Content": "partner stayed hotel august 2010 recommend reception staff welcoming helped arrange book tours nou camp la sagrada familia park guell contacting company behalf clean roomy airconditioned couldnt location approximately 50 metres la ramblas easy links rest city breakfast nice hugely ambitious tasty basic continental breakfast based third floor overlooking square worried noise found disturbed nightlife stay 5star hotel means reasonablypriced hotels excellent location barcelona fits bill highly recommended weekend breaks",
+      "Date": "2011-03-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cAhhh Barcelona\u201d",
+      "Author": "eberbach96",
+      "ReviewID": "UR90689684",
+      "Content": "arrived late evening morning depending view late arrival met kindness understanding soon shown blessing endured disjointed train trip lyon beautiful tastefully furnished spotlessly clean ensuite found stuffy hotel enter tried window top cool air barcelona nightlife night hotel airconditioned airconditioning closed window cooler air reasonably quiet night breakfast day beautifully little adequate location hotel square night fair share activity trouble varied restaurants tapas bars located nearby travel eat totally unnecessary las ramblas fifty metres wifi available free hotel lobby lovely five night stay recommend hotel",
+      "Date": "2010-12-25 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "San Agustin",
+    "HotelURL": "/ShowUserReviews-g187497-d1159343-Reviews-San_Agustin-Barcelona_Catalonia.html",
+    "Price": "$138 - $186*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Plaza San Agustin, 3</span> | <span class=\"extended-address\">Barcelona</span>, <span class=\"locality\"><span property=\"v:postal-code\">8001</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "1159343",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fc/4e/fc4e1f7fc3a3ab142806a8170b6e648c2large.jpg"
+  }
+}

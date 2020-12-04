@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Charlotte, North Carolina", "Title": "\u201c\"Meh.\"\u201d", "Author": "girlsonaglobe", "ReviewID": "UR133523369", "Content": "stayed night nh sur previously stayed 4 nights puerto del sol chaotic night barcelona flight flight hotel fine night stay single view light bedding included faded blue blanket equally faded upholstered headboard dark hallways worn unwelcoming overall hotel uncomfortable glad night 80 night pay suppose upside includes excellent access metro train station catch airport shuttle", "Date": "2012-07-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "South-East England", "Title": "\u201cThoroughly enjoyable stay\u201d", "Author": "Dublingirl52", "ReviewID": "UR124861191", "Content": "advantage fairly hotel position airport express bus pulls atocha station cross road received warm friendly welcome reception able check slightly clean warm nights time february madrid cold criticism noise lift bad annoying night morning near maybe idea near lift road front hotel busy indeed worth quiet overlooking street breakfast fantastic especially fresh orange juice choice teas excellent hot food happy cold meats hardboiled eggs wide range breads available toast disappointing free wifi 30 mins day lobby free safe available reception returning location hotelit easy walk attractionsrestaurants prefer metro stop outside hotel enjoyed visit free sundays museum nextdoor hotel allinall recommend hotel hope stay visit madrid", "Date": "2012-02-20 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Gainesville, Florida", "Title": "\u201cAdequate for our needs\u201d", "Author": "1969Gator", "ReviewID": "UR122153075", "Content": "overnighting train air connections hotel reasonably priced convenient atocha train station intersection easy walk bags bus metro airport biggest negative wireless wireless limited free wireless lobby", "Date": "2011-12-27 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Sweden", "Title": "\u201cGood hotel in perfect location!!!\u201d", "Author": "Sitta", "ReviewID": "UR118876018", "Content": "hotel street street atocha railway station airport bus breakfast excellent fresh dried fruit bowl natural youghurt selection loose leaf teas etc etc hadnt view dead quiet equipped air conditon noisy real critique bed bit soft staff spoke english", "Date": "2011-10-03 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Dusseldorf, Germany", "Title": "\u201cBeware in warm weather\u201d", "Author": "grad98cofc", "ReviewID": "UR63141082", "Content": "hotel street atocha station base exploring madrid catching trains double bed im using american version double queen larger twin air conditioning hot ac broken andor cut apparently common european countries sleep sleep naked wet towel top wouldnt recommend staying warm weather", "Date": "2010-05-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "San Francisco", "Title": "\u201cNo more convenient hotel for access to Atocha train station.\u201d", "Author": "dfreedca1", "ReviewID": "UR62113404", "Content": "wife week sevilla flights barajas decided spend day night madrid break trip arrived ave sevilla atocha station escalator upper level elevator street 50 feet hotel entrance dropped bags hotel day touring schlepping luggage hotel minutes prado royal botanical garden retiro park plenty nearby morning elevator atocha station caught metro barajas couldnt easier extended stay madrid choice access atocha option", "Date": "2010-04-21 00:00:00"}], "HotelInfo": {"Name": "NH Sur", "HotelURL": "/ShowUserReviews-g187514-d206987-Reviews-NH_Sur-Madrid.html", "Price": "$86 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Paseo Infanta Isabel 9</span>, <span class=\"locality\"><span property=\"v:postal-code\">28014</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "206987", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8c/e3/8ce392076cd242a522e890611d80cc8b9large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Charlotte, North Carolina",
+      "Title": "\u201c\"Meh.\"\u201d",
+      "Author": "girlsonaglobe",
+      "ReviewID": "UR133523369",
+      "Content": "stayed night nh sur previously stayed 4 nights puerto del sol chaotic night barcelona flight flight hotel fine night stay single view light bedding included faded blue blanket equally faded upholstered headboard dark hallways worn unwelcoming overall hotel uncomfortable glad night 80 night pay suppose upside includes excellent access metro train station catch airport shuttle",
+      "Date": "2012-07-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "South-East England",
+      "Title": "\u201cThoroughly enjoyable stay\u201d",
+      "Author": "Dublingirl52",
+      "ReviewID": "UR124861191",
+      "Content": "advantage fairly hotel position airport express bus pulls atocha station cross road received warm friendly welcome reception able check slightly clean warm nights time february madrid cold criticism noise lift bad annoying night morning near maybe idea near lift road front hotel busy indeed worth quiet overlooking street breakfast fantastic especially fresh orange juice choice teas excellent hot food happy cold meats hardboiled eggs wide range breads available toast disappointing free wifi 30 mins day lobby free safe available reception returning location hotelit easy walk attractionsrestaurants prefer metro stop outside hotel enjoyed visit free sundays museum nextdoor hotel allinall recommend hotel hope stay visit madrid",
+      "Date": "2012-02-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Gainesville, Florida",
+      "Title": "\u201cAdequate for our needs\u201d",
+      "Author": "1969Gator",
+      "ReviewID": "UR122153075",
+      "Content": "overnighting train air connections hotel reasonably priced convenient atocha train station intersection easy walk bags bus metro airport biggest negative wireless wireless limited free wireless lobby",
+      "Date": "2011-12-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Sweden",
+      "Title": "\u201cGood hotel in perfect location!!!\u201d",
+      "Author": "Sitta",
+      "ReviewID": "UR118876018",
+      "Content": "hotel street street atocha railway station airport bus breakfast excellent fresh dried fruit bowl natural youghurt selection loose leaf teas etc etc hadnt view dead quiet equipped air conditon noisy real critique bed bit soft staff spoke english",
+      "Date": "2011-10-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Dusseldorf, Germany",
+      "Title": "\u201cBeware in warm weather\u201d",
+      "Author": "grad98cofc",
+      "ReviewID": "UR63141082",
+      "Content": "hotel street atocha station base exploring madrid catching trains double bed im using american version double queen larger twin air conditioning hot ac broken andor cut apparently common european countries sleep sleep naked wet towel top wouldnt recommend staying warm weather",
+      "Date": "2010-05-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "San Francisco",
+      "Title": "\u201cNo more convenient hotel for access to Atocha train station.\u201d",
+      "Author": "dfreedca1",
+      "ReviewID": "UR62113404",
+      "Content": "wife week sevilla flights barajas decided spend day night madrid break trip arrived ave sevilla atocha station escalator upper level elevator street 50 feet hotel entrance dropped bags hotel day touring schlepping luggage hotel minutes prado royal botanical garden retiro park plenty nearby morning elevator atocha station caught metro barajas couldnt easier extended stay madrid choice access atocha option",
+      "Date": "2010-04-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "NH Sur",
+    "HotelURL": "/ShowUserReviews-g187514-d206987-Reviews-NH_Sur-Madrid.html",
+    "Price": "$86 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Paseo Infanta Isabel 9</span>, <span class=\"locality\"><span property=\"v:postal-code\">28014</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "206987",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8c/e3/8ce392076cd242a522e890611d80cc8b9large.jpg"
+  }
+}

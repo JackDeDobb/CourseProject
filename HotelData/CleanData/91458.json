@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Columbus", "Title": "\u201cExcellent service, friendly staff\u201d", "Author": "sss128", "ReviewID": "UR69922696", "Content": "town wedding time hotel front desk clerk head housekeeping extremely helpful clean maintained breakfast buffet ok special terrible basic frills completely functional surprises looking clean safe welllocated choice", "Date": "2010-07-06 00:00:00"}], "HotelInfo": {"Name": "Fairfield Inn Indianapolis South", "HotelURL": "/ShowUserReviews-g37209-d91458-Reviews-Fairfield_Inn_Indianapolis_South-Indianapolis_Indiana.html", "Price": "$98 - $116*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4504 Southport Crossing Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46237</span></span> </span> </span> </address>", "HotelID": "91458", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0c/7d/0c7d7128f3d789bb639103343169893d6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Columbus",
+      "Title": "\u201cExcellent service, friendly staff\u201d",
+      "Author": "sss128",
+      "ReviewID": "UR69922696",
+      "Content": "town wedding time hotel front desk clerk head housekeeping extremely helpful clean maintained breakfast buffet ok special terrible basic frills completely functional surprises looking clean safe welllocated choice",
+      "Date": "2010-07-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Fairfield Inn Indianapolis South",
+    "HotelURL": "/ShowUserReviews-g37209-d91458-Reviews-Fairfield_Inn_Indianapolis_South-Indianapolis_Indiana.html",
+    "Price": "$98 - $116*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4504 Southport Crossing Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46237</span></span> </span> </span> </address>",
+    "HotelID": "91458",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0c/7d/0c7d7128f3d789bb639103343169893d6large.jpg"
+  }
+}

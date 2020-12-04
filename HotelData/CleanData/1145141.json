@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Kiev, Ukraine", "Title": "\u201cNice and quiet\u201d", "Author": "13inky", "ReviewID": "UR123036763", "Content": "stayed june 2009 nicely decorated quiet nice little cafes restaurants st marks square remember correctly little shady call whod reception breakfast crossiants orange stop cafes decent overall luxurious restful", "Date": "2012-01-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Frankfort, Kentucky", "Title": "\u201cGreat Value\u201d", "Author": "mkl333", "ReviewID": "UR102086286", "Content": "husband stayed locanda ca nights wish hotel easy following directions website amazed walked door expecting basic budget style paid shocked nice updated bathroom value found week trip doubt value venice", "Date": "2011-03-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Nottingham", "Title": "\u201cExcellent small hotel\u201d", "Author": "macca1191", "ReviewID": "UR100839720", "Content": "hotels venice difficult friendly local pity strangely confronted locked entrance door hotel owner conversing via intercom remotely picked keys reception desk found via intercom instructions lovely fabric wall coverings stunning bathroom quiet close normal tourist attractions met friendly owner following morning delivered continental breakfast explained normal breakfast courtyard outside cold enjoyed 2 nights hotel recommend", "Date": "2011-03-20 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Madrid", "Title": "\u201cPerfect\u201d", "Author": "vdelbarco", "ReviewID": "UR81565497", "Content": "perfect bit hard finallly location perfect instead time looks bit city centre choosed standard suites empty form assigned suite roof price breakfast bit light clean quiet", "Date": "2010-09-30 00:00:00"}], "HotelInfo": {"Name": "BHR Boutique Hotel Locanda Ca'Valeri", "HotelURL": "/ShowUserReviews-g187870-d1145141-Reviews-BHR_Boutique_Hotel_Locanda_Ca_Valeri-Venice_Veneto.html", "Price": "0", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Castello 3845</span>, <span class=\"locality\"><span property=\"v:postal-code\">30122</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "1145141", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-f/01/d9/bb/db/bhr-boutique-hotel-locanda.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Kiev, Ukraine",
+      "Title": "\u201cNice and quiet\u201d",
+      "Author": "13inky",
+      "ReviewID": "UR123036763",
+      "Content": "stayed june 2009 nicely decorated quiet nice little cafes restaurants st marks square remember correctly little shady call whod reception breakfast crossiants orange stop cafes decent overall luxurious restful",
+      "Date": "2012-01-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Frankfort, Kentucky",
+      "Title": "\u201cGreat Value\u201d",
+      "Author": "mkl333",
+      "ReviewID": "UR102086286",
+      "Content": "husband stayed locanda ca nights wish hotel easy following directions website amazed walked door expecting basic budget style paid shocked nice updated bathroom value found week trip doubt value venice",
+      "Date": "2011-03-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Nottingham",
+      "Title": "\u201cExcellent small hotel\u201d",
+      "Author": "macca1191",
+      "ReviewID": "UR100839720",
+      "Content": "hotels venice difficult friendly local pity strangely confronted locked entrance door hotel owner conversing via intercom remotely picked keys reception desk found via intercom instructions lovely fabric wall coverings stunning bathroom quiet close normal tourist attractions met friendly owner following morning delivered continental breakfast explained normal breakfast courtyard outside cold enjoyed 2 nights hotel recommend",
+      "Date": "2011-03-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Madrid",
+      "Title": "\u201cPerfect\u201d",
+      "Author": "vdelbarco",
+      "ReviewID": "UR81565497",
+      "Content": "perfect bit hard finallly location perfect instead time looks bit city centre choosed standard suites empty form assigned suite roof price breakfast bit light clean quiet",
+      "Date": "2010-09-30 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "BHR Boutique Hotel Locanda Ca'Valeri",
+    "HotelURL": "/ShowUserReviews-g187870-d1145141-Reviews-BHR_Boutique_Hotel_Locanda_Ca_Valeri-Venice_Veneto.html",
+    "Price": "0",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Castello 3845</span>, <span class=\"locality\"><span property=\"v:postal-code\">30122</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "1145141",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-f/01/d9/bb/db/bhr-boutique-hotel-locanda.jpg"
+  }
+}

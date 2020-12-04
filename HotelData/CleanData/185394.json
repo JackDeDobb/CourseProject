@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Los Angeles, California", "Title": "\u201cTwo stars...you can do so much better.\u201d", "Author": "Nepsaevoli", "ReviewID": "UR124687917", "Content": "hopes hotel photos convinced value free internet indicates internet times bars couldnt maintain connection staff gracious remainder stay dangerous trip hazzard entering bathroom stone 2 bummer hit toe middle night depressingly dark drab view pathetic lastly lock safe trouble moving fell short expectations master suite chopped worst york city hotel experience mean staff sweet", "Date": "2012-02-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Bristol, United Kingdom", "Title": "\u201cWonderful!\u201d", "Author": "MarkRyder", "ReviewID": "UR124320214", "Content": "lovely hotel average holiday inn fantastic nice amenities staff couldnt helpful friendly breakfast nice palatial location excellent lots dining shopping options nearby taxis option getting cheap metro stop 5mins walk uncomfortable rush hour tried midafternoon wait couple trains", "Date": "2012-02-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "La Mirada, California", "Title": "\u201cNot noisy at all and in great locale\u201d", "Author": "LovesToTravel2_11", "ReviewID": "UR119293965", "Content": "bit worried staying hotel read reviews noise 208 noisy desk bell staff excellent comfortable queen beds 2 desks sofa restaurant helpful friendly staff rate breakfast buffet lunch buffet note entrance hotel steep staircase en elevator call ahead requested received excellent jose reasonable rate", "Date": "2011-10-14 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Portland, OR", "Title": "\u201cComfortable rooms and good location\u201d", "Author": "Dooglas", "ReviewID": "UR95719693", "Content": "location middle zona rosa excellent comfortable central courtyard results reasonably quiet middle bustling city front desk staff helpful limited english skills assist time visitors mexico city limited capability spanish convenient restaurant hotel choices immediate access cabs able arrange day trip difficulty", "Date": "2011-02-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Dallas", "Title": "\u201cOutstanding location and service\u201d", "Author": "cewjkb", "ReviewID": "UR86744441", "Content": "hotel middle zona rosa secure numerous bars restaurants easy walk reforma countless 711s starbucks staff helpful friendly inadvertantly left safe day return found sitting penny cant recommend hotel highly", "Date": "2010-11-11 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Boston", "Title": "\u201cNice but Expensive\u201d", "Author": "BigBarney1968", "ReviewID": "UR60835406", "Content": "location hotel perfect lots night close lots restaurants close food hotel expensive service expect hotel price level recommend mind spending little extra", "Date": "2010-04-09 00:00:00"}], "HotelInfo": {"Name": "Holiday Inn Hotel & Suites Zona Rosa", "HotelURL": "/ShowUserReviews-g150800-d185394-Reviews-Holiday_Inn_Hotel_Suites_Zona_Rosa-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$102 - $128*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Londres 15, Col. Juarez</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06600</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "185394", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ea/a3/eaa35a2cbe35b7ce624e9e4484e3e87a10large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Los Angeles, California",
+      "Title": "\u201cTwo stars...you can do so much better.\u201d",
+      "Author": "Nepsaevoli",
+      "ReviewID": "UR124687917",
+      "Content": "hopes hotel photos convinced value free internet indicates internet times bars couldnt maintain connection staff gracious remainder stay dangerous trip hazzard entering bathroom stone 2 bummer hit toe middle night depressingly dark drab view pathetic lastly lock safe trouble moving fell short expectations master suite chopped worst york city hotel experience mean staff sweet",
+      "Date": "2012-02-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bristol, United Kingdom",
+      "Title": "\u201cWonderful!\u201d",
+      "Author": "MarkRyder",
+      "ReviewID": "UR124320214",
+      "Content": "lovely hotel average holiday inn fantastic nice amenities staff couldnt helpful friendly breakfast nice palatial location excellent lots dining shopping options nearby taxis option getting cheap metro stop 5mins walk uncomfortable rush hour tried midafternoon wait couple trains",
+      "Date": "2012-02-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "La Mirada, California",
+      "Title": "\u201cNot noisy at all and in great locale\u201d",
+      "Author": "LovesToTravel2_11",
+      "ReviewID": "UR119293965",
+      "Content": "bit worried staying hotel read reviews noise 208 noisy desk bell staff excellent comfortable queen beds 2 desks sofa restaurant helpful friendly staff rate breakfast buffet lunch buffet note entrance hotel steep staircase en elevator call ahead requested received excellent jose reasonable rate",
+      "Date": "2011-10-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Portland, OR",
+      "Title": "\u201cComfortable rooms and good location\u201d",
+      "Author": "Dooglas",
+      "ReviewID": "UR95719693",
+      "Content": "location middle zona rosa excellent comfortable central courtyard results reasonably quiet middle bustling city front desk staff helpful limited english skills assist time visitors mexico city limited capability spanish convenient restaurant hotel choices immediate access cabs able arrange day trip difficulty",
+      "Date": "2011-02-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dallas",
+      "Title": "\u201cOutstanding location and service\u201d",
+      "Author": "cewjkb",
+      "ReviewID": "UR86744441",
+      "Content": "hotel middle zona rosa secure numerous bars restaurants easy walk reforma countless 711s starbucks staff helpful friendly inadvertantly left safe day return found sitting penny cant recommend hotel highly",
+      "Date": "2010-11-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Boston",
+      "Title": "\u201cNice but Expensive\u201d",
+      "Author": "BigBarney1968",
+      "ReviewID": "UR60835406",
+      "Content": "location hotel perfect lots night close lots restaurants close food hotel expensive service expect hotel price level recommend mind spending little extra",
+      "Date": "2010-04-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Holiday Inn Hotel & Suites Zona Rosa",
+    "HotelURL": "/ShowUserReviews-g150800-d185394-Reviews-Holiday_Inn_Hotel_Suites_Zona_Rosa-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$102 - $128*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Londres 15, Col. Juarez</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06600</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "185394",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ea/a3/eaa35a2cbe35b7ce624e9e4484e3e87a10large.jpg"
+  }
+}

@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Oakdale, Minnesota", "Title": "\u201cLocation, location, location!\u201d", "Author": "zyskokid", "ReviewID": "UR124576916", "Content": "hidden short alleyway tiber busy intersection buses cabs available hotel la excellent position enjoy rome foot european wont spend time anyway st peters square basilica twothree blocks restaurants travestere blocks south piazza navona tiber complimentary breakfast coffee satisfying nice little wine bar corner hotel dont miss carbonara la carbonara piazza navona", "Date": "2012-02-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Brewster, Massachusetts", "Title": "\u201cCharming.\u201d", "Author": "Jane L", "ReviewID": "UR121243702", "Content": "loved little gem third floor terrace plenty family 3 explored roma accessible partner loves jogging morningand thrilled walk door run miles tiber river staff extra mile returning item forgot definitely stay antidote giant impersonal hotels", "Date": "2011-11-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Falmouth, Massachusetts", "Title": "\u201cGreat Boutique Hotel !\u201d", "Author": "DiBenarella", "ReviewID": "UR120460280", "Content": "gem sizes beds comfortable bathrooms roomy clean hotel character charm loved balcony alley street home loved location walked recommend wonderful stay beautiful rome coffee superb", "Date": "2011-11-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Boston, Massachusetts", "Title": "\u201cBest of the best!\u201d", "Author": "fennysoutherner", "ReviewID": "UR120290445", "Content": "stayed hotel la 6 nights late october fantastic location short walk vatican quick walk tiber river sites rome walked piazza navona trevi fountain pantheon etc hotel family owned family helpful directions restaurant suggestions taxi reservations hotel impeccably clean size quiet overlooking gardens defintely return rome definitely stay hotel", "Date": "2011-11-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Trieste", "Title": "\u201cBest Hotel in Rome\u201d", "Author": "KarolineTrieste", "ReviewID": "UR120076994", "Content": "time stay rome familyowned hotels left cozy feeling luigi owners uncle feel family plus babies twice breakfast time uncle adopted stroll chance eat nice terraces own unique character finally hotel rome looks rome send impressed cleanliness hotel genuinely positive atmosphere friendly disposition location fiveminute walk saint peters close bus trattoria called staying else rome", "Date": "2011-11-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Oakland, California", "Title": "\u201cWell Worth Checking Out\u201d", "Author": "deborah w", "ReviewID": "UR119260191", "Content": "husband stayed hotel 5 nights september tour night rome hotel graciously extended stay easy preplanning months beforehand quiet bit beaten path situated walking distance vatican la travestere central rome clean comfortable bed air conditioning luxury bathroom tiny bathrooms previous tour stops elevator nice morning breakfast terrace hallway relax outside days feet provided welcome sanctuary controlled chaos busy days staff wonderful highly recommended feel home", "Date": "2011-10-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Tel Aviv, Israel", "Title": "\u201cWarm and Inviting\u201d", "Author": "colprubin", "ReviewID": "UR119004055", "Content": "absolutely hotel booked locals business trip pleasant surprise hotel dating 1950s maintained family business triple european standards private terrace unexpected bonus breakfast typical italian continental fresh fruit yogurt rolls coffee excellent location real touristy neighborhood walking distance travestere jewish ghetto vatican love walk piazza navona trevi spanish steps reasonable price am planning permanent hotel rome", "Date": "2011-10-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "monroe ct", "Title": "\u201ccharming and well located\u201d", "Author": "voc124", "ReviewID": "UR87660614", "Content": "stayed hotel twice daughter studying john husband daughter rome hotel near vatican else walk wonderful neighborhood nearby hotel steep stairs views rome staff cappucino anytime day kept clean reccommended rick steves wrong", "Date": "2010-11-20 00:00:00"}], "HotelInfo": {"Name": "La Rovere", "HotelURL": "/ShowUserReviews-g187791-d239495-Reviews-La_Rovere-Rome_Lazio.html", "Price": "$171 - $251*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5 Vicolo Sant'Onofrio</span>, <span class=\"locality\"><span property=\"v:postal-code\">00165</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "239495", "ImgURL": "http://www.venere.com/img/hotel/4/4/1/2/2144/2144.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Oakdale, Minnesota",
+      "Title": "\u201cLocation, location, location!\u201d",
+      "Author": "zyskokid",
+      "ReviewID": "UR124576916",
+      "Content": "hidden short alleyway tiber busy intersection buses cabs available hotel la excellent position enjoy rome foot european wont spend time anyway st peters square basilica twothree blocks restaurants travestere blocks south piazza navona tiber complimentary breakfast coffee satisfying nice little wine bar corner hotel dont miss carbonara la carbonara piazza navona",
+      "Date": "2012-02-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Brewster, Massachusetts",
+      "Title": "\u201cCharming.\u201d",
+      "Author": "Jane L",
+      "ReviewID": "UR121243702",
+      "Content": "loved little gem third floor terrace plenty family 3 explored roma accessible partner loves jogging morningand thrilled walk door run miles tiber river staff extra mile returning item forgot definitely stay antidote giant impersonal hotels",
+      "Date": "2011-11-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Falmouth, Massachusetts",
+      "Title": "\u201cGreat Boutique Hotel !\u201d",
+      "Author": "DiBenarella",
+      "ReviewID": "UR120460280",
+      "Content": "gem sizes beds comfortable bathrooms roomy clean hotel character charm loved balcony alley street home loved location walked recommend wonderful stay beautiful rome coffee superb",
+      "Date": "2011-11-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Boston, Massachusetts",
+      "Title": "\u201cBest of the best!\u201d",
+      "Author": "fennysoutherner",
+      "ReviewID": "UR120290445",
+      "Content": "stayed hotel la 6 nights late october fantastic location short walk vatican quick walk tiber river sites rome walked piazza navona trevi fountain pantheon etc hotel family owned family helpful directions restaurant suggestions taxi reservations hotel impeccably clean size quiet overlooking gardens defintely return rome definitely stay hotel",
+      "Date": "2011-11-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Trieste",
+      "Title": "\u201cBest Hotel in Rome\u201d",
+      "Author": "KarolineTrieste",
+      "ReviewID": "UR120076994",
+      "Content": "time stay rome familyowned hotels left cozy feeling luigi owners uncle feel family plus babies twice breakfast time uncle adopted stroll chance eat nice terraces own unique character finally hotel rome looks rome send impressed cleanliness hotel genuinely positive atmosphere friendly disposition location fiveminute walk saint peters close bus trattoria called staying else rome",
+      "Date": "2011-11-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Oakland, California",
+      "Title": "\u201cWell Worth Checking Out\u201d",
+      "Author": "deborah w",
+      "ReviewID": "UR119260191",
+      "Content": "husband stayed hotel 5 nights september tour night rome hotel graciously extended stay easy preplanning months beforehand quiet bit beaten path situated walking distance vatican la travestere central rome clean comfortable bed air conditioning luxury bathroom tiny bathrooms previous tour stops elevator nice morning breakfast terrace hallway relax outside days feet provided welcome sanctuary controlled chaos busy days staff wonderful highly recommended feel home",
+      "Date": "2011-10-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Tel Aviv, Israel",
+      "Title": "\u201cWarm and Inviting\u201d",
+      "Author": "colprubin",
+      "ReviewID": "UR119004055",
+      "Content": "absolutely hotel booked locals business trip pleasant surprise hotel dating 1950s maintained family business triple european standards private terrace unexpected bonus breakfast typical italian continental fresh fruit yogurt rolls coffee excellent location real touristy neighborhood walking distance travestere jewish ghetto vatican love walk piazza navona trevi spanish steps reasonable price am planning permanent hotel rome",
+      "Date": "2011-10-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "monroe ct",
+      "Title": "\u201ccharming and well located\u201d",
+      "Author": "voc124",
+      "ReviewID": "UR87660614",
+      "Content": "stayed hotel twice daughter studying john husband daughter rome hotel near vatican else walk wonderful neighborhood nearby hotel steep stairs views rome staff cappucino anytime day kept clean reccommended rick steves wrong",
+      "Date": "2010-11-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "La Rovere",
+    "HotelURL": "/ShowUserReviews-g187791-d239495-Reviews-La_Rovere-Rome_Lazio.html",
+    "Price": "$171 - $251*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5 Vicolo Sant'Onofrio</span>, <span class=\"locality\"><span property=\"v:postal-code\">00165</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "239495",
+    "ImgURL": "http://www.venere.com/img/hotel/4/4/1/2/2144/2144.jpg"
+  }
+}

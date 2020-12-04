@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Woodbridge, United Kingdom", "Title": "\u201cVery nice hotel\u201d", "Author": "David H", "ReviewID": "UR122451344", "Content": "woman reception lovely time helpful food standard nice beach close restaurant cocktail bar 100 yards south road called caribe definitely recommend bar nice bit nice view tennis courts cool watching people play tennis morning beach nice private beach whats private whats stay", "Date": "2012-01-03 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Athens, Greece", "Title": "\u201cIf you are going to Venice for the film festival and you are on a budget, do pick this hotel. Do not choose on any other\u201d", "Author": "MarieGiaNelli", "ReviewID": "UR120456407", "Content": "excelsior celebrity hotel real close cinema basically center venice film festival price consierge helpful spacious clean elevetor huge setback time schedule plus close festival central city center top mine view local tennis club expect kept awake sound bouncing balls", "Date": "2011-11-11 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "York, North Yorkshire", "Title": "\u201cDisappointed\u201d", "Author": "Pollie_7", "ReviewID": "UR118554711", "Content": "believe satisfactory reviews moments entering hotel met miserable guy door crack smile thats stayed throughout 7 day stay husband naturally cheerful people wasnt meeting worse extremely dated depressing fashioned brown furniture dominating cheap dated bathroom containing tiny plastic shower staff burst whilst occasions knocking clean sometimes late afternoon bathroom cleaned properly wipe round day 5 noticed stain bedding didnt dare complain knowing consequences television queried reception guy reluctant explaination none tvs pets dont dogs considered id lights hotel literally feeling stairs dark hotel dark dreary fashioned look looking comedy sketch expecting basil fawlty jump moment nearly checked afford added cost weeks accommodation elsewhere", "Date": "2011-09-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Kingston, Jamaica", "Title": "\u201cFantastic value - Stay here!\u201d", "Author": "DMT1965", "ReviewID": "UR103160609", "Content": "read reviews plus staying lido venice spend time water due water taxi hotel nicer expected breakfast wonderful location tourists stay heartbeat", "Date": "2011-04-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Redcar, United Kingdom", "Title": "\u201cNice Bargain Hotel but off the beaten track in April\u201d", "Author": "helensmith135", "ReviewID": "UR102766562", "Content": "partner booked hotel minute 50th birthday unfortunately landed venice friday buses 24 hr strike boats limited travel arrived hotel 2 clean tidy 400pm couldnt st marks square stay lido unfortunately bars restaurants manage hotel didnt realy bar evening wasted summer fantastic day 2 days left hotel 900am 1130pm hotel realy basic beds rock hard ok value money 2", "Date": "2011-04-04 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Zurich, Switzerland", "Title": "\u201cQuite good\u201d", "Author": "espengmbh", "ReviewID": "UR80282952", "Content": "look webpage distant view st marks square hotel white pictures floorit viewand carry ourselvesthe adequateand cleanthe bathroom buy install goodthe staff friendlythe breakfast goodthe breakfast oki backjust son tried bottle champagne wellcome told accept visa recommend pizza fish restaurantsthe pizza sea front viewthe food averagebut fish restaurant meals pay beachthey internet euros fifty half hour", "Date": "2010-09-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "York UK", "Title": "\u201cNice hotel ~ would stay again\u201d", "Author": "pear17", "ReviewID": "UR62068358", "Content": "nice little hotel friendly helpful staff clean comfortable bathroom daily service continental breakfast lots choice 15 min walk vaporetto stop jump buses bus stop hotel road little hotel recommend buying tourist transport ticket regardless length stay journeys buses lido waterbuses venice paid links airport using alilaguna boat service restaurants lido gran viale elisabetta", "Date": "2010-04-21 00:00:00"}], "HotelInfo": {"Name": "Rivamare Hotel", "HotelURL": "/ShowUserReviews-g187870-d505109-Reviews-Rivamare_Hotel-Venice_Veneto.html", "Price": "$100 - $169*", "Address": "<div class=\"wrap_bl wrap\">", "HotelID": "505109", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e4/ef/e4ef9d3c55732c5e6f3b7ce9b2b37ecf5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Woodbridge, United Kingdom",
+      "Title": "\u201cVery nice hotel\u201d",
+      "Author": "David H",
+      "ReviewID": "UR122451344",
+      "Content": "woman reception lovely time helpful food standard nice beach close restaurant cocktail bar 100 yards south road called caribe definitely recommend bar nice bit nice view tennis courts cool watching people play tennis morning beach nice private beach whats private whats stay",
+      "Date": "2012-01-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Athens, Greece",
+      "Title": "\u201cIf you are going to Venice for the film festival and you are on a budget, do pick this hotel. Do not choose on any other\u201d",
+      "Author": "MarieGiaNelli",
+      "ReviewID": "UR120456407",
+      "Content": "excelsior celebrity hotel real close cinema basically center venice film festival price consierge helpful spacious clean elevetor huge setback time schedule plus close festival central city center top mine view local tennis club expect kept awake sound bouncing balls",
+      "Date": "2011-11-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "York, North Yorkshire",
+      "Title": "\u201cDisappointed\u201d",
+      "Author": "Pollie_7",
+      "ReviewID": "UR118554711",
+      "Content": "believe satisfactory reviews moments entering hotel met miserable guy door crack smile thats stayed throughout 7 day stay husband naturally cheerful people wasnt meeting worse extremely dated depressing fashioned brown furniture dominating cheap dated bathroom containing tiny plastic shower staff burst whilst occasions knocking clean sometimes late afternoon bathroom cleaned properly wipe round day 5 noticed stain bedding didnt dare complain knowing consequences television queried reception guy reluctant explaination none tvs pets dont dogs considered id lights hotel literally feeling stairs dark hotel dark dreary fashioned look looking comedy sketch expecting basil fawlty jump moment nearly checked afford added cost weeks accommodation elsewhere",
+      "Date": "2011-09-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Kingston, Jamaica",
+      "Title": "\u201cFantastic value - Stay here!\u201d",
+      "Author": "DMT1965",
+      "ReviewID": "UR103160609",
+      "Content": "read reviews plus staying lido venice spend time water due water taxi hotel nicer expected breakfast wonderful location tourists stay heartbeat",
+      "Date": "2011-04-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Redcar, United Kingdom",
+      "Title": "\u201cNice Bargain Hotel but off the beaten track in April\u201d",
+      "Author": "helensmith135",
+      "ReviewID": "UR102766562",
+      "Content": "partner booked hotel minute 50th birthday unfortunately landed venice friday buses 24 hr strike boats limited travel arrived hotel 2 clean tidy 400pm couldnt st marks square stay lido unfortunately bars restaurants manage hotel didnt realy bar evening wasted summer fantastic day 2 days left hotel 900am 1130pm hotel realy basic beds rock hard ok value money 2",
+      "Date": "2011-04-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Zurich, Switzerland",
+      "Title": "\u201cQuite good\u201d",
+      "Author": "espengmbh",
+      "ReviewID": "UR80282952",
+      "Content": "look webpage distant view st marks square hotel white pictures floorit viewand carry ourselvesthe adequateand cleanthe bathroom buy install goodthe staff friendlythe breakfast goodthe breakfast oki backjust son tried bottle champagne wellcome told accept visa recommend pizza fish restaurantsthe pizza sea front viewthe food averagebut fish restaurant meals pay beachthey internet euros fifty half hour",
+      "Date": "2010-09-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "York UK",
+      "Title": "\u201cNice hotel ~ would stay again\u201d",
+      "Author": "pear17",
+      "ReviewID": "UR62068358",
+      "Content": "nice little hotel friendly helpful staff clean comfortable bathroom daily service continental breakfast lots choice 15 min walk vaporetto stop jump buses bus stop hotel road little hotel recommend buying tourist transport ticket regardless length stay journeys buses lido waterbuses venice paid links airport using alilaguna boat service restaurants lido gran viale elisabetta",
+      "Date": "2010-04-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Rivamare Hotel",
+    "HotelURL": "/ShowUserReviews-g187870-d505109-Reviews-Rivamare_Hotel-Venice_Veneto.html",
+    "Price": "$100 - $169*",
+    "Address": "<div class=\"wrap_bl wrap\">",
+    "HotelID": "505109",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e4/ef/e4ef9d3c55732c5e6f3b7ce9b2b37ecf5large.jpg"
+  }
+}

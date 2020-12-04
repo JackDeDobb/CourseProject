@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Perth, Australia", "Title": "\u201cDon't do it - stay somewhere a little more central\u201d", "Author": "fawky", "ReviewID": "UR88156747", "Content": "stayed april 2009 hotel fairly easy nice neighbourhood wouldnt stay fine checked considerate earplugs im light sleeper sleep earplugs times curtains look window bam train tracks holy cow wonder earplugs trains noisy tracks laughed else fine reasonably clean little bar fridge water cool little italian restaurant road forget road main road hotel pyramide train station opposite road train station doesnt sign front run italian girl boyfriend mother excellent night food beautiful free dessert speciality absolutely delicious free glass wine welcoming friendly wouldnt stay okay time rome trains easy navigate city sights etc hotel", "Date": "2010-11-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "San Diego, California", "Title": "\u201cNot Terrible But Not That Great Either\u201d", "Author": "theduckiest", "ReviewID": "UR60586006", "Content": "booked hotel easter weekend minute paying 100 euro night am hotels rome normal circumstances basic positives near metro station 10 euro cab ride campo dei fiori lot bars staff nice helpful beds comfortable yes window train tracks train noise actually didnt bother cant imagine unless stayed hotel day earplugs negatives near hotel bath shower curtain drain floor needless means flooded bathroom time air conditioner lot noise mosquitoes mean fine below average normal hotel definitely decent", "Date": "2010-04-06 00:00:00"}], "HotelInfo": {"Name": "Hotel Primus Roma", "HotelURL": "/ShowUserReviews-g187791-d498246-Reviews-Hotel_Primus_Roma-Rome_Lazio.html", "Price": "$79 - $426*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Giovanni da Empoli 11 - 13</span>, <span class=\"locality\"><span property=\"v:postal-code\">00154</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "498246", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/1a/03/1a03f152ba30d1c338df87cafb7838773large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Perth, Australia",
+      "Title": "\u201cDon't do it - stay somewhere a little more central\u201d",
+      "Author": "fawky",
+      "ReviewID": "UR88156747",
+      "Content": "stayed april 2009 hotel fairly easy nice neighbourhood wouldnt stay fine checked considerate earplugs im light sleeper sleep earplugs times curtains look window bam train tracks holy cow wonder earplugs trains noisy tracks laughed else fine reasonably clean little bar fridge water cool little italian restaurant road forget road main road hotel pyramide train station opposite road train station doesnt sign front run italian girl boyfriend mother excellent night food beautiful free dessert speciality absolutely delicious free glass wine welcoming friendly wouldnt stay okay time rome trains easy navigate city sights etc hotel",
+      "Date": "2010-11-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "San Diego, California",
+      "Title": "\u201cNot Terrible But Not That Great Either\u201d",
+      "Author": "theduckiest",
+      "ReviewID": "UR60586006",
+      "Content": "booked hotel easter weekend minute paying 100 euro night am hotels rome normal circumstances basic positives near metro station 10 euro cab ride campo dei fiori lot bars staff nice helpful beds comfortable yes window train tracks train noise actually didnt bother cant imagine unless stayed hotel day earplugs negatives near hotel bath shower curtain drain floor needless means flooded bathroom time air conditioner lot noise mosquitoes mean fine below average normal hotel definitely decent",
+      "Date": "2010-04-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Primus Roma",
+    "HotelURL": "/ShowUserReviews-g187791-d498246-Reviews-Hotel_Primus_Roma-Rome_Lazio.html",
+    "Price": "$79 - $426*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Giovanni da Empoli 11 - 13</span>, <span class=\"locality\"><span property=\"v:postal-code\">00154</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "498246",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/1a/03/1a03f152ba30d1c338df87cafb7838773large.jpg"
+  }
+}

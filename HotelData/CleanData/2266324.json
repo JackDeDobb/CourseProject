@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Washington DC, District of Columbia", "Title": "\u201cExcellent location with big comfy rooms\u201d", "Author": "janewdc", "ReviewID": "UR125427451", "Content": "hotel 18 superbly located half block collins st airport bus stop 3 min walk washington st lincoln rd heart action south beach block half beach hotel provides short term stays corner huge kitchen equipped stove microwave dishes pots etc dining table fridge plenty storage space clothes bed comfortable ac bathroom tub toiletries hair dryer provided windows white panels beneath curtains helpful lot light entering mornings helps cooler clean wi fi included complaint hotel noise street kept waking night guess thats excellent location doesnt pool wasnt summary price clean excellent location", "Date": "2012-02-29 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Berlin, ND", "Title": "\u201cVery clean, cheap, and close to the action (but not too close)\u201d", "Author": "exvine", "ReviewID": "UR125412443", "Content": "husband stayed weekend february happy lady front desk nice helped bags hotel tiny studio apartment complete kitchen clean local bus stop block ride 25 cents lincoln road mall short walk south easy action hotel quiet actually sleep night south beach absolutely beautiful trip recommend hotel ok basic clean set pool hot tub breakfast breakfast hop bus 8th eat patio news breakfast fun people watching", "Date": "2012-02-29 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Washington DC", "Title": "\u201cOk stay - good location but noisy\u201d", "Author": "Icefloat", "ReviewID": "UR124783859", "Content": "stayed 1bedroom apartment weekend february hotel reasonable prices apartment choice 3 adults travel apartment clean comfortable futon living comfy bathroom adequate kitchen basics location walking distance lincoln road collins ave etc minus comes noisy atmosphere lots people congregate outside patio outside makes sleeping difficult sleeping futon living hotel easily accessible airport bus parking spots outside recommend bring ear plugs", "Date": "2012-02-18 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Waldorf, Maryland", "Title": "\u201cClean, friendly motel stay\u201d", "Author": "Rose M", "ReviewID": "UR122882325", "Content": "loved found motel online sometimes worrisome arrive clean quaint located nicely clean decorated efficiency kitchen liked stay cruise booked return please happily miami", "Date": "2012-01-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cfriendly and tasteful hotel\u201d", "Author": "Cat M", "ReviewID": "UR122395912", "Content": "reception staff friendly helpful looked stylishly decorated light airy courtyard palm trees looked lovely expecting reasonably priced hotel pleasantly surprised lovely walking distance visit south beach definitely stay hotel", "Date": "2012-01-02 00:00:00"}], "HotelInfo": {"Name": "Hotel 18", "HotelURL": "/ShowUserReviews-g34438-d2266324-Reviews-Hotel_18-Miami_Florida.html", "Price": "$120 - $196*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">230 18th Street</span>, <span class=\"locality\"><span property=\"v:locality\">Miami</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">33139</span></span> </span> </span> </address>", "HotelID": "2266324", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/13/c7/13c74b99ec348856d1be66393d9467fd1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Washington DC, District of Columbia",
+      "Title": "\u201cExcellent location with big comfy rooms\u201d",
+      "Author": "janewdc",
+      "ReviewID": "UR125427451",
+      "Content": "hotel 18 superbly located half block collins st airport bus stop 3 min walk washington st lincoln rd heart action south beach block half beach hotel provides short term stays corner huge kitchen equipped stove microwave dishes pots etc dining table fridge plenty storage space clothes bed comfortable ac bathroom tub toiletries hair dryer provided windows white panels beneath curtains helpful lot light entering mornings helps cooler clean wi fi included complaint hotel noise street kept waking night guess thats excellent location doesnt pool wasnt summary price clean excellent location",
+      "Date": "2012-02-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Berlin, ND",
+      "Title": "\u201cVery clean, cheap, and close to the action (but not too close)\u201d",
+      "Author": "exvine",
+      "ReviewID": "UR125412443",
+      "Content": "husband stayed weekend february happy lady front desk nice helped bags hotel tiny studio apartment complete kitchen clean local bus stop block ride 25 cents lincoln road mall short walk south easy action hotel quiet actually sleep night south beach absolutely beautiful trip recommend hotel ok basic clean set pool hot tub breakfast breakfast hop bus 8th eat patio news breakfast fun people watching",
+      "Date": "2012-02-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Washington DC",
+      "Title": "\u201cOk stay - good location but noisy\u201d",
+      "Author": "Icefloat",
+      "ReviewID": "UR124783859",
+      "Content": "stayed 1bedroom apartment weekend february hotel reasonable prices apartment choice 3 adults travel apartment clean comfortable futon living comfy bathroom adequate kitchen basics location walking distance lincoln road collins ave etc minus comes noisy atmosphere lots people congregate outside patio outside makes sleeping difficult sleeping futon living hotel easily accessible airport bus parking spots outside recommend bring ear plugs",
+      "Date": "2012-02-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Waldorf, Maryland",
+      "Title": "\u201cClean, friendly motel stay\u201d",
+      "Author": "Rose M",
+      "ReviewID": "UR122882325",
+      "Content": "loved found motel online sometimes worrisome arrive clean quaint located nicely clean decorated efficiency kitchen liked stay cruise booked return please happily miami",
+      "Date": "2012-01-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cfriendly and tasteful hotel\u201d",
+      "Author": "Cat M",
+      "ReviewID": "UR122395912",
+      "Content": "reception staff friendly helpful looked stylishly decorated light airy courtyard palm trees looked lovely expecting reasonably priced hotel pleasantly surprised lovely walking distance visit south beach definitely stay hotel",
+      "Date": "2012-01-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel 18",
+    "HotelURL": "/ShowUserReviews-g34438-d2266324-Reviews-Hotel_18-Miami_Florida.html",
+    "Price": "$120 - $196*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">230 18th Street</span>, <span class=\"locality\"><span property=\"v:locality\">Miami</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">33139</span></span> </span> </span> </address>",
+    "HotelID": "2266324",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/13/c7/13c74b99ec348856d1be66393d9467fd1large.jpg"
+  }
+}

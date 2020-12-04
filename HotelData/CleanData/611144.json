@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Ormskirk, United Kingdom", "Title": "\u201cIdeal for a few days stay in Barcelona\u201d", "Author": "MatthewandHeather", "ReviewID": "UR127379162", "Content": "location fine metro stops placa de catalunya plenty neighbourhood shops restaurants bakers supermarkets etc staff friendly helpful speak little spanish french receptionist lovely spoke excellent english bedroom basic tidy clean wife impressed hostel bed linen tidied remade day air conditioning bedroom real plus ensuite toilet shower fine hot cold water kitchen facilities excellent guests friendly mix talk nationalities kitchen wife safe secure nearest metro stop five minute walk wife recommend hotel hestitation quiet close centre sightsee day", "Date": "2012-04-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Starnberg, Germany", "Title": "\u201cA fabulous hostel! :)\u201d", "Author": "Melinda M", "ReviewID": "UR125089103", "Content": "loved hostal unlike hostel ive stayed day left clean towels 3rd night beds comfortable hostel staff friendly helpful safe worries leaving personal belongings day downside hostal super thin walls coughing neighbour kept bit nights closest reception desk bothered tv lounge sounds affected school commented kids 9am gone 430pm enjoyed stay recommend quiet cheap stay barcelona", "Date": "2012-02-23 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Prague, Czech Republic", "Title": "\u201cVery good place to stay for a few days\u201d", "Author": "Papagena3", "ReviewID": "UR124917417", "Content": "5 days hostel location 3 stations pl catalunya friendly helpful staff arrival hostel youll paper youll clean shared bathroom free wifi supermarket 5 min walk air conditioning disadvantage windows bathroom hear depends neighbours", "Date": "2012-02-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Bucharest , RO", "Title": "\u201cA verry good place to stay in Barcelona\u201d", "Author": "laurcapa", "ReviewID": "UR119440086", "Content": "value stay barcelona close metro station 5 min bus station 1 bus beach city centre supermarket close buffet restaurant 5 min walk safe neighbourhood clean ac free wireless access helpful staff stay definitely recommend", "Date": "2011-10-18 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Melbourne", "Title": "\u201cFor tghe holidaymaker, not the partier\u201d", "Author": "TheCalenderGuy", "ReviewID": "UR77117594", "Content": "dont confused budget hostel regard fantastic negative reviews hostel mistaken hotel comfortable airconditioned cleaned thoroughly day bathrooms shared rarely fair city bus lines corner straight placa de catalunya las ramblas beach train station 5 minutes walk road fresh produce market supermarket street kitted kitchen cooking covered tea coffee except kettle outdoor otherwise perfectly peaceful cheap comfortable base explore barcelona", "Date": "2010-08-27 00:00:00"}], "HotelInfo": {"Name": "Hostal Alogar", "HotelURL": "/ShowUserReviews-g187497-d611144-Reviews-Hostal_Alogar-Barcelona_Catalonia.html", "Price": "$61 - $75*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle Laforja 98-100</span>, <span class=\"locality\"><span property=\"v:postal-code\">08021</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "611144", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/19/f8/37/habitacion-doble-con.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Ormskirk, United Kingdom",
+      "Title": "\u201cIdeal for a few days stay in Barcelona\u201d",
+      "Author": "MatthewandHeather",
+      "ReviewID": "UR127379162",
+      "Content": "location fine metro stops placa de catalunya plenty neighbourhood shops restaurants bakers supermarkets etc staff friendly helpful speak little spanish french receptionist lovely spoke excellent english bedroom basic tidy clean wife impressed hostel bed linen tidied remade day air conditioning bedroom real plus ensuite toilet shower fine hot cold water kitchen facilities excellent guests friendly mix talk nationalities kitchen wife safe secure nearest metro stop five minute walk wife recommend hotel hestitation quiet close centre sightsee day",
+      "Date": "2012-04-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Starnberg, Germany",
+      "Title": "\u201cA fabulous hostel! :)\u201d",
+      "Author": "Melinda M",
+      "ReviewID": "UR125089103",
+      "Content": "loved hostal unlike hostel ive stayed day left clean towels 3rd night beds comfortable hostel staff friendly helpful safe worries leaving personal belongings day downside hostal super thin walls coughing neighbour kept bit nights closest reception desk bothered tv lounge sounds affected school commented kids 9am gone 430pm enjoyed stay recommend quiet cheap stay barcelona",
+      "Date": "2012-02-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Prague, Czech Republic",
+      "Title": "\u201cVery good place to stay for a few days\u201d",
+      "Author": "Papagena3",
+      "ReviewID": "UR124917417",
+      "Content": "5 days hostel location 3 stations pl catalunya friendly helpful staff arrival hostel youll paper youll clean shared bathroom free wifi supermarket 5 min walk air conditioning disadvantage windows bathroom hear depends neighbours",
+      "Date": "2012-02-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bucharest , RO",
+      "Title": "\u201cA verry good place to stay in Barcelona\u201d",
+      "Author": "laurcapa",
+      "ReviewID": "UR119440086",
+      "Content": "value stay barcelona close metro station 5 min bus station 1 bus beach city centre supermarket close buffet restaurant 5 min walk safe neighbourhood clean ac free wireless access helpful staff stay definitely recommend",
+      "Date": "2011-10-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Melbourne",
+      "Title": "\u201cFor tghe holidaymaker, not the partier\u201d",
+      "Author": "TheCalenderGuy",
+      "ReviewID": "UR77117594",
+      "Content": "dont confused budget hostel regard fantastic negative reviews hostel mistaken hotel comfortable airconditioned cleaned thoroughly day bathrooms shared rarely fair city bus lines corner straight placa de catalunya las ramblas beach train station 5 minutes walk road fresh produce market supermarket street kitted kitchen cooking covered tea coffee except kettle outdoor otherwise perfectly peaceful cheap comfortable base explore barcelona",
+      "Date": "2010-08-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hostal Alogar",
+    "HotelURL": "/ShowUserReviews-g187497-d611144-Reviews-Hostal_Alogar-Barcelona_Catalonia.html",
+    "Price": "$61 - $75*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle Laforja 98-100</span>, <span class=\"locality\"><span property=\"v:postal-code\">08021</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "611144",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/19/f8/37/habitacion-doble-con.jpg"
+  }
+}

@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Luxembourg", "Title": "\u201cGood value for money\u201d", "Author": "anitasempels", "ReviewID": "UR124805138", "Content": "stay paris weve family friends challenge clean expensive hotel nice safe neighbourhood heres address verte unique promenade spans 45 km de la bastille bois de vincennes covered shrubs trees bed clean kitchen closed handy stay night washbasin evacuation water plumber fixed tip cancel reservation till 24 hrs arrival charges", "Date": "2012-02-19 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Prague, Czech Republic", "Title": "\u201cGood value for your money\u201d", "Author": "Jiri K", "ReviewID": "UR124408519", "Content": "paris exiting accomodation attractions literaly surrounded hotel standard fancy clean relatively location close center friendly staff considering price recommend valuemoney hotel", "Date": "2012-02-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Geelong, Australia", "Title": "\u201cCheap, simple, quiet\u201d", "Author": "Seggles", "ReviewID": "UR119314585", "Content": "found le 300 remarkably wellpriced standard accommodation offered single reasonably overlooked quiet street near bastille clean little bit wear tear looking value money 5 star accommodation recommend", "Date": "2011-10-15 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "london", "Title": "\u201cJust Ok..very basic\u201d", "Author": "rich55UK", "ReviewID": "UR108661034", "Content": "hello firstly arrival found receptionist friendly basic selfcatering service wasnt overlooking local park breakfast clean staff friendly selection basic residential hotel wasnt cup tea maybe ive snob relax comfortable nice looking location wasnt expensive \u00a380 night pay", "Date": "2011-05-17 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cNot bad but just that\u201d", "Author": "hase2", "ReviewID": "UR83781140", "Content": "bad overall issues towels provided day afterwards acidic smell bed sheet cover found smell stored storage smell morning hot water ran middle shower defects hotel clean modern mixed impression receptionists female receptionist day welcomed sincerely kindly explained hotel paris arrival gentleman night keeper nice day weather willing help lady day answer question nearby restaurants", "Date": "2010-10-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Bloomington, Indiana", "Title": "\u201cLocation great! Price reasonable. Staff helpful.\u201d", "Author": "Sallynn", "ReviewID": "UR83744493", "Content": "booked double 2 nights daughter arranged meet paris happily changed triple nights charged triple night comparatively roomy comfortable kitchenette facilities decent cup tea shower roomy bathroom loads hot water promenade cafe nearby 20 minute free wifi daily double glazed windows kept city noise enjoyed exploring bastille recommend seine trip night hotel staff accommodating helpful little maps advising local restaurants liked stayed third night home catching train cdg eat preferred explore local ethernet available 108 euros night triple happy clean roomy accommodation busy weekend paris car", "Date": "2010-10-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Wembury, Devon, UK", "Title": "\u201cEverything we expected\u201d", "Author": "Ken-Jayne", "ReviewID": "UR80171183", "Content": "stayed five nights 12 september 2010 location view exactly expected disappointed liked own breakfast hob boil water teacoffee kettle fridge store water fruit yoghurt etc ideal easy access bastille metro hotel walk promenade plantee arches peaceful haven busy streets ate times les artisans road hotel enjoyed atmosphere food wedding anniversary treat le train bleu gare de lyon spectacular setting glorious foodservice remember staff hotel speak english helpful glitch booked airport shuttle service hotel didnt collect wrong date shuttle service staff dash gare de lyon catch bus holiday hoped cest la vie", "Date": "2010-09-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cGreat service, helpful staff, fab room and location\u201d", "Author": "Annbag", "ReviewID": "UR79496770", "Content": "staff le 300 helpful provided maps directions tips bit allowed day free else booked location near bastille lots bars hotel quiet street sleep", "Date": "2010-09-14 00:00:00"}], "HotelInfo": {"Name": "Residence Hoteliere Le 300", "HotelURL": "/ShowUserReviews-g187147-d1115210-Reviews-Residence_Hoteliere_Le_300-Paris_Ile_de_France.html", "Price": "$133 - $181*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">11, rue Moreau</span>, <span class=\"locality\"><span property=\"v:postal-code\">75012</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>", "HotelID": "1115210", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4a/51/4a51327c8c3fa814c9048bbd1d27be3f1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Luxembourg",
+      "Title": "\u201cGood value for money\u201d",
+      "Author": "anitasempels",
+      "ReviewID": "UR124805138",
+      "Content": "stay paris weve family friends challenge clean expensive hotel nice safe neighbourhood heres address verte unique promenade spans 45 km de la bastille bois de vincennes covered shrubs trees bed clean kitchen closed handy stay night washbasin evacuation water plumber fixed tip cancel reservation till 24 hrs arrival charges",
+      "Date": "2012-02-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Prague, Czech Republic",
+      "Title": "\u201cGood value for your money\u201d",
+      "Author": "Jiri K",
+      "ReviewID": "UR124408519",
+      "Content": "paris exiting accomodation attractions literaly surrounded hotel standard fancy clean relatively location close center friendly staff considering price recommend valuemoney hotel",
+      "Date": "2012-02-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Geelong, Australia",
+      "Title": "\u201cCheap, simple, quiet\u201d",
+      "Author": "Seggles",
+      "ReviewID": "UR119314585",
+      "Content": "found le 300 remarkably wellpriced standard accommodation offered single reasonably overlooked quiet street near bastille clean little bit wear tear looking value money 5 star accommodation recommend",
+      "Date": "2011-10-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "london",
+      "Title": "\u201cJust Ok..very basic\u201d",
+      "Author": "rich55UK",
+      "ReviewID": "UR108661034",
+      "Content": "hello firstly arrival found receptionist friendly basic selfcatering service wasnt overlooking local park breakfast clean staff friendly selection basic residential hotel wasnt cup tea maybe ive snob relax comfortable nice looking location wasnt expensive \u00a380 night pay",
+      "Date": "2011-05-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cNot bad but just that\u201d",
+      "Author": "hase2",
+      "ReviewID": "UR83781140",
+      "Content": "bad overall issues towels provided day afterwards acidic smell bed sheet cover found smell stored storage smell morning hot water ran middle shower defects hotel clean modern mixed impression receptionists female receptionist day welcomed sincerely kindly explained hotel paris arrival gentleman night keeper nice day weather willing help lady day answer question nearby restaurants",
+      "Date": "2010-10-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bloomington, Indiana",
+      "Title": "\u201cLocation great! Price reasonable. Staff helpful.\u201d",
+      "Author": "Sallynn",
+      "ReviewID": "UR83744493",
+      "Content": "booked double 2 nights daughter arranged meet paris happily changed triple nights charged triple night comparatively roomy comfortable kitchenette facilities decent cup tea shower roomy bathroom loads hot water promenade cafe nearby 20 minute free wifi daily double glazed windows kept city noise enjoyed exploring bastille recommend seine trip night hotel staff accommodating helpful little maps advising local restaurants liked stayed third night home catching train cdg eat preferred explore local ethernet available 108 euros night triple happy clean roomy accommodation busy weekend paris car",
+      "Date": "2010-10-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Wembury, Devon, UK",
+      "Title": "\u201cEverything we expected\u201d",
+      "Author": "Ken-Jayne",
+      "ReviewID": "UR80171183",
+      "Content": "stayed five nights 12 september 2010 location view exactly expected disappointed liked own breakfast hob boil water teacoffee kettle fridge store water fruit yoghurt etc ideal easy access bastille metro hotel walk promenade plantee arches peaceful haven busy streets ate times les artisans road hotel enjoyed atmosphere food wedding anniversary treat le train bleu gare de lyon spectacular setting glorious foodservice remember staff hotel speak english helpful glitch booked airport shuttle service hotel didnt collect wrong date shuttle service staff dash gare de lyon catch bus holiday hoped cest la vie",
+      "Date": "2010-09-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cGreat service, helpful staff, fab room and location\u201d",
+      "Author": "Annbag",
+      "ReviewID": "UR79496770",
+      "Content": "staff le 300 helpful provided maps directions tips bit allowed day free else booked location near bastille lots bars hotel quiet street sleep",
+      "Date": "2010-09-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Residence Hoteliere Le 300",
+    "HotelURL": "/ShowUserReviews-g187147-d1115210-Reviews-Residence_Hoteliere_Le_300-Paris_Ile_de_France.html",
+    "Price": "$133 - $181*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">11, rue Moreau</span>, <span class=\"locality\"><span property=\"v:postal-code\">75012</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>",
+    "HotelID": "1115210",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4a/51/4a51327c8c3fa814c9048bbd1d27be3f1large.jpg"
+  }
+}

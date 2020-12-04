@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Malta", "Title": "\u201cJust in the right place\u201d", "Author": "Wiggles2010", "ReviewID": "UR99856562", "Content": "madrid stay hotel holiday hotel close metro easily accessible close airport friendly staff wouldnt recommend restaurant pricey little choice conveniently placed supermarket road stays till 10pm serves baguettes sandwiches etc hotel easy access convenience", "Date": "2011-03-12 00:00:00"}], "HotelInfo": {"Name": "Aristos Hotel", "HotelURL": "/ShowUserReviews-g187514-d232822-Reviews-Aristos_Hotel-Madrid.html", "Price": "$158 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Avenida Pio XII 34</span>, <span class=\"locality\"><span property=\"v:postal-code\">28016</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "232822", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8d/87/8d879c1b43263da8f5207f849da058194large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Malta",
+      "Title": "\u201cJust in the right place\u201d",
+      "Author": "Wiggles2010",
+      "ReviewID": "UR99856562",
+      "Content": "madrid stay hotel holiday hotel close metro easily accessible close airport friendly staff wouldnt recommend restaurant pricey little choice conveniently placed supermarket road stays till 10pm serves baguettes sandwiches etc hotel easy access convenience",
+      "Date": "2011-03-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Aristos Hotel",
+    "HotelURL": "/ShowUserReviews-g187514-d232822-Reviews-Aristos_Hotel-Madrid.html",
+    "Price": "$158 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Avenida Pio XII 34</span>, <span class=\"locality\"><span property=\"v:postal-code\">28016</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "232822",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8d/87/8d879c1b43263da8f5207f849da058194large.jpg"
+  }
+}

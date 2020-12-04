@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Puerto Rico", "Title": "\u201cnever will stay there again!!!\u201d", "Author": "leilare", "ReviewID": "UR127632870", "Content": "buy stay thi hotel hotel worst visit hotel dirty stained smell bad stay supose 2 nights 3 days left night lost money", "Date": "2012-04-10 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "Winnipeg, Manitoba, Canada", "Title": "\u201cAverage hotel when you consider others in the area\u201d", "Author": "TamandPete", "ReviewID": "UR94960095", "Content": "hotel stop trip puerto rico floors hotel exterior looks largest hotel staff friendly spoke english concern trip king size floor corner clean dated carpet worn damp bathroom white clean short term fine bed average sleeping nice pool free parking driving easy hotel hotel lot seafood restaurants walking distance beach drove cabo rojo maybe 10 mins dinner mayaguez shopping close visited bosque de boqueron short walk thin forest cabo rojo salt flats light house el de cabo drive dirt road slow dips bumps guanica spend afternoon gilligans island prefer short ferry ride island continue carr 333 road free beach bahia de la nature trail running beach breakfast inlcuded internet indicated anyhow recommend finding restaurant husband freezer burnt pieces saugage eggs sick spanish omelette eggs tomato sauce top toast suppose toast okay told staff orange juice included break discounted guest neither true time pay bill breakfast served pool nice wifi internet access available connection poor able access internet", "Date": "2011-01-30 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "San Juan, Puerto Rico", "Title": "\u201cDisgusting Dump\u201d", "Author": "tritravelim", "ReviewID": "UR94691736", "Content": "truly title probably worse hotels ive stayed student tight budget stayed dump bad night dont waste time placing complaint administration couldnt care incredible puerto rican sanitation department shut mold infested bathrooms tiles greenish water pool hotels slightly shame puerto rican tourism department allowing called parador whoever extremely low standards positive reviewsi placed owner", "Date": "2011-01-27 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "California", "Title": "\u201cAwful, terrible and OK\u201d", "Author": "MomTravelerandFamily", "ReviewID": "UR59980742", "Content": "traveler beware arrived evening shown dark sheets looked grey carpet drapes worn worse left fish week night clerk worse black mold spots acoustic ceiling tiles worn smelly ambiance practically speechless quickly noticed dismay finally moved renovated hotel fine motel 6 slightly nicer quilts drapes importantly clean smell rest stay fine stay", "Date": "2010-03-31 00:00:00"}], "HotelInfo": {"Name": "Parador Perichi's", "HotelURL": "/ShowUserReviews-g664838-d151819-Reviews-Parador_Perichi_s-Cabo_Rojo_Puerto_Rico.html", "Price": "$90 - $105*", "Address": "<div class=\"amenFloat\">", "HotelID": "151819", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c1/98/c198eb69e370189129c2e959e204df8a2large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Puerto Rico",
+      "Title": "\u201cnever will stay there again!!!\u201d",
+      "Author": "leilare",
+      "ReviewID": "UR127632870",
+      "Content": "buy stay thi hotel hotel worst visit hotel dirty stained smell bad stay supose 2 nights 3 days left night lost money",
+      "Date": "2012-04-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Winnipeg, Manitoba, Canada",
+      "Title": "\u201cAverage hotel when you consider others in the area\u201d",
+      "Author": "TamandPete",
+      "ReviewID": "UR94960095",
+      "Content": "hotel stop trip puerto rico floors hotel exterior looks largest hotel staff friendly spoke english concern trip king size floor corner clean dated carpet worn damp bathroom white clean short term fine bed average sleeping nice pool free parking driving easy hotel hotel lot seafood restaurants walking distance beach drove cabo rojo maybe 10 mins dinner mayaguez shopping close visited bosque de boqueron short walk thin forest cabo rojo salt flats light house el de cabo drive dirt road slow dips bumps guanica spend afternoon gilligans island prefer short ferry ride island continue carr 333 road free beach bahia de la nature trail running beach breakfast inlcuded internet indicated anyhow recommend finding restaurant husband freezer burnt pieces saugage eggs sick spanish omelette eggs tomato sauce top toast suppose toast okay told staff orange juice included break discounted guest neither true time pay bill breakfast served pool nice wifi internet access available connection poor able access internet",
+      "Date": "2011-01-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "San Juan, Puerto Rico",
+      "Title": "\u201cDisgusting Dump\u201d",
+      "Author": "tritravelim",
+      "ReviewID": "UR94691736",
+      "Content": "truly title probably worse hotels ive stayed student tight budget stayed dump bad night dont waste time placing complaint administration couldnt care incredible puerto rican sanitation department shut mold infested bathrooms tiles greenish water pool hotels slightly shame puerto rican tourism department allowing called parador whoever extremely low standards positive reviewsi placed owner",
+      "Date": "2011-01-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "California",
+      "Title": "\u201cAwful, terrible and OK\u201d",
+      "Author": "MomTravelerandFamily",
+      "ReviewID": "UR59980742",
+      "Content": "traveler beware arrived evening shown dark sheets looked grey carpet drapes worn worse left fish week night clerk worse black mold spots acoustic ceiling tiles worn smelly ambiance practically speechless quickly noticed dismay finally moved renovated hotel fine motel 6 slightly nicer quilts drapes importantly clean smell rest stay fine stay",
+      "Date": "2010-03-31 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Parador Perichi's",
+    "HotelURL": "/ShowUserReviews-g664838-d151819-Reviews-Parador_Perichi_s-Cabo_Rojo_Puerto_Rico.html",
+    "Price": "$90 - $105*",
+    "Address": "<div class=\"amenFloat\">",
+    "HotelID": "151819",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c1/98/c198eb69e370189129c2e959e204df8a2large.jpg"
+  }
+}

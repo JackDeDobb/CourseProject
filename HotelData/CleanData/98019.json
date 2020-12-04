@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "south yorkshire", "Title": "\u201cmemphis graceland\u201d", "Author": "illustratedmum33", "ReviewID": "UR124249190", "Content": "refreshed overalla fridge microwave hairdryer iron queen size bed comfy clean downside sink drain doesnt drain plug wont fit bath vast improvement motel 6 downtown purchased gorgeous sandwhich deli road advise watch night liquor store bars bad people", "Date": "2012-02-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Southgate, Michigan", "Title": "\u201cClean and comfortable\u201d", "Author": "Jordan262", "ReviewID": "UR122074732", "Content": "motel basic clean quiet comfortable staff friendly complaint missing bath towels issue linen supplier caused able bring unoccupied", "Date": "2011-12-24 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Leicester, United Kingdom", "Title": "\u201cFabulous for the price, but...\u201d", "Author": "dgrbleu2", "ReviewID": "UR106876181", "Content": "surprised hotel beds extremely comfortable plenty fluffy bathtowels decent lighting coffeetea inroom minifridge microwave hairdryer free wifi etc furnishings carpet little tired price category hotel delivered expected equipped offer outdoor pool business april hotel desolate industrial hotels nearby situation free breakfast ok biscuits gravy coffee otherwise fresh fruit pieces toast cereal waffle maker cold faulty times drawback huge drawback hotel walls terribly thin rang front desk night door hear conversation loud morning hear tvs conversations etc thin walls mom slept fine huge issue sensitive possibility overhearing folks looking budget delivers beyond expectations", "Date": "2011-05-04 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "", "Title": "\u201cWorst hotel stay ever.\u201d", "Author": "TravelingCouple24", "ReviewID": "UR101555725", "Content": "brief drains annoying standing water shower water sink brush teeth wife found screw cereal morning breakfast lobby informed lady breakfast little concern shown told probably fell cereal dispenser happen time", "Date": "2011-03-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Sao Paulo, SP", "Title": "\u201cA great place!\u201d", "Author": "Eliane21", "ReviewID": "UR86211071", "Content": "memphis elvis week loved stay hotel people friendly honesty english poor front desk help close graceland reservation hotel", "Date": "2010-11-06 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "yorktown", "Title": "\u201cWon't stay here again.\u201d", "Author": "dajo82", "ReviewID": "UR77755968", "Content": "staff pleasant advertise deluxe breakfast deluxe situated door strip club didnt feel safe ok unless sleep rock wont stay airplanes flying directly overhead night loud sleep hotel ok night sleep wouldnt stay", "Date": "2010-08-31 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "England", "Title": "\u201cThis Place is fantastic!\u201d", "Author": "GregSpeersOrch11", "ReviewID": "UR68287135", "Content": "fantastic atmosphere staff friendly helpful travelled america visit memphis experience culture hotel staff willing help clean standard location flight path difficult deal title cant expect close airport hear planes name suggests situated close graceland elvis presley boulevard road city reason rated excellent primarily staff family run hotel staff understanding 11 time staff realised occasion joined gatherings hotel situation staff strongly recommended", "Date": "2010-06-22 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cNot Quality Inn quality\u201d", "Author": "Scudderbutter", "ReviewID": "UR63870692", "Content": "stayed quality inns chain choice bottom half list ok motel nights sleep shower special sink drain didnt crawled underneath raise stopper moderately clean age memphis memphis employee set driver downtown driver 1500 2500 round trip pick ready home paid 2500 fine time home jerk didnt answer phone cabs cost 1700 beale street recommend employees professional friendly breakfast typical quality inn waffles biscuits gravy airport transportation fairly prompt handy wouldnt stayed motel talked giving free lift graceland blocks worth 24 hours takes tour free shuttle sun studios worth time fit tours motel located 2 strip joints didnt bother people didnt strange people wandering dark actually pretty safe", "Date": "2010-05-11 00:00:00"}], "HotelInfo": {"Name": "Motel 6 Memphis - Graceland", "HotelURL": "/ShowUserReviews-g55197-d98019-Reviews-Motel_6_Memphis_Graceland-Memphis_Tennessee.html", "Price": "$52 - $56*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1581 Brooks Rd.</span>, <span class=\"locality\"><span property=\"v:locality\">Memphis</span>, <span property=\"v:region\">TN</span> <span property=\"v:postal-code\">38116</span></span> (Formerly Quality Inn Airport/Graceland)</span> </span> </address>", "HotelID": "98019", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b4/85/b4859a7c97346c485137babb2f159a8d3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "south yorkshire",
+      "Title": "\u201cmemphis graceland\u201d",
+      "Author": "illustratedmum33",
+      "ReviewID": "UR124249190",
+      "Content": "refreshed overalla fridge microwave hairdryer iron queen size bed comfy clean downside sink drain doesnt drain plug wont fit bath vast improvement motel 6 downtown purchased gorgeous sandwhich deli road advise watch night liquor store bars bad people",
+      "Date": "2012-02-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Southgate, Michigan",
+      "Title": "\u201cClean and comfortable\u201d",
+      "Author": "Jordan262",
+      "ReviewID": "UR122074732",
+      "Content": "motel basic clean quiet comfortable staff friendly complaint missing bath towels issue linen supplier caused able bring unoccupied",
+      "Date": "2011-12-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Leicester, United Kingdom",
+      "Title": "\u201cFabulous for the price, but...\u201d",
+      "Author": "dgrbleu2",
+      "ReviewID": "UR106876181",
+      "Content": "surprised hotel beds extremely comfortable plenty fluffy bathtowels decent lighting coffeetea inroom minifridge microwave hairdryer free wifi etc furnishings carpet little tired price category hotel delivered expected equipped offer outdoor pool business april hotel desolate industrial hotels nearby situation free breakfast ok biscuits gravy coffee otherwise fresh fruit pieces toast cereal waffle maker cold faulty times drawback huge drawback hotel walls terribly thin rang front desk night door hear conversation loud morning hear tvs conversations etc thin walls mom slept fine huge issue sensitive possibility overhearing folks looking budget delivers beyond expectations",
+      "Date": "2011-05-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cWorst hotel stay ever.\u201d",
+      "Author": "TravelingCouple24",
+      "ReviewID": "UR101555725",
+      "Content": "brief drains annoying standing water shower water sink brush teeth wife found screw cereal morning breakfast lobby informed lady breakfast little concern shown told probably fell cereal dispenser happen time",
+      "Date": "2011-03-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Sao Paulo, SP",
+      "Title": "\u201cA great place!\u201d",
+      "Author": "Eliane21",
+      "ReviewID": "UR86211071",
+      "Content": "memphis elvis week loved stay hotel people friendly honesty english poor front desk help close graceland reservation hotel",
+      "Date": "2010-11-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "yorktown",
+      "Title": "\u201cWon't stay here again.\u201d",
+      "Author": "dajo82",
+      "ReviewID": "UR77755968",
+      "Content": "staff pleasant advertise deluxe breakfast deluxe situated door strip club didnt feel safe ok unless sleep rock wont stay airplanes flying directly overhead night loud sleep hotel ok night sleep wouldnt stay",
+      "Date": "2010-08-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "England",
+      "Title": "\u201cThis Place is fantastic!\u201d",
+      "Author": "GregSpeersOrch11",
+      "ReviewID": "UR68287135",
+      "Content": "fantastic atmosphere staff friendly helpful travelled america visit memphis experience culture hotel staff willing help clean standard location flight path difficult deal title cant expect close airport hear planes name suggests situated close graceland elvis presley boulevard road city reason rated excellent primarily staff family run hotel staff understanding 11 time staff realised occasion joined gatherings hotel situation staff strongly recommended",
+      "Date": "2010-06-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cNot Quality Inn quality\u201d",
+      "Author": "Scudderbutter",
+      "ReviewID": "UR63870692",
+      "Content": "stayed quality inns chain choice bottom half list ok motel nights sleep shower special sink drain didnt crawled underneath raise stopper moderately clean age memphis memphis employee set driver downtown driver 1500 2500 round trip pick ready home paid 2500 fine time home jerk didnt answer phone cabs cost 1700 beale street recommend employees professional friendly breakfast typical quality inn waffles biscuits gravy airport transportation fairly prompt handy wouldnt stayed motel talked giving free lift graceland blocks worth 24 hours takes tour free shuttle sun studios worth time fit tours motel located 2 strip joints didnt bother people didnt strange people wandering dark actually pretty safe",
+      "Date": "2010-05-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Motel 6 Memphis - Graceland",
+    "HotelURL": "/ShowUserReviews-g55197-d98019-Reviews-Motel_6_Memphis_Graceland-Memphis_Tennessee.html",
+    "Price": "$52 - $56*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1581 Brooks Rd.</span>, <span class=\"locality\"><span property=\"v:locality\">Memphis</span>, <span property=\"v:region\">TN</span> <span property=\"v:postal-code\">38116</span></span> (Formerly Quality Inn Airport/Graceland)</span> </span> </address>",
+    "HotelID": "98019",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b4/85/b4859a7c97346c485137babb2f159a8d3large.jpg"
+  }
+}

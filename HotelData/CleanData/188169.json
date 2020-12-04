@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Montreal", "Title": "\u201cQuite good for the price\u201d", "Author": "suitcaseattheready", "ReviewID": "UR125556258", "Content": "stayed wednesday march night booked king size online 70 found nice price spacious clean nice real brick wall bed washroom clean fine couple nights useable space closet dont hang fine free coffee hot water lobby times coffee maker fridge continental breakfast downstairs morning 930 am week 845 slim pickings move selection manage snag yogourt banana wasnt bad plenty bagels coffee parking convenient backyard hotel 15 plus taxes 17 fairly standard downtown thats daily werent ton spots season park nearby lot instead foods market door nice snacks drinks found nice eat sushi restaurant 12 minute walk yonge street near davenport sushi called reasonable fresh tasty japanese reception hotel recommended location close rom museum stay price similar", "Date": "2012-03-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cBest for value in the Yorkville area.\u201d", "Author": "Peter S", "ReviewID": "UR122807252", "Content": "ive staying clean functional staff friendly helpful cant beat price location highend hotels block charge times revel hotelroom luxury hojo decent sleep affordable price plan spend time yorkville day", "Date": "2012-01-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Southampton, Canada", "Title": "\u201cGood deal but a little dirty\u201d", "Author": "evanescencetabby", "ReviewID": "UR122571806", "Content": "25 stars cheap deal weekend im complaining price paid upset lobby nice clean outdated worn bedroom clean stains floor bathroom little dirty bathroom literally size closet matress hard clean sheets location awesome makes close subway yorkville quiet parking hotel", "Date": "2012-01-05 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Louisville, Kentucky", "Title": "\u201cGreat value for the price.\u201d", "Author": "Rose B", "ReviewID": "UR120169379", "Content": "husband spent nights extremely attractive larger expected mattress ive experienced due position door tight squeeze bringing luggage plenty towels bathroom coffee maker coffee hot tea available lobby times continental breakfast provided despite hotels location appreciable noise shopping subway close front desk personnel pleasant helpful limited parking reasonable daily rate recommend hotel looking stay city", "Date": "2011-11-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Vancouver", "Title": "\u201cAmazing Location for the price!\u201d", "Author": "ronnyVancouver", "ReviewID": "UR118655845", "Content": "stayed yorkville hojo admit 100 night price location city bloor st avenue road remind madison 5th nyc stores shopping weekend money saved hotel spent clothing shops hotel definitely clean staff told hotel management deep cleaned brought date enjoyed breakfast included course coffee stay heartbeat yorkville favorite toronto hojo 300 cheaper hotels night", "Date": "2011-09-27 00:00:00"}], "HotelInfo": {"Name": "Howard Johnson Hotel Downtown Toronto - Yorkville", "HotelURL": "/ShowUserReviews-g155019-d188169-Reviews-Howard_Johnson_Hotel_Downtown_Toronto_Yorkville-Toronto_Ontario.html", "Price": "$78 - $177*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">89 Avenue Road</span>, <span class=\"locality\"><span property=\"v:locality\">Toronto</span>, <span property=\"v:region\">Ontario</span> <span property=\"v:postal-code\">M5R 2G3</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span> </span> </address>", "HotelID": "188169", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/5f/00/71/king-standard-room.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Montreal",
+      "Title": "\u201cQuite good for the price\u201d",
+      "Author": "suitcaseattheready",
+      "ReviewID": "UR125556258",
+      "Content": "stayed wednesday march night booked king size online 70 found nice price spacious clean nice real brick wall bed washroom clean fine couple nights useable space closet dont hang fine free coffee hot water lobby times coffee maker fridge continental breakfast downstairs morning 930 am week 845 slim pickings move selection manage snag yogourt banana wasnt bad plenty bagels coffee parking convenient backyard hotel 15 plus taxes 17 fairly standard downtown thats daily werent ton spots season park nearby lot instead foods market door nice snacks drinks found nice eat sushi restaurant 12 minute walk yonge street near davenport sushi called reasonable fresh tasty japanese reception hotel recommended location close rom museum stay price similar",
+      "Date": "2012-03-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cBest for value in the Yorkville area.\u201d",
+      "Author": "Peter S",
+      "ReviewID": "UR122807252",
+      "Content": "ive staying clean functional staff friendly helpful cant beat price location highend hotels block charge times revel hotelroom luxury hojo decent sleep affordable price plan spend time yorkville day",
+      "Date": "2012-01-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Southampton, Canada",
+      "Title": "\u201cGood deal but a little dirty\u201d",
+      "Author": "evanescencetabby",
+      "ReviewID": "UR122571806",
+      "Content": "25 stars cheap deal weekend im complaining price paid upset lobby nice clean outdated worn bedroom clean stains floor bathroom little dirty bathroom literally size closet matress hard clean sheets location awesome makes close subway yorkville quiet parking hotel",
+      "Date": "2012-01-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Louisville, Kentucky",
+      "Title": "\u201cGreat value for the price.\u201d",
+      "Author": "Rose B",
+      "ReviewID": "UR120169379",
+      "Content": "husband spent nights extremely attractive larger expected mattress ive experienced due position door tight squeeze bringing luggage plenty towels bathroom coffee maker coffee hot tea available lobby times continental breakfast provided despite hotels location appreciable noise shopping subway close front desk personnel pleasant helpful limited parking reasonable daily rate recommend hotel looking stay city",
+      "Date": "2011-11-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Vancouver",
+      "Title": "\u201cAmazing Location for the price!\u201d",
+      "Author": "ronnyVancouver",
+      "ReviewID": "UR118655845",
+      "Content": "stayed yorkville hojo admit 100 night price location city bloor st avenue road remind madison 5th nyc stores shopping weekend money saved hotel spent clothing shops hotel definitely clean staff told hotel management deep cleaned brought date enjoyed breakfast included course coffee stay heartbeat yorkville favorite toronto hojo 300 cheaper hotels night",
+      "Date": "2011-09-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Howard Johnson Hotel Downtown Toronto - Yorkville",
+    "HotelURL": "/ShowUserReviews-g155019-d188169-Reviews-Howard_Johnson_Hotel_Downtown_Toronto_Yorkville-Toronto_Ontario.html",
+    "Price": "$78 - $177*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">89 Avenue Road</span>, <span class=\"locality\"><span property=\"v:locality\">Toronto</span>, <span property=\"v:region\">Ontario</span> <span property=\"v:postal-code\">M5R 2G3</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span> </span> </address>",
+    "HotelID": "188169",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/5f/00/71/king-standard-room.jpg"
+  }
+}

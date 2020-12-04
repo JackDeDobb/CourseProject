@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Helsinki, Finland", "Title": "\u201cPerfect!\u201d", "Author": "violet67", "ReviewID": "UR88198357", "Content": "casa relaxing walks central rome true walking distance sights nice clean comfortable beds normal size received maps information arrival leave luggage checkout simple continental breakfast croissant time", "Date": "2010-11-25 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Baltimore, Maryland", "Title": "\u201cNever again\u201d", "Author": "1967citygirl", "ReviewID": "UR83828864", "Content": "friend stayed casa october 2010 stayed bbs europe united news location location location bed breakfast situated walking distance major historical sites museums restaurants shopping near proprietor provided helpful maps advice calling private driver transfer airport bad news awful beds noise street noise noise building bb windows atrium virtual echo chamber hear dish washed television watched child\u2019s cry dogs bark dog barked constantly bathtub hear time tub matters worse 1012 hours walking daily exhausted sleep bed calling \u201cthe evil bed\u201d friend sleep aid simply recover day bed awful uncomfortable sized 12year proprietor indicated free wifi name network baffled whatever name available reiterating reviewers comments breakfast choice sweet roll cereal singleuse soaps shampoos offered day liquid restrictions flights little conveniences appreciated ive stayed bbs italy offered feeling spoiled recommend brief stay casa rome", "Date": "2010-10-17 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Arlington TX", "Title": "\u201cGreat Location, Nice Room, Dissappointed Breakfast\u201d", "Author": "jwinn", "ReviewID": "UR69697628", "Content": "casa located 5 minutes walk fro castle st angelo 10 minutes walk vatican wife stayed 3 nights june walked locations piazza nova square enjoy dinner spanish steps pantheon comfortable private bathroom ours little patio disappointment breakfast consisted couple types cereal toast prepared own coffee toast cleared table definitely recommend friends location breakfast", "Date": "2010-07-04 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 4.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Dublin", "Title": "\u201cDisappointing\u201d", "Author": "bonviveur2010", "ReviewID": "UR63126815", "Content": "booked casa based positive tripadvisor reviews experience somewhat mixed plus owner nice location excellent near vatican fellow travellers staying pleasant negative billed bb dont inform advance self catering involving preparing own basic breakfast doing wash afterwards towels changed twice week 4 days towels fairly scuzzy 2 days change arrived payment cash day 1 informed advance 3 bedroom apartment fairly drab furnishing bed day bathroom cleaned 4 days stayed bbs countries expected daily change towels breakfast prepared wed told upfront conditions advance informed choice stay paid 96 euro night view poor value realise accomodation cheap rome nevertheless expect paid overall experience stayed bb upmarket hostel suit probably disappoint", "Date": "2010-05-03 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Copenhagen", "Title": "\u201cWell situated, cheap, clean and confortable.\u201d", "Author": "AnapDK", "ReviewID": "UR62236835", "Content": "spent 5 nights bed breakfast satisfied apartment bedrooms bathroom kitchen help ourselves espresso anytime wished breakfast simple spacious clean particularly happy location close various rom minutes vatican close spanish stairs walked looking cheap comfortable solution choice ana", "Date": "2010-04-23 00:00:00"}], "HotelInfo": {"Name": "Casa Linnea", "HotelURL": "/ShowUserReviews-g187791-d1227130-Reviews-Casa_Linnea-Rome_Lazio.html", "Price": "$119 - $119*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Plinio 22</span>, <span class=\"locality\"><span property=\"v:postal-code\">193</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "1227130", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ff/37/ff37a4a66d5a844fe70d55e98d0ee64f1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Helsinki, Finland",
+      "Title": "\u201cPerfect!\u201d",
+      "Author": "violet67",
+      "ReviewID": "UR88198357",
+      "Content": "casa relaxing walks central rome true walking distance sights nice clean comfortable beds normal size received maps information arrival leave luggage checkout simple continental breakfast croissant time",
+      "Date": "2010-11-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Baltimore, Maryland",
+      "Title": "\u201cNever again\u201d",
+      "Author": "1967citygirl",
+      "ReviewID": "UR83828864",
+      "Content": "friend stayed casa october 2010 stayed bbs europe united news location location location bed breakfast situated walking distance major historical sites museums restaurants shopping near proprietor provided helpful maps advice calling private driver transfer airport bad news awful beds noise street noise noise building bb windows atrium virtual echo chamber hear dish washed television watched child\u2019s cry dogs bark dog barked constantly bathtub hear time tub matters worse 1012 hours walking daily exhausted sleep bed calling \u201cthe evil bed\u201d friend sleep aid simply recover day bed awful uncomfortable sized 12year proprietor indicated free wifi name network baffled whatever name available reiterating reviewers comments breakfast choice sweet roll cereal singleuse soaps shampoos offered day liquid restrictions flights little conveniences appreciated ive stayed bbs italy offered feeling spoiled recommend brief stay casa rome",
+      "Date": "2010-10-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Arlington TX",
+      "Title": "\u201cGreat Location, Nice Room, Dissappointed Breakfast\u201d",
+      "Author": "jwinn",
+      "ReviewID": "UR69697628",
+      "Content": "casa located 5 minutes walk fro castle st angelo 10 minutes walk vatican wife stayed 3 nights june walked locations piazza nova square enjoy dinner spanish steps pantheon comfortable private bathroom ours little patio disappointment breakfast consisted couple types cereal toast prepared own coffee toast cleared table definitely recommend friends location breakfast",
+      "Date": "2010-07-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Dublin",
+      "Title": "\u201cDisappointing\u201d",
+      "Author": "bonviveur2010",
+      "ReviewID": "UR63126815",
+      "Content": "booked casa based positive tripadvisor reviews experience somewhat mixed plus owner nice location excellent near vatican fellow travellers staying pleasant negative billed bb dont inform advance self catering involving preparing own basic breakfast doing wash afterwards towels changed twice week 4 days towels fairly scuzzy 2 days change arrived payment cash day 1 informed advance 3 bedroom apartment fairly drab furnishing bed day bathroom cleaned 4 days stayed bbs countries expected daily change towels breakfast prepared wed told upfront conditions advance informed choice stay paid 96 euro night view poor value realise accomodation cheap rome nevertheless expect paid overall experience stayed bb upmarket hostel suit probably disappoint",
+      "Date": "2010-05-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Copenhagen",
+      "Title": "\u201cWell situated, cheap, clean and confortable.\u201d",
+      "Author": "AnapDK",
+      "ReviewID": "UR62236835",
+      "Content": "spent 5 nights bed breakfast satisfied apartment bedrooms bathroom kitchen help ourselves espresso anytime wished breakfast simple spacious clean particularly happy location close various rom minutes vatican close spanish stairs walked looking cheap comfortable solution choice ana",
+      "Date": "2010-04-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Casa Linnea",
+    "HotelURL": "/ShowUserReviews-g187791-d1227130-Reviews-Casa_Linnea-Rome_Lazio.html",
+    "Price": "$119 - $119*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Plinio 22</span>, <span class=\"locality\"><span property=\"v:postal-code\">193</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "1227130",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ff/37/ff37a4a66d5a844fe70d55e98d0ee64f1large.jpg"
+  }
+}

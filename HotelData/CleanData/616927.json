@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Rockville, Maryland", "Title": "\u201cGood property in great location\u201d", "Author": "honeybomb67", "ReviewID": "UR138118418", "Content": "husband looking expensive hotel oc weekend sadly hard crystal sands little pay location couldnt pass pleasantly surprised property size lots channels tv discovered leaving thanks channel listing clean chairs sit outside cons offsite parking huge deal considering expectation walking oc water pressure nonexistent gentle rain nice except youve gotten atlantic ocean maybe power wash mainly worth mentioning grateful check definitely stay fantastic location", "Date": "2012-08-23 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Pittsburgh, Pennsylvania", "Title": "\u201cQuiet, convenient, affordable\u201d", "Author": "Chelsea H", "ReviewID": "UR135460995", "Content": "boyfriend looking nice stay quick getaway oc crystal sands motel fit bill check hours meant time enjoy beach checked minutes late motel didnt mind helpful workers front desk gentleman front desk getting city happy answer questions hotel motel clean sand floors windows mirrors wiped sheets pillow fridge beer cold nice flat screen tv basic necessities reasonable price decent amount outlets air conditioner corner motel beachboardwalk lug beach towels chairs umbrella blocks blocks complaint parking wasnt deal parking lot front motel provide extra lot blocks near mini golf course guests assigned guess book bit advance parking ocean city quick cheap getaway definitely consider crystal sands hotel reviews mention sketchy management frat boys spring break havent cleaned crystal sands wrong", "Date": "2012-07-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Summit Point, West Virginia, United States", "Title": "\u201cThe room smelled like moth balls\u201d", "Author": "TsR45", "ReviewID": "UR134805234", "Content": "pay reeked moth balls people overpowering ac fantastic staff nice wont smelled bad greasy spots headboards beds previous guests layed little cleaner beds comfortable", "Date": "2012-07-19 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Culpeper", "Title": "\u201cOK, it's a cheap beach hotel. We came for the beach, not an expensive room!\u201d", "Author": "Larry41onebay", "ReviewID": "UR133470271", "Content": "worried wife approve frugal pick honestly hoping 2 days 4th july busiest weekend ocean city clean comfortable actually happier saving money stay pleasant thanks oc", "Date": "2012-07-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 5.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Waldorf, Maryland", "Title": "\u201cneeds better maintenance\u201d", "Author": "Sp_trips", "ReviewID": "UR108952394", "Content": "pros location affordable nice staff spacious cons parking lot odor dirty towels sheets rust inside fridge dated decor pool nice enjoy birthday weekend greeted disgusting odor walmart buy fresheners helped little returned decided bathe bed bathroom clean towels tried ignore rest pulled blanket dirty sheets underneath guess straw slept top blanket checked morning due refund policies losing money paying nights hotel decent stay arent planning inside wouldnt suggest families children warning bring own towels sheets", "Date": "2011-05-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Miami, Florida", "Title": "\u201cI had a wonderful time\u201d", "Author": "cprohias", "ReviewID": "UR107879709", "Content": "stayed crystal sands enjoyed clean kept staff super nice helped ideas eat love location walking distance beach parked car return time leave trip stay", "Date": "2011-05-11 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Indiana", "Title": "\u201cHuman urine on sheets and mattress, owner did not care.\u201d", "Author": "universityhair", "ReviewID": "UR75334037", "Content": "checked kids sleep pulled couch bed human urine sheets mattress owner wouldnt chair look sent parking lot security employee thin mattress cover disgusting im gonna children sleep somebodys urine responded rude completely unprofessional manner stay dirty motel", "Date": "2010-08-15 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "new york", "Title": "\u201cHated it !\u201d", "Author": "cheapowned", "ReviewID": "UR69913587", "Content": "cheapest motelshotels ocean city regret paying extra bucks motel night club parking lot urinated window air conditioning blew floor 5 people flies mosquitoes flying time parking lot front tight girl spoke phone polite sofa bed yes called tell isnt told additional parking yelled parking club", "Date": "2010-07-06 00:00:00"}], "HotelInfo": {"Name": "Crystal Sands Motel", "HotelURL": "/ShowUserReviews-g41298-d616927-Reviews-Crystal_Sands_Motel-Ocean_City_Maryland.html", "Price": "$54 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1705 Baltimore Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Ocean City</span>, <span property=\"v:region\">MD</span> <span property=\"v:postal-code\">21842</span></span> </span></span></address>", "HotelID": "616927", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ac/85/ac853e24ac80751cee7a29557ac23c431large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rockville, Maryland",
+      "Title": "\u201cGood property in great location\u201d",
+      "Author": "honeybomb67",
+      "ReviewID": "UR138118418",
+      "Content": "husband looking expensive hotel oc weekend sadly hard crystal sands little pay location couldnt pass pleasantly surprised property size lots channels tv discovered leaving thanks channel listing clean chairs sit outside cons offsite parking huge deal considering expectation walking oc water pressure nonexistent gentle rain nice except youve gotten atlantic ocean maybe power wash mainly worth mentioning grateful check definitely stay fantastic location",
+      "Date": "2012-08-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Pittsburgh, Pennsylvania",
+      "Title": "\u201cQuiet, convenient, affordable\u201d",
+      "Author": "Chelsea H",
+      "ReviewID": "UR135460995",
+      "Content": "boyfriend looking nice stay quick getaway oc crystal sands motel fit bill check hours meant time enjoy beach checked minutes late motel didnt mind helpful workers front desk gentleman front desk getting city happy answer questions hotel motel clean sand floors windows mirrors wiped sheets pillow fridge beer cold nice flat screen tv basic necessities reasonable price decent amount outlets air conditioner corner motel beachboardwalk lug beach towels chairs umbrella blocks blocks complaint parking wasnt deal parking lot front motel provide extra lot blocks near mini golf course guests assigned guess book bit advance parking ocean city quick cheap getaway definitely consider crystal sands hotel reviews mention sketchy management frat boys spring break havent cleaned crystal sands wrong",
+      "Date": "2012-07-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Summit Point, West Virginia, United States",
+      "Title": "\u201cThe room smelled like moth balls\u201d",
+      "Author": "TsR45",
+      "ReviewID": "UR134805234",
+      "Content": "pay reeked moth balls people overpowering ac fantastic staff nice wont smelled bad greasy spots headboards beds previous guests layed little cleaner beds comfortable",
+      "Date": "2012-07-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Culpeper",
+      "Title": "\u201cOK, it's a cheap beach hotel. We came for the beach, not an expensive room!\u201d",
+      "Author": "Larry41onebay",
+      "ReviewID": "UR133470271",
+      "Content": "worried wife approve frugal pick honestly hoping 2 days 4th july busiest weekend ocean city clean comfortable actually happier saving money stay pleasant thanks oc",
+      "Date": "2012-07-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 5.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Waldorf, Maryland",
+      "Title": "\u201cneeds better maintenance\u201d",
+      "Author": "Sp_trips",
+      "ReviewID": "UR108952394",
+      "Content": "pros location affordable nice staff spacious cons parking lot odor dirty towels sheets rust inside fridge dated decor pool nice enjoy birthday weekend greeted disgusting odor walmart buy fresheners helped little returned decided bathe bed bathroom clean towels tried ignore rest pulled blanket dirty sheets underneath guess straw slept top blanket checked morning due refund policies losing money paying nights hotel decent stay arent planning inside wouldnt suggest families children warning bring own towels sheets",
+      "Date": "2011-05-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Miami, Florida",
+      "Title": "\u201cI had a wonderful time\u201d",
+      "Author": "cprohias",
+      "ReviewID": "UR107879709",
+      "Content": "stayed crystal sands enjoyed clean kept staff super nice helped ideas eat love location walking distance beach parked car return time leave trip stay",
+      "Date": "2011-05-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Indiana",
+      "Title": "\u201cHuman urine on sheets and mattress, owner did not care.\u201d",
+      "Author": "universityhair",
+      "ReviewID": "UR75334037",
+      "Content": "checked kids sleep pulled couch bed human urine sheets mattress owner wouldnt chair look sent parking lot security employee thin mattress cover disgusting im gonna children sleep somebodys urine responded rude completely unprofessional manner stay dirty motel",
+      "Date": "2010-08-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "new york",
+      "Title": "\u201cHated it !\u201d",
+      "Author": "cheapowned",
+      "ReviewID": "UR69913587",
+      "Content": "cheapest motelshotels ocean city regret paying extra bucks motel night club parking lot urinated window air conditioning blew floor 5 people flies mosquitoes flying time parking lot front tight girl spoke phone polite sofa bed yes called tell isnt told additional parking yelled parking club",
+      "Date": "2010-07-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Crystal Sands Motel",
+    "HotelURL": "/ShowUserReviews-g41298-d616927-Reviews-Crystal_Sands_Motel-Ocean_City_Maryland.html",
+    "Price": "$54 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1705 Baltimore Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Ocean City</span>, <span property=\"v:region\">MD</span> <span property=\"v:postal-code\">21842</span></span> </span></span></address>",
+    "HotelID": "616927",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ac/85/ac853e24ac80751cee7a29557ac23c431large.jpg"
+  }
+}

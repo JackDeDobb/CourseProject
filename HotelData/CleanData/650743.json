@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "San Angelo, Texas", "Title": "\u201cHorrid\u201d", "Author": "jkotrla", "ReviewID": "UR112022475", "Content": "tiny wifi pay barely reaches sluggish antique modem breakfast coffee cereal disgustingly sweet croissants served 0730 0800 0100 curfew exceptions reason hotel 0100 spending night street owner extremely rude left horrible taste mouths roma hospitality physically convenient main terminal strongly suggest walking block hotel", "Date": "2011-06-07 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Aalborg, Denmark", "Title": "\u201cOverall poor quality and service\u201d", "Author": "KimbooDK", "ReviewID": "UR62062232", "Content": "stayed hotel class trip disappointed look hotels website totally acceptable unfortunatly safe tv bathrooms terrible stinch complained help thats thanks furthermore beds terrible noise street excessive avoid hotel youre actually type sleeps pricing low descent size rating poor close terrible", "Date": "2010-04-21 00:00:00"}], "HotelInfo": {"Name": "Hotel Marisa", "HotelURL": "/ShowUserReviews-g187791-d650743-Reviews-Hotel_Marisa-Rome_Lazio.html", "Price": "$92 - $158*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Marsala 98</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "650743", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/05/e7/05e730b7ee3c091a6599edffd1f8d7d73large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "San Angelo, Texas",
+      "Title": "\u201cHorrid\u201d",
+      "Author": "jkotrla",
+      "ReviewID": "UR112022475",
+      "Content": "tiny wifi pay barely reaches sluggish antique modem breakfast coffee cereal disgustingly sweet croissants served 0730 0800 0100 curfew exceptions reason hotel 0100 spending night street owner extremely rude left horrible taste mouths roma hospitality physically convenient main terminal strongly suggest walking block hotel",
+      "Date": "2011-06-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Aalborg, Denmark",
+      "Title": "\u201cOverall poor quality and service\u201d",
+      "Author": "KimbooDK",
+      "ReviewID": "UR62062232",
+      "Content": "stayed hotel class trip disappointed look hotels website totally acceptable unfortunatly safe tv bathrooms terrible stinch complained help thats thanks furthermore beds terrible noise street excessive avoid hotel youre actually type sleeps pricing low descent size rating poor close terrible",
+      "Date": "2010-04-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Marisa",
+    "HotelURL": "/ShowUserReviews-g187791-d650743-Reviews-Hotel_Marisa-Rome_Lazio.html",
+    "Price": "$92 - $158*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Marsala 98</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "650743",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/05/e7/05e730b7ee3c091a6599edffd1f8d7d73large.jpg"
+  }
+}

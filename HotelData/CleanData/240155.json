@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Portland, Oregon", "Title": "\u201cEfficient and Absolutely Soulless\u201d", "Author": "DanishAccent", "ReviewID": "UR120921922", "Content": "hof forgettable hotels run efficient catering business bed reliable internet connection period thats hotel fine anhalter strasse bland hotel close station direct connection airport definitely stay youre chain hotels breakfast brunch", "Date": "2011-11-22 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cYou must stay here if you're in Berlin\u201d", "Author": "tophams186338", "ReviewID": "UR120653974", "Content": "hotel team looked service location food fantastic definitely stay berlin staff excellent standard housekeeping class spotless berlin youve stay", "Date": "2011-11-16 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Europe", "Title": "\u201cMixed feelings\u201d", "Author": "HauEurope", "ReviewID": "UR120080430", "Content": "overall judgment hotel undoubtedly located walking distance city centre price level cleanliness standard mean below 4stars hotel ethics aspects concerned staff appears somewhat", "Date": "2011-11-02 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cGood, clean business hotel\u201d", "Author": "melbguy", "ReviewID": "UR90332413", "Content": "hotel located close anhalter bahnhof sbahn kochstrasse ubahn checkpoint charlie business hotel apparently geared towards conferences functions suitable leisure travelers superior upgrade due booking 3 nights spacious comfortable looked furnished ikea standard issue light beige furniture special price excellent location quality accommodation cant complain memorable stay satisfactory", "Date": "2010-12-20 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cClean, comfortable and great location\u201d", "Author": "mr_mark_i", "ReviewID": "UR63402516", "Content": "located hotel close transport close berlin clean spacious comfortable buffet breakfast nice stay berlin seven days difficult leave easy walk potsdamer platz wall checkpoint charlie etc", "Date": "2010-05-06 00:00:00"}], "HotelInfo": {"Name": "Relexa Hotel Stuttgarter Hof", "HotelURL": "/ShowUserReviews-g187323-d240155-Reviews-Relexa_Hotel_Stuttgarter_Hof-Berlin.html", "Price": "$70 - $160*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Anhalter Strasse 8-9</span>, <span class=\"locality\"><span property=\"v:postal-code\">10963</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "240155", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6f/18/6f18c8b587d1cd4042ccd77408861f394large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Portland, Oregon",
+      "Title": "\u201cEfficient and Absolutely Soulless\u201d",
+      "Author": "DanishAccent",
+      "ReviewID": "UR120921922",
+      "Content": "hof forgettable hotels run efficient catering business bed reliable internet connection period thats hotel fine anhalter strasse bland hotel close station direct connection airport definitely stay youre chain hotels breakfast brunch",
+      "Date": "2011-11-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cYou must stay here if you're in Berlin\u201d",
+      "Author": "tophams186338",
+      "ReviewID": "UR120653974",
+      "Content": "hotel team looked service location food fantastic definitely stay berlin staff excellent standard housekeeping class spotless berlin youve stay",
+      "Date": "2011-11-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Europe",
+      "Title": "\u201cMixed feelings\u201d",
+      "Author": "HauEurope",
+      "ReviewID": "UR120080430",
+      "Content": "overall judgment hotel undoubtedly located walking distance city centre price level cleanliness standard mean below 4stars hotel ethics aspects concerned staff appears somewhat",
+      "Date": "2011-11-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cGood, clean business hotel\u201d",
+      "Author": "melbguy",
+      "ReviewID": "UR90332413",
+      "Content": "hotel located close anhalter bahnhof sbahn kochstrasse ubahn checkpoint charlie business hotel apparently geared towards conferences functions suitable leisure travelers superior upgrade due booking 3 nights spacious comfortable looked furnished ikea standard issue light beige furniture special price excellent location quality accommodation cant complain memorable stay satisfactory",
+      "Date": "2010-12-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cClean, comfortable and great location\u201d",
+      "Author": "mr_mark_i",
+      "ReviewID": "UR63402516",
+      "Content": "located hotel close transport close berlin clean spacious comfortable buffet breakfast nice stay berlin seven days difficult leave easy walk potsdamer platz wall checkpoint charlie etc",
+      "Date": "2010-05-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Relexa Hotel Stuttgarter Hof",
+    "HotelURL": "/ShowUserReviews-g187323-d240155-Reviews-Relexa_Hotel_Stuttgarter_Hof-Berlin.html",
+    "Price": "$70 - $160*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Anhalter Strasse 8-9</span>, <span class=\"locality\"><span property=\"v:postal-code\">10963</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "240155",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6f/18/6f18c8b587d1cd4042ccd77408861f394large.jpg"
+  }
+}

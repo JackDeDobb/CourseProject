@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Manchester, United Kingdom", "Title": "\u201cGood, but don't use the bathrooms.\u201d", "Author": "102Paul", "ReviewID": "UR134082103", "Content": "stayed july 2012 business trip hotel ok reasonable bathroom atrocious bathroom door closed bed woke middle night loo door smell coming nastiest id smelt describe smell garbage mixed vomit sprinkle little cleaner top thats describe throw overpowering window air bad bath brown water stains bidet brown rusted im smell coming breakfast ok staff friendly checkin desk", "Date": "2012-07-11 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 5.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Hove, United Kingdom", "Title": "\u201cbe told !!\u201d", "Author": "cohende", "ReviewID": "UR95517464", "Content": "nut shell average value money building times radiator toilet heating bring coat loo report 48 hours bleed radiator meanwhile time lift inevitably stops front reception look welcome anymore honour truth cleaning impeccable", "Date": "2011-02-04 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Clearwater, FL", "Title": "\u201cAbsolute dump - you've been warned\u201d", "Author": "FlCracker", "ReviewID": "UR85365830", "Content": "beyond awful building lobby nervous optimistic serviceable spain tend 6th floor renovated hotel built probably 60s staying jail offered cleaner comfortable experience expect bare dirty floors peeling paint walls linens curtains threadbare towels beat furniture tiny tv poor wifi paid hour filth dirt encrusted tiny bath 2 kinds mold identify shower check bedbugs sheets appeared clean slept night tv noise smoke wafting staff friendly cant egregiously poor conditions consider yourself warned", "Date": "2010-10-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Toronto", "Title": "\u201cExcellent value for a 3* Hotel\u201d", "Author": "Malitz", "ReviewID": "UR57636995", "Content": "stayed hotel 2 nights feb 2627 money spent hotel satisfied somewhat exceeded expectations expect clean excellent service expect aesthetically pleasing bottom line satisfied stay expect clean service arrived receptionist juan jos\u00e9 extremely helpful map city explained destinations travel options assisted planning trip airport via metro late night woken noisy neighbour called juan immediately care ensured nights sleep genuinely concerned ensuring stay service received 5star hotels dont illusions grandeur pleasantly surprised please questions hope helps wish happy travels", "Date": "2010-03-03 00:00:00"}], "HotelInfo": {"Name": "San Antonio De La Florida Hotel Madrid", "HotelURL": "/ShowUserReviews-g187514-d1211109-Reviews-San_Antonio_De_La_Florida_Hotel_Madrid-Madrid.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Paseo De La Florida 13</span>, <span class=\"locality\"><span property=\"v:postal-code\">28008</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "1211109", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/73/37/7337c4ffba93e868b7052135df3856f82large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Manchester, United Kingdom",
+      "Title": "\u201cGood, but don't use the bathrooms.\u201d",
+      "Author": "102Paul",
+      "ReviewID": "UR134082103",
+      "Content": "stayed july 2012 business trip hotel ok reasonable bathroom atrocious bathroom door closed bed woke middle night loo door smell coming nastiest id smelt describe smell garbage mixed vomit sprinkle little cleaner top thats describe throw overpowering window air bad bath brown water stains bidet brown rusted im smell coming breakfast ok staff friendly checkin desk",
+      "Date": "2012-07-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 5.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Hove, United Kingdom",
+      "Title": "\u201cbe told !!\u201d",
+      "Author": "cohende",
+      "ReviewID": "UR95517464",
+      "Content": "nut shell average value money building times radiator toilet heating bring coat loo report 48 hours bleed radiator meanwhile time lift inevitably stops front reception look welcome anymore honour truth cleaning impeccable",
+      "Date": "2011-02-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Clearwater, FL",
+      "Title": "\u201cAbsolute dump - you've been warned\u201d",
+      "Author": "FlCracker",
+      "ReviewID": "UR85365830",
+      "Content": "beyond awful building lobby nervous optimistic serviceable spain tend 6th floor renovated hotel built probably 60s staying jail offered cleaner comfortable experience expect bare dirty floors peeling paint walls linens curtains threadbare towels beat furniture tiny tv poor wifi paid hour filth dirt encrusted tiny bath 2 kinds mold identify shower check bedbugs sheets appeared clean slept night tv noise smoke wafting staff friendly cant egregiously poor conditions consider yourself warned",
+      "Date": "2010-10-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Toronto",
+      "Title": "\u201cExcellent value for a 3* Hotel\u201d",
+      "Author": "Malitz",
+      "ReviewID": "UR57636995",
+      "Content": "stayed hotel 2 nights feb 2627 money spent hotel satisfied somewhat exceeded expectations expect clean excellent service expect aesthetically pleasing bottom line satisfied stay expect clean service arrived receptionist juan jos\u00e9 extremely helpful map city explained destinations travel options assisted planning trip airport via metro late night woken noisy neighbour called juan immediately care ensured nights sleep genuinely concerned ensuring stay service received 5star hotels dont illusions grandeur pleasantly surprised please questions hope helps wish happy travels",
+      "Date": "2010-03-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "San Antonio De La Florida Hotel Madrid",
+    "HotelURL": "/ShowUserReviews-g187514-d1211109-Reviews-San_Antonio_De_La_Florida_Hotel_Madrid-Madrid.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Paseo De La Florida 13</span>, <span class=\"locality\"><span property=\"v:postal-code\">28008</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "1211109",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/73/37/7337c4ffba93e868b7052135df3856f82large.jpg"
+  }
+}

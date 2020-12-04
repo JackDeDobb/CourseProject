@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "essex", "Title": "\u201cMuch better than we expected\u201d", "Author": "helengarton", "ReviewID": "UR120615185", "Content": "reading reviews looking forward paid staff spoke perfect english local nearby resturaunts value food noise heard guests corridor mosques course turkey fair walk main attractions fab weather wasnt road hotel street sellers night lovley lads nor pushy", "Date": "2011-11-15 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Dubai, United Arab Emirates", "Title": "\u201cAverage... Only Stay here if you getting a Steal...\u201d", "Author": "BrightspaceXL", "ReviewID": "UR120390433", "Content": "eid holidays wife hotel spacious sufficiently location hotel ideal tourist visited using tram love walks suit red light district located close thats disadvantage travelling family basically free hotel charge wifi available lobby limited 1 laptop overall deal opt hotel", "Date": "2011-11-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Gainesville, Florida", "Title": "\u201cFriendly staff, large and clean rooms!\u201d", "Author": "Lennie57", "ReviewID": "UR106096027", "Content": "spent nights days hotel staff helpful responsive overall hotel clean comfortable nicely furnished view street running front hotel breakfast choices street night lot noise location city able walk spice market hotel tramway close access hagia sophia grand bazaar easy easy access bus line able bus taksim meal ate hotel breakfast im prices travel agent package recently remodeled nice", "Date": "2011-04-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "East Midlands", "Title": "\u201cHistory and Shopping with the Girls\u201d", "Author": "Pensioner99 Posted by an OctopusTravel traveler", "ReviewID": "UR101695480", "Content": "lovely hotel clean safe comfortable bedroom bathroom shower try sauna etc nor try wifi hotel advertises disco heard staff friendly helpful breakfast buffet fresh extensive bit fruit time evening meal choice varied tasty house white wine nice prices quality compared favourably eating close tram line access city walking distance grand bazaar road outside hotel finished look completed", "Date": "2011-03-27 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Roermond, The Netherlands", "Title": "\u201cGreat service, nice renovated rooms\u201d", "Author": "Ethem1973", "ReviewID": "UR101098323", "Content": "hotel business trip stay hotel hotel cental located near sightseeing highlights public transport nearby breakfast ideal shape staff hotel polite friendly congratulations managing staff", "Date": "2011-03-22 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "walk about, currently no home city", "Title": "\u201cRUN THE OTHER WAY\u201d", "Author": "daniellegage", "ReviewID": "UR87110161", "Content": "booked hotel day istanbul 12 hour bus ride 20 hour flight relax steam lay watch tv internet connections reservations trip traveling months worst stayed wifi immediately issue connections pass code hotel street stopped stood waiting shook heads blood donation advertise wifi stayed twenty hotels manager call hotels near wifi codes finally time code time computer circus act fix wifi charge money site im afford correct front desk write directions airport wrote name airport joke taxi half hour ride cost 80 lira train oh metro street please write directions metro pulled map paper airport written service tv pitched squealing round noise comes volume noisy ac loud tv screaming dingy pictured mini fridge beer coke fanta service menu prices im charge salad charge cup nescafe shower shampoo soap conditioner washcloths spa rip charge 60 lira hamam treatment lasts approximately 15 minutes wasnt busy steam costs 20 lira comes hotel cost websites course service disaster sixty bucks night stay hostel pay extra money double occupancy restful stay kinder service internet", "Date": "2010-11-15 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Amsterdam, The Netherlands", "Title": "\u201cNice hotel, nice location\u201d", "Author": "Goodsport01", "ReviewID": "UR57539491", "Content": "4 star 3 size cleaned day sheets changed breakfast replenished required staff helpful location ok catch tram taxi main sites grand bazaar 10 minute walk wholesale stores lot russians", "Date": "2010-03-02 00:00:00"}], "HotelInfo": {"Name": "Blackbird Hotel", "HotelURL": "/ShowUserReviews-g293974-d304804-Reviews-Blackbird_Hotel-Istanbul.html", "Price": "$92 - $463*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gencturk Cad No 51 - 53</span> | <span class=\"extended-address\">Sehzadebasi</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34740</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "304804", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/19/b9/19b99d75315ff32ea1b153058d55a1c44large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "essex",
+      "Title": "\u201cMuch better than we expected\u201d",
+      "Author": "helengarton",
+      "ReviewID": "UR120615185",
+      "Content": "reading reviews looking forward paid staff spoke perfect english local nearby resturaunts value food noise heard guests corridor mosques course turkey fair walk main attractions fab weather wasnt road hotel street sellers night lovley lads nor pushy",
+      "Date": "2011-11-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Dubai, United Arab Emirates",
+      "Title": "\u201cAverage... Only Stay here if you getting a Steal...\u201d",
+      "Author": "BrightspaceXL",
+      "ReviewID": "UR120390433",
+      "Content": "eid holidays wife hotel spacious sufficiently location hotel ideal tourist visited using tram love walks suit red light district located close thats disadvantage travelling family basically free hotel charge wifi available lobby limited 1 laptop overall deal opt hotel",
+      "Date": "2011-11-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Gainesville, Florida",
+      "Title": "\u201cFriendly staff, large and clean rooms!\u201d",
+      "Author": "Lennie57",
+      "ReviewID": "UR106096027",
+      "Content": "spent nights days hotel staff helpful responsive overall hotel clean comfortable nicely furnished view street running front hotel breakfast choices street night lot noise location city able walk spice market hotel tramway close access hagia sophia grand bazaar easy easy access bus line able bus taksim meal ate hotel breakfast im prices travel agent package recently remodeled nice",
+      "Date": "2011-04-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "East Midlands",
+      "Title": "\u201cHistory and Shopping with the Girls\u201d",
+      "Author": "Pensioner99 Posted by an OctopusTravel traveler",
+      "ReviewID": "UR101695480",
+      "Content": "lovely hotel clean safe comfortable bedroom bathroom shower try sauna etc nor try wifi hotel advertises disco heard staff friendly helpful breakfast buffet fresh extensive bit fruit time evening meal choice varied tasty house white wine nice prices quality compared favourably eating close tram line access city walking distance grand bazaar road outside hotel finished look completed",
+      "Date": "2011-03-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Roermond, The Netherlands",
+      "Title": "\u201cGreat service, nice renovated rooms\u201d",
+      "Author": "Ethem1973",
+      "ReviewID": "UR101098323",
+      "Content": "hotel business trip stay hotel hotel cental located near sightseeing highlights public transport nearby breakfast ideal shape staff hotel polite friendly congratulations managing staff",
+      "Date": "2011-03-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "walk about, currently no home city",
+      "Title": "\u201cRUN THE OTHER WAY\u201d",
+      "Author": "daniellegage",
+      "ReviewID": "UR87110161",
+      "Content": "booked hotel day istanbul 12 hour bus ride 20 hour flight relax steam lay watch tv internet connections reservations trip traveling months worst stayed wifi immediately issue connections pass code hotel street stopped stood waiting shook heads blood donation advertise wifi stayed twenty hotels manager call hotels near wifi codes finally time code time computer circus act fix wifi charge money site im afford correct front desk write directions airport wrote name airport joke taxi half hour ride cost 80 lira train oh metro street please write directions metro pulled map paper airport written service tv pitched squealing round noise comes volume noisy ac loud tv screaming dingy pictured mini fridge beer coke fanta service menu prices im charge salad charge cup nescafe shower shampoo soap conditioner washcloths spa rip charge 60 lira hamam treatment lasts approximately 15 minutes wasnt busy steam costs 20 lira comes hotel cost websites course service disaster sixty bucks night stay hostel pay extra money double occupancy restful stay kinder service internet",
+      "Date": "2010-11-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Amsterdam, The Netherlands",
+      "Title": "\u201cNice hotel, nice location\u201d",
+      "Author": "Goodsport01",
+      "ReviewID": "UR57539491",
+      "Content": "4 star 3 size cleaned day sheets changed breakfast replenished required staff helpful location ok catch tram taxi main sites grand bazaar 10 minute walk wholesale stores lot russians",
+      "Date": "2010-03-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Blackbird Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d304804-Reviews-Blackbird_Hotel-Istanbul.html",
+    "Price": "$92 - $463*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gencturk Cad No 51 - 53</span> | <span class=\"extended-address\">Sehzadebasi</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34740</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "304804",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/19/b9/19b99d75315ff32ea1b153058d55a1c44large.jpg"
+  }
+}

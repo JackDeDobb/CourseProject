@@ -1,1 +1,165 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Jyvaskyla, Finland", "Title": "\u201cBasic hotel to sleep in\u201d", "Author": "htckr", "ReviewID": "UR123115207", "Content": "stayed hotel time nights hotel hotels singapore hotel meets expectations dare venture authentic surroundings local people eat outskirts little india basic bit outofdate ours smelled cigarette smoke friends didnt bed linens clean staff polite help normal touristy questions wifi signal weak breakfast toast fruits scrambled eggs visit hawker food court street offering selection asian food clock affordable prices hotel location bit distant popular tourist attractions theres bus stop beside hawker court buses taking downtown mrt stations walking distance close farrer park mall maybe closest boon easiest travel tofrom lavender option prefer ew line", "Date": "2012-01-15 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Brussels, Belgium", "Title": "\u201cRoom for three people is too tiny\u201d", "Author": "I_am_a_passanger", "ReviewID": "UR121011983", "Content": "people space view wall shower ok hot water day visitor cockroach close staff night time left hotel breakfast basis ok neighbourhood visit little india metro", "Date": "2011-11-25 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Porto Alegre, RS", "Title": "\u201cVery good, cost-benefit\u201d", "Author": "danielbochi", "ReviewID": "UR119880245", "Content": "hotel simple clean staff size bathroom ac road little bit noisy prefer stay located location mtr 3km breakfast simple hotel bread butter jam coffee banana products dont options dont spend money stay madras dont expect costbenefit believe price charge hotel fair", "Date": "2011-10-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Manila, Philippines", "Title": "\u201cExceeded Expectation. Clean and Safe yet affordable!\u201d", "Author": "thundercloud0514", "ReviewID": "UR112116251", "Content": "months looking budget hotel fit 5 persons doubt hotel travelling budget booked arrived hotel 5 connecting double triple extra cost happy bout cause bathrooms love connecting location hawker station beds greats sleep breakfast included cheap rate local calls extra charge hate honestly none except allergic pets owner beautiful dog cat som", "Date": "2011-06-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Chichester, United Kingdom", "Title": "\u201cGood value and friendly\u201d", "Author": "StephandAlan60s", "ReviewID": "UR97652941", "Content": "madras hotel short walk noisy little india quiet night bus stops opposite easy city underground minutes walk staff helpful free breakfast adequate free internet day welcome", "Date": "2011-02-22 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Paris, France", "Title": "\u201cConvenient\u201d", "Author": "oyyo", "ReviewID": "UR91119272", "Content": "location center minutes walk lil india clean private bathroom reasonable price especially sg staff helpfull moreover cross street 2424 asian foodcourt amazing wanton", "Date": "2010-12-30 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Bangalore", "Title": "\u201cSmall but Clean Hotel\u201d", "Author": "balagopalks", "ReviewID": "UR89480111", "Content": "reading reviews internet decided try hotelthe hotel home clean comfortable breakfast light sufficient staff homely feeling disturbing sound music played nearby near road little nearest mrt station", "Date": "2010-12-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Manila, Philippines", "Title": "\u201cHIghly Recommended for my kababayan PInoys\u201d", "Author": "cherryadventurer", "ReviewID": "UR88062049", "Content": "family love animals loving dog nice cat trained dog cheap family friendly hotel clean carpeted tv split type aircon heated shower complimentary water free breakfast wifi lavender square 24 hours love food thereit yummy 7 eleven nearby walk lavender mrt grocery computer shops massage disco bar bus stops nearby met filipinos checked hotel filipino employee person reception accommodating terms directions tourist remember taking taxi tell bring madras hotel near lavender food square plaza 2 madras hotel", "Date": "2010-11-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Scotland", "Title": "\u201cA good find!\u201d", "Author": "DuncanFam", "ReviewID": "UR63712623", "Content": "family stranded singapore volcanic ash disruption found difficult available accom eventually found hotel web site managed book arrived lunch ready provided connecting unlike singapore hotels clean ac unit quiet beds cleaned day bottles water supplied 3 nights sleep hotel noise staff helpful friendly 15 mins free internet day launderette reasonable life saver breakfast basic basic included price fine nice stay liked staying little experience contrasts chic market singapore glad", "Date": "2010-05-10 00:00:00"}], "HotelInfo": {"Name": "Madras Hotel Eminence", "HotelURL": "/ShowUserReviews-g294265-d1484481-Reviews-Madras_Hotel_Eminence-Singapore.html", "Price": "$107 - $127*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">407 Jalan Besar</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>", "HotelID": "1484481", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f8/bc/f8bc2fdf3c8caae33ffa49e41ec45a131large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Jyvaskyla, Finland",
+      "Title": "\u201cBasic hotel to sleep in\u201d",
+      "Author": "htckr",
+      "ReviewID": "UR123115207",
+      "Content": "stayed hotel time nights hotel hotels singapore hotel meets expectations dare venture authentic surroundings local people eat outskirts little india basic bit outofdate ours smelled cigarette smoke friends didnt bed linens clean staff polite help normal touristy questions wifi signal weak breakfast toast fruits scrambled eggs visit hawker food court street offering selection asian food clock affordable prices hotel location bit distant popular tourist attractions theres bus stop beside hawker court buses taking downtown mrt stations walking distance close farrer park mall maybe closest boon easiest travel tofrom lavender option prefer ew line",
+      "Date": "2012-01-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Brussels, Belgium",
+      "Title": "\u201cRoom for three people is too tiny\u201d",
+      "Author": "I_am_a_passanger",
+      "ReviewID": "UR121011983",
+      "Content": "people space view wall shower ok hot water day visitor cockroach close staff night time left hotel breakfast basis ok neighbourhood visit little india metro",
+      "Date": "2011-11-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Porto Alegre, RS",
+      "Title": "\u201cVery good, cost-benefit\u201d",
+      "Author": "danielbochi",
+      "ReviewID": "UR119880245",
+      "Content": "hotel simple clean staff size bathroom ac road little bit noisy prefer stay located location mtr 3km breakfast simple hotel bread butter jam coffee banana products dont options dont spend money stay madras dont expect costbenefit believe price charge hotel fair",
+      "Date": "2011-10-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Manila, Philippines",
+      "Title": "\u201cExceeded Expectation. Clean and Safe yet affordable!\u201d",
+      "Author": "thundercloud0514",
+      "ReviewID": "UR112116251",
+      "Content": "months looking budget hotel fit 5 persons doubt hotel travelling budget booked arrived hotel 5 connecting double triple extra cost happy bout cause bathrooms love connecting location hawker station beds greats sleep breakfast included cheap rate local calls extra charge hate honestly none except allergic pets owner beautiful dog cat som",
+      "Date": "2011-06-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Chichester, United Kingdom",
+      "Title": "\u201cGood value and friendly\u201d",
+      "Author": "StephandAlan60s",
+      "ReviewID": "UR97652941",
+      "Content": "madras hotel short walk noisy little india quiet night bus stops opposite easy city underground minutes walk staff helpful free breakfast adequate free internet day welcome",
+      "Date": "2011-02-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Paris, France",
+      "Title": "\u201cConvenient\u201d",
+      "Author": "oyyo",
+      "ReviewID": "UR91119272",
+      "Content": "location center minutes walk lil india clean private bathroom reasonable price especially sg staff helpfull moreover cross street 2424 asian foodcourt amazing wanton",
+      "Date": "2010-12-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Bangalore",
+      "Title": "\u201cSmall but Clean Hotel\u201d",
+      "Author": "balagopalks",
+      "ReviewID": "UR89480111",
+      "Content": "reading reviews internet decided try hotelthe hotel home clean comfortable breakfast light sufficient staff homely feeling disturbing sound music played nearby near road little nearest mrt station",
+      "Date": "2010-12-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Manila, Philippines",
+      "Title": "\u201cHIghly Recommended for my kababayan PInoys\u201d",
+      "Author": "cherryadventurer",
+      "ReviewID": "UR88062049",
+      "Content": "family love animals loving dog nice cat trained dog cheap family friendly hotel clean carpeted tv split type aircon heated shower complimentary water free breakfast wifi lavender square 24 hours love food thereit yummy 7 eleven nearby walk lavender mrt grocery computer shops massage disco bar bus stops nearby met filipinos checked hotel filipino employee person reception accommodating terms directions tourist remember taking taxi tell bring madras hotel near lavender food square plaza 2 madras hotel",
+      "Date": "2010-11-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Scotland",
+      "Title": "\u201cA good find!\u201d",
+      "Author": "DuncanFam",
+      "ReviewID": "UR63712623",
+      "Content": "family stranded singapore volcanic ash disruption found difficult available accom eventually found hotel web site managed book arrived lunch ready provided connecting unlike singapore hotels clean ac unit quiet beds cleaned day bottles water supplied 3 nights sleep hotel noise staff helpful friendly 15 mins free internet day launderette reasonable life saver breakfast basic basic included price fine nice stay liked staying little experience contrasts chic market singapore glad",
+      "Date": "2010-05-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Madras Hotel Eminence",
+    "HotelURL": "/ShowUserReviews-g294265-d1484481-Reviews-Madras_Hotel_Eminence-Singapore.html",
+    "Price": "$107 - $127*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">407 Jalan Besar</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>",
+    "HotelID": "1484481",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f8/bc/f8bc2fdf3c8caae33ffa49e41ec45a131large.jpg"
+  }
+}

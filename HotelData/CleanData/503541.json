@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Calgary, Canada", "Title": "\u201cGood and Bad\u201d", "Author": "look4fun", "ReviewID": "UR134146259", "Content": "hostel clean quaint buckled hardwood floors wrought iron balconies overlook busy street subway getting entrance hostel street prostitutes sitting outside door half block erotic sex seedy preteen daughters fascinated hookers watched balcony lots shopping busy street outside hotel lots restaurants aspect air conditioning fans family stay", "Date": "2012-07-11 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Galway", "Title": "\u201cLovely little hostel in the centre of everything!\u201d", "Author": "GaticaNera", "ReviewID": "UR133270419", "Content": "relatively cheap stay considering located gran via access doorstep reception staff friendly helpful hallways quaint vintage postcard aircon managed buy fan friends thereafter bathroom dated suits antique sort charm stay run store fans breakfast basic ok snack getting town", "Date": "2012-07-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Arezzo, Italy", "Title": "\u201cGreat hostel in the city center\u201d", "Author": "80Fra", "ReviewID": "UR125331239", "Content": "experience hotel weekend top position gran via calm narrow street metres booked double insuite bathroom perfect clean lot space available receptionists 7th floor gorgeous balcony gran via skyline la castellana night slept double pain window noise outside suggest enjoyed stay", "Date": "2012-02-28 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 2.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Haifa, Israel", "Title": "\u201cCheap and good\u201d", "Author": "bukinski", "ReviewID": "UR118892336", "Content": "cheapest hotel neighborhood mentioned location easily reached metro airport gran via station located 50 meters hotel elevator building worry stairs clean walls painted fresh recently tv spanish channels fan safe costs 1 euro time cleaned daily towels day 2 pieces soap 5 days breakfast doesnt worth money pay wifi lobby hotel stuff nice people speak english spanish russian nice surprise major inconvenience noisy night noise coming gran via overall stay planning travel day hotel sleep", "Date": "2011-10-03 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "New York", "Title": "\u201cNot bad, not great\u201d", "Author": "RoaryCat", "ReviewID": "UR106841228", "Content": "stumbled flight madrid price decent 2 people clean comfortable building secure buzz stairwell buzz building night location gran via metro stop gran via loud night traffic kids hanging 6am water pressure shower poor safe couldnt key guy front desk idea talking serve breakfast save money coffee orange juice packaged pastries options madrid wife hated looking check experience hard value price", "Date": "2011-05-04 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Basingstoke, United Kingdom", "Title": "\u201cBasic, clean, very central, cheap\u201d", "Author": "brush-head", "ReviewID": "UR101419946", "Content": "expected central bit gran via easy clean bit worn saved \u00a3100 based accommodation friends staying couple blocks balcony overlooking granvia drawback hot water time reach wherever air con hot height summer", "Date": "2011-03-24 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "UK", "Title": "\u201cAmazing location and good value\u201d", "Author": "spudles", "ReviewID": "UR69918083", "Content": "5 day break madrid stayed family lucky hostal perfect location gran via meaning walk metro station outside means easy airport hostal surprisingly basic character cleaned day fresh towels bedding window view terrible request front road view stay staff arent particularly friendly doesnt matter didnt spend time hostal paid online unaware pay departure caused bit hassle leaving slight issue noise woken lots banging 7am morning forgetting couple excellent value money definitely stay", "Date": "2010-07-06 00:00:00"}], "HotelInfo": {"Name": "Hostal Pereda Hs", "HotelURL": "/ShowUserReviews-g187514-d503541-Reviews-Hostal_Pereda_Hs-Madrid.html", "Price": "$54 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle Valverde, 1, 2nd Floor</span>, <span class=\"locality\"><span property=\"v:postal-code\">28004</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "503541", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/09/58/63/cama.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Calgary, Canada",
+      "Title": "\u201cGood and Bad\u201d",
+      "Author": "look4fun",
+      "ReviewID": "UR134146259",
+      "Content": "hostel clean quaint buckled hardwood floors wrought iron balconies overlook busy street subway getting entrance hostel street prostitutes sitting outside door half block erotic sex seedy preteen daughters fascinated hookers watched balcony lots shopping busy street outside hotel lots restaurants aspect air conditioning fans family stay",
+      "Date": "2012-07-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Galway",
+      "Title": "\u201cLovely little hostel in the centre of everything!\u201d",
+      "Author": "GaticaNera",
+      "ReviewID": "UR133270419",
+      "Content": "relatively cheap stay considering located gran via access doorstep reception staff friendly helpful hallways quaint vintage postcard aircon managed buy fan friends thereafter bathroom dated suits antique sort charm stay run store fans breakfast basic ok snack getting town",
+      "Date": "2012-07-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Arezzo, Italy",
+      "Title": "\u201cGreat hostel in the city center\u201d",
+      "Author": "80Fra",
+      "ReviewID": "UR125331239",
+      "Content": "experience hotel weekend top position gran via calm narrow street metres booked double insuite bathroom perfect clean lot space available receptionists 7th floor gorgeous balcony gran via skyline la castellana night slept double pain window noise outside suggest enjoyed stay",
+      "Date": "2012-02-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Haifa, Israel",
+      "Title": "\u201cCheap and good\u201d",
+      "Author": "bukinski",
+      "ReviewID": "UR118892336",
+      "Content": "cheapest hotel neighborhood mentioned location easily reached metro airport gran via station located 50 meters hotel elevator building worry stairs clean walls painted fresh recently tv spanish channels fan safe costs 1 euro time cleaned daily towels day 2 pieces soap 5 days breakfast doesnt worth money pay wifi lobby hotel stuff nice people speak english spanish russian nice surprise major inconvenience noisy night noise coming gran via overall stay planning travel day hotel sleep",
+      "Date": "2011-10-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "New York",
+      "Title": "\u201cNot bad, not great\u201d",
+      "Author": "RoaryCat",
+      "ReviewID": "UR106841228",
+      "Content": "stumbled flight madrid price decent 2 people clean comfortable building secure buzz stairwell buzz building night location gran via metro stop gran via loud night traffic kids hanging 6am water pressure shower poor safe couldnt key guy front desk idea talking serve breakfast save money coffee orange juice packaged pastries options madrid wife hated looking check experience hard value price",
+      "Date": "2011-05-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Basingstoke, United Kingdom",
+      "Title": "\u201cBasic, clean, very central, cheap\u201d",
+      "Author": "brush-head",
+      "ReviewID": "UR101419946",
+      "Content": "expected central bit gran via easy clean bit worn saved \u00a3100 based accommodation friends staying couple blocks balcony overlooking granvia drawback hot water time reach wherever air con hot height summer",
+      "Date": "2011-03-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "UK",
+      "Title": "\u201cAmazing location and good value\u201d",
+      "Author": "spudles",
+      "ReviewID": "UR69918083",
+      "Content": "5 day break madrid stayed family lucky hostal perfect location gran via meaning walk metro station outside means easy airport hostal surprisingly basic character cleaned day fresh towels bedding window view terrible request front road view stay staff arent particularly friendly doesnt matter didnt spend time hostal paid online unaware pay departure caused bit hassle leaving slight issue noise woken lots banging 7am morning forgetting couple excellent value money definitely stay",
+      "Date": "2010-07-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hostal Pereda Hs",
+    "HotelURL": "/ShowUserReviews-g187514-d503541-Reviews-Hostal_Pereda_Hs-Madrid.html",
+    "Price": "$54 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle Valverde, 1, 2nd Floor</span>, <span class=\"locality\"><span property=\"v:postal-code\">28004</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "503541",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/09/58/63/cama.jpg"
+  }
+}

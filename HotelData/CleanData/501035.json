@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Ufa", "Title": "\u201cGreat experience as always!\u201d", "Author": "ufasc", "ReviewID": "UR138789790", "Content": "thankful dave prompt communication clean comfortable lodging poolhot tub grill etc keeping reasonably priced family stay golden arrow 23 stateside weve disappointed setting woods table rock lake peaceful deer mornings", "Date": "2012-08-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Bolivar, Missouri", "Title": "\u201cRelaxing week\u201d", "Author": "fabshack", "ReviewID": "UR133024973", "Content": "youre looking luxury quiet clean economical relaxing golden arrow fits bill stayed cottage chalet spacious clean covered deck quiet private yes bit dated hey cottage brought childhood memories comfortable hotel pool sparkling clean girls enjoyed slide bring dog 1000 extra overall relaxing week", "Date": "2012-06-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Warrenton, Missouri", "Title": "\u201cBest feature: cleanliness\u201d", "Author": "Pat C", "ReviewID": "UR131702453", "Content": "family owned resort welcomes guests 2 bedrooms stocked kitchen bathroom site swimming pool hot tub am impressed cleanliness resort spotless owners friendly chatty talkative utensils kitchen pots pans dishes etc pool hot tub clean pleasure play children family friendly", "Date": "2012-06-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Tulsa", "Title": "\u201cperfect room for us\u201d", "Author": "SDCvisitor", "ReviewID": "UR130167571", "Content": "family loves silver dollar city resort nearby favorable highway avoid traffic congestion sdc boys food allergies food prepared road logistics hassle kitchen bedroom food preparation easier typical microwave refridgerator fullsize refridgerator definate plus days arriving home trip recieved package david golden arrow found boys tshirts penny pool mailed customer service appreciated pool maintained slide kids love hot tub located own gazebo play kids near pool swings swing mattresses harder enjoyed stay golden arrow definately return", "Date": "2012-05-18 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "just outside of St. Louis, MO", "Title": "\u201cNice, Quiet, Clean, Good Location\u201d", "Author": "ErinC76", "ReviewID": "UR74606146", "Content": "stayed 3 nights june 2010 husband 4 couples tight squeeze ac electricity plumbing clean unit rented awesome covered porch deck spent time lake pool cabin porch poured rain night dry comfortable porch didnt city 2 miles branson 10 minute drive branson west 5 minutes grocery shopped owners nice makes trip pleasant isnt lake directly marina 12 mile road public access marina bummer didnt miss stay ps wildlife unit turkey animals", "Date": "2010-08-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Burlington, IA", "Title": "\u201cnice quiet place to stay!!\u201d", "Author": "Carrie4785", "ReviewID": "UR64321646", "Content": "recently stayed restort branson actual table rock road quiet 10 min branson deal busy traffic resort clean seperate bedrooms privacy relax kitchen saved lot money cooked 12 meals day definitely return price staff helpful", "Date": "2010-05-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "S. E.Missouri", "Title": "\u201cAbsolutely wonderful!!!\u201d", "Author": "ADAMSJT", "ReviewID": "UR59241814", "Content": "thank dave alice wonderful spring break stay wonderful clean accomodating seniors dont spend fortune rates economical location peaceful quiet", "Date": "2010-03-22 00:00:00"}], "HotelInfo": {"Name": "Golden Arrow Resort", "HotelURL": "/ShowUserReviews-g44160-d501035-Reviews-Golden_Arrow_Resort-Branson_Missouri.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2869 Indian Point Rd</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>", "HotelID": "501035", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/bd/ff/6e/golden-arrow-resort-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ufa",
+      "Title": "\u201cGreat experience as always!\u201d",
+      "Author": "ufasc",
+      "ReviewID": "UR138789790",
+      "Content": "thankful dave prompt communication clean comfortable lodging poolhot tub grill etc keeping reasonably priced family stay golden arrow 23 stateside weve disappointed setting woods table rock lake peaceful deer mornings",
+      "Date": "2012-08-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bolivar, Missouri",
+      "Title": "\u201cRelaxing week\u201d",
+      "Author": "fabshack",
+      "ReviewID": "UR133024973",
+      "Content": "youre looking luxury quiet clean economical relaxing golden arrow fits bill stayed cottage chalet spacious clean covered deck quiet private yes bit dated hey cottage brought childhood memories comfortable hotel pool sparkling clean girls enjoyed slide bring dog 1000 extra overall relaxing week",
+      "Date": "2012-06-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Warrenton, Missouri",
+      "Title": "\u201cBest feature: cleanliness\u201d",
+      "Author": "Pat C",
+      "ReviewID": "UR131702453",
+      "Content": "family owned resort welcomes guests 2 bedrooms stocked kitchen bathroom site swimming pool hot tub am impressed cleanliness resort spotless owners friendly chatty talkative utensils kitchen pots pans dishes etc pool hot tub clean pleasure play children family friendly",
+      "Date": "2012-06-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Tulsa",
+      "Title": "\u201cperfect room for us\u201d",
+      "Author": "SDCvisitor",
+      "ReviewID": "UR130167571",
+      "Content": "family loves silver dollar city resort nearby favorable highway avoid traffic congestion sdc boys food allergies food prepared road logistics hassle kitchen bedroom food preparation easier typical microwave refridgerator fullsize refridgerator definate plus days arriving home trip recieved package david golden arrow found boys tshirts penny pool mailed customer service appreciated pool maintained slide kids love hot tub located own gazebo play kids near pool swings swing mattresses harder enjoyed stay golden arrow definately return",
+      "Date": "2012-05-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "just outside of St. Louis, MO",
+      "Title": "\u201cNice, Quiet, Clean, Good Location\u201d",
+      "Author": "ErinC76",
+      "ReviewID": "UR74606146",
+      "Content": "stayed 3 nights june 2010 husband 4 couples tight squeeze ac electricity plumbing clean unit rented awesome covered porch deck spent time lake pool cabin porch poured rain night dry comfortable porch didnt city 2 miles branson 10 minute drive branson west 5 minutes grocery shopped owners nice makes trip pleasant isnt lake directly marina 12 mile road public access marina bummer didnt miss stay ps wildlife unit turkey animals",
+      "Date": "2010-08-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Burlington, IA",
+      "Title": "\u201cnice quiet place to stay!!\u201d",
+      "Author": "Carrie4785",
+      "ReviewID": "UR64321646",
+      "Content": "recently stayed restort branson actual table rock road quiet 10 min branson deal busy traffic resort clean seperate bedrooms privacy relax kitchen saved lot money cooked 12 meals day definitely return price staff helpful",
+      "Date": "2010-05-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "S. E.Missouri",
+      "Title": "\u201cAbsolutely wonderful!!!\u201d",
+      "Author": "ADAMSJT",
+      "ReviewID": "UR59241814",
+      "Content": "thank dave alice wonderful spring break stay wonderful clean accomodating seniors dont spend fortune rates economical location peaceful quiet",
+      "Date": "2010-03-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Golden Arrow Resort",
+    "HotelURL": "/ShowUserReviews-g44160-d501035-Reviews-Golden_Arrow_Resort-Branson_Missouri.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2869 Indian Point Rd</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>",
+    "HotelID": "501035",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/bd/ff/6e/golden-arrow-resort-thumbnail.jpg"
+  }
+}

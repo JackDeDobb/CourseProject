@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "London", "Title": "\u201cComplimentary hotel by Turkish Airlines\u201d", "Author": "x5marano", "ReviewID": "UR90272886", "Content": "flying friends tokyo rome stop istanbul cause flight delayed day turkish airlines offered hotel 5 hotel near sea surrounding werent hotel absolutely nice clean bathroom fantastic shower suggest travelling rest base visit istanbul city centre", "Date": "2010-12-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "izmir", "Title": "\u201csmiling faces, best hospitality!\u201d", "Author": "tiyoucha", "ReviewID": "UR85998228", "Content": "uncle wife little cousin mother sister little holiday specify foodbeverage department amazing eaten delicious food spa foam massage turkish bath relax swimming pools water refined sea water makes pools healthy chemicals te water hate pools smell pool water chemicals smell pools artemis marin princess comfortable service sister loves green plum brought green plum everyday congratulations managers staff sending guests smiling beautiful", "Date": "2010-11-04 00:00:00"}], "HotelInfo": {"Name": "Artemis Marin Princess Hotel", "HotelURL": "/ShowUserReviews-g293974-d1912072-Reviews-Artemis_Marin_Princess_Hotel-Istanbul.html", "Price": "$118 - $158*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kamiloba Mah. Istanbul Cad. No:97</span> | <span class=\"extended-address\">Kumburgaz</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34910</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "1912072", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5c/1a/5c1ada13a45e87f8108b6b879ab8b5281large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cComplimentary hotel by Turkish Airlines\u201d",
+      "Author": "x5marano",
+      "ReviewID": "UR90272886",
+      "Content": "flying friends tokyo rome stop istanbul cause flight delayed day turkish airlines offered hotel 5 hotel near sea surrounding werent hotel absolutely nice clean bathroom fantastic shower suggest travelling rest base visit istanbul city centre",
+      "Date": "2010-12-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "izmir",
+      "Title": "\u201csmiling faces, best hospitality!\u201d",
+      "Author": "tiyoucha",
+      "ReviewID": "UR85998228",
+      "Content": "uncle wife little cousin mother sister little holiday specify foodbeverage department amazing eaten delicious food spa foam massage turkish bath relax swimming pools water refined sea water makes pools healthy chemicals te water hate pools smell pool water chemicals smell pools artemis marin princess comfortable service sister loves green plum brought green plum everyday congratulations managers staff sending guests smiling beautiful",
+      "Date": "2010-11-04 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Artemis Marin Princess Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d1912072-Reviews-Artemis_Marin_Princess_Hotel-Istanbul.html",
+    "Price": "$118 - $158*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kamiloba Mah. Istanbul Cad. No:97</span> | <span class=\"extended-address\">Kumburgaz</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34910</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "1912072",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5c/1a/5c1ada13a45e87f8108b6b879ab8b5281large.jpg"
+  }
+}

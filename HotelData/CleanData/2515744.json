@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 1.0, "Rooms": 5.0, "Location": 1.0}, "AuthorLocation": "Green Valley", "Title": "\u201cDid not receive my request\u201d", "Author": "C V Posted by an Easytobook.com traveler", "ReviewID": "UR128642446", "Content": "quiet close didnt happen top door middle connects door 2 wide awakened drunks yelling cussing hadnt special request understand accommodation recommend clerk internet sleep party", "Date": "2012-04-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "San Francisco, California", "Title": "\u201cVery Nice Motel\u201d", "Author": "DocSavage_007", "ReviewID": "UR120210934", "Content": "stay la quintas seen nice wonderful pillow top beds pillows nice 32 inch flat screen tv furnished spotlessly clean facing freeway thick walls couldnt hear road check quick efficient nice spacious soft chair sit watch games tv nice desk chair breakfast typical continental breakfast la quintas real drawback visitors san diego location 20 minutes north san diego doing northern sd overall nice quiet clean comfortable staff nice helpful overall value money youll", "Date": "2011-11-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Nor Cal", "Title": "\u201cBetter than I expected\u201d", "Author": "LinasReview", "ReviewID": "UR119879241", "Content": "arrived lq hotel bit apprehensive location freeway i15 questionable folks parked parking lot night comfortable clean newly renovated perfect frig microwave continental breakfast ihop starbucks mexican restaurant hope lq improve coffee folks wont walk starbucks staff nice friendly dog friendly yes stay centrally located san diego poway rancho bernard town easy thank poway impressed time", "Date": "2011-10-29 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "San Diego, California", "Title": "\u201cWorst Hotel Stay Ever\u201d", "Author": "rollinwiththetide", "ReviewID": "UR99955387", "Content": "written online review nightmare occurred laquinta inn scripps poway location warn avoid mistake staying hotel 1 exit south hotel interstate 15 2 hotels stay laquinta started badly check told didnt reserved available set equal value type reserved originally available nights passed wife laundry hotel doesnt laundry facility site guest returning doing laundry stepped onto elevator ceiling crashing onto front desk aware sign placed elevator days heard manager care hear front desk time tell move leaky pipes letting water drip front desk relocated total 3 days elevator ceiling crashed heard manager called laquintas customer service information contact hotel 2 days called customer service received letter manager left front desk basically 1 complimentary night told rent movie comped pack delicious popcorn enjoy movie easily lawsuit laquinta comped 1 night movie popcorn happened looking hotel supposed laquinta 12 days found residence inn pet friendly 1 exit south laquinta hell pet friendly nicer amenities pet friendly pet poop grounds floor residence inn elevator ceiling fall yourself favor dont stay 1 exit south world difference recommend hotel friend recommend hotel enemy", "Date": "2011-03-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Atlanta", "Title": "\u201cGreat place to stay on the way to somewhere else.\u201d", "Author": "heavenlyjane", "ReviewID": "UR55639921", "Content": "bargain price aaa discount easy reach bed night flying san deigo late night interstate easy etc free upgrade biggest suite curiously stayed 7 hours gone day laquinta brand cleanliness fancier facilities lived laquinta reputation 3star breakfast expected stuff reheat freezer waffles makeityourself nicer happily grabbed eggs day la quintas stayed beddingpillows die", "Date": "2010-02-10 00:00:00"}], "HotelInfo": {"Name": "La Quinta Inn San Diego Scripps Poway", "HotelURL": "/ShowUserReviews-g60750-d78152-Reviews-La_Quinta_Inn_San_Diego_Scripps_Poway-San_Diego_California.html", "Price": "$67 - $167*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">10185 Paseo Montril</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92129</span></span> </span> </span> </address>", "HotelID": "2515744", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d9/51/d9510cd0feed15742ff4acbf4fe995d27large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 5.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Green Valley",
+      "Title": "\u201cDid not receive my request\u201d",
+      "Author": "C V Posted by an Easytobook.com traveler",
+      "ReviewID": "UR128642446",
+      "Content": "quiet close didnt happen top door middle connects door 2 wide awakened drunks yelling cussing hadnt special request understand accommodation recommend clerk internet sleep party",
+      "Date": "2012-04-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "San Francisco, California",
+      "Title": "\u201cVery Nice Motel\u201d",
+      "Author": "DocSavage_007",
+      "ReviewID": "UR120210934",
+      "Content": "stay la quintas seen nice wonderful pillow top beds pillows nice 32 inch flat screen tv furnished spotlessly clean facing freeway thick walls couldnt hear road check quick efficient nice spacious soft chair sit watch games tv nice desk chair breakfast typical continental breakfast la quintas real drawback visitors san diego location 20 minutes north san diego doing northern sd overall nice quiet clean comfortable staff nice helpful overall value money youll",
+      "Date": "2011-11-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Nor Cal",
+      "Title": "\u201cBetter than I expected\u201d",
+      "Author": "LinasReview",
+      "ReviewID": "UR119879241",
+      "Content": "arrived lq hotel bit apprehensive location freeway i15 questionable folks parked parking lot night comfortable clean newly renovated perfect frig microwave continental breakfast ihop starbucks mexican restaurant hope lq improve coffee folks wont walk starbucks staff nice friendly dog friendly yes stay centrally located san diego poway rancho bernard town easy thank poway impressed time",
+      "Date": "2011-10-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "San Diego, California",
+      "Title": "\u201cWorst Hotel Stay Ever\u201d",
+      "Author": "rollinwiththetide",
+      "ReviewID": "UR99955387",
+      "Content": "written online review nightmare occurred laquinta inn scripps poway location warn avoid mistake staying hotel 1 exit south hotel interstate 15 2 hotels stay laquinta started badly check told didnt reserved available set equal value type reserved originally available nights passed wife laundry hotel doesnt laundry facility site guest returning doing laundry stepped onto elevator ceiling crashing onto front desk aware sign placed elevator days heard manager care hear front desk time tell move leaky pipes letting water drip front desk relocated total 3 days elevator ceiling crashed heard manager called laquintas customer service information contact hotel 2 days called customer service received letter manager left front desk basically 1 complimentary night told rent movie comped pack delicious popcorn enjoy movie easily lawsuit laquinta comped 1 night movie popcorn happened looking hotel supposed laquinta 12 days found residence inn pet friendly 1 exit south laquinta hell pet friendly nicer amenities pet friendly pet poop grounds floor residence inn elevator ceiling fall yourself favor dont stay 1 exit south world difference recommend hotel friend recommend hotel enemy",
+      "Date": "2011-03-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Atlanta",
+      "Title": "\u201cGreat place to stay on the way to somewhere else.\u201d",
+      "Author": "heavenlyjane",
+      "ReviewID": "UR55639921",
+      "Content": "bargain price aaa discount easy reach bed night flying san deigo late night interstate easy etc free upgrade biggest suite curiously stayed 7 hours gone day laquinta brand cleanliness fancier facilities lived laquinta reputation 3star breakfast expected stuff reheat freezer waffles makeityourself nicer happily grabbed eggs day la quintas stayed beddingpillows die",
+      "Date": "2010-02-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "La Quinta Inn San Diego Scripps Poway",
+    "HotelURL": "/ShowUserReviews-g60750-d78152-Reviews-La_Quinta_Inn_San_Diego_Scripps_Poway-San_Diego_California.html",
+    "Price": "$67 - $167*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">10185 Paseo Montril</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92129</span></span> </span> </span> </address>",
+    "HotelID": "2515744",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d9/51/d9510cd0feed15742ff4acbf4fe995d27large.jpg"
+  }
+}

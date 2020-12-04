@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "manasquan", "Title": "\u201cNever again!\u201d", "Author": "ginny110411", "ReviewID": "UR139206799", "Content": "stayed hotel times recently attempting try soured immensly hotel previous owners management correct issue getting internet told probably didnt desk clerk offered saying probably im wasting time checking internet ongoing time anyhow condition definitly deteriorating quickly heavy smell bleach rugs dirty patched furniture sad condition bed linens desirable quick look topper clientele extremely questionable giving vibrations crack hotel convenience store front business ihop restaurant gone worth stopping", "Date": "2012-09-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Trinity, North Carolina", "Title": "\u201cGreat for Overnight Stay\u201d", "Author": "KeriO351", "ReviewID": "UR136805910", "Content": "family 5 spent night hotel night disney world decent cereal kids morning didnt breakfast run price location night quick stay", "Date": "2012-08-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Douglasville, Georgia", "Title": "\u201cYou Get What You Pay For\u201d", "Author": "TeamBolden", "ReviewID": "UR135782604", "Content": "dank smelling amenities basic sleeping accommodations huge walkin closet smelled horrible huge spiders corners key card system entire stay inconvenient getting pluses pool breakfast awesome staff friendly helpful", "Date": "2012-07-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Winter Springs, Florida", "Title": "\u201cVery clean & friendly place!\u201d", "Author": "LeeAnne67", "ReviewID": "UR130941731", "Content": "stayed days memorial day weekend attend grandsons allstar football tournaments 3 total owners staff polite accomodating hotel pool 3 clean definitely moneys worth stay", "Date": "2012-05-30 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Jonesboro, Georgia, United States", "Title": "\u201cIt wasn't horrible\u201d", "Author": "Mai S", "ReviewID": "UR127570991", "Content": "smoking evident im expect price traveling stay hours served purpose looked partied hard burn patched hole wall", "Date": "2012-04-10 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Jensen Beach, Florida", "Title": "\u201cBEWARE, bait and switch, do not honor their word\u201d", "Author": "gary p", "ReviewID": "UR121163971", "Content": "visited turkey rod run november 25th originally booked 2 nights expedia learned unable stay night called expedia called hotel changed reservation night manager nina patel pay 25 change fee ok expedia informed call saty refund night friday evening giving manager expedia paperwork saturday morning person lobby lady checked am presuming manager check replied left hotel returning night planned hotel manager refuses refund night saying check correctly directly fault record reservation change expedia phone effectively calling liar recommend note friends hotel charged 30 quoted phone booked", "Date": "2011-11-28 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Ocala, Florida", "Title": "\u201cNever again!\u201d", "Author": "ecallwood", "ReviewID": "UR71954557", "Content": "reserved stay days inn website include additional person website enter credit card information receive discount online payment arrived attendant apparently woke nap pay online print reservation protest allowed credit card charged 50 cents person price quoted online brought attendant called manager guess talking language finished manager 50 cents jesus christ slammed cash drawer sign 50 cents settled im told wont ready 20 minutes arrived shortly 3 pm night bugs bugs fly husband killing didnt call manager swear shower head broken day sheets changed bed breakfast lousy theres train runs 3 am blows horn seriously complained main days inn customer care line apologized profusely issue 25 gift certificate gift certificate cover cost night stay means ill spend money apology stay days inn", "Date": "2010-07-22 00:00:00"}], "HotelInfo": {"Name": "Days Inn Daytona Beach", "HotelURL": "/ShowUserReviews-g34172-d253945-Reviews-Days_Inn_Daytona_Beach-Daytona_Beach_Florida.html", "Price": "$52 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">544 South Ridgewood Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Daytona Beach</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">32114</span></span> </span></span></address>", "HotelID": "253945", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f8/19/f819ee278f90a74a7b5a0ed0c11e8a4c4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "manasquan",
+      "Title": "\u201cNever again!\u201d",
+      "Author": "ginny110411",
+      "ReviewID": "UR139206799",
+      "Content": "stayed hotel times recently attempting try soured immensly hotel previous owners management correct issue getting internet told probably didnt desk clerk offered saying probably im wasting time checking internet ongoing time anyhow condition definitly deteriorating quickly heavy smell bleach rugs dirty patched furniture sad condition bed linens desirable quick look topper clientele extremely questionable giving vibrations crack hotel convenience store front business ihop restaurant gone worth stopping",
+      "Date": "2012-09-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Trinity, North Carolina",
+      "Title": "\u201cGreat for Overnight Stay\u201d",
+      "Author": "KeriO351",
+      "ReviewID": "UR136805910",
+      "Content": "family 5 spent night hotel night disney world decent cereal kids morning didnt breakfast run price location night quick stay",
+      "Date": "2012-08-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Douglasville, Georgia",
+      "Title": "\u201cYou Get What You Pay For\u201d",
+      "Author": "TeamBolden",
+      "ReviewID": "UR135782604",
+      "Content": "dank smelling amenities basic sleeping accommodations huge walkin closet smelled horrible huge spiders corners key card system entire stay inconvenient getting pluses pool breakfast awesome staff friendly helpful",
+      "Date": "2012-07-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Winter Springs, Florida",
+      "Title": "\u201cVery clean & friendly place!\u201d",
+      "Author": "LeeAnne67",
+      "ReviewID": "UR130941731",
+      "Content": "stayed days memorial day weekend attend grandsons allstar football tournaments 3 total owners staff polite accomodating hotel pool 3 clean definitely moneys worth stay",
+      "Date": "2012-05-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Jonesboro, Georgia, United States",
+      "Title": "\u201cIt wasn't horrible\u201d",
+      "Author": "Mai S",
+      "ReviewID": "UR127570991",
+      "Content": "smoking evident im expect price traveling stay hours served purpose looked partied hard burn patched hole wall",
+      "Date": "2012-04-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Jensen Beach, Florida",
+      "Title": "\u201cBEWARE, bait and switch, do not honor their word\u201d",
+      "Author": "gary p",
+      "ReviewID": "UR121163971",
+      "Content": "visited turkey rod run november 25th originally booked 2 nights expedia learned unable stay night called expedia called hotel changed reservation night manager nina patel pay 25 change fee ok expedia informed call saty refund night friday evening giving manager expedia paperwork saturday morning person lobby lady checked am presuming manager check replied left hotel returning night planned hotel manager refuses refund night saying check correctly directly fault record reservation change expedia phone effectively calling liar recommend note friends hotel charged 30 quoted phone booked",
+      "Date": "2011-11-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ocala, Florida",
+      "Title": "\u201cNever again!\u201d",
+      "Author": "ecallwood",
+      "ReviewID": "UR71954557",
+      "Content": "reserved stay days inn website include additional person website enter credit card information receive discount online payment arrived attendant apparently woke nap pay online print reservation protest allowed credit card charged 50 cents person price quoted online brought attendant called manager guess talking language finished manager 50 cents jesus christ slammed cash drawer sign 50 cents settled im told wont ready 20 minutes arrived shortly 3 pm night bugs bugs fly husband killing didnt call manager swear shower head broken day sheets changed bed breakfast lousy theres train runs 3 am blows horn seriously complained main days inn customer care line apologized profusely issue 25 gift certificate gift certificate cover cost night stay means ill spend money apology stay days inn",
+      "Date": "2010-07-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Days Inn Daytona Beach",
+    "HotelURL": "/ShowUserReviews-g34172-d253945-Reviews-Days_Inn_Daytona_Beach-Daytona_Beach_Florida.html",
+    "Price": "$52 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">544 South Ridgewood Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Daytona Beach</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">32114</span></span> </span></span></address>",
+    "HotelID": "253945",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f8/19/f819ee278f90a74a7b5a0ed0c11e8a4c4large.jpg"
+  }
+}

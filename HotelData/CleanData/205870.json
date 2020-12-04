@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Montreal, Canada", "Title": "\u201cgreat hotel =)\u201d", "Author": "Serena H", "ReviewID": "UR128019406", "Content": "adult travelled parents april 6th 14 2012 amenities triple 5 bathroom clean outside inside king size bed single bed furniture bit matresses comfortable bought yesterday included tv desk closet valet safe programmed visitor refrigerator bathroom bathtub sink bidet toilet lots counter space necessarily attached sink bathroom soap shampoo body lotion bubble bath liquid qtips sponge clean shoes shower cap provided includes blow drier towel warmer fresh towels provided daily wifi available fee 2 euros 6 hours log process followed advantage time elevator 6 people comfortably ride 3 people luggage bar available 24 hours fee dad espresso 250 euros umbrellas available exit hotel 6 taxi airport arranged advance 55 euros call hotel arrive arrange airport hotel breakfast 7am 10am buffet style dont shy refills coffee morning croissants bread toast house choice jams butter choice coffee cappucino espresso hot chocolate yogurt cereal crackers cheese ham cake apples oranges kiwis 2 types juices milk water fizzy natural canned fruit fruit salad special omelette fee 250 euros hotel staff breakfast host carla amazing personally grew attached doll farewell emotional super sweet lady left impression hearts hotel desk willing help trouble wifi minutes ran super quickly didnt reason understood log regardless wifi free 5 hours location bit city center bus takes 5 minutes termini station lot buses major metro lines rome available walk nomentana cross street theres 62 bus goes major city center via del corso st peters basilica crowded bus worth cause fastest city center hotel quiet safe neighbourhood restaurants hotel worth 1 65 viale 21 cross street giacomo 15 mins walking distance hotel style restaurant super food freshly various selection pizza pastas salads dishes value buck paid 30 euros meal filled 7 hours mom stated eggplant parmigiana tasted life restaurants 2 du 13 viale 21 near via 10 mins walking distance hotel chinese cuisine la carte selection freshly change pastas pizzas soup spring rolls dishes shared filled cheap 25 euros eat chinese restaurant reading english menu italian country ironic cool service food 3 gelateria 97 corso cross street viale street hotel 10 minutes walking distance hotel bunch selection gelato 2025 cheap cheapest found rome 220 euros medium size cup 4 ristorante carlo 101 via della near hotel trastevere 62 bus switch tram 8 stops youll proximity restaurant 3040 minutes hotel worth fixed menu 13 euros person chose fixed menu choice appetizer bruschetta 4 choices entree 4 choice main dish 3 choices dessert cover charge included fixed menu wide selection dishes people sitting lamb pizza cover charge 150 euros person hope information helps whos rome enjoy simply beautiful", "Date": "2012-04-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Moscow, Russia", "Title": "\u201cnice place\u201d", "Author": "NordSL", "ReviewID": "UR123774080", "Content": "hotel bit center rome calm attractive district hotels specific charm actually villa looks nice villas garden breakfast nearest metro station 1015 minutes walk prefer metro ready regular walks stayed 5 nights getting center clean furniture decided charm main advantage course friendly staff", "Date": "2012-01-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Rm. Valcea", "Title": "\u201cVery nice hotel\u201d", "Author": "bvlro", "ReviewID": "UR123126077", "Content": "hotel nice classical look located comfortable breakfast stuff nice beautiful terrace real pleasure coffee morning downside hotel located city center downtown bus hotel metro 10 minutes walk", "Date": "2012-01-15 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "dayton", "Title": "\u201cGreat refuge from the bustle\u201d", "Author": "viva1986", "ReviewID": "UR120247309", "Content": "stayed heart touristville welcoming helpful feel returned friend beaten track metro piazza bologna close prefer bus main bus city", "Date": "2011-11-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Gold Coast", "Title": "\u201cPeaceful retreat with interested caring staff\u201d", "Author": "GoldCoastGayle", "ReviewID": "UR84578471", "Content": "arrived evening overseas flight nice greeted kindly efficiently stayed attic own loved clean bed comfortable staff wonderful especially liked maria breakfast sweetie breakfast generous enjoy breakfast afternoon wine beer lovely garden quiet leafy retreat day walking ancient streets rome location prefer little bit catch public transport 1 euro 75 mins pay accommodation hustle bustle thoroughly enjoyed stay definitely return hotel villa del parco", "Date": "2010-10-23 00:00:00"}], "HotelInfo": {"Name": "Hotel Villa del Parco", "HotelURL": "/ShowUserReviews-g187791-d205870-Reviews-Hotel_Villa_del_Parco-Rome_Lazio.html", "Price": "$79 - $197*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Nomentana 110</span>, <span class=\"locality\"><span property=\"v:postal-code\">00161</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "205870", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/18/33/183342efc5b1cbba3dea120f7fb8c4417large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Montreal, Canada",
+      "Title": "\u201cgreat hotel =)\u201d",
+      "Author": "Serena H",
+      "ReviewID": "UR128019406",
+      "Content": "adult travelled parents april 6th 14 2012 amenities triple 5 bathroom clean outside inside king size bed single bed furniture bit matresses comfortable bought yesterday included tv desk closet valet safe programmed visitor refrigerator bathroom bathtub sink bidet toilet lots counter space necessarily attached sink bathroom soap shampoo body lotion bubble bath liquid qtips sponge clean shoes shower cap provided includes blow drier towel warmer fresh towels provided daily wifi available fee 2 euros 6 hours log process followed advantage time elevator 6 people comfortably ride 3 people luggage bar available 24 hours fee dad espresso 250 euros umbrellas available exit hotel 6 taxi airport arranged advance 55 euros call hotel arrive arrange airport hotel breakfast 7am 10am buffet style dont shy refills coffee morning croissants bread toast house choice jams butter choice coffee cappucino espresso hot chocolate yogurt cereal crackers cheese ham cake apples oranges kiwis 2 types juices milk water fizzy natural canned fruit fruit salad special omelette fee 250 euros hotel staff breakfast host carla amazing personally grew attached doll farewell emotional super sweet lady left impression hearts hotel desk willing help trouble wifi minutes ran super quickly didnt reason understood log regardless wifi free 5 hours location bit city center bus takes 5 minutes termini station lot buses major metro lines rome available walk nomentana cross street theres 62 bus goes major city center via del corso st peters basilica crowded bus worth cause fastest city center hotel quiet safe neighbourhood restaurants hotel worth 1 65 viale 21 cross street giacomo 15 mins walking distance hotel style restaurant super food freshly various selection pizza pastas salads dishes value buck paid 30 euros meal filled 7 hours mom stated eggplant parmigiana tasted life restaurants 2 du 13 viale 21 near via 10 mins walking distance hotel chinese cuisine la carte selection freshly change pastas pizzas soup spring rolls dishes shared filled cheap 25 euros eat chinese restaurant reading english menu italian country ironic cool service food 3 gelateria 97 corso cross street viale street hotel 10 minutes walking distance hotel bunch selection gelato 2025 cheap cheapest found rome 220 euros medium size cup 4 ristorante carlo 101 via della near hotel trastevere 62 bus switch tram 8 stops youll proximity restaurant 3040 minutes hotel worth fixed menu 13 euros person chose fixed menu choice appetizer bruschetta 4 choices entree 4 choice main dish 3 choices dessert cover charge included fixed menu wide selection dishes people sitting lamb pizza cover charge 150 euros person hope information helps whos rome enjoy simply beautiful",
+      "Date": "2012-04-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Moscow, Russia",
+      "Title": "\u201cnice place\u201d",
+      "Author": "NordSL",
+      "ReviewID": "UR123774080",
+      "Content": "hotel bit center rome calm attractive district hotels specific charm actually villa looks nice villas garden breakfast nearest metro station 1015 minutes walk prefer metro ready regular walks stayed 5 nights getting center clean furniture decided charm main advantage course friendly staff",
+      "Date": "2012-01-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Rm. Valcea",
+      "Title": "\u201cVery nice hotel\u201d",
+      "Author": "bvlro",
+      "ReviewID": "UR123126077",
+      "Content": "hotel nice classical look located comfortable breakfast stuff nice beautiful terrace real pleasure coffee morning downside hotel located city center downtown bus hotel metro 10 minutes walk",
+      "Date": "2012-01-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "dayton",
+      "Title": "\u201cGreat refuge from the bustle\u201d",
+      "Author": "viva1986",
+      "ReviewID": "UR120247309",
+      "Content": "stayed heart touristville welcoming helpful feel returned friend beaten track metro piazza bologna close prefer bus main bus city",
+      "Date": "2011-11-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Gold Coast",
+      "Title": "\u201cPeaceful retreat with interested caring staff\u201d",
+      "Author": "GoldCoastGayle",
+      "ReviewID": "UR84578471",
+      "Content": "arrived evening overseas flight nice greeted kindly efficiently stayed attic own loved clean bed comfortable staff wonderful especially liked maria breakfast sweetie breakfast generous enjoy breakfast afternoon wine beer lovely garden quiet leafy retreat day walking ancient streets rome location prefer little bit catch public transport 1 euro 75 mins pay accommodation hustle bustle thoroughly enjoyed stay definitely return hotel villa del parco",
+      "Date": "2010-10-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Villa del Parco",
+    "HotelURL": "/ShowUserReviews-g187791-d205870-Reviews-Hotel_Villa_del_Parco-Rome_Lazio.html",
+    "Price": "$79 - $197*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Nomentana 110</span>, <span class=\"locality\"><span property=\"v:postal-code\">00161</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "205870",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/18/33/183342efc5b1cbba3dea120f7fb8c4417large.jpg"
+  }
+}

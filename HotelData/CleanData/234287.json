@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Milan, Italy", "Title": "\u201cWonderful\u201d", "Author": "ALESSIO P", "ReviewID": "UR124574808", "Content": "qualityprice rate spacious bathroom restaurant food tapas menu quality list short internet access free time limitations receptionist friendly nice helpful location downtime easy reach car parking subway station arturo 5 minutes walking", "Date": "2012-02-14 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "London", "Title": "\u201cit was okay!wouldn't recommend this hotel to any travellers\u201d", "Author": "chewygirl", "ReviewID": "UR83953844", "Content": "didnt interior design hotel nice travellers describe location hotel metro station isnt greatits 12 min walk hill tiring walk hotel day exploring city clean hated wall bathroom prison wall grey dull theres tiles wall cement am fussy hotel clean comfortable am happy worst hotel dont change bedsheets change sheets 2 days change refuse apparently hotel policy didnt listed website nor found didnt change sheets accidently spill lil bit bed disgusting rite incident stay hotel slightly cheaper", "Date": "2010-10-18 00:00:00"}], "HotelInfo": {"Name": "Hotel Zenit Conde de Orgaz", "HotelURL": "/ShowUserReviews-g187514-d234287-Reviews-Hotel_Zenit_Conde_de_Orgaz-Madrid.html", "Price": "$57 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Avda Moscatelar 24</span>, <span class=\"locality\"><span property=\"v:postal-code\">28043</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "234287", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/25/69/256972847aa5d5e66fbc5d956d4ef3d75large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Milan, Italy",
+      "Title": "\u201cWonderful\u201d",
+      "Author": "ALESSIO P",
+      "ReviewID": "UR124574808",
+      "Content": "qualityprice rate spacious bathroom restaurant food tapas menu quality list short internet access free time limitations receptionist friendly nice helpful location downtime easy reach car parking subway station arturo 5 minutes walking",
+      "Date": "2012-02-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cit was okay!wouldn't recommend this hotel to any travellers\u201d",
+      "Author": "chewygirl",
+      "ReviewID": "UR83953844",
+      "Content": "didnt interior design hotel nice travellers describe location hotel metro station isnt greatits 12 min walk hill tiring walk hotel day exploring city clean hated wall bathroom prison wall grey dull theres tiles wall cement am fussy hotel clean comfortable am happy worst hotel dont change bedsheets change sheets 2 days change refuse apparently hotel policy didnt listed website nor found didnt change sheets accidently spill lil bit bed disgusting rite incident stay hotel slightly cheaper",
+      "Date": "2010-10-18 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Zenit Conde de Orgaz",
+    "HotelURL": "/ShowUserReviews-g187514-d234287-Reviews-Hotel_Zenit_Conde_de_Orgaz-Madrid.html",
+    "Price": "$57 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Avda Moscatelar 24</span>, <span class=\"locality\"><span property=\"v:postal-code\">28043</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "234287",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/25/69/256972847aa5d5e66fbc5d956d4ef3d75large.jpg"
+  }
+}

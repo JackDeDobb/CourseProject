@@ -1,1 +1,30 @@
-[{"reviewId": "35137", "productName": "Kanguru MP3- 2GB", "title": "Great Product", "author": "P. Yatham \"neha rose\"", "createDate": "2006-07-26 00:00:00", "fullText": "mp3 player love operations cool manual comes item user friendly built mike recording voice quality 6 item", "rating": 5.0, "helpfulNum": 7, "totalNum": 8, "commentNum": 0, "webUrl": "http://www.amazon.com/review/product/B000F5IEAS/ref=cm_cr_dp_all_summary/103-4599249-9127836?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending", "htmlPath": "F:\\amazon_mp3\\1/445"}, {"reviewId": "35139", "productName": "Kanguru MP3- 2GB", "title": "Great Find", "author": "Mark Aanstad", "createDate": "2006-11-04 00:00:00", "fullText": "player user friendly feather light holds days worth music maxed 20 albums play day little aaa battery records 50 hours voice radio love radio feature comes functional leather carrying sounding ear buds ive heard im expert cool little player", "rating": 5.0, "helpfulNum": 5, "totalNum": 5, "commentNum": 0, "webUrl": "http://www.amazon.com/review/product/B000F5IEAS/ref=cm_cr_dp_all_summary/103-4599249-9127836?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending", "htmlPath": "F:\\amazon_mp3\\1/4453"}]
+[
+  {
+    "reviewId": "35137",
+    "productName": "Kanguru MP3- 2GB",
+    "title": "Great Product",
+    "author": "P. Yatham \"neha rose\"",
+    "createDate": "2006-07-26 00:00:00",
+    "fullText": "mp3 player love operations cool manual comes item user friendly built mike recording voice quality 6 item",
+    "rating": 5.0,
+    "helpfulNum": 7,
+    "totalNum": 8,
+    "commentNum": 0,
+    "webUrl": "http://www.amazon.com/review/product/B000F5IEAS/ref=cm_cr_dp_all_summary/103-4599249-9127836?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending",
+    "htmlPath": "F:\\amazon_mp3\\1/445"
+  },
+  {
+    "reviewId": "35139",
+    "productName": "Kanguru MP3- 2GB",
+    "title": "Great Find",
+    "author": "Mark Aanstad",
+    "createDate": "2006-11-04 00:00:00",
+    "fullText": "player user friendly feather light holds days worth music maxed 20 albums play day little aaa battery records 50 hours voice radio love radio feature comes functional leather carrying sounding ear buds ive heard im expert cool little player",
+    "rating": 5.0,
+    "helpfulNum": 5,
+    "totalNum": 5,
+    "commentNum": 0,
+    "webUrl": "http://www.amazon.com/review/product/B000F5IEAS/ref=cm_cr_dp_all_summary/103-4599249-9127836?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending",
+    "htmlPath": "F:\\amazon_mp3\\1/4453"
+  }
+]

@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Romania", "Title": "\u201ca great hotel near venice\u201d", "Author": "Cita", "ReviewID": "UR123737422", "Content": "dont start hotel accidentally ago hotel near venice cesare family host hotel 2 stars 3 stars hotel needthe breakfast greatthe beautiful cleani recomend hotel", "Date": "2012-01-28 00:00:00"}], "HotelInfo": {"Name": "Albergo alla Campana", "HotelURL": "/ShowUserReviews-g187870-d653687-Reviews-Albergo_alla_Campana-Venice_Veneto.html", "Price": "$55 - $112*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Mazzini, 78</span> | <span class=\"extended-address\">Dolo</span>, <span class=\"locality\"><span property=\"v:postal-code\">30031</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "653687", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a9/6a/a96a8380debb4ab573f5bda08a1bf56c6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Romania",
+      "Title": "\u201ca great hotel near venice\u201d",
+      "Author": "Cita",
+      "ReviewID": "UR123737422",
+      "Content": "dont start hotel accidentally ago hotel near venice cesare family host hotel 2 stars 3 stars hotel needthe breakfast greatthe beautiful cleani recomend hotel",
+      "Date": "2012-01-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Albergo alla Campana",
+    "HotelURL": "/ShowUserReviews-g187870-d653687-Reviews-Albergo_alla_Campana-Venice_Veneto.html",
+    "Price": "$55 - $112*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Mazzini, 78</span> | <span class=\"extended-address\">Dolo</span>, <span class=\"locality\"><span property=\"v:postal-code\">30031</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "653687",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a9/6a/a96a8380debb4ab573f5bda08a1bf56c6large.jpg"
+  }
+}

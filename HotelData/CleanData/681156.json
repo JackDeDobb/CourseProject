@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cPerfect Little Getaway\u201d", "Author": "Hobitant", "ReviewID": "UR81486785", "Content": "starters isnt posh fourstar establishment doesnt try girlfriend night fun headed oversees funds jacuzzi caught attention called late saturday afternoon friendly voice theyd hold checked 100night tax included 50 deposit didnt require credit card valid drivers license bit dated clean smell remnants cleaning products easily aired story short time woke day paid night weekend memories neither forget", "Date": "2010-09-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "", "Title": "\u201cthe grand motel is great\u201d", "Author": "cajun44", "ReviewID": "UR74688249", "Content": "staying grand motel 4 weeks vacation belfast northern ireland motel lives name grand friendley manager helpfull rest staff cleaning ladies efficent job friendly return visit toronto recomend grand motel friends else looking stay irish luck manager wife frank 26", "Date": "2010-08-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Quebec City, Canada", "Title": "\u201cNice place\u201d", "Author": "Anik55", "ReviewID": "UR72558936", "Content": "770 tax included week clean swimming pool fridge microwave able cook own food brought smal oven reason motel half hour drive attraction recommand motel cheap nice stay toronto", "Date": "2010-07-27 00:00:00"}], "HotelInfo": {"Name": "Grand Motel Toronto", "HotelURL": "/ShowUserReviews-g155019-d681156-Reviews-Grand_Motel_Toronto-Toronto_Ontario.html", "Price": "0", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4626 Kingston Road</span>, <span class=\"locality\"><span property=\"v:locality\">Toronto</span>, <span property=\"v:region\">Ontario</span> <span property=\"v:postal-code\">M1E 2P6</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span> </span> </address>", "HotelID": "681156", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/ce/73/62/regular-room-with-two.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cPerfect Little Getaway\u201d",
+      "Author": "Hobitant",
+      "ReviewID": "UR81486785",
+      "Content": "starters isnt posh fourstar establishment doesnt try girlfriend night fun headed oversees funds jacuzzi caught attention called late saturday afternoon friendly voice theyd hold checked 100night tax included 50 deposit didnt require credit card valid drivers license bit dated clean smell remnants cleaning products easily aired story short time woke day paid night weekend memories neither forget",
+      "Date": "2010-09-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cthe grand motel is great\u201d",
+      "Author": "cajun44",
+      "ReviewID": "UR74688249",
+      "Content": "staying grand motel 4 weeks vacation belfast northern ireland motel lives name grand friendley manager helpfull rest staff cleaning ladies efficent job friendly return visit toronto recomend grand motel friends else looking stay irish luck manager wife frank 26",
+      "Date": "2010-08-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Quebec City, Canada",
+      "Title": "\u201cNice place\u201d",
+      "Author": "Anik55",
+      "ReviewID": "UR72558936",
+      "Content": "770 tax included week clean swimming pool fridge microwave able cook own food brought smal oven reason motel half hour drive attraction recommand motel cheap nice stay toronto",
+      "Date": "2010-07-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Grand Motel Toronto",
+    "HotelURL": "/ShowUserReviews-g155019-d681156-Reviews-Grand_Motel_Toronto-Toronto_Ontario.html",
+    "Price": "0",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4626 Kingston Road</span>, <span class=\"locality\"><span property=\"v:locality\">Toronto</span>, <span property=\"v:region\">Ontario</span> <span property=\"v:postal-code\">M1E 2P6</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span> </span> </address>",
+    "HotelID": "681156",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/ce/73/62/regular-room-with-two.jpg"
+  }
+}

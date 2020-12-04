@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Torquay, Australia", "Title": "\u201cWORST EVER!! DISGUSTING!\u201d", "Author": "lifetolive", "ReviewID": "UR102276959", "Content": "cant believe packers disgusting staff indifferent drunken people lifts spilling alcohol resulting broken lift carry bags flights stairs bathroom covered water mold shower curtains springs coming thru mattresses dirty linen complete attitude care staff drunken idiots breaking security kept busy refund refused rushed lift 17 drunken idiots manager phone tried leave hour refund refuse threatened call health inspectors refund nights hours unbelievably horrible nasty stay", "Date": "2011-03-31 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "los angeles, ca", "Title": "\u201cBeware: Dirty and overall sort of gross\u201d", "Author": "dianahuynh", "ReviewID": "UR100208448", "Content": "ive stayed hostels getting mardi gra festival sydney hotel booked sydney forced stay private en suite 90 usd ugliest imagine coming nz stayed hostelhotel type called hotel hoping smelled funny dirty single piece furniture wasnt chipped ugly window guess im saying nicer hostel price sydney", "Date": "2011-03-14 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Huddersfield, United Kingdom", "Title": "\u201cSmells like feet!\u201d", "Author": "travelemma", "ReviewID": "UR78645379", "Content": "hate realise backpackers wasnt expecting luxury cockroach bathroom hair clean bed cool smelled feet yuk location staff cool cons outweighed pros plus check night 3 charging", "Date": "2010-09-07 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Heanor", "Title": "\u201cAverage\u201d", "Author": "HeanorRed", "ReviewID": "UR70386008", "Content": "stayed five nights june arrived oz location 5 minute walk shops 15 minute walk harbour massive hundreds twin moved twice stay firstly maintainance booked 3rd night party hostel irish lads sort events nights friendly met loads people hour playing drinking games dont expect quiet relaxing time lots people hostel re term residents gap travellers asylum seeker types stayed world cup tried bed england usa game started 430am sadly mistaken sleep irish residents decided play rebel music blast til 330am tv kitchen usually clean looked free breakfast toast stayed type wierd stew hostel stay party outgoing type dont stay quiet relaxing time views", "Date": "2010-07-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Miami, Florida", "Title": "\u201cAwesome way to meet people and party!\u201d", "Author": "torcht", "ReviewID": "UR59910244", "Content": "definitely pay type comes staff awesome people giving advice night event meet travels travel awesome friends", "Date": "2010-03-30 00:00:00"}], "HotelInfo": {"Name": "Nomads Maze Hotel Sydney", "HotelURL": "/ShowUserReviews-g255060-d1211394-Reviews-Nomads_Maze_Hotel_Sydney-Sydney_New_South_Wales.html", "Price": "$27 - $74*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">417 Pitt Street 2000</span>, <span class=\"locality\"><span property=\"v:locality\">Sydney</span>, <span property=\"v:region\">New South Wales</span> <span property=\"v:postal-code\">2000</span></span>, <span class=\"country-name\" property=\"v:country-name\">Australia</span> </span></span></address>", "HotelID": "1211394", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6e/a7/6ea7fdab80ea610cb9117c19fe23728d1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Torquay, Australia",
+      "Title": "\u201cWORST EVER!! DISGUSTING!\u201d",
+      "Author": "lifetolive",
+      "ReviewID": "UR102276959",
+      "Content": "cant believe packers disgusting staff indifferent drunken people lifts spilling alcohol resulting broken lift carry bags flights stairs bathroom covered water mold shower curtains springs coming thru mattresses dirty linen complete attitude care staff drunken idiots breaking security kept busy refund refused rushed lift 17 drunken idiots manager phone tried leave hour refund refuse threatened call health inspectors refund nights hours unbelievably horrible nasty stay",
+      "Date": "2011-03-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "los angeles, ca",
+      "Title": "\u201cBeware: Dirty and overall sort of gross\u201d",
+      "Author": "dianahuynh",
+      "ReviewID": "UR100208448",
+      "Content": "ive stayed hostels getting mardi gra festival sydney hotel booked sydney forced stay private en suite 90 usd ugliest imagine coming nz stayed hostelhotel type called hotel hoping smelled funny dirty single piece furniture wasnt chipped ugly window guess im saying nicer hostel price sydney",
+      "Date": "2011-03-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Huddersfield, United Kingdom",
+      "Title": "\u201cSmells like feet!\u201d",
+      "Author": "travelemma",
+      "ReviewID": "UR78645379",
+      "Content": "hate realise backpackers wasnt expecting luxury cockroach bathroom hair clean bed cool smelled feet yuk location staff cool cons outweighed pros plus check night 3 charging",
+      "Date": "2010-09-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Heanor",
+      "Title": "\u201cAverage\u201d",
+      "Author": "HeanorRed",
+      "ReviewID": "UR70386008",
+      "Content": "stayed five nights june arrived oz location 5 minute walk shops 15 minute walk harbour massive hundreds twin moved twice stay firstly maintainance booked 3rd night party hostel irish lads sort events nights friendly met loads people hour playing drinking games dont expect quiet relaxing time lots people hostel re term residents gap travellers asylum seeker types stayed world cup tried bed england usa game started 430am sadly mistaken sleep irish residents decided play rebel music blast til 330am tv kitchen usually clean looked free breakfast toast stayed type wierd stew hostel stay party outgoing type dont stay quiet relaxing time views",
+      "Date": "2010-07-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Miami, Florida",
+      "Title": "\u201cAwesome way to meet people and party!\u201d",
+      "Author": "torcht",
+      "ReviewID": "UR59910244",
+      "Content": "definitely pay type comes staff awesome people giving advice night event meet travels travel awesome friends",
+      "Date": "2010-03-30 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Nomads Maze Hotel Sydney",
+    "HotelURL": "/ShowUserReviews-g255060-d1211394-Reviews-Nomads_Maze_Hotel_Sydney-Sydney_New_South_Wales.html",
+    "Price": "$27 - $74*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">417 Pitt Street 2000</span>, <span class=\"locality\"><span property=\"v:locality\">Sydney</span>, <span property=\"v:region\">New South Wales</span> <span property=\"v:postal-code\">2000</span></span>, <span class=\"country-name\" property=\"v:country-name\">Australia</span> </span></span></address>",
+    "HotelID": "1211394",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6e/a7/6ea7fdab80ea610cb9117c19fe23728d1large.jpg"
+  }
+}

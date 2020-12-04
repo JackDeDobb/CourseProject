@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Coffs Harbour, Australia", "Title": "\u201cWorst Sydney stay ever\u201d", "Author": "hazza55", "ReviewID": "UR126310463", "Content": "stayed sydney hotels humble pubs category include establishment five star hotels worst experience sydney accommodation start didnt wardrobe refrigerator air conditioning television teacoffee facilities basic accurate description bed chair coffee table luggage stand ceiling light fan thats oh rubbish bin sat corner near door blinds windows thank goodness otherwise heat uninhabitable appeared closet dilapidated ensuite bathroom encountered ive seen london guesthouses ensuite clean fair difficult space clean size layout decided utilising soap dispenser bought own cake soap instead noisy course floor 24 hour pub corner busy cbd mind handy beer tap slot machines macdonalds road impulse time throughout night ceiling fan cooling change night meant manage sleep idea guest cope winter im told checkin upgrade mentioned pretty basic informed improved rough bedbugs stuff unhelpful manager escorted speaking staff found service pub downstairs encountered else staff guests accommodation upstairs varied sullen indifferent managers behaviour bad check hopeless involving lot time hanging bar slot machines waiting manager finish whatever else doing check hopeless leaving establishment decidedly worse manager checking leave bags flight wasnt afternoon security issue downstairs surprisingly previously staff leave bags wont cleaned replied ok plenty guests business returned briefly 11 am keycard didnt manager ready bags told wasnt hed charge night left office downstairs nope cant plenty manager meaning hospitality ive visited 50 countries stayed countless hotels written reviews hotel five star property ive written review critical close poor hospitality nonexistent value lousy ive waited weeks writing review time experience perspective am comfortable establishment", "Date": "2012-03-19 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "taree", "Title": "\u201cnew owners,fantastic location and clean\u201d", "Author": "bowen_11", "ReviewID": "UR120478692", "Content": "stay hear past reviews rang enquire told owners complete staff excellent customer servicethe bathroom simple clean comfortable beds fresh clean linen nice fluffy convenient close shops business district looked found reasonable price definitely stay owners", "Date": "2011-11-11 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Brisbane, Australia", "Title": "\u201cIt wasn't too bed\u201d", "Author": "Dudleigh", "ReviewID": "UR98639289", "Content": "reading reviews hotel wondered surprised drawn process checking bar staff running round trying key paid 5000 deposit mentioned time booking upstairs 3 locked doors upstairs signs wear lack maintence 2 twin single 8000 night basic hand basin water bathrooms hallway left bit desired cracked basins shower curtains plenty hot water supply water finished floor bedtime beds clean linen heavy curtains blocked street lights slept hot weather hot sticky paid acceptable location excellent cnr pitt park streets short walk town hall station stay centre sydney", "Date": "2011-03-02 00:00:00"}], "HotelInfo": {"Name": "Criterion Hotel", "HotelURL": "/ShowUserReviews-g255060-d645391-Reviews-Criterion_Hotel-Sydney_New_South_Wales.html", "Price": "0", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Pitt and Park Streets</span>, <span class=\"locality\"><span property=\"v:locality\">Sydney</span>, <span property=\"v:region\">New South Wales</span></span>, <span class=\"country-name\" property=\"v:country-name\">Australia</span> </span></span></address>", "HotelID": "645391", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Coffs Harbour, Australia",
+      "Title": "\u201cWorst Sydney stay ever\u201d",
+      "Author": "hazza55",
+      "ReviewID": "UR126310463",
+      "Content": "stayed sydney hotels humble pubs category include establishment five star hotels worst experience sydney accommodation start didnt wardrobe refrigerator air conditioning television teacoffee facilities basic accurate description bed chair coffee table luggage stand ceiling light fan thats oh rubbish bin sat corner near door blinds windows thank goodness otherwise heat uninhabitable appeared closet dilapidated ensuite bathroom encountered ive seen london guesthouses ensuite clean fair difficult space clean size layout decided utilising soap dispenser bought own cake soap instead noisy course floor 24 hour pub corner busy cbd mind handy beer tap slot machines macdonalds road impulse time throughout night ceiling fan cooling change night meant manage sleep idea guest cope winter im told checkin upgrade mentioned pretty basic informed improved rough bedbugs stuff unhelpful manager escorted speaking staff found service pub downstairs encountered else staff guests accommodation upstairs varied sullen indifferent managers behaviour bad check hopeless involving lot time hanging bar slot machines waiting manager finish whatever else doing check hopeless leaving establishment decidedly worse manager checking leave bags flight wasnt afternoon security issue downstairs surprisingly previously staff leave bags wont cleaned replied ok plenty guests business returned briefly 11 am keycard didnt manager ready bags told wasnt hed charge night left office downstairs nope cant plenty manager meaning hospitality ive visited 50 countries stayed countless hotels written reviews hotel five star property ive written review critical close poor hospitality nonexistent value lousy ive waited weeks writing review time experience perspective am comfortable establishment",
+      "Date": "2012-03-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "taree",
+      "Title": "\u201cnew owners,fantastic location and clean\u201d",
+      "Author": "bowen_11",
+      "ReviewID": "UR120478692",
+      "Content": "stay hear past reviews rang enquire told owners complete staff excellent customer servicethe bathroom simple clean comfortable beds fresh clean linen nice fluffy convenient close shops business district looked found reasonable price definitely stay owners",
+      "Date": "2011-11-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Brisbane, Australia",
+      "Title": "\u201cIt wasn't too bed\u201d",
+      "Author": "Dudleigh",
+      "ReviewID": "UR98639289",
+      "Content": "reading reviews hotel wondered surprised drawn process checking bar staff running round trying key paid 5000 deposit mentioned time booking upstairs 3 locked doors upstairs signs wear lack maintence 2 twin single 8000 night basic hand basin water bathrooms hallway left bit desired cracked basins shower curtains plenty hot water supply water finished floor bedtime beds clean linen heavy curtains blocked street lights slept hot weather hot sticky paid acceptable location excellent cnr pitt park streets short walk town hall station stay centre sydney",
+      "Date": "2011-03-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Criterion Hotel",
+    "HotelURL": "/ShowUserReviews-g255060-d645391-Reviews-Criterion_Hotel-Sydney_New_South_Wales.html",
+    "Price": "0",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Pitt and Park Streets</span>, <span class=\"locality\"><span property=\"v:locality\">Sydney</span>, <span property=\"v:region\">New South Wales</span></span>, <span class=\"country-name\" property=\"v:country-name\">Australia</span> </span></span></address>",
+    "HotelID": "645391",
+    "ImgURL": ""
+  }
+}

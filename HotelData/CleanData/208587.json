@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Manchester", "Title": "\u201cYou get what you pay for but is in excellent location and staff give good service.\u201d", "Author": "KrisHead", "ReviewID": "UR119364231", "Content": "hotel heart las ramblas short walk airport bus stop own shower proved poor decision sink shower drain sink drained slowly refrained using balcony view roof tops barcelona overlooking las ramblas staff helpful advised eat drink north coach station dont expect wont disappointed advice treat leave bags sleep spending time barcelona", "Date": "2011-10-16 00:00:00"}], "HotelInfo": {"Name": "Hotel Toledano and Hostal R. Capitol", "HotelURL": "/ShowUserReviews-g187497-d208587-Reviews-Hotel_Toledano_and_Hostal_R_Capitol-Barcelona_Catalonia.html", "Price": "$44 - $72*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Las Ramblas 138</span>, <span class=\"locality\"><span property=\"v:postal-code\">08002</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "208587", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7b/d1/7bd19b90717c5cb73e2cc56a7b3bea2f2large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Manchester",
+      "Title": "\u201cYou get what you pay for but is in excellent location and staff give good service.\u201d",
+      "Author": "KrisHead",
+      "ReviewID": "UR119364231",
+      "Content": "hotel heart las ramblas short walk airport bus stop own shower proved poor decision sink shower drain sink drained slowly refrained using balcony view roof tops barcelona overlooking las ramblas staff helpful advised eat drink north coach station dont expect wont disappointed advice treat leave bags sleep spending time barcelona",
+      "Date": "2011-10-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Toledano and Hostal R. Capitol",
+    "HotelURL": "/ShowUserReviews-g187497-d208587-Reviews-Hotel_Toledano_and_Hostal_R_Capitol-Barcelona_Catalonia.html",
+    "Price": "$44 - $72*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Las Ramblas 138</span>, <span class=\"locality\"><span property=\"v:postal-code\">08002</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "208587",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7b/d1/7bd19b90717c5cb73e2cc56a7b3bea2f2large.jpg"
+  }
+}

@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Plymouth, United Kingdom", "Title": "\u201cDon't be fooled by the complimentary breakfast offer!\u201d", "Author": "Lynher", "ReviewID": "UR123776211", "Content": "wife stayed cabrillo suites inn recently visit san diego drove los angeles stopping enroute la briefly proceeding loma booked hotel reading guest reviews proximity cabrillo monument hotel easy main rosecrans street fre underground parking albeit bit cramped lift access adequate clean tidy bit dated tired functioning ac bathroom maintained towels clean fresh neighbourhood plenty eating catering variety cuisines tried thai house impressed service quality delicious food inhouse complimentary breakfast nonexistent consisting weak coffee limp apology strudel owner sensing disappointment recommend bakery door served excellent breakfast visited loma 4 miles drive hotel marina walking distance stay value money overnight stay skip breakfast", "Date": "2012-01-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Bangkok, Thailand", "Title": "\u201cA Hidden Gem in San Diego\u201d", "Author": "John L", "ReviewID": "UR118761017", "Content": "spent 5 weeks hotel ideally located san diego originally checkedin 3 days level service dan owner won cancelled reservation spend entire stay cabrillo inn comfy unpretentious hotel run family understand customer service lacks amenities larger hotels service convenience street parking magnificent view san diego skyline 4th floor landing nearby starbucks eateries nearby definetely stay", "Date": "2011-09-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Holland, Pennsylvania", "Title": "\u201cGeeat for the Money\u201d", "Author": "cruisingal54", "ReviewID": "UR105188681", "Content": "stayed flew thursday tremendous aaa rate couldnt refuse ac unit weird threw heat door ran ceiling fan half hour cooled looked renovated bathroom nice owner nice printed airline tickets", "Date": "2011-04-23 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Calgary", "Title": "\u201cNot up to par\u201d", "Author": "Momma6Calgary", "ReviewID": "UR104299039", "Content": "using trip advisor recommendations stayed night ensenada mexico dingy front lobby pretty run tile loose bathroom furnishings outdated shabby lots traffic noise street breakfast existent coffee urn dried pastry plus bed comfortable stayed western lamplighter home extra 10 4 2 nicer modern super breakfast recommend cabrillo stay", "Date": "2011-04-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Clanwilliam, Manitoba", "Title": "\u201cGood Value for the Money\u201d", "Author": "BHP1", "ReviewID": "UR98615677", "Content": "visit loma ago stayed dolphin time pet friendly try cabrillo hotel odd building architectural perspective basement indoor parking office floor floor numbered third third floor numbered fourth floor inside hotel actually hollow void sky floors south hotel views onto south loma whereas north views front building onto busy rosecrans st bit view harbour smoking makes sort private deck nice sunny warm continental breakfast bit skimpy coffee strudel fortunately loma visitor friendly desire sorts cuisine easy walking distance banks laundromat store pharmacy post office liquor stores etc south fourth floor bit noisy sliding door wifes snoring drowned bit crowded extra single bed didnt fridge microwave fine tv bit compensated selection channels wifi originally booked 3 nights extra night hindsight stayed 5 nights overall found cabrillo value located clean cozy", "Date": "2011-03-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Tucson", "Title": "\u201cClean, tiny, but hard to sleep because it was loud\u201d", "Author": "starshine514", "ReviewID": "UR75806536", "Content": "basically clean exception shower curtain bathtub drain plug tiny barely beds minifridge microwave alarm clock biggest complaint inroom ac unit door nonexistent balcony generate heat cold wasnt vented vent heard street noise night trying sleep including morning garbage truck sirens nights sleep stay", "Date": "2010-08-18 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "las vegas, nv", "Title": "\u201cGreat Location and Had a Nice Experience\u201d", "Author": "gusto777", "ReviewID": "UR72866269", "Content": "wife stayed cabrillo inn loma 2 nights 4th july weekend found hotel basic frills property clean comfortable met visiting san diego hosts dan joy friendly accommodating feel home location excellent stay hotel recommend seeking basic lodging san diego", "Date": "2010-07-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Fairhaven, MA", "Title": "\u201cAlmost like your home!\u201d", "Author": "WHOI", "ReviewID": "UR64274903", "Content": "clean stay comfortable fridge microwave cable ac roomy location loma restaurants located nearby laundramat 1 block store door inner hanging friends owners dan joy wonderful deal assist", "Date": "2010-05-16 00:00:00"}], "HotelInfo": {"Name": "Cabrillo Inn & Suites Airport", "HotelURL": "/ShowUserReviews-g60750-d1109434-Reviews-Cabrillo_Inn_Suites_Airport-San_Diego_California.html", "Price": "$54 - $208*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1150 Rosecrans Street</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">CA 92106</span></span> </span> </span> </address>", "HotelID": "1109434", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/80/7a/e9/welcome-to-the-cabrillo.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Plymouth, United Kingdom",
+      "Title": "\u201cDon't be fooled by the complimentary breakfast offer!\u201d",
+      "Author": "Lynher",
+      "ReviewID": "UR123776211",
+      "Content": "wife stayed cabrillo suites inn recently visit san diego drove los angeles stopping enroute la briefly proceeding loma booked hotel reading guest reviews proximity cabrillo monument hotel easy main rosecrans street fre underground parking albeit bit cramped lift access adequate clean tidy bit dated tired functioning ac bathroom maintained towels clean fresh neighbourhood plenty eating catering variety cuisines tried thai house impressed service quality delicious food inhouse complimentary breakfast nonexistent consisting weak coffee limp apology strudel owner sensing disappointment recommend bakery door served excellent breakfast visited loma 4 miles drive hotel marina walking distance stay value money overnight stay skip breakfast",
+      "Date": "2012-01-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bangkok, Thailand",
+      "Title": "\u201cA Hidden Gem in San Diego\u201d",
+      "Author": "John L",
+      "ReviewID": "UR118761017",
+      "Content": "spent 5 weeks hotel ideally located san diego originally checkedin 3 days level service dan owner won cancelled reservation spend entire stay cabrillo inn comfy unpretentious hotel run family understand customer service lacks amenities larger hotels service convenience street parking magnificent view san diego skyline 4th floor landing nearby starbucks eateries nearby definetely stay",
+      "Date": "2011-09-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Holland, Pennsylvania",
+      "Title": "\u201cGeeat for the Money\u201d",
+      "Author": "cruisingal54",
+      "ReviewID": "UR105188681",
+      "Content": "stayed flew thursday tremendous aaa rate couldnt refuse ac unit weird threw heat door ran ceiling fan half hour cooled looked renovated bathroom nice owner nice printed airline tickets",
+      "Date": "2011-04-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Calgary",
+      "Title": "\u201cNot up to par\u201d",
+      "Author": "Momma6Calgary",
+      "ReviewID": "UR104299039",
+      "Content": "using trip advisor recommendations stayed night ensenada mexico dingy front lobby pretty run tile loose bathroom furnishings outdated shabby lots traffic noise street breakfast existent coffee urn dried pastry plus bed comfortable stayed western lamplighter home extra 10 4 2 nicer modern super breakfast recommend cabrillo stay",
+      "Date": "2011-04-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Clanwilliam, Manitoba",
+      "Title": "\u201cGood Value for the Money\u201d",
+      "Author": "BHP1",
+      "ReviewID": "UR98615677",
+      "Content": "visit loma ago stayed dolphin time pet friendly try cabrillo hotel odd building architectural perspective basement indoor parking office floor floor numbered third third floor numbered fourth floor inside hotel actually hollow void sky floors south hotel views onto south loma whereas north views front building onto busy rosecrans st bit view harbour smoking makes sort private deck nice sunny warm continental breakfast bit skimpy coffee strudel fortunately loma visitor friendly desire sorts cuisine easy walking distance banks laundromat store pharmacy post office liquor stores etc south fourth floor bit noisy sliding door wifes snoring drowned bit crowded extra single bed didnt fridge microwave fine tv bit compensated selection channels wifi originally booked 3 nights extra night hindsight stayed 5 nights overall found cabrillo value located clean cozy",
+      "Date": "2011-03-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Tucson",
+      "Title": "\u201cClean, tiny, but hard to sleep because it was loud\u201d",
+      "Author": "starshine514",
+      "ReviewID": "UR75806536",
+      "Content": "basically clean exception shower curtain bathtub drain plug tiny barely beds minifridge microwave alarm clock biggest complaint inroom ac unit door nonexistent balcony generate heat cold wasnt vented vent heard street noise night trying sleep including morning garbage truck sirens nights sleep stay",
+      "Date": "2010-08-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "las vegas, nv",
+      "Title": "\u201cGreat Location and Had a Nice Experience\u201d",
+      "Author": "gusto777",
+      "ReviewID": "UR72866269",
+      "Content": "wife stayed cabrillo inn loma 2 nights 4th july weekend found hotel basic frills property clean comfortable met visiting san diego hosts dan joy friendly accommodating feel home location excellent stay hotel recommend seeking basic lodging san diego",
+      "Date": "2010-07-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Fairhaven, MA",
+      "Title": "\u201cAlmost like your home!\u201d",
+      "Author": "WHOI",
+      "ReviewID": "UR64274903",
+      "Content": "clean stay comfortable fridge microwave cable ac roomy location loma restaurants located nearby laundramat 1 block store door inner hanging friends owners dan joy wonderful deal assist",
+      "Date": "2010-05-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Cabrillo Inn & Suites Airport",
+    "HotelURL": "/ShowUserReviews-g60750-d1109434-Reviews-Cabrillo_Inn_Suites_Airport-San_Diego_California.html",
+    "Price": "$54 - $208*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1150 Rosecrans Street</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">CA 92106</span></span> </span> </span> </address>",
+    "HotelID": "1109434",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/80/7a/e9/welcome-to-the-cabrillo.jpg"
+  }
+}

@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Prague", "Title": "\u201cI have never stayed in such a terrible hotel!\u201d", "Author": "BosorkaPetra", "ReviewID": "UR119964562", "Content": "pictures hotel ratio ok am italian hotels means hotel situated normaly hotel exceptional photos furniture am 29 bathroom nightmare time lot dust table chair bathroom door folding door maybe storage chambermaids window folding bed guest beds outthe bathroom sit toilet touching shower spray head shower hose foolish leaving directly opposit reception desk receptionist told switch lights aslo bathroom school hostel time am rome pay 20euro accommodation", "Date": "2011-10-31 00:00:00"}], "HotelInfo": {"Name": "Hotel Gabriele", "HotelURL": "/ShowUserReviews-g187791-d529973-Reviews-Hotel_Gabriele-Rome_Lazio.html", "Price": "$79 - $158*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Principe Amedeo 76</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "529973", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/80/32/8032f6fc3996a73d8ecd946803f92a3112large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Prague",
+      "Title": "\u201cI have never stayed in such a terrible hotel!\u201d",
+      "Author": "BosorkaPetra",
+      "ReviewID": "UR119964562",
+      "Content": "pictures hotel ratio ok am italian hotels means hotel situated normaly hotel exceptional photos furniture am 29 bathroom nightmare time lot dust table chair bathroom door folding door maybe storage chambermaids window folding bed guest beds outthe bathroom sit toilet touching shower spray head shower hose foolish leaving directly opposit reception desk receptionist told switch lights aslo bathroom school hostel time am rome pay 20euro accommodation",
+      "Date": "2011-10-31 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Gabriele",
+    "HotelURL": "/ShowUserReviews-g187791-d529973-Reviews-Hotel_Gabriele-Rome_Lazio.html",
+    "Price": "$79 - $158*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Principe Amedeo 76</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "529973",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/80/32/8032f6fc3996a73d8ecd946803f92a3112large.jpg"
+  }
+}

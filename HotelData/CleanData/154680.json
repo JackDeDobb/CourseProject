@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Atlanta, Georgia", "Title": "\u201cA great little hotel\u201d", "Author": "TeacherOnTheMove", "ReviewID": "UR68770657", "Content": "frills tiny bath comfortable bed window air 25 usdnight real steal youre blocks zocalo closer metro station zip zona rosa mexico city noisy accessible taxi youre blocks grocery store department stores restaurants overspend hotel travelling budgetminded travellers stay", "Date": "2010-06-26 00:00:00"}], "HotelInfo": {"Name": "Roble", "HotelURL": "/ShowUserReviews-g150800-d154680-Reviews-Roble-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$30 - $37*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Uruguay 109</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06060</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "154680", "ImgURL": "http://static.booking.com/images/hotel/250x200/552/5526299.jpg?TAAuthorName=BookingsOrgThumbnailsFree"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Atlanta, Georgia",
+      "Title": "\u201cA great little hotel\u201d",
+      "Author": "TeacherOnTheMove",
+      "ReviewID": "UR68770657",
+      "Content": "frills tiny bath comfortable bed window air 25 usdnight real steal youre blocks zocalo closer metro station zip zona rosa mexico city noisy accessible taxi youre blocks grocery store department stores restaurants overspend hotel travelling budgetminded travellers stay",
+      "Date": "2010-06-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Roble",
+    "HotelURL": "/ShowUserReviews-g150800-d154680-Reviews-Roble-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$30 - $37*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Uruguay 109</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06060</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "154680",
+    "ImgURL": "http://static.booking.com/images/hotel/250x200/552/5526299.jpg?TAAuthorName=BookingsOrgThumbnailsFree"
+  }
+}

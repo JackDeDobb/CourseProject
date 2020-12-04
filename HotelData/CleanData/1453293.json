@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "London", "Title": "\u201cThey cheated me and it was too noisy\u201d", "Author": "Posted by an Easytobook.com traveler", "ReviewID": "UR125067640", "Content": "booked single ensuite sais book easytobook arrived guy told hadnt bathroom bathroom pay 30 pounds told told wasnt hotel euro hotel pay 30 bathroom basement hear step offered wifi wasnt", "Date": "2012-02-23 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Norwich, United Kingdom", "Title": "\u201cDisgusting!!!!\u201d", "Author": "helen r", "ReviewID": "UR122914137", "Content": "hotel disgusting wish read reviews booked shouldnt allowed operate else apart breakfast arrived breakfast 8pm scrabbled fried eggs dish board dish beans plate toast cold food sat 845 stone cold teh dining costs", "Date": "2012-01-11 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cinfested with bed bugs\u201d", "Author": "laksdjfl", "ReviewID": "UR118719722", "Content": "hotel hotel cheap infested bed bugs stayed 4 bedroom beds friend covered itchy bites moved boyfriend moved covered maybe 4am cant sleep lie bed tomorrow am holiday inn decent rediculously noisy warm own bathroom", "Date": "2011-09-28 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Newcastle upon Tyne, United Kingdom", "Title": "\u201cQuite simply the worst Hotel room I've ever seen\u201d", "Author": "Chimmiecham", "ReviewID": "UR88571149", "Content": "originally booked called booked agreed move sister hotel booking scream gig olympia fantastic booked 4 guys share single beds ensuite facilities arrival keys front door plaza hotel door rex sign door plaza sends rex check 2 nights 4 sharing top split family 2 adults kids night daylight robbery below standard hotel check pay cash card machine action reception previous ownership hotels gone administration hence card machine wasnt available pay offered settle paypal opted own laptop fortunate paypal account laptop circumstances hotels computer payment key logging recording details possibilty look pictures theyre worth thousand words remember booked single beds ensuite double singles shower cubicle beside roof steam gotten thats blokes actually shower cubicle privacy shy heart toilet shower shared floor passed decor rising damp bb look hilton worn rough communal shower antiquated produced lukewarm water bedrooms access toilet theyre finished breakfast complimentary consisted fried scrambled eggs toast beans cereal coffeetea five table serves hotels block queues outside time served 15 hours ok serving own residents insufficient pages hotel isnt worth unless youre grading below reasonable standard", "Date": "2010-11-29 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Durham, United Kingdom", "Title": "\u201cDon't stay here\u201d", "Author": "SophieRidsdale", "ReviewID": "UR87301231", "Content": "stayed college trip bad experience cold radiators radiators corridor furniture mismatched ensuite communal toilet corridor tiny little cupboard shower location okay obviously rough police cars street 5 minutes main road hear time low standard sleep mattresses chairs blocking fire exit basement floor stayed service staff spoke breakfast 5am morning awoken kitchen staff breakfast offered cereal eggs 2 nights stayed sleep cold wear scarf jumper bed value money stay", "Date": "2010-11-16 00:00:00"}], "HotelInfo": {"Name": "Plaza Hotel", "HotelURL": "/ShowUserReviews-g186338-d1453293-Reviews-Plaza_Hotel-London_England.html", "Price": "$91 - $628*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">53 Shepherds Bush Road</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">W6 7LU</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>", "HotelID": "1453293", "ImgURL": "http://www.venere.com/img/hotel/5/4/2/2/42245/42245.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cThey cheated me and it was too noisy\u201d",
+      "Author": "Posted by an Easytobook.com traveler",
+      "ReviewID": "UR125067640",
+      "Content": "booked single ensuite sais book easytobook arrived guy told hadnt bathroom bathroom pay 30 pounds told told wasnt hotel euro hotel pay 30 bathroom basement hear step offered wifi wasnt",
+      "Date": "2012-02-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Norwich, United Kingdom",
+      "Title": "\u201cDisgusting!!!!\u201d",
+      "Author": "helen r",
+      "ReviewID": "UR122914137",
+      "Content": "hotel disgusting wish read reviews booked shouldnt allowed operate else apart breakfast arrived breakfast 8pm scrabbled fried eggs dish board dish beans plate toast cold food sat 845 stone cold teh dining costs",
+      "Date": "2012-01-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cinfested with bed bugs\u201d",
+      "Author": "laksdjfl",
+      "ReviewID": "UR118719722",
+      "Content": "hotel hotel cheap infested bed bugs stayed 4 bedroom beds friend covered itchy bites moved boyfriend moved covered maybe 4am cant sleep lie bed tomorrow am holiday inn decent rediculously noisy warm own bathroom",
+      "Date": "2011-09-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Newcastle upon Tyne, United Kingdom",
+      "Title": "\u201cQuite simply the worst Hotel room I've ever seen\u201d",
+      "Author": "Chimmiecham",
+      "ReviewID": "UR88571149",
+      "Content": "originally booked called booked agreed move sister hotel booking scream gig olympia fantastic booked 4 guys share single beds ensuite facilities arrival keys front door plaza hotel door rex sign door plaza sends rex check 2 nights 4 sharing top split family 2 adults kids night daylight robbery below standard hotel check pay cash card machine action reception previous ownership hotels gone administration hence card machine wasnt available pay offered settle paypal opted own laptop fortunate paypal account laptop circumstances hotels computer payment key logging recording details possibilty look pictures theyre worth thousand words remember booked single beds ensuite double singles shower cubicle beside roof steam gotten thats blokes actually shower cubicle privacy shy heart toilet shower shared floor passed decor rising damp bb look hilton worn rough communal shower antiquated produced lukewarm water bedrooms access toilet theyre finished breakfast complimentary consisted fried scrambled eggs toast beans cereal coffeetea five table serves hotels block queues outside time served 15 hours ok serving own residents insufficient pages hotel isnt worth unless youre grading below reasonable standard",
+      "Date": "2010-11-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Durham, United Kingdom",
+      "Title": "\u201cDon't stay here\u201d",
+      "Author": "SophieRidsdale",
+      "ReviewID": "UR87301231",
+      "Content": "stayed college trip bad experience cold radiators radiators corridor furniture mismatched ensuite communal toilet corridor tiny little cupboard shower location okay obviously rough police cars street 5 minutes main road hear time low standard sleep mattresses chairs blocking fire exit basement floor stayed service staff spoke breakfast 5am morning awoken kitchen staff breakfast offered cereal eggs 2 nights stayed sleep cold wear scarf jumper bed value money stay",
+      "Date": "2010-11-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Plaza Hotel",
+    "HotelURL": "/ShowUserReviews-g186338-d1453293-Reviews-Plaza_Hotel-London_England.html",
+    "Price": "$91 - $628*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">53 Shepherds Bush Road</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">W6 7LU</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>",
+    "HotelID": "1453293",
+    "ImgURL": "http://www.venere.com/img/hotel/5/4/2/2/42245/42245.jpg"
+  }
+}

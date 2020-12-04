@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Tokyo, Japan", "Title": "\u201cBasic, clean and welcoming\u201d", "Author": "Hatsumura", "ReviewID": "UR127842194", "Content": "welllocated 1star hotel close dam square owner helpful friendly 14 basic clean balcony minibar tv free wifi beside reception desk bit noisy regarding stairs amsterdam hotels unfortunately happened carrying suitcases 20 kg climbing 37 steps exercise recommended mature obese people heavy luggage folks wont", "Date": "2012-04-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Pula, Croatia", "Title": "\u201cClean, Safe & Welcoming\u201d", "Author": "MsShitHappens", "ReviewID": "UR127574335", "Content": "okay stair rough thats deal amsterdam stairs awful hotel owner nice professional helpful stay nice memory thanks star hotel expect arent amenities begin budget hotel clean safe warm warm window time free wifi delightful owner bigger sleep quality beds comfortable theyre hospital army bed im im sorry share bathroom toilet time stay ill bathroom toilet hotel location located heart amsterdam dam square bigger tourist sites walking distance pleasent experience stay highly recommend", "Date": "2012-04-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Slippery Rock, Pennsylvania", "Title": "\u201cIf you're a backpacker or trekking Europe, this is for you, but...\u201d", "Author": "Gloria W", "ReviewID": "UR126408518", "Content": "bottom line 1 hotel owner nice helpful goes 2 clean 3 youre traveling budget backpacking europe hotel youre comfort quiet hotel amenities 4 hear street noise time sits main road 5 lot fancy amenities hotel designed backpacker people trekking europe roof head nice owner reasonable price fancier hotel look elsewhere", "Date": "2012-03-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Dallas, Texas", "Title": "\u201cAnother lovely stay at Hotel Pax.\u201d", "Author": "Balou1999", "ReviewID": "UR125757608", "Content": "stayed hotel pax past november stay arrived hotel 930 ready previous trip 2010 15 exception free wifi recommend hotel pax looking clean safe basic accommodation am happy report reno canal house courtyard", "Date": "2012-03-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Munich, Germany", "Title": "\u201cPretty little hotel in the city center\u201d", "Author": "MiriMuc", "ReviewID": "UR93777141", "Content": "hotel pax decent stay days amsterdam hotel clean enjoyed stay everyday fresh towels suprised owner friendly answered questions decided stay night handled hotel city center reach sights restaurants bars minutes anne frank huis stones throw tram station close hotel recommend rent arround corner recommend hotel pax time", "Date": "2011-01-19 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Arlington, Texas", "Title": "\u201cNice and cozy\u201d", "Author": "amelyen", "ReviewID": "UR83404614", "Content": "hotel hidden distant train station hotel staff nice charming beds wasnt main purpose amsterdam explore community bathroom shower proved price little hotel", "Date": "2010-10-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Dallas, Texas", "Title": "\u201cWhat more can you want from a 1*\u201d", "Author": "Balou1999", "ReviewID": "UR72018398", "Content": "inexpensive 1 hotel dam square westerkerk check quick simple owner helped carry duffel bag stayed 15 2nd floor 3rd overlooking courtyard basic single refrigerator tv kettle shared toilet shower steps clean received fresh towels daily little restaurant below hotel towards dam square albert heijn block convenient temperature day cant fault hotel heat wave fan nice touch check breeze thats easy 545 morning looking clean sleep hotel pax overlooked", "Date": "2010-07-23 00:00:00"}], "HotelInfo": {"Name": "Hotel Pax", "HotelURL": "/ShowUserReviews-g188590-d608342-Reviews-Hotel_Pax-Amsterdam_Noord_Holland.html", "Price": "$59 - $164*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Raadhuisstraat 37</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">2042</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>", "HotelID": "608342", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/14/2e/142efe34ddc3fc5f219032bb522b45144large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Tokyo, Japan",
+      "Title": "\u201cBasic, clean and welcoming\u201d",
+      "Author": "Hatsumura",
+      "ReviewID": "UR127842194",
+      "Content": "welllocated 1star hotel close dam square owner helpful friendly 14 basic clean balcony minibar tv free wifi beside reception desk bit noisy regarding stairs amsterdam hotels unfortunately happened carrying suitcases 20 kg climbing 37 steps exercise recommended mature obese people heavy luggage folks wont",
+      "Date": "2012-04-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Pula, Croatia",
+      "Title": "\u201cClean, Safe & Welcoming\u201d",
+      "Author": "MsShitHappens",
+      "ReviewID": "UR127574335",
+      "Content": "okay stair rough thats deal amsterdam stairs awful hotel owner nice professional helpful stay nice memory thanks star hotel expect arent amenities begin budget hotel clean safe warm warm window time free wifi delightful owner bigger sleep quality beds comfortable theyre hospital army bed im im sorry share bathroom toilet time stay ill bathroom toilet hotel location located heart amsterdam dam square bigger tourist sites walking distance pleasent experience stay highly recommend",
+      "Date": "2012-04-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Slippery Rock, Pennsylvania",
+      "Title": "\u201cIf you're a backpacker or trekking Europe, this is for you, but...\u201d",
+      "Author": "Gloria W",
+      "ReviewID": "UR126408518",
+      "Content": "bottom line 1 hotel owner nice helpful goes 2 clean 3 youre traveling budget backpacking europe hotel youre comfort quiet hotel amenities 4 hear street noise time sits main road 5 lot fancy amenities hotel designed backpacker people trekking europe roof head nice owner reasonable price fancier hotel look elsewhere",
+      "Date": "2012-03-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dallas, Texas",
+      "Title": "\u201cAnother lovely stay at Hotel Pax.\u201d",
+      "Author": "Balou1999",
+      "ReviewID": "UR125757608",
+      "Content": "stayed hotel pax past november stay arrived hotel 930 ready previous trip 2010 15 exception free wifi recommend hotel pax looking clean safe basic accommodation am happy report reno canal house courtyard",
+      "Date": "2012-03-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Munich, Germany",
+      "Title": "\u201cPretty little hotel in the city center\u201d",
+      "Author": "MiriMuc",
+      "ReviewID": "UR93777141",
+      "Content": "hotel pax decent stay days amsterdam hotel clean enjoyed stay everyday fresh towels suprised owner friendly answered questions decided stay night handled hotel city center reach sights restaurants bars minutes anne frank huis stones throw tram station close hotel recommend rent arround corner recommend hotel pax time",
+      "Date": "2011-01-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Arlington, Texas",
+      "Title": "\u201cNice and cozy\u201d",
+      "Author": "amelyen",
+      "ReviewID": "UR83404614",
+      "Content": "hotel hidden distant train station hotel staff nice charming beds wasnt main purpose amsterdam explore community bathroom shower proved price little hotel",
+      "Date": "2010-10-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dallas, Texas",
+      "Title": "\u201cWhat more can you want from a 1*\u201d",
+      "Author": "Balou1999",
+      "ReviewID": "UR72018398",
+      "Content": "inexpensive 1 hotel dam square westerkerk check quick simple owner helped carry duffel bag stayed 15 2nd floor 3rd overlooking courtyard basic single refrigerator tv kettle shared toilet shower steps clean received fresh towels daily little restaurant below hotel towards dam square albert heijn block convenient temperature day cant fault hotel heat wave fan nice touch check breeze thats easy 545 morning looking clean sleep hotel pax overlooked",
+      "Date": "2010-07-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Pax",
+    "HotelURL": "/ShowUserReviews-g188590-d608342-Reviews-Hotel_Pax-Amsterdam_Noord_Holland.html",
+    "Price": "$59 - $164*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Raadhuisstraat 37</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">2042</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>",
+    "HotelID": "608342",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/14/2e/142efe34ddc3fc5f219032bb522b45144large.jpg"
+  }
+}

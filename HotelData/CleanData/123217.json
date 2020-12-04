@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Demotte, Indiana", "Title": "\u201cLegendary.\u201d", "Author": "Shawty2short", "ReviewID": "UR98611355", "Content": "arrived house awe superb location charming characteristics walked extrememly pleasant woman front desk sounded ma mas didnt mind found pleasurable escorted lovely little found tantalizing exquisite fancy top humble cozy saturday night guess word describe house plain simple recommend", "Date": "2011-03-01 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Saint Louis, Missouri", "Title": "\u201cWorst place i have ever stayed\u201d", "Author": "STL314", "ReviewID": "UR73034474", "Content": "worst stayed life friends cardinals vs cubs game reservation decided late rathered sleep car called parking yes comes supposed park luck luckily found garage blocks addison thanks couple disgusting walk smells stale cigarettes mildew consisted 2 sized beds dresser tv press bunch buttons toilet leaky showertub step foot paid shoes water barely dont shoes rained pockets water wales pop running walls window ac unit held duck luckily lucky beds disgusting management worst tried change price happen checked screamed 3 friends join couldnt 6 kids positives horrible location 23 blocks 510 minute walk wrigley field wrigleyville discovered rooftop wide walk stair amazing view stadium night amazing evidence homeless people didnt bother happy outside smelly recommend unless life death", "Date": "2010-07-30 00:00:00"}], "HotelInfo": {"Name": "Sheffield House", "HotelURL": "/ShowUserReviews-g35805-d123217-Reviews-Sheffield_House-Chicago_Illinois.html", "Price": "$55 - $70*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3834 N. Sheffield Ave</span>, <span class=\"locality\"><span property=\"v:locality\">Chicago</span>, <span property=\"v:region\">IL</span> <span property=\"v:postal-code\">60613</span></span> </span> </span> </address>", "HotelID": "123217", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/45/64/sheffield-house-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Demotte, Indiana",
+      "Title": "\u201cLegendary.\u201d",
+      "Author": "Shawty2short",
+      "ReviewID": "UR98611355",
+      "Content": "arrived house awe superb location charming characteristics walked extrememly pleasant woman front desk sounded ma mas didnt mind found pleasurable escorted lovely little found tantalizing exquisite fancy top humble cozy saturday night guess word describe house plain simple recommend",
+      "Date": "2011-03-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Saint Louis, Missouri",
+      "Title": "\u201cWorst place i have ever stayed\u201d",
+      "Author": "STL314",
+      "ReviewID": "UR73034474",
+      "Content": "worst stayed life friends cardinals vs cubs game reservation decided late rathered sleep car called parking yes comes supposed park luck luckily found garage blocks addison thanks couple disgusting walk smells stale cigarettes mildew consisted 2 sized beds dresser tv press bunch buttons toilet leaky showertub step foot paid shoes water barely dont shoes rained pockets water wales pop running walls window ac unit held duck luckily lucky beds disgusting management worst tried change price happen checked screamed 3 friends join couldnt 6 kids positives horrible location 23 blocks 510 minute walk wrigley field wrigleyville discovered rooftop wide walk stair amazing view stadium night amazing evidence homeless people didnt bother happy outside smelly recommend unless life death",
+      "Date": "2010-07-30 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Sheffield House",
+    "HotelURL": "/ShowUserReviews-g35805-d123217-Reviews-Sheffield_House-Chicago_Illinois.html",
+    "Price": "$55 - $70*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3834 N. Sheffield Ave</span>, <span class=\"locality\"><span property=\"v:locality\">Chicago</span>, <span property=\"v:region\">IL</span> <span property=\"v:postal-code\">60613</span></span> </span> </span> </address>",
+    "HotelID": "123217",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/45/64/sheffield-house-thumbnail.jpg"
+  }
+}

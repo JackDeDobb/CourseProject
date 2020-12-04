@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Saskatchewan", "Title": "\u201cAn unexpected delight\u201d", "Author": "Florence57", "ReviewID": "UR122196188", "Content": "stayed palazzo della porta di accident budget hotel booked ran arranged transfer surprise found ourselves installed spacious suite kitchen rooftop balcony view overlooking city outside heavy double doors hotel lay narrow cobbled street wine seller produce stand butcher shop grocery store amenities believe transformed residents venice lanes led various directions sightseeing attractions venice owner gracious hospitable morning water taxi grazie", "Date": "2011-12-28 00:00:00"}], "HotelInfo": {"Name": "Palazzo Contarini della Porta di Ferro", "HotelURL": "/ShowUserReviews-g187870-d484679-Reviews-Palazzo_Contarini_della_Porta_di_Ferro-Venice_Veneto.html", "Price": "$185 - $508*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Castello 2926</span>, <span class=\"locality\"><span property=\"v:postal-code\">30122</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "484679", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c6/08/c608832afef39b87bd6c4294f8f1fa0230large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Saskatchewan",
+      "Title": "\u201cAn unexpected delight\u201d",
+      "Author": "Florence57",
+      "ReviewID": "UR122196188",
+      "Content": "stayed palazzo della porta di accident budget hotel booked ran arranged transfer surprise found ourselves installed spacious suite kitchen rooftop balcony view overlooking city outside heavy double doors hotel lay narrow cobbled street wine seller produce stand butcher shop grocery store amenities believe transformed residents venice lanes led various directions sightseeing attractions venice owner gracious hospitable morning water taxi grazie",
+      "Date": "2011-12-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Palazzo Contarini della Porta di Ferro",
+    "HotelURL": "/ShowUserReviews-g187870-d484679-Reviews-Palazzo_Contarini_della_Porta_di_Ferro-Venice_Veneto.html",
+    "Price": "$185 - $508*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Castello 2926</span>, <span class=\"locality\"><span property=\"v:postal-code\">30122</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "484679",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c6/08/c608832afef39b87bd6c4294f8f1fa0230large.jpg"
+  }
+}

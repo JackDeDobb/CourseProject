@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Los Angeles, California", "Title": "\u201cClose to train station, free parking\u201d", "Author": "laxslc", "ReviewID": "UR122494021", "Content": "passing car hotel parking easy free location close town train station walk town 1520 minutes hotel bikes bikes checked arrived reserve advance wasnt fancy hotel clean acceptable 2 3 star type hotel", "Date": "2012-01-03 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Paramount, California", "Title": "\u201cClose to Train Station, Waterbus stop and Restaurants\u201d", "Author": "fancy2011", "ReviewID": "UR119843604", "Content": "stay fist weekend october 2011 hotel convenient move venice waterbus stop close train station shops restaurants outside alley location bit difficult main lista di spagna street entrance alley note bathroom walls restroom duty mildew rust paint chipping beds hard breakfast coffee bread oh jelly note leave key front desk time leave hotel front desk people dont speak english lucky spoke spanish hotel basic tv radio elevator pay expense found venice 8 people", "Date": "2011-10-28 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Cayman Islands", "Title": "\u201cLocation, nothing more\u201d", "Author": "GrandCayman", "ReviewID": "UR118391362", "Content": "friend stayed hotel rossi venice 3 nights september 2011 worst hotel 2week stay italy liked hotel location steps venice train station grand canal arrival immediately uneasy hotels appearance dirty carpet cramped dusty smoky traveling day desire elsewhere checkin bag mine unfortunately guy counter rude told hotel didnt elevator 3rd floor eventually helped help time completely drenched sweat didnt figure own dirty cramped cots beds private bathroom teeny toilet giving sewage smell breakfast biggest joke hard rolls jam coffee tea stay", "Date": "2011-09-20 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cDisappointed\u201d", "Author": "gaugin-100", "ReviewID": "UR87300971", "Content": "single hotel hotel seen dusty obviously properly cleaned time curtain piece cloth pushed wall staff friendly breakfast awful recommended", "Date": "2010-11-16 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cConvenient location, good basic room, good value for Venice\u201d", "Author": "CMG_CMG", "ReviewID": "UR84669311", "Content": "time husband stayed found value expensive city conveniently located near train station dont drag bags city stairs times stayed floor comfortable clean bathrooms tiny clean usable hotel alley fairly quiet breakfast basic coffee rolls fresh fine youre looking comfortably sleep shower hotel", "Date": "2010-10-24 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "England", "Title": "\u201cIdeal no frills base for sightseeing\u201d", "Author": "Jean-Stephane", "ReviewID": "UR82227891", "Content": "qiuet location busy thoroughfare near grand canal handy bus train stations surprisingly peaceful tucked feel reached charming ancient archway 101 basic double en suite clean retro fit aircon ceiling fan didnt towels changed daily breakfast simple continental bread service perfunctory desk service friendly particularly engaging overall value money absolutely ideal simple base", "Date": "2010-10-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "California", "Title": "\u201cA hidden gem.\u201d", "Author": "bkhess", "ReviewID": "UR66109095", "Content": "booked 2 hotel rossi parents floor 3rd nice bathroom fine size bathroom cruise ship bathroom mind husband care tiny shower clean maintained building enjoyed watching apartments ally watch locals day life hanging laundry cooking sounds nosey ally hotel easy miss pay attention time look quiet night hotel close bus train station picked carry luggage convenient location staff nice don\u00e2\u20ac\u2122t spoke english cheapest found buy bottled water piece front desk waiting afternoon amenities yes basic value price mom morning borrow blow drier breakfast getting enjoyed breakfast drinks hot cocoa coffee water 2 guys mixed coffee cocoa mocha type drink enjoyed table huge basket crusty rolls butter jams simple rolls straight paper bag yum tide lunch love stay recommend", "Date": "2010-06-01 00:00:00"}], "HotelInfo": {"Name": "Hotel Rossi", "HotelURL": "/ShowUserReviews-g187870-d235826-Reviews-Hotel_Rossi-Venice_Veneto.html", "Price": "$106 - $152*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Lista di Spagna, 262</span> | <span class=\"extended-address\">Cannaregio</span>, <span class=\"locality\"><span property=\"v:postal-code\">30121</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "235826", "ImgURL": "http://www.venere.com/img/hotel/3/3/7/4/144733/144733.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Los Angeles, California",
+      "Title": "\u201cClose to train station, free parking\u201d",
+      "Author": "laxslc",
+      "ReviewID": "UR122494021",
+      "Content": "passing car hotel parking easy free location close town train station walk town 1520 minutes hotel bikes bikes checked arrived reserve advance wasnt fancy hotel clean acceptable 2 3 star type hotel",
+      "Date": "2012-01-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Paramount, California",
+      "Title": "\u201cClose to Train Station, Waterbus stop and Restaurants\u201d",
+      "Author": "fancy2011",
+      "ReviewID": "UR119843604",
+      "Content": "stay fist weekend october 2011 hotel convenient move venice waterbus stop close train station shops restaurants outside alley location bit difficult main lista di spagna street entrance alley note bathroom walls restroom duty mildew rust paint chipping beds hard breakfast coffee bread oh jelly note leave key front desk time leave hotel front desk people dont speak english lucky spoke spanish hotel basic tv radio elevator pay expense found venice 8 people",
+      "Date": "2011-10-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Cayman Islands",
+      "Title": "\u201cLocation, nothing more\u201d",
+      "Author": "GrandCayman",
+      "ReviewID": "UR118391362",
+      "Content": "friend stayed hotel rossi venice 3 nights september 2011 worst hotel 2week stay italy liked hotel location steps venice train station grand canal arrival immediately uneasy hotels appearance dirty carpet cramped dusty smoky traveling day desire elsewhere checkin bag mine unfortunately guy counter rude told hotel didnt elevator 3rd floor eventually helped help time completely drenched sweat didnt figure own dirty cramped cots beds private bathroom teeny toilet giving sewage smell breakfast biggest joke hard rolls jam coffee tea stay",
+      "Date": "2011-09-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cDisappointed\u201d",
+      "Author": "gaugin-100",
+      "ReviewID": "UR87300971",
+      "Content": "single hotel hotel seen dusty obviously properly cleaned time curtain piece cloth pushed wall staff friendly breakfast awful recommended",
+      "Date": "2010-11-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cConvenient location, good basic room, good value for Venice\u201d",
+      "Author": "CMG_CMG",
+      "ReviewID": "UR84669311",
+      "Content": "time husband stayed found value expensive city conveniently located near train station dont drag bags city stairs times stayed floor comfortable clean bathrooms tiny clean usable hotel alley fairly quiet breakfast basic coffee rolls fresh fine youre looking comfortably sleep shower hotel",
+      "Date": "2010-10-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "England",
+      "Title": "\u201cIdeal no frills base for sightseeing\u201d",
+      "Author": "Jean-Stephane",
+      "ReviewID": "UR82227891",
+      "Content": "qiuet location busy thoroughfare near grand canal handy bus train stations surprisingly peaceful tucked feel reached charming ancient archway 101 basic double en suite clean retro fit aircon ceiling fan didnt towels changed daily breakfast simple continental bread service perfunctory desk service friendly particularly engaging overall value money absolutely ideal simple base",
+      "Date": "2010-10-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "California",
+      "Title": "\u201cA hidden gem.\u201d",
+      "Author": "bkhess",
+      "ReviewID": "UR66109095",
+      "Content": "booked 2 hotel rossi parents floor 3rd nice bathroom fine size bathroom cruise ship bathroom mind husband care tiny shower clean maintained building enjoyed watching apartments ally watch locals day life hanging laundry cooking sounds nosey ally hotel easy miss pay attention time look quiet night hotel close bus train station picked carry luggage convenient location staff nice don\u00e2\u20ac\u2122t spoke english cheapest found buy bottled water piece front desk waiting afternoon amenities yes basic value price mom morning borrow blow drier breakfast getting enjoyed breakfast drinks hot cocoa coffee water 2 guys mixed coffee cocoa mocha type drink enjoyed table huge basket crusty rolls butter jams simple rolls straight paper bag yum tide lunch love stay recommend",
+      "Date": "2010-06-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Rossi",
+    "HotelURL": "/ShowUserReviews-g187870-d235826-Reviews-Hotel_Rossi-Venice_Veneto.html",
+    "Price": "$106 - $152*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Lista di Spagna, 262</span> | <span class=\"extended-address\">Cannaregio</span>, <span class=\"locality\"><span property=\"v:postal-code\">30121</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "235826",
+    "ImgURL": "http://www.venere.com/img/hotel/3/3/7/4/144733/144733.jpg"
+  }
+}

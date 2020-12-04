@@ -1,1 +1,165 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Mumbai", "Title": "\u201cVery average hotel\u201d", "Author": "mrijay", "ReviewID": "UR126769652", "Content": "reason hotel doing business people close maria de molina pinar hotel staff hardly speak english rude food below average price pay hotel meals restaurants downtown stay", "Date": "2012-03-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Germany", "Title": "\u201cconveniently located - nice - friendly & helpful staff\u201d", "Author": "InternetUser42", "ReviewID": "UR125765916", "Content": "stayed nights short city trip nice stay hotel located historical city center subway stations lines near 35min walk subway reach central puerta del sol 10 minutes surrounding streets multiple restaurants bars supermarket meters conveniently located tourists visiting madrid surprisingly spacious location bathroom windows ie daylight clean comfortable complaints staff friendly helpful committment towards surely class unfortunately robbed city hotel helped calling speaking police agreeing delayed payment money credit cards left service days stayed dealt staff speak english communicating dont speak spanish highly recommend hotel tourists visiting city madrid", "Date": "2012-03-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cpleasantly surprised.....\u201d", "Author": "eliott69", "ReviewID": "UR122477067", "Content": "allocated hotel thru secret hotel deal finding name reading reviews expecting worse gladly wasnt staff arrival helpful spoke english pigeon spanish fine choice colour decoration im holiday spend time roombathroom fine excellent shower location close 2 metro stations walking distance basically value price reviewers overlooked writing", "Date": "2012-01-03 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Albania", "Title": "\u201cnice stay in the Madrid center\u201d", "Author": "silencd", "ReviewID": "UR119738302", "Content": "starred 4 3 located business district hotel access metro short distance brand worn details clean breakfast", "Date": "2011-10-26 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Olesa de Montserrat, Spain", "Title": "\u201cDisappointing\u201d", "Author": "silviahg", "ReviewID": "UR105286799", "Content": "usually nh hotels formerly hesperia managed nh choice location ok close underground station gregorio line 10 ruben dario line 5 buses close serrano street hotel 4 stars classic dont finish 135 cm bed pretty days breakfast bad anti ox breakfast advertised hotel poor variety queues morning staff stressed boiled egg wait forever price return hotel", "Date": "2011-04-24 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cit is a bit of a tired hotel\u201d", "Author": "JasonWD", "ReviewID": "UR94214508", "Content": "booked hotel lastminutecom secret hotel honest seen basically bit tired hotel clean rough edges staff jaded bad timber flooring makes cold feeling extremely irritating upstairs starts dragging furniture 730 sunday heating sounded car shut night froze television available spanish cnn bbc available impossible change spanish dubbed american programs vo normal digital tvs location visiting city unless metro taxi centre free wifi connection shared hotel tested useable service 5am otherwise below dialup speed conclusion wont returning", "Date": "2011-01-24 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Lugano, Switzerland", "Title": "\u201cGood hotel\u201d", "Author": "heiranig", "ReviewID": "UR87802857", "Content": "bit outdated decor hotel located financial district madrid walking distance museums shops restaurants enjoyed plentiful fresh breakfast morning clean comfortable shower broken water leaking shower head bit inconvenient water coming splashing floor bathroom size equipped amenities", "Date": "2010-11-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Haarlem, The Netherlands", "Title": "\u201cGood hotel nice location\u201d", "Author": "marcel dam", "ReviewID": "UR67060005", "Content": "2010 nice hotel spacious clean staff friendly helpfull offer breakfast nice bar located business tourist stuff reach public transport taxis foot didnt speak value money", "Date": "2010-06-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Salt lake city", "Title": "\u201cNice hotel.\u201d", "Author": "g8-1tourguest", "ReviewID": "UR64890072", "Content": "stayed hotel 2 nights close main sights madrid metro station maranon close goes direct plaza de espanya lot sights shopping taxi royal palace maybe 13 minutes cost 8euros nice cleaner front entrance due narrow street cars honking horns night bottom floor sewer smell request staff computers charge short time staff nice helpful breakfast selection", "Date": "2010-05-21 00:00:00"}], "HotelInfo": {"Name": "Hotel Emperatriz", "HotelURL": "/ShowUserReviews-g187514-d228543-Reviews-Hotel_Emperatriz-Madrid.html", "Price": "$83 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle Lopez de Hoyos 4</span>, <span class=\"locality\"><span property=\"v:postal-code\">28006</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "228543", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b5/c7/b5c7bf1391d5e089bad1b7ff9a94b7c16large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Mumbai",
+      "Title": "\u201cVery average hotel\u201d",
+      "Author": "mrijay",
+      "ReviewID": "UR126769652",
+      "Content": "reason hotel doing business people close maria de molina pinar hotel staff hardly speak english rude food below average price pay hotel meals restaurants downtown stay",
+      "Date": "2012-03-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Germany",
+      "Title": "\u201cconveniently located - nice - friendly & helpful staff\u201d",
+      "Author": "InternetUser42",
+      "ReviewID": "UR125765916",
+      "Content": "stayed nights short city trip nice stay hotel located historical city center subway stations lines near 35min walk subway reach central puerta del sol 10 minutes surrounding streets multiple restaurants bars supermarket meters conveniently located tourists visiting madrid surprisingly spacious location bathroom windows ie daylight clean comfortable complaints staff friendly helpful committment towards surely class unfortunately robbed city hotel helped calling speaking police agreeing delayed payment money credit cards left service days stayed dealt staff speak english communicating dont speak spanish highly recommend hotel tourists visiting city madrid",
+      "Date": "2012-03-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cpleasantly surprised.....\u201d",
+      "Author": "eliott69",
+      "ReviewID": "UR122477067",
+      "Content": "allocated hotel thru secret hotel deal finding name reading reviews expecting worse gladly wasnt staff arrival helpful spoke english pigeon spanish fine choice colour decoration im holiday spend time roombathroom fine excellent shower location close 2 metro stations walking distance basically value price reviewers overlooked writing",
+      "Date": "2012-01-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Albania",
+      "Title": "\u201cnice stay in the Madrid center\u201d",
+      "Author": "silencd",
+      "ReviewID": "UR119738302",
+      "Content": "starred 4 3 located business district hotel access metro short distance brand worn details clean breakfast",
+      "Date": "2011-10-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Olesa de Montserrat, Spain",
+      "Title": "\u201cDisappointing\u201d",
+      "Author": "silviahg",
+      "ReviewID": "UR105286799",
+      "Content": "usually nh hotels formerly hesperia managed nh choice location ok close underground station gregorio line 10 ruben dario line 5 buses close serrano street hotel 4 stars classic dont finish 135 cm bed pretty days breakfast bad anti ox breakfast advertised hotel poor variety queues morning staff stressed boiled egg wait forever price return hotel",
+      "Date": "2011-04-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cit is a bit of a tired hotel\u201d",
+      "Author": "JasonWD",
+      "ReviewID": "UR94214508",
+      "Content": "booked hotel lastminutecom secret hotel honest seen basically bit tired hotel clean rough edges staff jaded bad timber flooring makes cold feeling extremely irritating upstairs starts dragging furniture 730 sunday heating sounded car shut night froze television available spanish cnn bbc available impossible change spanish dubbed american programs vo normal digital tvs location visiting city unless metro taxi centre free wifi connection shared hotel tested useable service 5am otherwise below dialup speed conclusion wont returning",
+      "Date": "2011-01-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Lugano, Switzerland",
+      "Title": "\u201cGood hotel\u201d",
+      "Author": "heiranig",
+      "ReviewID": "UR87802857",
+      "Content": "bit outdated decor hotel located financial district madrid walking distance museums shops restaurants enjoyed plentiful fresh breakfast morning clean comfortable shower broken water leaking shower head bit inconvenient water coming splashing floor bathroom size equipped amenities",
+      "Date": "2010-11-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Haarlem, The Netherlands",
+      "Title": "\u201cGood hotel nice location\u201d",
+      "Author": "marcel dam",
+      "ReviewID": "UR67060005",
+      "Content": "2010 nice hotel spacious clean staff friendly helpfull offer breakfast nice bar located business tourist stuff reach public transport taxis foot didnt speak value money",
+      "Date": "2010-06-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Salt lake city",
+      "Title": "\u201cNice hotel.\u201d",
+      "Author": "g8-1tourguest",
+      "ReviewID": "UR64890072",
+      "Content": "stayed hotel 2 nights close main sights madrid metro station maranon close goes direct plaza de espanya lot sights shopping taxi royal palace maybe 13 minutes cost 8euros nice cleaner front entrance due narrow street cars honking horns night bottom floor sewer smell request staff computers charge short time staff nice helpful breakfast selection",
+      "Date": "2010-05-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Emperatriz",
+    "HotelURL": "/ShowUserReviews-g187514-d228543-Reviews-Hotel_Emperatriz-Madrid.html",
+    "Price": "$83 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle Lopez de Hoyos 4</span>, <span class=\"locality\"><span property=\"v:postal-code\">28006</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "228543",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b5/c7/b5c7bf1391d5e089bad1b7ff9a94b7c16large.jpg"
+  }
+}

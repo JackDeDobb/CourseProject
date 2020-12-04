@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Houston", "Title": "\u201cAn Excellent Value\u201d", "Author": "Chris147_11", "ReviewID": "UR118937669", "Content": "modest 10 hotel excellent value accommodations clean quiet adequate location near marble arch provides easy access underground busses restaurants services 14 night stay pleasant require luxury extensive service expensive hotels neighborhood breakfast lunch visit borough barista 60 st pl", "Date": "2011-10-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Cambridge, United Kingdom", "Title": "\u201cFriendly which is what counts...\u201d", "Author": "Carol B", "ReviewID": "UR118518989", "Content": "friendly welcoming helpful people comfortable surroundings pretty peaceful drive car scenic trip local warehouse treasure trove bargains visit quaint 15th century village timber framed buildings hotel travel local sites base suffolk food", "Date": "2011-09-24 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Coventry, United Kingdom", "Title": "\u201cVery poor service.\u201d", "Author": "Andy123423", "ReviewID": "UR89740042", "Content": "booked stay hotel lastminutecom october 2010 attending function mayfair running tight time arrived main hotel door locked note saying 5 minutes receptionist eventually inform twin booked paid filled twin available luckily single available kept 20 minutes whilst tried sort booking stressed late function apology offered refund cheaper lastminutes fault true single lumpy bed weak shower sounded hair dryer probably money hotel eventually offer 25 discount future stay taking offer", "Date": "2010-12-13 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "pesaro", "Title": "\u201cE' crollato il soffitto della camera.....\u201d", "Author": "faidus", "ReviewID": "UR60973946", "Content": "saturday march 26th 5 am realized raining 1 occupied girl precise water falling ceiling wetting carpet floor bathroom alarm started sound fire alarm met employee reception trying stop alarm sounding hours till 9 am couldn\u00e2\u20ac\u2122t sleep neither water stopped falling ceiling employee reception set putting towels floor carpet tried switch lights meantime boys awaken alarm sounding 8 9 informed bathroom 9 flooded probably water poured ceiling saturday 7 clock pm hotel noticed plaster ceiling 1 pieces floor fallen carpet attached photo sunday march 28th 3 am hotel employee hotel invited gather baggage quickly half ceiling fallen floor debris rubble fallen luggage personal belongings photo attached 8 9 obviously dangerous stay ours spent remaining hours devided none six components managed sleep rest proper lack beds availability free anyway previous night couldn\u00e2\u20ac\u2122t sleep reasons cost nights refunded that\u00e2\u20ac\u2122s real miracle ceiling didn\u00e2\u20ac\u2122t collapse found ourselves situation dangerous uncomfortable report", "Date": "2010-04-11 00:00:00"}], "HotelInfo": {"Name": "Hadleigh Hotel", "HotelURL": "/ShowUserReviews-g186338-d243366-Reviews-Hadleigh_Hotel-London_England.html", "Price": "$154 - $628*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">24 Upper Berkeley Street</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">W1H 7QH</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>", "HotelID": "243366", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b8/b2/b8b278703e3b51f0b62d07a45e1511341large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Houston",
+      "Title": "\u201cAn Excellent Value\u201d",
+      "Author": "Chris147_11",
+      "ReviewID": "UR118937669",
+      "Content": "modest 10 hotel excellent value accommodations clean quiet adequate location near marble arch provides easy access underground busses restaurants services 14 night stay pleasant require luxury extensive service expensive hotels neighborhood breakfast lunch visit borough barista 60 st pl",
+      "Date": "2011-10-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Cambridge, United Kingdom",
+      "Title": "\u201cFriendly which is what counts...\u201d",
+      "Author": "Carol B",
+      "ReviewID": "UR118518989",
+      "Content": "friendly welcoming helpful people comfortable surroundings pretty peaceful drive car scenic trip local warehouse treasure trove bargains visit quaint 15th century village timber framed buildings hotel travel local sites base suffolk food",
+      "Date": "2011-09-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Coventry, United Kingdom",
+      "Title": "\u201cVery poor service.\u201d",
+      "Author": "Andy123423",
+      "ReviewID": "UR89740042",
+      "Content": "booked stay hotel lastminutecom october 2010 attending function mayfair running tight time arrived main hotel door locked note saying 5 minutes receptionist eventually inform twin booked paid filled twin available luckily single available kept 20 minutes whilst tried sort booking stressed late function apology offered refund cheaper lastminutes fault true single lumpy bed weak shower sounded hair dryer probably money hotel eventually offer 25 discount future stay taking offer",
+      "Date": "2010-12-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "pesaro",
+      "Title": "\u201cE' crollato il soffitto della camera.....\u201d",
+      "Author": "faidus",
+      "ReviewID": "UR60973946",
+      "Content": "saturday march 26th 5 am realized raining 1 occupied girl precise water falling ceiling wetting carpet floor bathroom alarm started sound fire alarm met employee reception trying stop alarm sounding hours till 9 am couldn\u00e2\u20ac\u2122t sleep neither water stopped falling ceiling employee reception set putting towels floor carpet tried switch lights meantime boys awaken alarm sounding 8 9 informed bathroom 9 flooded probably water poured ceiling saturday 7 clock pm hotel noticed plaster ceiling 1 pieces floor fallen carpet attached photo sunday march 28th 3 am hotel employee hotel invited gather baggage quickly half ceiling fallen floor debris rubble fallen luggage personal belongings photo attached 8 9 obviously dangerous stay ours spent remaining hours devided none six components managed sleep rest proper lack beds availability free anyway previous night couldn\u00e2\u20ac\u2122t sleep reasons cost nights refunded that\u00e2\u20ac\u2122s real miracle ceiling didn\u00e2\u20ac\u2122t collapse found ourselves situation dangerous uncomfortable report",
+      "Date": "2010-04-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hadleigh Hotel",
+    "HotelURL": "/ShowUserReviews-g186338-d243366-Reviews-Hadleigh_Hotel-London_England.html",
+    "Price": "$154 - $628*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">24 Upper Berkeley Street</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">W1H 7QH</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>",
+    "HotelID": "243366",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b8/b2/b8b278703e3b51f0b62d07a45e1511341large.jpg"
+  }
+}
