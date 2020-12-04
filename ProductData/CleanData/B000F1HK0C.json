@@ -1,1 +1,30 @@
-[{"reviewId": "32218", "productName": "Nextar MA933A-2BL 256 MB Digital MP3 Player (Black)", "title": "Nextar MP3 player", "author": "James Evans \"JwE\"", "createDate": "2006-08-09 00:00:00", "fullText": "am pleased product manual supposed load mp3 wmp etc formats doesnt mp3 called 800 tech support line told recording busy return call 48 hours happened recommend product", "rating": 1.0, "helpfulNum": 0, "totalNum": 1, "commentNum": 0, "webUrl": "http://www.amazon.com/review/product/B000F1HK0C/ref=cm_cr_dp_all_summary/105-3500110-2134062?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending", "htmlPath": "F:\\amazon_mp3\\1/417"}, {"reviewId": "32219", "productName": "Nextar MA933A-2BL 256 MB Digital MP3 Player (Black)", "title": "Fine for podcasts", "author": "S. D. \"twoplus3\"", "createDate": "2006-10-19 00:00:00", "fullText": "received mp3 player christmas gift ive mainly playing podcasts listen portable speakers drive fine cables software downloads shouldnt ipod course wont price fine limited beginner", "rating": 4.0, "helpfulNum": 1, "totalNum": 1, "commentNum": 0, "webUrl": "http://www.amazon.com/review/product/B000F1HK0C/ref=cm_cr_dp_all_summary/105-3500110-2134062?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending", "htmlPath": "F:\\amazon_mp3\\1/4172"}]
+[
+  {
+    "reviewId": "32218",
+    "productName": "Nextar MA933A-2BL 256 MB Digital MP3 Player (Black)",
+    "title": "Nextar MP3 player",
+    "author": "James Evans \"JwE\"",
+    "createDate": "2006-08-09 00:00:00",
+    "fullText": "am pleased product manual supposed load mp3 wmp etc formats doesnt mp3 called 800 tech support line told recording busy return call 48 hours happened recommend product",
+    "rating": 1.0,
+    "helpfulNum": 0,
+    "totalNum": 1,
+    "commentNum": 0,
+    "webUrl": "http://www.amazon.com/review/product/B000F1HK0C/ref=cm_cr_dp_all_summary/105-3500110-2134062?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending",
+    "htmlPath": "F:\\amazon_mp3\\1/417"
+  },
+  {
+    "reviewId": "32219",
+    "productName": "Nextar MA933A-2BL 256 MB Digital MP3 Player (Black)",
+    "title": "Fine for podcasts",
+    "author": "S. D. \"twoplus3\"",
+    "createDate": "2006-10-19 00:00:00",
+    "fullText": "received mp3 player christmas gift ive mainly playing podcasts listen portable speakers drive fine cables software downloads shouldnt ipod course wont price fine limited beginner",
+    "rating": 4.0,
+    "helpfulNum": 1,
+    "totalNum": 1,
+    "commentNum": 0,
+    "webUrl": "http://www.amazon.com/review/product/B000F1HK0C/ref=cm_cr_dp_all_summary/105-3500110-2134062?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending",
+    "htmlPath": "F:\\amazon_mp3\\1/4172"
+  }
+]

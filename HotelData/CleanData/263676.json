@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Gainesville, Florida", "Title": "\u201cA bit dank\u201d", "Author": "GatorCraig09", "ReviewID": "UR126005769", "Content": "arrived woman door left key stood outside door waiting shown surprised fantastic view fifth floor unclean day towels smelled serious body odor soaps stocked bathroom hand towels werent professional gross touching mind bathroom entire floor people bathroom banged wall partner shower water hitting hope dont light shower feel entering dungeon wouldnt location cab stand outside unfortunately loud outside white noise drown screaming people 5th floor bed worn wall dirty probably elsewhere time im rome", "Date": "2012-03-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Pittsburgh, Pennsylvania", "Title": "\u201cGreat Place...and affordable\u201d", "Author": "Laura G", "ReviewID": "UR122494194", "Content": "friend stayed couple days loved cant beat price location family owns cute friendly helpful stayed disconnected bathroom hall cheaper hostel living free breakfast isnt talk probably gone pastries anyways wasnt view window location amazing building nice perfect grandma family drove airport reasonable rate hilarious definitely beat argue taxi drivers trying rip definitely stay", "Date": "2012-01-03 00:00:00"}], "HotelInfo": {"Name": "Hotel Primavera", "HotelURL": "/ShowUserReviews-g187791-d263676-Reviews-Hotel_Primavera-Rome_Lazio.html", "Price": "$66 - $175*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Piazza San Pantaleo, 3</span>, <span class=\"locality\"><span property=\"v:postal-code\">00186</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "263676", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/5e/cd/hotel-primavera-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Gainesville, Florida",
+      "Title": "\u201cA bit dank\u201d",
+      "Author": "GatorCraig09",
+      "ReviewID": "UR126005769",
+      "Content": "arrived woman door left key stood outside door waiting shown surprised fantastic view fifth floor unclean day towels smelled serious body odor soaps stocked bathroom hand towels werent professional gross touching mind bathroom entire floor people bathroom banged wall partner shower water hitting hope dont light shower feel entering dungeon wouldnt location cab stand outside unfortunately loud outside white noise drown screaming people 5th floor bed worn wall dirty probably elsewhere time im rome",
+      "Date": "2012-03-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Pittsburgh, Pennsylvania",
+      "Title": "\u201cGreat Place...and affordable\u201d",
+      "Author": "Laura G",
+      "ReviewID": "UR122494194",
+      "Content": "friend stayed couple days loved cant beat price location family owns cute friendly helpful stayed disconnected bathroom hall cheaper hostel living free breakfast isnt talk probably gone pastries anyways wasnt view window location amazing building nice perfect grandma family drove airport reasonable rate hilarious definitely beat argue taxi drivers trying rip definitely stay",
+      "Date": "2012-01-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Primavera",
+    "HotelURL": "/ShowUserReviews-g187791-d263676-Reviews-Hotel_Primavera-Rome_Lazio.html",
+    "Price": "$66 - $175*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Piazza San Pantaleo, 3</span>, <span class=\"locality\"><span property=\"v:postal-code\">00186</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "263676",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/5e/cd/hotel-primavera-thumbnail.jpg"
+  }
+}

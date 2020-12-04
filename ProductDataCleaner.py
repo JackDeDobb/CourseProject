@@ -107,4 +107,4 @@ os.mkdir(productDataCleanFilesDirectory)
 for (productID, productReviews) in list(productIDToDataMapping.items()):
   with open('/'.join([productDataCleanFilesDirectory, productID + '.json']), 'w+') as cleanDataFile:
     print('exporting file: ' + productID + '.json')
-    json.dump(productReviews, cleanDataFile, default=str)
+    json.dump(productReviews, cleanDataFile, default=str, indent=2)

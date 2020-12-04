@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Merstham, Surrey", "Title": "\u201cVery well situated and with an Olympic pool thrown in!\u201d", "Author": "ABdeMH", "ReviewID": "UR127742918", "Content": "yes there\u00e2\u20ac\u2122s stunning view bedroom improves slightly decreases floor levels increase spent ten days tired looking busy stretch water round bridge hotel conveniently station couple stops heart sydney scenic route walk straight hotel lavender bay waterfront ferry north sydney quieter central sydney choice restaurants shops nearby towards efficient welcoming staff relaxing stay city i\u00e2\u20ac\u2122d expected clean stocked drawback pay internet oh yesterday bonus hotel\u00e2\u20ac\u2122s free access nearby olympic pool 50 metre heated air swimming pool hotel definitely base visit sydney essentials", "Date": "2012-04-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Brisbane, Australia", "Title": "\u201cSydney's best kept secret..\u201d", "Author": "BrissyAdventurer", "ReviewID": "UR126943789", "Content": "stayed harbour view hotel sydney wont wish stay else fantastic accommodation showcasing sydney finest hidden treasure perfect proximity north sydney trains circular quay blues rd incredible restaurants hope sydney trip complete view constantly moving picture thriving cosmopolitan activity episode ferry boat fred peel yourself experience delights surrounding equally hard peel exceptionally comfortable bedding blues bar inhouse restuarant words molly yourself favour stay harbour view hotel sound trains concerns bring ear plugs simple", "Date": "2012-03-29 00:00:00"}], "HotelInfo": {"Name": "Harbour View Hotel", "HotelURL": "/ShowUserReviews-g255060-d298401-Reviews-Harbour_View_Hotel-Sydney_New_South_Wales.html", "Price": "0", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">18 Lower Fort Street</span> | <span class=\"extended-address\">The Rocks</span>, <span class=\"locality\"><span property=\"v:locality\">Sydney</span>, <span property=\"v:region\">New South Wales</span> <span property=\"v:postal-code\">2000</span></span>, <span class=\"country-name\" property=\"v:country-name\">Australia</span> </span></span></address>", "HotelID": "298401", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/6b/a0/79/filename-dsc00010-jpg.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Merstham, Surrey",
+      "Title": "\u201cVery well situated and with an Olympic pool thrown in!\u201d",
+      "Author": "ABdeMH",
+      "ReviewID": "UR127742918",
+      "Content": "yes there\u00e2\u20ac\u2122s stunning view bedroom improves slightly decreases floor levels increase spent ten days tired looking busy stretch water round bridge hotel conveniently station couple stops heart sydney scenic route walk straight hotel lavender bay waterfront ferry north sydney quieter central sydney choice restaurants shops nearby towards efficient welcoming staff relaxing stay city i\u00e2\u20ac\u2122d expected clean stocked drawback pay internet oh yesterday bonus hotel\u00e2\u20ac\u2122s free access nearby olympic pool 50 metre heated air swimming pool hotel definitely base visit sydney essentials",
+      "Date": "2012-04-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Brisbane, Australia",
+      "Title": "\u201cSydney's best kept secret..\u201d",
+      "Author": "BrissyAdventurer",
+      "ReviewID": "UR126943789",
+      "Content": "stayed harbour view hotel sydney wont wish stay else fantastic accommodation showcasing sydney finest hidden treasure perfect proximity north sydney trains circular quay blues rd incredible restaurants hope sydney trip complete view constantly moving picture thriving cosmopolitan activity episode ferry boat fred peel yourself experience delights surrounding equally hard peel exceptionally comfortable bedding blues bar inhouse restuarant words molly yourself favour stay harbour view hotel sound trains concerns bring ear plugs simple",
+      "Date": "2012-03-29 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Harbour View Hotel",
+    "HotelURL": "/ShowUserReviews-g255060-d298401-Reviews-Harbour_View_Hotel-Sydney_New_South_Wales.html",
+    "Price": "0",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">18 Lower Fort Street</span> | <span class=\"extended-address\">The Rocks</span>, <span class=\"locality\"><span property=\"v:locality\">Sydney</span>, <span property=\"v:region\">New South Wales</span> <span property=\"v:postal-code\">2000</span></span>, <span class=\"country-name\" property=\"v:country-name\">Australia</span> </span></span></address>",
+    "HotelID": "298401",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/6b/a0/79/filename-dsc00010-jpg.jpg"
+  }
+}

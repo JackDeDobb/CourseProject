@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Brussels, Belgium", "Title": "\u201cGreat location, good value\u201d", "Author": "globezipper", "ReviewID": "UR126992683", "Content": "prenzlauer berg district berlin consider ive stayed hotels prenzlauer berg ill coming block ubahn subway station plenty nice cafes restaurant night life blocks themselves somewhat rustic overall shape free wifi fill sign form theyll password paperwork seriously fill little box registration form phone otherwise friendly lady reception hotels ive stayed germany bit lax respect havent breakfast rate didnt hotel cant comment breakfast absolutely fantastic breakfast called anna blocks people breakfast combo platter blow mind time mornings try option wont disappointed value ill staying time close prenzlauer berg", "Date": "2012-03-30 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Orange CA", "Title": "\u201cNice hotel, not much help at the front desk\u201d", "Author": "TravelerOrangeCA", "ReviewID": "UR73309625", "Content": "location clean elevator plus price nice neighborhood service front desk recommendations dinner lots answer tried info none forthcoming rick steves recommendations smart phone card hotel elsewhere inconvenient", "Date": "2010-08-01 00:00:00"}], "HotelInfo": {"Name": "Hotel Jurine", "HotelURL": "/ShowUserReviews-g187323-d202455-Reviews-Hotel_Jurine-Berlin.html", "Price": "$95 - $160*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Schwedter Strasse 15</span>, <span class=\"locality\"><span property=\"v:postal-code\">10119</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "202455", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2b/0c/2b0c52b8143e21ce0091024fcb8e098410large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Brussels, Belgium",
+      "Title": "\u201cGreat location, good value\u201d",
+      "Author": "globezipper",
+      "ReviewID": "UR126992683",
+      "Content": "prenzlauer berg district berlin consider ive stayed hotels prenzlauer berg ill coming block ubahn subway station plenty nice cafes restaurant night life blocks themselves somewhat rustic overall shape free wifi fill sign form theyll password paperwork seriously fill little box registration form phone otherwise friendly lady reception hotels ive stayed germany bit lax respect havent breakfast rate didnt hotel cant comment breakfast absolutely fantastic breakfast called anna blocks people breakfast combo platter blow mind time mornings try option wont disappointed value ill staying time close prenzlauer berg",
+      "Date": "2012-03-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Orange CA",
+      "Title": "\u201cNice hotel, not much help at the front desk\u201d",
+      "Author": "TravelerOrangeCA",
+      "ReviewID": "UR73309625",
+      "Content": "location clean elevator plus price nice neighborhood service front desk recommendations dinner lots answer tried info none forthcoming rick steves recommendations smart phone card hotel elsewhere inconvenient",
+      "Date": "2010-08-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Jurine",
+    "HotelURL": "/ShowUserReviews-g187323-d202455-Reviews-Hotel_Jurine-Berlin.html",
+    "Price": "$95 - $160*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Schwedter Strasse 15</span>, <span class=\"locality\"><span property=\"v:postal-code\">10119</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "202455",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2b/0c/2b0c52b8143e21ce0091024fcb8e098410large.jpg"
+  }
+}

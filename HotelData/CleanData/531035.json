@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Madrid, Spain", "Title": "\u201cWorst Hotel/Hostel Experience I've Ever Had!\u201d", "Author": "riplex", "ReviewID": "UR104903387", "Content": "am frequent traveler budget stayed crappy worst experience dont consider picky cleanliness service bad experience compelled write review tripadvisorcom try save travelers booking hotel bathrooms disgusting friend chose shower stay saying lot mildew smell awful wafted throughout toilet flush matter stood finger button added smell 2 nights imagine couldnt comfortably sink wash mildewy physically gagged tried considering zero water pressure water beds incredibly uncomfortable blanket pillow pillow thin hurt neck sleep cold night staff incredibly unfriendly unhelpful rude 7am friend woken students booked remainder floor screaming shouting running blasting music 9am politely front desk quieter music replied theyre students shrugged laughed duh thanks ironic experience people shushed lobby skyping mother tell rome ok wifi promised tomorrow shocking fixed guess disturbing staff person entire lobby watched movie checkin desk friend breakfast rock hard biscuit water juice machine 920am location draw attention hotel trust worth takes floor building complex hotels try hotel building theres plenty stay hotel", "Date": "2011-04-21 00:00:00"}], "HotelInfo": {"Name": "Hotel Ferrarese", "HotelURL": "/ShowUserReviews-g187791-d531035-Reviews-Hotel_Ferrarese-Rome_Lazio.html", "Price": "$59 - $168*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Principe Amedeo, 76</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "531035", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4d/78/4d7830e9b6dc44e9de8977f018afb7f81large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Madrid, Spain",
+      "Title": "\u201cWorst Hotel/Hostel Experience I've Ever Had!\u201d",
+      "Author": "riplex",
+      "ReviewID": "UR104903387",
+      "Content": "am frequent traveler budget stayed crappy worst experience dont consider picky cleanliness service bad experience compelled write review tripadvisorcom try save travelers booking hotel bathrooms disgusting friend chose shower stay saying lot mildew smell awful wafted throughout toilet flush matter stood finger button added smell 2 nights imagine couldnt comfortably sink wash mildewy physically gagged tried considering zero water pressure water beds incredibly uncomfortable blanket pillow pillow thin hurt neck sleep cold night staff incredibly unfriendly unhelpful rude 7am friend woken students booked remainder floor screaming shouting running blasting music 9am politely front desk quieter music replied theyre students shrugged laughed duh thanks ironic experience people shushed lobby skyping mother tell rome ok wifi promised tomorrow shocking fixed guess disturbing staff person entire lobby watched movie checkin desk friend breakfast rock hard biscuit water juice machine 920am location draw attention hotel trust worth takes floor building complex hotels try hotel building theres plenty stay hotel",
+      "Date": "2011-04-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Ferrarese",
+    "HotelURL": "/ShowUserReviews-g187791-d531035-Reviews-Hotel_Ferrarese-Rome_Lazio.html",
+    "Price": "$59 - $168*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Principe Amedeo, 76</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "531035",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4d/78/4d7830e9b6dc44e9de8977f018afb7f81large.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "London, uk", "Title": "\u201cso different from the website...\u201d", "Author": "stephLondon_uk", "ReviewID": "UR78639200", "Content": "honest disappointment mainly price double 50euros wouldnt complained paid mini double looked wallpaper coming bathroom dirt tiles cheap hand soap wireless internet wasnt properly useless definitely worth 3 stars pay double 50euros dont expect nice welcoming sleep night", "Date": "2010-09-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cLoved it\u201d", "Author": "Marjak57", "ReviewID": "UR73625776", "Content": "historic district price definitely north americans expect hotels smallbut budget hotel breakfast am nice touch hey expect clean air conditioning internet little slow free realy makes guy front desk friendly helpful sense humour recommended friends rome check hotel", "Date": "2010-08-03 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Paris", "Title": "\u201cWhy don't you try another hotel?\u201d", "Author": "azertyrome", "ReviewID": "UR71616802", "Content": "checked augustus hotel hottest day july night allright except breakfast worth moved rooom night smelled terrible ac unit bust shut own 10 min night shift guy speak word english sympathetic nor helpful told day manager due excessive heat hotel excuse request significant discount rejected exact words rude mention review advice yourself favour hotel", "Date": "2010-07-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 1.0}, "AuthorLocation": "", "Title": "\u201cFriendly people, confortable and nice atmosphere :)\u201d", "Author": "lunaii", "ReviewID": "UR57111399", "Content": "schools students spent 4 days february 2010 hotel augustus nice friendly staff home free internet breakfast service free close bus 62 60 63 takes rome recomend", "Date": "2010-02-25 00:00:00"}], "HotelInfo": {"Name": "Hotel Augustus", "HotelURL": "/ShowUserReviews-g187791-d631238-Reviews-Hotel_Augustus-Rome_Lazio.html", "Price": "$66 - $156*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Piave 61 2nd floor</span>, <span class=\"locality\"><span property=\"v:postal-code\">00187</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "631238", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c1/a8/c1a863e9cefe1640f2a2d426f1635c301large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "London, uk",
+      "Title": "\u201cso different from the website...\u201d",
+      "Author": "stephLondon_uk",
+      "ReviewID": "UR78639200",
+      "Content": "honest disappointment mainly price double 50euros wouldnt complained paid mini double looked wallpaper coming bathroom dirt tiles cheap hand soap wireless internet wasnt properly useless definitely worth 3 stars pay double 50euros dont expect nice welcoming sleep night",
+      "Date": "2010-09-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cLoved it\u201d",
+      "Author": "Marjak57",
+      "ReviewID": "UR73625776",
+      "Content": "historic district price definitely north americans expect hotels smallbut budget hotel breakfast am nice touch hey expect clean air conditioning internet little slow free realy makes guy front desk friendly helpful sense humour recommended friends rome check hotel",
+      "Date": "2010-08-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Paris",
+      "Title": "\u201cWhy don't you try another hotel?\u201d",
+      "Author": "azertyrome",
+      "ReviewID": "UR71616802",
+      "Content": "checked augustus hotel hottest day july night allright except breakfast worth moved rooom night smelled terrible ac unit bust shut own 10 min night shift guy speak word english sympathetic nor helpful told day manager due excessive heat hotel excuse request significant discount rejected exact words rude mention review advice yourself favour hotel",
+      "Date": "2010-07-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cFriendly people, confortable and nice atmosphere :)\u201d",
+      "Author": "lunaii",
+      "ReviewID": "UR57111399",
+      "Content": "schools students spent 4 days february 2010 hotel augustus nice friendly staff home free internet breakfast service free close bus 62 60 63 takes rome recomend",
+      "Date": "2010-02-25 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Augustus",
+    "HotelURL": "/ShowUserReviews-g187791-d631238-Reviews-Hotel_Augustus-Rome_Lazio.html",
+    "Price": "$66 - $156*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Piave 61 2nd floor</span>, <span class=\"locality\"><span property=\"v:postal-code\">00187</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "631238",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c1/a8/c1a863e9cefe1640f2a2d426f1635c301large.jpg"
+  }
+}

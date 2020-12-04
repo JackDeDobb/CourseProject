@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Lansdowne, Virginia", "Title": "\u201cAffordable, far, great view, def. 1 or 2 USA star hotel\u201d", "Author": "moniquem03", "ReviewID": "UR128145523", "Content": "rate hotel little toilet ran time resteraunt closed entire time main reasons selected hotel twin beds pushed flat mattress kept separating night staff speak english tried nice frustrating friendly sweet nonetheless please remember bring outlet reviews posted helpful views stunning clean bed washroom else phone using washcloths bring own tv italian channels tell english ones mtv english sometimes breakfast toast size crackers tea coffee club seltzer water remember water feature bus literally outside hotel runs 11 nights mean locally prepared bus resteraunts close sketchy hours hardly load drinks snacks grocery stores bus 32 finally catch le isle resteraunt spoke english menu italian needless french fries lol oh day serve meat check church bells door nice rome food please ready disappointed pizza american pizza food wine met friends nc hotel blessing day trip pompeii own cheaper committed stay tour pay 300 2 tour own taking 32 bus terminal train naples pompeii 100 24 2 paid 120 online oh atm wills money savings found hard hope helps god bless", "Date": "2012-04-18 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Bielsko-Biala, Poland", "Title": "\u201cWe had a really relaxing stay; just what we needed!\u201d", "Author": "Benjamin R", "ReviewID": "UR127373286", "Content": "reviewer mentions hectic city life hes absolutely bangon hotel requires bit effort fairly removed centre rome worth effort isnt tourist sight village isola farnese charming hotel little gem staff merely polite delightful friendly cheerful suggestions day wandering wouldnt found guidebook woken middle night hooting owl awakened hear news time enjoy drift sleep", "Date": "2012-04-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Rome, Italy", "Title": "\u201cAmazing\u201d", "Author": "Bryan W", "ReviewID": "UR124380750", "Content": "amazing hotel stay owner spoke english helpful broken italian generous clean stained wood cabinets view gorgeous italian countryside main drag nice hectic city life provided scenery street gorgeous catholic church", "Date": "2012-02-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Rome, Italy", "Title": "\u201cWent out of his way for us\u201d", "Author": "Tom H", "ReviewID": "UR124168622", "Content": "hotel closed night owner willing night providing dinner breakfast gotten day walking biggest snow storm italy seen quarter century drove bad weather care cost 50 euro reasonable real godsend", "Date": "2012-02-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Rome, Italy", "Title": "\u201cNot too busy, and just close enough\u201d", "Author": "Joseph119", "ReviewID": "UR124152271", "Content": "hotel owner simone gracious provided service beyond normally expect service prompt polite staff spoke english excellent stay thats busyness rome easily accessible metro", "Date": "2012-02-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Crowborough, United Kingdom", "Title": "\u201cA Real Taste of Italy - Beautiful\u201d", "Author": "Christopher S", "ReviewID": "UR121114922", "Content": "truly fantastic girlfriend little trip europe decided stay tempio di apollo due location outside city centre price truly fantastic allow hour termini station hotel worth travel follow instructions provided hotel stop bus top hill rewarded kindest staff truly spectacular views lovely free fast wifi extra treat morning served breakfast roof hotel overlooking beautiful scenery entire trip im didnt enjoy staying tempio di apollo real italy fantastic experience italian life", "Date": "2011-11-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Atlanta, Georgia", "Title": "\u201cThe Best Kept Secret in Rome\u201d", "Author": "KevinFortune", "ReviewID": "UR108926231", "Content": "kept secrets rome hotel tempio di apollo located dowtown public transportation bus stop conveniently located front hotel genuine italian hotelnot setting quiet secluded historic church built family owned run hotel hands italian family generations restaurant conveniently located site serves authentic italian food reasonable price pizza margarita rome hotels attribute service staff friendly courteous greeting patrons smile accomodating trying meet guest dont requested immediately bought size guest personalized attention added meet glowing personalities owner family officially greeted mother biggest smile brightest welcoming eyes italy simone hotel manager restaurant manager professional behaviour release flow excitement energy stay worth trip meet characters expert international real properties hotels rome world", "Date": "2011-05-19 00:00:00"}], "HotelInfo": {"Name": "Tempio di Apollo Hotel", "HotelURL": "/ShowUserReviews-g187791-d611389-Reviews-Tempio_di_Apollo_Hotel-Rome_Lazio.html", "Price": "$59 - $99*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Piazza della Colonnetta 8</span> | <span class=\"extended-address\">Isola Farnese</span>, <span class=\"locality\"><span property=\"v:postal-code\">00123</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "611389", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/c3/a5/27/double-room.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Lansdowne, Virginia",
+      "Title": "\u201cAffordable, far, great view, def. 1 or 2 USA star hotel\u201d",
+      "Author": "moniquem03",
+      "ReviewID": "UR128145523",
+      "Content": "rate hotel little toilet ran time resteraunt closed entire time main reasons selected hotel twin beds pushed flat mattress kept separating night staff speak english tried nice frustrating friendly sweet nonetheless please remember bring outlet reviews posted helpful views stunning clean bed washroom else phone using washcloths bring own tv italian channels tell english ones mtv english sometimes breakfast toast size crackers tea coffee club seltzer water remember water feature bus literally outside hotel runs 11 nights mean locally prepared bus resteraunts close sketchy hours hardly load drinks snacks grocery stores bus 32 finally catch le isle resteraunt spoke english menu italian needless french fries lol oh day serve meat check church bells door nice rome food please ready disappointed pizza american pizza food wine met friends nc hotel blessing day trip pompeii own cheaper committed stay tour pay 300 2 tour own taking 32 bus terminal train naples pompeii 100 24 2 paid 120 online oh atm wills money savings found hard hope helps god bless",
+      "Date": "2012-04-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Bielsko-Biala, Poland",
+      "Title": "\u201cWe had a really relaxing stay; just what we needed!\u201d",
+      "Author": "Benjamin R",
+      "ReviewID": "UR127373286",
+      "Content": "reviewer mentions hectic city life hes absolutely bangon hotel requires bit effort fairly removed centre rome worth effort isnt tourist sight village isola farnese charming hotel little gem staff merely polite delightful friendly cheerful suggestions day wandering wouldnt found guidebook woken middle night hooting owl awakened hear news time enjoy drift sleep",
+      "Date": "2012-04-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rome, Italy",
+      "Title": "\u201cAmazing\u201d",
+      "Author": "Bryan W",
+      "ReviewID": "UR124380750",
+      "Content": "amazing hotel stay owner spoke english helpful broken italian generous clean stained wood cabinets view gorgeous italian countryside main drag nice hectic city life provided scenery street gorgeous catholic church",
+      "Date": "2012-02-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Rome, Italy",
+      "Title": "\u201cWent out of his way for us\u201d",
+      "Author": "Tom H",
+      "ReviewID": "UR124168622",
+      "Content": "hotel closed night owner willing night providing dinner breakfast gotten day walking biggest snow storm italy seen quarter century drove bad weather care cost 50 euro reasonable real godsend",
+      "Date": "2012-02-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rome, Italy",
+      "Title": "\u201cNot too busy, and just close enough\u201d",
+      "Author": "Joseph119",
+      "ReviewID": "UR124152271",
+      "Content": "hotel owner simone gracious provided service beyond normally expect service prompt polite staff spoke english excellent stay thats busyness rome easily accessible metro",
+      "Date": "2012-02-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Crowborough, United Kingdom",
+      "Title": "\u201cA Real Taste of Italy - Beautiful\u201d",
+      "Author": "Christopher S",
+      "ReviewID": "UR121114922",
+      "Content": "truly fantastic girlfriend little trip europe decided stay tempio di apollo due location outside city centre price truly fantastic allow hour termini station hotel worth travel follow instructions provided hotel stop bus top hill rewarded kindest staff truly spectacular views lovely free fast wifi extra treat morning served breakfast roof hotel overlooking beautiful scenery entire trip im didnt enjoy staying tempio di apollo real italy fantastic experience italian life",
+      "Date": "2011-11-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Atlanta, Georgia",
+      "Title": "\u201cThe Best Kept Secret in Rome\u201d",
+      "Author": "KevinFortune",
+      "ReviewID": "UR108926231",
+      "Content": "kept secrets rome hotel tempio di apollo located dowtown public transportation bus stop conveniently located front hotel genuine italian hotelnot setting quiet secluded historic church built family owned run hotel hands italian family generations restaurant conveniently located site serves authentic italian food reasonable price pizza margarita rome hotels attribute service staff friendly courteous greeting patrons smile accomodating trying meet guest dont requested immediately bought size guest personalized attention added meet glowing personalities owner family officially greeted mother biggest smile brightest welcoming eyes italy simone hotel manager restaurant manager professional behaviour release flow excitement energy stay worth trip meet characters expert international real properties hotels rome world",
+      "Date": "2011-05-19 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Tempio di Apollo Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d611389-Reviews-Tempio_di_Apollo_Hotel-Rome_Lazio.html",
+    "Price": "$59 - $99*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Piazza della Colonnetta 8</span> | <span class=\"extended-address\">Isola Farnese</span>, <span class=\"locality\"><span property=\"v:postal-code\">00123</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "611389",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/c3/a5/27/double-room.jpg"
+  }
+}

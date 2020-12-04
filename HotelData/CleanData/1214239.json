@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Zagreb, Croatia", "Title": "\u201cGood value for money\u201d", "Author": "DeltaBravo_11", "ReviewID": "UR122959680", "Content": "night hotel value historic center town rush hour practical ferry bosphorus relatively close sabiha gokcen airport clean spacious wireless internet properly arrived quickly fixed staff alerted massaging bathtubs business asian istanbul", "Date": "2012-01-12 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Gouda, The Netherlands", "Title": "\u201cNice hotel with interesting rates\u201d", "Author": "Eberg", "ReviewID": "UR77607495", "Content": "hotel located bussy street east istanbul comfortable free wireless internet dripping toilet annoying sleep breakfast start 7 am ramadan birds picked hotel morning business unpleasant look hotel rates airport sabiha gokcen option", "Date": "2010-08-31 00:00:00"}], "HotelInfo": {"Name": "The Bostanci Hotel", "HotelURL": "/ShowUserReviews-g293974-d1214239-Reviews-The_Bostanci_Hotel-Istanbul.html", "Price": "$105 - $138*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Mehmet Sevki Pasa cad. No:20</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34744</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "1214239", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5d/73/5d7358950197a7b38ffc77bc1b3915181large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Zagreb, Croatia",
+      "Title": "\u201cGood value for money\u201d",
+      "Author": "DeltaBravo_11",
+      "ReviewID": "UR122959680",
+      "Content": "night hotel value historic center town rush hour practical ferry bosphorus relatively close sabiha gokcen airport clean spacious wireless internet properly arrived quickly fixed staff alerted massaging bathtubs business asian istanbul",
+      "Date": "2012-01-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Gouda, The Netherlands",
+      "Title": "\u201cNice hotel with interesting rates\u201d",
+      "Author": "Eberg",
+      "ReviewID": "UR77607495",
+      "Content": "hotel located bussy street east istanbul comfortable free wireless internet dripping toilet annoying sleep breakfast start 7 am ramadan birds picked hotel morning business unpleasant look hotel rates airport sabiha gokcen option",
+      "Date": "2010-08-31 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "The Bostanci Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d1214239-Reviews-The_Bostanci_Hotel-Istanbul.html",
+    "Price": "$105 - $138*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Mehmet Sevki Pasa cad. No:20</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34744</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "1214239",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5d/73/5d7358950197a7b38ffc77bc1b3915181large.jpg"
+  }
+}

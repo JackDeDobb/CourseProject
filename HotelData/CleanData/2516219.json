@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Odessa, Texas", "Title": "\u201cIt met our needs.\u201d", "Author": "Houndsbaseballfan", "ReviewID": "UR126880227", "Content": "phoenix watch spring training games hotel week hotel met centrally located near restaurants easy appeared fair town breakfasts selection except ran stuff couple days realize happen anticipate hotel stock nights relatively quiet front desk staff helpful john front desk particularly helpful friendly", "Date": "2012-03-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Vero Beach, Florida", "Title": "\u201cGreat hotel with excellent staff!\u201d", "Author": "soccercrazy4", "ReviewID": "UR125025548", "Content": "stayed 3 nights suite extended couch medium size frig tiny cubes microwave food storage spacious beds soft taste daughter loved requested top floor elevator ice machine accomodating interacted 5 front desk staff extremely nice helpful breakfast hot nice selection family hotel quiet street adjacent i17 worried windows soundproof hear interstate traffic noise definitely recommend hotel staying bargin yes 150 inroom safe fee removed charge wasnt", "Date": "2012-02-22 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Los Angeles, California", "Title": "\u201cThere is a nicer Comfort Suites in nearby Peoria, AZ\u201d", "Author": "marathon308", "ReviewID": "UR123713033", "Content": "stayed hotel sunday night mistake reserved accessible worn front desk replaced hotel deserted front desk service mediocre free wifi breakfast included ample parking space reserved 80 following night stayed comfort suites peoria az 15 miles enjoyed", "Date": "2012-01-27 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Tucson, Arizona", "Title": "\u201cExtra Fee\u201d", "Author": "JLHtravels", "ReviewID": "UR123646062", "Content": "suprised check box stating 150 fee inroom safe stayed hotels country internationally charged inroom safe amount issue separate fee choice hotel corporate policy check charging", "Date": "2012-01-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Long Beach, California", "Title": "\u201cGreat Place to stay\u201d", "Author": "edpalmore", "ReviewID": "UR103709227", "Content": "totally loved hotel business children dog roomy clean staff friendly free breakfast enjoied free coffee hot chocolate alot indoor pool nice little loud indoors beds comfortable pillows little worn definately stay", "Date": "2011-04-12 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 2.0}, "AuthorLocation": "New Mexico", "Title": "\u201cGood for the money-- not for service.\u201d", "Author": "NewMexicoFam_of_5", "ReviewID": "UR101684865", "Content": "family 6 4 children age 8 hard hotel lie 4 im bad liar comfort suites deserves credit handle moreover price decent paid 113 night 2 bedroom 1 sofa pull price decent families aware hotel neighborhood lot street activity street activity mean shady people roaming streets hours near constant police presence hotels fault security corners cut checkin extend stay night night clerk told wait morning didnt biggest disappointment pull bed sofa night sheets clerk day night sheets bottom line id stay lowered expectations", "Date": "2011-03-26 00:00:00"}], "HotelInfo": {"Name": "Comfort Suites Phoenix / MetroCenter", "HotelURL": "/ShowUserReviews-g31310-d74834-Reviews-Comfort_Suites_Phoenix_MetroCenter-Phoenix_Arizona.html", "Price": "$73 - $103*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">10210 N 26th Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85021</span></span> </span></span></address>", "HotelID": "2516219", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2a/ee/2aee3a3f1b41a028d82153dca8d9ad843large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Odessa, Texas",
+      "Title": "\u201cIt met our needs.\u201d",
+      "Author": "Houndsbaseballfan",
+      "ReviewID": "UR126880227",
+      "Content": "phoenix watch spring training games hotel week hotel met centrally located near restaurants easy appeared fair town breakfasts selection except ran stuff couple days realize happen anticipate hotel stock nights relatively quiet front desk staff helpful john front desk particularly helpful friendly",
+      "Date": "2012-03-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Vero Beach, Florida",
+      "Title": "\u201cGreat hotel with excellent staff!\u201d",
+      "Author": "soccercrazy4",
+      "ReviewID": "UR125025548",
+      "Content": "stayed 3 nights suite extended couch medium size frig tiny cubes microwave food storage spacious beds soft taste daughter loved requested top floor elevator ice machine accomodating interacted 5 front desk staff extremely nice helpful breakfast hot nice selection family hotel quiet street adjacent i17 worried windows soundproof hear interstate traffic noise definitely recommend hotel staying bargin yes 150 inroom safe fee removed charge wasnt",
+      "Date": "2012-02-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Los Angeles, California",
+      "Title": "\u201cThere is a nicer Comfort Suites in nearby Peoria, AZ\u201d",
+      "Author": "marathon308",
+      "ReviewID": "UR123713033",
+      "Content": "stayed hotel sunday night mistake reserved accessible worn front desk replaced hotel deserted front desk service mediocre free wifi breakfast included ample parking space reserved 80 following night stayed comfort suites peoria az 15 miles enjoyed",
+      "Date": "2012-01-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Tucson, Arizona",
+      "Title": "\u201cExtra Fee\u201d",
+      "Author": "JLHtravels",
+      "ReviewID": "UR123646062",
+      "Content": "suprised check box stating 150 fee inroom safe stayed hotels country internationally charged inroom safe amount issue separate fee choice hotel corporate policy check charging",
+      "Date": "2012-01-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Long Beach, California",
+      "Title": "\u201cGreat Place to stay\u201d",
+      "Author": "edpalmore",
+      "ReviewID": "UR103709227",
+      "Content": "totally loved hotel business children dog roomy clean staff friendly free breakfast enjoied free coffee hot chocolate alot indoor pool nice little loud indoors beds comfortable pillows little worn definately stay",
+      "Date": "2011-04-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "New Mexico",
+      "Title": "\u201cGood for the money-- not for service.\u201d",
+      "Author": "NewMexicoFam_of_5",
+      "ReviewID": "UR101684865",
+      "Content": "family 6 4 children age 8 hard hotel lie 4 im bad liar comfort suites deserves credit handle moreover price decent paid 113 night 2 bedroom 1 sofa pull price decent families aware hotel neighborhood lot street activity street activity mean shady people roaming streets hours near constant police presence hotels fault security corners cut checkin extend stay night night clerk told wait morning didnt biggest disappointment pull bed sofa night sheets clerk day night sheets bottom line id stay lowered expectations",
+      "Date": "2011-03-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Comfort Suites Phoenix / MetroCenter",
+    "HotelURL": "/ShowUserReviews-g31310-d74834-Reviews-Comfort_Suites_Phoenix_MetroCenter-Phoenix_Arizona.html",
+    "Price": "$73 - $103*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">10210 N 26th Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85021</span></span> </span></span></address>",
+    "HotelID": "2516219",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2a/ee/2aee3a3f1b41a028d82153dca8d9ad843large.jpg"
+  }
+}

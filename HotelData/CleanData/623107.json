@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Cork", "Title": "\u201cGreat Location\u201d", "Author": "Neets76", "ReviewID": "UR121679972", "Content": "paris 3 nights dec 11 apartments 5 mins walk ternes metro 10 mins walk arc de triomphe staff friendly helpful arrival apartments laid kitchenette cutlery microwave fridge kettle dishwasher etc comfy double bed sized bathroom serviced cleaned day theres little patio overlooking street table chairs directly street noise lovely little patisseries boulangeries sample lots restaurants nearby varying prices spot def recommend def stay paris note reception day check arrival time ensure didnt", "Date": "2011-12-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cExcellent stay!!\u201d", "Author": "buznbro15", "ReviewID": "UR119773949", "Content": "wife stayed 3 nights enjoyed ourselves immensely apartment fantastic location impressed amount security amenities included staff nice feel welcome plenty nearby shopping etc enjoyed bathroom functional kitchen facilities course own balcony relaxing day enjoying paris definitely stay recommend", "Date": "2011-10-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Burleigh Heads, Australia", "Title": "\u201cEnjoyable stay, close to Arc, Self Contained\u201d", "Author": "AmandaC3", "ReviewID": "UR110020590", "Content": "nice little self contained apartment secure building close main road metro bus lines clean tidy hot plate sink fridge bathroom clean modern bed firm comfy chose 1 bedroom kids 2 single beds suite costs local shops restaurants nice fairly easy staff spoke english friendly helpful youre paris arent stay comfortable home night wifi provided", "Date": "2011-05-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Biella, Italy", "Title": "\u201cGood location and super staff\u201d", "Author": "eugeita", "ReviewID": "UR97662973", "Content": "spent 3 night appreciate courtesy staff front desk ready help structure wide modern super clean bathroom confortable bed nice kitchen cook simple meal wifi free negative check available 5 pm travel maybe night usefull morning checkout 11 am", "Date": "2011-02-23 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cA home away from home!\u201d", "Author": "FamilyfunSept2010", "ReviewID": "UR90267859", "Content": "chose apartment based comments particularly comments australians perfect 2 adults teenager ten spacious quiet exceptionally clean close shops rail bus stop takes straight cdg airport staff helpful times stay quiet paris family 4 glen iris melbourne", "Date": "2010-12-20 00:00:00"}], "HotelInfo": {"Name": "Residhotel Imperial Rennequin", "HotelURL": "/ShowUserReviews-g187147-d623107-Reviews-Residhotel_Imperial_Rennequin-Paris_Ile_de_France.html", "Price": "$177 - $296*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">34 rue Rennequin</span>, <span class=\"locality\"><span property=\"v:postal-code\">75017</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>", "HotelID": "623107", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f7/16/f7162f0b7a7c896d19c67c1bde91e68a4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Cork",
+      "Title": "\u201cGreat Location\u201d",
+      "Author": "Neets76",
+      "ReviewID": "UR121679972",
+      "Content": "paris 3 nights dec 11 apartments 5 mins walk ternes metro 10 mins walk arc de triomphe staff friendly helpful arrival apartments laid kitchenette cutlery microwave fridge kettle dishwasher etc comfy double bed sized bathroom serviced cleaned day theres little patio overlooking street table chairs directly street noise lovely little patisseries boulangeries sample lots restaurants nearby varying prices spot def recommend def stay paris note reception day check arrival time ensure didnt",
+      "Date": "2011-12-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cExcellent stay!!\u201d",
+      "Author": "buznbro15",
+      "ReviewID": "UR119773949",
+      "Content": "wife stayed 3 nights enjoyed ourselves immensely apartment fantastic location impressed amount security amenities included staff nice feel welcome plenty nearby shopping etc enjoyed bathroom functional kitchen facilities course own balcony relaxing day enjoying paris definitely stay recommend",
+      "Date": "2011-10-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Burleigh Heads, Australia",
+      "Title": "\u201cEnjoyable stay, close to Arc, Self Contained\u201d",
+      "Author": "AmandaC3",
+      "ReviewID": "UR110020590",
+      "Content": "nice little self contained apartment secure building close main road metro bus lines clean tidy hot plate sink fridge bathroom clean modern bed firm comfy chose 1 bedroom kids 2 single beds suite costs local shops restaurants nice fairly easy staff spoke english friendly helpful youre paris arent stay comfortable home night wifi provided",
+      "Date": "2011-05-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Biella, Italy",
+      "Title": "\u201cGood location and super staff\u201d",
+      "Author": "eugeita",
+      "ReviewID": "UR97662973",
+      "Content": "spent 3 night appreciate courtesy staff front desk ready help structure wide modern super clean bathroom confortable bed nice kitchen cook simple meal wifi free negative check available 5 pm travel maybe night usefull morning checkout 11 am",
+      "Date": "2011-02-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cA home away from home!\u201d",
+      "Author": "FamilyfunSept2010",
+      "ReviewID": "UR90267859",
+      "Content": "chose apartment based comments particularly comments australians perfect 2 adults teenager ten spacious quiet exceptionally clean close shops rail bus stop takes straight cdg airport staff helpful times stay quiet paris family 4 glen iris melbourne",
+      "Date": "2010-12-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Residhotel Imperial Rennequin",
+    "HotelURL": "/ShowUserReviews-g187147-d623107-Reviews-Residhotel_Imperial_Rennequin-Paris_Ile_de_France.html",
+    "Price": "$177 - $296*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">34 rue Rennequin</span>, <span class=\"locality\"><span property=\"v:postal-code\">75017</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>",
+    "HotelID": "623107",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f7/16/f7162f0b7a7c896d19c67c1bde91e68a4large.jpg"
+  }
+}

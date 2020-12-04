@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Amsterdam, The Netherlands", "Title": "\u201cStayed here in 2009, great staff, and a friendly manager!\u201d", "Author": "A K", "ReviewID": "UR126744608", "Content": "looking cheap stay conference 2009 san diego cheapest close airport traveling 16 hours amsterdam netherlands welcome relief staff courteous spotless remember manager week pass attractions san diego customer left laundry machines powerful cheaply priced stayed 10 days pleasure town close gas lamp district grocery store nearby called ralphs overall definitely recommend", "Date": "2012-03-27 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "San Diego", "Title": "\u201cSeriously getting the run around\u201d", "Author": "Danny R", "ReviewID": "UR125946558", "Content": "occasions replied posts sites craigslist hotel advertising weekly rates naturally assume mean unit available promotion available night possibly course theyre available standard rate published own web site nor hotel search engine list bait switch scheme people temporary accommodations call stay regular rate cause weekly couple days hoped improved friend mine stayed car salesman creepy feeling head trying warn", "Date": "2012-03-11 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "West Bloomfield, Michigan", "Title": "\u201c\"This Hotel Needs Revamping of Staff and Management\"\u201d", "Author": "chanel49", "ReviewID": "UR118665656", "Content": "please shut hotel occasional bathroom rude staff manager illegal credit cards deposit payed checking refund kicked messy smell prepayed 2 weeks advance disputing american express card charges contacted bbb health department san diego look disturbing reviews yelpcom", "Date": "2011-09-27 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Potomac, Maryland", "Title": "\u201cSold my prepaid three night room and greeted with apathy\u201d", "Author": "6BQ", "ReviewID": "UR97512690", "Content": "prepaid month 5pm wednesday apology guy desk didnt care help finding someplace else answering phone 5 days business hours trying arrange refund looked cool business cares little customer buys worth looking stay goes based experience", "Date": "2011-02-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cA hidden gem with excellent facilities with friendly staff\u201d", "Author": "Lionheart_10", "ReviewID": "UR67127514", "Content": "treated prince hotel staff helpful local knowledge recommend hotel traveller short term term stay request attended ive hotel past 3 ive travelled america hotel close amenity town san diego close proximity", "Date": "2010-06-10 00:00:00"}], "HotelInfo": {"Name": "Hotel Occidental", "HotelURL": "/ShowUserReviews-g60750-d590139-Reviews-Hotel_Occidental-San_Diego_California.html", "Price": "0", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">410 Elm Street</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92101</span></span> </span> </span> </address>", "HotelID": "590139", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/22/2e/80/freshly-trimmed-trees.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Amsterdam, The Netherlands",
+      "Title": "\u201cStayed here in 2009, great staff, and a friendly manager!\u201d",
+      "Author": "A K",
+      "ReviewID": "UR126744608",
+      "Content": "looking cheap stay conference 2009 san diego cheapest close airport traveling 16 hours amsterdam netherlands welcome relief staff courteous spotless remember manager week pass attractions san diego customer left laundry machines powerful cheaply priced stayed 10 days pleasure town close gas lamp district grocery store nearby called ralphs overall definitely recommend",
+      "Date": "2012-03-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "San Diego",
+      "Title": "\u201cSeriously getting the run around\u201d",
+      "Author": "Danny R",
+      "ReviewID": "UR125946558",
+      "Content": "occasions replied posts sites craigslist hotel advertising weekly rates naturally assume mean unit available promotion available night possibly course theyre available standard rate published own web site nor hotel search engine list bait switch scheme people temporary accommodations call stay regular rate cause weekly couple days hoped improved friend mine stayed car salesman creepy feeling head trying warn",
+      "Date": "2012-03-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "West Bloomfield, Michigan",
+      "Title": "\u201c\"This Hotel Needs Revamping of Staff and Management\"\u201d",
+      "Author": "chanel49",
+      "ReviewID": "UR118665656",
+      "Content": "please shut hotel occasional bathroom rude staff manager illegal credit cards deposit payed checking refund kicked messy smell prepayed 2 weeks advance disputing american express card charges contacted bbb health department san diego look disturbing reviews yelpcom",
+      "Date": "2011-09-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Potomac, Maryland",
+      "Title": "\u201cSold my prepaid three night room and greeted with apathy\u201d",
+      "Author": "6BQ",
+      "ReviewID": "UR97512690",
+      "Content": "prepaid month 5pm wednesday apology guy desk didnt care help finding someplace else answering phone 5 days business hours trying arrange refund looked cool business cares little customer buys worth looking stay goes based experience",
+      "Date": "2011-02-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cA hidden gem with excellent facilities with friendly staff\u201d",
+      "Author": "Lionheart_10",
+      "ReviewID": "UR67127514",
+      "Content": "treated prince hotel staff helpful local knowledge recommend hotel traveller short term term stay request attended ive hotel past 3 ive travelled america hotel close amenity town san diego close proximity",
+      "Date": "2010-06-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Occidental",
+    "HotelURL": "/ShowUserReviews-g60750-d590139-Reviews-Hotel_Occidental-San_Diego_California.html",
+    "Price": "0",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">410 Elm Street</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92101</span></span> </span> </span> </address>",
+    "HotelID": "590139",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/22/2e/80/freshly-trimmed-trees.jpg"
+  }
+}

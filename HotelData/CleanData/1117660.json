@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Belfast, United Kingdom", "Title": "\u201cAverage\u201d", "Author": "newjerseysuccesstory", "ReviewID": "UR127992766", "Content": "stayed friend towards november accommodation cancelled minute wasnt initally convinced taxi driver airport couldnt morning fantastic minutes repubblica underground station street lined loads shops restaurants fast food joints 2 mcdonalds burger king cant fault location staff reception lovely happy help directions else else wasnt wonderful reception staff bar staff lovely none staff bar nearly nice italian terrible automatically spoke english curt breakfast wasnt bad price basic basic hot water failed third day wheel bed broke night warm reason windows wouldnt add building site church door noise pub 3 morning directly beneath wasnt quietest fine students travellers fairly cheap else wouldnt suit", "Date": "2012-04-16 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Dublin, Ireland", "Title": "\u201cnot good\u201d", "Author": "mario m", "ReviewID": "UR125532946", "Content": "pub clean main loud music coming pub downstairs sunday breakfast available 0900 oclock check left breakfast didnt lose breakfast awfull", "Date": "2012-03-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Atlanta, Georgia", "Title": "\u201cAwesome location!\u201d", "Author": "CarolCoronel", "ReviewID": "UR110124772", "Content": "loved location breakfast building help leaving earlier time visit enjoy beautiful historical city underground couple blocks stores walking distance inconvenience check blocks actual building suitcases little overwhelming people traveling items restaurant suggestion la taverna dei monti via del boschetto 41 roma maybe 6 7 blocks dinner 3 6 days stayed rome fancy family restaurant food single plate phenomenal", "Date": "2011-05-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Glasgow, United Kingdom", "Title": "\u201cexcellent for rome\u201d", "Author": "claudiuuuu", "ReviewID": "UR103882359", "Content": "ve booked 6 nights night checked little claustrophobic emergency bigger gonna changed day bigger nice clean boy takes care wee gem don name hell job smiley lovley guy morning day cleaned towells bed happy service hot wateri don complain near building restaurant via firenze minute walk pub totally ve air con safe basically perfect mean literally walk apart vatican metro bus ve hassle free manager map indications simple restaurant roast potatoes food nicely cooked chef breakfast continental quest discount breakfast wich reccommend scrambled eggs wanna thank staff time taxi fare rome tariff 1", "Date": "2011-04-13 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Dublin, Ireland", "Title": "\u201cNo windows, noisy, bitten in room 12 times by mosquitoes at night\u201d", "Author": "OMcGovern", "ReviewID": "UR68650013", "Content": "stayed 103 pub location perfect 100 metres republica metro station isnt hotel half pub half hotel staff pub pub attention serving people bar windows 2x1 foot window locked door leading roof clean ensuite tv plenty stations found 2 english tv stations safety deposit box chilled minibar air conditioning unit didnt night lot noise various conditioning etc outside hotel various flat roofs brought foam earplugs solved issue 4 mosquitoes light sleep biting 12 bite marks moment id worried mosquitoes biting numerous guests disease red blood splattered remains 5 mosquitoes ceiling guests", "Date": "2010-06-25 00:00:00"}], "HotelInfo": {"Name": "Flann O'Brien Rooms", "HotelURL": "/ShowUserReviews-g187791-d1117660-Reviews-Flann_O_Brien_Rooms-Rome_Lazio.html", "Price": "$95 - $253*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Nazionale, 17</span>, <span class=\"locality\"><span property=\"v:postal-code\">00184</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "1117660", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/65/a4/65a46147ba8c911b00a7ce5a796bfe736large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Belfast, United Kingdom",
+      "Title": "\u201cAverage\u201d",
+      "Author": "newjerseysuccesstory",
+      "ReviewID": "UR127992766",
+      "Content": "stayed friend towards november accommodation cancelled minute wasnt initally convinced taxi driver airport couldnt morning fantastic minutes repubblica underground station street lined loads shops restaurants fast food joints 2 mcdonalds burger king cant fault location staff reception lovely happy help directions else else wasnt wonderful reception staff bar staff lovely none staff bar nearly nice italian terrible automatically spoke english curt breakfast wasnt bad price basic basic hot water failed third day wheel bed broke night warm reason windows wouldnt add building site church door noise pub 3 morning directly beneath wasnt quietest fine students travellers fairly cheap else wouldnt suit",
+      "Date": "2012-04-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Dublin, Ireland",
+      "Title": "\u201cnot good\u201d",
+      "Author": "mario m",
+      "ReviewID": "UR125532946",
+      "Content": "pub clean main loud music coming pub downstairs sunday breakfast available 0900 oclock check left breakfast didnt lose breakfast awfull",
+      "Date": "2012-03-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Atlanta, Georgia",
+      "Title": "\u201cAwesome location!\u201d",
+      "Author": "CarolCoronel",
+      "ReviewID": "UR110124772",
+      "Content": "loved location breakfast building help leaving earlier time visit enjoy beautiful historical city underground couple blocks stores walking distance inconvenience check blocks actual building suitcases little overwhelming people traveling items restaurant suggestion la taverna dei monti via del boschetto 41 roma maybe 6 7 blocks dinner 3 6 days stayed rome fancy family restaurant food single plate phenomenal",
+      "Date": "2011-05-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Glasgow, United Kingdom",
+      "Title": "\u201cexcellent for rome\u201d",
+      "Author": "claudiuuuu",
+      "ReviewID": "UR103882359",
+      "Content": "ve booked 6 nights night checked little claustrophobic emergency bigger gonna changed day bigger nice clean boy takes care wee gem don name hell job smiley lovley guy morning day cleaned towells bed happy service hot wateri don complain near building restaurant via firenze minute walk pub totally ve air con safe basically perfect mean literally walk apart vatican metro bus ve hassle free manager map indications simple restaurant roast potatoes food nicely cooked chef breakfast continental quest discount breakfast wich reccommend scrambled eggs wanna thank staff time taxi fare rome tariff 1",
+      "Date": "2011-04-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Dublin, Ireland",
+      "Title": "\u201cNo windows, noisy, bitten in room 12 times by mosquitoes at night\u201d",
+      "Author": "OMcGovern",
+      "ReviewID": "UR68650013",
+      "Content": "stayed 103 pub location perfect 100 metres republica metro station isnt hotel half pub half hotel staff pub pub attention serving people bar windows 2x1 foot window locked door leading roof clean ensuite tv plenty stations found 2 english tv stations safety deposit box chilled minibar air conditioning unit didnt night lot noise various conditioning etc outside hotel various flat roofs brought foam earplugs solved issue 4 mosquitoes light sleep biting 12 bite marks moment id worried mosquitoes biting numerous guests disease red blood splattered remains 5 mosquitoes ceiling guests",
+      "Date": "2010-06-25 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Flann O'Brien Rooms",
+    "HotelURL": "/ShowUserReviews-g187791-d1117660-Reviews-Flann_O_Brien_Rooms-Rome_Lazio.html",
+    "Price": "$95 - $253*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Nazionale, 17</span>, <span class=\"locality\"><span property=\"v:postal-code\">00184</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "1117660",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/65/a4/65a46147ba8c911b00a7ce5a796bfe736large.jpg"
+  }
+}

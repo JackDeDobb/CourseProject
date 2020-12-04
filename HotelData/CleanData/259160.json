@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Harelbeke, Belgium", "Title": "\u201cgood hotel, bad food\u201d", "Author": "Posted by an Accorhotels.com traveler", "ReviewID": "UR109791861", "Content": "stay am disapointed food served fish smelly fresh day food buffet looked dried dry cucumber club sandwich chips sandwich ok chips bad potato strips soaked fat french fries flyer breakfast served weekdays 600 sunday 630 sunday breakfast 630 flatscreen lobby breakfast served 700 overall breakfast oka nice hotel location kitchen quality improvement", "Date": "2011-05-25 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Bingen am Rhein, Germany", "Title": "\u201cDo not go here (unless you like food poisoning)\u201d", "Author": "Fischgericht", "ReviewID": "UR68032810", "Content": "usually happy novotel novotel santa fe serious management issues booked 3 nights business trip colleage location nice besides construction site hotel hotel build results outside hotel closed lots noise windows thats started eat hotel restaurant evening chicken cordon bleu chicken served fried ours ago cut middle warmed cheese gone hard instead melted color orange meat extremely dried finish complained waitress shocked dish served dessert bad flan creme caramel involves raw egg fresh gone bad bite noting immediately egg gone bad stay lot time restroom night morning breakfast bad scrambled eggs appeared hours etc addition cleaning hasnt arrived windows dirty morning 8am waking floor knocking door clothes cleaned terrible idea 4pm cleaning booked 3 nights decided im getting food time booked nearby hotel front desk tell checking telling detail happened didnt excuse instead told check booked 3 nights demanded speak manager told excuses manager house half hour telling assistance manager lie basically speak manager threaten charge amount credit card hour finally called real manager excuse lot promised investigate able check paying single night stayed unpleasant stay hotel hotel audit novotel urgently hotel nice current recommend", "Date": "2010-06-20 00:00:00"}], "HotelInfo": {"Name": "Novotel Mexico Santa Fe", "HotelURL": "/ShowUserReviews-g150800-d259160-Reviews-Novotel_Mexico_Santa_Fe-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$91 - $148*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Antonio Dovali Jaime 75</span> | <span class=\"extended-address\">Col Centro de Ciudad</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">01210</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "259160", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/62/ba/af/hotel-facade.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Harelbeke, Belgium",
+      "Title": "\u201cgood hotel, bad food\u201d",
+      "Author": "Posted by an Accorhotels.com traveler",
+      "ReviewID": "UR109791861",
+      "Content": "stay am disapointed food served fish smelly fresh day food buffet looked dried dry cucumber club sandwich chips sandwich ok chips bad potato strips soaked fat french fries flyer breakfast served weekdays 600 sunday 630 sunday breakfast 630 flatscreen lobby breakfast served 700 overall breakfast oka nice hotel location kitchen quality improvement",
+      "Date": "2011-05-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bingen am Rhein, Germany",
+      "Title": "\u201cDo not go here (unless you like food poisoning)\u201d",
+      "Author": "Fischgericht",
+      "ReviewID": "UR68032810",
+      "Content": "usually happy novotel novotel santa fe serious management issues booked 3 nights business trip colleage location nice besides construction site hotel hotel build results outside hotel closed lots noise windows thats started eat hotel restaurant evening chicken cordon bleu chicken served fried ours ago cut middle warmed cheese gone hard instead melted color orange meat extremely dried finish complained waitress shocked dish served dessert bad flan creme caramel involves raw egg fresh gone bad bite noting immediately egg gone bad stay lot time restroom night morning breakfast bad scrambled eggs appeared hours etc addition cleaning hasnt arrived windows dirty morning 8am waking floor knocking door clothes cleaned terrible idea 4pm cleaning booked 3 nights decided im getting food time booked nearby hotel front desk tell checking telling detail happened didnt excuse instead told check booked 3 nights demanded speak manager told excuses manager house half hour telling assistance manager lie basically speak manager threaten charge amount credit card hour finally called real manager excuse lot promised investigate able check paying single night stayed unpleasant stay hotel hotel audit novotel urgently hotel nice current recommend",
+      "Date": "2010-06-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Novotel Mexico Santa Fe",
+    "HotelURL": "/ShowUserReviews-g150800-d259160-Reviews-Novotel_Mexico_Santa_Fe-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$91 - $148*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Antonio Dovali Jaime 75</span> | <span class=\"extended-address\">Col Centro de Ciudad</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">01210</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "259160",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/62/ba/af/hotel-facade.jpg"
+  }
+}

@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "CultureSleuth", "Title": "\u201cBest Customer Service of Any Courtyard I've Visited\u201d", "Author": "CultureSleuth", "ReviewID": "UR125824102", "Content": "feel welcome appreciated wont typically courtyard exercise assortment machines hotel credit lobby modern social meeting comfortable wine selection food loved asian chicken salad night appreciated entire staff friendly attitude notably nick secure chrissy couldnt serviceoriented bistro shuttle driver fun efficient courtyard anytime return indy", "Date": "2012-03-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Cleveland, Ohio", "Title": "\u201cExcellent Service\u201d", "Author": "pedalmom", "ReviewID": "UR125424730", "Content": "stay night flying front desk clerk excellent kindly offered pay reasonable amount cars hotel trip airport parking shuttle comes half hour convenient coming airport lobby nice fresh decorating quiet pleasant beds unusually uncomfortable marriott courtyard", "Date": "2012-02-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "West Hartford, Connecticut", "Title": "\u201cGood if traveling through\u201d", "Author": "Int_Bus_Travel", "ReviewID": "UR124886421", "Content": "hotel youre looking quick access airport passing indianapolis i70 staff check friendly efficient helpful lobby redone courtyard modern style nice snack drink computer kiosks free wireless welcomed adequate special youre looking nights sleep pool hot tub pretty standard courtyard seen denver maybe rochester appreciated day worse", "Date": "2012-02-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "michigan", "Title": "\u201cGreat service, easy to find, great room\u201d", "Author": "alleycat96", "ReviewID": "UR118585312", "Content": "stayed 1 night girls night 8 saloon check easy clean raymond checked quickly attentive info helped arrange transportation venue pleasant clean beds comfy stay definitely stay didnt hear airplanes", "Date": "2011-09-25 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "University Heights, Ohio", "Title": "\u201cGreat place to stay when going to see the Indy 500\u201d", "Author": "JasonC12", "ReviewID": "UR88957740", "Content": "beautiful courtyard stunning lobby hotel located close airport terrific stay attending indy 500 standard courtyard comfortable clean attractive downtown indianapolis 10 minute drive", "Date": "2010-12-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Urbandale, Iowa", "Title": "\u201cGreat place! Wish we could have enjoyed it more.\u201d", "Author": "ccg001", "ReviewID": "UR85222166", "Content": "late neighborhood name price deals time thisi glad arrived 115 morning basically headed straight bed beds nice clean comfortablegreat linens lots pillows able explore bit morning noticed flat screen tv plastic wrapped real glass glasses theyre clean pool fitness center surprisingly nice especially fitness center looked slightly hotel newly redone lobby fantastic nice business center free useand free wifi staff friendly wish time described checked business center print map definitely stay", "Date": "2010-10-28 00:00:00"}], "HotelInfo": {"Name": "Courtyard by Marriott Indianapolis Airport", "HotelURL": "/ShowUserReviews-g37209-d91609-Reviews-Courtyard_by_Marriott_Indianapolis_Airport-Indianapolis_Indiana.html", "Price": "$116 - $163*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2602 Fortune Circle East</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46241</span></span> </span> </span> </address>", "HotelID": "91609", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fc/7d/fc7d8f2ac74dc1b731377a54a5a010fb1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "CultureSleuth",
+      "Title": "\u201cBest Customer Service of Any Courtyard I've Visited\u201d",
+      "Author": "CultureSleuth",
+      "ReviewID": "UR125824102",
+      "Content": "feel welcome appreciated wont typically courtyard exercise assortment machines hotel credit lobby modern social meeting comfortable wine selection food loved asian chicken salad night appreciated entire staff friendly attitude notably nick secure chrissy couldnt serviceoriented bistro shuttle driver fun efficient courtyard anytime return indy",
+      "Date": "2012-03-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Cleveland, Ohio",
+      "Title": "\u201cExcellent Service\u201d",
+      "Author": "pedalmom",
+      "ReviewID": "UR125424730",
+      "Content": "stay night flying front desk clerk excellent kindly offered pay reasonable amount cars hotel trip airport parking shuttle comes half hour convenient coming airport lobby nice fresh decorating quiet pleasant beds unusually uncomfortable marriott courtyard",
+      "Date": "2012-02-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "West Hartford, Connecticut",
+      "Title": "\u201cGood if traveling through\u201d",
+      "Author": "Int_Bus_Travel",
+      "ReviewID": "UR124886421",
+      "Content": "hotel youre looking quick access airport passing indianapolis i70 staff check friendly efficient helpful lobby redone courtyard modern style nice snack drink computer kiosks free wireless welcomed adequate special youre looking nights sleep pool hot tub pretty standard courtyard seen denver maybe rochester appreciated day worse",
+      "Date": "2012-02-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "michigan",
+      "Title": "\u201cGreat service, easy to find, great room\u201d",
+      "Author": "alleycat96",
+      "ReviewID": "UR118585312",
+      "Content": "stayed 1 night girls night 8 saloon check easy clean raymond checked quickly attentive info helped arrange transportation venue pleasant clean beds comfy stay definitely stay didnt hear airplanes",
+      "Date": "2011-09-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "University Heights, Ohio",
+      "Title": "\u201cGreat place to stay when going to see the Indy 500\u201d",
+      "Author": "JasonC12",
+      "ReviewID": "UR88957740",
+      "Content": "beautiful courtyard stunning lobby hotel located close airport terrific stay attending indy 500 standard courtyard comfortable clean attractive downtown indianapolis 10 minute drive",
+      "Date": "2010-12-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Urbandale, Iowa",
+      "Title": "\u201cGreat place! Wish we could have enjoyed it more.\u201d",
+      "Author": "ccg001",
+      "ReviewID": "UR85222166",
+      "Content": "late neighborhood name price deals time thisi glad arrived 115 morning basically headed straight bed beds nice clean comfortablegreat linens lots pillows able explore bit morning noticed flat screen tv plastic wrapped real glass glasses theyre clean pool fitness center surprisingly nice especially fitness center looked slightly hotel newly redone lobby fantastic nice business center free useand free wifi staff friendly wish time described checked business center print map definitely stay",
+      "Date": "2010-10-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Courtyard by Marriott Indianapolis Airport",
+    "HotelURL": "/ShowUserReviews-g37209-d91609-Reviews-Courtyard_by_Marriott_Indianapolis_Airport-Indianapolis_Indiana.html",
+    "Price": "$116 - $163*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2602 Fortune Circle East</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46241</span></span> </span> </span> </address>",
+    "HotelID": "91609",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fc/7d/fc7d8f2ac74dc1b731377a54a5a010fb1large.jpg"
+  }
+}

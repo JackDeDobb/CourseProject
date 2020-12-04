@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "St. Cloud, MN", "Title": "\u201cFriendly staff -- Average room\u201d", "Author": "rkight57", "ReviewID": "UR127568231", "Content": "stayed hotel april 4th april 9th staff extremely friendly average rating entirely due set amenities stay courtyards whenever near business recreation actually seen courtyard doesnt refrigerator microwave main reasons choose cheaper hotels staying days nice amenity able stuff cold microwave popcorn anyway courtyard able request refrigerator happened available guess expect standard courtyards mirror outlet mirror didnt dont care hair wife daughter housekeeping floor substandard minimum courtyard pool center hotel absolutely wonderful", "Date": "2012-04-09 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 1.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Carlsbad, California", "Title": "\u201cNice Hotel - poor experience.\u201d", "Author": "pipermama", "ReviewID": "UR126920572", "Content": "family spent nights hotel mar 23 24 2012 double queen overlooking pool enjoyed sitting balcony 2 chairs table nice roomy offered free wifi disappointed minifridge otherwise typical courtyard marriott ate breakfast morning downstairs loungedining offer standard buffet cooked breakfast limited choices wait staff attentive friendly food fancy prepared complaint guests 130 am night music loudly themselves loud 30 minutes apparent settling night called front desk family awake unable sleep past noise front desk sent night watchman check 215 heard phone ring expected music quiet people cranked music partied 430 am morning breakfast told front desk woman experience pretty shrugged otherwise hotel average rating customer service apologetic especially consideration im marriott gold stay marriott hotels realize staff control individual guests measure incidents", "Date": "2012-03-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Colleyville, Texas", "Title": "\u201cExcellent Service\u201d", "Author": "Ken H", "ReviewID": "UR124768930", "Content": "left hotel didnt realize untill returned home eveing email inbox julie operations manager housekeeping found bedside table julie ship pick trip thanks houskeeping julie travel phoenix stay hotel", "Date": "2012-02-18 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Wakefield, RI", "Title": "\u201cFairly new Fairfield/Courtyard - 20 mins from PHX airport\u201d", "Author": "edtoby007", "ReviewID": "UR100177328", "Content": "fairly 2 combo property fairfield courtyard adjoined built \u201cl\u201d shape it\u2019s outskirts chandler route 101 20 mins airport appears cater nearby businesses opposed leisure traveler hallway joins hotels check modern look bistro etc fairfield inn suites variety stayed nights noticed fairfield desk clerk late night morning sign directs desk free breakfast fairfield pay free usa wall street journal fast internet limited tv channels 40 restaurants walking distance dozens 1015 minutes lots upscale shopping hotels excellent shape clean comfortable nice exercise decently sized pool hotel hundreds acres flat land apparently ready development day else hotel you\u2019re jogger dirt trail property stay phoenix lot found hotels amongst inexpensive marriott properties seasonal hotel demand they\u2019ve built properties advance expectation business demand moment summer months marriott properties drop rates feasible upscale resort type property 100 i\u2019m 100 degree heat", "Date": "2011-03-14 00:00:00"}], "HotelInfo": {"Name": "Courtyard by Marriott Phoenix North", "HotelURL": "/ShowUserReviews-g31310-d73751-Reviews-Courtyard_by_Marriott_Phoenix_North-Phoenix_Arizona.html", "Price": "$90 - $147*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">9631 North Black Canyon Highway</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85021</span></span> </span></span></address>", "HotelID": "73751", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/62/a6/62a6fa594781170753a9ed7c815655793large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "St. Cloud, MN",
+      "Title": "\u201cFriendly staff -- Average room\u201d",
+      "Author": "rkight57",
+      "ReviewID": "UR127568231",
+      "Content": "stayed hotel april 4th april 9th staff extremely friendly average rating entirely due set amenities stay courtyards whenever near business recreation actually seen courtyard doesnt refrigerator microwave main reasons choose cheaper hotels staying days nice amenity able stuff cold microwave popcorn anyway courtyard able request refrigerator happened available guess expect standard courtyards mirror outlet mirror didnt dont care hair wife daughter housekeeping floor substandard minimum courtyard pool center hotel absolutely wonderful",
+      "Date": "2012-04-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Carlsbad, California",
+      "Title": "\u201cNice Hotel - poor experience.\u201d",
+      "Author": "pipermama",
+      "ReviewID": "UR126920572",
+      "Content": "family spent nights hotel mar 23 24 2012 double queen overlooking pool enjoyed sitting balcony 2 chairs table nice roomy offered free wifi disappointed minifridge otherwise typical courtyard marriott ate breakfast morning downstairs loungedining offer standard buffet cooked breakfast limited choices wait staff attentive friendly food fancy prepared complaint guests 130 am night music loudly themselves loud 30 minutes apparent settling night called front desk family awake unable sleep past noise front desk sent night watchman check 215 heard phone ring expected music quiet people cranked music partied 430 am morning breakfast told front desk woman experience pretty shrugged otherwise hotel average rating customer service apologetic especially consideration im marriott gold stay marriott hotels realize staff control individual guests measure incidents",
+      "Date": "2012-03-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Colleyville, Texas",
+      "Title": "\u201cExcellent Service\u201d",
+      "Author": "Ken H",
+      "ReviewID": "UR124768930",
+      "Content": "left hotel didnt realize untill returned home eveing email inbox julie operations manager housekeeping found bedside table julie ship pick trip thanks houskeeping julie travel phoenix stay hotel",
+      "Date": "2012-02-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Wakefield, RI",
+      "Title": "\u201cFairly new Fairfield/Courtyard - 20 mins from PHX airport\u201d",
+      "Author": "edtoby007",
+      "ReviewID": "UR100177328",
+      "Content": "fairly 2 combo property fairfield courtyard adjoined built \u201cl\u201d shape it\u2019s outskirts chandler route 101 20 mins airport appears cater nearby businesses opposed leisure traveler hallway joins hotels check modern look bistro etc fairfield inn suites variety stayed nights noticed fairfield desk clerk late night morning sign directs desk free breakfast fairfield pay free usa wall street journal fast internet limited tv channels 40 restaurants walking distance dozens 1015 minutes lots upscale shopping hotels excellent shape clean comfortable nice exercise decently sized pool hotel hundreds acres flat land apparently ready development day else hotel you\u2019re jogger dirt trail property stay phoenix lot found hotels amongst inexpensive marriott properties seasonal hotel demand they\u2019ve built properties advance expectation business demand moment summer months marriott properties drop rates feasible upscale resort type property 100 i\u2019m 100 degree heat",
+      "Date": "2011-03-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Courtyard by Marriott Phoenix North",
+    "HotelURL": "/ShowUserReviews-g31310-d73751-Reviews-Courtyard_by_Marriott_Phoenix_North-Phoenix_Arizona.html",
+    "Price": "$90 - $147*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">9631 North Black Canyon Highway</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85021</span></span> </span></span></address>",
+    "HotelID": "73751",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/62/a6/62a6fa594781170753a9ed7c815655793large.jpg"
+  }
+}

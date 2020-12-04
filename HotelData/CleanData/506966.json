@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cGreat location\u201d", "Author": "Crys_travels5", "ReviewID": "UR139063275", "Content": "visited doing construction scaffolding front overall hotel newly laptop hotel located minutes gran via subway station mcdonalds 10 minute walk sol ton restaurantscafes including pan breads corner location shopping literally steps hm zara etc willl lots stores sol el corte ingles road sol shopping time madrid visited family warning occassion prostitute hanging near alleyway buzz overall pleasant stay stay hotels recommend families budget", "Date": "2012-09-01 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Munich", "Title": "\u201cPerfect location\u201d", "Author": "idelgado", "ReviewID": "UR126897837", "Content": "nicely located hotel special nice weekend value money smell bit weird dont air freshener definitely spacious bathroom ok service bad reviewers posted basic", "Date": "2012-03-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Long Beach, California", "Title": "\u201cPU!\u201d", "Author": "Marcasso", "ReviewID": "UR124314787", "Content": "sewage smell bad hold breath halls bad location greatthe greatthe service omg smell bad left leave hotel immediately entertainment watching prostitutes corner dont harmless", "Date": "2012-02-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "New Orleans, Louisiana", "Title": "\u201cnot bad for a 3-star hotel\u201d", "Author": "nolafoodlover", "ReviewID": "UR93217393", "Content": "found hotel decent value location hotel breakfast excellent cold cuts hot bacon eggs breads cereals yogurt fruit hot coffee fresh juice churros hot chocolate nice mornings san gines close heartier balanced breakfast wont close hotel breakfast price 8 kids especially convenient families kids elderly paid 4 twin beds folddown bunkbed style called family book nice pay upfront additional beds hotels squishy space laying luggage table desk drawers clothes constantly laying luggage bed dig familys clothes closet five hangers free private safe operable ones credit card bathroom spacious counterspace ones toiletries hook nice shower steam massage function hotel wellmaintained worn edges daughter nicked finger showerhead metal coil unraveling hotel promptly fixed hair rolled covers animal hairs wool disgust hotel petfriendly advance booked hotel believe pretty clean dust bunnies grime locationwise major thoroughfare found proximity attractions walkable time fetched taxis night temperature drop 15yr daughter loved retail areathe hotel door hms gran via slept night didnt hear street noise heater except floors chilly draft coming balcony doors covers comfortable free wifi laptop lobby im hesitant recommend hotel pet dont mind idea price yes recommendable location family", "Date": "2011-01-16 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Leeds, United Kingdom", "Title": "\u201cGreat hotel in central location\u201d", "Author": "thefunkiestmunky", "ReviewID": "UR70941581", "Content": "hotel clean modern showers central sightseeing staff friendly speak basic english theres free safe public internet foyer hotel crowd middle gay pride", "Date": "2010-07-14 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Donegal", "Title": "\u201cGreat Location but A/C a bit noisy\u201d", "Author": "antrimhurler", "ReviewID": "UR58400703", "Content": "stayed madrid 3 nights location excellent close metro stops main tourist staff helpful arrival giving information topics clean spacious quiet outside noise apart air conditioning light sleeper constant whirr noice fairness night porters offered alternative moral story meal glasses wine youll sleep sound", "Date": "2010-03-12 00:00:00"}], "HotelInfo": {"Name": "Petit Palace Italia", "HotelURL": "/ShowUserReviews-g187514-d506966-Reviews-Petit_Palace_Italia-Madrid.html", "Price": "$101 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gonzalo Jimenez de Quesada 2</span>, <span class=\"locality\"><span property=\"v:postal-code\">28004 </span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "506966", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6d/38/6d38c2ca28b32aba219317f494b232de6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cGreat location\u201d",
+      "Author": "Crys_travels5",
+      "ReviewID": "UR139063275",
+      "Content": "visited doing construction scaffolding front overall hotel newly laptop hotel located minutes gran via subway station mcdonalds 10 minute walk sol ton restaurantscafes including pan breads corner location shopping literally steps hm zara etc willl lots stores sol el corte ingles road sol shopping time madrid visited family warning occassion prostitute hanging near alleyway buzz overall pleasant stay stay hotels recommend families budget",
+      "Date": "2012-09-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Munich",
+      "Title": "\u201cPerfect location\u201d",
+      "Author": "idelgado",
+      "ReviewID": "UR126897837",
+      "Content": "nicely located hotel special nice weekend value money smell bit weird dont air freshener definitely spacious bathroom ok service bad reviewers posted basic",
+      "Date": "2012-03-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Long Beach, California",
+      "Title": "\u201cPU!\u201d",
+      "Author": "Marcasso",
+      "ReviewID": "UR124314787",
+      "Content": "sewage smell bad hold breath halls bad location greatthe greatthe service omg smell bad left leave hotel immediately entertainment watching prostitutes corner dont harmless",
+      "Date": "2012-02-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "New Orleans, Louisiana",
+      "Title": "\u201cnot bad for a 3-star hotel\u201d",
+      "Author": "nolafoodlover",
+      "ReviewID": "UR93217393",
+      "Content": "found hotel decent value location hotel breakfast excellent cold cuts hot bacon eggs breads cereals yogurt fruit hot coffee fresh juice churros hot chocolate nice mornings san gines close heartier balanced breakfast wont close hotel breakfast price 8 kids especially convenient families kids elderly paid 4 twin beds folddown bunkbed style called family book nice pay upfront additional beds hotels squishy space laying luggage table desk drawers clothes constantly laying luggage bed dig familys clothes closet five hangers free private safe operable ones credit card bathroom spacious counterspace ones toiletries hook nice shower steam massage function hotel wellmaintained worn edges daughter nicked finger showerhead metal coil unraveling hotel promptly fixed hair rolled covers animal hairs wool disgust hotel petfriendly advance booked hotel believe pretty clean dust bunnies grime locationwise major thoroughfare found proximity attractions walkable time fetched taxis night temperature drop 15yr daughter loved retail areathe hotel door hms gran via slept night didnt hear street noise heater except floors chilly draft coming balcony doors covers comfortable free wifi laptop lobby im hesitant recommend hotel pet dont mind idea price yes recommendable location family",
+      "Date": "2011-01-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Leeds, United Kingdom",
+      "Title": "\u201cGreat hotel in central location\u201d",
+      "Author": "thefunkiestmunky",
+      "ReviewID": "UR70941581",
+      "Content": "hotel clean modern showers central sightseeing staff friendly speak basic english theres free safe public internet foyer hotel crowd middle gay pride",
+      "Date": "2010-07-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Donegal",
+      "Title": "\u201cGreat Location but A/C a bit noisy\u201d",
+      "Author": "antrimhurler",
+      "ReviewID": "UR58400703",
+      "Content": "stayed madrid 3 nights location excellent close metro stops main tourist staff helpful arrival giving information topics clean spacious quiet outside noise apart air conditioning light sleeper constant whirr noice fairness night porters offered alternative moral story meal glasses wine youll sleep sound",
+      "Date": "2010-03-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Petit Palace Italia",
+    "HotelURL": "/ShowUserReviews-g187514-d506966-Reviews-Petit_Palace_Italia-Madrid.html",
+    "Price": "$101 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gonzalo Jimenez de Quesada 2</span>, <span class=\"locality\"><span property=\"v:postal-code\">28004 </span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "506966",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6d/38/6d38c2ca28b32aba219317f494b232de6large.jpg"
+  }
+}

@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Omaha, Nebraska", "Title": "\u201cRipped Off\u201d", "Author": "pam k", "ReviewID": "UR127353290", "Content": "wish read reviews paid line father law thru hot arrived told credit card file hot wire requirement called becasue hot wire credit card anyway paid hotwire confirmation told card charged morning checked bank account charged 30 returned departure pending charge moment told holding card pending 30 returned bank dispute 30 people scam red carpet suck", "Date": "2012-04-06 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Auburn, Alabama", "Title": "\u201c\"Never Again\"\u201d", "Author": "Kelly V", "ReviewID": "UR124624208", "Content": "booked whirlpool suite romantic getaway online hotelcom day expected arrived day told overbooked unable whirlpool suite wasnt notified arrival instead offered double bed price paid whirlpool suite call hotelcom 4 oclock cancel reservation book hotel seriously inconvenient apparently walkin arrived 30 time booked suite online suite instead appeared low staff wouldnt recommend hotel plans ruined due", "Date": "2012-02-15 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "FLORIDA", "Title": "\u201cGOOD PLACE IF YOU ARE JUST LOOKING FOR SOMEWHERE TO SLEEP\u201d", "Author": "handyman28560", "ReviewID": "UR55658327", "Content": "nola saturday superbowl party military slept pleasant view skewed bit average try traveling solo male adults isnt bad base camp 7 minutes east fq car highway 2000 taxi ride pay park depending what\u00e2\u20ac\u2122s fq park ok 5 hours sleep clean heater taking family restaurants exit eat call day breakfast\u00e2\u20ac\ufffd gas station front hotel little eatery breakfast biscuits reasonable price it\u00e2\u20ac\u2122s restaurant worst hotel nola party logistics takes fq don\u00e2\u20ac\u2122t dd", "Date": "2010-02-10 00:00:00"}], "HotelInfo": {"Name": "Red Carpet Inn & Suites", "HotelURL": "/ShowUserReviews-g60864-d241705-Reviews-Red_Carpet_Inn_Suites-New_Orleans_Louisiana.html", "Price": "$58 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">6050 Chef Menteur Highway</span>, <span class=\"locality\"><span property=\"v:locality\">New Orleans</span>, <span property=\"v:region\">LA</span> <span property=\"v:postal-code\">70126</span></span> </span></span></address>", "HotelID": "241705", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2f/1f/2f1fb788d594181a2b4ffd8206d7f4521large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Omaha, Nebraska",
+      "Title": "\u201cRipped Off\u201d",
+      "Author": "pam k",
+      "ReviewID": "UR127353290",
+      "Content": "wish read reviews paid line father law thru hot arrived told credit card file hot wire requirement called becasue hot wire credit card anyway paid hotwire confirmation told card charged morning checked bank account charged 30 returned departure pending charge moment told holding card pending 30 returned bank dispute 30 people scam red carpet suck",
+      "Date": "2012-04-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Auburn, Alabama",
+      "Title": "\u201c\"Never Again\"\u201d",
+      "Author": "Kelly V",
+      "ReviewID": "UR124624208",
+      "Content": "booked whirlpool suite romantic getaway online hotelcom day expected arrived day told overbooked unable whirlpool suite wasnt notified arrival instead offered double bed price paid whirlpool suite call hotelcom 4 oclock cancel reservation book hotel seriously inconvenient apparently walkin arrived 30 time booked suite online suite instead appeared low staff wouldnt recommend hotel plans ruined due",
+      "Date": "2012-02-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "FLORIDA",
+      "Title": "\u201cGOOD PLACE IF YOU ARE JUST LOOKING FOR SOMEWHERE TO SLEEP\u201d",
+      "Author": "handyman28560",
+      "ReviewID": "UR55658327",
+      "Content": "nola saturday superbowl party military slept pleasant view skewed bit average try traveling solo male adults isnt bad base camp 7 minutes east fq car highway 2000 taxi ride pay park depending what\u00e2\u20ac\u2122s fq park ok 5 hours sleep clean heater taking family restaurants exit eat call day breakfast\u00e2\u20ac\ufffd gas station front hotel little eatery breakfast biscuits reasonable price it\u00e2\u20ac\u2122s restaurant worst hotel nola party logistics takes fq don\u00e2\u20ac\u2122t dd",
+      "Date": "2010-02-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Red Carpet Inn & Suites",
+    "HotelURL": "/ShowUserReviews-g60864-d241705-Reviews-Red_Carpet_Inn_Suites-New_Orleans_Louisiana.html",
+    "Price": "$58 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">6050 Chef Menteur Highway</span>, <span class=\"locality\"><span property=\"v:locality\">New Orleans</span>, <span property=\"v:region\">LA</span> <span property=\"v:postal-code\">70126</span></span> </span></span></address>",
+    "HotelID": "241705",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2f/1f/2f1fb788d594181a2b4ffd8206d7f4521large.jpg"
+  }
+}

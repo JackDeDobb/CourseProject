@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Moscow, Russia", "Title": "\u201cBridal Tea House in Hung Hom\u201d", "Author": "IrinaPoms", "ReviewID": "UR131950543", "Content": "stayed hotel 2012 found bad reviews read clean beds comfy toilet shower clean staff helpful english location minutes walk hung hom mrt lot restaurants nearby enjoyed stay recommend hotel budget travellers", "Date": "2012-06-14 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "New Delhi, India", "Title": "\u201cHow do they plan to build such miniature rooms?\u201d", "Author": "jacky c", "ReviewID": "UR122469382", "Content": "dont people stand lie called twin bedsthe called ac effective controlled youno bag okbut cockroach dont offered free", "Date": "2012-01-03 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Melbourne", "Title": "\u201cMake sure to book the DELUXE room !\u201d", "Author": "RaniGirl", "ReviewID": "UR69406169", "Content": "stayed time booked net arrival entered hotel seen life print outs getting told pics deluxe extra night twice size couch etc highly recommend hotel staff pleasant helpful 10 minute walk subway system heaps buses doorstep yourself map", "Date": "2010-07-02 00:00:00"}], "HotelInfo": {"Name": "Bridal Tea House Hotel (Hung Hom - Wuhu Street)", "HotelURL": "/ShowUserReviews-g294217-d627800-Reviews-Bridal_Tea_House_Hotel_Hung_Hom_Wuhu_Street-Hong_Kong.html", "Price": "$72 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.84-86 Wuhu Street</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>", "HotelID": "627800", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/65/d4/dd/wuhu-st-branch.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Moscow, Russia",
+      "Title": "\u201cBridal Tea House in Hung Hom\u201d",
+      "Author": "IrinaPoms",
+      "ReviewID": "UR131950543",
+      "Content": "stayed hotel 2012 found bad reviews read clean beds comfy toilet shower clean staff helpful english location minutes walk hung hom mrt lot restaurants nearby enjoyed stay recommend hotel budget travellers",
+      "Date": "2012-06-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "New Delhi, India",
+      "Title": "\u201cHow do they plan to build such miniature rooms?\u201d",
+      "Author": "jacky c",
+      "ReviewID": "UR122469382",
+      "Content": "dont people stand lie called twin bedsthe called ac effective controlled youno bag okbut cockroach dont offered free",
+      "Date": "2012-01-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Melbourne",
+      "Title": "\u201cMake sure to book the DELUXE room !\u201d",
+      "Author": "RaniGirl",
+      "ReviewID": "UR69406169",
+      "Content": "stayed time booked net arrival entered hotel seen life print outs getting told pics deluxe extra night twice size couch etc highly recommend hotel staff pleasant helpful 10 minute walk subway system heaps buses doorstep yourself map",
+      "Date": "2010-07-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Bridal Tea House Hotel (Hung Hom - Wuhu Street)",
+    "HotelURL": "/ShowUserReviews-g294217-d627800-Reviews-Bridal_Tea_House_Hotel_Hung_Hom_Wuhu_Street-Hong_Kong.html",
+    "Price": "$72 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.84-86 Wuhu Street</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>",
+    "HotelID": "627800",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/65/d4/dd/wuhu-st-branch.jpg"
+  }
+}

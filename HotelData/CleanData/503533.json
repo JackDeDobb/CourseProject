@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Bussum, The Netherlands", "Title": "\u201cvery nice, friendly and pleasant\u201d", "Author": "jhundt", "ReviewID": "UR120431089", "Content": "stayed hotel street cultural arts center friends performing looking map removed center madrid easy reach via metro airport accesible metro station outside hotel puerta del sol station 10 minutes neighborhood totally nontourist suits fine found suitable restaurants bars easy walking distance hotel staff friendly helpful english 4th floor streetside compared seen europe attractively decorated wellkept cleaned bed comfortable except crazy pillows spacious bathroom wellequipped breakfast ok cafeteria pleasant garage didnt 3 nights actually cost price quoted reserved online summary nice wellequipped hotel friendly service attractive rates easily accesible situated real madrid neighborhood minutes heart city", "Date": "2011-11-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Birmingham", "Title": "\u201cCity Break with Extras\u201d", "Author": "BirminghamMezza", "ReviewID": "UR118620156", "Content": "friend stayed hotel october suprised type accomodation offered friendly staff shaped plenty wardrobe space fridge seating enourmous bathroom seperate shower sunken bath vanity unit hairdryer fluffy white towels nicely decorated quality linen definetly recommend hotel daily rate reasonable benefit kettle lacking occasion hotel benefits bus service outside metro service road taxi rank madrid chic bistros pubs tapas bars medium sized supermarkets various amenties approx 3040 minutes centre madrid public transport quicker via metro taxi happy sightseeing enjoy amigos", "Date": "2011-09-26 00:00:00"}], "HotelInfo": {"Name": "Hotel Gran Legazpi", "HotelURL": "/ShowUserReviews-g187514-d503533-Reviews-Hotel_Gran_Legazpi-Madrid.html", "Price": "$63 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Paseo de la Chopera, 71</span>, <span class=\"locality\"><span property=\"v:postal-code\">28045</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "503533", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/af/11/af11e543a3b4963950e105bf959d93e91large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bussum, The Netherlands",
+      "Title": "\u201cvery nice, friendly and pleasant\u201d",
+      "Author": "jhundt",
+      "ReviewID": "UR120431089",
+      "Content": "stayed hotel street cultural arts center friends performing looking map removed center madrid easy reach via metro airport accesible metro station outside hotel puerta del sol station 10 minutes neighborhood totally nontourist suits fine found suitable restaurants bars easy walking distance hotel staff friendly helpful english 4th floor streetside compared seen europe attractively decorated wellkept cleaned bed comfortable except crazy pillows spacious bathroom wellequipped breakfast ok cafeteria pleasant garage didnt 3 nights actually cost price quoted reserved online summary nice wellequipped hotel friendly service attractive rates easily accesible situated real madrid neighborhood minutes heart city",
+      "Date": "2011-11-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Birmingham",
+      "Title": "\u201cCity Break with Extras\u201d",
+      "Author": "BirminghamMezza",
+      "ReviewID": "UR118620156",
+      "Content": "friend stayed hotel october suprised type accomodation offered friendly staff shaped plenty wardrobe space fridge seating enourmous bathroom seperate shower sunken bath vanity unit hairdryer fluffy white towels nicely decorated quality linen definetly recommend hotel daily rate reasonable benefit kettle lacking occasion hotel benefits bus service outside metro service road taxi rank madrid chic bistros pubs tapas bars medium sized supermarkets various amenties approx 3040 minutes centre madrid public transport quicker via metro taxi happy sightseeing enjoy amigos",
+      "Date": "2011-09-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Gran Legazpi",
+    "HotelURL": "/ShowUserReviews-g187514-d503533-Reviews-Hotel_Gran_Legazpi-Madrid.html",
+    "Price": "$63 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Paseo de la Chopera, 71</span>, <span class=\"locality\"><span property=\"v:postal-code\">28045</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "503533",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/af/11/af11e543a3b4963950e105bf959d93e91large.jpg"
+  }
+}

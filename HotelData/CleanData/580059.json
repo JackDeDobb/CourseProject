@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Alexandria, Virginia, United States", "Title": "\u201cBest value hotel I've stayed at.\u201d", "Author": "Bridget B", "ReviewID": "UR137806027", "Content": "5star hotel gladly 5star rating fantastic stay highly recommend value block boardwalk clean table chairs sleeper sofa bathroom clean complain mildew smell yes apparent beach hotel stayed reason carpet nice rug wasnt expecting fridge microwave clean pillows soft flat reviews bring pillows bed comfy quiet love", "Date": "2012-08-20 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Pittsburgh, Pennsylvania", "Title": "\u201cWhat a shame. Do not let the outside looks confuse you.\u201d", "Author": "Mary K", "ReviewID": "UR136377663", "Content": "august 3rd 4th 2012 checked 300 pm exactly bathroom mold growing look shower stall scrubbed beds weak pillows flat ac barely thank god spend time location internet service available day commode front desk hours ok bathroom office left hour", "Date": "2012-08-06 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "bainbridge, pa", "Title": "\u201cHORRIBLE\u201d", "Author": "yeager42002", "ReviewID": "UR86513175", "Content": "found else stay short notice decided whim pack stay night ocean city 1 night immediately door tiles missing bathroom microwave disgusting bath mat piece paper broken missing wallpaper holes walls etc told due season september happen months run piece crap money time else home", "Date": "2010-11-09 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Baltimore, Maryland", "Title": "\u201cDirty A** Place\u201d", "Author": "nmiller0922", "ReviewID": "UR76523551", "Content": "thinking health dept shut refundable nasty checked bed bed bugs paneling coming wall microwave looked cleaned toilet 15 mins fill flush worth 25000 weekend", "Date": "2010-08-23 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Ephrata, Pennsylvania", "Title": "\u201cAsked for refund within minutes\u201d", "Author": "12caleb", "ReviewID": "UR73732041", "Content": "office standing outside smoking waited keys friends lugged stuff 2nd floor reeked mold baseboard heater couple pieces floor panelling wall falling microwave covered rust etc stuff car demand refund guy nerve tell normally twice charged vacancy town ill hold half hour close ocean thats microwave rusty consider", "Date": "2010-08-04 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Aberdeen, Maryland", "Title": "\u201cWorst Stay Ever - Avoid If You Like a Clean Room\u201d", "Author": "marylandhomie", "ReviewID": "UR67299566", "Content": "disgusting stayed reviews completely dont major maintained walk towels soap bath mat sitting bed microwave minifridge worn rusted look thrift store phone alarm clock bathroom modest didnt look bad water temperature shower sink constantly change hot cold def wore sandals shower tho towels smelled someones booty yuk lay pulled sheet blood stain guy front desk change sheets ones mystery stain putting flat sheets bed friend cut night 3 night stay couldnt vacancy mean time stay", "Date": "2010-06-12 00:00:00"}], "HotelInfo": {"Name": "Knights Inn Ocean City", "HotelURL": "/ShowUserReviews-g41298-d580059-Reviews-Knights_Inn_Ocean_City-Ocean_City_Maryland.html", "Price": "$68 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">201 North Baltimore Avenue</span>, <span class=\"extended-address\">Corner of 2nd Street</span>, <span class=\"locality\"><span property=\"v:locality\">Ocean City</span>, <span property=\"v:region\">MD</span> <span property=\"v:postal-code\">21842</span></span> (Formerly Sea Breeze Motel)</span></span></address>", "HotelID": "580059", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d6/59/d6590c1b2434722bfd26c184400dd9813large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Alexandria, Virginia, United States",
+      "Title": "\u201cBest value hotel I've stayed at.\u201d",
+      "Author": "Bridget B",
+      "ReviewID": "UR137806027",
+      "Content": "5star hotel gladly 5star rating fantastic stay highly recommend value block boardwalk clean table chairs sleeper sofa bathroom clean complain mildew smell yes apparent beach hotel stayed reason carpet nice rug wasnt expecting fridge microwave clean pillows soft flat reviews bring pillows bed comfy quiet love",
+      "Date": "2012-08-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Pittsburgh, Pennsylvania",
+      "Title": "\u201cWhat a shame. Do not let the outside looks confuse you.\u201d",
+      "Author": "Mary K",
+      "ReviewID": "UR136377663",
+      "Content": "august 3rd 4th 2012 checked 300 pm exactly bathroom mold growing look shower stall scrubbed beds weak pillows flat ac barely thank god spend time location internet service available day commode front desk hours ok bathroom office left hour",
+      "Date": "2012-08-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "bainbridge, pa",
+      "Title": "\u201cHORRIBLE\u201d",
+      "Author": "yeager42002",
+      "ReviewID": "UR86513175",
+      "Content": "found else stay short notice decided whim pack stay night ocean city 1 night immediately door tiles missing bathroom microwave disgusting bath mat piece paper broken missing wallpaper holes walls etc told due season september happen months run piece crap money time else home",
+      "Date": "2010-11-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Baltimore, Maryland",
+      "Title": "\u201cDirty A** Place\u201d",
+      "Author": "nmiller0922",
+      "ReviewID": "UR76523551",
+      "Content": "thinking health dept shut refundable nasty checked bed bed bugs paneling coming wall microwave looked cleaned toilet 15 mins fill flush worth 25000 weekend",
+      "Date": "2010-08-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Ephrata, Pennsylvania",
+      "Title": "\u201cAsked for refund within minutes\u201d",
+      "Author": "12caleb",
+      "ReviewID": "UR73732041",
+      "Content": "office standing outside smoking waited keys friends lugged stuff 2nd floor reeked mold baseboard heater couple pieces floor panelling wall falling microwave covered rust etc stuff car demand refund guy nerve tell normally twice charged vacancy town ill hold half hour close ocean thats microwave rusty consider",
+      "Date": "2010-08-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Aberdeen, Maryland",
+      "Title": "\u201cWorst Stay Ever - Avoid If You Like a Clean Room\u201d",
+      "Author": "marylandhomie",
+      "ReviewID": "UR67299566",
+      "Content": "disgusting stayed reviews completely dont major maintained walk towels soap bath mat sitting bed microwave minifridge worn rusted look thrift store phone alarm clock bathroom modest didnt look bad water temperature shower sink constantly change hot cold def wore sandals shower tho towels smelled someones booty yuk lay pulled sheet blood stain guy front desk change sheets ones mystery stain putting flat sheets bed friend cut night 3 night stay couldnt vacancy mean time stay",
+      "Date": "2010-06-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Knights Inn Ocean City",
+    "HotelURL": "/ShowUserReviews-g41298-d580059-Reviews-Knights_Inn_Ocean_City-Ocean_City_Maryland.html",
+    "Price": "$68 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">201 North Baltimore Avenue</span>, <span class=\"extended-address\">Corner of 2nd Street</span>, <span class=\"locality\"><span property=\"v:locality\">Ocean City</span>, <span property=\"v:region\">MD</span> <span property=\"v:postal-code\">21842</span></span> (Formerly Sea Breeze Motel)</span></span></address>",
+    "HotelID": "580059",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d6/59/d6590c1b2434722bfd26c184400dd9813large.jpg"
+  }
+}

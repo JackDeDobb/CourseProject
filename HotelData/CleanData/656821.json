@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Cape Girardeau, Missouri", "Title": "\u201cExcellent Location, Good Hotel\u201d", "Author": "SwampeastMike", "ReviewID": "UR120627728", "Content": "midway aksaray metro stop red line leads ataturk airport metro stop middle blue line short ride sultanamet grand bazaar spice bazaar golden horn etc location ideal comfortable beds bath reasonably sized excellent buffet breakfast stayed night due nearly 24hour layover staying days price somewhat inline similar hotels", "Date": "2011-11-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Aosta, Italy", "Title": "\u201cGood hotel\u201d", "Author": "lucais", "ReviewID": "UR95263293", "Content": "recommend hotel price cheap hotel clean staff friendly helpful breakfast plentiful addition location optimal 2 minutes tram stop takes center 5 minutes metro close recommend flaw size yourselves facing street noisy", "Date": "2011-02-02 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Vienna, Austria", "Title": "\u201cnice cheap hotel in Aksaray\u201d", "Author": "permaneworldtraveler", "ReviewID": "UR83112491", "Content": "hotel central 2 metrostations aksaray airport changing line narrow street local traffic takes 15 min tramway historical center reach istanbul feet restaurants nearby touristic ones guests turkish recommend 4th floor theres little view breakfast buffet renovated negative tv antenna didnt channels english ones due lower rates deal stay center dont pay sultanahmet district", "Date": "2010-10-12 00:00:00"}], "HotelInfo": {"Name": "Bern Otel", "HotelURL": "/ShowUserReviews-g293974-d656821-Reviews-Bern_Otel-Istanbul.html", "Price": "$72 - $115*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Millet Cd. Muratpasa Sk. No 4</span> | <span class=\"extended-address\">Aksaray</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34240</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "656821", "ImgURL": "http://www.venere.com/img/hotel/9/9/3/7/257399/257399.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Cape Girardeau, Missouri",
+      "Title": "\u201cExcellent Location, Good Hotel\u201d",
+      "Author": "SwampeastMike",
+      "ReviewID": "UR120627728",
+      "Content": "midway aksaray metro stop red line leads ataturk airport metro stop middle blue line short ride sultanamet grand bazaar spice bazaar golden horn etc location ideal comfortable beds bath reasonably sized excellent buffet breakfast stayed night due nearly 24hour layover staying days price somewhat inline similar hotels",
+      "Date": "2011-11-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Aosta, Italy",
+      "Title": "\u201cGood hotel\u201d",
+      "Author": "lucais",
+      "ReviewID": "UR95263293",
+      "Content": "recommend hotel price cheap hotel clean staff friendly helpful breakfast plentiful addition location optimal 2 minutes tram stop takes center 5 minutes metro close recommend flaw size yourselves facing street noisy",
+      "Date": "2011-02-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Vienna, Austria",
+      "Title": "\u201cnice cheap hotel in Aksaray\u201d",
+      "Author": "permaneworldtraveler",
+      "ReviewID": "UR83112491",
+      "Content": "hotel central 2 metrostations aksaray airport changing line narrow street local traffic takes 15 min tramway historical center reach istanbul feet restaurants nearby touristic ones guests turkish recommend 4th floor theres little view breakfast buffet renovated negative tv antenna didnt channels english ones due lower rates deal stay center dont pay sultanahmet district",
+      "Date": "2010-10-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Bern Otel",
+    "HotelURL": "/ShowUserReviews-g293974-d656821-Reviews-Bern_Otel-Istanbul.html",
+    "Price": "$72 - $115*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Millet Cd. Muratpasa Sk. No 4</span> | <span class=\"extended-address\">Aksaray</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34240</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "656821",
+    "ImgURL": "http://www.venere.com/img/hotel/9/9/3/7/257399/257399.jpg"
+  }
+}

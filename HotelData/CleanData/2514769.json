@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Edinburgh, United Kingdom", "Title": "\u201cGreat location\u201d", "Author": "seacatb", "ReviewID": "UR118438782", "Content": "hotel location 5 mins notre dame 10 mins lovely jardin du luxembourg bit expensive air con 2 star hotel staff helpful nice easy breakfast bit noisy nights", "Date": "2011-09-22 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "uk", "Title": "\u201cbasic\u201d", "Author": "magdzicka", "ReviewID": "UR107411843", "Content": "mentioned reviews hotel tiny cramped breakfast tables 29 mean breakfat desired wait till people gone limited choice food start anyones day ok clean staff helpful occasion return hotel door locked reception meant wait outside happened location presence pub street guests wake times stay", "Date": "2011-05-08 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Germany", "Title": "\u201cPretty but a lot missing\u201d", "Author": "RogerThornhill", "ReviewID": "UR75395551", "Content": "impression hotel plain pretty literary motif beautifully dark wood bookshelves look nicely complementing architecture building issues beyond aesthetics staff line standards french customer service day half front desk manned person hour except annoyed nice clean bit cramped obviously double converted triple tiny breakfast crowded morning people opted eat staircase people waiting tables uncomfortable forced rush meal food choices typical continental day departure wife lobby bathroom locked door broken excellent location downsides overall spotty experience awful rate average", "Date": "2010-08-16 00:00:00"}], "HotelInfo": {"Name": "Hotel Quartier Latin", "HotelURL": "/ShowUserReviews-g187147-d198049-Reviews-Hotel_Quartier_Latin-Paris_Ile_de_France.html", "Price": "$200 - $344*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">9 rue des Ecoles</span>, <span class=\"locality\"><span property=\"v:postal-code\">75005</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>", "HotelID": "2514769", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8d/d9/8dd97af4c4f9f25827edebd702c6f3934large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Edinburgh, United Kingdom",
+      "Title": "\u201cGreat location\u201d",
+      "Author": "seacatb",
+      "ReviewID": "UR118438782",
+      "Content": "hotel location 5 mins notre dame 10 mins lovely jardin du luxembourg bit expensive air con 2 star hotel staff helpful nice easy breakfast bit noisy nights",
+      "Date": "2011-09-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "uk",
+      "Title": "\u201cbasic\u201d",
+      "Author": "magdzicka",
+      "ReviewID": "UR107411843",
+      "Content": "mentioned reviews hotel tiny cramped breakfast tables 29 mean breakfat desired wait till people gone limited choice food start anyones day ok clean staff helpful occasion return hotel door locked reception meant wait outside happened location presence pub street guests wake times stay",
+      "Date": "2011-05-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Germany",
+      "Title": "\u201cPretty but a lot missing\u201d",
+      "Author": "RogerThornhill",
+      "ReviewID": "UR75395551",
+      "Content": "impression hotel plain pretty literary motif beautifully dark wood bookshelves look nicely complementing architecture building issues beyond aesthetics staff line standards french customer service day half front desk manned person hour except annoyed nice clean bit cramped obviously double converted triple tiny breakfast crowded morning people opted eat staircase people waiting tables uncomfortable forced rush meal food choices typical continental day departure wife lobby bathroom locked door broken excellent location downsides overall spotty experience awful rate average",
+      "Date": "2010-08-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Quartier Latin",
+    "HotelURL": "/ShowUserReviews-g187147-d198049-Reviews-Hotel_Quartier_Latin-Paris_Ile_de_France.html",
+    "Price": "$200 - $344*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">9 rue des Ecoles</span>, <span class=\"locality\"><span property=\"v:postal-code\">75005</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>",
+    "HotelID": "2514769",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8d/d9/8dd97af4c4f9f25827edebd702c6f3934large.jpg"
+  }
+}

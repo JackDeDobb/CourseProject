@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Tucson, Arizona", "Title": "\u201cWhat a dump\u201d", "Author": "Bob_101_10", "ReviewID": "UR120613885", "Content": "hotel town run larger postage stamp microwave refrigerator barely cooled temperature control tv parking biggest issue limited shared restuarant door drive larger compact trouble stay", "Date": "2011-11-15 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Los Angeles, California", "Title": "\u201cDirty Hotel and Unethical Management\u201d", "Author": "JRichey442", "ReviewID": "UR120510948", "Content": "paid five nights orbitz arrival found noisy person door drilling banging walls bathtub water mold none available refund told contact orbitz day able refund owner available day clerk refused payment 5 nights sleep park night third day tried refund night refused unsuccessful desk clerk call taxi day checkout called taxi charged 50 flat rate normally 15 fare bus station worst experience motel", "Date": "2011-11-12 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Vancouver, Canada", "Title": "\u201crude service, unhelpfull, not a nice experience\u201d", "Author": "Natalia075", "ReviewID": "UR84401833", "Content": "arrived little 2 told ready check checkin 4 noticed crapy little pillow laughed boy friend finally decided office door takes pillow office calls door standing front getting pillow office 1 bad motel sucks ok close dont thai asian cuisine food drive dirty pool pit customers trip advisor stoked read reviews cause bad ones stay motel", "Date": "2010-10-22 00:00:00"}], "HotelInfo": {"Name": "Americas Best Value Inn - Hollywood / Los Angeles", "HotelURL": "/ShowUserReviews-g32655-d549431-Reviews-Americas_Best_Value_Inn_Hollywood_Los_Angeles-Los_Angeles_California.html", "Price": "$72 - $92*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5265 W. Sunset Blvd</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">90027</span></span> </span></span></address>", "HotelID": "549431", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5b/e1/5be1bb459797c1a6095941310588dab73large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Tucson, Arizona",
+      "Title": "\u201cWhat a dump\u201d",
+      "Author": "Bob_101_10",
+      "ReviewID": "UR120613885",
+      "Content": "hotel town run larger postage stamp microwave refrigerator barely cooled temperature control tv parking biggest issue limited shared restuarant door drive larger compact trouble stay",
+      "Date": "2011-11-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Los Angeles, California",
+      "Title": "\u201cDirty Hotel and Unethical Management\u201d",
+      "Author": "JRichey442",
+      "ReviewID": "UR120510948",
+      "Content": "paid five nights orbitz arrival found noisy person door drilling banging walls bathtub water mold none available refund told contact orbitz day able refund owner available day clerk refused payment 5 nights sleep park night third day tried refund night refused unsuccessful desk clerk call taxi day checkout called taxi charged 50 flat rate normally 15 fare bus station worst experience motel",
+      "Date": "2011-11-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Vancouver, Canada",
+      "Title": "\u201crude service, unhelpfull, not a nice experience\u201d",
+      "Author": "Natalia075",
+      "ReviewID": "UR84401833",
+      "Content": "arrived little 2 told ready check checkin 4 noticed crapy little pillow laughed boy friend finally decided office door takes pillow office calls door standing front getting pillow office 1 bad motel sucks ok close dont thai asian cuisine food drive dirty pool pit customers trip advisor stoked read reviews cause bad ones stay motel",
+      "Date": "2010-10-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Americas Best Value Inn - Hollywood / Los Angeles",
+    "HotelURL": "/ShowUserReviews-g32655-d549431-Reviews-Americas_Best_Value_Inn_Hollywood_Los_Angeles-Los_Angeles_California.html",
+    "Price": "$72 - $92*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5265 W. Sunset Blvd</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">90027</span></span> </span></span></address>",
+    "HotelID": "549431",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5b/e1/5be1bb459797c1a6095941310588dab73large.jpg"
+  }
+}

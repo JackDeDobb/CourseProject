@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Abu Dhabi", "Title": "\u201cNot nice!\u201d", "Author": "NicoleAbuDhabi", "ReviewID": "UR118347015", "Content": "husband stayed recommend hotel clean breakfast extremely rude staff istanbul choose nice hotels sultanahmet nicer cheaper multiple reasons hotel 1 staff rude helpful reservation started 15th arrived 16th ready rude lady reception told ready 12 reservation started day ago annoyed giving evil looks 2 single bedsi downstairs bed reserved literally started yelling saying reservation standard doesnt shocked shout discussions eventually told maybe bed ready husband celebrating engagement birthday imagine horrible start day 2 taxis bring hotels rip heres story evening staff taxi fare 20 tl else staff offered call taxi waiting outside taxi didnt husband stop taxi street hotel staff told please wait taxi coming unfortunately waited taxi arrived guy told meter 65 tl 3 times normal fare agree drives meter 45 tl twice normal fare husband told meter drove circles hour realized hes driving opposite car hour near metro station metro coincidence hotel insisted wait particular taxi 3 terrible breakfast look forward 4 walls thin hear neighbors talking shouting using shower toilet hear hallway speaking hear 5 ac loud leave time 6 soap beginning bath towel 7 dark window facing interior yard towards breakfast 8 bed pillows uncomfortable 9 hotel sultanahmet claim 5 minutes tram station 3 tram stations sultanahmet bottom line horrible experience please dont choose hotel istanbul city shame remember bad experience", "Date": "2011-09-20 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Helsinki, Finland", "Title": "\u201cSerious problems with cleanliness\u201d", "Author": "TroubledAditi", "ReviewID": "UR82312527", "Content": "stayed 2010 hotel suitable option intend lot sightseeing sultanahmet wont spend time hotel nice view mosque poor maintenance dusty dirty cleaning staff didnt change plastic bag bathroom rubbish bin rubbish decided change bag discovered rubbish bin dirty hands smelled couple hours afterwards despite washing hotel amenities free charge customers using tiny pool rooftop costs 10 euro ground floor sauna cost 30 dollars hotel favoured russian tourist russian satellite channels tv didnt sultanahmet especially vendors streets grand bazaar pushy talking russian am russian look touristy stay taksim instead sultanahmet istanbul public transport ticket costs 15 lira hop metro straight atat\u00e3\u00bcrk airport asian twice fun ride ferry bosphorus docks catch ferry", "Date": "2010-10-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "syria", "Title": "\u201c.Elegant hotel!!\u201d", "Author": "ghalia-alshareef", "ReviewID": "UR68625769", "Content": "stay tow wonderfulwe feel ourselves home becouse kindness reception staff reservation untill leave istanbul thier act rule hotelyou alot hotels testy food clean nice view respect cant polite staff grand staff thanx mohamed family", "Date": "2010-06-25 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Tehran, Iran", "Title": "\u201cA very comfortable hotel\u201d", "Author": "Maryamjoon", "ReviewID": "UR66270416", "Content": "husband children sept 2009 1 week dark hot despite istanbuls pleasant wether additional fan helped sleep staff specially receptionists friendly respectful location near shopping centers hotel stay", "Date": "2010-06-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "milano", "Title": "\u201cso beautiful, so good ... the TOP\u201d", "Author": "belloexplorer", "ReviewID": "UR59321948", "Content": "friends friendly trying available cheap services top panorama beautiful mosque near sevices ci le", "Date": "2010-03-23 00:00:00"}], "HotelInfo": {"Name": "Grand Hotel Gulsoy", "HotelURL": "/ShowUserReviews-g293974-d502358-Reviews-Grand_Hotel_Gulsoy-Istanbul.html", "Price": "$117 - $209*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Sehzadebasi Old City</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34134</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "502358", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b1/90/b19048a0cf2e91e817c65365c59824884large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Abu Dhabi",
+      "Title": "\u201cNot nice!\u201d",
+      "Author": "NicoleAbuDhabi",
+      "ReviewID": "UR118347015",
+      "Content": "husband stayed recommend hotel clean breakfast extremely rude staff istanbul choose nice hotels sultanahmet nicer cheaper multiple reasons hotel 1 staff rude helpful reservation started 15th arrived 16th ready rude lady reception told ready 12 reservation started day ago annoyed giving evil looks 2 single bedsi downstairs bed reserved literally started yelling saying reservation standard doesnt shocked shout discussions eventually told maybe bed ready husband celebrating engagement birthday imagine horrible start day 2 taxis bring hotels rip heres story evening staff taxi fare 20 tl else staff offered call taxi waiting outside taxi didnt husband stop taxi street hotel staff told please wait taxi coming unfortunately waited taxi arrived guy told meter 65 tl 3 times normal fare agree drives meter 45 tl twice normal fare husband told meter drove circles hour realized hes driving opposite car hour near metro station metro coincidence hotel insisted wait particular taxi 3 terrible breakfast look forward 4 walls thin hear neighbors talking shouting using shower toilet hear hallway speaking hear 5 ac loud leave time 6 soap beginning bath towel 7 dark window facing interior yard towards breakfast 8 bed pillows uncomfortable 9 hotel sultanahmet claim 5 minutes tram station 3 tram stations sultanahmet bottom line horrible experience please dont choose hotel istanbul city shame remember bad experience",
+      "Date": "2011-09-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Helsinki, Finland",
+      "Title": "\u201cSerious problems with cleanliness\u201d",
+      "Author": "TroubledAditi",
+      "ReviewID": "UR82312527",
+      "Content": "stayed 2010 hotel suitable option intend lot sightseeing sultanahmet wont spend time hotel nice view mosque poor maintenance dusty dirty cleaning staff didnt change plastic bag bathroom rubbish bin rubbish decided change bag discovered rubbish bin dirty hands smelled couple hours afterwards despite washing hotel amenities free charge customers using tiny pool rooftop costs 10 euro ground floor sauna cost 30 dollars hotel favoured russian tourist russian satellite channels tv didnt sultanahmet especially vendors streets grand bazaar pushy talking russian am russian look touristy stay taksim instead sultanahmet istanbul public transport ticket costs 15 lira hop metro straight atat\u00e3\u00bcrk airport asian twice fun ride ferry bosphorus docks catch ferry",
+      "Date": "2010-10-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "syria",
+      "Title": "\u201c.Elegant hotel!!\u201d",
+      "Author": "ghalia-alshareef",
+      "ReviewID": "UR68625769",
+      "Content": "stay tow wonderfulwe feel ourselves home becouse kindness reception staff reservation untill leave istanbul thier act rule hotelyou alot hotels testy food clean nice view respect cant polite staff grand staff thanx mohamed family",
+      "Date": "2010-06-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Tehran, Iran",
+      "Title": "\u201cA very comfortable hotel\u201d",
+      "Author": "Maryamjoon",
+      "ReviewID": "UR66270416",
+      "Content": "husband children sept 2009 1 week dark hot despite istanbuls pleasant wether additional fan helped sleep staff specially receptionists friendly respectful location near shopping centers hotel stay",
+      "Date": "2010-06-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "milano",
+      "Title": "\u201cso beautiful, so good ... the TOP\u201d",
+      "Author": "belloexplorer",
+      "ReviewID": "UR59321948",
+      "Content": "friends friendly trying available cheap services top panorama beautiful mosque near sevices ci le",
+      "Date": "2010-03-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Grand Hotel Gulsoy",
+    "HotelURL": "/ShowUserReviews-g293974-d502358-Reviews-Grand_Hotel_Gulsoy-Istanbul.html",
+    "Price": "$117 - $209*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Sehzadebasi Old City</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34134</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "502358",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b1/90/b19048a0cf2e91e817c65365c59824884large.jpg"
+  }
+}

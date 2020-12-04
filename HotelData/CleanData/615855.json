@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Cincinnati, Ohio", "Title": "\u201cNot such a good experience\u201d", "Author": "TravelerSP2010", "ReviewID": "UR123069076", "Content": "booked hotel expedia flight chicago hotel available story short middle brought yunus emre hotel told person front desk situation beds 150 night told stay night decide stay agreed choice day night sleep walking looking hotel found 3 beds didnt 3 beds hotel 3 minutes walking distance yunus emre 50 night checking yunus emre told front desk fair response customers negotiate lower rate opposite rate whenever goes unhappy hotel location clean building buildings town bathroom roof terrace serving breakfast hasnt renovations youll gigantic key key chain tv heatingcooling system elevator beds space left luggage luggage beds overall hotel price nearby", "Date": "2012-01-14 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "London", "Title": "\u201cbasic, excellent value, nice people, great location, clean\u201d", "Author": "travellingsalesmen", "ReviewID": "UR122866343", "Content": "stayed times istanbul basic guests locals personally liked laid please atmosphere picked airport free charge location perfect sightseeing look stay romantic trip ideal value money clean base", "Date": "2012-01-10 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Auckland", "Title": "\u201cCheap but not Cheerful\u201d", "Author": "MagsNZ", "ReviewID": "UR107848575", "Content": "booked hotel sent message explaining wed arriving 5am booked night prior told werent coming lucky hadnt istanbul night 20 mins explaining arrival time booking extra night finally window wide freezing bathroom dirty smelt bad mornings walls wet condensation bathroom breakfast smell eggs air vent smell eggs breakfast wasnt eggs didnt upside cheap blue mosque", "Date": "2011-05-11 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Riga, Latvia", "Title": "\u201cdefinetely not recommended\u201d", "Author": "ipoksane", "ReviewID": "UR107354950", "Content": "reservation trough venere com reliable site anymore stayed hotel 5 nights experienced strangest hospitality 14th visit istanbul checked pay moment check money payed nonrefundable 4th floor kitchen spending 10 minutes change hear single movement dish moved nr 202 pretty ok spacious pretty batroom website hotel promises view form terrace maybe summer season believe promised blue mosque sitting corner terrace owl cold terrace breakfast ok basic proper hotel day realised third day reception promised clean 5 days stay clean towels cleaned bathroom waste reception hotel late night basically choose key website safety boxes maybe mine wasnt inet times possibility computer answer broken regarding pictures website photographer reality shabby pictures time ago overall impersonal hotel seen istanbul", "Date": "2011-05-08 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Birmingham, United Kingdom", "Title": "\u201cnice friendly hotel\u201d", "Author": "0007hot", "ReviewID": "UR106629993", "Content": "stayed hotel weeks children time herethere computer wuth internet buffet breakfast friendly staff looking hotel 24hr hot location friendly staffthis", "Date": "2011-05-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Pebble Beach, California", "Title": "\u201cThis hotel, manager and staff is so friendly..We think that we are at home\u201d", "Author": "Kurtmen", "ReviewID": "UR100825048", "Content": "try yearwe love turkey stayed yunus emre hotel times time clean friendly feel safe hotel walking distance everyting transportation istanbul price location staff", "Date": "2011-03-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Leiden", "Title": "\u201cexcellent location, extremely helpful & friendly staff, view of Bosphorus from roof,clean\u201d", "Author": "MomandKiki", "ReviewID": "UR85609626", "Content": "stayed teenager children hotel located corner blue mosque pleasant staff friendly helpful clean equipped free internet recommended lovely stay", "Date": "2010-11-01 00:00:00"}], "HotelInfo": {"Name": "Hotel Yunus Emre", "HotelURL": "/ShowUserReviews-g293974-d615855-Reviews-Hotel_Yunus_Emre-Istanbul.html", "Price": "$72 - $98*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Sifa /Hamami no:14</span> | <span class=\"extended-address\">Sultanahmet</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34122</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "615855", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4e/37/4e373497d7b1c329be650d27716f21431large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Cincinnati, Ohio",
+      "Title": "\u201cNot such a good experience\u201d",
+      "Author": "TravelerSP2010",
+      "ReviewID": "UR123069076",
+      "Content": "booked hotel expedia flight chicago hotel available story short middle brought yunus emre hotel told person front desk situation beds 150 night told stay night decide stay agreed choice day night sleep walking looking hotel found 3 beds didnt 3 beds hotel 3 minutes walking distance yunus emre 50 night checking yunus emre told front desk fair response customers negotiate lower rate opposite rate whenever goes unhappy hotel location clean building buildings town bathroom roof terrace serving breakfast hasnt renovations youll gigantic key key chain tv heatingcooling system elevator beds space left luggage luggage beds overall hotel price nearby",
+      "Date": "2012-01-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cbasic, excellent value, nice people, great location, clean\u201d",
+      "Author": "travellingsalesmen",
+      "ReviewID": "UR122866343",
+      "Content": "stayed times istanbul basic guests locals personally liked laid please atmosphere picked airport free charge location perfect sightseeing look stay romantic trip ideal value money clean base",
+      "Date": "2012-01-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Auckland",
+      "Title": "\u201cCheap but not Cheerful\u201d",
+      "Author": "MagsNZ",
+      "ReviewID": "UR107848575",
+      "Content": "booked hotel sent message explaining wed arriving 5am booked night prior told werent coming lucky hadnt istanbul night 20 mins explaining arrival time booking extra night finally window wide freezing bathroom dirty smelt bad mornings walls wet condensation bathroom breakfast smell eggs air vent smell eggs breakfast wasnt eggs didnt upside cheap blue mosque",
+      "Date": "2011-05-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Riga, Latvia",
+      "Title": "\u201cdefinetely not recommended\u201d",
+      "Author": "ipoksane",
+      "ReviewID": "UR107354950",
+      "Content": "reservation trough venere com reliable site anymore stayed hotel 5 nights experienced strangest hospitality 14th visit istanbul checked pay moment check money payed nonrefundable 4th floor kitchen spending 10 minutes change hear single movement dish moved nr 202 pretty ok spacious pretty batroom website hotel promises view form terrace maybe summer season believe promised blue mosque sitting corner terrace owl cold terrace breakfast ok basic proper hotel day realised third day reception promised clean 5 days stay clean towels cleaned bathroom waste reception hotel late night basically choose key website safety boxes maybe mine wasnt inet times possibility computer answer broken regarding pictures website photographer reality shabby pictures time ago overall impersonal hotel seen istanbul",
+      "Date": "2011-05-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Birmingham, United Kingdom",
+      "Title": "\u201cnice friendly hotel\u201d",
+      "Author": "0007hot",
+      "ReviewID": "UR106629993",
+      "Content": "stayed hotel weeks children time herethere computer wuth internet buffet breakfast friendly staff looking hotel 24hr hot location friendly staffthis",
+      "Date": "2011-05-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Pebble Beach, California",
+      "Title": "\u201cThis hotel, manager and staff is so friendly..We think that we are at home\u201d",
+      "Author": "Kurtmen",
+      "ReviewID": "UR100825048",
+      "Content": "try yearwe love turkey stayed yunus emre hotel times time clean friendly feel safe hotel walking distance everyting transportation istanbul price location staff",
+      "Date": "2011-03-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Leiden",
+      "Title": "\u201cexcellent location, extremely helpful & friendly staff, view of Bosphorus from roof,clean\u201d",
+      "Author": "MomandKiki",
+      "ReviewID": "UR85609626",
+      "Content": "stayed teenager children hotel located corner blue mosque pleasant staff friendly helpful clean equipped free internet recommended lovely stay",
+      "Date": "2010-11-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Yunus Emre",
+    "HotelURL": "/ShowUserReviews-g293974-d615855-Reviews-Hotel_Yunus_Emre-Istanbul.html",
+    "Price": "$72 - $98*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Sifa /Hamami no:14</span> | <span class=\"extended-address\">Sultanahmet</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34122</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "615855",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4e/37/4e373497d7b1c329be650d27716f21431large.jpg"
+  }
+}

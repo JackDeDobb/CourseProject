@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Hamburg, Germany", "Title": "\u201cFamiliar environment\u201d", "Author": "Parafernalia", "ReviewID": "UR123461630", "Content": "hotel look outside step inside decent decoration taste friendly helpful personnel quiet simply equipped lot sun weather allows neighbourhood supports range choices eating drinking miss breakfast hotels terrace nice view temple occasionally pigeons walking roof makes cool waking average breakfast quality espresso personnel offered directly buffet drawback connection city centre takes time bus connection roughly 40 night scarcity itineraries included duration days heavy traffic load reach closest metro station ottaviano near sightseeing sites reception directions helpful", "Date": "2012-01-22 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Umbria", "Title": "\u201cI am sure better hotels are available for the same money.\u201d", "Author": "UmbrianContadino", "ReviewID": "UR57464654", "Content": "hotel adequate bedroom reading lights broken reported fixed bathroom tacky sink plug function lacked tlc staff polite breakfast ample location north rome olympic stadium located", "Date": "2010-03-01 00:00:00"}], "HotelInfo": {"Name": "Farnesina Hotel", "HotelURL": "/ShowUserReviews-g187791-d482634-Reviews-Farnesina_Hotel-Rome_Lazio.html", "Price": "$86 - $213*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via della Farnesina 23</span>, <span class=\"locality\"><span property=\"v:postal-code\">00194</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "482634", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/13/ce/13ce54b74e8a54db38c4337332eef40b7large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Hamburg, Germany",
+      "Title": "\u201cFamiliar environment\u201d",
+      "Author": "Parafernalia",
+      "ReviewID": "UR123461630",
+      "Content": "hotel look outside step inside decent decoration taste friendly helpful personnel quiet simply equipped lot sun weather allows neighbourhood supports range choices eating drinking miss breakfast hotels terrace nice view temple occasionally pigeons walking roof makes cool waking average breakfast quality espresso personnel offered directly buffet drawback connection city centre takes time bus connection roughly 40 night scarcity itineraries included duration days heavy traffic load reach closest metro station ottaviano near sightseeing sites reception directions helpful",
+      "Date": "2012-01-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Umbria",
+      "Title": "\u201cI am sure better hotels are available for the same money.\u201d",
+      "Author": "UmbrianContadino",
+      "ReviewID": "UR57464654",
+      "Content": "hotel adequate bedroom reading lights broken reported fixed bathroom tacky sink plug function lacked tlc staff polite breakfast ample location north rome olympic stadium located",
+      "Date": "2010-03-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Farnesina Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d482634-Reviews-Farnesina_Hotel-Rome_Lazio.html",
+    "Price": "$86 - $213*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via della Farnesina 23</span>, <span class=\"locality\"><span property=\"v:postal-code\">00194</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "482634",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/13/ce/13ce54b74e8a54db38c4337332eef40b7large.jpg"
+  }
+}

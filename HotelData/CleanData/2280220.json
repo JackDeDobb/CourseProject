@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Woodstock", "Title": "\u201cGlad I stayed here\u201d", "Author": "ronilynn777", "ReviewID": "UR128481763", "Content": "property clean convenient love field stayed night wish stayed outside attractive somewhat resort looking comfortable wish brought swimsuit outdoor pool inviting definite yes trip", "Date": "2012-04-23 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Las Vegas, Nevada", "Title": "\u201cFUTURISTIC BED AND BREAKFAST\u201d", "Author": "Anthony K", "ReviewID": "UR123974018", "Content": "nicest la quinta stayed upscale wood flooring granite counters bathroom furnishings contemporary fresh wifi flat panel tv friendly staff excellent exercise facilities business facilities laundry hot breakfast morning feel staying futuristic bed breakfast located near love field travel dallas convenient highly recommend property anthony", "Date": "2012-02-01 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Amarillo, Texas", "Title": "\u201cHigh hopes. . .dashed\u201d", "Author": "Klouisek", "ReviewID": "UR123215138", "Content": "read previous reviews facility accepted dogs travel therapy dogs prefer lqs facility beautiful lovely grounds easy spiffy customer service missing action reserved king single single queen single chair kitchen chair sit bed reeked carpet adhesive stood checkin counter twenty minutes clerk busy phone prompting finally placed call front woman complaining lack caring lq absolute absolutely care weeks complaining corporate level customer service received call manager credit 1000 waiting dogs stayed dallas dog ill rashes sneezing lots itching wonders carpet cleaning solutions adhesive smells strongly carpeting", "Date": "2012-01-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Las Vegas, Nevada", "Title": "\u201cBEST La Quinta We've Stayed In\u201d", "Author": "Moonette", "ReviewID": "UR122385518", "Content": "read reviews youll notice weve stayed lot lqs drive dog lqs pets absolute la quinta weve stayed yes brand weve stayed hotels nice lq clean bright comfortable bed comfortable hotel bed weve stayed time liked wood laminate flooring inside door wish american hotels laminate throughout sanitary bathroom upscale lqs furniture carpet contemporary glitch breakfast attendant forgot waffle iron waffles morning deal choices allinall experience dallas business id choose hotel didnt dog", "Date": "2012-01-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Austin, Texas", "Title": "\u201cBest value with beautiful clean rooms and friendly staff\u201d", "Author": "Joye F", "ReviewID": "UR121745363", "Content": "stayed hotel dec 2011 nice experience hotel brand clean staff friendly king suite microwave fridge flat screen tv price included breakfast choose fitness center wash machines guests pool looks nice little cold try time oh program sign free nights staying laquintas hotel chain changed past", "Date": "2011-12-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Fort Worth, Texas", "Title": "\u201cWonderful Experience\u201d", "Author": "Shiny J", "ReviewID": "UR121685259", "Content": "stayed property wonderful experience staff helpful courteous help nice filled chips candies fresh cold sandwich entire hotel clean smelled comfortable stay wonderful experience", "Date": "2011-12-12 00:00:00"}], "HotelInfo": {"Name": "La Quinta Inn & Suites Dallas Love Field", "HotelURL": "/ShowUserReviews-g55711-d2280220-Reviews-La_Quinta_Inn_Suites_Dallas_Love_Field-Dallas_Texas.html", "Price": "$84 - $119*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">8300 John W. Carpenter Fwy.</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75247</span></span> </span></span></address>", "HotelID": "2280220", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4c/b1/4cb1d68261c34ab3133b53127baf60053large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Woodstock",
+      "Title": "\u201cGlad I stayed here\u201d",
+      "Author": "ronilynn777",
+      "ReviewID": "UR128481763",
+      "Content": "property clean convenient love field stayed night wish stayed outside attractive somewhat resort looking comfortable wish brought swimsuit outdoor pool inviting definite yes trip",
+      "Date": "2012-04-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Las Vegas, Nevada",
+      "Title": "\u201cFUTURISTIC BED AND BREAKFAST\u201d",
+      "Author": "Anthony K",
+      "ReviewID": "UR123974018",
+      "Content": "nicest la quinta stayed upscale wood flooring granite counters bathroom furnishings contemporary fresh wifi flat panel tv friendly staff excellent exercise facilities business facilities laundry hot breakfast morning feel staying futuristic bed breakfast located near love field travel dallas convenient highly recommend property anthony",
+      "Date": "2012-02-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Amarillo, Texas",
+      "Title": "\u201cHigh hopes. . .dashed\u201d",
+      "Author": "Klouisek",
+      "ReviewID": "UR123215138",
+      "Content": "read previous reviews facility accepted dogs travel therapy dogs prefer lqs facility beautiful lovely grounds easy spiffy customer service missing action reserved king single single queen single chair kitchen chair sit bed reeked carpet adhesive stood checkin counter twenty minutes clerk busy phone prompting finally placed call front woman complaining lack caring lq absolute absolutely care weeks complaining corporate level customer service received call manager credit 1000 waiting dogs stayed dallas dog ill rashes sneezing lots itching wonders carpet cleaning solutions adhesive smells strongly carpeting",
+      "Date": "2012-01-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Las Vegas, Nevada",
+      "Title": "\u201cBEST La Quinta We've Stayed In\u201d",
+      "Author": "Moonette",
+      "ReviewID": "UR122385518",
+      "Content": "read reviews youll notice weve stayed lot lqs drive dog lqs pets absolute la quinta weve stayed yes brand weve stayed hotels nice lq clean bright comfortable bed comfortable hotel bed weve stayed time liked wood laminate flooring inside door wish american hotels laminate throughout sanitary bathroom upscale lqs furniture carpet contemporary glitch breakfast attendant forgot waffle iron waffles morning deal choices allinall experience dallas business id choose hotel didnt dog",
+      "Date": "2012-01-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Austin, Texas",
+      "Title": "\u201cBest value with beautiful clean rooms and friendly staff\u201d",
+      "Author": "Joye F",
+      "ReviewID": "UR121745363",
+      "Content": "stayed hotel dec 2011 nice experience hotel brand clean staff friendly king suite microwave fridge flat screen tv price included breakfast choose fitness center wash machines guests pool looks nice little cold try time oh program sign free nights staying laquintas hotel chain changed past",
+      "Date": "2011-12-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Fort Worth, Texas",
+      "Title": "\u201cWonderful Experience\u201d",
+      "Author": "Shiny J",
+      "ReviewID": "UR121685259",
+      "Content": "stayed property wonderful experience staff helpful courteous help nice filled chips candies fresh cold sandwich entire hotel clean smelled comfortable stay wonderful experience",
+      "Date": "2011-12-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "La Quinta Inn & Suites Dallas Love Field",
+    "HotelURL": "/ShowUserReviews-g55711-d2280220-Reviews-La_Quinta_Inn_Suites_Dallas_Love_Field-Dallas_Texas.html",
+    "Price": "$84 - $119*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">8300 John W. Carpenter Fwy.</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75247</span></span> </span></span></address>",
+    "HotelID": "2280220",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4c/b1/4cb1d68261c34ab3133b53127baf60053large.jpg"
+  }
+}

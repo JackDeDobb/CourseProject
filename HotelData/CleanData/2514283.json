@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Berlin", "Title": "\u201cPleasant very central\u201d", "Author": "James m", "ReviewID": "UR123206546", "Content": "stayed recently kensington park apartments stayed travel london home berlin noticed lots improvements accomodation cleanliness am happy customer nice warm staff location meet poeple londoni summer recommend regards james anthony", "Date": "2012-01-17 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Kolkata (Calcutta), India", "Title": "\u201cWorst Place - Avoid at any cost\u201d", "Author": "SUNKHAT", "ReviewID": "UR119169172", "Content": "stayed sep owner holiday gentleman entertained shown termites windows drawers filled garbage uncleaned bins smelly toilets cobwebs rodents trap refusing stay basement slightly uncleaned bins stained bedsheets corridor enter check earlier pay money cash card details left days issues charged placed card card company pls avoid worth location else property nightmare", "Date": "2011-10-11 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cWorse hotel experience thus far\u201d", "Author": "statusquo81", "ReviewID": "UR107506973", "Content": "arrived ensure day activities hotel management lazy struggled simplest paperwork hour checkin inside immediately smell mould dampness questionable overall cleanliness meant stay day heck ago wont anyway boy regret decision arriving late night hear dripping noise ceiling water dripping bed entire ceiling wet 4am evacuate nearby hotel worse bit unapologetic hotel manager plumber care offered decided worth effort despite looking hotel 4 morning actually managed reasonably priced infinitely accommodating alternative days discovered despite promising charge citing stayed anyway note water pouring bed wish worse enemy experience hence warning", "Date": "2011-05-09 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "dubai", "Title": "\u201cExtremely appalling hotel\u201d", "Author": "Traveller12319", "ReviewID": "UR104906996", "Content": "cleanliness hotel absolutely disgusting carpet smelt awful stains dust found feces toilet seat hallways dirty baggage random junk reception desk cluttered dusty furniture changed time tv black white im looked wiring coming electrical sockets extremely dangerous price quality stay booked online seen hand refund entering discovering disaster hotel top service horrendous extremely rude front desk unhelpful sarcastic unpleasant hotel location thats dreading days honestly downer time london", "Date": "2011-04-21 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cI'm not fussy, but....\u201d", "Author": "business_travellr63", "ReviewID": "UR83576479", "Content": "stayed front basement flat public cluttered dirty decorated cleaned decades disgusting grubby rodent traps television bathroom light curtains close bed sheets mattress ok else squalid stuck paid advance actually dog stay stayed cheap hotels expect money \u00a3150 night joke kensington leaving 2 showers feel grubby", "Date": "2010-10-15 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Lagos", "Title": "\u201cPoor Lodgings, Great Location\u201d", "Author": "omafolabomi", "ReviewID": "UR61851660", "Content": "stayed wife week 26th march 2nd april apartments poorly serviced filthy complaint proprietor gracious move basement location fantastic gentleman nonetheless stay frankly speaking", "Date": "2010-04-18 00:00:00"}], "HotelInfo": {"Name": "Kensington Park Apartments", "HotelURL": "/ShowUserReviews-g186338-d192076-Reviews-Kensington_Park_Apartments-London_England.html", "Price": "$188 - $252*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">58 Kensington Court</span> | <span class=\"extended-address\">Kensington</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">W8 5DG</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>", "HotelID": "2514283", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/03/e9/03e9276a665b8704b4c7f4e85bfdabb83large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Berlin",
+      "Title": "\u201cPleasant very central\u201d",
+      "Author": "James m",
+      "ReviewID": "UR123206546",
+      "Content": "stayed recently kensington park apartments stayed travel london home berlin noticed lots improvements accomodation cleanliness am happy customer nice warm staff location meet poeple londoni summer recommend regards james anthony",
+      "Date": "2012-01-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Kolkata (Calcutta), India",
+      "Title": "\u201cWorst Place - Avoid at any cost\u201d",
+      "Author": "SUNKHAT",
+      "ReviewID": "UR119169172",
+      "Content": "stayed sep owner holiday gentleman entertained shown termites windows drawers filled garbage uncleaned bins smelly toilets cobwebs rodents trap refusing stay basement slightly uncleaned bins stained bedsheets corridor enter check earlier pay money cash card details left days issues charged placed card card company pls avoid worth location else property nightmare",
+      "Date": "2011-10-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cWorse hotel experience thus far\u201d",
+      "Author": "statusquo81",
+      "ReviewID": "UR107506973",
+      "Content": "arrived ensure day activities hotel management lazy struggled simplest paperwork hour checkin inside immediately smell mould dampness questionable overall cleanliness meant stay day heck ago wont anyway boy regret decision arriving late night hear dripping noise ceiling water dripping bed entire ceiling wet 4am evacuate nearby hotel worse bit unapologetic hotel manager plumber care offered decided worth effort despite looking hotel 4 morning actually managed reasonably priced infinitely accommodating alternative days discovered despite promising charge citing stayed anyway note water pouring bed wish worse enemy experience hence warning",
+      "Date": "2011-05-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "dubai",
+      "Title": "\u201cExtremely appalling hotel\u201d",
+      "Author": "Traveller12319",
+      "ReviewID": "UR104906996",
+      "Content": "cleanliness hotel absolutely disgusting carpet smelt awful stains dust found feces toilet seat hallways dirty baggage random junk reception desk cluttered dusty furniture changed time tv black white im looked wiring coming electrical sockets extremely dangerous price quality stay booked online seen hand refund entering discovering disaster hotel top service horrendous extremely rude front desk unhelpful sarcastic unpleasant hotel location thats dreading days honestly downer time london",
+      "Date": "2011-04-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cI'm not fussy, but....\u201d",
+      "Author": "business_travellr63",
+      "ReviewID": "UR83576479",
+      "Content": "stayed front basement flat public cluttered dirty decorated cleaned decades disgusting grubby rodent traps television bathroom light curtains close bed sheets mattress ok else squalid stuck paid advance actually dog stay stayed cheap hotels expect money \u00a3150 night joke kensington leaving 2 showers feel grubby",
+      "Date": "2010-10-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Lagos",
+      "Title": "\u201cPoor Lodgings, Great Location\u201d",
+      "Author": "omafolabomi",
+      "ReviewID": "UR61851660",
+      "Content": "stayed wife week 26th march 2nd april apartments poorly serviced filthy complaint proprietor gracious move basement location fantastic gentleman nonetheless stay frankly speaking",
+      "Date": "2010-04-18 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Kensington Park Apartments",
+    "HotelURL": "/ShowUserReviews-g186338-d192076-Reviews-Kensington_Park_Apartments-London_England.html",
+    "Price": "$188 - $252*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">58 Kensington Court</span> | <span class=\"extended-address\">Kensington</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">W8 5DG</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>",
+    "HotelID": "2514283",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/03/e9/03e9276a665b8704b4c7f4e85bfdabb83large.jpg"
+  }
+}

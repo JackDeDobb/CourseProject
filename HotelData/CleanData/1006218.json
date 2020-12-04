@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Munich, Germany", "Title": "\u201cNext to Metro Station - Can be more clean !\u201d", "Author": "Barbra L", "ReviewID": "UR124474810", "Content": "stayed hotel couple times 2010 nicely located al barsha near intrest easy cab near metro station front desk staff sometimes attentive sometimes busy clean housekeeping clean properly stay cheap price prefer stay else quality", "Date": "2012-02-12 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "glasgow", "Title": "\u201cBusiness and quick stop great\u201d", "Author": "Superjohng", "ReviewID": "UR124150645", "Content": "stayed times 12 nights time equipped reception lobby frills location bad close mall emirates suited drop bags head mates meeting clean comfortable smell sewage slightly complained ten mins time", "Date": "2012-02-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Amman, Jordan", "Title": "\u201cGood Hotel, Good Location- but didnt like the smell of the couches\u201d", "Author": "SeemaAlidily", "ReviewID": "UR122909996", "Content": "location location hotel apartment barsha stay mall emirates ski dubai 5 minutes walking hotel metro station 3 minutes walking supermarket restaurants pharmacy front hotel apartment hair dresser ground floor hotel females hair nail time bed clean wc clean hot water clean day towels microwave fridge water heater cook tea nescafe day water tea coffee apartment parking free parking cars service service workers helpful smiling ready help time internet free wifi lobby didn\u2019t 1 smell couches living 2 internet 3 breakfast 4 smell elevator 5 tall 6 hair drier", "Date": "2012-01-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Amman, Jordan", "Title": "\u201cGood Hotel, Good Location- but didnt like the smell of the couches\u201d", "Author": "SeemaAlidily", "ReviewID": "UR122865555", "Content": "location hotel apartment barsha stay mall emirates ski dubai 5 minutes walking hotel metro station 3 minutes walking supermarket restaurants pharmacy front hotel apartment bed clean wc clean hot water clean day towels microwave fridge water heater cook tea nescafe day water tea coffee apartment hair dresser ground floor hotel females hair nail time free parking cars service workers helpful smiling ready help time free wifi lobby didn\u2019t 1 smell couches living 2 internet 3 breakfast 4 smell elevator 5 tall 6 hair drier", "Date": "2012-01-10 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cAverage but Would never recommend\u201d", "Author": "tari11", "ReviewID": "UR102376432", "Content": "average issues booked bedroom apartment clean 2nd bathroom foul smell complained care satyed 7 days 5 spent complaining recption pool water everytime reported puddle promised fixed overalll staff friendly dirty smelt funny funny", "Date": "2011-03-31 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "ABU DHABI", "Title": "\u201cvery basic nothing to talk about!!\u201d", "Author": "JOHNYDOE", "ReviewID": "UR89095724", "Content": "apartments block converted holiday accommodation tiles replacing entrance lifts ok price tired furniture leaking fridge en suite bathroom flooded dont fairly clean otherwise uncomfortable worn sleeper couch suitable indian breakfast lots basement parking own vehicle didnt walk mall town traffic nightmare prefer pay extra dhs 100 accommodation dubai cupboards fridge inside dirty preferred kitchen disappointed misled net pics stay barsha", "Date": "2010-12-05 00:00:00"}], "HotelInfo": {"Name": "Seven Sands Hotel Apartments", "HotelURL": "/ShowUserReviews-g295424-d1006218-Reviews-Seven_Sands_Hotel_Apartments-Dubai.html", "Price": "$109 - $980*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">P.O.Box 20313 Al Barsha</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span> <span property=\"v:postal-code\">20313</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "1006218", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/60/ae/60aeac227488cedd2fc90166bd1716e58large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Munich, Germany",
+      "Title": "\u201cNext to Metro Station - Can be more clean !\u201d",
+      "Author": "Barbra L",
+      "ReviewID": "UR124474810",
+      "Content": "stayed hotel couple times 2010 nicely located al barsha near intrest easy cab near metro station front desk staff sometimes attentive sometimes busy clean housekeeping clean properly stay cheap price prefer stay else quality",
+      "Date": "2012-02-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "glasgow",
+      "Title": "\u201cBusiness and quick stop great\u201d",
+      "Author": "Superjohng",
+      "ReviewID": "UR124150645",
+      "Content": "stayed times 12 nights time equipped reception lobby frills location bad close mall emirates suited drop bags head mates meeting clean comfortable smell sewage slightly complained ten mins time",
+      "Date": "2012-02-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Amman, Jordan",
+      "Title": "\u201cGood Hotel, Good Location- but didnt like the smell of the couches\u201d",
+      "Author": "SeemaAlidily",
+      "ReviewID": "UR122909996",
+      "Content": "location location hotel apartment barsha stay mall emirates ski dubai 5 minutes walking hotel metro station 3 minutes walking supermarket restaurants pharmacy front hotel apartment hair dresser ground floor hotel females hair nail time bed clean wc clean hot water clean day towels microwave fridge water heater cook tea nescafe day water tea coffee apartment parking free parking cars service service workers helpful smiling ready help time internet free wifi lobby didn\u2019t 1 smell couches living 2 internet 3 breakfast 4 smell elevator 5 tall 6 hair drier",
+      "Date": "2012-01-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Amman, Jordan",
+      "Title": "\u201cGood Hotel, Good Location- but didnt like the smell of the couches\u201d",
+      "Author": "SeemaAlidily",
+      "ReviewID": "UR122865555",
+      "Content": "location hotel apartment barsha stay mall emirates ski dubai 5 minutes walking hotel metro station 3 minutes walking supermarket restaurants pharmacy front hotel apartment bed clean wc clean hot water clean day towels microwave fridge water heater cook tea nescafe day water tea coffee apartment hair dresser ground floor hotel females hair nail time free parking cars service workers helpful smiling ready help time free wifi lobby didn\u2019t 1 smell couches living 2 internet 3 breakfast 4 smell elevator 5 tall 6 hair drier",
+      "Date": "2012-01-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cAverage but Would never recommend\u201d",
+      "Author": "tari11",
+      "ReviewID": "UR102376432",
+      "Content": "average issues booked bedroom apartment clean 2nd bathroom foul smell complained care satyed 7 days 5 spent complaining recption pool water everytime reported puddle promised fixed overalll staff friendly dirty smelt funny funny",
+      "Date": "2011-03-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "ABU DHABI",
+      "Title": "\u201cvery basic nothing to talk about!!\u201d",
+      "Author": "JOHNYDOE",
+      "ReviewID": "UR89095724",
+      "Content": "apartments block converted holiday accommodation tiles replacing entrance lifts ok price tired furniture leaking fridge en suite bathroom flooded dont fairly clean otherwise uncomfortable worn sleeper couch suitable indian breakfast lots basement parking own vehicle didnt walk mall town traffic nightmare prefer pay extra dhs 100 accommodation dubai cupboards fridge inside dirty preferred kitchen disappointed misled net pics stay barsha",
+      "Date": "2010-12-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Seven Sands Hotel Apartments",
+    "HotelURL": "/ShowUserReviews-g295424-d1006218-Reviews-Seven_Sands_Hotel_Apartments-Dubai.html",
+    "Price": "$109 - $980*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">P.O.Box 20313 Al Barsha</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span> <span property=\"v:postal-code\">20313</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "1006218",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/60/ae/60aeac227488cedd2fc90166bd1716e58large.jpg"
+  }
+}

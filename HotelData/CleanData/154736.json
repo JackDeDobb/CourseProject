@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Terrebonne, Canada", "Title": "\u201cNice hotel\u201d", "Author": "31Myriam_G", "ReviewID": "UR125050674", "Content": "stayed 4 nights hotel nice location 5 minutes walk beach clubs mamitas kool hotel towels morning tickets mamitas beach club 50 location 5th avenue staff friendly nice bed hotel", "Date": "2012-02-22 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 2.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cnice hotel, perhaps overpriced\u201d", "Author": "canadianfemale32", "ReviewID": "UR104056125", "Content": "hotel beautiful clean spacious nicely spectacularly decorated complaints hotel except price paid 82 minute sale 130 maybe playa expensive based cancun centro prices price 70 sale reasonable", "Date": "2011-04-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Greensboro, North Carolina", "Title": "\u201cgreat, clean, friendly, central location for short stay\u201d", "Author": "kmjamies", "ReviewID": "UR101679355", "Content": "stayed 1 night sol checked apartment nearby month jasmin helpful nice 2nd floor elevator difficult heavy bags looked onto avenida quinta directly starbucks starbucks patio dwellers shower wasnt careful location convenient loud bad loud lots people strolling stores closing 11pm suggestion short stay oh wifi hotel computer coffee cafe calle 34 ave quinta clean basic amenities eat attached restaurant busy night 1 month stay price 7800 deal excellent", "Date": "2011-03-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Exton, PA", "Title": "\u201cSomewhat disappointed\u201d", "Author": "Mapmanflan", "ReviewID": "UR87285895", "Content": "wife recently spent 5 night reasons picked kitchenette microwave 2 burners rusted filthy coffee pot dirty broken freezer section refrigerator frost couldnt bag ice hotel ice maker ice cube trays own ice buy ice convenience store street floor dirty wife wearing socks time bottom feet wouldnt dirty", "Date": "2010-11-16 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Phoenix, Arizona", "Title": "\u201cYou get what you pay for....\u201d", "Author": "williamj38", "ReviewID": "UR83227920", "Content": "deal hotelscom 54 night deal average bad except doors flimsy door knobs easily overpowered deadbolt constantly worried breaking gone location ultimate advantage extreme downfall loud restaurant downstairs starts packing midnite 2am bangs half hour moving tables benches platforms inside bars downstairs crazy loud businesses pdc blaring music 201 301 sleep internet okay staff somewhat friendly glad time move property", "Date": "2010-10-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Tomah, Wi", "Title": "\u201cI would be selfish for keeping this unique boutique Hotel a secret.\u201d", "Author": "RangerPeteTomah_Wi", "ReviewID": "UR71701589", "Content": "little hesitant review selfish keeping unique boutique hotel secret i\u2019ve lot traveling life ive stayed world none compare charm 1st class treatment hotel location pricing helpful staff manager rates getting detailed flight boarding passes delivered personally helpful trip playa soon stay time", "Date": "2010-07-20 00:00:00"}], "HotelInfo": {"Name": "Hotel Quinto Sol", "HotelURL": "/ShowUserReviews-g150812-d154736-Reviews-Hotel_Quinto_Sol-Playa_del_Carmen_Yucatan_Peninsula.html", "Price": "$64 - $106*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5th Avenue &amp; 28</span>, <span class=\"locality\"><span property=\"v:locality\">Playa del Carmen</span> <span property=\"v:postal-code\">77710</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "154736", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/cb/bf/cbbfcb32ae3a8e79186638d8ef175a155large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Terrebonne, Canada",
+      "Title": "\u201cNice hotel\u201d",
+      "Author": "31Myriam_G",
+      "ReviewID": "UR125050674",
+      "Content": "stayed 4 nights hotel nice location 5 minutes walk beach clubs mamitas kool hotel towels morning tickets mamitas beach club 50 location 5th avenue staff friendly nice bed hotel",
+      "Date": "2012-02-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 2.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cnice hotel, perhaps overpriced\u201d",
+      "Author": "canadianfemale32",
+      "ReviewID": "UR104056125",
+      "Content": "hotel beautiful clean spacious nicely spectacularly decorated complaints hotel except price paid 82 minute sale 130 maybe playa expensive based cancun centro prices price 70 sale reasonable",
+      "Date": "2011-04-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Greensboro, North Carolina",
+      "Title": "\u201cgreat, clean, friendly, central location for short stay\u201d",
+      "Author": "kmjamies",
+      "ReviewID": "UR101679355",
+      "Content": "stayed 1 night sol checked apartment nearby month jasmin helpful nice 2nd floor elevator difficult heavy bags looked onto avenida quinta directly starbucks starbucks patio dwellers shower wasnt careful location convenient loud bad loud lots people strolling stores closing 11pm suggestion short stay oh wifi hotel computer coffee cafe calle 34 ave quinta clean basic amenities eat attached restaurant busy night 1 month stay price 7800 deal excellent",
+      "Date": "2011-03-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Exton, PA",
+      "Title": "\u201cSomewhat disappointed\u201d",
+      "Author": "Mapmanflan",
+      "ReviewID": "UR87285895",
+      "Content": "wife recently spent 5 night reasons picked kitchenette microwave 2 burners rusted filthy coffee pot dirty broken freezer section refrigerator frost couldnt bag ice hotel ice maker ice cube trays own ice buy ice convenience store street floor dirty wife wearing socks time bottom feet wouldnt dirty",
+      "Date": "2010-11-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Phoenix, Arizona",
+      "Title": "\u201cYou get what you pay for....\u201d",
+      "Author": "williamj38",
+      "ReviewID": "UR83227920",
+      "Content": "deal hotelscom 54 night deal average bad except doors flimsy door knobs easily overpowered deadbolt constantly worried breaking gone location ultimate advantage extreme downfall loud restaurant downstairs starts packing midnite 2am bangs half hour moving tables benches platforms inside bars downstairs crazy loud businesses pdc blaring music 201 301 sleep internet okay staff somewhat friendly glad time move property",
+      "Date": "2010-10-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Tomah, Wi",
+      "Title": "\u201cI would be selfish for keeping this unique boutique Hotel a secret.\u201d",
+      "Author": "RangerPeteTomah_Wi",
+      "ReviewID": "UR71701589",
+      "Content": "little hesitant review selfish keeping unique boutique hotel secret i\u2019ve lot traveling life ive stayed world none compare charm 1st class treatment hotel location pricing helpful staff manager rates getting detailed flight boarding passes delivered personally helpful trip playa soon stay time",
+      "Date": "2010-07-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Quinto Sol",
+    "HotelURL": "/ShowUserReviews-g150812-d154736-Reviews-Hotel_Quinto_Sol-Playa_del_Carmen_Yucatan_Peninsula.html",
+    "Price": "$64 - $106*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5th Avenue &amp; 28</span>, <span class=\"locality\"><span property=\"v:locality\">Playa del Carmen</span> <span property=\"v:postal-code\">77710</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "154736",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/cb/bf/cbbfcb32ae3a8e79186638d8ef175a155large.jpg"
+  }
+}

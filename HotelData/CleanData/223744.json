@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Austin, Texas", "Title": "\u201cOkay for an overnight\u201d", "Author": "goochiemae", "ReviewID": "UR119957951", "Content": "broken tv front desk clerk offered move reeked smoke moved original husband shuttled forth moving belongings desk clerk check tv initially evidenced attitude indicate didnt tv ascertained tv indeed broken attitude changed friendly helpful third clean fine tv sadly hotel paper thin walls awakened 100 am 300 am people coming halls breakfast adequate fresh fruit cereal waffles ok write home wouldnt stay location", "Date": "2011-10-31 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Nashville, Tennessee", "Title": "\u201cNothing Special\u201d", "Author": "shaunbsc", "ReviewID": "UR118587781", "Content": "horrible stay reasonably close memphis undesirable neighborhood worried leaving vehicle parking lot plenty people loitering surrounding property midnight door gas station drink wasnt bad hard time ac job internet semi clean stains carpets hotel doesnt toilet broken adjusted flush prevent running loudly night obviously encounter time clean bother fix top floor avoid family didnt kids hallways hours 10pm actually knocked door whoops wrong walk answered breakfast lousy standard continental breakfast waffle maker waffles gross tasted sour batter gone bad breakfast supposed start 6am set front desk worker wasnt ready til 620 found checkout receipt double charge speak manager issue corrected verified account overcharged hassles probably wouldnt stay am business traveling relax worry little pain fix toilet flush play thermostat 30 minutes comfortable usually door 7am waiting breakfast set inconvenient shouldnt worry credit card getting double charged vehicle future ill spend extra 20 stay wyndham", "Date": "2011-09-25 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "San Angelo", "Title": "\u201cNoisy with good breakfast\u201d", "Author": "SkinnyDDS", "ReviewID": "UR111858766", "Content": "booked website correct reservation engaging helpful staff floors inside corridors elevator baggage cart king bed double doubles reserved double double eventhough bed believe mistake noisy thin walls top floor business people bottom families noisy 1am lucky late night tv watchers try third floor alternatives exit pretty bad reviews breakfast waffle machine hard boiled eggs addition usual cold cereal breads", "Date": "2011-06-06 00:00:00"}], "HotelInfo": {"Name": "Baymont Inn & Suites Memphis East", "HotelURL": "/ShowUserReviews-g55197-d223744-Reviews-Baymont_Inn_Suites_Memphis_East-Memphis_Tennessee.html", "Price": "$48 - $73*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">6020 Shelby Oaks Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Memphis</span>, <span property=\"v:region\">TN</span> <span property=\"v:postal-code\">38134-7405</span></span> </span> </span> </address>", "HotelID": "223744", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/68/8a/688ac4c6a3f0295020524a44cb2aaf3d3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Austin, Texas",
+      "Title": "\u201cOkay for an overnight\u201d",
+      "Author": "goochiemae",
+      "ReviewID": "UR119957951",
+      "Content": "broken tv front desk clerk offered move reeked smoke moved original husband shuttled forth moving belongings desk clerk check tv initially evidenced attitude indicate didnt tv ascertained tv indeed broken attitude changed friendly helpful third clean fine tv sadly hotel paper thin walls awakened 100 am 300 am people coming halls breakfast adequate fresh fruit cereal waffles ok write home wouldnt stay location",
+      "Date": "2011-10-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Nashville, Tennessee",
+      "Title": "\u201cNothing Special\u201d",
+      "Author": "shaunbsc",
+      "ReviewID": "UR118587781",
+      "Content": "horrible stay reasonably close memphis undesirable neighborhood worried leaving vehicle parking lot plenty people loitering surrounding property midnight door gas station drink wasnt bad hard time ac job internet semi clean stains carpets hotel doesnt toilet broken adjusted flush prevent running loudly night obviously encounter time clean bother fix top floor avoid family didnt kids hallways hours 10pm actually knocked door whoops wrong walk answered breakfast lousy standard continental breakfast waffle maker waffles gross tasted sour batter gone bad breakfast supposed start 6am set front desk worker wasnt ready til 620 found checkout receipt double charge speak manager issue corrected verified account overcharged hassles probably wouldnt stay am business traveling relax worry little pain fix toilet flush play thermostat 30 minutes comfortable usually door 7am waiting breakfast set inconvenient shouldnt worry credit card getting double charged vehicle future ill spend extra 20 stay wyndham",
+      "Date": "2011-09-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "San Angelo",
+      "Title": "\u201cNoisy with good breakfast\u201d",
+      "Author": "SkinnyDDS",
+      "ReviewID": "UR111858766",
+      "Content": "booked website correct reservation engaging helpful staff floors inside corridors elevator baggage cart king bed double doubles reserved double double eventhough bed believe mistake noisy thin walls top floor business people bottom families noisy 1am lucky late night tv watchers try third floor alternatives exit pretty bad reviews breakfast waffle machine hard boiled eggs addition usual cold cereal breads",
+      "Date": "2011-06-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Baymont Inn & Suites Memphis East",
+    "HotelURL": "/ShowUserReviews-g55197-d223744-Reviews-Baymont_Inn_Suites_Memphis_East-Memphis_Tennessee.html",
+    "Price": "$48 - $73*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">6020 Shelby Oaks Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Memphis</span>, <span property=\"v:region\">TN</span> <span property=\"v:postal-code\">38134-7405</span></span> </span> </span> </address>",
+    "HotelID": "223744",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/68/8a/688ac4c6a3f0295020524a44cb2aaf3d3large.jpg"
+  }
+}

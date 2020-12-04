@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Aurangabad, India", "Title": "\u201cAverage Place - Great Location\u201d", "Author": "sujayojha", "ReviewID": "UR128043109", "Content": "hotel located business district european istanbul service stay okay hotel located close upmarket malls shopping istanbul sapphire observation deck mall giving birds eye istanbul close hotel functional clean okay service looking tourist destinations stay hotels near blue mosque bazaar", "Date": "2012-04-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Milan, Italy", "Title": "\u201cGood place, in average position\u201d", "Author": "etr500", "ReviewID": "UR126670345", "Content": "hotel 3 nights attend conference university location hotel makes tricky reach town using 3 transportation systems 4 stops lively taksim service ne refined breakfast quality average", "Date": "2012-03-26 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Washington DC, District of Columbia", "Title": "\u201cMediocre and Out of the Way for Istanbul\u201d", "Author": "TCWASHDC", "ReviewID": "UR120080395", "Content": "found quality average bar overpriced food buffet average compared wonderful food found city location awkward 45 minutes tourist attractions public transportation taxi stay business immediate neighborhood otherwise pass", "Date": "2011-11-02 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Beckenried", "Title": "\u201cHotel close to the Center, near to Business Area\u201d", "Author": "jollerre", "ReviewID": "UR119485526", "Content": "hotel located 150 metro station connection city 20 minutes 2 changes business 10 minutes change shopping mall lot little turkish business food shops close hotel mosque istanbul comfortable gym closed sunday enjoy istanbul town 1000 wonders restaurants friendly people", "Date": "2011-10-19 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Prague, Czech Republic", "Title": "\u201cStandard hotel for reasonable price\u201d", "Author": "Vondr", "ReviewID": "UR89441274", "Content": "ve stayed business trip hotel 5 minutes marriot hotel located accomodation ok price half marriot rates hotel rated 4 stars service level 3 stars service poor bar restaurant empty 3 days stay location istanbul centre hand underground station 5 minutes walk free wifi breakfast ok", "Date": "2010-12-09 00:00:00"}], "HotelInfo": {"Name": "Bilek Hotel Istanbul", "HotelURL": "/ShowUserReviews-g293974-d596309-Reviews-Bilek_Hotel_Istanbul-Istanbul.html", "Price": "$131 - $171*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Eski Buyukdere Cad. 29</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34416</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "596309", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/71/24/712447000a23f091f78cef3c0dcb08b35large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Aurangabad, India",
+      "Title": "\u201cAverage Place - Great Location\u201d",
+      "Author": "sujayojha",
+      "ReviewID": "UR128043109",
+      "Content": "hotel located business district european istanbul service stay okay hotel located close upmarket malls shopping istanbul sapphire observation deck mall giving birds eye istanbul close hotel functional clean okay service looking tourist destinations stay hotels near blue mosque bazaar",
+      "Date": "2012-04-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Milan, Italy",
+      "Title": "\u201cGood place, in average position\u201d",
+      "Author": "etr500",
+      "ReviewID": "UR126670345",
+      "Content": "hotel 3 nights attend conference university location hotel makes tricky reach town using 3 transportation systems 4 stops lively taksim service ne refined breakfast quality average",
+      "Date": "2012-03-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Washington DC, District of Columbia",
+      "Title": "\u201cMediocre and Out of the Way for Istanbul\u201d",
+      "Author": "TCWASHDC",
+      "ReviewID": "UR120080395",
+      "Content": "found quality average bar overpriced food buffet average compared wonderful food found city location awkward 45 minutes tourist attractions public transportation taxi stay business immediate neighborhood otherwise pass",
+      "Date": "2011-11-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Beckenried",
+      "Title": "\u201cHotel close to the Center, near to Business Area\u201d",
+      "Author": "jollerre",
+      "ReviewID": "UR119485526",
+      "Content": "hotel located 150 metro station connection city 20 minutes 2 changes business 10 minutes change shopping mall lot little turkish business food shops close hotel mosque istanbul comfortable gym closed sunday enjoy istanbul town 1000 wonders restaurants friendly people",
+      "Date": "2011-10-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Prague, Czech Republic",
+      "Title": "\u201cStandard hotel for reasonable price\u201d",
+      "Author": "Vondr",
+      "ReviewID": "UR89441274",
+      "Content": "ve stayed business trip hotel 5 minutes marriot hotel located accomodation ok price half marriot rates hotel rated 4 stars service level 3 stars service poor bar restaurant empty 3 days stay location istanbul centre hand underground station 5 minutes walk free wifi breakfast ok",
+      "Date": "2010-12-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Bilek Hotel Istanbul",
+    "HotelURL": "/ShowUserReviews-g293974-d596309-Reviews-Bilek_Hotel_Istanbul-Istanbul.html",
+    "Price": "$131 - $171*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Eski Buyukdere Cad. 29</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34416</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "596309",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/71/24/712447000a23f091f78cef3c0dcb08b35large.jpg"
+  }
+}

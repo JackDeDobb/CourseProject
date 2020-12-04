@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "San Francisco, California", "Title": "\u201cA good bargain and location\u201d", "Author": "sfoggy", "ReviewID": "UR87443289", "Content": "reservations minute found alex hotel bookingscom rate included nice breakfast review deals found price competitive liked location basic european style hotel renovated modern bathrooms additional perks safes blow dryers tv management friendly helpful computer available guests check email tram alexander platz outside hotel underground blocks wonderful park corner jogging relaxing location edge near mitte districts convenient nice restaurants cafes nearby clubs walking distance museum island easy trip negative student tended bit noisy basic attractive comfortable breakfast bit average coffee tea available day lobbybreakfast wifi didnt utilize breakfast comfortable sit", "Date": "2010-11-17 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cGreat place for the price.\u201d", "Author": "JamesD101", "ReviewID": "UR71500448", "Content": "budget hotel staff clean breakfast generous complementary location bit beaten track trams buses front renting bike option town overall experience", "Date": "2010-07-19 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Denmark", "Title": "\u201cStay away!\u201d", "Author": "THMunk", "ReviewID": "UR61724771", "Content": "ive returned horrible hotel ive stayed payed 5 beds shower kitchen 15 square meter beds tiny bathroom paid price else worse staff rude inconvenient females verbally abused staff alcoholics forbidden allowed apparently storage luggage checkout staff couldnt understand english wasnt cheap stay hundreds cheaper hotels berlin stay rotten ones", "Date": "2010-04-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Canada", "Title": "\u201cFour thumbs up!\u201d", "Author": "YXEinWAW", "ReviewID": "UR60489597", "Content": "friends shared apartment alex hotel nights thoroughly enjoyed stay little surprised layout apartment beds contained kitchenette remaining beds indeed surprised settled comfortably guests spacious disappointed impressed renovated look appreciated spotless cleanliness immediately hotel offers little park nearby beautiful jogging retreat morning run alexanderplatz mere tenminute walk 4 tram stops literally outside door hotel getting heart berlin breeze complimentary breakfast fresh enjoyed dining near entrance design pleasant coffee house ambiance finally friendliness cant possibly overstated final bonus free wifi available overall stay alex hotel enthusiastically recommend friends", "Date": "2010-04-05 00:00:00"}], "HotelInfo": {"Name": "Alex Hotel", "HotelURL": "/ShowUserReviews-g187323-d666871-Reviews-Alex_Hotel-Berlin.html", "Price": "$77 - $148*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Greifswalder Strasse 3</span> | <span class=\"extended-address\">Prenzlauer Berg</span>, <span class=\"locality\"><span property=\"v:postal-code\">10405</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "666871", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7a/f6/7af6e7208358aa1ce5f003312bb6d8e76large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "San Francisco, California",
+      "Title": "\u201cA good bargain and location\u201d",
+      "Author": "sfoggy",
+      "ReviewID": "UR87443289",
+      "Content": "reservations minute found alex hotel bookingscom rate included nice breakfast review deals found price competitive liked location basic european style hotel renovated modern bathrooms additional perks safes blow dryers tv management friendly helpful computer available guests check email tram alexander platz outside hotel underground blocks wonderful park corner jogging relaxing location edge near mitte districts convenient nice restaurants cafes nearby clubs walking distance museum island easy trip negative student tended bit noisy basic attractive comfortable breakfast bit average coffee tea available day lobbybreakfast wifi didnt utilize breakfast comfortable sit",
+      "Date": "2010-11-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cGreat place for the price.\u201d",
+      "Author": "JamesD101",
+      "ReviewID": "UR71500448",
+      "Content": "budget hotel staff clean breakfast generous complementary location bit beaten track trams buses front renting bike option town overall experience",
+      "Date": "2010-07-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Denmark",
+      "Title": "\u201cStay away!\u201d",
+      "Author": "THMunk",
+      "ReviewID": "UR61724771",
+      "Content": "ive returned horrible hotel ive stayed payed 5 beds shower kitchen 15 square meter beds tiny bathroom paid price else worse staff rude inconvenient females verbally abused staff alcoholics forbidden allowed apparently storage luggage checkout staff couldnt understand english wasnt cheap stay hundreds cheaper hotels berlin stay rotten ones",
+      "Date": "2010-04-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Canada",
+      "Title": "\u201cFour thumbs up!\u201d",
+      "Author": "YXEinWAW",
+      "ReviewID": "UR60489597",
+      "Content": "friends shared apartment alex hotel nights thoroughly enjoyed stay little surprised layout apartment beds contained kitchenette remaining beds indeed surprised settled comfortably guests spacious disappointed impressed renovated look appreciated spotless cleanliness immediately hotel offers little park nearby beautiful jogging retreat morning run alexanderplatz mere tenminute walk 4 tram stops literally outside door hotel getting heart berlin breeze complimentary breakfast fresh enjoyed dining near entrance design pleasant coffee house ambiance finally friendliness cant possibly overstated final bonus free wifi available overall stay alex hotel enthusiastically recommend friends",
+      "Date": "2010-04-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Alex Hotel",
+    "HotelURL": "/ShowUserReviews-g187323-d666871-Reviews-Alex_Hotel-Berlin.html",
+    "Price": "$77 - $148*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Greifswalder Strasse 3</span> | <span class=\"extended-address\">Prenzlauer Berg</span>, <span class=\"locality\"><span property=\"v:postal-code\">10405</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "666871",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7a/f6/7af6e7208358aa1ce5f003312bb6d8e76large.jpg"
+  }
+}

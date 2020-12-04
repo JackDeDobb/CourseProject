@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Munster, IN", "Title": "\u201cRare, superior customer service!\u201d", "Author": "anyaMunster", "ReviewID": "UR125470340", "Content": "husband wedding party staying property location i17 ihop walking distance restaurants huge walmart mile loved mellow mushroom grinders pizzas checkin easy modern nice furniture tv wireless service 60 fridge advance workout 2 treadmills 2 ellipticals free weights pool shared neighboring hotel whirlpool chaise lounges cushions replaced pool towels accessible pool gate cover cushions bringing beer recommend cans glass front desk beer hand glass course basketball available front desk bar 5pm food available breakfast complimentary nice service buffet includes eggs bacon oatmeal fresh berries waffle station bagels juices customer service staff wonderful thank grace efforts finding cost clean dress front desk called price dress pressed via laundry service thoughtful check front desk staff smiling", "Date": "2012-03-01 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Clearwater, Florida", "Title": "\u201cGreat short vacation\u201d", "Author": "saptraveler_21", "ReviewID": "UR106587070", "Content": "thank hotel short vacation nice receptionist manger profesional treat family breakfast excellent choice eggs beds super comfortable refrigerator staff told available hotel residence inn door fantastic entire stay superb price highly recomend stay courtyard phoenix north happy valley", "Date": "2011-05-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Atlanta, Georgia", "Title": "\u201cCourtyard Phoenix North is good for travelers to the area\u201d", "Author": "atljs", "ReviewID": "UR105690486", "Content": "stayed courtyard phoenix valley 2 nights march 2011 traveling phoenix nice clean hotel interstate exactly normally dont stay suburban traveling wasnt hotel beyond sleeping eating breakfast hotel clean free breakfast staff nice overlooked pool didnt little noisy wasnt bother request facing pool issue theres chain restaurant immediate isnt normally look intown maybe 20 minute drive bad id definitely stay", "Date": "2011-04-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Boston, Massachusetts", "Title": "\u201cexcellent stay\u201d", "Author": "cc41", "ReviewID": "UR97764310", "Content": "stayed night az vacation hotel easy phoenix airport hour starting head north sedona grand canyon following day clean comfortable staff friendly helpful extra blanket requested delivered minutes retail walmart close stock drive north vacation destination", "Date": "2011-02-23 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Essex, England", "Title": "\u201cExcellent stay\u201d", "Author": "t-m-c-m", "ReviewID": "UR84209245", "Content": "stayed night visitng friends anthem marriott didnt cost found location plenty shops nearby modern clean shower ones found trip lcd tv sofabed sitting bed comfortable internet fast didnt sample breakfast cant comment", "Date": "2010-10-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "NorCal", "Title": "\u201cNice hotel\u201d", "Author": "WestCoastTravels034", "ReviewID": "UR58758619", "Content": "stayed courtyard business little business trip front desk helpful little quiet hotel sold nice tv bathroom mini fridge etc", "Date": "2010-03-16 00:00:00"}], "HotelInfo": {"Name": "Courtyard Phoenix North / Happy Valley", "HotelURL": "/ShowUserReviews-g31310-d866698-Reviews-Courtyard_Phoenix_North_Happy_Valley-Phoenix_Arizona.html", "Price": "$102 - $159*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2029 Whispering Wind Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85085</span></span> </span></span></address>", "HotelID": "2516170", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ad/c3/adc3591be2d0ca8d27e13a5d2af7deae4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Munster, IN",
+      "Title": "\u201cRare, superior customer service!\u201d",
+      "Author": "anyaMunster",
+      "ReviewID": "UR125470340",
+      "Content": "husband wedding party staying property location i17 ihop walking distance restaurants huge walmart mile loved mellow mushroom grinders pizzas checkin easy modern nice furniture tv wireless service 60 fridge advance workout 2 treadmills 2 ellipticals free weights pool shared neighboring hotel whirlpool chaise lounges cushions replaced pool towels accessible pool gate cover cushions bringing beer recommend cans glass front desk beer hand glass course basketball available front desk bar 5pm food available breakfast complimentary nice service buffet includes eggs bacon oatmeal fresh berries waffle station bagels juices customer service staff wonderful thank grace efforts finding cost clean dress front desk called price dress pressed via laundry service thoughtful check front desk staff smiling",
+      "Date": "2012-03-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Clearwater, Florida",
+      "Title": "\u201cGreat short vacation\u201d",
+      "Author": "saptraveler_21",
+      "ReviewID": "UR106587070",
+      "Content": "thank hotel short vacation nice receptionist manger profesional treat family breakfast excellent choice eggs beds super comfortable refrigerator staff told available hotel residence inn door fantastic entire stay superb price highly recomend stay courtyard phoenix north happy valley",
+      "Date": "2011-05-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Atlanta, Georgia",
+      "Title": "\u201cCourtyard Phoenix North is good for travelers to the area\u201d",
+      "Author": "atljs",
+      "ReviewID": "UR105690486",
+      "Content": "stayed courtyard phoenix valley 2 nights march 2011 traveling phoenix nice clean hotel interstate exactly normally dont stay suburban traveling wasnt hotel beyond sleeping eating breakfast hotel clean free breakfast staff nice overlooked pool didnt little noisy wasnt bother request facing pool issue theres chain restaurant immediate isnt normally look intown maybe 20 minute drive bad id definitely stay",
+      "Date": "2011-04-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Boston, Massachusetts",
+      "Title": "\u201cexcellent stay\u201d",
+      "Author": "cc41",
+      "ReviewID": "UR97764310",
+      "Content": "stayed night az vacation hotel easy phoenix airport hour starting head north sedona grand canyon following day clean comfortable staff friendly helpful extra blanket requested delivered minutes retail walmart close stock drive north vacation destination",
+      "Date": "2011-02-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Essex, England",
+      "Title": "\u201cExcellent stay\u201d",
+      "Author": "t-m-c-m",
+      "ReviewID": "UR84209245",
+      "Content": "stayed night visitng friends anthem marriott didnt cost found location plenty shops nearby modern clean shower ones found trip lcd tv sofabed sitting bed comfortable internet fast didnt sample breakfast cant comment",
+      "Date": "2010-10-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "NorCal",
+      "Title": "\u201cNice hotel\u201d",
+      "Author": "WestCoastTravels034",
+      "ReviewID": "UR58758619",
+      "Content": "stayed courtyard business little business trip front desk helpful little quiet hotel sold nice tv bathroom mini fridge etc",
+      "Date": "2010-03-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Courtyard Phoenix North / Happy Valley",
+    "HotelURL": "/ShowUserReviews-g31310-d866698-Reviews-Courtyard_Phoenix_North_Happy_Valley-Phoenix_Arizona.html",
+    "Price": "$102 - $159*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2029 Whispering Wind Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85085</span></span> </span></span></address>",
+    "HotelID": "2516170",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ad/c3/adc3591be2d0ca8d27e13a5d2af7deae4large.jpg"
+  }
+}

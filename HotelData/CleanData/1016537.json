@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Ljubljana, Slovenia", "Title": "\u201cexcellent for groups\u201d", "Author": "aljosamerljak", "ReviewID": "UR122103127", "Content": "stayed nights winter perfect cheap stuff helpfull nice cook dinner days stay location clean tv phone fridge recommend", "Date": "2011-12-26 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Sarajevo, Bosnia and Herzegovina", "Title": "\u201cCheap and basic.\u201d", "Author": "SammyUgg", "ReviewID": "UR121429377", "Content": "isnt hotel modern meaning word basically motel bed breakfast reminded american motels seen movies stayed nights located nice residential close rebibbia metro station line connection central rome easy painless 20 minutes clean staff fun sound isolation terrible hear people talking breakfast basic okay wifi free guests fairly cheap value price", "Date": "2011-12-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Cork, Ireland", "Title": "\u201cNICE HOTEL, CLOSE TO METRO, GOOD SERVICE\u201d", "Author": "186600Kate", "ReviewID": "UR119546886", "Content": "hotel close metro mins walk handy centre rome takes 1520 mins city centre reception staff helpful polite breakfast basic serve nice coffee didnt hotel restaurant price ok dine centre rome size ac fine bathroom ok shower bit ok supermarket close hotel yoghurt fruits sweets water etc computer reception nice hotel spend fortune close city centre close metro advantage truly recommend", "Date": "2011-10-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Woking, United Kingdom", "Title": "\u201cCheap, cheerful and with great access to city!\u201d", "Author": "Rebecca_Lobb", "ReviewID": "UR118403355", "Content": "reading reviews little sceptical especially rolled hotel surrounding dive hotel staff amazing maps directions easy walk helpful tube literally 5 minute walk 15 minutes main city rome dead handy 3 day ticket 12 euro bargain hotel clean sheets changed everyday extra pillow thats preference breakfast bit rubbish expect cheap stay rome", "Date": "2011-09-21 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Miami Beach, Florida", "Title": "\u201cnot as expected\u201d", "Author": "travelerjane123", "ReviewID": "UR103875642", "Content": "flew rome travel stayed weekend sized bathroom shoe box im exaggerating hot day air conditioning controlled front desk air night controlling air temperatures april change moment sleep clothing optional heat stroke am miami double 2 singles pushed dont try cuddle fall middle stay night conveniently located unless gps car somewhat seedy charge parkingwhich premises overall overrated", "Date": "2011-04-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Italy", "Title": "\u201cGood deal when driving to Rome\u201d", "Author": "Texan-in-Italy", "ReviewID": "UR71625396", "Content": "family 2 teenagers booked hotel weekend based availability secure parking walking distance metro stop course affordable rate hotels rome pricey hotel easy parking fee gated compound quad surprisingly spacious clean noisy judging poor acoustics breakfast lobby experience noise complained service adequate breakfast included low rate 2 short blocks rebibbia metro station stop red line despite looking unsafe coming late night summarize rome car park outside town drive town metro spend money dinner night affordable hotel", "Date": "2010-07-20 00:00:00"}], "HotelInfo": {"Name": "Hotel Metro Roma", "HotelURL": "/ShowUserReviews-g187791-d1016537-Reviews-Hotel_Metro_Roma-Rome_Lazio.html", "Price": "$69 - $127*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via di Rebibbia 18</span>, <span class=\"locality\"><span property=\"v:postal-code\">00156</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "1016537", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2c/56/2c5678a674f0a4f7a02410365153cc3b6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Ljubljana, Slovenia",
+      "Title": "\u201cexcellent for groups\u201d",
+      "Author": "aljosamerljak",
+      "ReviewID": "UR122103127",
+      "Content": "stayed nights winter perfect cheap stuff helpfull nice cook dinner days stay location clean tv phone fridge recommend",
+      "Date": "2011-12-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sarajevo, Bosnia and Herzegovina",
+      "Title": "\u201cCheap and basic.\u201d",
+      "Author": "SammyUgg",
+      "ReviewID": "UR121429377",
+      "Content": "isnt hotel modern meaning word basically motel bed breakfast reminded american motels seen movies stayed nights located nice residential close rebibbia metro station line connection central rome easy painless 20 minutes clean staff fun sound isolation terrible hear people talking breakfast basic okay wifi free guests fairly cheap value price",
+      "Date": "2011-12-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Cork, Ireland",
+      "Title": "\u201cNICE HOTEL, CLOSE TO METRO, GOOD SERVICE\u201d",
+      "Author": "186600Kate",
+      "ReviewID": "UR119546886",
+      "Content": "hotel close metro mins walk handy centre rome takes 1520 mins city centre reception staff helpful polite breakfast basic serve nice coffee didnt hotel restaurant price ok dine centre rome size ac fine bathroom ok shower bit ok supermarket close hotel yoghurt fruits sweets water etc computer reception nice hotel spend fortune close city centre close metro advantage truly recommend",
+      "Date": "2011-10-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Woking, United Kingdom",
+      "Title": "\u201cCheap, cheerful and with great access to city!\u201d",
+      "Author": "Rebecca_Lobb",
+      "ReviewID": "UR118403355",
+      "Content": "reading reviews little sceptical especially rolled hotel surrounding dive hotel staff amazing maps directions easy walk helpful tube literally 5 minute walk 15 minutes main city rome dead handy 3 day ticket 12 euro bargain hotel clean sheets changed everyday extra pillow thats preference breakfast bit rubbish expect cheap stay rome",
+      "Date": "2011-09-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Miami Beach, Florida",
+      "Title": "\u201cnot as expected\u201d",
+      "Author": "travelerjane123",
+      "ReviewID": "UR103875642",
+      "Content": "flew rome travel stayed weekend sized bathroom shoe box im exaggerating hot day air conditioning controlled front desk air night controlling air temperatures april change moment sleep clothing optional heat stroke am miami double 2 singles pushed dont try cuddle fall middle stay night conveniently located unless gps car somewhat seedy charge parkingwhich premises overall overrated",
+      "Date": "2011-04-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Italy",
+      "Title": "\u201cGood deal when driving to Rome\u201d",
+      "Author": "Texan-in-Italy",
+      "ReviewID": "UR71625396",
+      "Content": "family 2 teenagers booked hotel weekend based availability secure parking walking distance metro stop course affordable rate hotels rome pricey hotel easy parking fee gated compound quad surprisingly spacious clean noisy judging poor acoustics breakfast lobby experience noise complained service adequate breakfast included low rate 2 short blocks rebibbia metro station stop red line despite looking unsafe coming late night summarize rome car park outside town drive town metro spend money dinner night affordable hotel",
+      "Date": "2010-07-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Metro Roma",
+    "HotelURL": "/ShowUserReviews-g187791-d1016537-Reviews-Hotel_Metro_Roma-Rome_Lazio.html",
+    "Price": "$69 - $127*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via di Rebibbia 18</span>, <span class=\"locality\"><span property=\"v:postal-code\">00156</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "1016537",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2c/56/2c5678a674f0a4f7a02410365153cc3b6large.jpg"
+  }
+}

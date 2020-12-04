@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Las Vegas, Nevada, United States", "Title": "\u201cNot as bad as everyone says\u201d", "Author": "Bryon M", "ReviewID": "UR126168559", "Content": "miraculous people wrote negative reviews wrong hotel frills super 8 hotel bad people arrived fairly clean decent didnt homeless criminals spacious clean nonsmoking kept staff pleasant checked checked mistake using bidding website gotten rate booking straight wyndham website", "Date": "2012-03-16 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "Window Rock, AZ", "Title": "\u201cScary place!\u201d", "Author": "Chizzi", "ReviewID": "UR123814669", "Content": "stayed close inlaws concerned safety night kmart door steering wheel lock breakfast cold cereal danishes pool okay kids theres price", "Date": "2012-01-30 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Denver, Colorado", "Title": "\u201cBetter to sleep in your car or under a bridge\u201d", "Author": "Dwayne N", "ReviewID": "UR122679369", "Content": "tend relaxed traveler low budget dont expect fancybut dump pits probably worst hotel ive stayed 30 yearsthe toe nail clippings floor furinture looked dragged city bad event occured door beaten hammer club cheap repair hole punched bathroom doorthe free wifi free cant comment hi speed parking lot night kmart means lot people sort hanging outthe staff bored death free star breakfast availablei filled experience email super aint info sweet gee sorry hotel sucks provide promised services hope choose hole costs avoid super aint", "Date": "2012-01-06 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Evergreen, Colorado", "Title": "\u201cNightmare on North Black Canyon\u201d", "Author": "catinlove87", "ReviewID": "UR90119819", "Content": "start saying am laid person traveled lot stayed super 8s motel 6s hole wall motels vacation friend airport shuttle super 8 fyi shuttle paid reserved online ran front desk checked keys 2nd floor basically middle arrival placed bag unpacked drawers hung pants etc ran bathroom tub filthy hair soap scum toilet cleaned nasty toilet paper stuck seat left bathroom looked sheets stained blood called front desk clean offered declined unpacked told id cleaned confident waited 45 min called front desk clean own supplies woman told couldnt shortly 25 minutes woman walked filth sheets handed cleaning products told woman downstairs told fine set forth cleaning entire changing sheets staff treated friend poorly attempted speak manager shrugged speech customer service paying services pathetic clean own lack customer service stayed seven days third night guests ours kinds noise night called front desk told happened night guests police people arrested remainder nights guests ours loud obnoxious surprising hotel ghetto kmart adjoining parking lot shooting nights arrived az seen news staff knowledgeable phoenix times looking try brochure stand car rental woman helpful hotel staff didnt live claim wifi scam friend computer tech nerd experienced issues regular basis finding connection pool kept clean chairs broken clean pool hot tub overall sleep options putting yourself type situation usually mouth shut flow understand bad days sometimes arent wed staff service services motel atrocious", "Date": "2010-12-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Tucson", "Title": "\u201cAnother Great Super-8!\u201d", "Author": "sapphire_tyger", "ReviewID": "UR58331695", "Content": "preface saying whenever travel super8 conveniently located stay bad super8 experience exception located i17 easy front desk staff friendly helpful cool inadvertently thinking motel 6 door building wrong laughed nice complained explain mistake smelled wonderful spotless huge plus plenty clean towels soap shampoo coffee coffeemaker supplied easy access wifi connection returned following day cleaned none kmart walking distance bonus oops travelers tend forget complaint continental breakfast coffee pitcher apple juice toaster loaf bread kinds cereal jug milk lucky counting breakfast conference attending street wonderful spread checkout breeze front desk staff friendly pleased", "Date": "2010-03-11 00:00:00"}], "HotelInfo": {"Name": "Phoenix Metro North Super 8 Motel", "HotelURL": "/ShowUserReviews-g31310-d74752-Reviews-Phoenix_Metro_North_Super_8_Motel-Phoenix_Arizona.html", "Price": "$34 - $50*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">8130 North Black Canyon Hwy</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85051</span></span> </span></span></address>", "HotelID": "74752", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/de/67/de67ac60b0df3f999d762441ceb9f1684large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Las Vegas, Nevada, United States",
+      "Title": "\u201cNot as bad as everyone says\u201d",
+      "Author": "Bryon M",
+      "ReviewID": "UR126168559",
+      "Content": "miraculous people wrote negative reviews wrong hotel frills super 8 hotel bad people arrived fairly clean decent didnt homeless criminals spacious clean nonsmoking kept staff pleasant checked checked mistake using bidding website gotten rate booking straight wyndham website",
+      "Date": "2012-03-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Window Rock, AZ",
+      "Title": "\u201cScary place!\u201d",
+      "Author": "Chizzi",
+      "ReviewID": "UR123814669",
+      "Content": "stayed close inlaws concerned safety night kmart door steering wheel lock breakfast cold cereal danishes pool okay kids theres price",
+      "Date": "2012-01-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Denver, Colorado",
+      "Title": "\u201cBetter to sleep in your car or under a bridge\u201d",
+      "Author": "Dwayne N",
+      "ReviewID": "UR122679369",
+      "Content": "tend relaxed traveler low budget dont expect fancybut dump pits probably worst hotel ive stayed 30 yearsthe toe nail clippings floor furinture looked dragged city bad event occured door beaten hammer club cheap repair hole punched bathroom doorthe free wifi free cant comment hi speed parking lot night kmart means lot people sort hanging outthe staff bored death free star breakfast availablei filled experience email super aint info sweet gee sorry hotel sucks provide promised services hope choose hole costs avoid super aint",
+      "Date": "2012-01-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Evergreen, Colorado",
+      "Title": "\u201cNightmare on North Black Canyon\u201d",
+      "Author": "catinlove87",
+      "ReviewID": "UR90119819",
+      "Content": "start saying am laid person traveled lot stayed super 8s motel 6s hole wall motels vacation friend airport shuttle super 8 fyi shuttle paid reserved online ran front desk checked keys 2nd floor basically middle arrival placed bag unpacked drawers hung pants etc ran bathroom tub filthy hair soap scum toilet cleaned nasty toilet paper stuck seat left bathroom looked sheets stained blood called front desk clean offered declined unpacked told id cleaned confident waited 45 min called front desk clean own supplies woman told couldnt shortly 25 minutes woman walked filth sheets handed cleaning products told woman downstairs told fine set forth cleaning entire changing sheets staff treated friend poorly attempted speak manager shrugged speech customer service paying services pathetic clean own lack customer service stayed seven days third night guests ours kinds noise night called front desk told happened night guests police people arrested remainder nights guests ours loud obnoxious surprising hotel ghetto kmart adjoining parking lot shooting nights arrived az seen news staff knowledgeable phoenix times looking try brochure stand car rental woman helpful hotel staff didnt live claim wifi scam friend computer tech nerd experienced issues regular basis finding connection pool kept clean chairs broken clean pool hot tub overall sleep options putting yourself type situation usually mouth shut flow understand bad days sometimes arent wed staff service services motel atrocious",
+      "Date": "2010-12-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Tucson",
+      "Title": "\u201cAnother Great Super-8!\u201d",
+      "Author": "sapphire_tyger",
+      "ReviewID": "UR58331695",
+      "Content": "preface saying whenever travel super8 conveniently located stay bad super8 experience exception located i17 easy front desk staff friendly helpful cool inadvertently thinking motel 6 door building wrong laughed nice complained explain mistake smelled wonderful spotless huge plus plenty clean towels soap shampoo coffee coffeemaker supplied easy access wifi connection returned following day cleaned none kmart walking distance bonus oops travelers tend forget complaint continental breakfast coffee pitcher apple juice toaster loaf bread kinds cereal jug milk lucky counting breakfast conference attending street wonderful spread checkout breeze front desk staff friendly pleased",
+      "Date": "2010-03-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Phoenix Metro North Super 8 Motel",
+    "HotelURL": "/ShowUserReviews-g31310-d74752-Reviews-Phoenix_Metro_North_Super_8_Motel-Phoenix_Arizona.html",
+    "Price": "$34 - $50*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">8130 North Black Canyon Hwy</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85051</span></span> </span></span></address>",
+    "HotelID": "74752",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/de/67/de67ac60b0df3f999d762441ceb9f1684large.jpg"
+  }
+}

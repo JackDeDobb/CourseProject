@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Elkhart, Indiana", "Title": "\u201cIt was okay.\u201d", "Author": "AimeeKB", "ReviewID": "UR126087109", "Content": "stayed hotel attend event university indianapolis chose location mile school conveniently located city perfect lot options food employee front desk handy guide local restaurants directions included check quick easy hallways funky smell nonsmoking lingering smell cigarette looks hotel somewhat remodeled recently unfortunately appeared quick cheap okay single king size left plenty space luggage bed comfortable spacious bathroom clean bathtub drained hotel warm humid air circulation fan immediately chunks dust flying warm left fan night slept blankets lobby nice looked breakfast offered employees front counter nice helpful odd encountered door handles guests lift couldnt figure door wasnt help feel pretty stupid male construction workers staying location single encountered creeps stay female guest slightly uncomfortable", "Date": "2012-03-14 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Cary, NC", "Title": "\u201cGood hotel, Convenient to city\u201d", "Author": "scattt", "ReviewID": "UR120568961", "Content": "wife son stayed weekend band competition lucas oil stadium complaints hotel bit age clean staff nice breakfast crowded 8 am food choices pretty stocked 5 min drive stadium convenience factor stay criticism price 120night little compared downtown downtown booked weekend charge parking hotel", "Date": "2011-11-14 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Baltimore, Maryland", "Title": "\u201cPretty Good\u201d", "Author": "Bowden68", "ReviewID": "UR61108855", "Content": "usually stay downtown indianapolis final sold meeting fortunate close five miles little beat deem unsafe hotel fine property doubt holiday inn built hotel renovated clean little nice indoor pool property elevator paid rack rate 90 night priceline taking bids due final 4 stay probably priceline 4 star hotel downtown 50 nights night fine 3 stars", "Date": "2010-04-12 00:00:00"}], "HotelInfo": {"Name": "Comfort Inn", "HotelURL": "/ShowUserReviews-g37209-d91454-Reviews-Comfort_Inn-Indianapolis_Indiana.html", "Price": "$103 - $103*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3514 South Keystone Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46227</span></span> (Formerly Holiday Inn Express )</span> </span> </address>", "HotelID": "91454", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/30/71/30719f4a94c7fd2fac1f6c795f52986f11large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Elkhart, Indiana",
+      "Title": "\u201cIt was okay.\u201d",
+      "Author": "AimeeKB",
+      "ReviewID": "UR126087109",
+      "Content": "stayed hotel attend event university indianapolis chose location mile school conveniently located city perfect lot options food employee front desk handy guide local restaurants directions included check quick easy hallways funky smell nonsmoking lingering smell cigarette looks hotel somewhat remodeled recently unfortunately appeared quick cheap okay single king size left plenty space luggage bed comfortable spacious bathroom clean bathtub drained hotel warm humid air circulation fan immediately chunks dust flying warm left fan night slept blankets lobby nice looked breakfast offered employees front counter nice helpful odd encountered door handles guests lift couldnt figure door wasnt help feel pretty stupid male construction workers staying location single encountered creeps stay female guest slightly uncomfortable",
+      "Date": "2012-03-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Cary, NC",
+      "Title": "\u201cGood hotel, Convenient to city\u201d",
+      "Author": "scattt",
+      "ReviewID": "UR120568961",
+      "Content": "wife son stayed weekend band competition lucas oil stadium complaints hotel bit age clean staff nice breakfast crowded 8 am food choices pretty stocked 5 min drive stadium convenience factor stay criticism price 120night little compared downtown downtown booked weekend charge parking hotel",
+      "Date": "2011-11-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Baltimore, Maryland",
+      "Title": "\u201cPretty Good\u201d",
+      "Author": "Bowden68",
+      "ReviewID": "UR61108855",
+      "Content": "usually stay downtown indianapolis final sold meeting fortunate close five miles little beat deem unsafe hotel fine property doubt holiday inn built hotel renovated clean little nice indoor pool property elevator paid rack rate 90 night priceline taking bids due final 4 stay probably priceline 4 star hotel downtown 50 nights night fine 3 stars",
+      "Date": "2010-04-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Comfort Inn",
+    "HotelURL": "/ShowUserReviews-g37209-d91454-Reviews-Comfort_Inn-Indianapolis_Indiana.html",
+    "Price": "$103 - $103*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3514 South Keystone Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46227</span></span> (Formerly Holiday Inn Express )</span> </span> </address>",
+    "HotelID": "91454",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/30/71/30719f4a94c7fd2fac1f6c795f52986f11large.jpg"
+  }
+}

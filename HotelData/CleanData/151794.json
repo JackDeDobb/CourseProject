@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Orlando, Florida", "Title": "\u201cOverpriced based on lack of quality\u201d", "Author": "David A", "ReviewID": "UR122087000", "Content": "girlfriend stayed hugely disappointed remote control tv didnt rips bed sheets laid top hard mattress 10 tv channels 6 horrible signal tv set bed infront bath awoken 830am outside window doing repairs exterior positives staff friendly close crash boat enjoy stay", "Date": "2011-12-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Orlando, Florida", "Title": "\u201cHoneymoon Heaven!!\u201d", "Author": "teamtejeda", "ReviewID": "UR106817787", "Content": "husband stayed week honeymoon august 2009 suite set bottle champagne waiting bed covered rose petals decorated white sweet bed soo comfortable hard time getting morning island air conditioning nice cool evening returned bathroom kept clean daily unless requested left hacienda secluded quiet relax close beaches staff wonderful super friendly restaurant closed food wonderful time definitely returning kids time", "Date": "2011-05-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "San Juan, Puerto Rico", "Title": "\u201cWhat a fantastic surprise!\u201d", "Author": "Carmenalex", "ReviewID": "UR92131201", "Content": "family kings day celebration home aguadilla san juan car trip decided stay overnight hotel husband half daughter motherinlaw look cheap motel entrance pretty kept service amazing friendly family clean tower wall complete little doorway daughter loved tvs plenty channels plasma viewing comfortable motherinlaw daughter night hubby time dancing drinks fantastic prices restaurant thursday night dj romantic stroll nice lush green grounds played billiards game stuck bored surprised fun morning breakfast delicious homemade service amazing ate restaurant balcony fresh air daughter danced music ate ladies front desk gladly restaurant warm bottle milk daughter check wasnt warm politely graciously warm smile thank staff super helpful friendly sooo nice guy restaurant fantastic serving food liked hubby romantic getaway minutes las water park ice skating rink food costs extra didnt expensive fitness center weight machine thingy werent gym didnt bother oh grounds super clean kept relaxed time", "Date": "2011-01-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Caguas, Puerto Rico", "Title": "\u201cIf you have the money, please stay somewhere else!\u201d", "Author": "Chancita", "ReviewID": "UR85561493", "Content": "days looking stay night chose el reviews site marriott courtyard booked entrance looks cheap entrance motel facilities overall ok pool clean refreshing pool bar wasnt 6pm restaurant restaurant times day expensive breakfast 8am dinner 6pm horrifying stains tv poor signal 8 channels maximum decoration uncomfortable mattress flat pillows awful bathroom hot water theres control prepared nice burn believe offers website supposedly include breakfast dinner 10 coupon youll notified restaurant scam exercise haha service secret", "Date": "2010-11-01 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Cayey, Puerto Rico", "Title": "\u201ca \"Must Return Retreat\"\u201d", "Author": "EventosMadrigal", "ReviewID": "UR82015800", "Content": "call request info check service time visitor impressed care time dedicated staff stay desired naturally beautiful treat looking leave everyday stress finding peace oasis wifi internet service available excellent quiet resting relaxation house nightlife includes karaoke friday pool drinks gathering saturday rafael makes difference service smile poolside bar restaurant available ample variety allows dine meeting facilities ideal spot business leisure altogether natural scenery tranquility facilities attentive staff return retreat wanda torres de", "Date": "2010-10-04 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "US", "Title": "\u201cGood hotel\u201d", "Author": "gcv77", "ReviewID": "UR73230141", "Content": "stayed hotel hang aguadilla hotel confortable clean pool pool maybe kids didnt stayed night hotel close cielo mar hotel expensive close hotel beach ice skating water park bowling definately car summary hotel price weekends live entertainment starting 10pm sampler price reasonable", "Date": "2010-08-01 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Florida", "Title": "\u201cIt was one of the greatest experiences I've had in 5 years\u201d", "Author": "OneLove69", "ReviewID": "UR58514051", "Content": "amazing able relax quiet calm atomosphere loved honeymoon suite didnt share except husband youre looking vacation spot nice quiet family recommend hotel", "Date": "2010-03-13 00:00:00"}], "HotelInfo": {"Name": "Hacienda El Pedregal", "HotelURL": "/ShowUserReviews-g580452-d151794-Reviews-Hacienda_El_Pedregal-Aguadilla_Puerto_Rico.html", "Price": "$75 - $85*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">rd 111 km 0.1 Cuesta Nueva</span>, <span class=\"locality\"><span property=\"v:locality\">Aguadilla</span> <span property=\"v:postal-code\">00600</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>", "HotelID": "151794", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/35/86/c7/view.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Orlando, Florida",
+      "Title": "\u201cOverpriced based on lack of quality\u201d",
+      "Author": "David A",
+      "ReviewID": "UR122087000",
+      "Content": "girlfriend stayed hugely disappointed remote control tv didnt rips bed sheets laid top hard mattress 10 tv channels 6 horrible signal tv set bed infront bath awoken 830am outside window doing repairs exterior positives staff friendly close crash boat enjoy stay",
+      "Date": "2011-12-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Orlando, Florida",
+      "Title": "\u201cHoneymoon Heaven!!\u201d",
+      "Author": "teamtejeda",
+      "ReviewID": "UR106817787",
+      "Content": "husband stayed week honeymoon august 2009 suite set bottle champagne waiting bed covered rose petals decorated white sweet bed soo comfortable hard time getting morning island air conditioning nice cool evening returned bathroom kept clean daily unless requested left hacienda secluded quiet relax close beaches staff wonderful super friendly restaurant closed food wonderful time definitely returning kids time",
+      "Date": "2011-05-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "San Juan, Puerto Rico",
+      "Title": "\u201cWhat a fantastic surprise!\u201d",
+      "Author": "Carmenalex",
+      "ReviewID": "UR92131201",
+      "Content": "family kings day celebration home aguadilla san juan car trip decided stay overnight hotel husband half daughter motherinlaw look cheap motel entrance pretty kept service amazing friendly family clean tower wall complete little doorway daughter loved tvs plenty channels plasma viewing comfortable motherinlaw daughter night hubby time dancing drinks fantastic prices restaurant thursday night dj romantic stroll nice lush green grounds played billiards game stuck bored surprised fun morning breakfast delicious homemade service amazing ate restaurant balcony fresh air daughter danced music ate ladies front desk gladly restaurant warm bottle milk daughter check wasnt warm politely graciously warm smile thank staff super helpful friendly sooo nice guy restaurant fantastic serving food liked hubby romantic getaway minutes las water park ice skating rink food costs extra didnt expensive fitness center weight machine thingy werent gym didnt bother oh grounds super clean kept relaxed time",
+      "Date": "2011-01-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Caguas, Puerto Rico",
+      "Title": "\u201cIf you have the money, please stay somewhere else!\u201d",
+      "Author": "Chancita",
+      "ReviewID": "UR85561493",
+      "Content": "days looking stay night chose el reviews site marriott courtyard booked entrance looks cheap entrance motel facilities overall ok pool clean refreshing pool bar wasnt 6pm restaurant restaurant times day expensive breakfast 8am dinner 6pm horrifying stains tv poor signal 8 channels maximum decoration uncomfortable mattress flat pillows awful bathroom hot water theres control prepared nice burn believe offers website supposedly include breakfast dinner 10 coupon youll notified restaurant scam exercise haha service secret",
+      "Date": "2010-11-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Cayey, Puerto Rico",
+      "Title": "\u201ca \"Must Return Retreat\"\u201d",
+      "Author": "EventosMadrigal",
+      "ReviewID": "UR82015800",
+      "Content": "call request info check service time visitor impressed care time dedicated staff stay desired naturally beautiful treat looking leave everyday stress finding peace oasis wifi internet service available excellent quiet resting relaxation house nightlife includes karaoke friday pool drinks gathering saturday rafael makes difference service smile poolside bar restaurant available ample variety allows dine meeting facilities ideal spot business leisure altogether natural scenery tranquility facilities attentive staff return retreat wanda torres de",
+      "Date": "2010-10-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "US",
+      "Title": "\u201cGood hotel\u201d",
+      "Author": "gcv77",
+      "ReviewID": "UR73230141",
+      "Content": "stayed hotel hang aguadilla hotel confortable clean pool pool maybe kids didnt stayed night hotel close cielo mar hotel expensive close hotel beach ice skating water park bowling definately car summary hotel price weekends live entertainment starting 10pm sampler price reasonable",
+      "Date": "2010-08-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Florida",
+      "Title": "\u201cIt was one of the greatest experiences I've had in 5 years\u201d",
+      "Author": "OneLove69",
+      "ReviewID": "UR58514051",
+      "Content": "amazing able relax quiet calm atomosphere loved honeymoon suite didnt share except husband youre looking vacation spot nice quiet family recommend hotel",
+      "Date": "2010-03-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hacienda El Pedregal",
+    "HotelURL": "/ShowUserReviews-g580452-d151794-Reviews-Hacienda_El_Pedregal-Aguadilla_Puerto_Rico.html",
+    "Price": "$75 - $85*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">rd 111 km 0.1 Cuesta Nueva</span>, <span class=\"locality\"><span property=\"v:locality\">Aguadilla</span> <span property=\"v:postal-code\">00600</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>",
+    "HotelID": "151794",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/35/86/c7/view.jpg"
+  }
+}

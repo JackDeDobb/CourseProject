@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Regensburg", "Title": "\u201cattempt to cheat at check out\u201d", "Author": "Max S", "ReviewID": "UR127341929", "Content": "manager hotel tryed cheat girlfriend check cafeteria 20 dollar restaurant 80 dollar eat manager call airport tell ban flight thats unprofessional poor hotel", "Date": "2012-04-06 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cTerrible location. Wifi never fixed. Rude staff. Highway motel\u201d", "Author": "bobbiee26", "ReviewID": "UR126579643", "Content": "absolutely terrible location miles middle access hotel taking metro line rebibbia 15 mins roma termini local bus 15 minutes timing trip city centre 4045 minutes worst buses stop 1130pm taxi walking hotel travelers people hotel appeared tour own private coach meant werent affected hotels remote location business worse service 4star hotel shocking website shuttle bus service disposal actual 2 shuttle services 830am 730pm hotel rebibbia station free wifi 2 4 days broken trying fix fixed dont iron hotel lend laundry service wasnt anyway friends run nearby laundromat ironing found experience underwhelming infuriating times staff particularly friendly helpful reason staying travel agent booked rush minute location agreed stay", "Date": "2012-03-24 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Imola, Italy", "Title": "\u201cNice accommodation near the GRA highway\u201d", "Author": "LukeOnTheRoad", "ReviewID": "UR122988835", "Content": "building brand kept clean 200 spacious nice hotel outside ramp access gra circular highway runs rome purpose trip visiting rome car complimentary indoor garage available", "Date": "2012-01-12 00:00:00"}], "HotelInfo": {"Name": "Hotel degli Imperatori", "HotelURL": "/ShowUserReviews-g187791-d642964-Reviews-Hotel_degli_Imperatori-Rome_Lazio.html", "Price": "$83 - $177*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Guido Gonella 15</span>, <span class=\"locality\"><span property=\"v:postal-code\">00156</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "642964", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/62/21/6221b24f0f9f76de91623567ea2978607large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Regensburg",
+      "Title": "\u201cattempt to cheat at check out\u201d",
+      "Author": "Max S",
+      "ReviewID": "UR127341929",
+      "Content": "manager hotel tryed cheat girlfriend check cafeteria 20 dollar restaurant 80 dollar eat manager call airport tell ban flight thats unprofessional poor hotel",
+      "Date": "2012-04-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cTerrible location. Wifi never fixed. Rude staff. Highway motel\u201d",
+      "Author": "bobbiee26",
+      "ReviewID": "UR126579643",
+      "Content": "absolutely terrible location miles middle access hotel taking metro line rebibbia 15 mins roma termini local bus 15 minutes timing trip city centre 4045 minutes worst buses stop 1130pm taxi walking hotel travelers people hotel appeared tour own private coach meant werent affected hotels remote location business worse service 4star hotel shocking website shuttle bus service disposal actual 2 shuttle services 830am 730pm hotel rebibbia station free wifi 2 4 days broken trying fix fixed dont iron hotel lend laundry service wasnt anyway friends run nearby laundromat ironing found experience underwhelming infuriating times staff particularly friendly helpful reason staying travel agent booked rush minute location agreed stay",
+      "Date": "2012-03-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Imola, Italy",
+      "Title": "\u201cNice accommodation near the GRA highway\u201d",
+      "Author": "LukeOnTheRoad",
+      "ReviewID": "UR122988835",
+      "Content": "building brand kept clean 200 spacious nice hotel outside ramp access gra circular highway runs rome purpose trip visiting rome car complimentary indoor garage available",
+      "Date": "2012-01-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel degli Imperatori",
+    "HotelURL": "/ShowUserReviews-g187791-d642964-Reviews-Hotel_degli_Imperatori-Rome_Lazio.html",
+    "Price": "$83 - $177*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Guido Gonella 15</span>, <span class=\"locality\"><span property=\"v:postal-code\">00156</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "642964",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/62/21/6221b24f0f9f76de91623567ea2978607large.jpg"
+  }
+}

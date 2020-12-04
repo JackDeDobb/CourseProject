@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "pasadena,ca", "Title": "\u201cWorse than most HI express\u201d", "Author": "lcf-guy", "ReviewID": "UR118373340", "Content": "features exterior look holiday inn expresses rundown lamp broken carpet dirtiest seen bath renovation plus 75 location convenient wifi free", "Date": "2011-09-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Miami Beach, Florida", "Title": "\u201cExcellent Service & Location\u201d", "Author": "mytrip063", "ReviewID": "UR63939250", "Content": "usually write review bad experience warn liked stay holiday inn express decided write positive review succeeded level service firstrate worker nice greeting nicely appointed clean beds comfortable complimentary touches free american hot buffet breakfast awaits eggs bacon cereal bagels fruit free drinks happy hour hot appetizers price excellent location surrounded major restuarant chains walking distance close youd definitely holiday inn express stayed time", "Date": "2010-05-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "delaware", "Title": "\u201cA great hotel for business travelers\u201d", "Author": "gremlyn", "ReviewID": "UR57886295", "Content": "hotel ranks ive past cost convenient including hq kept immaculately clean staff outstanding deal 5 star resort quiet comfortable hotel arranged picked limo dime hq shuttle stopped service 6pm day leaving yellow checker shuttle airport request manager allowed staff 17 miles dfw charge tipped driver saving butts getting dfw time am agency stay service", "Date": "2010-03-06 00:00:00"}], "HotelInfo": {"Name": "Holiday Inn Express Hotel & Suites Dallas Park Central Northeast", "HotelURL": "/ShowUserReviews-g55711-d109474-Reviews-Holiday_Inn_Express_Hotel_Suites_Dallas_Park_Central_Northeast-Dallas_Texas.html", "Price": "$87 - $119*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">9089 Vantage Point Dr.</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75243</span></span> (Formerly Hawthorn Suites)</span></span></address>", "HotelID": "109474", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f2/31/f23140d09ceda44a6b0f9f63cbc9a54810large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "pasadena,ca",
+      "Title": "\u201cWorse than most HI express\u201d",
+      "Author": "lcf-guy",
+      "ReviewID": "UR118373340",
+      "Content": "features exterior look holiday inn expresses rundown lamp broken carpet dirtiest seen bath renovation plus 75 location convenient wifi free",
+      "Date": "2011-09-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Miami Beach, Florida",
+      "Title": "\u201cExcellent Service & Location\u201d",
+      "Author": "mytrip063",
+      "ReviewID": "UR63939250",
+      "Content": "usually write review bad experience warn liked stay holiday inn express decided write positive review succeeded level service firstrate worker nice greeting nicely appointed clean beds comfortable complimentary touches free american hot buffet breakfast awaits eggs bacon cereal bagels fruit free drinks happy hour hot appetizers price excellent location surrounded major restuarant chains walking distance close youd definitely holiday inn express stayed time",
+      "Date": "2010-05-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "delaware",
+      "Title": "\u201cA great hotel for business travelers\u201d",
+      "Author": "gremlyn",
+      "ReviewID": "UR57886295",
+      "Content": "hotel ranks ive past cost convenient including hq kept immaculately clean staff outstanding deal 5 star resort quiet comfortable hotel arranged picked limo dime hq shuttle stopped service 6pm day leaving yellow checker shuttle airport request manager allowed staff 17 miles dfw charge tipped driver saving butts getting dfw time am agency stay service",
+      "Date": "2010-03-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Holiday Inn Express Hotel & Suites Dallas Park Central Northeast",
+    "HotelURL": "/ShowUserReviews-g55711-d109474-Reviews-Holiday_Inn_Express_Hotel_Suites_Dallas_Park_Central_Northeast-Dallas_Texas.html",
+    "Price": "$87 - $119*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">9089 Vantage Point Dr.</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75243</span></span> (Formerly Hawthorn Suites)</span></span></address>",
+    "HotelID": "109474",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f2/31/f23140d09ceda44a6b0f9f63cbc9a54810large.jpg"
+  }
+}

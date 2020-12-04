@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Lagos", "Title": "\u201cA must use for any visitor to the Vatican.\u201d", "Author": "Dafe C Posted by an Easytobook.com traveler", "ReviewID": "UR127727963", "Content": "hotel clean excellent friendly staff hotel conveniently located stones throw 5 minutes walk vatican 2 minutes walk san pietro train station 2 busstops close hat", "Date": "2012-04-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Hardinsburg, Kentucky", "Title": "\u201cGreat location, reasonably priced, extraordinary staff\u201d", "Author": "Nora D", "ReviewID": "UR121132624", "Content": "spent ten days hotel month hotel baths clean comfortable shielded street noise double doors balcony location close st peters close excellent restaurant cafe daily local street market romans block staff outstanding friend traveling injured confined days ultimately hospital provided assistance cheerfully beyond expectations stay", "Date": "2011-11-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Los Angeles, California", "Title": "\u201cGreat location!!!!\u201d", "Author": "Susana G", "ReviewID": "UR119266437", "Content": "location hotel close vatican city 5 minutes walking express super market exiting left couple feet walking front bus stop elevator lady hotel brought luggage happened left hotel voluntary tip changed sheets time guess days change blanket stay 18 days bathroom floor cleaned third day leave shampoos time shampoos 4 fridges nice ice breakfast buffet exactly food single day hate staff helpful nice spoke english spanish fluently bad experience receptionist called unauthorized taxi cab airport didn\u2019t taxi meter permit overcharged taking airport confronted phone loud polite hotels europe paid compared", "Date": "2011-10-13 00:00:00"}], "HotelInfo": {"Name": "Hotel San Pietro", "HotelURL": "/ShowUserReviews-g187791-d615787-Reviews-Hotel_San_Pietro-Rome_Lazio.html", "Price": "$119 - $244*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Cardinal Cassetta, 9</span>, <span class=\"locality\"><span property=\"v:postal-code\">00165</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "615787", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/91/31/9131ff6cdf824b16bf489f47945f33b81large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Lagos",
+      "Title": "\u201cA must use for any visitor to the Vatican.\u201d",
+      "Author": "Dafe C Posted by an Easytobook.com traveler",
+      "ReviewID": "UR127727963",
+      "Content": "hotel clean excellent friendly staff hotel conveniently located stones throw 5 minutes walk vatican 2 minutes walk san pietro train station 2 busstops close hat",
+      "Date": "2012-04-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Hardinsburg, Kentucky",
+      "Title": "\u201cGreat location, reasonably priced, extraordinary staff\u201d",
+      "Author": "Nora D",
+      "ReviewID": "UR121132624",
+      "Content": "spent ten days hotel month hotel baths clean comfortable shielded street noise double doors balcony location close st peters close excellent restaurant cafe daily local street market romans block staff outstanding friend traveling injured confined days ultimately hospital provided assistance cheerfully beyond expectations stay",
+      "Date": "2011-11-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Los Angeles, California",
+      "Title": "\u201cGreat location!!!!\u201d",
+      "Author": "Susana G",
+      "ReviewID": "UR119266437",
+      "Content": "location hotel close vatican city 5 minutes walking express super market exiting left couple feet walking front bus stop elevator lady hotel brought luggage happened left hotel voluntary tip changed sheets time guess days change blanket stay 18 days bathroom floor cleaned third day leave shampoos time shampoos 4 fridges nice ice breakfast buffet exactly food single day hate staff helpful nice spoke english spanish fluently bad experience receptionist called unauthorized taxi cab airport didn\u2019t taxi meter permit overcharged taking airport confronted phone loud polite hotels europe paid compared",
+      "Date": "2011-10-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel San Pietro",
+    "HotelURL": "/ShowUserReviews-g187791-d615787-Reviews-Hotel_San_Pietro-Rome_Lazio.html",
+    "Price": "$119 - $244*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Cardinal Cassetta, 9</span>, <span class=\"locality\"><span property=\"v:postal-code\">00165</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "615787",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/91/31/9131ff6cdf824b16bf489f47945f33b81large.jpg"
+  }
+}

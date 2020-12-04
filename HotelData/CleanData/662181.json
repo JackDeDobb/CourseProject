@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Cornwall", "Title": "\u201ceasy location, nice overall but no breakfast included\u201d", "Author": "BFem", "ReviewID": "UR82497855", "Content": "hotel pleasant close metro 2 min walk easy main tourist attractions centre safe hotel located wasnt nicest comparing centre rome nice nice cafes etc nearby meant walk corner breakfast pastries shame hotel doesnt offer easier value money didnt swimming ran time comment looked clean cold guy running owner friendly speaks english night guy wasnt english couldnt help phone night lost night reason couldnt hotel fault difficult", "Date": "2010-10-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Athens, Greece", "Title": "\u201cIt's a very good hotel 15 minutes from the center by metro\u201d", "Author": "gianoulix", "ReviewID": "UR81389388", "Content": "arrived understand greece speak greek 3 persons double bed day change towels clean price vacations little metro little earthquake", "Date": "2010-09-28 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 5.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Southern England", "Title": "\u201cgood for money - very simple though\u201d", "Author": "Tasha2424", "ReviewID": "UR74193651", "Content": "hotel extremely basic fairly difficult follow instructions reviews youll arrived hotel staff people hanging time fairly hostile pool disgusting fridge wasnt plugged plugged didnt woke day drilling building leave following day stayed 6 nights rome stay pool cleaned filled downstairs friendly isnt helpful overnight didnt speak quiet tourist night difficult speaks english clean free airconditioning breakfast option breakfast easy centre rome sights metro extremely easy 16 euros week ticket value suggest guidebook partner helpful sights map tell bit sights vatican city tour extremely worth skipped 2 hours queuing told lots 40 euros colloseum worth tour look yourself 15 euros colloseum foro romano amazing ruins didnt tour worth finding history 12 euros half price student card andor passport prove 16 25 definitely student card student save sights fontana di trevi trevi fountain incredible restaurants nightlife evening emanuelle monument unbelievable soooo huge everyday explore night fountain etc hope helpful tasha xxx", "Date": "2010-08-07 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Riyadh, Saudi Arabia", "Title": "\u201cGood value for money\u201d", "Author": "luluabraha", "ReviewID": "UR67466342", "Content": "hotel nice clean staff helpful elevator difficult luggage 2nd floor close subway located quiet residential chaos downtown value money breakfast", "Date": "2010-06-14 00:00:00"}], "HotelInfo": {"Name": "The Strand Hotel", "HotelURL": "/ShowUserReviews-g187791-d662181-Reviews-The_Strand_Hotel-Rome_Lazio.html", "Price": "$77 - $132*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Tuscolana 892</span>, <span class=\"locality\"><span property=\"v:postal-code\">174</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "662181", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6e/a0/6ea01d87772109e1a6f658477e74d2d55large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Cornwall",
+      "Title": "\u201ceasy location, nice overall but no breakfast included\u201d",
+      "Author": "BFem",
+      "ReviewID": "UR82497855",
+      "Content": "hotel pleasant close metro 2 min walk easy main tourist attractions centre safe hotel located wasnt nicest comparing centre rome nice nice cafes etc nearby meant walk corner breakfast pastries shame hotel doesnt offer easier value money didnt swimming ran time comment looked clean cold guy running owner friendly speaks english night guy wasnt english couldnt help phone night lost night reason couldnt hotel fault difficult",
+      "Date": "2010-10-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Athens, Greece",
+      "Title": "\u201cIt's a very good hotel 15 minutes from the center by metro\u201d",
+      "Author": "gianoulix",
+      "ReviewID": "UR81389388",
+      "Content": "arrived understand greece speak greek 3 persons double bed day change towels clean price vacations little metro little earthquake",
+      "Date": "2010-09-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 5.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Southern England",
+      "Title": "\u201cgood for money - very simple though\u201d",
+      "Author": "Tasha2424",
+      "ReviewID": "UR74193651",
+      "Content": "hotel extremely basic fairly difficult follow instructions reviews youll arrived hotel staff people hanging time fairly hostile pool disgusting fridge wasnt plugged plugged didnt woke day drilling building leave following day stayed 6 nights rome stay pool cleaned filled downstairs friendly isnt helpful overnight didnt speak quiet tourist night difficult speaks english clean free airconditioning breakfast option breakfast easy centre rome sights metro extremely easy 16 euros week ticket value suggest guidebook partner helpful sights map tell bit sights vatican city tour extremely worth skipped 2 hours queuing told lots 40 euros colloseum worth tour look yourself 15 euros colloseum foro romano amazing ruins didnt tour worth finding history 12 euros half price student card andor passport prove 16 25 definitely student card student save sights fontana di trevi trevi fountain incredible restaurants nightlife evening emanuelle monument unbelievable soooo huge everyday explore night fountain etc hope helpful tasha xxx",
+      "Date": "2010-08-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Riyadh, Saudi Arabia",
+      "Title": "\u201cGood value for money\u201d",
+      "Author": "luluabraha",
+      "ReviewID": "UR67466342",
+      "Content": "hotel nice clean staff helpful elevator difficult luggage 2nd floor close subway located quiet residential chaos downtown value money breakfast",
+      "Date": "2010-06-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "The Strand Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d662181-Reviews-The_Strand_Hotel-Rome_Lazio.html",
+    "Price": "$77 - $132*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Tuscolana 892</span>, <span class=\"locality\"><span property=\"v:postal-code\">174</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "662181",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6e/a0/6ea01d87772109e1a6f658477e74d2d55large.jpg"
+  }
+}

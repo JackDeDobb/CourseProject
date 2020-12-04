@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "NW England", "Title": "\u201cCentral location, quiet, good facilities.\u201d", "Author": "trippietripper", "ReviewID": "UR125907556", "Content": "booking handled pleasant host met door hand key id telephone arrived centre city arrange meet 20 minutes facilities tv security safe equipped kitchen washing machine iron bathroom shower plenty hot water beds comfortable plenty towels bedding provided 2 sets keys provided apartments street 100metres rambla whilst centrally located attractions quiet traffic extraneous noises stay business leisure", "Date": "2012-03-10 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Norwich, UK", "Title": "\u201cGreat value apartments in a fantastic location\u201d", "Author": "Siddex", "ReviewID": "UR103882095", "Content": "managed book apartments barcelona celebrate friends stag reservations struggling apartments house 10 single beds close la rambla mh site easy apartments floor plan getting managed secure 3 apartments 2 1 bedroom apartments 2 bedroom apartment 10 reasonable rate arrival barcelona rang office instructed told mh address information time meet check person found apartments easily admittedly street dangerous time check friendly informative swiftly efficiently dealt answered questions apartment clean basic amentities comfortable suited ground free wifi fine beds clean comfortable sangria beer bathrooms clean towels provided apartments secure safe provided free charge apartment location apartments excellent mere 2 minutes walk main la rambla street opposite apartments couple little supermarkets bar enjoyable stay barcelona standard apartments dealt efficiently mh apartments thanks lot", "Date": "2011-04-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Sheffield", "Title": "\u201cGreat place to stay just not in this area.\u201d", "Author": "AJBrown81", "ReviewID": "UR63145377", "Content": "arranged 17 stay barcelona guys 24 55 quality themselves clean safe flats floors considerate behaviour including late night beers roof staff mh apartments helpful especially extend stay due icelandic volcano wasnt extend lock stuff sent afternoon called hours alternative useful close late night irish bar doors selling cheap beers pool tables live music til 3am supermarkets deli directly opposite issue red light district starts block passed quiet pub hand day block marsala bar 3 afternoon stayed probably suitable families", "Date": "2010-05-03 00:00:00"}], "HotelInfo": {"Name": "MH Apartments Liceo", "HotelURL": "/ShowUserReviews-g187497-d639414-Reviews-MH_Apartments_Liceo-Barcelona_Catalonia.html", "Price": "$137 - $210*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Carrer de la Unio, 21</span>, <span class=\"locality\"><span property=\"v:postal-code\">08001</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "639414", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/ea/a7/1f/salon-1-bedroom-apartment.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "NW England",
+      "Title": "\u201cCentral location, quiet, good facilities.\u201d",
+      "Author": "trippietripper",
+      "ReviewID": "UR125907556",
+      "Content": "booking handled pleasant host met door hand key id telephone arrived centre city arrange meet 20 minutes facilities tv security safe equipped kitchen washing machine iron bathroom shower plenty hot water beds comfortable plenty towels bedding provided 2 sets keys provided apartments street 100metres rambla whilst centrally located attractions quiet traffic extraneous noises stay business leisure",
+      "Date": "2012-03-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Norwich, UK",
+      "Title": "\u201cGreat value apartments in a fantastic location\u201d",
+      "Author": "Siddex",
+      "ReviewID": "UR103882095",
+      "Content": "managed book apartments barcelona celebrate friends stag reservations struggling apartments house 10 single beds close la rambla mh site easy apartments floor plan getting managed secure 3 apartments 2 1 bedroom apartments 2 bedroom apartment 10 reasonable rate arrival barcelona rang office instructed told mh address information time meet check person found apartments easily admittedly street dangerous time check friendly informative swiftly efficiently dealt answered questions apartment clean basic amentities comfortable suited ground free wifi fine beds clean comfortable sangria beer bathrooms clean towels provided apartments secure safe provided free charge apartment location apartments excellent mere 2 minutes walk main la rambla street opposite apartments couple little supermarkets bar enjoyable stay barcelona standard apartments dealt efficiently mh apartments thanks lot",
+      "Date": "2011-04-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sheffield",
+      "Title": "\u201cGreat place to stay just not in this area.\u201d",
+      "Author": "AJBrown81",
+      "ReviewID": "UR63145377",
+      "Content": "arranged 17 stay barcelona guys 24 55 quality themselves clean safe flats floors considerate behaviour including late night beers roof staff mh apartments helpful especially extend stay due icelandic volcano wasnt extend lock stuff sent afternoon called hours alternative useful close late night irish bar doors selling cheap beers pool tables live music til 3am supermarkets deli directly opposite issue red light district starts block passed quiet pub hand day block marsala bar 3 afternoon stayed probably suitable families",
+      "Date": "2010-05-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "MH Apartments Liceo",
+    "HotelURL": "/ShowUserReviews-g187497-d639414-Reviews-MH_Apartments_Liceo-Barcelona_Catalonia.html",
+    "Price": "$137 - $210*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Carrer de la Unio, 21</span>, <span class=\"locality\"><span property=\"v:postal-code\">08001</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "639414",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/ea/a7/1f/salon-1-bedroom-apartment.jpg"
+  }
+}

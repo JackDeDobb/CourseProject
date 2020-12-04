@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Cirencester", "Title": "\u201cRome on the cheap - a good deal.\u201d", "Author": "BabaCirencester", "ReviewID": "UR127000987", "Content": "value hotel clean bathroom fine staff helpful friendly position near near termini walkable forum etc nice trattoria pizzeria corner supermarket 5 mins people budget noisy outside late night blame hoardes teenagers school trips hotel", "Date": "2012-03-31 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cPerfect stay!\u201d", "Author": "lydia c", "ReviewID": "UR122685852", "Content": "boyfriend stayed 3 nights december 2011 hotel greatly exceeded expectations reading awful reviews time ive written review stand lovely hotel comments id read star anyway expect clean comfortable shower comfortable bed pleasant helpful staff cheap hotel city break location fantastic walk main attractions rome hotel whoever dark alley poo definately lying charming brilliant trip definately stay", "Date": "2012-01-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "derbyshire", "Title": "\u201cI had no problems at all here!!\u201d", "Author": "angharad m", "ReviewID": "UR120918516", "Content": "teenager daughter 11 november rome girly trip stayed santa worried read reviews saying inn dark alley human poop load rubbish hotel ideally situated sort walk collesseum shorter walk termini station staff nice helpful clean wonderful stay intend return nect husband short five star luxery hotel book feel leave rotten reviews", "Date": "2011-11-22 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Milan, Italy", "Title": "\u201cOnly seasoned budget travelers will value location over discomfort here\u201d", "Author": "GianlucaMarcellino", "ReviewID": "UR82709692", "Content": "location santa maria maggiore start via merulana reasonably near termini train station discomforts expected budgeted considering price rome hotel market size basic furniture fittings lack elevator access dirty busy alley countrys average appear dangerous people unfamiliar italian version western civilization tidy surroundings considerate neighbours refurbished cleaner previous reviews especially dependance alley appear downright nice speaking size window size 316 uncomfortable previous reviewer check 306 book explicitly rule 306 annoying feature stay shabby service including sending luggage flight stairs wrong acceptable guest arrive forgetting assign leaving settle 306 yes makes 316 look posh", "Date": "2010-10-09 00:00:00"}], "HotelInfo": {"Name": "Hotel Santa Prassede", "HotelURL": "/ShowUserReviews-g187791-d1075728-Reviews-Hotel_Santa_Prassede-Rome_Lazio.html", "Price": "$66 - $158*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">via di Santa Prassede 25</span>, <span class=\"locality\"><span property=\"v:postal-code\">00184</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "1075728", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d6/f8/d6f885e682c52f4a73a242880e163d824large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Cirencester",
+      "Title": "\u201cRome on the cheap - a good deal.\u201d",
+      "Author": "BabaCirencester",
+      "ReviewID": "UR127000987",
+      "Content": "value hotel clean bathroom fine staff helpful friendly position near near termini walkable forum etc nice trattoria pizzeria corner supermarket 5 mins people budget noisy outside late night blame hoardes teenagers school trips hotel",
+      "Date": "2012-03-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cPerfect stay!\u201d",
+      "Author": "lydia c",
+      "ReviewID": "UR122685852",
+      "Content": "boyfriend stayed 3 nights december 2011 hotel greatly exceeded expectations reading awful reviews time ive written review stand lovely hotel comments id read star anyway expect clean comfortable shower comfortable bed pleasant helpful staff cheap hotel city break location fantastic walk main attractions rome hotel whoever dark alley poo definately lying charming brilliant trip definately stay",
+      "Date": "2012-01-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "derbyshire",
+      "Title": "\u201cI had no problems at all here!!\u201d",
+      "Author": "angharad m",
+      "ReviewID": "UR120918516",
+      "Content": "teenager daughter 11 november rome girly trip stayed santa worried read reviews saying inn dark alley human poop load rubbish hotel ideally situated sort walk collesseum shorter walk termini station staff nice helpful clean wonderful stay intend return nect husband short five star luxery hotel book feel leave rotten reviews",
+      "Date": "2011-11-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Milan, Italy",
+      "Title": "\u201cOnly seasoned budget travelers will value location over discomfort here\u201d",
+      "Author": "GianlucaMarcellino",
+      "ReviewID": "UR82709692",
+      "Content": "location santa maria maggiore start via merulana reasonably near termini train station discomforts expected budgeted considering price rome hotel market size basic furniture fittings lack elevator access dirty busy alley countrys average appear dangerous people unfamiliar italian version western civilization tidy surroundings considerate neighbours refurbished cleaner previous reviews especially dependance alley appear downright nice speaking size window size 316 uncomfortable previous reviewer check 306 book explicitly rule 306 annoying feature stay shabby service including sending luggage flight stairs wrong acceptable guest arrive forgetting assign leaving settle 306 yes makes 316 look posh",
+      "Date": "2010-10-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Santa Prassede",
+    "HotelURL": "/ShowUserReviews-g187791-d1075728-Reviews-Hotel_Santa_Prassede-Rome_Lazio.html",
+    "Price": "$66 - $158*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">via di Santa Prassede 25</span>, <span class=\"locality\"><span property=\"v:postal-code\">00184</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "1075728",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d6/f8/d6f885e682c52f4a73a242880e163d824large.jpg"
+  }
+}

@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Mexico", "Title": "\u201cGood Location\u201d", "Author": "XFisher", "ReviewID": "UR122594178", "Content": "located reforma busy street close business political centers mexico hotel desperately uplift furniture carpets replaced fair sized confortable hotels mexico city air conditioning system hotel exeption food hotel cafeteria fine", "Date": "2012-01-05 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Dallas, Texas", "Title": "\u201cThis was so bad, I decided to write a review while I am still here...\u201d", "Author": "OlyaDallas", "ReviewID": "UR73078414", "Content": "ok start saying objectively speaking total disaster stayed worse definitely worst stayed rates 5 star hotel built 70s kept property fairly clean charming 1 matress feels marble countertop bed home pretty hard manageable bit hard 2 people traveling sleep pillows stones 2 toilet leaking sewage 3 lobby bar elevator music style piano player hear 2 hrs concert evening 3 nights row extended coverage friday 4 gym 18 story hotel total 3 treadmills elliptical elliptical broken treadmill fashioned solid metal frame walking 15 min gym attendant nicely getting electic shocks offered 2 towels handrails insulation am kidding 5 lobby bar looks built 1972 appropriate period music 6 tv channels interference cant watch english speaking channels speak spanish dont care turnoff 7 minibar locked key call downstairs bad coffee packs 8 speaking coffee breakfast coffee coffee flavored water 9 speaking coffee flavored water service tonight hot tea pot pot hot coffee flavored water breakfast coffee pot tea drinker dont bad tastes imagine coffee brewed tea instead water stuff eventually resolved 75 min 2 coffee pots am writing 2 hrs tea 45 min finally received am irritated hopefully staying objective terrible major health threats dont ice machine bucket pour ice real safety issues employees friendly stay absolutely recommend", "Date": "2010-07-31 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 2.0, "Value": 5.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Atlanta, GA", "Title": "\u201cnice hotel but terrible beds\u201d", "Author": "chuck1063", "ReviewID": "UR56078513", "Content": "local office booked hotel traveled mexico city week hotel nice lots amenities beds unbelievable beds bolted floor hard tried sleep chair comforter extra blanked folded times cushy pad sleep time im staying door embassy suites costs", "Date": "2010-02-15 00:00:00"}], "HotelInfo": {"Name": "Sevilla Palace", "HotelURL": "/ShowUserReviews-g150800-d154682-Reviews-Sevilla_Palace-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$85 - $129*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Avenida Paseo de La Reforma 105</span> | <span class=\"extended-address\">Colonia Tabacalera</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06030</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "154682", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2b/b7/2bb788bc9779d02595ccd43a5d3984ac5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Mexico",
+      "Title": "\u201cGood Location\u201d",
+      "Author": "XFisher",
+      "ReviewID": "UR122594178",
+      "Content": "located reforma busy street close business political centers mexico hotel desperately uplift furniture carpets replaced fair sized confortable hotels mexico city air conditioning system hotel exeption food hotel cafeteria fine",
+      "Date": "2012-01-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Dallas, Texas",
+      "Title": "\u201cThis was so bad, I decided to write a review while I am still here...\u201d",
+      "Author": "OlyaDallas",
+      "ReviewID": "UR73078414",
+      "Content": "ok start saying objectively speaking total disaster stayed worse definitely worst stayed rates 5 star hotel built 70s kept property fairly clean charming 1 matress feels marble countertop bed home pretty hard manageable bit hard 2 people traveling sleep pillows stones 2 toilet leaking sewage 3 lobby bar elevator music style piano player hear 2 hrs concert evening 3 nights row extended coverage friday 4 gym 18 story hotel total 3 treadmills elliptical elliptical broken treadmill fashioned solid metal frame walking 15 min gym attendant nicely getting electic shocks offered 2 towels handrails insulation am kidding 5 lobby bar looks built 1972 appropriate period music 6 tv channels interference cant watch english speaking channels speak spanish dont care turnoff 7 minibar locked key call downstairs bad coffee packs 8 speaking coffee breakfast coffee coffee flavored water 9 speaking coffee flavored water service tonight hot tea pot pot hot coffee flavored water breakfast coffee pot tea drinker dont bad tastes imagine coffee brewed tea instead water stuff eventually resolved 75 min 2 coffee pots am writing 2 hrs tea 45 min finally received am irritated hopefully staying objective terrible major health threats dont ice machine bucket pour ice real safety issues employees friendly stay absolutely recommend",
+      "Date": "2010-07-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 2.0,
+        "Value": 5.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Atlanta, GA",
+      "Title": "\u201cnice hotel but terrible beds\u201d",
+      "Author": "chuck1063",
+      "ReviewID": "UR56078513",
+      "Content": "local office booked hotel traveled mexico city week hotel nice lots amenities beds unbelievable beds bolted floor hard tried sleep chair comforter extra blanked folded times cushy pad sleep time im staying door embassy suites costs",
+      "Date": "2010-02-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Sevilla Palace",
+    "HotelURL": "/ShowUserReviews-g150800-d154682-Reviews-Sevilla_Palace-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$85 - $129*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Avenida Paseo de La Reforma 105</span> | <span class=\"extended-address\">Colonia Tabacalera</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06030</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "154682",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2b/b7/2bb788bc9779d02595ccd43a5d3984ac5large.jpg"
+  }
+}

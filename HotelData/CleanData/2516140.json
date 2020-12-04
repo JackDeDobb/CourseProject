@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Hamburg, Germany", "Title": "\u201cDecent for the price\u201d", "Author": "Heinrich121", "ReviewID": "UR124324167", "Content": "fast check central location red line blocks clean hotel okay money pay towels linen changed day fresh soap day noise else safe hispanic shops nice nice service save lot money prefer 7eleven blocks mc donalds tacos cheap fast food stayed nights home late reception 247 save money picky yes carpets yes bathtub 2011 okay couple nights convenient travel car huge city la", "Date": "2012-02-08 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Dubai", "Title": "\u201cBest value for money\u201d", "Author": "jas1313", "ReviewID": "UR119041262", "Content": "hotel location value money restaurants close convenience shops public transport available site parking available free hotel serviced amenities including cable tv wifi internet clean comfortable motelhotel budget prefer spend money site seeing expensive accommodations la", "Date": "2011-10-07 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Singapore", "Title": "\u201cAffordable place to stay\u201d", "Author": "Pinkmartini88", "ReviewID": "UR118837679", "Content": "looking affordable stay trip la 20 minutes drive town neighbourhood quiet night safe walk drove bad staff ok clean airconditioned importantly toilets clean fine initially impression inns run americas value inn north alvarado street perspective walked street main road 5 minutes lots mexican food subway starbucks importantly prices affordable budget trip la", "Date": "2011-10-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Ontario, California", "Title": "\u201cNice staff, Good room, Affordable, Great location\u201d", "Author": "satchel82", "ReviewID": "UR81200811", "Content": "recently stayed hotel avoid drive home approx 40 miles concert night town hotel staff accomodating welcoming actually expected able walk staples center la live downtown stay downtown clean thats affordable highly recommend hotel comfortable weve decided stay hotel everytime plan night city", "Date": "2010-09-27 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cBad vibes. Where to begin?\u201d", "Author": "SebS26", "ReviewID": "UR62532987", "Content": "story stay 1 online 62 looks silverlake freeway perfect 2 arrive silverlake little closer coming inside greeted lovely inviting plexiglas window protect desk clerk wheres ours 3 begin sense vague creepiness cant pinpoint im normally picky hotels im vacation hotel sleep shower quiet clean ok looked fine decent size cleanish bathroom functioning internet normal motel amenities 4 notice alive wall insect rodent noise coming inside wall main bathroom didnt sound cricket wasnt pipe heater noise girlfriend begins freak 5 brown approx 1 inch clump brown unidentified substance floor bed looks poo clump coffee grounds coffee maker cant prove poo wasnt pleasant 6 decide leaving 1130 night arrived abandon ship normal motel actual silverlake time life ive confirm choice notice sign stairwell stating products sold premises contain chemicals california cause cancer dont common time id noticed sign 7 positive note night clerk pleasant checked 8 girlfriends cell phone purse mysteriously called mine driving wonder ghost hunters recommended", "Date": "2010-04-26 00:00:00"}], "HotelInfo": {"Name": "Americas Best Value Inn - Los Angeles / Hollywood", "HotelURL": "/ShowUserReviews-g32655-d553344-Reviews-Americas_Best_Value_Inn_Los_Angeles_Hollywood-Los_Angeles_California.html", "Price": "$68 - $91*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">811 North Alvarado St</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">90026</span></span> </span></span></address>", "HotelID": "2516140", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/96/6a/966abd42817b99dd541c4063e7cfd42b8large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Hamburg, Germany",
+      "Title": "\u201cDecent for the price\u201d",
+      "Author": "Heinrich121",
+      "ReviewID": "UR124324167",
+      "Content": "fast check central location red line blocks clean hotel okay money pay towels linen changed day fresh soap day noise else safe hispanic shops nice nice service save lot money prefer 7eleven blocks mc donalds tacos cheap fast food stayed nights home late reception 247 save money picky yes carpets yes bathtub 2011 okay couple nights convenient travel car huge city la",
+      "Date": "2012-02-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Dubai",
+      "Title": "\u201cBest value for money\u201d",
+      "Author": "jas1313",
+      "ReviewID": "UR119041262",
+      "Content": "hotel location value money restaurants close convenience shops public transport available site parking available free hotel serviced amenities including cable tv wifi internet clean comfortable motelhotel budget prefer spend money site seeing expensive accommodations la",
+      "Date": "2011-10-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Singapore",
+      "Title": "\u201cAffordable place to stay\u201d",
+      "Author": "Pinkmartini88",
+      "ReviewID": "UR118837679",
+      "Content": "looking affordable stay trip la 20 minutes drive town neighbourhood quiet night safe walk drove bad staff ok clean airconditioned importantly toilets clean fine initially impression inns run americas value inn north alvarado street perspective walked street main road 5 minutes lots mexican food subway starbucks importantly prices affordable budget trip la",
+      "Date": "2011-10-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ontario, California",
+      "Title": "\u201cNice staff, Good room, Affordable, Great location\u201d",
+      "Author": "satchel82",
+      "ReviewID": "UR81200811",
+      "Content": "recently stayed hotel avoid drive home approx 40 miles concert night town hotel staff accomodating welcoming actually expected able walk staples center la live downtown stay downtown clean thats affordable highly recommend hotel comfortable weve decided stay hotel everytime plan night city",
+      "Date": "2010-09-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cBad vibes. Where to begin?\u201d",
+      "Author": "SebS26",
+      "ReviewID": "UR62532987",
+      "Content": "story stay 1 online 62 looks silverlake freeway perfect 2 arrive silverlake little closer coming inside greeted lovely inviting plexiglas window protect desk clerk wheres ours 3 begin sense vague creepiness cant pinpoint im normally picky hotels im vacation hotel sleep shower quiet clean ok looked fine decent size cleanish bathroom functioning internet normal motel amenities 4 notice alive wall insect rodent noise coming inside wall main bathroom didnt sound cricket wasnt pipe heater noise girlfriend begins freak 5 brown approx 1 inch clump brown unidentified substance floor bed looks poo clump coffee grounds coffee maker cant prove poo wasnt pleasant 6 decide leaving 1130 night arrived abandon ship normal motel actual silverlake time life ive confirm choice notice sign stairwell stating products sold premises contain chemicals california cause cancer dont common time id noticed sign 7 positive note night clerk pleasant checked 8 girlfriends cell phone purse mysteriously called mine driving wonder ghost hunters recommended",
+      "Date": "2010-04-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Americas Best Value Inn - Los Angeles / Hollywood",
+    "HotelURL": "/ShowUserReviews-g32655-d553344-Reviews-Americas_Best_Value_Inn_Los_Angeles_Hollywood-Los_Angeles_California.html",
+    "Price": "$68 - $91*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">811 North Alvarado St</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">90026</span></span> </span></span></address>",
+    "HotelID": "2516140",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/96/6a/966abd42817b99dd541c4063e7cfd42b8large.jpg"
+  }
+}

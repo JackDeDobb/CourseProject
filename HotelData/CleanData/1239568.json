@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Sussex, Wisconsin, USA", "Title": "\u201cQuiet setting in business park\u201d", "Author": "Butzee", "ReviewID": "UR124937566", "Content": "stayed hotel nights loved located business park couldnt believe quiet featured kitchen plenty closet space spacious bathroom comfortable bed comes dvd player advantage perk renting movies free library clean staff friendly computers available near main lobby internet easy indianapolis restaurants 5 10 minutes recommend hotel business traveler couple family", "Date": "2012-02-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Fuquay Varina, North Carolina", "Title": "\u201cA pleasure to stay there!\u201d", "Author": "TravelingCass", "ReviewID": "UR119936760", "Content": "wonderful hotel bedroom suite perfect comfortable king size bed lots closet space allow settle stay size refridgerator bonus kitchen convenient loved recliner living able spread staff friendly handled pleasure stay cant wait", "Date": "2011-10-31 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "USA", "Title": "\u201cnewer property in very good shape 2011\u201d", "Author": "trav3908", "ReviewID": "UR119684939", "Content": "sits exit 21 north 465 north busy cross street neat tasteful white collar candlewood parking worn couple remember cook tops timer stove stove doesnt start fires people leave forget trash", "Date": "2011-10-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Saint Joseph, Illinois", "Title": "\u201cFantastic Stay\u201d", "Author": "CriderFam", "ReviewID": "UR102801262", "Content": "stayed night loved stay didnt chance enjoy pool walk check looked clean tidy tony font desk awesome friendly helpful 2nd 3rd stay candlewood suites location wife lean towards staying candlewood whenever travel price extremely affordable especially compared nearby hotels highly recommend stay", "Date": "2011-04-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Munster, Indiana", "Title": "\u201cExcellent Value and Extremely Clean!\u201d", "Author": "StormGryphon", "ReviewID": "UR57195132", "Content": "70 dollars including taxes outstanding suite beautiful spotless staff friendly onsite grocery store stocked comfy beds nice pool hot tub wrong entire building light bulbs caught fire weeks earlier tell repairs bathtubs bit narrow tub home matter besides rest building mint condition expressway resturants literally 1 minute parking lot located seemingly safe industrial park lots businesses hotels absolutly complaints becuase hotel experiences ive date", "Date": "2010-02-26 00:00:00"}], "HotelInfo": {"Name": "Candlewood Suites Indianapolis Northwest", "HotelURL": "/ShowUserReviews-g37209-d1239568-Reviews-Candlewood_Suites_Indianapolis_Northwest-Indianapolis_Indiana.html", "Price": "$85 - $163*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">7455 Woodland Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46278</span></span> </span> </span> </address>", "HotelID": "1239568", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/20/81/20814e3d73f7cf6eee855003353bba0e4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Sussex, Wisconsin, USA",
+      "Title": "\u201cQuiet setting in business park\u201d",
+      "Author": "Butzee",
+      "ReviewID": "UR124937566",
+      "Content": "stayed hotel nights loved located business park couldnt believe quiet featured kitchen plenty closet space spacious bathroom comfortable bed comes dvd player advantage perk renting movies free library clean staff friendly computers available near main lobby internet easy indianapolis restaurants 5 10 minutes recommend hotel business traveler couple family",
+      "Date": "2012-02-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Fuquay Varina, North Carolina",
+      "Title": "\u201cA pleasure to stay there!\u201d",
+      "Author": "TravelingCass",
+      "ReviewID": "UR119936760",
+      "Content": "wonderful hotel bedroom suite perfect comfortable king size bed lots closet space allow settle stay size refridgerator bonus kitchen convenient loved recliner living able spread staff friendly handled pleasure stay cant wait",
+      "Date": "2011-10-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "USA",
+      "Title": "\u201cnewer property in very good shape 2011\u201d",
+      "Author": "trav3908",
+      "ReviewID": "UR119684939",
+      "Content": "sits exit 21 north 465 north busy cross street neat tasteful white collar candlewood parking worn couple remember cook tops timer stove stove doesnt start fires people leave forget trash",
+      "Date": "2011-10-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Saint Joseph, Illinois",
+      "Title": "\u201cFantastic Stay\u201d",
+      "Author": "CriderFam",
+      "ReviewID": "UR102801262",
+      "Content": "stayed night loved stay didnt chance enjoy pool walk check looked clean tidy tony font desk awesome friendly helpful 2nd 3rd stay candlewood suites location wife lean towards staying candlewood whenever travel price extremely affordable especially compared nearby hotels highly recommend stay",
+      "Date": "2011-04-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Munster, Indiana",
+      "Title": "\u201cExcellent Value and Extremely Clean!\u201d",
+      "Author": "StormGryphon",
+      "ReviewID": "UR57195132",
+      "Content": "70 dollars including taxes outstanding suite beautiful spotless staff friendly onsite grocery store stocked comfy beds nice pool hot tub wrong entire building light bulbs caught fire weeks earlier tell repairs bathtubs bit narrow tub home matter besides rest building mint condition expressway resturants literally 1 minute parking lot located seemingly safe industrial park lots businesses hotels absolutly complaints becuase hotel experiences ive date",
+      "Date": "2010-02-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Candlewood Suites Indianapolis Northwest",
+    "HotelURL": "/ShowUserReviews-g37209-d1239568-Reviews-Candlewood_Suites_Indianapolis_Northwest-Indianapolis_Indiana.html",
+    "Price": "$85 - $163*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">7455 Woodland Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46278</span></span> </span> </span> </address>",
+    "HotelID": "1239568",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/20/81/20814e3d73f7cf6eee855003353bba0e4large.jpg"
+  }
+}

@@ -1,1 +1,30 @@
-[{"reviewId": "53146", "productName": "2GB Hydra MP3 Player Pink", "title": "Not good", "author": "E. Sujka", "createDate": "2007-08-08 00:00:00", "fullText": "purchased item am returning tigerdirect product accept wma files licensing download song digital music store sync play doesnt support licensing file issue buttons slow response time pressing unit responding features product definitely short", "rating": 1.0, "helpfulNum": 1, "totalNum": 1, "commentNum": 0, "webUrl": "http://www.amazon.com/review/product/B000MF0QLG/ref=cm_cr_dp_all_summary/105-6702530-5922038?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending", "htmlPath": "F:\\amazon_mp3\\1/633"}, {"reviewId": "53147", "productName": "2GB Hydra MP3 Player Pink", "title": "Worked for a few weeks.", "author": "Vincent Yung \"somedude\"", "createDate": "2007-09-12 00:00:00", "fullText": "questionable quality menu button broke care time cheap price mp3 player bike ride using weeks died tried reformatting player dice slow 2gb flash drive", "rating": 1.0, "helpfulNum": 0, "totalNum": 0, "commentNum": 0, "webUrl": "http://www.amazon.com/review/product/B000MF0QLG/ref=cm_cr_dp_all_summary/105-6702530-5922038?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending", "htmlPath": "F:\\amazon_mp3\\1/633"}]
+[
+  {
+    "reviewId": "53146",
+    "productName": "2GB Hydra MP3 Player Pink",
+    "title": "Not good",
+    "author": "E. Sujka",
+    "createDate": "2007-08-08 00:00:00",
+    "fullText": "purchased item am returning tigerdirect product accept wma files licensing download song digital music store sync play doesnt support licensing file issue buttons slow response time pressing unit responding features product definitely short",
+    "rating": 1.0,
+    "helpfulNum": 1,
+    "totalNum": 1,
+    "commentNum": 0,
+    "webUrl": "http://www.amazon.com/review/product/B000MF0QLG/ref=cm_cr_dp_all_summary/105-6702530-5922038?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending",
+    "htmlPath": "F:\\amazon_mp3\\1/633"
+  },
+  {
+    "reviewId": "53147",
+    "productName": "2GB Hydra MP3 Player Pink",
+    "title": "Worked for a few weeks.",
+    "author": "Vincent Yung \"somedude\"",
+    "createDate": "2007-09-12 00:00:00",
+    "fullText": "questionable quality menu button broke care time cheap price mp3 player bike ride using weeks died tried reformatting player dice slow 2gb flash drive",
+    "rating": 1.0,
+    "helpfulNum": 0,
+    "totalNum": 0,
+    "commentNum": 0,
+    "webUrl": "http://www.amazon.com/review/product/B000MF0QLG/ref=cm_cr_dp_all_summary/105-6702530-5922038?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending",
+    "htmlPath": "F:\\amazon_mp3\\1/633"
+  }
+]

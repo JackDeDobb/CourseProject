@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Calgary, Canada", "Title": "\u201cJust the basics\u201d", "Author": "Christiana0564", "ReviewID": "UR124201428", "Content": "hotel located near major highway clean staff pleasant picked location close staying hotel definitely car bring earplugs light sleeper youre 401", "Date": "2012-02-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Vancouver, Canada", "Title": "\u201cClean and pleasant staff, but bed very uncomfortable and a later breakfast closure would be appreciated\u201d", "Author": "browngirl0011", "ReviewID": "UR122673864", "Content": "clean uncomfortable beds hotel stayed uncomfortable bed breakfast 930 holidays missed day stay holidays service flexible road outside hotel slippery careful driving winter months", "Date": "2012-01-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "ottawa", "Title": "\u201cGood Hotel!\u201d", "Author": "sylvie.mac", "ReviewID": "UR120871325", "Content": "daughter stayed 3 nights beginning november normally toronto stay downtown delta chelsea picked hotel primarily close toronto zoo didnt car train downtown yorkdale mills etc ttc check nice clean size bathroom size water pressure hotel 401 didnt hear noise outside staff nice fridge didnt night told staff coulnt fixed id switch night fridge broken checking day pointless switch pool nice quiet clean little cold jacuzzi nice breakfast morning attendant nice ensured stocked waffle maker bagels toast kinds eggs sausage usual stuff buffet ok toronto stay zoo toronto hotel downtown whatever hour half thats using subway driving car takes plus deal parking etc buisness theres lot shop eat mcdonalds street keg centre nearby hotel stay downtown time", "Date": "2011-11-21 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Toronto ON CAN", "Title": "\u201cGood value, avg exp. Have slept better elsewhere.\u201d", "Author": "hrmelness", "ReviewID": "UR86955290", "Content": "stayed 1 night boyfriend stayed king immediately noticed dated decor due granny floral accents coffee maker ice bucket drinking glasses thankfully packaged plastic bathroom usual spot outside desk \u00e2\u20ac\u201c don\u00e2\u20ac\u2122t usually king bed uncomfortably stiff firm mattress suppose 3 standardsize pillows provided lumpy needless didn\u00e2\u20ac\u2122t sleep hot breakfast offered morning limited little provided goes fast downstairs late close 10am kitchen halted production dining fills fast it\u00e2\u20ac\u2122s executive inn noticed lots families breakfast heaterac loud helped drown noise hallway front desk service average customer service front particularly friendly process wouldn\u00e2\u20ac\u2122t recommend staying 12 nights overall experience average amount paid admittedly decent value hotel nicelooking pool hot tub would\u00e2\u20ac\u2122ve family pro king spacious speed internet access wifi code breakfast included free overnight parking pool hot tub fitness business centre front desk don\u00e2\u20ac\u2122t allow parties stayed halloween weekend con dated decor refresh uncomfortable king bed cheap pillows poor soundproofing hear people hallway", "Date": "2010-11-13 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Auckland Central, New Zealand", "Title": "\u201cMeet our needs\u201d", "Author": "Bazee", "ReviewID": "UR61791932", "Content": "stayed nights clean tidy unfortunately spring break girls ice hockey team parents staying hotel meant kids running sometimes blocked hall hotels fault breakfast result busy move waffle maker breakfast people waffles block people access breakfast items", "Date": "2010-04-18 00:00:00"}], "HotelInfo": {"Name": "BEST WESTERN PLUS Executive Inn", "HotelURL": "/ShowUserReviews-g155019-d246962-Reviews-BEST_WESTERN_PLUS_Executive_Inn-Toronto_Ontario.html", "Price": "$118 - $140*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">38 Estate Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Toronto</span>, <span property=\"v:region\">Ontario</span> <span property=\"v:postal-code\">M1H 2Z1</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span> </span> </address>", "HotelID": "246962", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/dc/1b/fb/exterior-shot-of-our.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Calgary, Canada",
+      "Title": "\u201cJust the basics\u201d",
+      "Author": "Christiana0564",
+      "ReviewID": "UR124201428",
+      "Content": "hotel located near major highway clean staff pleasant picked location close staying hotel definitely car bring earplugs light sleeper youre 401",
+      "Date": "2012-02-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Vancouver, Canada",
+      "Title": "\u201cClean and pleasant staff, but bed very uncomfortable and a later breakfast closure would be appreciated\u201d",
+      "Author": "browngirl0011",
+      "ReviewID": "UR122673864",
+      "Content": "clean uncomfortable beds hotel stayed uncomfortable bed breakfast 930 holidays missed day stay holidays service flexible road outside hotel slippery careful driving winter months",
+      "Date": "2012-01-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "ottawa",
+      "Title": "\u201cGood Hotel!\u201d",
+      "Author": "sylvie.mac",
+      "ReviewID": "UR120871325",
+      "Content": "daughter stayed 3 nights beginning november normally toronto stay downtown delta chelsea picked hotel primarily close toronto zoo didnt car train downtown yorkdale mills etc ttc check nice clean size bathroom size water pressure hotel 401 didnt hear noise outside staff nice fridge didnt night told staff coulnt fixed id switch night fridge broken checking day pointless switch pool nice quiet clean little cold jacuzzi nice breakfast morning attendant nice ensured stocked waffle maker bagels toast kinds eggs sausage usual stuff buffet ok toronto stay zoo toronto hotel downtown whatever hour half thats using subway driving car takes plus deal parking etc buisness theres lot shop eat mcdonalds street keg centre nearby hotel stay downtown time",
+      "Date": "2011-11-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Toronto ON CAN",
+      "Title": "\u201cGood value, avg exp. Have slept better elsewhere.\u201d",
+      "Author": "hrmelness",
+      "ReviewID": "UR86955290",
+      "Content": "stayed 1 night boyfriend stayed king immediately noticed dated decor due granny floral accents coffee maker ice bucket drinking glasses thankfully packaged plastic bathroom usual spot outside desk \u00e2\u20ac\u201c don\u00e2\u20ac\u2122t usually king bed uncomfortably stiff firm mattress suppose 3 standardsize pillows provided lumpy needless didn\u00e2\u20ac\u2122t sleep hot breakfast offered morning limited little provided goes fast downstairs late close 10am kitchen halted production dining fills fast it\u00e2\u20ac\u2122s executive inn noticed lots families breakfast heaterac loud helped drown noise hallway front desk service average customer service front particularly friendly process wouldn\u00e2\u20ac\u2122t recommend staying 12 nights overall experience average amount paid admittedly decent value hotel nicelooking pool hot tub would\u00e2\u20ac\u2122ve family pro king spacious speed internet access wifi code breakfast included free overnight parking pool hot tub fitness business centre front desk don\u00e2\u20ac\u2122t allow parties stayed halloween weekend con dated decor refresh uncomfortable king bed cheap pillows poor soundproofing hear people hallway",
+      "Date": "2010-11-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Auckland Central, New Zealand",
+      "Title": "\u201cMeet our needs\u201d",
+      "Author": "Bazee",
+      "ReviewID": "UR61791932",
+      "Content": "stayed nights clean tidy unfortunately spring break girls ice hockey team parents staying hotel meant kids running sometimes blocked hall hotels fault breakfast result busy move waffle maker breakfast people waffles block people access breakfast items",
+      "Date": "2010-04-18 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "BEST WESTERN PLUS Executive Inn",
+    "HotelURL": "/ShowUserReviews-g155019-d246962-Reviews-BEST_WESTERN_PLUS_Executive_Inn-Toronto_Ontario.html",
+    "Price": "$118 - $140*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">38 Estate Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Toronto</span>, <span property=\"v:region\">Ontario</span> <span property=\"v:postal-code\">M1H 2Z1</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span> </span> </address>",
+    "HotelID": "246962",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/dc/1b/fb/exterior-shot-of-our.jpg"
+  }
+}

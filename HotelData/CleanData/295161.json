@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Cape Town", "Title": "\u201cVery surprised !\u201d", "Author": "GLBURGER", "ReviewID": "UR68522292", "Content": "trip turkey fist stop istanbul hotel read hotel ratings contacted travel agency hassle free travels assured hotel disapointed arrived impressed service location housekeeping hotel expectations exceeded laid hotel quiet central burger south africa", "Date": "2010-06-24 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "WORCESTERSHIRE", "Title": "\u201cHELD HOSTAGE BY MANAGER\u201d", "Author": "TEAMTTBEWDLEY", "ReviewID": "UR65576460", "Content": "40 hotel istanbul 4 nights arrived hotel 8pm monday 26th april called hotel sunday evening eat hotel arrived monday spoke manager agreed salad start followed main course la carte menu fruit desert cost person rang round agreed meet dinning 830pm manager eat 9pm immediately people salad agreed pay extra soup variety main courses fish meat omelettes 11pm people received salad hot soup arrived main courses appeared cold sent guests received apart bread waiters ran apologising meals lack chef walked 9pm sat apparently told manager eating hotel appeared fetching food 1130pm main courses sign sweet left bed waiter sign meals else refused sign speak manager day told 10am reception appeared continued try talk week kept told meeting times sat office watching football picture prove night left reception obtain passports told locked safe available morning leaving 730am unacceptable tonight bothering key safe receptionist van hour hotel unprofessional van stolen receptionist ill key little angry bad manager opportunity speak week food bill chosen avoid insisted key dismissed silly little woman told call police ex chief involved threatened call british embassy send key immediately 15 hours midnight girl appeared key passports handed discuss food bill morning due depart hotel coach 7pm breakfast reception coach told window coach company travelling outside eventually found driver 730am coach load luggage compartment watched loaded 38 suitcases ready depart coach locked searched driver don\u00e2\u20ac\u2122t rep appeared told reception keys leave bill settled meals believe happening bordering criminal actions tried tell hotel beds rep spoken uk office day concerning meals emailed hotel beds explaining happened care try negotiate behalf kept looking receptionist saying pay keys allowed leave unless paid bill time getting danger missing flight agreed pay business card produced bill 899 euro saying manager agreed 12 euro 12 tl turkey currency tl euro definitely agreed tl euro started battle amount payed keys hand believe happened experienced travel held hostage paid crime hotel manager turkey severely dealt self taking legal advice matter hotel manager trusted questioned woman", "Date": "2010-05-28 00:00:00"}], "HotelInfo": {"Name": "Hotel Sogut", "HotelURL": "/ShowUserReviews-g293974-d295161-Reviews-Hotel_Sogut-Istanbul.html", "Price": "$106 - $162*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Bukali dede Sk 11-13</span> | <span class=\"extended-address\">Sehzadebasi</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34470</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "295161", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/26/b8/26b8086434098cc562f8b3ef983984d94large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Cape Town",
+      "Title": "\u201cVery surprised !\u201d",
+      "Author": "GLBURGER",
+      "ReviewID": "UR68522292",
+      "Content": "trip turkey fist stop istanbul hotel read hotel ratings contacted travel agency hassle free travels assured hotel disapointed arrived impressed service location housekeeping hotel expectations exceeded laid hotel quiet central burger south africa",
+      "Date": "2010-06-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "WORCESTERSHIRE",
+      "Title": "\u201cHELD HOSTAGE BY MANAGER\u201d",
+      "Author": "TEAMTTBEWDLEY",
+      "ReviewID": "UR65576460",
+      "Content": "40 hotel istanbul 4 nights arrived hotel 8pm monday 26th april called hotel sunday evening eat hotel arrived monday spoke manager agreed salad start followed main course la carte menu fruit desert cost person rang round agreed meet dinning 830pm manager eat 9pm immediately people salad agreed pay extra soup variety main courses fish meat omelettes 11pm people received salad hot soup arrived main courses appeared cold sent guests received apart bread waiters ran apologising meals lack chef walked 9pm sat apparently told manager eating hotel appeared fetching food 1130pm main courses sign sweet left bed waiter sign meals else refused sign speak manager day told 10am reception appeared continued try talk week kept told meeting times sat office watching football picture prove night left reception obtain passports told locked safe available morning leaving 730am unacceptable tonight bothering key safe receptionist van hour hotel unprofessional van stolen receptionist ill key little angry bad manager opportunity speak week food bill chosen avoid insisted key dismissed silly little woman told call police ex chief involved threatened call british embassy send key immediately 15 hours midnight girl appeared key passports handed discuss food bill morning due depart hotel coach 7pm breakfast reception coach told window coach company travelling outside eventually found driver 730am coach load luggage compartment watched loaded 38 suitcases ready depart coach locked searched driver don\u00e2\u20ac\u2122t rep appeared told reception keys leave bill settled meals believe happening bordering criminal actions tried tell hotel beds rep spoken uk office day concerning meals emailed hotel beds explaining happened care try negotiate behalf kept looking receptionist saying pay keys allowed leave unless paid bill time getting danger missing flight agreed pay business card produced bill 899 euro saying manager agreed 12 euro 12 tl turkey currency tl euro definitely agreed tl euro started battle amount payed keys hand believe happened experienced travel held hostage paid crime hotel manager turkey severely dealt self taking legal advice matter hotel manager trusted questioned woman",
+      "Date": "2010-05-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Sogut",
+    "HotelURL": "/ShowUserReviews-g293974-d295161-Reviews-Hotel_Sogut-Istanbul.html",
+    "Price": "$106 - $162*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Bukali dede Sk 11-13</span> | <span class=\"extended-address\">Sehzadebasi</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34470</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "295161",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/26/b8/26b8086434098cc562f8b3ef983984d94large.jpg"
+  }
+}

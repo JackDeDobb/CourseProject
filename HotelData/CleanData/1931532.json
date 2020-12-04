@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "North Miami Beach, Florida", "Title": "\u201c\u00e2\u20ac\u0153Puerto Rico does it better\u00e2\u20ac\ufffd and JB Hidden is a great example.\u201d", "Author": "srbonilla", "ReviewID": "UR123019716", "Content": "stayed hotel 1930 december 2011 impressed attention guests accommodate extra person night mattress sleep insisted sleep bed mattress floor moved twin bed extra cost staff courteous friendly respectful definitely stay hotel gain", "Date": "2012-01-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Orlando, Florida", "Title": "\u201cBest family stay......\u201d", "Author": "Julia B", "ReviewID": "UR121327085", "Content": "write dont credit deserve quiet clean family friendly hotel wedding black friday week thanksgiving checked hotel trip reviews little leary kids hadnt booked friday day wedding husband brother law passed shangrila set reception stopped check staying mother laws house nice called hotel looked decent cleaniness actual owner property dad 2 double beds 1 twin bed tv 47 basic cable channels little dining set bathroom towels soap nite booked 2 2 nights figured leaving wedding tired drinking idea wedding 100am didint drive mayaguez 5 minute drive shangrila crashed morning ham cheese toast french fries coffee juice 600 cant beat daughter pancakes 4 pancakes bacon french fries coffee juice 600 comes french fries 7 complaining doesnt esp traveling close breakfast 1100 reopen dinner 5 6 hung pool day kids literally brought pool water bit cold kids till night time left beers pizza wings left wedding cake 2 eat corner hotel restaurant bar owner lives property property dont pass dont frig microwave pain traveling kids biggie guy bar heated pizza canned spagetti meatballs kids wouldnt money tipped ac units inside check 1200 dont rush review information enjoy esp information booking overall definately stay", "Date": "2011-12-02 00:00:00"}], "HotelInfo": {"Name": "J. B. Hidden Village Hotel", "HotelURL": "/ShowUserReviews-g815418-d1931532-Reviews-J_B_Hidden_Village_Hotel-Aguada_Puerto_Rico.html", "Price": "$82 - $129*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Ramal Los Mendez</span> | <span class=\"extended-address\">Carr. 4416 km 1.3</span>, <span class=\"locality\"><span property=\"v:locality\">Aguada</span> <span property=\"v:postal-code\">00602</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>", "HotelID": "1931532", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "North Miami Beach, Florida",
+      "Title": "\u201c\u00e2\u20ac\u0153Puerto Rico does it better\u00e2\u20ac\ufffd and JB Hidden is a great example.\u201d",
+      "Author": "srbonilla",
+      "ReviewID": "UR123019716",
+      "Content": "stayed hotel 1930 december 2011 impressed attention guests accommodate extra person night mattress sleep insisted sleep bed mattress floor moved twin bed extra cost staff courteous friendly respectful definitely stay hotel gain",
+      "Date": "2012-01-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Orlando, Florida",
+      "Title": "\u201cBest family stay......\u201d",
+      "Author": "Julia B",
+      "ReviewID": "UR121327085",
+      "Content": "write dont credit deserve quiet clean family friendly hotel wedding black friday week thanksgiving checked hotel trip reviews little leary kids hadnt booked friday day wedding husband brother law passed shangrila set reception stopped check staying mother laws house nice called hotel looked decent cleaniness actual owner property dad 2 double beds 1 twin bed tv 47 basic cable channels little dining set bathroom towels soap nite booked 2 2 nights figured leaving wedding tired drinking idea wedding 100am didint drive mayaguez 5 minute drive shangrila crashed morning ham cheese toast french fries coffee juice 600 cant beat daughter pancakes 4 pancakes bacon french fries coffee juice 600 comes french fries 7 complaining doesnt esp traveling close breakfast 1100 reopen dinner 5 6 hung pool day kids literally brought pool water bit cold kids till night time left beers pizza wings left wedding cake 2 eat corner hotel restaurant bar owner lives property property dont pass dont frig microwave pain traveling kids biggie guy bar heated pizza canned spagetti meatballs kids wouldnt money tipped ac units inside check 1200 dont rush review information enjoy esp information booking overall definately stay",
+      "Date": "2011-12-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "J. B. Hidden Village Hotel",
+    "HotelURL": "/ShowUserReviews-g815418-d1931532-Reviews-J_B_Hidden_Village_Hotel-Aguada_Puerto_Rico.html",
+    "Price": "$82 - $129*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Ramal Los Mendez</span> | <span class=\"extended-address\">Carr. 4416 km 1.3</span>, <span class=\"locality\"><span property=\"v:locality\">Aguada</span> <span property=\"v:postal-code\">00602</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>",
+    "HotelID": "1931532",
+    "ImgURL": ""
+  }
+}

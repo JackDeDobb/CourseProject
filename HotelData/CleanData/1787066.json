@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cNice hotel\u201d", "Author": "Me137", "ReviewID": "UR120926353", "Content": "clean comfortable modern hotel spacious king size beds bathrooms double showers facilities excellent nice design breakfast delicous 5 stars hotels stayed personally recomend chocolate cake localization city center 20 minutes local trains looks dirty dangerous form train station hotel convenient footbridge heavy luggage value money", "Date": "2011-11-22 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "johannesburg", "Title": "\u201cspotless\u201d", "Author": "ulysses64", "ReviewID": "UR119941563", "Content": "roma hotel unlike rome family stayed week september 2011 true modern trendy clean difficult rome downtown train station isnt ride piazzale flaminio bottom via del corso 15 minutes reccommend doing trip night overall excellent value money car breakfast serious improvement fruit salad", "Date": "2011-10-31 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 2.0}, "AuthorLocation": "Coventry, United Kingdom", "Title": "\u201cTHIS IS A TOUGH ONE TO CALL.......\u201d", "Author": "tillyturtle", "ReviewID": "UR118726330", "Content": "hotel trendy clean bathrooms huge breakfast average staff ok location centre rome dont mind getting train metro 1euro actually found yourself little retreat wish rome night explore evenings rome offer hotel train station street look highly unsafe walk 8pm happy walk anywere everywere trainstation hotel nightthe path blocked trainline runs huge hedge bust highway safe italian restuarnt door bunch god cheap food enjoy meal drinks minibar hotel cheap aware else book taxi airport hotel ours didnt arrive rang hotel answered eventually arrived complained day refund wasnt excuse ring taxi argument thier website provide shuttle service day finally owned money mention taxi taxi drivers werent happy drive am confused hotel rome expanding soon hotel fall rome hotel ahead else tourists hotel prepared travel bit remember 1euro home night unless brave sum stay budget somewere decent head day didnt mind bit isolated especially wouldnt stay experiance rome offer day night hope helps", "Date": "2011-09-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 2.0}, "AuthorLocation": "Middlesex", "Title": "\u201cWonderful Hotel on the outskirts of Rome\u201d", "Author": "Maenapiza", "ReviewID": "UR109191634", "Content": "roma hotel outside capital suburban called undoubtedly example return own threestar matches location public approaches hotel railway north rome dilapidated carriages stations post war period signs trails wind memory amazon night road station hotel approximately 5min walk deserted looks bit dangerous hotel roma appears excellent solution diverse audience returning structure modern style opportunity stay size furnished taste furniture coating bath bedroom beds friends overseas call kingsize bed enjoy relaxing shower box set dual union hard rain mobile jet freely adjustable temperature flow rate simple cheap inevitable minibar looks mini window immediately opposite entrance below lock hangers drawers cupboards sky hd lcd tv integrated access internet nice toiletries complete offer staff friendly strives satisfy customers requests breakfast standards", "Date": "2011-05-21 00:00:00"}], "HotelInfo": {"Name": "Roma Point Hotel", "HotelURL": "/ShowUserReviews-g187791-d1787066-Reviews-Roma_Point_Hotel-Rome_Lazio.html", "Price": "$69 - $162*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Flaminia 988</span>, <span class=\"locality\"><span property=\"v:postal-code\">00189</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "1787066", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ea/8d/ea8d64d4ae1d7c8930ff820d26672ad48large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cNice hotel\u201d",
+      "Author": "Me137",
+      "ReviewID": "UR120926353",
+      "Content": "clean comfortable modern hotel spacious king size beds bathrooms double showers facilities excellent nice design breakfast delicous 5 stars hotels stayed personally recomend chocolate cake localization city center 20 minutes local trains looks dirty dangerous form train station hotel convenient footbridge heavy luggage value money",
+      "Date": "2011-11-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "johannesburg",
+      "Title": "\u201cspotless\u201d",
+      "Author": "ulysses64",
+      "ReviewID": "UR119941563",
+      "Content": "roma hotel unlike rome family stayed week september 2011 true modern trendy clean difficult rome downtown train station isnt ride piazzale flaminio bottom via del corso 15 minutes reccommend doing trip night overall excellent value money car breakfast serious improvement fruit salad",
+      "Date": "2011-10-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Coventry, United Kingdom",
+      "Title": "\u201cTHIS IS A TOUGH ONE TO CALL.......\u201d",
+      "Author": "tillyturtle",
+      "ReviewID": "UR118726330",
+      "Content": "hotel trendy clean bathrooms huge breakfast average staff ok location centre rome dont mind getting train metro 1euro actually found yourself little retreat wish rome night explore evenings rome offer hotel train station street look highly unsafe walk 8pm happy walk anywere everywere trainstation hotel nightthe path blocked trainline runs huge hedge bust highway safe italian restuarnt door bunch god cheap food enjoy meal drinks minibar hotel cheap aware else book taxi airport hotel ours didnt arrive rang hotel answered eventually arrived complained day refund wasnt excuse ring taxi argument thier website provide shuttle service day finally owned money mention taxi taxi drivers werent happy drive am confused hotel rome expanding soon hotel fall rome hotel ahead else tourists hotel prepared travel bit remember 1euro home night unless brave sum stay budget somewere decent head day didnt mind bit isolated especially wouldnt stay experiance rome offer day night hope helps",
+      "Date": "2011-09-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Middlesex",
+      "Title": "\u201cWonderful Hotel on the outskirts of Rome\u201d",
+      "Author": "Maenapiza",
+      "ReviewID": "UR109191634",
+      "Content": "roma hotel outside capital suburban called undoubtedly example return own threestar matches location public approaches hotel railway north rome dilapidated carriages stations post war period signs trails wind memory amazon night road station hotel approximately 5min walk deserted looks bit dangerous hotel roma appears excellent solution diverse audience returning structure modern style opportunity stay size furnished taste furniture coating bath bedroom beds friends overseas call kingsize bed enjoy relaxing shower box set dual union hard rain mobile jet freely adjustable temperature flow rate simple cheap inevitable minibar looks mini window immediately opposite entrance below lock hangers drawers cupboards sky hd lcd tv integrated access internet nice toiletries complete offer staff friendly strives satisfy customers requests breakfast standards",
+      "Date": "2011-05-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Roma Point Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d1787066-Reviews-Roma_Point_Hotel-Rome_Lazio.html",
+    "Price": "$69 - $162*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Flaminia 988</span>, <span class=\"locality\"><span property=\"v:postal-code\">00189</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "1787066",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ea/8d/ea8d64d4ae1d7c8930ff820d26672ad48large.jpg"
+  }
+}

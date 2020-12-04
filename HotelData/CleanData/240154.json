@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "San Diego, California", "Title": "\u201cOlga at the Front Desk...\u201d", "Author": "mukkamukka", "ReviewID": "UR61383750", "Content": "super nice super helpful super cute hotel value clean quiet cheap quick trip city center lights bathroom mirror feel model internet street 1 euro hour sells beer cheap look breakfast bit pricey 14 eurosperson", "Date": "2010-04-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Modena, Italy", "Title": "\u201cstrategic position\u201d", "Author": "Beatrix81", "ReviewID": "UR60012970", "Content": "spent 4 nights hotel furnished clean appreciated position hotel close brandeburg tor reichstag alexanderplatz reach city internal square building hotel belongs crowded makes quiet atm machine recommend lunch dinner 3 restaurants square berlin eat enjoy reviews tourist guides", "Date": "2010-03-31 00:00:00"}], "HotelInfo": {"Name": "Arcadia Hotel Berlin", "HotelURL": "/ShowUserReviews-g187323-d240154-Reviews-Arcadia_Hotel_Berlin-Berlin.html", "Price": "$51 - $147*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Frankfurter Allee 73 a</span> | <span class=\"extended-address\">Eingang Voigtstra&szlig;e 2</span>, <span class=\"locality\"><span property=\"v:postal-code\">10247</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> (Formerly Tulip Inn)</span></span></address>", "HotelID": "240154", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d6/6c/d66c1422c985010712aec382b81988568large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "San Diego, California",
+      "Title": "\u201cOlga at the Front Desk...\u201d",
+      "Author": "mukkamukka",
+      "ReviewID": "UR61383750",
+      "Content": "super nice super helpful super cute hotel value clean quiet cheap quick trip city center lights bathroom mirror feel model internet street 1 euro hour sells beer cheap look breakfast bit pricey 14 eurosperson",
+      "Date": "2010-04-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Modena, Italy",
+      "Title": "\u201cstrategic position\u201d",
+      "Author": "Beatrix81",
+      "ReviewID": "UR60012970",
+      "Content": "spent 4 nights hotel furnished clean appreciated position hotel close brandeburg tor reichstag alexanderplatz reach city internal square building hotel belongs crowded makes quiet atm machine recommend lunch dinner 3 restaurants square berlin eat enjoy reviews tourist guides",
+      "Date": "2010-03-31 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Arcadia Hotel Berlin",
+    "HotelURL": "/ShowUserReviews-g187323-d240154-Reviews-Arcadia_Hotel_Berlin-Berlin.html",
+    "Price": "$51 - $147*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Frankfurter Allee 73 a</span> | <span class=\"extended-address\">Eingang Voigtstra&szlig;e 2</span>, <span class=\"locality\"><span property=\"v:postal-code\">10247</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> (Formerly Tulip Inn)</span></span></address>",
+    "HotelID": "240154",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d6/6c/d66c1422c985010712aec382b81988568large.jpg"
+  }
+}

@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Loughborough, UK", "Title": "\u201cHotel OK, but dark room and away from the centre.\u201d", "Author": "Steven A Posted by an Easytobook.com traveler", "ReviewID": "UR128501329", "Content": "front desk friendly efficient single dark brown curtains brown bedspread colour bed comfortable shower powerful overpriced suppose accommodation expensive location city centre found staying near hotel evening", "Date": "2012-04-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "N lincs", "Title": "\u201cchristmas break\u201d", "Author": "NlincsLindy", "ReviewID": "UR122449151", "Content": "hotel family christmas break hotel package siesta couple hours night handy 2 metro stations tram stop buses catch el prat airport bus outside hotel little supermarket essentials 2 bread shops 3 cafes etc 2 minutes foyerreception ice machine snack drinks machine staff friendly helpful 4 nights quiet hotel refurbished hammering started 0830 3 mornings stay people night returned late babysitting grandchildren reception painted morning purpose remains painters except fresh look final night partying reception dealt immediately extra eg pillows provided 5 minutes breakfast provided food waitress efficiently courteous cleaniness excellent cloths changed person breakfasting adequate lots hot water times pressure towels provided everyday bed linen changed day beds acceptable stay close familys apartment", "Date": "2012-01-03 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "LONDON", "Title": "\u201cPoor hotel\u201d", "Author": "STEVE222LONDON", "ReviewID": "UR108633163", "Content": "booked basement basement sparsely furnished drawer space main light switch firmly bed bed flat pillows requested night porter spares roll dirty blanket wardrobe safe didnt tried cards success engineer sort didnt plug sink bath wouldnt fill shower coming grouting bath drink coming home football half past twelve bar closed night porter wouldnt decided beer mini bar aptly named beer breakfast acceptable star hotel worse stayed", "Date": "2011-05-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Denver, Colorado", "Title": "\u201cExcellent hotel, with fantastic staff\u201d", "Author": "DoctorAndy", "ReviewID": "UR96539442", "Content": "stayed woth partner five nights vacation barcelona comes highly recommended staff hotel friendly helpful praise fairly central maybe 1 miles centre near metro station travelling easy guess im giving star rating ion view uptodate didnt eat hotel plenty cafes supermarkets nearby odd restaurant recommend hotel happy stay", "Date": "2011-02-14 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "cork", "Title": "\u201cgreat mid-range option in barcelona\u201d", "Author": "bren53", "ReviewID": "UR92087466", "Content": "stayed six nights 29th december single found hotel clean excellent continental buffet breakfast morning hotel situated 30 min walk city centre seafront hotel easily reached train airport clot railway station 15 min walk glories shoping centre close 7 bus centre 5 minutes outside hotel bus goes diagonal mar shoping centre hesistation hotel", "Date": "2011-01-07 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Satun, Thailand", "Title": "\u201cNice value\u201d", "Author": "Sens4life", "ReviewID": "UR74487885", "Content": "situated nice barcelona close glories tower beach walking distance albeit walk hotel easily reached glories monumental metro stops finding time confusing streets arent marked youll hang handy little supermarket beside hotel free wifi fast opinion perfect option midrange accommodation seekers visiting barcelona", "Date": "2010-08-09 00:00:00"}], "HotelInfo": {"Name": "Hotel Glories", "HotelURL": "/ShowUserReviews-g187497-d229875-Reviews-Hotel_Glories-Barcelona_Catalonia.html", "Price": "$90 - $280*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle Padilla 173</span>, <span class=\"locality\"><span property=\"v:postal-code\">08013</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "229875", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/5e/d9/dd/fachada.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Loughborough, UK",
+      "Title": "\u201cHotel OK, but dark room and away from the centre.\u201d",
+      "Author": "Steven A Posted by an Easytobook.com traveler",
+      "ReviewID": "UR128501329",
+      "Content": "front desk friendly efficient single dark brown curtains brown bedspread colour bed comfortable shower powerful overpriced suppose accommodation expensive location city centre found staying near hotel evening",
+      "Date": "2012-04-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "N lincs",
+      "Title": "\u201cchristmas break\u201d",
+      "Author": "NlincsLindy",
+      "ReviewID": "UR122449151",
+      "Content": "hotel family christmas break hotel package siesta couple hours night handy 2 metro stations tram stop buses catch el prat airport bus outside hotel little supermarket essentials 2 bread shops 3 cafes etc 2 minutes foyerreception ice machine snack drinks machine staff friendly helpful 4 nights quiet hotel refurbished hammering started 0830 3 mornings stay people night returned late babysitting grandchildren reception painted morning purpose remains painters except fresh look final night partying reception dealt immediately extra eg pillows provided 5 minutes breakfast provided food waitress efficiently courteous cleaniness excellent cloths changed person breakfasting adequate lots hot water times pressure towels provided everyday bed linen changed day beds acceptable stay close familys apartment",
+      "Date": "2012-01-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "LONDON",
+      "Title": "\u201cPoor hotel\u201d",
+      "Author": "STEVE222LONDON",
+      "ReviewID": "UR108633163",
+      "Content": "booked basement basement sparsely furnished drawer space main light switch firmly bed bed flat pillows requested night porter spares roll dirty blanket wardrobe safe didnt tried cards success engineer sort didnt plug sink bath wouldnt fill shower coming grouting bath drink coming home football half past twelve bar closed night porter wouldnt decided beer mini bar aptly named beer breakfast acceptable star hotel worse stayed",
+      "Date": "2011-05-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Denver, Colorado",
+      "Title": "\u201cExcellent hotel, with fantastic staff\u201d",
+      "Author": "DoctorAndy",
+      "ReviewID": "UR96539442",
+      "Content": "stayed woth partner five nights vacation barcelona comes highly recommended staff hotel friendly helpful praise fairly central maybe 1 miles centre near metro station travelling easy guess im giving star rating ion view uptodate didnt eat hotel plenty cafes supermarkets nearby odd restaurant recommend hotel happy stay",
+      "Date": "2011-02-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "cork",
+      "Title": "\u201cgreat mid-range option in barcelona\u201d",
+      "Author": "bren53",
+      "ReviewID": "UR92087466",
+      "Content": "stayed six nights 29th december single found hotel clean excellent continental buffet breakfast morning hotel situated 30 min walk city centre seafront hotel easily reached train airport clot railway station 15 min walk glories shoping centre close 7 bus centre 5 minutes outside hotel bus goes diagonal mar shoping centre hesistation hotel",
+      "Date": "2011-01-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Satun, Thailand",
+      "Title": "\u201cNice value\u201d",
+      "Author": "Sens4life",
+      "ReviewID": "UR74487885",
+      "Content": "situated nice barcelona close glories tower beach walking distance albeit walk hotel easily reached glories monumental metro stops finding time confusing streets arent marked youll hang handy little supermarket beside hotel free wifi fast opinion perfect option midrange accommodation seekers visiting barcelona",
+      "Date": "2010-08-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Glories",
+    "HotelURL": "/ShowUserReviews-g187497-d229875-Reviews-Hotel_Glories-Barcelona_Catalonia.html",
+    "Price": "$90 - $280*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle Padilla 173</span>, <span class=\"locality\"><span property=\"v:postal-code\">08013</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "229875",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/5e/d9/dd/fachada.jpg"
+  }
+}

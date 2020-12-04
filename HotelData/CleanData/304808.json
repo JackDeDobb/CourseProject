@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "England", "Title": "\u201cGreat Aparthotel, excellent location near Taxim square\u201d", "Author": "Bazza0070", "ReviewID": "UR119545015", "Content": "aparthotel suite suite exactly pictures website free wifi throughout hotel location main road 100 meters taxim square busy night bedroom divided rest apartment excess noise kitchenette inclined variety restaurants nearby fridge handy staff friendly hotel clean breakfast served restaurant downstairs called faros restaurant lunch evening meals 10 discount staying taxim suite hotel short walk taxim square besiktas football stadium boats asia advice arrive ataturk sabiha gokcen airports shuttle bus taxim square outside airport arrivals cost 12 turkish lira sabiha \u00e2\u00a34 taxim square stop 50 meters apartment return goes half hour takes 1 hr 1 hr half sabiha gokcen taxi journey 120 tl \u00e2\u00a340 feel safe", "Date": "2011-10-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "fort lauderdale", "Title": "\u201cJewel in the crown.\u201d", "Author": "erdalito", "ReviewID": "UR83415924", "Content": "visit hotel time resided 6 weeks beautiful view bosphorous taksim park staff starting manager zeynep top friendly helpful people wish hotel foreign country suite hotel extremely comfortable amenities living furnished beautifully airy bright truely home comforts home word describe hotel jewel crown recommend", "Date": "2010-10-13 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "UK", "Title": "\u201cA rip off\u201d", "Author": "gillparry", "ReviewID": "UR64408963", "Content": "looking forward staying taxim suites nights disappointed 1 \u00e2\u00a350 stolen safe box little concern shown manager override code staff suites access couldnt safe using code punched night manager \u00e2\u00a350 note missing 2 airport transfer requested arranged bus instead 3 suites advertised jacuzzi suite bath weak drizzle shower 4 nice worn stains rug sitting etc 5 noisy 6 towels pristinely clean little worrying suites advertised quality 160 euros night self catering expected priced value secure theft money safe box left nasty taste mouth", "Date": "2010-05-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "London", "Title": "\u201cExcellent rooms & close to the where all the action takes place\u201d", "Author": "KalordT", "ReviewID": "UR60638416", "Content": "look exactly website photos leaving king secondly close epicenter istanbul namely taksim sq 7 mins walk kabatas bosphorus ferries main pedestrianised shopping street lady running hotel feel welcome helpful answering questions positive experience fault hotel", "Date": "2010-04-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "london", "Title": "\u201cAn absolutely great hotel!\u201d", "Author": "jac27", "ReviewID": "UR58792885", "Content": "1 entered suite astonished modern fresh excellently equipped leave 2 stuff helpful explain hours visit especially hotels manager zeynep helpful friendly fake behavior feel tourist friend 3 location excellent metres taksim square istiklal street 4 price reasonable memories definitely recommended hotel", "Date": "2010-03-17 00:00:00"}], "HotelInfo": {"Name": "Taxim Suites", "HotelURL": "/ShowUserReviews-g293974-d304808-Reviews-Taxim_Suites-Istanbul.html", "Price": "$201 - $374*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Cumuriyet cad. No 31</span> | <span class=\"extended-address\">Taksim</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34437</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "304808", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/2b/f7/ae/bosphorus-penthouse.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "England",
+      "Title": "\u201cGreat Aparthotel, excellent location near Taxim square\u201d",
+      "Author": "Bazza0070",
+      "ReviewID": "UR119545015",
+      "Content": "aparthotel suite suite exactly pictures website free wifi throughout hotel location main road 100 meters taxim square busy night bedroom divided rest apartment excess noise kitchenette inclined variety restaurants nearby fridge handy staff friendly hotel clean breakfast served restaurant downstairs called faros restaurant lunch evening meals 10 discount staying taxim suite hotel short walk taxim square besiktas football stadium boats asia advice arrive ataturk sabiha gokcen airports shuttle bus taxim square outside airport arrivals cost 12 turkish lira sabiha \u00e2\u00a34 taxim square stop 50 meters apartment return goes half hour takes 1 hr 1 hr half sabiha gokcen taxi journey 120 tl \u00e2\u00a340 feel safe",
+      "Date": "2011-10-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "fort lauderdale",
+      "Title": "\u201cJewel in the crown.\u201d",
+      "Author": "erdalito",
+      "ReviewID": "UR83415924",
+      "Content": "visit hotel time resided 6 weeks beautiful view bosphorous taksim park staff starting manager zeynep top friendly helpful people wish hotel foreign country suite hotel extremely comfortable amenities living furnished beautifully airy bright truely home comforts home word describe hotel jewel crown recommend",
+      "Date": "2010-10-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "UK",
+      "Title": "\u201cA rip off\u201d",
+      "Author": "gillparry",
+      "ReviewID": "UR64408963",
+      "Content": "looking forward staying taxim suites nights disappointed 1 \u00e2\u00a350 stolen safe box little concern shown manager override code staff suites access couldnt safe using code punched night manager \u00e2\u00a350 note missing 2 airport transfer requested arranged bus instead 3 suites advertised jacuzzi suite bath weak drizzle shower 4 nice worn stains rug sitting etc 5 noisy 6 towels pristinely clean little worrying suites advertised quality 160 euros night self catering expected priced value secure theft money safe box left nasty taste mouth",
+      "Date": "2010-05-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cExcellent rooms & close to the where all the action takes place\u201d",
+      "Author": "KalordT",
+      "ReviewID": "UR60638416",
+      "Content": "look exactly website photos leaving king secondly close epicenter istanbul namely taksim sq 7 mins walk kabatas bosphorus ferries main pedestrianised shopping street lady running hotel feel welcome helpful answering questions positive experience fault hotel",
+      "Date": "2010-04-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "london",
+      "Title": "\u201cAn absolutely great hotel!\u201d",
+      "Author": "jac27",
+      "ReviewID": "UR58792885",
+      "Content": "1 entered suite astonished modern fresh excellently equipped leave 2 stuff helpful explain hours visit especially hotels manager zeynep helpful friendly fake behavior feel tourist friend 3 location excellent metres taksim square istiklal street 4 price reasonable memories definitely recommended hotel",
+      "Date": "2010-03-17 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Taxim Suites",
+    "HotelURL": "/ShowUserReviews-g293974-d304808-Reviews-Taxim_Suites-Istanbul.html",
+    "Price": "$201 - $374*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Cumuriyet cad. No 31</span> | <span class=\"extended-address\">Taksim</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34437</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "304808",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/2b/f7/ae/bosphorus-penthouse.jpg"
+  }
+}

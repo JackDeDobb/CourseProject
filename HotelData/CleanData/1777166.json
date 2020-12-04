@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Ho Chi Minh City, Vietnam", "Title": "\u201cClean room but rude staff, try to cheat you with forex exchange too.\u201d", "Author": "gpttruong", "ReviewID": "UR120070237", "Content": "standard fancy decoration structure clumsy triple bottle water provided toilet breakfast soso food isnt delicious advertised homepage staff rude manager waitress serving breakfast change money receptionist offered change 23 lira outside offered \u00e2\u00a3 day change 28 lira ridiculous probably asian tourists dumb dont hotel service particular receptionist tried money careful", "Date": "2011-11-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Dubai, United Arab Emirates", "Title": "\u201cDecent but Mismanaged\u201d", "Author": "kresnap", "ReviewID": "UR105129080", "Content": "stayed hotel twice weeks period trip turkey location hotel tucked relatively quiet neighbourhood crowd noise main street slept window disruption call prayer minutes\u00e2\u20ac\u2122 walk tram stations providing easy access city dozens hotels located closer tram stations obviously pricier prefer arrival breakfast stay staff immediately locate reservation sorted offered free breakfast day checkin 8 am possibly view towards mosque 6th floor breakfast buffet spread acceptable fell short fourstar hotel weve stayed world service service quality hitandmiss staff speak english friendly welcoming bothered jobs stayed clean condition modern design especially bathroom unfortunately occasions bathroom stay foul smell coming toilet bowl window pour shower gel shampoo rid stay shower drainage properly fabulous view view facing wall significantly spacious facilities hotel inhouse sauna jacuzzi hammam due inconsistent service experienced wouldn\u00e2\u20ac\u2122t risk try expensive istanbul hotels free wifi provided verdict hotel categorized 4star hotel rightfully recently renovated stood dated hotels management little bit effort delivering service shamefully paid 60 euros night including breakfast similar hotels charged 85 euros spent time venturing city bother fuss spot paid definitely cheated extremely upset consider paying quality lodging time istanbul", "Date": "2011-04-23 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Beirut, Lebanon", "Title": "\u201cvery good hotel helpful staff\u201d", "Author": "othmanli", "ReviewID": "UR100689903", "Content": "brother istanbul 4 days 7 march 2011 10 march 2011 slept 3 nights hotel staff friendly speak english frequent istanbul hotels clean beds comfortable bathroom shower excellent breakfast delicious bad broken chair price reasonable affordable recommend hotel", "Date": "2011-03-19 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Rome, Italy", "Title": "\u201cvery good , new and comfortable\u201d", "Author": "mikael82", "ReviewID": "UR93819487", "Content": "hotel location close historical sultanahmet grand sophia egypt palace basilica cistern galata tower taksim city center location reach city center historical shopping center hotel nice hotel staff frendly service perfect hotel clean comfortable hotel flashy reflect turkish culture breakfast buffet buffet rich meals tasty delicious turkish bath nice relax hotel excellent successful", "Date": "2011-01-20 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cTerrible hotel, avoid\u201d", "Author": "rhague38", "ReviewID": "UR92046270", "Content": "ive stayed hotel december 2010 5 nights wife 1 daughter ive regretted bitterly booked via ive found ground service poor quality customer service courtesy grim reception didnt explain arrival basic confirming nights time breakfast reception speaks english random words pick power cut reception didnt talking god help urgently staff complains 1 daughter left baby chair breadcrumbs bit boiled eggs cant bothered clean ive plat fork service told forbidden didnt explain hovered 5 nights stay byt european standard barely fits double bed dont baby beds cots aware travelling children hotel booking websites opodo bookingcom dont breakfast poor bread olives juice bad quality concentrated liquid 8 types cheese ah coffee served knackered automated machine sucks worst ive location narrow street wouldnt expect hotel wholesale merchants turkish products tourists 4 taxis failed hotel airport local ones 1015 minutes walk main attractions advise book hotel fatih save 50 price bus shuttle airport vs taking taxi overall saying 4 stars rating hotel description business card joke rated star max heading istanbul anytime soon subject consider hotel", "Date": "2011-01-07 00:00:00"}], "HotelInfo": {"Name": "Hotel Tilia", "HotelURL": "/ShowUserReviews-g293974-d1777166-Reviews-Hotel_Tilia-Istanbul.html", "Price": "$92 - $172*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gencturk Cad Mahmudiye Cesme Sok No 7</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "1777166", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ed/6b/ed6bfd51460593ba8857c4f0ef036bb61large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Ho Chi Minh City, Vietnam",
+      "Title": "\u201cClean room but rude staff, try to cheat you with forex exchange too.\u201d",
+      "Author": "gpttruong",
+      "ReviewID": "UR120070237",
+      "Content": "standard fancy decoration structure clumsy triple bottle water provided toilet breakfast soso food isnt delicious advertised homepage staff rude manager waitress serving breakfast change money receptionist offered change 23 lira outside offered \u00e2\u00a3 day change 28 lira ridiculous probably asian tourists dumb dont hotel service particular receptionist tried money careful",
+      "Date": "2011-11-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Dubai, United Arab Emirates",
+      "Title": "\u201cDecent but Mismanaged\u201d",
+      "Author": "kresnap",
+      "ReviewID": "UR105129080",
+      "Content": "stayed hotel twice weeks period trip turkey location hotel tucked relatively quiet neighbourhood crowd noise main street slept window disruption call prayer minutes\u00e2\u20ac\u2122 walk tram stations providing easy access city dozens hotels located closer tram stations obviously pricier prefer arrival breakfast stay staff immediately locate reservation sorted offered free breakfast day checkin 8 am possibly view towards mosque 6th floor breakfast buffet spread acceptable fell short fourstar hotel weve stayed world service service quality hitandmiss staff speak english friendly welcoming bothered jobs stayed clean condition modern design especially bathroom unfortunately occasions bathroom stay foul smell coming toilet bowl window pour shower gel shampoo rid stay shower drainage properly fabulous view view facing wall significantly spacious facilities hotel inhouse sauna jacuzzi hammam due inconsistent service experienced wouldn\u00e2\u20ac\u2122t risk try expensive istanbul hotels free wifi provided verdict hotel categorized 4star hotel rightfully recently renovated stood dated hotels management little bit effort delivering service shamefully paid 60 euros night including breakfast similar hotels charged 85 euros spent time venturing city bother fuss spot paid definitely cheated extremely upset consider paying quality lodging time istanbul",
+      "Date": "2011-04-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Beirut, Lebanon",
+      "Title": "\u201cvery good hotel helpful staff\u201d",
+      "Author": "othmanli",
+      "ReviewID": "UR100689903",
+      "Content": "brother istanbul 4 days 7 march 2011 10 march 2011 slept 3 nights hotel staff friendly speak english frequent istanbul hotels clean beds comfortable bathroom shower excellent breakfast delicious bad broken chair price reasonable affordable recommend hotel",
+      "Date": "2011-03-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rome, Italy",
+      "Title": "\u201cvery good , new and comfortable\u201d",
+      "Author": "mikael82",
+      "ReviewID": "UR93819487",
+      "Content": "hotel location close historical sultanahmet grand sophia egypt palace basilica cistern galata tower taksim city center location reach city center historical shopping center hotel nice hotel staff frendly service perfect hotel clean comfortable hotel flashy reflect turkish culture breakfast buffet buffet rich meals tasty delicious turkish bath nice relax hotel excellent successful",
+      "Date": "2011-01-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cTerrible hotel, avoid\u201d",
+      "Author": "rhague38",
+      "ReviewID": "UR92046270",
+      "Content": "ive stayed hotel december 2010 5 nights wife 1 daughter ive regretted bitterly booked via ive found ground service poor quality customer service courtesy grim reception didnt explain arrival basic confirming nights time breakfast reception speaks english random words pick power cut reception didnt talking god help urgently staff complains 1 daughter left baby chair breadcrumbs bit boiled eggs cant bothered clean ive plat fork service told forbidden didnt explain hovered 5 nights stay byt european standard barely fits double bed dont baby beds cots aware travelling children hotel booking websites opodo bookingcom dont breakfast poor bread olives juice bad quality concentrated liquid 8 types cheese ah coffee served knackered automated machine sucks worst ive location narrow street wouldnt expect hotel wholesale merchants turkish products tourists 4 taxis failed hotel airport local ones 1015 minutes walk main attractions advise book hotel fatih save 50 price bus shuttle airport vs taking taxi overall saying 4 stars rating hotel description business card joke rated star max heading istanbul anytime soon subject consider hotel",
+      "Date": "2011-01-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Tilia",
+    "HotelURL": "/ShowUserReviews-g293974-d1777166-Reviews-Hotel_Tilia-Istanbul.html",
+    "Price": "$92 - $172*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gencturk Cad Mahmudiye Cesme Sok No 7</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "1777166",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ed/6b/ed6bfd51460593ba8857c4f0ef036bb61large.jpg"
+  }
+}

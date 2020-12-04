@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Curacao", "Title": "\u201cThe Best Hotel\u201d", "Author": "Neisa N", "ReviewID": "UR127534047", "Content": "stayed six times dreams hotel excellent owner elena husband persons feel home advice time clean located feel save hotel streets hotel vanessa", "Date": "2012-04-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Atlanta, Georgia", "Title": "\u201cPerfect name for the hotel\u201d", "Author": "Chuchita C", "ReviewID": "UR126441594", "Content": "son daughter recently stayed dreams experience found hotel clean cozy owners extremely friendly owners drove children personal time vehicle brought hotel time visitors puerto rico extremely hotel located decent price recommend hotel thats looking safe clean reasonable accommodation look forward staying future thank kindness shown children norma flores hugo mora flores", "Date": "2012-03-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Bronx, New York", "Title": "\u201cHome away from home\u201d", "Author": "APCharzie", "ReviewID": "UR124367828", "Content": "im regular visitor puerto rico introduced facility 2010 wonderful time family kept clean comfortable home home shopping close easy accessible compliment management staff courteous service recommend hotel day quiet loved vacation otherwise robert stay enjoyable assure", "Date": "2012-02-09 00:00:00"}], "HotelInfo": {"Name": "Dreams Hotel Puerto Rico", "HotelURL": "/ShowUserReviews-g147320-d2481661-Reviews-Dreams_Hotel_Puerto_Rico-San_Juan_Puerto_Rico.html", "Price": "$49 - $69*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">109 Ave. Universidad</span>, <span class=\"locality\"><span property=\"v:locality\">San Juan</span> <span property=\"v:postal-code\">00926</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>", "HotelID": "2481661", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/4c/98/66/dreams-hotel-puerto-rico.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Curacao",
+      "Title": "\u201cThe Best Hotel\u201d",
+      "Author": "Neisa N",
+      "ReviewID": "UR127534047",
+      "Content": "stayed six times dreams hotel excellent owner elena husband persons feel home advice time clean located feel save hotel streets hotel vanessa",
+      "Date": "2012-04-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Atlanta, Georgia",
+      "Title": "\u201cPerfect name for the hotel\u201d",
+      "Author": "Chuchita C",
+      "ReviewID": "UR126441594",
+      "Content": "son daughter recently stayed dreams experience found hotel clean cozy owners extremely friendly owners drove children personal time vehicle brought hotel time visitors puerto rico extremely hotel located decent price recommend hotel thats looking safe clean reasonable accommodation look forward staying future thank kindness shown children norma flores hugo mora flores",
+      "Date": "2012-03-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Bronx, New York",
+      "Title": "\u201cHome away from home\u201d",
+      "Author": "APCharzie",
+      "ReviewID": "UR124367828",
+      "Content": "im regular visitor puerto rico introduced facility 2010 wonderful time family kept clean comfortable home home shopping close easy accessible compliment management staff courteous service recommend hotel day quiet loved vacation otherwise robert stay enjoyable assure",
+      "Date": "2012-02-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Dreams Hotel Puerto Rico",
+    "HotelURL": "/ShowUserReviews-g147320-d2481661-Reviews-Dreams_Hotel_Puerto_Rico-San_Juan_Puerto_Rico.html",
+    "Price": "$49 - $69*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">109 Ave. Universidad</span>, <span class=\"locality\"><span property=\"v:locality\">San Juan</span> <span property=\"v:postal-code\">00926</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>",
+    "HotelID": "2481661",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/4c/98/66/dreams-hotel-puerto-rico.jpg"
+  }
+}

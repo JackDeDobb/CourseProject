@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Hockessin, Delaware", "Title": "\u201cNoisy and not a good night's rest\u201d", "Author": "khbeard", "ReviewID": "UR127380241", "Content": "planned hotel midnight 3 am east coast time morning departure figured couldnt bad motel 6 nights fine stated reports hotel employee glass checked late flight 1130 pm cant hold specifically door close lot effort resulting loud noise west coast daughter sleeping woke outlets bathroom limiting hair dryers normal charging cell phones laptops etc worst local train passed frequently night using sustained loud wake horn blast passed highway intersection recommend hotel phoenix low cost hotels choice", "Date": "2012-04-06 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Seongnam", "Title": "\u201cNot exactly a safe neighborhood\u201d", "Author": "thelonious22", "ReviewID": "UR122256522", "Content": "sign cashier stayed thick glass transactions little slot underneath thick nicest looking bit dirtier typical motel close airport super flight morning adequate night", "Date": "2011-12-29 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "LOS ANGELES", "Title": "\u201cSTAY AWAY!!!!!!!!\u201d", "Author": "mauisonia", "ReviewID": "UR121098442", "Content": "husband passing az cheap clean quiet hotel sleep tired soon motel 6 chain recall unexpensive family oriented clean day try bad idea guess adult sex shop street shouldve told smelled muggy horrible door 10 minutes bed gross peoples hairs pillowcases sheets immediatley guy reception change actually nice name luis bad hairs found mascara marks sheets stuff wrapping towels pillows using sheet looked cleanest middle night fight broke outside needless nights sleep scared steal rental car 7am left soon noisy hell beware hotel", "Date": "2011-11-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Lake Havasu City, Arizona", "Title": "\u201cEthan's on the road again\u201d", "Author": "TravelerWithDog", "ReviewID": "UR81834564", "Content": "dogs wander wander night fast food couple blocks gas stations stayed times hit money cigarettes gas stations walking 40 season motel 6 grounds justify cost picking dropping airport fine staff friendly accommodating burns furniture wobbly chairs hair tub unless price worth traveler sightseer family planes trains trucks overhead night", "Date": "2010-10-02 00:00:00"}], "HotelInfo": {"Name": "Motel 6 Phoenix Airport", "HotelURL": "/ShowUserReviews-g31310-d243927-Reviews-Motel_6_Phoenix_Airport-Phoenix_Arizona.html", "Price": "$40 - $57*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">214 S 24th St</span>, <span class=\"extended-address\">I-10 at Exit #148/Jefferson St</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85034</span></span> </span></span></address>", "HotelID": "243927", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/75/59/755976ba54314b8feaca031d15e8d4532large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Hockessin, Delaware",
+      "Title": "\u201cNoisy and not a good night's rest\u201d",
+      "Author": "khbeard",
+      "ReviewID": "UR127380241",
+      "Content": "planned hotel midnight 3 am east coast time morning departure figured couldnt bad motel 6 nights fine stated reports hotel employee glass checked late flight 1130 pm cant hold specifically door close lot effort resulting loud noise west coast daughter sleeping woke outlets bathroom limiting hair dryers normal charging cell phones laptops etc worst local train passed frequently night using sustained loud wake horn blast passed highway intersection recommend hotel phoenix low cost hotels choice",
+      "Date": "2012-04-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Seongnam",
+      "Title": "\u201cNot exactly a safe neighborhood\u201d",
+      "Author": "thelonious22",
+      "ReviewID": "UR122256522",
+      "Content": "sign cashier stayed thick glass transactions little slot underneath thick nicest looking bit dirtier typical motel close airport super flight morning adequate night",
+      "Date": "2011-12-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "LOS ANGELES",
+      "Title": "\u201cSTAY AWAY!!!!!!!!\u201d",
+      "Author": "mauisonia",
+      "ReviewID": "UR121098442",
+      "Content": "husband passing az cheap clean quiet hotel sleep tired soon motel 6 chain recall unexpensive family oriented clean day try bad idea guess adult sex shop street shouldve told smelled muggy horrible door 10 minutes bed gross peoples hairs pillowcases sheets immediatley guy reception change actually nice name luis bad hairs found mascara marks sheets stuff wrapping towels pillows using sheet looked cleanest middle night fight broke outside needless nights sleep scared steal rental car 7am left soon noisy hell beware hotel",
+      "Date": "2011-11-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Lake Havasu City, Arizona",
+      "Title": "\u201cEthan's on the road again\u201d",
+      "Author": "TravelerWithDog",
+      "ReviewID": "UR81834564",
+      "Content": "dogs wander wander night fast food couple blocks gas stations stayed times hit money cigarettes gas stations walking 40 season motel 6 grounds justify cost picking dropping airport fine staff friendly accommodating burns furniture wobbly chairs hair tub unless price worth traveler sightseer family planes trains trucks overhead night",
+      "Date": "2010-10-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Motel 6 Phoenix Airport",
+    "HotelURL": "/ShowUserReviews-g31310-d243927-Reviews-Motel_6_Phoenix_Airport-Phoenix_Arizona.html",
+    "Price": "$40 - $57*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">214 S 24th St</span>, <span class=\"extended-address\">I-10 at Exit #148/Jefferson St</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85034</span></span> </span></span></address>",
+    "HotelID": "243927",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/75/59/755976ba54314b8feaca031d15e8d4532large.jpg"
+  }
+}

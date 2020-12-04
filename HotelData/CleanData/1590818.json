@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201crude manager & none of the facilities were available!\u201d", "Author": "raro2121", "ReviewID": "UR124387864", "Content": "written review stayed rio hotel dubai people aware happened trip begin trip dubai 4days entire trip pool gym sauna steam available told checked booked trip rang reception days consecutively pool day tomorrow 3rd day complained manager told pool sauna etc week told informed residents check time thrown letter doors resident aware day im staying free im paying facilties providing manager found amusing tell people pool isnt course money forget people told writing review etc dont care found extremely rude unprofessional moreover bathroom smelly hot water shower lasting 6mins black marks carpet supposed maintenance guy check happen paid lot money trip half bed food pool sauna gym manager allow family check late form compensation refused didnt money recommend hotel", "Date": "2012-02-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Overland Park, Kansas", "Title": "\u201cDecent room, but not much in the way of amenities\u201d", "Author": "ArchiTraveller", "ReviewID": "UR123846333", "Content": "hotel stands attractions dubai means pretty taxi isnt sometimes wait taxi isnt near metro arent dining options nearby offer restaurant hotel isnt bad comfortable staff warm accommodating guest skyline downtown dubai industrial port skyline tired seeing burj kalifa glimmering morning evening light dont view nearly appears significant leak rooftop pool time 4th floor floor guest couple spots water damage major walking 4th floor corridor paneling wall buckled cleaned appeared pretty significant water damage", "Date": "2012-01-30 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "New Delhi, India", "Title": "\u201cVALUE FOR MONEY\u201d", "Author": "punmad", "ReviewID": "UR82405423", "Content": "stay restaurants night clubs including indian lounge bar attraction hang serves lunch dinner dj 11pm night 3pm nice hangout indian restaurant serving delicious food called glassy junction miss stay hotel planning trip dubai", "Date": "2010-10-07 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Pune", "Title": "\u201cGood Ambience,worth a stay\u201d", "Author": "DoctorPune", "ReviewID": "UR67246037", "Content": "hotel situated crowded bur dubai near gold size appointed restaurant spacious selection indian continental quisine availability public transport shopping pretty close metro walking distance budget stay hotel rio choice", "Date": "2010-06-12 00:00:00"}], "HotelInfo": {"Name": "Rio Hotel", "HotelURL": "/ShowUserReviews-g295424-d1590818-Reviews-Rio_Hotel-Dubai.html", "Price": "$54 - $120*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Sheikh Rashid Road</span> | <span class=\"extended-address\">PO Box 53944</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "1590818", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e0/5e/e05ecb762fd5b66efb19bb38bec83b974large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201crude manager & none of the facilities were available!\u201d",
+      "Author": "raro2121",
+      "ReviewID": "UR124387864",
+      "Content": "written review stayed rio hotel dubai people aware happened trip begin trip dubai 4days entire trip pool gym sauna steam available told checked booked trip rang reception days consecutively pool day tomorrow 3rd day complained manager told pool sauna etc week told informed residents check time thrown letter doors resident aware day im staying free im paying facilties providing manager found amusing tell people pool isnt course money forget people told writing review etc dont care found extremely rude unprofessional moreover bathroom smelly hot water shower lasting 6mins black marks carpet supposed maintenance guy check happen paid lot money trip half bed food pool sauna gym manager allow family check late form compensation refused didnt money recommend hotel",
+      "Date": "2012-02-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Overland Park, Kansas",
+      "Title": "\u201cDecent room, but not much in the way of amenities\u201d",
+      "Author": "ArchiTraveller",
+      "ReviewID": "UR123846333",
+      "Content": "hotel stands attractions dubai means pretty taxi isnt sometimes wait taxi isnt near metro arent dining options nearby offer restaurant hotel isnt bad comfortable staff warm accommodating guest skyline downtown dubai industrial port skyline tired seeing burj kalifa glimmering morning evening light dont view nearly appears significant leak rooftop pool time 4th floor floor guest couple spots water damage major walking 4th floor corridor paneling wall buckled cleaned appeared pretty significant water damage",
+      "Date": "2012-01-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "New Delhi, India",
+      "Title": "\u201cVALUE FOR MONEY\u201d",
+      "Author": "punmad",
+      "ReviewID": "UR82405423",
+      "Content": "stay restaurants night clubs including indian lounge bar attraction hang serves lunch dinner dj 11pm night 3pm nice hangout indian restaurant serving delicious food called glassy junction miss stay hotel planning trip dubai",
+      "Date": "2010-10-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Pune",
+      "Title": "\u201cGood Ambience,worth a stay\u201d",
+      "Author": "DoctorPune",
+      "ReviewID": "UR67246037",
+      "Content": "hotel situated crowded bur dubai near gold size appointed restaurant spacious selection indian continental quisine availability public transport shopping pretty close metro walking distance budget stay hotel rio choice",
+      "Date": "2010-06-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Rio Hotel",
+    "HotelURL": "/ShowUserReviews-g295424-d1590818-Reviews-Rio_Hotel-Dubai.html",
+    "Price": "$54 - $120*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Sheikh Rashid Road</span> | <span class=\"extended-address\">PO Box 53944</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "1590818",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e0/5e/e05ecb762fd5b66efb19bb38bec83b974large.jpg"
+  }
+}

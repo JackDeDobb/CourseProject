@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Chicago", "Title": "\u201cWhat a special find in the heart of Rome!!\u201d", "Author": "Deneeta P", "ReviewID": "UR124684170", "Content": "italian friend mine booked property girlfriend travel lot typically stay starwood properties due status rustic italian experience trip am type am day surprised allowed friend book hotel unfamiliar am glad arrived cute hotel conveniently located steps spanish steps met smiles attention hotel clerk comfortable prepared hotel couldnt charming tastefully updated modern ameneties space beds comfortable hotel quiet morning lovely breakfast dining included rate am glad discovered gem definitely", "Date": "2012-02-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Yorkshire England", "Title": "\u201cHotel Siena 28 November 2011 \"Magnificently sited hotel with chic smart decor and nice staff. We enjoyed our stay at t\u201d", "Author": "curly47", "ReviewID": "UR121247941", "Content": "nice clean smart hotel near trevi fountain spanish steps sights helpful efficient staff welcome drink welcome 11pm modern wooden floors bw decor comfortable beds lift building adequate 2 plus luggage nice simple breakfast pleasant service eggs daughter pun intended doubt hotel bit difficult directions peter locals professed iphone return", "Date": "2011-11-30 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Orlando, Florida", "Title": "\u201cBoutique Hotel Comfort in a Great Location\u201d", "Author": "edyrp", "ReviewID": "UR120229037", "Content": "hotel siena welcoming comfortable cruise location appeal walking distance trevi fountain spanish steps shops via condotti hotel staff helpful friendly hard friendly english arranged ride airport day helped bring lots luggage fourth floor trips tiny elevator normal european boutique hotels ive seen clean comfortable normal european hotels space liked hardwood floor hotel cleaner bed comfortable mind ac stay summer issue november hightech fan window", "Date": "2011-11-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Florida", "Title": "\u201cGreat hotel in great location\u201d", "Author": "ExecutiveChefFL", "ReviewID": "UR119681630", "Content": "time visitor rome hotel siena perfect location centrally located staff clean nice awesome shower decent size nicely appointed complimentary breakfast woman break ate name dont remember extremely pleasant wonderful smile amadeus cappuccinos delightful start day left anticipation day cobblestone hopping downside walls bit thin busy little loud hotel industry food past 20 attention detail forefront mind hotel passed standards professional pictures posted online perfect representation trouble recommending hotel", "Date": "2011-10-24 00:00:00"}], "HotelInfo": {"Name": "Hotel Siena", "HotelURL": "/ShowUserReviews-g187791-d232872-Reviews-Hotel_Siena-Rome_Lazio.html", "Price": "$158 - $328*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via S Andrea Delle Fratte 33</span>, <span class=\"locality\"><span property=\"v:postal-code\">00187</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "232872", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5e/df/5edfbc5ee043064ffc201f826796bcb15large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Chicago",
+      "Title": "\u201cWhat a special find in the heart of Rome!!\u201d",
+      "Author": "Deneeta P",
+      "ReviewID": "UR124684170",
+      "Content": "italian friend mine booked property girlfriend travel lot typically stay starwood properties due status rustic italian experience trip am type am day surprised allowed friend book hotel unfamiliar am glad arrived cute hotel conveniently located steps spanish steps met smiles attention hotel clerk comfortable prepared hotel couldnt charming tastefully updated modern ameneties space beds comfortable hotel quiet morning lovely breakfast dining included rate am glad discovered gem definitely",
+      "Date": "2012-02-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Yorkshire England",
+      "Title": "\u201cHotel Siena 28 November 2011 \"Magnificently sited hotel with chic smart decor and nice staff. We enjoyed our stay at t\u201d",
+      "Author": "curly47",
+      "ReviewID": "UR121247941",
+      "Content": "nice clean smart hotel near trevi fountain spanish steps sights helpful efficient staff welcome drink welcome 11pm modern wooden floors bw decor comfortable beds lift building adequate 2 plus luggage nice simple breakfast pleasant service eggs daughter pun intended doubt hotel bit difficult directions peter locals professed iphone return",
+      "Date": "2011-11-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Orlando, Florida",
+      "Title": "\u201cBoutique Hotel Comfort in a Great Location\u201d",
+      "Author": "edyrp",
+      "ReviewID": "UR120229037",
+      "Content": "hotel siena welcoming comfortable cruise location appeal walking distance trevi fountain spanish steps shops via condotti hotel staff helpful friendly hard friendly english arranged ride airport day helped bring lots luggage fourth floor trips tiny elevator normal european boutique hotels ive seen clean comfortable normal european hotels space liked hardwood floor hotel cleaner bed comfortable mind ac stay summer issue november hightech fan window",
+      "Date": "2011-11-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Florida",
+      "Title": "\u201cGreat hotel in great location\u201d",
+      "Author": "ExecutiveChefFL",
+      "ReviewID": "UR119681630",
+      "Content": "time visitor rome hotel siena perfect location centrally located staff clean nice awesome shower decent size nicely appointed complimentary breakfast woman break ate name dont remember extremely pleasant wonderful smile amadeus cappuccinos delightful start day left anticipation day cobblestone hopping downside walls bit thin busy little loud hotel industry food past 20 attention detail forefront mind hotel passed standards professional pictures posted online perfect representation trouble recommending hotel",
+      "Date": "2011-10-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Siena",
+    "HotelURL": "/ShowUserReviews-g187791-d232872-Reviews-Hotel_Siena-Rome_Lazio.html",
+    "Price": "$158 - $328*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via S Andrea Delle Fratte 33</span>, <span class=\"locality\"><span property=\"v:postal-code\">00187</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "232872",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5e/df/5edfbc5ee043064ffc201f826796bcb15large.jpg"
+  }
+}

@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Salem, Oregon", "Title": "\u201cVery Adequate!\u201d", "Author": "higgyhoward", "ReviewID": "UR121869352", "Content": "stayed 3 nights attending 2010 rose bowl game plenty space doublequeen refrigerator microwave clean freshly painted clean carpeting bugs pulled sheets checked thin towels sheets blankets comfortable mattresses slept night continental breakfasts adequate consisting yogurt sweet rolls apples bananas oranges coffee fill staff helpful giving directions tourist tips friendly mom friends yourself friendly hardly believe negative comments read am people expected 5 star establishment gone street hilton paid 4 5 times cost price travels world adequate location system blocks street cheaply rose bowl stadium connected line lax airport quickly cheaply traffic parking spot free thankful complaining driving subcompact fit ok plan stay beloved oregon ducks 2012 rose bowl expect ready visit", "Date": "2011-12-18 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "San Diego, California", "Title": "\u201cNever again!!\u201d", "Author": "Dennis L", "ReviewID": "UR121843767", "Content": "beds uncomfortable noisy people hotel unfriendly sometimes treated breakfast office unfriendly host breakfast donuts dry coffee hot water taste", "Date": "2011-12-18 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Selma, California", "Title": "\u201cWorst night of sleep ever.\u201d", "Author": "Shirley P", "ReviewID": "UR119811460", "Content": "appeared clean appeared built carport building office beds 2 doubles noisey tossing times realized sleeping box springs mattress springs noise movement gone office checked 1145pm 345am planned awakening 8am instead checked 7 key spoke person duty interrupt phone call inform management personal call due brothers death parking difficult lot compact cars park tight write book experience am limited", "Date": "2011-10-27 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Sherman Oaks, California, United States", "Title": "\u201cSummer Nights\u201d", "Author": "Jimmy S", "ReviewID": "UR118826330", "Content": "stayed hotel august 2011 stayed couple nights ive couple times motel location depends doing universal studios morning city walk night trouble finding fifteen minute walk tramp bottom hill universal studios night hollywood location pleasant experience subway street universal studios tramp stop hollywood saved parking time staff ok safe family motel enjoyed visit", "Date": "2011-10-01 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "santa clara, california", "Title": "\u201cBetter than expected\u201d", "Author": "ghostly1", "ReviewID": "UR84908189", "Content": "son gal halloween horror nights universal studios decided drive picked hotel price close proximity park choice hotels reputation little hotel clean offered eateries steps price sheraton clean bedding nice staff wouldnt consider complaints cant cant upgrade towels actually torn clean towels sheraton cant particular issue didnt matter people larger vehicles parking amount parking mainly cars suburban luxury parking truck parking spots advantage little spot dealing monster truck late visiting blocked spots morning hours wasnt car blocked sorry guess leave didnt nice little motel visit overlook parking worn towels bargain hotel reasonable walking distance university studios", "Date": "2010-10-26 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Lake Hughes, California", "Title": "\u201cLawsuit waiting to happen\u201d", "Author": "dazzll", "ReviewID": "UR78420105", "Content": "booked hotel location jetted tub parking terrible move car quests main beds beds springs sticking mattress cut leg charged price ok nice bad insight doesnt redo called breakfast joke advice", "Date": "2010-09-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Burbank, California", "Title": "\u201cVery Clean and Great Location\u201d", "Author": "Nickieleigh", "ReviewID": "UR65408996", "Content": "son relocated stay finished move found nite inn passing decided stop check dogs sometimes difficult accomodate lady front desk polite helpful stay recommendations eat housekeeping staff wonderful checking else reviews unable towels experience nite inn recommended friends coming universal month location grocery stores restaurants universal studios hollywood bowl ove hill hollywood definitely safe stay child", "Date": "2010-05-26 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "St.Louis, Mo", "Title": "\u201cThis is easily the worst place we have ever stayed!!!!\u201d", "Author": "skip1920", "ReviewID": "UR54962222", "Content": "gross dirty smelly sold adjoining tiny share bathroom air conditioner didnt beds sleeping boards towels mgmt told laundry 9pm office ice machine office parking lot ziplock bags ice stung gross dont stay", "Date": "2010-02-01 00:00:00"}], "HotelInfo": {"Name": "Nite Inn at Universal City", "HotelURL": "/ShowUserReviews-g32655-d217240-Reviews-Nite_Inn_at_Universal_City-Los_Angeles_California.html", "Price": "$89 - $121*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">10612 Ventura Blvd.</span>, <span class=\"extended-address\">Studio City</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">91604</span></span> </span> </span> </address>", "HotelID": "217240", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/23/b2/de/outside-view.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Salem, Oregon",
+      "Title": "\u201cVery Adequate!\u201d",
+      "Author": "higgyhoward",
+      "ReviewID": "UR121869352",
+      "Content": "stayed 3 nights attending 2010 rose bowl game plenty space doublequeen refrigerator microwave clean freshly painted clean carpeting bugs pulled sheets checked thin towels sheets blankets comfortable mattresses slept night continental breakfasts adequate consisting yogurt sweet rolls apples bananas oranges coffee fill staff helpful giving directions tourist tips friendly mom friends yourself friendly hardly believe negative comments read am people expected 5 star establishment gone street hilton paid 4 5 times cost price travels world adequate location system blocks street cheaply rose bowl stadium connected line lax airport quickly cheaply traffic parking spot free thankful complaining driving subcompact fit ok plan stay beloved oregon ducks 2012 rose bowl expect ready visit",
+      "Date": "2011-12-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "San Diego, California",
+      "Title": "\u201cNever again!!\u201d",
+      "Author": "Dennis L",
+      "ReviewID": "UR121843767",
+      "Content": "beds uncomfortable noisy people hotel unfriendly sometimes treated breakfast office unfriendly host breakfast donuts dry coffee hot water taste",
+      "Date": "2011-12-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Selma, California",
+      "Title": "\u201cWorst night of sleep ever.\u201d",
+      "Author": "Shirley P",
+      "ReviewID": "UR119811460",
+      "Content": "appeared clean appeared built carport building office beds 2 doubles noisey tossing times realized sleeping box springs mattress springs noise movement gone office checked 1145pm 345am planned awakening 8am instead checked 7 key spoke person duty interrupt phone call inform management personal call due brothers death parking difficult lot compact cars park tight write book experience am limited",
+      "Date": "2011-10-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Sherman Oaks, California, United States",
+      "Title": "\u201cSummer Nights\u201d",
+      "Author": "Jimmy S",
+      "ReviewID": "UR118826330",
+      "Content": "stayed hotel august 2011 stayed couple nights ive couple times motel location depends doing universal studios morning city walk night trouble finding fifteen minute walk tramp bottom hill universal studios night hollywood location pleasant experience subway street universal studios tramp stop hollywood saved parking time staff ok safe family motel enjoyed visit",
+      "Date": "2011-10-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "santa clara, california",
+      "Title": "\u201cBetter than expected\u201d",
+      "Author": "ghostly1",
+      "ReviewID": "UR84908189",
+      "Content": "son gal halloween horror nights universal studios decided drive picked hotel price close proximity park choice hotels reputation little hotel clean offered eateries steps price sheraton clean bedding nice staff wouldnt consider complaints cant cant upgrade towels actually torn clean towels sheraton cant particular issue didnt matter people larger vehicles parking amount parking mainly cars suburban luxury parking truck parking spots advantage little spot dealing monster truck late visiting blocked spots morning hours wasnt car blocked sorry guess leave didnt nice little motel visit overlook parking worn towels bargain hotel reasonable walking distance university studios",
+      "Date": "2010-10-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Lake Hughes, California",
+      "Title": "\u201cLawsuit waiting to happen\u201d",
+      "Author": "dazzll",
+      "ReviewID": "UR78420105",
+      "Content": "booked hotel location jetted tub parking terrible move car quests main beds beds springs sticking mattress cut leg charged price ok nice bad insight doesnt redo called breakfast joke advice",
+      "Date": "2010-09-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Burbank, California",
+      "Title": "\u201cVery Clean and Great Location\u201d",
+      "Author": "Nickieleigh",
+      "ReviewID": "UR65408996",
+      "Content": "son relocated stay finished move found nite inn passing decided stop check dogs sometimes difficult accomodate lady front desk polite helpful stay recommendations eat housekeeping staff wonderful checking else reviews unable towels experience nite inn recommended friends coming universal month location grocery stores restaurants universal studios hollywood bowl ove hill hollywood definitely safe stay child",
+      "Date": "2010-05-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "St.Louis, Mo",
+      "Title": "\u201cThis is easily the worst place we have ever stayed!!!!\u201d",
+      "Author": "skip1920",
+      "ReviewID": "UR54962222",
+      "Content": "gross dirty smelly sold adjoining tiny share bathroom air conditioner didnt beds sleeping boards towels mgmt told laundry 9pm office ice machine office parking lot ziplock bags ice stung gross dont stay",
+      "Date": "2010-02-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Nite Inn at Universal City",
+    "HotelURL": "/ShowUserReviews-g32655-d217240-Reviews-Nite_Inn_at_Universal_City-Los_Angeles_California.html",
+    "Price": "$89 - $121*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">10612 Ventura Blvd.</span>, <span class=\"extended-address\">Studio City</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">91604</span></span> </span> </span> </address>",
+    "HotelID": "217240",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/23/b2/de/outside-view.jpg"
+  }
+}

@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "", "Title": "\u201cFantastic serviced apartments and staff all 5 star\u201d", "Author": "Kir2510", "ReviewID": "UR127804696", "Content": "hotel serviced apartments modern equipped amenities required stay staying bedroom compact especially baby suitable stay larger available bathroom space staff forest wangz fantastic fantastic beyond help feel comfortable home home definitely staying recommend found location acceptable situation daily shuttle bus available hotel close mrt supermarket", "Date": "2012-04-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Forks, Washington", "Title": "\u201cVery very Nice!\u201d", "Author": "IsabellaSwan22", "ReviewID": "UR126677013", "Content": "friendly courteous staff nice clean comfortable lockers cabinets lot space store ironing board iron closet hair dryer lacking convenient kitchen co eat outside cook self location 5 min mrt recommended pool private corridor people pass pool maybe covered bit privacy", "Date": "2012-03-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Finland", "Title": "\u201cThe best possible start to life in Singapore\u201d", "Author": "SS_Finland", "ReviewID": "UR125227532", "Content": "relocated singapore february 2012 looking temporary stay permanent chose forest stay cook fresh meals bit space children arranged staff airport pickup prompt arrived service personal day 1 home clean bright spacious kitchen equipped malls novena mrt walking distance thank staff stay memorable", "Date": "2012-02-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cexceptional service in Singapore\u201d", "Author": "Myra23", "ReviewID": "UR124790740", "Content": "weve staying apartment 12th december 2011 blown service mention cleanliness safe quiet neighborhood walk mrt shopping malls five minutewalk bus stops satisfying breakfast kitchenette laundry facility lorna omar asha gideon staff whos names missed mention thank husband feel home", "Date": "2012-02-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cHome away from home\u201d", "Author": "JoaoMMC", "ReviewID": "UR124653559", "Content": "moved singapore 1 month ago decided book forest wangz accommodation finding own choice apartments excellent sense treated day 1 hotel stylish hotels singapore service impeccable close amenities 10 minutes walk mrt subway malls stay", "Date": "2012-02-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "London", "Title": "\u201cA very nice place to stay in Singapore\u201d", "Author": "PiccadillyLondon", "ReviewID": "UR124412111", "Content": "serviced apartments refreshing alternative usual wednesday singapore type hotels staying week home home offering comforts expects classy hotel friendly professional welcoming staff lots attention details highly recommend staying look forward returning soon thank", "Date": "2012-02-10 00:00:00"}], "HotelInfo": {"Name": "The Forest by Wangz", "HotelURL": "/ShowUserReviews-g294265-d2309275-Reviews-The_Forest_by_Wangz-Singapore.html", "Price": "$212 - $236*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">145A Moulmein Road</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">308108</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>", "HotelID": "2309275", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/37/6a/fd/the-forest-by-wangz.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cFantastic serviced apartments and staff all 5 star\u201d",
+      "Author": "Kir2510",
+      "ReviewID": "UR127804696",
+      "Content": "hotel serviced apartments modern equipped amenities required stay staying bedroom compact especially baby suitable stay larger available bathroom space staff forest wangz fantastic fantastic beyond help feel comfortable home home definitely staying recommend found location acceptable situation daily shuttle bus available hotel close mrt supermarket",
+      "Date": "2012-04-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Forks, Washington",
+      "Title": "\u201cVery very Nice!\u201d",
+      "Author": "IsabellaSwan22",
+      "ReviewID": "UR126677013",
+      "Content": "friendly courteous staff nice clean comfortable lockers cabinets lot space store ironing board iron closet hair dryer lacking convenient kitchen co eat outside cook self location 5 min mrt recommended pool private corridor people pass pool maybe covered bit privacy",
+      "Date": "2012-03-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Finland",
+      "Title": "\u201cThe best possible start to life in Singapore\u201d",
+      "Author": "SS_Finland",
+      "ReviewID": "UR125227532",
+      "Content": "relocated singapore february 2012 looking temporary stay permanent chose forest stay cook fresh meals bit space children arranged staff airport pickup prompt arrived service personal day 1 home clean bright spacious kitchen equipped malls novena mrt walking distance thank staff stay memorable",
+      "Date": "2012-02-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cexceptional service in Singapore\u201d",
+      "Author": "Myra23",
+      "ReviewID": "UR124790740",
+      "Content": "weve staying apartment 12th december 2011 blown service mention cleanliness safe quiet neighborhood walk mrt shopping malls five minutewalk bus stops satisfying breakfast kitchenette laundry facility lorna omar asha gideon staff whos names missed mention thank husband feel home",
+      "Date": "2012-02-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cHome away from home\u201d",
+      "Author": "JoaoMMC",
+      "ReviewID": "UR124653559",
+      "Content": "moved singapore 1 month ago decided book forest wangz accommodation finding own choice apartments excellent sense treated day 1 hotel stylish hotels singapore service impeccable close amenities 10 minutes walk mrt subway malls stay",
+      "Date": "2012-02-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cA very nice place to stay in Singapore\u201d",
+      "Author": "PiccadillyLondon",
+      "ReviewID": "UR124412111",
+      "Content": "serviced apartments refreshing alternative usual wednesday singapore type hotels staying week home home offering comforts expects classy hotel friendly professional welcoming staff lots attention details highly recommend staying look forward returning soon thank",
+      "Date": "2012-02-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "The Forest by Wangz",
+    "HotelURL": "/ShowUserReviews-g294265-d2309275-Reviews-The_Forest_by_Wangz-Singapore.html",
+    "Price": "$212 - $236*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">145A Moulmein Road</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">308108</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>",
+    "HotelID": "2309275",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/37/6a/fd/the-forest-by-wangz.jpg"
+  }
+}

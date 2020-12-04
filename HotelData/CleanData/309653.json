@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cThe best 3 stars hotel in Dubai\u201d", "Author": "Nicole D", "ReviewID": "UR124646736", "Content": "stayed 7 nights relatives worth clean upgraded lcd tv friendly staffs nice food shopping malls al centre reef mall walking hotel stay explore dubai dont ride taxi time metro station 3 minutes walk", "Date": "2012-02-16 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Perth, Western Australia", "Title": "\u201cConfusion on check-in, but excellent thereafter\u201d", "Author": "woozie3", "ReviewID": "UR65400320", "Content": "booked comfort inn 5 nights airport hour hotel doubt contributed confusion bit frustration checkin reservation paid deposit hadnt shown system tried pay remainder balance male receptionist insisted paying below acceptable rate pay despite receipt stating exactly paying wed paid deposit add lowest rate hotel accept puzzled insistence failure understand honour receipt couldnt convince half hour exchange polite spoke times phone avail told manager wasnt available till morning 11pm offered told sort tomorrow situation caused bit stress managed decent nights sleep anyway morning lady receptionist duty immediately told fine sorted misunderstanding phew male receptionist remained professional times staff encountered helpful tour advice directions etc booked desert safari dont photos hotel ones flattering comfortable clean selection tv channels entertaining morning english newspaper left door free service totally impressed insight life issues construction outside near renovation floor noisy 830am nights offered 5th floor instead 7th didnt maybe people complaining anyway spacious particularly bathroom hanging space service earlier 9am nevertheless comfortable clean location excellent front supermarket corner mall mcdonalds pizza hut chinese palace food etc union metro short walk hotel street via hanging bridge convenient saved money none taxi drivers encountered trouble finding despite checkin issue wasnt hotels fault dealt calmly wed definitely dubai combination price location helpful staff free daily english newspapers internet comparable hotels cheaper corner near hanging bridge charged hour", "Date": "2010-05-26 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Rasht", "Title": "\u201cClean But Not a good reception\u201d", "Author": "ArashAmed", "ReviewID": "UR64931957", "Content": "stay 5 night hotel clean little nt food lunch breakfast spices variety sea food meat chicken food promise 3 hour additional stop pay fare night 60 reception personal hotel driver servant porter lover money position city economical price", "Date": "2010-05-21 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Bishkek, Kyrgyz Republic", "Title": "\u201cGood location, awful breakfast, expensive internet\u201d", "Author": "Zeevee", "ReviewID": "UR61072301", "Content": "booked hotel expediacom nights 300 usd internet included arrival found pay 3 usd hour complaints hotel management remained fruitless complained expediacom 25 usd voucher symbolic compensation ok ac blew directly neck sitting desk shower disgrace water lukewarm towels stinky breakfast experience engage walk shopping mall street decent coffee hotel located union metro station", "Date": "2010-04-12 00:00:00"}], "HotelInfo": {"Name": "Comfort Inn Hotel", "HotelURL": "/ShowUserReviews-g295424-d309653-Reviews-Comfort_Inn_Hotel-Dubai.html", "Price": "$48 - $139*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Rigga Street</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span> <span property=\"v:postal-code\">56352</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "309653", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5b/c1/5bc121bc2d747d28ee77d9a337bf2e8810large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cThe best 3 stars hotel in Dubai\u201d",
+      "Author": "Nicole D",
+      "ReviewID": "UR124646736",
+      "Content": "stayed 7 nights relatives worth clean upgraded lcd tv friendly staffs nice food shopping malls al centre reef mall walking hotel stay explore dubai dont ride taxi time metro station 3 minutes walk",
+      "Date": "2012-02-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Perth, Western Australia",
+      "Title": "\u201cConfusion on check-in, but excellent thereafter\u201d",
+      "Author": "woozie3",
+      "ReviewID": "UR65400320",
+      "Content": "booked comfort inn 5 nights airport hour hotel doubt contributed confusion bit frustration checkin reservation paid deposit hadnt shown system tried pay remainder balance male receptionist insisted paying below acceptable rate pay despite receipt stating exactly paying wed paid deposit add lowest rate hotel accept puzzled insistence failure understand honour receipt couldnt convince half hour exchange polite spoke times phone avail told manager wasnt available till morning 11pm offered told sort tomorrow situation caused bit stress managed decent nights sleep anyway morning lady receptionist duty immediately told fine sorted misunderstanding phew male receptionist remained professional times staff encountered helpful tour advice directions etc booked desert safari dont photos hotel ones flattering comfortable clean selection tv channels entertaining morning english newspaper left door free service totally impressed insight life issues construction outside near renovation floor noisy 830am nights offered 5th floor instead 7th didnt maybe people complaining anyway spacious particularly bathroom hanging space service earlier 9am nevertheless comfortable clean location excellent front supermarket corner mall mcdonalds pizza hut chinese palace food etc union metro short walk hotel street via hanging bridge convenient saved money none taxi drivers encountered trouble finding despite checkin issue wasnt hotels fault dealt calmly wed definitely dubai combination price location helpful staff free daily english newspapers internet comparable hotels cheaper corner near hanging bridge charged hour",
+      "Date": "2010-05-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rasht",
+      "Title": "\u201cClean But Not a good reception\u201d",
+      "Author": "ArashAmed",
+      "ReviewID": "UR64931957",
+      "Content": "stay 5 night hotel clean little nt food lunch breakfast spices variety sea food meat chicken food promise 3 hour additional stop pay fare night 60 reception personal hotel driver servant porter lover money position city economical price",
+      "Date": "2010-05-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bishkek, Kyrgyz Republic",
+      "Title": "\u201cGood location, awful breakfast, expensive internet\u201d",
+      "Author": "Zeevee",
+      "ReviewID": "UR61072301",
+      "Content": "booked hotel expediacom nights 300 usd internet included arrival found pay 3 usd hour complaints hotel management remained fruitless complained expediacom 25 usd voucher symbolic compensation ok ac blew directly neck sitting desk shower disgrace water lukewarm towels stinky breakfast experience engage walk shopping mall street decent coffee hotel located union metro station",
+      "Date": "2010-04-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Comfort Inn Hotel",
+    "HotelURL": "/ShowUserReviews-g295424-d309653-Reviews-Comfort_Inn_Hotel-Dubai.html",
+    "Price": "$48 - $139*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Rigga Street</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span> <span property=\"v:postal-code\">56352</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "309653",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5b/c1/5bc121bc2d747d28ee77d9a337bf2e8810large.jpg"
+  }
+}

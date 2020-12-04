@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Antwerp, Belgium", "Title": "\u201cGood Price/quality ratio - gloomy area in winter\u201d", "Author": "MrLoo", "ReviewID": "UR95486928", "Content": "stayed 3 times hotel mainly fallwinter thats recognize website photos whereas restaurant correctly represented web entrance fairly gray dull street water summer positive price 80 euro including breakfast fair free internet reasonable recommend business negative fairly dull winter hotel restaurant fairly deserted hotel bridge crossing road bridge pleasant bars restaurant cellars", "Date": "2011-02-04 00:00:00"}], "HotelInfo": {"Name": "BEST WESTERN Michels Hotel Am Schloss Koepenick", "HotelURL": "/ShowUserReviews-g187323-d229987-Reviews-BEST_WESTERN_Michels_Hotel_Am_Schloss_Koepenick-Berlin.html", "Price": "$63 - $135*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gruenauer Strasse 17-21</span>, <span class=\"locality\"><span property=\"v:postal-code\">12557</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "229987", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a8/8d/a88dac4c152be54373c85447d100e31c9large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Antwerp, Belgium",
+      "Title": "\u201cGood Price/quality ratio - gloomy area in winter\u201d",
+      "Author": "MrLoo",
+      "ReviewID": "UR95486928",
+      "Content": "stayed 3 times hotel mainly fallwinter thats recognize website photos whereas restaurant correctly represented web entrance fairly gray dull street water summer positive price 80 euro including breakfast fair free internet reasonable recommend business negative fairly dull winter hotel restaurant fairly deserted hotel bridge crossing road bridge pleasant bars restaurant cellars",
+      "Date": "2011-02-04 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "BEST WESTERN Michels Hotel Am Schloss Koepenick",
+    "HotelURL": "/ShowUserReviews-g187323-d229987-Reviews-BEST_WESTERN_Michels_Hotel_Am_Schloss_Koepenick-Berlin.html",
+    "Price": "$63 - $135*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gruenauer Strasse 17-21</span>, <span class=\"locality\"><span property=\"v:postal-code\">12557</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "229987",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a8/8d/a88dac4c152be54373c85447d100e31c9large.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Lucerne, Switzerland", "Title": "\u201cNice hotel, great location and friendly staff\u201d", "Author": "Travel G", "ReviewID": "UR120429064", "Content": "hotel clean spacious staff friendly breakfast fresh delicious location unbeatable price entrance hotel traditional narrow alley 1 meter wide stairs hotel signed yes true laminated sign cares outside looks photos accurate stayed reception sister hotel street alley stairs press intercom talk reception direct check check located hotel antica casa remember love hotel definitely worth money bargain wifi able purchase door hotels wifi network hotspot credit card 9 euro internet cafe street restaurants shops boat train transport 1 minute walk", "Date": "2011-11-10 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Mooloolaba, Australia", "Title": "\u201cClean & good location\u201d", "Author": "Littlecurly", "ReviewID": "UR118341088", "Content": "read previous reviews hotel looking forward 2 nights hotel moderno funniest name unfortunately choice accommodation booked stuck surprisingly time italy low expectations exceeded apart checkin process painful heavy backpack 10pm night complaints yes yes building yes feels ship clean bed comfortable aircon bathroom tidy smelt clean location fantastic reasonably priced venice standards tip firsttimers venice strongly suggest staying mainland nearby island lido 10 minutes action value money noise crowds", "Date": "2011-09-19 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Santa Maria, California", "Title": "\u201cOnly saving grace of this hotel is the location\u201d", "Author": "DZAmberG", "ReviewID": "UR110305457", "Content": "unpleasantly surprised arrived venice found hotel sign laminated sheet paper hotel moderno arrow stuck scotch tape edges arrow tiny creepy alley lugged bags stairs check sister hotel doors hotel pretty outdated carpet walls doors couch belonged grandmother child stained bedspread sported 6 inch gash middle stashed bedspread drawer decently clean location middle lot shopping restaurants minutes walk train station water busses close bridge grand canal stood top watched boats people ate dinner couple nights wed picked basta couple doors hotel pizza awesome sandwiches roasted meats falafel", "Date": "2011-05-29 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Amesbury, Massachusetts", "Title": "\u201cDon't expect a miracle, but it's a reasonable value\u201d", "Author": "trobaba", "ReviewID": "UR94773275", "Content": "reviews squeeze tiny alley climb stairs basic clean functional convenient location ritz aint checkin door zero poetry service 50 euros getting ok deal stayed recently hotel location marco advantages location train station vaporetto hub thats praise neighborhood canareggio real neighborhood exclusively tourist oriented marco air market campo san leonardo 5 minute walk neighborhood bars venetian meet shoot breeze historic jewish ghetto short walk venetian food mediocre overpriced consider taking meals nearby brek cafeteria chow worse elsewhere considerably cheaper consider book", "Date": "2011-01-28 00:00:00"}], "HotelInfo": {"Name": "Hotel Moderno", "HotelURL": "/ShowUserReviews-g187870-d543477-Reviews-Hotel_Moderno-Venice_Veneto.html", "Price": "$103 - $251*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Cannaregio 154</span> | <span class=\"extended-address\">Cannaregio</span>, <span class=\"locality\"><span property=\"v:postal-code\">30121</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "543477", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/28/6f/da/camera-matrimoniale.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Lucerne, Switzerland",
+      "Title": "\u201cNice hotel, great location and friendly staff\u201d",
+      "Author": "Travel G",
+      "ReviewID": "UR120429064",
+      "Content": "hotel clean spacious staff friendly breakfast fresh delicious location unbeatable price entrance hotel traditional narrow alley 1 meter wide stairs hotel signed yes true laminated sign cares outside looks photos accurate stayed reception sister hotel street alley stairs press intercom talk reception direct check check located hotel antica casa remember love hotel definitely worth money bargain wifi able purchase door hotels wifi network hotspot credit card 9 euro internet cafe street restaurants shops boat train transport 1 minute walk",
+      "Date": "2011-11-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Mooloolaba, Australia",
+      "Title": "\u201cClean & good location\u201d",
+      "Author": "Littlecurly",
+      "ReviewID": "UR118341088",
+      "Content": "read previous reviews hotel looking forward 2 nights hotel moderno funniest name unfortunately choice accommodation booked stuck surprisingly time italy low expectations exceeded apart checkin process painful heavy backpack 10pm night complaints yes yes building yes feels ship clean bed comfortable aircon bathroom tidy smelt clean location fantastic reasonably priced venice standards tip firsttimers venice strongly suggest staying mainland nearby island lido 10 minutes action value money noise crowds",
+      "Date": "2011-09-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Santa Maria, California",
+      "Title": "\u201cOnly saving grace of this hotel is the location\u201d",
+      "Author": "DZAmberG",
+      "ReviewID": "UR110305457",
+      "Content": "unpleasantly surprised arrived venice found hotel sign laminated sheet paper hotel moderno arrow stuck scotch tape edges arrow tiny creepy alley lugged bags stairs check sister hotel doors hotel pretty outdated carpet walls doors couch belonged grandmother child stained bedspread sported 6 inch gash middle stashed bedspread drawer decently clean location middle lot shopping restaurants minutes walk train station water busses close bridge grand canal stood top watched boats people ate dinner couple nights wed picked basta couple doors hotel pizza awesome sandwiches roasted meats falafel",
+      "Date": "2011-05-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Amesbury, Massachusetts",
+      "Title": "\u201cDon't expect a miracle, but it's a reasonable value\u201d",
+      "Author": "trobaba",
+      "ReviewID": "UR94773275",
+      "Content": "reviews squeeze tiny alley climb stairs basic clean functional convenient location ritz aint checkin door zero poetry service 50 euros getting ok deal stayed recently hotel location marco advantages location train station vaporetto hub thats praise neighborhood canareggio real neighborhood exclusively tourist oriented marco air market campo san leonardo 5 minute walk neighborhood bars venetian meet shoot breeze historic jewish ghetto short walk venetian food mediocre overpriced consider taking meals nearby brek cafeteria chow worse elsewhere considerably cheaper consider book",
+      "Date": "2011-01-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Moderno",
+    "HotelURL": "/ShowUserReviews-g187870-d543477-Reviews-Hotel_Moderno-Venice_Veneto.html",
+    "Price": "$103 - $251*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Cannaregio 154</span> | <span class=\"extended-address\">Cannaregio</span>, <span class=\"locality\"><span property=\"v:postal-code\">30121</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "543477",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/28/6f/da/camera-matrimoniale.jpg"
+  }
+}

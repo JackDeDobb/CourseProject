@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Geneva, Switzerland", "Title": "\u201cBack to basics...\u201d", "Author": "062211d", "ReviewID": "UR96129122", "Content": "stayed hotel nights arriving mexico city atmosphere friendly staff helpful basic requirements mini safe people walk escalators require key card access floors bed ok special inside decoration frills windows extremely dirty outside restaurant variety foods cooked day tell television maximum volume prepared bring earplugs eat breakfast choices bank holidays buffet closed recommend fantastic argentinean steak house road 510mins walk leave hotel follow road posh midst shops amazing meat anyways hotel attention detail business centre free coffee water cookies available five star hotel wouldnt stars hotel star generous bad undisturbed fairly quiet easy access airport guests business travelers staying hotel positive experience staying", "Date": "2011-02-10 00:00:00"}], "HotelInfo": {"Name": "Fiesta Inn Naucalpan", "HotelURL": "/ShowUserReviews-g150800-d185397-Reviews-Fiesta_Inn_Naucalpan-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$86 - $110*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Periferico Norte Esq. con Gustavo Baz</span> | <span class=\"extended-address\">Industrial Alce Blanco</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">53370</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "185397", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/80/26/8026fee91b8ab29a534469f8c0def22d8large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Geneva, Switzerland",
+      "Title": "\u201cBack to basics...\u201d",
+      "Author": "062211d",
+      "ReviewID": "UR96129122",
+      "Content": "stayed hotel nights arriving mexico city atmosphere friendly staff helpful basic requirements mini safe people walk escalators require key card access floors bed ok special inside decoration frills windows extremely dirty outside restaurant variety foods cooked day tell television maximum volume prepared bring earplugs eat breakfast choices bank holidays buffet closed recommend fantastic argentinean steak house road 510mins walk leave hotel follow road posh midst shops amazing meat anyways hotel attention detail business centre free coffee water cookies available five star hotel wouldnt stars hotel star generous bad undisturbed fairly quiet easy access airport guests business travelers staying hotel positive experience staying",
+      "Date": "2011-02-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Fiesta Inn Naucalpan",
+    "HotelURL": "/ShowUserReviews-g150800-d185397-Reviews-Fiesta_Inn_Naucalpan-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$86 - $110*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Periferico Norte Esq. con Gustavo Baz</span> | <span class=\"extended-address\">Industrial Alce Blanco</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">53370</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "185397",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/80/26/8026fee91b8ab29a534469f8c0def22d8large.jpg"
+  }
+}

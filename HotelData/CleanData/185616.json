@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 1.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201ccould be better\u201d", "Author": "pennypoopoo", "ReviewID": "UR109410007", "Content": "stayed residence 3 weeks study tour hotel pricey paying 5 star hotel staff lovely accommodating cleaners disappointing stench toilet smelt urine cleaners cover stench deodorizer comes hours location brilliant close eaton centre cbd overall didnt affect stay minor flaws stayed ago", "Date": "2011-05-23 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Windsor, Canada", "Title": "\u201cDecent for the price, service could use some work.\u201d", "Author": "Zonglars", "ReviewID": "UR72450181", "Content": "stayed brother 4 nights bigger expected ive dorm wasnt sparkling clean found bag nacho chips cupboard looks theyd day didnt bother bugs stains sight noise constructionrenovation happening floor started late morning stopped evening real theyll advertise multiple occupants allow 1 key brother doing own separate day hold onto key run little decent sized closet didnt include hangers couple cheap wire ones real bit annoyed internet outlet bedroom living proper desk continental breakfast okay guess time jelly peanut butter time toaster stopped couldnt thaw partially frozen bread fruit fresh tough juice pastries overall wasnt bad bugged due location price id maybe travel buddy split bill", "Date": "2010-07-26 00:00:00"}], "HotelInfo": {"Name": "Ryerson Student Residence", "HotelURL": "/ShowUserReviews-g155019-d185616-Reviews-Ryerson_Student_Residence-Toronto_Ontario.html", "Price": "$90 - $100*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">160 Mutual St.</span>, <span class=\"locality\"><span property=\"v:locality\">Toronto</span>, <span property=\"v:region\">Ontario</span> <span property=\"v:postal-code\">M5B 2M2</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span> </span> </address>", "HotelID": "185616", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 1.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201ccould be better\u201d",
+      "Author": "pennypoopoo",
+      "ReviewID": "UR109410007",
+      "Content": "stayed residence 3 weeks study tour hotel pricey paying 5 star hotel staff lovely accommodating cleaners disappointing stench toilet smelt urine cleaners cover stench deodorizer comes hours location brilliant close eaton centre cbd overall didnt affect stay minor flaws stayed ago",
+      "Date": "2011-05-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Windsor, Canada",
+      "Title": "\u201cDecent for the price, service could use some work.\u201d",
+      "Author": "Zonglars",
+      "ReviewID": "UR72450181",
+      "Content": "stayed brother 4 nights bigger expected ive dorm wasnt sparkling clean found bag nacho chips cupboard looks theyd day didnt bother bugs stains sight noise constructionrenovation happening floor started late morning stopped evening real theyll advertise multiple occupants allow 1 key brother doing own separate day hold onto key run little decent sized closet didnt include hangers couple cheap wire ones real bit annoyed internet outlet bedroom living proper desk continental breakfast okay guess time jelly peanut butter time toaster stopped couldnt thaw partially frozen bread fruit fresh tough juice pastries overall wasnt bad bugged due location price id maybe travel buddy split bill",
+      "Date": "2010-07-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Ryerson Student Residence",
+    "HotelURL": "/ShowUserReviews-g155019-d185616-Reviews-Ryerson_Student_Residence-Toronto_Ontario.html",
+    "Price": "$90 - $100*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">160 Mutual St.</span>, <span class=\"locality\"><span property=\"v:locality\">Toronto</span>, <span property=\"v:region\">Ontario</span> <span property=\"v:postal-code\">M5B 2M2</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span> </span> </address>",
+    "HotelID": "185616",
+    "ImgURL": ""
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Rome, Italy", "Title": "\u201cAn oasis not far from the big city\u201d", "Author": "timal156", "ReviewID": "UR127298148", "Content": "lovely hotel restaurant countryside rome city centre ample parking space lovely pool fantastic restaurant excellent food decor elegant staff helpful friendly recommend wish relax chaos city car idea looking restaurant family friends pizza taste excellent pasta dishes", "Date": "2012-04-05 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Berlin", "Title": "\u201cAVOID THIS HOTEL!!!\u201d", "Author": "BerlinSven", "ReviewID": "UR68669981", "Content": "stayed 4 nights counting days till leave airport disappointing booked hotel online shuttle service rome centre disaster left waiting time station pretty unkind waiting hotel spoiled staff eat breakfast except cherry tomatoes stale biscuits shady stay avoid", "Date": "2010-06-25 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Edinburgh", "Title": "\u201cAbsolute Disaster\u201d", "Author": "Lewandphilippa", "ReviewID": "UR67886860", "Content": "disaster hotel complete disaster start receptionist worst partner encountered extremely rude inhospitable simply care except talking smoking anyway onto hotel\u2026 location worse expected told drive rome chose hotel\u2019s free shuttle service local train station consisted hotel\u2019s staff grudgingly driving tattered car prostitute ridden streets occasion car substituted scooter helmet obviously ridiculously unsafe left wait 1 hour occasions train station home isn\u2019t friendly wait receiving call late apologies called finally decided pitch complained service told getting shuttle service didn\u2019t sense advertised hotel\u2019s publications stuffy ok night\u2019s sleep uninterrupted booked hotel outside centre rome peaceful quiet stay couple twenties expect absolute silence hotel pushed limits hotel allows restaurant diners hotel pool books outside parties hotel grounds night loud music outside window 1am called reception time happened sharply told minutes hotel advertises relaxing stay countryside completely misleading breakfast totally random cherry tomatoes cake biscuits watered juice rarely toast croissants etc strange hotel leaves food builders hotel staff eat guests soon learned left finally receptionist goto person hotel completely dreadful rude insulting smokes talking completely unhelpful aback attitude spoil stay partner stay manager\u2019s contact details note concerns false advertising told manager spoke actual manager truly dismissive care prepaid didn\u2019t customers happy disasterous stay usually write reviews hate reading complaints warn future book hotel stay inside rome don\u2019t chance pay", "Date": "2010-06-18 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "London", "Title": "\u201cDO NOT STAY HERE!\u201d", "Author": "JennaandJohn", "ReviewID": "UR67802095", "Content": "family looking peaceful carefree hotel couple looking decent sleep stay hotel makes main income neighbouring restaurant allowing diners hotel pool books parties pool daily feel unwelcome hotel avoided kept day safer risk getting intimidated suspicious characters pool happened conceive issues noise booking countryside hotel fireworks 1am literally outside window fright loud loud music cars revving throughout night imagine children hotel care paying guests whatsoever called reception times noise simply told dodgy characters hanging hotel grounds day night feel safe couple holidaying low exceptions booking budget hotel truly worth hassle", "Date": "2010-06-17 00:00:00"}], "HotelInfo": {"Name": "Casale della Certosa", "HotelURL": "/ShowUserReviews-g187791-d775056-Reviews-Casale_della_Certosa-Rome_Lazio.html", "Price": "$92 - $152*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via di Pietrelcina 6-8</span>, <span class=\"locality\"><span property=\"v:postal-code\">00134</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "775056", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/be/84/62/casale-della-certosa.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rome, Italy",
+      "Title": "\u201cAn oasis not far from the big city\u201d",
+      "Author": "timal156",
+      "ReviewID": "UR127298148",
+      "Content": "lovely hotel restaurant countryside rome city centre ample parking space lovely pool fantastic restaurant excellent food decor elegant staff helpful friendly recommend wish relax chaos city car idea looking restaurant family friends pizza taste excellent pasta dishes",
+      "Date": "2012-04-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Berlin",
+      "Title": "\u201cAVOID THIS HOTEL!!!\u201d",
+      "Author": "BerlinSven",
+      "ReviewID": "UR68669981",
+      "Content": "stayed 4 nights counting days till leave airport disappointing booked hotel online shuttle service rome centre disaster left waiting time station pretty unkind waiting hotel spoiled staff eat breakfast except cherry tomatoes stale biscuits shady stay avoid",
+      "Date": "2010-06-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Edinburgh",
+      "Title": "\u201cAbsolute Disaster\u201d",
+      "Author": "Lewandphilippa",
+      "ReviewID": "UR67886860",
+      "Content": "disaster hotel complete disaster start receptionist worst partner encountered extremely rude inhospitable simply care except talking smoking anyway onto hotel\u2026 location worse expected told drive rome chose hotel\u2019s free shuttle service local train station consisted hotel\u2019s staff grudgingly driving tattered car prostitute ridden streets occasion car substituted scooter helmet obviously ridiculously unsafe left wait 1 hour occasions train station home isn\u2019t friendly wait receiving call late apologies called finally decided pitch complained service told getting shuttle service didn\u2019t sense advertised hotel\u2019s publications stuffy ok night\u2019s sleep uninterrupted booked hotel outside centre rome peaceful quiet stay couple twenties expect absolute silence hotel pushed limits hotel allows restaurant diners hotel pool books outside parties hotel grounds night loud music outside window 1am called reception time happened sharply told minutes hotel advertises relaxing stay countryside completely misleading breakfast totally random cherry tomatoes cake biscuits watered juice rarely toast croissants etc strange hotel leaves food builders hotel staff eat guests soon learned left finally receptionist goto person hotel completely dreadful rude insulting smokes talking completely unhelpful aback attitude spoil stay partner stay manager\u2019s contact details note concerns false advertising told manager spoke actual manager truly dismissive care prepaid didn\u2019t customers happy disasterous stay usually write reviews hate reading complaints warn future book hotel stay inside rome don\u2019t chance pay",
+      "Date": "2010-06-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cDO NOT STAY HERE!\u201d",
+      "Author": "JennaandJohn",
+      "ReviewID": "UR67802095",
+      "Content": "family looking peaceful carefree hotel couple looking decent sleep stay hotel makes main income neighbouring restaurant allowing diners hotel pool books parties pool daily feel unwelcome hotel avoided kept day safer risk getting intimidated suspicious characters pool happened conceive issues noise booking countryside hotel fireworks 1am literally outside window fright loud loud music cars revving throughout night imagine children hotel care paying guests whatsoever called reception times noise simply told dodgy characters hanging hotel grounds day night feel safe couple holidaying low exceptions booking budget hotel truly worth hassle",
+      "Date": "2010-06-17 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Casale della Certosa",
+    "HotelURL": "/ShowUserReviews-g187791-d775056-Reviews-Casale_della_Certosa-Rome_Lazio.html",
+    "Price": "$92 - $152*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via di Pietrelcina 6-8</span>, <span class=\"locality\"><span property=\"v:postal-code\">00134</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "775056",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/be/84/62/casale-della-certosa.jpg"
+  }
+}

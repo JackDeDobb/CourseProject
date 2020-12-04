@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Brisbane, Australia", "Title": "\u201cNEVER AGAIN\u201d", "Author": "debbiebowie", "ReviewID": "UR82741535", "Content": "firstly wish trip advisor booked hotel read reviews cobwebs ceiling shower filthy air con hotel little india singapore didnt singapore extremely shocked surrounding smells noise husband aback wasnt little india ago hotel 12 star", "Date": "2010-10-09 00:00:00"}], "HotelInfo": {"Name": "Ambassador Hotel", "HotelURL": "/ShowUserReviews-g294265-d1015604-Reviews-Ambassador_Hotel-Singapore.html", "Price": "$72*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">75 Desker Road</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">209598</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>", "HotelID": "1015604", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Brisbane, Australia",
+      "Title": "\u201cNEVER AGAIN\u201d",
+      "Author": "debbiebowie",
+      "ReviewID": "UR82741535",
+      "Content": "firstly wish trip advisor booked hotel read reviews cobwebs ceiling shower filthy air con hotel little india singapore didnt singapore extremely shocked surrounding smells noise husband aback wasnt little india ago hotel 12 star",
+      "Date": "2010-10-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Ambassador Hotel",
+    "HotelURL": "/ShowUserReviews-g294265-d1015604-Reviews-Ambassador_Hotel-Singapore.html",
+    "Price": "$72*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">75 Desker Road</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">209598</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>",
+    "HotelID": "1015604",
+    "ImgURL": ""
+  }
+}

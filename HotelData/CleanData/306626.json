@@ -1,1 +1,31 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Business service (e.g., internet access)": "4", "Check in / front desk": "5", "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Asiago, North of Italy", "Title": "\u201cA fabulous hotel at an affordable price\u201d", "Author": "TIME80", "ReviewID": "UR67592695", "Content": "2 al hotels dubai al palace hotel am stressing read negative opinions surprised hotel amazing people wrote al hotel al palace hotel lower quality talking al palace hotel admit simply fantastic bedroom absolutely huge stylish clean 2 king size beds bathroom covered green marble breafast rich variety exquisite food lounge free charge internet connection 2 pcs swimming pool wellness centre business time visit staff extremely nice polite helpful including indian help morning deliver local newspaper door didnt pay directly customer sponsoring price 64 euros night 2009 bargain quality hotel similar money europe", "Date": "2010-06-15 00:00:00"}], "HotelInfo": {"Name": "Al Khaleej Palace Hotel", "HotelURL": "/ShowUserReviews-g295424-d306626-Reviews-Al_Khaleej_Palace_Hotel-Dubai.html", "Price": "$105 - $176*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Al Makoum St</span> | <span class=\"extended-address\">PO Box 3720</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "306626", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fe/13/fe139b0dc55999bc593e66fa3bf615a23large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Business service (e.g., internet access)": "4",
+        "Check in / front desk": "5",
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Asiago, North of Italy",
+      "Title": "\u201cA fabulous hotel at an affordable price\u201d",
+      "Author": "TIME80",
+      "ReviewID": "UR67592695",
+      "Content": "2 al hotels dubai al palace hotel am stressing read negative opinions surprised hotel amazing people wrote al hotel al palace hotel lower quality talking al palace hotel admit simply fantastic bedroom absolutely huge stylish clean 2 king size beds bathroom covered green marble breafast rich variety exquisite food lounge free charge internet connection 2 pcs swimming pool wellness centre business time visit staff extremely nice polite helpful including indian help morning deliver local newspaper door didnt pay directly customer sponsoring price 64 euros night 2009 bargain quality hotel similar money europe",
+      "Date": "2010-06-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Al Khaleej Palace Hotel",
+    "HotelURL": "/ShowUserReviews-g295424-d306626-Reviews-Al_Khaleej_Palace_Hotel-Dubai.html",
+    "Price": "$105 - $176*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Al Makoum St</span> | <span class=\"extended-address\">PO Box 3720</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "306626",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fe/13/fe139b0dc55999bc593e66fa3bf615a23large.jpg"
+  }
+}

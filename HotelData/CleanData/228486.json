@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Tel-Aviv", "Title": "\u201cOK, but not more than this...\u201d", "Author": "Sagi A", "ReviewID": "UR119179756", "Content": "stayed hotel 2 nights 102011 hotel located central train station hear remarks clean internet connection free hotel stuff negative remarks 1 location 2 coffee maker facility 3 breakfast served hall fancy looks dinning school summary price pay hotel car intend visit north", "Date": "2011-10-11 00:00:00"}], "HotelInfo": {"Name": "Foxa 32 Suites", "HotelURL": "/ShowUserReviews-g187514-d228486-Reviews-Foxa_32_Suites-Madrid.html", "Price": "$63 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/ Agustin de Foxa 32</span>, <span class=\"locality\"><span property=\"v:postal-code\">28036</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "228486", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/d7/4b/c2/foxa-32-suites.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Tel-Aviv",
+      "Title": "\u201cOK, but not more than this...\u201d",
+      "Author": "Sagi A",
+      "ReviewID": "UR119179756",
+      "Content": "stayed hotel 2 nights 102011 hotel located central train station hear remarks clean internet connection free hotel stuff negative remarks 1 location 2 coffee maker facility 3 breakfast served hall fancy looks dinning school summary price pay hotel car intend visit north",
+      "Date": "2011-10-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Foxa 32 Suites",
+    "HotelURL": "/ShowUserReviews-g187514-d228486-Reviews-Foxa_32_Suites-Madrid.html",
+    "Price": "$63 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/ Agustin de Foxa 32</span>, <span class=\"locality\"><span property=\"v:postal-code\">28036</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "228486",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/d7/4b/c2/foxa-32-suites.jpg"
+  }
+}

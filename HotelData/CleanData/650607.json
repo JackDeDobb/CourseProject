@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "", "Title": "\u201cThe Real Rome\u201d", "Author": "verogal", "ReviewID": "UR124828045", "Content": "hotel dina sleep experience easy block walk largest train station rome walk alley decorated graffiti unfortunately unusual italy easy miss hotel entrance barely break wall enter glass door feels step rome past lobby clean quaint warmly greeted escorted suspended wrought iron elevator movie inception narrow hallway clean safe tiny 10x10 bed taking space cruise ship cabin desk chair closet unpack bed comfortablethe bathroom clean modern fixtures ancient wooded shutters able literally breathe rome spread below breakfast pastries looked hotdogs boiled eggs coffee machine juice person breakfast staff guests breakfast little overall cute little adequate sleep shower day sight seeing", "Date": "2012-02-19 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Warsaw, Poland", "Title": "\u201cGood location but nothing more\u201d", "Author": "pkrasn", "ReviewID": "UR124003270", "Content": "hotel location termini station convienient connections rome dirty definitelly require renovation floor looked cleaned tap rusty tap water colour shower dirty showerhead plugged rust dirt water splashing showerhead hotel located street tram traffic loudly especially inconvenient morning moreover internet wifi hotel spent nights hotel didnt pay 40 eur night double", "Date": "2012-02-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Belfast, United Kingdom", "Title": "\u201cYou get what you pay for!\u201d", "Author": "Alison186470", "ReviewID": "UR122872464", "Content": "recently stayed hotel dina school trip 3 nights feel rome pay hotel cheap cheerful location fantastic close termini station easy walking distance coliseum forum basic clean bathroom tiny shower temperamental hotel breakfast adequate coffee horrible machine tea bags duration stay loaf fresh bread cut yourself unless yoghurts vanished reception staff super friendly helpful times staff unpleasant shouted pupils key broke door bedroom fault obviously lovely considerable amount time broken key door girl sum hotel crash seeing sights family staying probably wouldnt choose", "Date": "2012-01-10 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Canberra, Australia", "Title": "\u201cHandy location. Good value for money.\u201d", "Author": "MikiHo", "ReviewID": "UR74275888", "Content": "clean costs 85 euros family 4 breakfast 10 euros extra impressed noisy bother bother family staff friendly helpful", "Date": "2010-08-08 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Dublin", "Title": "\u201cBasic with less than helpful staff\u201d", "Author": "DublinNovia", "ReviewID": "UR68097512", "Content": "stayed hotel recently seen close termini station attracted low prices booked superior 17 month baby wed pay bit extra space considering cot own bed website spacious looking presumed superior arriving late night luggage baby buggy discovered reception floor lift lift key available reception dragged upstairs greeted receptionist completed check virtual silence giving little information hotels facilities subsequently found none trekked 4th floor via lift discovered corridor buzz reception wait doors hotel ridiculous shock tiny barely walk bed sweltering hot website superior ac told extra \u20ac15 night oh breakfast awful \u20ac15 breakfast complained stay superior joke extra standard rude female found afterwards owner informed safe option ac fridge empty superior add insult injury parents reserved palatial huge complete jacuzzi hotel dina run space hotel attached argumentative thoroughly unpleasant deal paid money left vowing return dodgy dangerous walk night lovely restaurants", "Date": "2010-06-20 00:00:00"}], "HotelInfo": {"Name": "Hotel Dina", "HotelURL": "/ShowUserReviews-g187791-d650607-Reviews-Hotel_Dina-Rome_Lazio.html", "Price": "$66 - $198*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Principe Amedeo, 62</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "650607", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c3/6f/c36ffbd95ec21c8f59b91e4ef301fd007large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cThe Real Rome\u201d",
+      "Author": "verogal",
+      "ReviewID": "UR124828045",
+      "Content": "hotel dina sleep experience easy block walk largest train station rome walk alley decorated graffiti unfortunately unusual italy easy miss hotel entrance barely break wall enter glass door feels step rome past lobby clean quaint warmly greeted escorted suspended wrought iron elevator movie inception narrow hallway clean safe tiny 10x10 bed taking space cruise ship cabin desk chair closet unpack bed comfortablethe bathroom clean modern fixtures ancient wooded shutters able literally breathe rome spread below breakfast pastries looked hotdogs boiled eggs coffee machine juice person breakfast staff guests breakfast little overall cute little adequate sleep shower day sight seeing",
+      "Date": "2012-02-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Warsaw, Poland",
+      "Title": "\u201cGood location but nothing more\u201d",
+      "Author": "pkrasn",
+      "ReviewID": "UR124003270",
+      "Content": "hotel location termini station convienient connections rome dirty definitelly require renovation floor looked cleaned tap rusty tap water colour shower dirty showerhead plugged rust dirt water splashing showerhead hotel located street tram traffic loudly especially inconvenient morning moreover internet wifi hotel spent nights hotel didnt pay 40 eur night double",
+      "Date": "2012-02-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Belfast, United Kingdom",
+      "Title": "\u201cYou get what you pay for!\u201d",
+      "Author": "Alison186470",
+      "ReviewID": "UR122872464",
+      "Content": "recently stayed hotel dina school trip 3 nights feel rome pay hotel cheap cheerful location fantastic close termini station easy walking distance coliseum forum basic clean bathroom tiny shower temperamental hotel breakfast adequate coffee horrible machine tea bags duration stay loaf fresh bread cut yourself unless yoghurts vanished reception staff super friendly helpful times staff unpleasant shouted pupils key broke door bedroom fault obviously lovely considerable amount time broken key door girl sum hotel crash seeing sights family staying probably wouldnt choose",
+      "Date": "2012-01-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Canberra, Australia",
+      "Title": "\u201cHandy location. Good value for money.\u201d",
+      "Author": "MikiHo",
+      "ReviewID": "UR74275888",
+      "Content": "clean costs 85 euros family 4 breakfast 10 euros extra impressed noisy bother bother family staff friendly helpful",
+      "Date": "2010-08-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Dublin",
+      "Title": "\u201cBasic with less than helpful staff\u201d",
+      "Author": "DublinNovia",
+      "ReviewID": "UR68097512",
+      "Content": "stayed hotel recently seen close termini station attracted low prices booked superior 17 month baby wed pay bit extra space considering cot own bed website spacious looking presumed superior arriving late night luggage baby buggy discovered reception floor lift lift key available reception dragged upstairs greeted receptionist completed check virtual silence giving little information hotels facilities subsequently found none trekked 4th floor via lift discovered corridor buzz reception wait doors hotel ridiculous shock tiny barely walk bed sweltering hot website superior ac told extra \u20ac15 night oh breakfast awful \u20ac15 breakfast complained stay superior joke extra standard rude female found afterwards owner informed safe option ac fridge empty superior add insult injury parents reserved palatial huge complete jacuzzi hotel dina run space hotel attached argumentative thoroughly unpleasant deal paid money left vowing return dodgy dangerous walk night lovely restaurants",
+      "Date": "2010-06-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Dina",
+    "HotelURL": "/ShowUserReviews-g187791-d650607-Reviews-Hotel_Dina-Rome_Lazio.html",
+    "Price": "$66 - $198*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Principe Amedeo, 62</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "650607",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c3/6f/c36ffbd95ec21c8f59b91e4ef301fd007large.jpg"
+  }
+}

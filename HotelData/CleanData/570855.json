@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Atlanta, Georgia", "Title": "\u201cDisappointed.\u201d", "Author": "BeeAndKay", "ReviewID": "UR119945091", "Content": "stayed night hotel night flight convenient stay sultanahmet easier airport assumption 100 wrong called hotel arriving istanbul confirming reservation double confirming rate arrived hotel told charge 20 night horrible wasnt double twin beds tiny floor suitcases carryon walk difficult step suitcases floor windows didnt close properly freezing cold air loud street noise night hole bathroom outside freezing cold noise entered didnt sleep night recommend expect pay prices originally tell", "Date": "2011-10-31 00:00:00"}], "HotelInfo": {"Name": "Bergama Hotel", "HotelURL": "/ShowUserReviews-g293974-d570855-Reviews-Bergama_Hotel-Istanbul.html", "Price": "$66 - $100*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Fevziye Caddesi No 34</span> | <span class=\"extended-address\">Sehzadebasi</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34470</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "570855", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a9/f7/a9f730fa0d88aadfc2fc7b5f9b293ec41large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Atlanta, Georgia",
+      "Title": "\u201cDisappointed.\u201d",
+      "Author": "BeeAndKay",
+      "ReviewID": "UR119945091",
+      "Content": "stayed night hotel night flight convenient stay sultanahmet easier airport assumption 100 wrong called hotel arriving istanbul confirming reservation double confirming rate arrived hotel told charge 20 night horrible wasnt double twin beds tiny floor suitcases carryon walk difficult step suitcases floor windows didnt close properly freezing cold air loud street noise night hole bathroom outside freezing cold noise entered didnt sleep night recommend expect pay prices originally tell",
+      "Date": "2011-10-31 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Bergama Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d570855-Reviews-Bergama_Hotel-Istanbul.html",
+    "Price": "$66 - $100*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Fevziye Caddesi No 34</span> | <span class=\"extended-address\">Sehzadebasi</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34470</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "570855",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a9/f7/a9f730fa0d88aadfc2fc7b5f9b293ec41large.jpg"
+  }
+}

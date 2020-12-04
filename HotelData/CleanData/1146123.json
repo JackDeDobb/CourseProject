@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "World-wide Traveller", "Title": "\u201cBit expensive, but excellent room and service | stayed 3.5 weeks\u201d", "Author": "JeanLouisV", "ReviewID": "UR125966537", "Content": "likes building design pleasant lobby atmosphere half openair setting soundproofing kitchen perfectly designed equipped service smile efficient broken repair immediately staying 3 weeks half kindly moved 10 days larger thank underground course orchard glitz supermarket road dislikes remember windows expensive course singapore expensive apartments kitchen modern location standard expect pay superb deal executive suite living setup ingenious pool cold water sorry people am bit spoiled brat likes warm pool book week formalities complete book sending credit cards copies etc ok fair policy prepared company pays expenses definitively", "Date": "2012-03-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Singapore", "Title": "\u201cSuperb Service!!\u201d", "Author": "simplyp", "ReviewID": "UR125736168", "Content": "stayed week brothers service excellent consistent service matter attending front office people pacific lounge request lot stay feel disturbing coming industry quality service aside service facilities sauna swimming pool living thank hospitality", "Date": "2012-03-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Copenhagen, Denmark", "Title": "\u201cIf you want the best, go for Pan Pacific Serviced Suites\u201d", "Author": "Velter", "ReviewID": "UR102770041", "Content": "am travelling singapore business approximately 6 times planning stay 7 nights definately consider pan pacific serviced suites looking 5 star accomodation tried twice stays excellent hotel quality singapore compared cities plenty options beats suites contemporary designed convenient leisure business immidiately class materials truly speed internet tv programmes features wouldnt standard business hotels kitchen washing machinedryer etc dont consider paying extra water coffeebreakfast papers etc available free appartment tired endless identical business probably service staff reception somehow name welcome visit months ago yes service speaking singapore hotels feel perfect blend hospitality privacy travellers location perfect orchard road steps taxi lane somerset mrt personally dont fancy orchard road shopping hell soon step indoor completely private quiet stay am trying negative cant definately", "Date": "2011-04-04 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Sydney", "Title": "\u201cNON-SMOKERS BEWARE!!!!!!!!! It is vile.\u201d", "Author": "RogerTruffle", "ReviewID": "UR90048360", "Content": "property nonsmoking nonsmoking floors surprisingly advertised prepurchase advertising indeed told repeated trouble length stay cigarette smoke entering door air conditioning person smoking door lovely smoke own sending smoke ours management pathetic sea simplest request move eventually tiring incompetence forfeited prepaid accommodation stay property strongly recommend staying location orchard road poor service alternatives stones throw", "Date": "2010-12-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Australia", "Title": "\u201cFANTASTIC SERVICE & BRILLIANT LOCATION\u201d", "Author": "alantu", "ReviewID": "UR81552683", "Content": "wife 10 month son stayed holiday 1 week leading singapore grand prix fantastic stay moment taxi pulled moment left staff reception cleaning lady breakfast waitress feel home provide exceptional service 2 bedroom apartment roomy modern 11th floor shared living read books provided play wee coffee machine provided location brilliant orchard rd brand shopping center provided staythe minimun 7 night stay hotel dont bars service ect finger tips soon step door looking hotel alternative highly recomend pan pacific suites", "Date": "2010-09-30 00:00:00"}], "HotelInfo": {"Name": "Pan Pacific Serviced Suites Orchard Singapore", "HotelURL": "/ShowUserReviews-g294265-d1146123-Reviews-Pan_Pacific_Serviced_Suites_Orchard_Singapore-Singapore.html", "Price": "$291 - $415*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">96 Somerset Road</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">238163</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>", "HotelID": "1146123", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/c6/f1/dc/pan-pacific-serviced.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "World-wide Traveller",
+      "Title": "\u201cBit expensive, but excellent room and service | stayed 3.5 weeks\u201d",
+      "Author": "JeanLouisV",
+      "ReviewID": "UR125966537",
+      "Content": "likes building design pleasant lobby atmosphere half openair setting soundproofing kitchen perfectly designed equipped service smile efficient broken repair immediately staying 3 weeks half kindly moved 10 days larger thank underground course orchard glitz supermarket road dislikes remember windows expensive course singapore expensive apartments kitchen modern location standard expect pay superb deal executive suite living setup ingenious pool cold water sorry people am bit spoiled brat likes warm pool book week formalities complete book sending credit cards copies etc ok fair policy prepared company pays expenses definitively",
+      "Date": "2012-03-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Singapore",
+      "Title": "\u201cSuperb Service!!\u201d",
+      "Author": "simplyp",
+      "ReviewID": "UR125736168",
+      "Content": "stayed week brothers service excellent consistent service matter attending front office people pacific lounge request lot stay feel disturbing coming industry quality service aside service facilities sauna swimming pool living thank hospitality",
+      "Date": "2012-03-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Copenhagen, Denmark",
+      "Title": "\u201cIf you want the best, go for Pan Pacific Serviced Suites\u201d",
+      "Author": "Velter",
+      "ReviewID": "UR102770041",
+      "Content": "am travelling singapore business approximately 6 times planning stay 7 nights definately consider pan pacific serviced suites looking 5 star accomodation tried twice stays excellent hotel quality singapore compared cities plenty options beats suites contemporary designed convenient leisure business immidiately class materials truly speed internet tv programmes features wouldnt standard business hotels kitchen washing machinedryer etc dont consider paying extra water coffeebreakfast papers etc available free appartment tired endless identical business probably service staff reception somehow name welcome visit months ago yes service speaking singapore hotels feel perfect blend hospitality privacy travellers location perfect orchard road steps taxi lane somerset mrt personally dont fancy orchard road shopping hell soon step indoor completely private quiet stay am trying negative cant definately",
+      "Date": "2011-04-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Sydney",
+      "Title": "\u201cNON-SMOKERS BEWARE!!!!!!!!! It is vile.\u201d",
+      "Author": "RogerTruffle",
+      "ReviewID": "UR90048360",
+      "Content": "property nonsmoking nonsmoking floors surprisingly advertised prepurchase advertising indeed told repeated trouble length stay cigarette smoke entering door air conditioning person smoking door lovely smoke own sending smoke ours management pathetic sea simplest request move eventually tiring incompetence forfeited prepaid accommodation stay property strongly recommend staying location orchard road poor service alternatives stones throw",
+      "Date": "2010-12-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Australia",
+      "Title": "\u201cFANTASTIC SERVICE & BRILLIANT LOCATION\u201d",
+      "Author": "alantu",
+      "ReviewID": "UR81552683",
+      "Content": "wife 10 month son stayed holiday 1 week leading singapore grand prix fantastic stay moment taxi pulled moment left staff reception cleaning lady breakfast waitress feel home provide exceptional service 2 bedroom apartment roomy modern 11th floor shared living read books provided play wee coffee machine provided location brilliant orchard rd brand shopping center provided staythe minimun 7 night stay hotel dont bars service ect finger tips soon step door looking hotel alternative highly recomend pan pacific suites",
+      "Date": "2010-09-30 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Pan Pacific Serviced Suites Orchard Singapore",
+    "HotelURL": "/ShowUserReviews-g294265-d1146123-Reviews-Pan_Pacific_Serviced_Suites_Orchard_Singapore-Singapore.html",
+    "Price": "$291 - $415*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">96 Somerset Road</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">238163</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>",
+    "HotelID": "1146123",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/c6/f1/dc/pan-pacific-serviced.jpg"
+  }
+}

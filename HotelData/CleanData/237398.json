@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Poole, England, United Kingdom", "Title": "\u201cExcellent location. Clean and tidy but very small.\u201d", "Author": "Chris G", "ReviewID": "UR127291998", "Content": "stayed 3 nights april 2012 wife daughter friend near rialto bridge st marks square extremely expensive central pay 100 euros night stayed venice times lido value 3 maybe 4 trip fancied central location 5 minutes walk teh rialto bridge 10 minutes st marks ideal yes double bathroom seen pretty clean yes walls thin hear people whispering walked past door slept pretty safe sampled real venice hotel safe quaint shame bar door wasnt little cheaper convenience americans hate ice hotel air conditioning safe pool pretty basic cant relax except maybe breakfast cant fault staff staff hotel nice summarise hotel quaint stay theres canals cute narrow alleyways busy shops handy sights low expectations wont disappointed youll pay similar price hotels nearer train station thats 20 minutes near nice memories venice hotel job hotel yes", "Date": "2012-04-05 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Chichester, United Kingdom", "Title": "\u201c\"value for money ???\"\u201d", "Author": "JAS486", "ReviewID": "UR122003362", "Content": "stayed 6 days basic shower flowed time itvery basic continental breakfast ok stay suitable stay lift reception 3rd floor getting suitcase stairs staff helpfulin location close rialto bridge st marks", "Date": "2011-12-22 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "menemsha", "Title": "\u201chow much??!!!\u201d", "Author": "dana n", "ReviewID": "UR120294261", "Content": "simply chose wrong weekend visit venice paid 150 euro wo bath barely hold double bed2 steps bed wall wall paper thin little couldnt hear breakfast adequate pleasantly served location staff friendly helpful particularly woman morocco single mark otherwise 3 days", "Date": "2011-11-07 00:00:00"}], "HotelInfo": {"Name": "Hotel Canada Venezia", "HotelURL": "/ShowUserReviews-g187870-d237398-Reviews-Hotel_Canada_Venezia-Venice_Veneto.html", "Price": "$132 - $197*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Castello Campo S. Lio 5659</span>, <span class=\"locality\"><span property=\"v:postal-code\">30122</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "237398", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/5d/b5/hotel-canada-venezia.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Poole, England, United Kingdom",
+      "Title": "\u201cExcellent location. Clean and tidy but very small.\u201d",
+      "Author": "Chris G",
+      "ReviewID": "UR127291998",
+      "Content": "stayed 3 nights april 2012 wife daughter friend near rialto bridge st marks square extremely expensive central pay 100 euros night stayed venice times lido value 3 maybe 4 trip fancied central location 5 minutes walk teh rialto bridge 10 minutes st marks ideal yes double bathroom seen pretty clean yes walls thin hear people whispering walked past door slept pretty safe sampled real venice hotel safe quaint shame bar door wasnt little cheaper convenience americans hate ice hotel air conditioning safe pool pretty basic cant relax except maybe breakfast cant fault staff staff hotel nice summarise hotel quaint stay theres canals cute narrow alleyways busy shops handy sights low expectations wont disappointed youll pay similar price hotels nearer train station thats 20 minutes near nice memories venice hotel job hotel yes",
+      "Date": "2012-04-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Chichester, United Kingdom",
+      "Title": "\u201c\"value for money ???\"\u201d",
+      "Author": "JAS486",
+      "ReviewID": "UR122003362",
+      "Content": "stayed 6 days basic shower flowed time itvery basic continental breakfast ok stay suitable stay lift reception 3rd floor getting suitcase stairs staff helpfulin location close rialto bridge st marks",
+      "Date": "2011-12-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "menemsha",
+      "Title": "\u201chow much??!!!\u201d",
+      "Author": "dana n",
+      "ReviewID": "UR120294261",
+      "Content": "simply chose wrong weekend visit venice paid 150 euro wo bath barely hold double bed2 steps bed wall wall paper thin little couldnt hear breakfast adequate pleasantly served location staff friendly helpful particularly woman morocco single mark otherwise 3 days",
+      "Date": "2011-11-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Canada Venezia",
+    "HotelURL": "/ShowUserReviews-g187870-d237398-Reviews-Hotel_Canada_Venezia-Venice_Veneto.html",
+    "Price": "$132 - $197*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Castello Campo S. Lio 5659</span>, <span class=\"locality\"><span property=\"v:postal-code\">30122</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "237398",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/5d/b5/hotel-canada-venezia.jpg"
+  }
+}

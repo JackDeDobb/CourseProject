@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Glendale, Arizona", "Title": "\u201cHotel Villa Del sole excellent little getaway.\u201d", "Author": "john647", "ReviewID": "UR124369645", "Content": "hotel villa del sole excellent little getaway close beaches walgreens car rentals suv rentals bicycle rentals reasonably priced close establishments five minutes airport refreshing pool fullservice bar serves breakfast lunch dinner carmen cook excellent meal mix refreshing drink visit service friendly staff clean rental cars", "Date": "2012-02-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "USA", "Title": "\u201cNice stay- affordable- low key\u201d", "Author": "yasmine1982", "ReviewID": "UR85378635", "Content": "pros style hotel nice staff clean clean pool ac location walking distance beach resturants supermarket casinos water type bugs staying 2nd floor 3 didnt prob loved little cat sleeps lobby near pool call cat hotels name lover cons elevators walk floor via stairs food bar time park stayed floor pool closes course looking 5 star hotel perfect service hotel budget spend days tour island visit read reviews realized picky people paying 100120 night tourist surrounding hotel min 250 night umm expect painted blinds towel holder loose priority mines stay guarantee clean affordable staff ladies friendly", "Date": "2010-10-30 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Arizona City, Arizona", "Title": "\u201c$90 a night for a dirty, smelly room\u201d", "Author": "corela", "ReviewID": "UR78961743", "Content": "stayed hotel villa del sol 1 night smelly dirty carpet noisy ac bathroom sheets stains thin pillows tiny ants wall called front desk lady offered sprayed insecticide chairs dirty chairs balcony moldy dissapointed poor condition elevators husband bird person morning breakfast restaurant recommend hotel", "Date": "2010-09-09 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Fairfield County", "Title": "\u201cWorst hotel EVER!!!\u201d", "Author": "Michelle224", "ReviewID": "UR73072297", "Content": "am picky bad reviews hotel hell stepping foot lobby roaches bed bugs tv bathroom gross requested refund recieved waiting days call bank release money car rental associated charged security notifying car rode ants daughters car seat held money security car havent gotten week dont waste time money ruin trip coming", "Date": "2010-07-30 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Brooklyn, New York", "Title": "\u201cBedbugs, other problems. Some good stuff. Mixed.\u201d", "Author": "Bnad", "ReviewID": "UR57998842", "Content": "rare actually bedbugs hand resting counter fingers channel button tv tv remote little suckers crawled tv looked exactly squished followed personal procedure staying hotels confirmed bedbug sightings bags clothes onto fold bench shower sleep light arrived hotel ahead reception complaining hotel left familys bags airport 4 days promised deliver receptionists response apology minute booking save spend night airport tried judge hotel run 4pm girls sitting bar drinking margaritas girls drinking margaritas 10pm indeed pretty girls sitting bar laughing imagine hired sit pretty bring traffic floor receptionist door slid closed alarm clock stuck 1200 time set buttons didnt bathroom clean rest looked clean bedbug crawled minifridge tv 100 cable channels receptionist delivered wake call time shower walk bathroom handicap accessible railings fold shower bench water pressure soap shampoo provided towels clean plentiful street noise wasnt bad noise drowned window air conditioner 2 recommendation improving fumigating hotel bedbugs remote tv 3 alarm clock", "Date": "2010-03-07 00:00:00"}], "HotelInfo": {"Name": "Hotel Villa del Sol", "HotelURL": "/ShowUserReviews-g2665727-d151808-Reviews-Hotel_Villa_del_Sol-Isla_Verde_Carolina_Puerto_Rico.html", "Price": "$90 - $150*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4 Calle Rosa</span>, <span class=\"locality\"><span property=\"v:locality\">Isla Verde</span> <span property=\"v:postal-code\">00979</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>", "HotelID": "151808", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ed/ff/edff595333cd54cb63db5513297bdfa31large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Glendale, Arizona",
+      "Title": "\u201cHotel Villa Del sole excellent little getaway.\u201d",
+      "Author": "john647",
+      "ReviewID": "UR124369645",
+      "Content": "hotel villa del sole excellent little getaway close beaches walgreens car rentals suv rentals bicycle rentals reasonably priced close establishments five minutes airport refreshing pool fullservice bar serves breakfast lunch dinner carmen cook excellent meal mix refreshing drink visit service friendly staff clean rental cars",
+      "Date": "2012-02-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "USA",
+      "Title": "\u201cNice stay- affordable- low key\u201d",
+      "Author": "yasmine1982",
+      "ReviewID": "UR85378635",
+      "Content": "pros style hotel nice staff clean clean pool ac location walking distance beach resturants supermarket casinos water type bugs staying 2nd floor 3 didnt prob loved little cat sleeps lobby near pool call cat hotels name lover cons elevators walk floor via stairs food bar time park stayed floor pool closes course looking 5 star hotel perfect service hotel budget spend days tour island visit read reviews realized picky people paying 100120 night tourist surrounding hotel min 250 night umm expect painted blinds towel holder loose priority mines stay guarantee clean affordable staff ladies friendly",
+      "Date": "2010-10-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Arizona City, Arizona",
+      "Title": "\u201c$90 a night for a dirty, smelly room\u201d",
+      "Author": "corela",
+      "ReviewID": "UR78961743",
+      "Content": "stayed hotel villa del sol 1 night smelly dirty carpet noisy ac bathroom sheets stains thin pillows tiny ants wall called front desk lady offered sprayed insecticide chairs dirty chairs balcony moldy dissapointed poor condition elevators husband bird person morning breakfast restaurant recommend hotel",
+      "Date": "2010-09-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Fairfield County",
+      "Title": "\u201cWorst hotel EVER!!!\u201d",
+      "Author": "Michelle224",
+      "ReviewID": "UR73072297",
+      "Content": "am picky bad reviews hotel hell stepping foot lobby roaches bed bugs tv bathroom gross requested refund recieved waiting days call bank release money car rental associated charged security notifying car rode ants daughters car seat held money security car havent gotten week dont waste time money ruin trip coming",
+      "Date": "2010-07-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Brooklyn, New York",
+      "Title": "\u201cBedbugs, other problems. Some good stuff. Mixed.\u201d",
+      "Author": "Bnad",
+      "ReviewID": "UR57998842",
+      "Content": "rare actually bedbugs hand resting counter fingers channel button tv tv remote little suckers crawled tv looked exactly squished followed personal procedure staying hotels confirmed bedbug sightings bags clothes onto fold bench shower sleep light arrived hotel ahead reception complaining hotel left familys bags airport 4 days promised deliver receptionists response apology minute booking save spend night airport tried judge hotel run 4pm girls sitting bar drinking margaritas girls drinking margaritas 10pm indeed pretty girls sitting bar laughing imagine hired sit pretty bring traffic floor receptionist door slid closed alarm clock stuck 1200 time set buttons didnt bathroom clean rest looked clean bedbug crawled minifridge tv 100 cable channels receptionist delivered wake call time shower walk bathroom handicap accessible railings fold shower bench water pressure soap shampoo provided towels clean plentiful street noise wasnt bad noise drowned window air conditioner 2 recommendation improving fumigating hotel bedbugs remote tv 3 alarm clock",
+      "Date": "2010-03-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Villa del Sol",
+    "HotelURL": "/ShowUserReviews-g2665727-d151808-Reviews-Hotel_Villa_del_Sol-Isla_Verde_Carolina_Puerto_Rico.html",
+    "Price": "$90 - $150*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4 Calle Rosa</span>, <span class=\"locality\"><span property=\"v:locality\">Isla Verde</span> <span property=\"v:postal-code\">00979</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>",
+    "HotelID": "151808",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ed/ff/edff595333cd54cb63db5513297bdfa31large.jpg"
+  }
+}

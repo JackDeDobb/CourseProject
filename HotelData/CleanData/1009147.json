@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Vilnius", "Title": "\u201cGood place and value for undemanding person\u201d", "Author": "rkpoison", "ReviewID": "UR96097358", "Content": "location day walk direction gran via street visited madrid day walk direction gran via visited madrid reachable walking hotel clean basin advantage walls thin punch guy started sing orientation windows gran via street little disturbed", "Date": "2011-02-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Venice, Italy", "Title": "\u201cShocked\u201d", "Author": "Backpacker911", "ReviewID": "UR63780005", "Content": "suck actually nice safe 4 blocks center madrid staff friendly clean noise issue times bad tip bring ear plugs sensitive noise pretty cool meet travelers staying hostal", "Date": "2010-05-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Paris, France", "Title": "\u201cGreat location, but don't stay if you wanna sleep\u201d", "Author": "Milbybuffalo", "ReviewID": "UR58428960", "Content": "plan lot partying madrid recommend staying walls thin paper hear safe drop key front desk ring doorbell reenter arrive 11pm special card stating staying hostal security guard downstairs hostal key mother father dont speak english son helpful questions", "Date": "2010-03-13 00:00:00"}], "HotelInfo": {"Name": "Hostal Splendid", "HotelURL": "/ShowUserReviews-g187514-d1009147-Reviews-Hostal_Splendid-Madrid.html", "Price": "$42 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gran Via 15, 50A.</span>, <span class=\"locality\"><span property=\"v:postal-code\">28013</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "1009147", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/45/23/45231dbee899c99ee4a59435ff2bd1751large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Vilnius",
+      "Title": "\u201cGood place and value for undemanding person\u201d",
+      "Author": "rkpoison",
+      "ReviewID": "UR96097358",
+      "Content": "location day walk direction gran via street visited madrid day walk direction gran via visited madrid reachable walking hotel clean basin advantage walls thin punch guy started sing orientation windows gran via street little disturbed",
+      "Date": "2011-02-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Venice, Italy",
+      "Title": "\u201cShocked\u201d",
+      "Author": "Backpacker911",
+      "ReviewID": "UR63780005",
+      "Content": "suck actually nice safe 4 blocks center madrid staff friendly clean noise issue times bad tip bring ear plugs sensitive noise pretty cool meet travelers staying hostal",
+      "Date": "2010-05-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Paris, France",
+      "Title": "\u201cGreat location, but don't stay if you wanna sleep\u201d",
+      "Author": "Milbybuffalo",
+      "ReviewID": "UR58428960",
+      "Content": "plan lot partying madrid recommend staying walls thin paper hear safe drop key front desk ring doorbell reenter arrive 11pm special card stating staying hostal security guard downstairs hostal key mother father dont speak english son helpful questions",
+      "Date": "2010-03-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hostal Splendid",
+    "HotelURL": "/ShowUserReviews-g187514-d1009147-Reviews-Hostal_Splendid-Madrid.html",
+    "Price": "$42 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gran Via 15, 50A.</span>, <span class=\"locality\"><span property=\"v:postal-code\">28013</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "1009147",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/45/23/45231dbee899c99ee4a59435ff2bd1751large.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Royal Oak, Michigan", "Title": "\u201cUncomfortably unkept but friendly staff\u201d", "Author": "Johnniego", "ReviewID": "UR125896716", "Content": "spend time hotels home job currently hotel cheap smell clean housekeeping doing job walls holes furniture signs wear previous guest staying feel uncomfortable bathroom bathroom towels thin hard ceiling shower crumbling shower head covered calcium build bed overall comfortable thin pillows pink blanket replaced headboard covered nicks chips amenities fast internet fridge microwave", "Date": "2012-03-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Indianapolis, Indiana", "Title": "\u201cNot Bad!\u201d", "Author": "donna s", "ReviewID": "UR121410396", "Content": "due unfortunate circumstances found extended live mine available getting clean comfortable trust people people running front desk nice knowlegeable answer day circumstances change miss hotel recommend hotel", "Date": "2011-12-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Westchester, Illinois, United States", "Title": "\u201cSuper 8 Indy South\u201d", "Author": "Michael M", "ReviewID": "UR121269358", "Content": "job requires stay lot hotels economical found money hotel terrific value clean spacious warm breakfast offered morning hotel geographically ideal staff greeted smile willingness serve", "Date": "2011-11-30 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Saint Louis, Missouri", "Title": "\u201cI would never stay at this hotel again.\u201d", "Author": "turkey99", "ReviewID": "UR84935973", "Content": "spent nights hotel absolutely filthy tried twice furnace times set smoke alarm odor terrible buzzed reset smoke alarm downstairs eat breakfast morning horrible electrical system unsafe plugins secured metal boxes plugged wall moved towel racks hanging walls towels threadbare shower alternated hot cold water didnt expect ritz 90 night expect clean please urge stay hotel pitiful sent comment super 8", "Date": "2010-10-26 00:00:00"}], "HotelInfo": {"Name": "Super 8 Indianapolis South", "HotelURL": "/ShowUserReviews-g37209-d251963-Reviews-Super_8_Indianapolis_South-Indianapolis_Indiana.html", "Price": "$58 - $81*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">450 Bixler Road</span>, <span class=\"extended-address\">I-465 Exit 2B</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46227</span></span> </span> </span> </address>", "HotelID": "251963", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/19/48/194892827c7db2c547801a3a943d46bd4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Royal Oak, Michigan",
+      "Title": "\u201cUncomfortably unkept but friendly staff\u201d",
+      "Author": "Johnniego",
+      "ReviewID": "UR125896716",
+      "Content": "spend time hotels home job currently hotel cheap smell clean housekeeping doing job walls holes furniture signs wear previous guest staying feel uncomfortable bathroom bathroom towels thin hard ceiling shower crumbling shower head covered calcium build bed overall comfortable thin pillows pink blanket replaced headboard covered nicks chips amenities fast internet fridge microwave",
+      "Date": "2012-03-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Indianapolis, Indiana",
+      "Title": "\u201cNot Bad!\u201d",
+      "Author": "donna s",
+      "ReviewID": "UR121410396",
+      "Content": "due unfortunate circumstances found extended live mine available getting clean comfortable trust people people running front desk nice knowlegeable answer day circumstances change miss hotel recommend hotel",
+      "Date": "2011-12-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Westchester, Illinois, United States",
+      "Title": "\u201cSuper 8 Indy South\u201d",
+      "Author": "Michael M",
+      "ReviewID": "UR121269358",
+      "Content": "job requires stay lot hotels economical found money hotel terrific value clean spacious warm breakfast offered morning hotel geographically ideal staff greeted smile willingness serve",
+      "Date": "2011-11-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Saint Louis, Missouri",
+      "Title": "\u201cI would never stay at this hotel again.\u201d",
+      "Author": "turkey99",
+      "ReviewID": "UR84935973",
+      "Content": "spent nights hotel absolutely filthy tried twice furnace times set smoke alarm odor terrible buzzed reset smoke alarm downstairs eat breakfast morning horrible electrical system unsafe plugins secured metal boxes plugged wall moved towel racks hanging walls towels threadbare shower alternated hot cold water didnt expect ritz 90 night expect clean please urge stay hotel pitiful sent comment super 8",
+      "Date": "2010-10-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Super 8 Indianapolis South",
+    "HotelURL": "/ShowUserReviews-g37209-d251963-Reviews-Super_8_Indianapolis_South-Indianapolis_Indiana.html",
+    "Price": "$58 - $81*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">450 Bixler Road</span>, <span class=\"extended-address\">I-465 Exit 2B</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46227</span></span> </span> </span> </address>",
+    "HotelID": "251963",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/19/48/194892827c7db2c547801a3a943d46bd4large.jpg"
+  }
+}

@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Calgary, Canada", "Title": "\u201cLocation and the stuff fantastic but not the hotel itself\u201d", "Author": "montanasinger", "ReviewID": "UR122189028", "Content": "location deira downtown train station square walking distance gold market gold close stuff wonderfull nice ready help questions concerns feel home thanks guys wonderful hotel building shape little water coming shower smelly worse noise third floor african disco makes shake building sleep till disco closes 3am night hard hotel street fromt hotel packed prostitutes literary grab offer services", "Date": "2011-12-28 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Kuwait City, Kuwait", "Title": "\u201cNoisy hotel in prominent location\u201d", "Author": "Johnsonsahayaraj", "ReviewID": "UR80575835", "Content": "stayed wife hotel noisy loudness dance floors smelly service motto persons food worst hotel pickup joint spouse", "Date": "2010-09-22 00:00:00"}], "HotelInfo": {"Name": "Ramee International Hotel Dubai", "HotelURL": "/ShowUserReviews-g295424-d301536-Reviews-Ramee_International_Hotel_Dubai-Dubai.html", "Price": "$44 - $174*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">near Omar Al Kattab Rd, Nasser Square</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "301536", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6d/31/6d31692a73417d9f972ae6764e07b4173large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Calgary, Canada",
+      "Title": "\u201cLocation and the stuff fantastic but not the hotel itself\u201d",
+      "Author": "montanasinger",
+      "ReviewID": "UR122189028",
+      "Content": "location deira downtown train station square walking distance gold market gold close stuff wonderfull nice ready help questions concerns feel home thanks guys wonderful hotel building shape little water coming shower smelly worse noise third floor african disco makes shake building sleep till disco closes 3am night hard hotel street fromt hotel packed prostitutes literary grab offer services",
+      "Date": "2011-12-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Kuwait City, Kuwait",
+      "Title": "\u201cNoisy hotel in prominent location\u201d",
+      "Author": "Johnsonsahayaraj",
+      "ReviewID": "UR80575835",
+      "Content": "stayed wife hotel noisy loudness dance floors smelly service motto persons food worst hotel pickup joint spouse",
+      "Date": "2010-09-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Ramee International Hotel Dubai",
+    "HotelURL": "/ShowUserReviews-g295424-d301536-Reviews-Ramee_International_Hotel_Dubai-Dubai.html",
+    "Price": "$44 - $174*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">near Omar Al Kattab Rd, Nasser Square</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "301536",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6d/31/6d31692a73417d9f972ae6764e07b4173large.jpg"
+  }
+}

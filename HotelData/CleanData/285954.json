@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Roma", "Title": "\u201cBest value in town for a single room !\u201d", "Author": "Photogallery1", "ReviewID": "UR106683938", "Content": "spent 7 nights hotel course cant expect luxury 35euro night breakfast included deal amsterdam decent floor bit perfectly clean silent little sink inside hotel perfectly situated historic center public transports 5mn walking train station easy reach breakfast fresh bread tasty jam staff helpful welcoming easygoing funny dutch humor helped organize day trip outside city tulips fields check hours openings main museums loved city architecture museums definitely stay", "Date": "2011-05-03 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "K\u00c3\u00b6ln", "Title": "\u201cPoorly maintained, animal guests, unfriendly staff\u201d", "Author": "cehawe", "ReviewID": "UR101905370", "Content": "60 euros night doubletwin incl breakfast looked alright dirty curtains shower floor obviously repairs maintenence bed sheets clean holes night woke noises animal guests mouse trying share food morning owner coworker reacted aggressive confronted supposedly amsterdam solved left hotel street money nice clean shower nice staff decent breakfast conclusion wouldnt hey staying hotel reason leave maybe 2 night minimum stay mention mice enjoy", "Date": "2011-03-28 00:00:00"}], "HotelInfo": {"Name": "Hotel Groenendael", "HotelURL": "/ShowUserReviews-g188590-d285954-Reviews-Hotel_Groenendael-Amsterdam_Noord_Holland.html", "Price": "$46 - $119*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Nieuwendijk 15</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1012 LZ</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>", "HotelID": "285954", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Roma",
+      "Title": "\u201cBest value in town for a single room !\u201d",
+      "Author": "Photogallery1",
+      "ReviewID": "UR106683938",
+      "Content": "spent 7 nights hotel course cant expect luxury 35euro night breakfast included deal amsterdam decent floor bit perfectly clean silent little sink inside hotel perfectly situated historic center public transports 5mn walking train station easy reach breakfast fresh bread tasty jam staff helpful welcoming easygoing funny dutch humor helped organize day trip outside city tulips fields check hours openings main museums loved city architecture museums definitely stay",
+      "Date": "2011-05-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "K\u00c3\u00b6ln",
+      "Title": "\u201cPoorly maintained, animal guests, unfriendly staff\u201d",
+      "Author": "cehawe",
+      "ReviewID": "UR101905370",
+      "Content": "60 euros night doubletwin incl breakfast looked alright dirty curtains shower floor obviously repairs maintenence bed sheets clean holes night woke noises animal guests mouse trying share food morning owner coworker reacted aggressive confronted supposedly amsterdam solved left hotel street money nice clean shower nice staff decent breakfast conclusion wouldnt hey staying hotel reason leave maybe 2 night minimum stay mention mice enjoy",
+      "Date": "2011-03-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Groenendael",
+    "HotelURL": "/ShowUserReviews-g188590-d285954-Reviews-Hotel_Groenendael-Amsterdam_Noord_Holland.html",
+    "Price": "$46 - $119*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Nieuwendijk 15</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1012 LZ</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>",
+    "HotelID": "285954",
+    "ImgURL": ""
+  }
+}

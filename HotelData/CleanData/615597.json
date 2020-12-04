@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Litchfield, Illinois", "Title": "\u201cYOU CAN PAY MORE BUT CAN'T BEAT THIS HOTEL'S AMBIANCE, CHARM & FAMILY-OWNED HOSPITALITY! A MUST-DO IN BRANSON!\u201d", "Author": "sally m", "ReviewID": "UR137029355", "Content": "thanks dan sandy family reunion sweet success familyowned hotel staying friends home clean pool wellmaintained owners staff wonderful people dans advise critical righton choices dining experiences celebrated family country charming clean safe stay 2nd family reunion branson loved green mountain inn branson mo 5 shining stars try youll yall soon thanks regards sally miller", "Date": "2012-08-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "", "Title": "\u201cSimple but does the trick\u201d", "Author": "LindenBJ", "ReviewID": "UR130682086", "Content": "quick cheap stop night didnt travel home dark found hotel ratings tripadvisor chance ac hot water water pressure normal absolutely fancy mom pop hotel meaning sheet bed bedspread blanket bedding closet waffles fruit cereal etc breakfast woke late experience pool middle courtyard road offer smoking smoking worried id smell smoke didnt pets pay deposit front wasnt thrilled staying pets desparate feet", "Date": "2012-05-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Ledgewood, NJ", "Title": "\u201c5 Star Cleanliness, Convenience and Cordiality\u201d", "Author": "TripmomLedgewood_NJ", "ReviewID": "UR88462980", "Content": "moment called reservation moment left night stay feel familys enjoyment owners top priority request trouble found extremely clean reasonably priced comfortable additionally supposed airconditioning tv wifi functioning properly pool wellmaintained children times included price breakfast features homemade waffles fresh donuts selections mom pop business definitely reflects pride ownership impressed recommend green mountain inn", "Date": "2010-11-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Murfreesboro Tennessee, USA", "Title": "\u201call around great deal\u201d", "Author": "tntraveler067", "ReviewID": "UR86661729", "Content": "siblings met 3 surprise mother 80th birthdaythe price location perfect friendliness helpfulness owners chart sandy assist tickets donuts gone continental breakfast", "Date": "2010-11-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Missouri", "Title": "\u201cGreat value for your dollar~Clean friendly and comfortable\u201d", "Author": "Tracey1223", "ReviewID": "UR83017703", "Content": "night stay hit antique malls stayed green mountain inn owners friendly family owned clean comfortable five star quiet motel location kept extremely clean yes little worn floor pattern linoleum bathrooms served purpose sleep dress breakfast adequate basics cereal toast donuts juice milk coffee tide till lunch save bucks breakfast sitting summer pool looks lot fun outside maintained", "Date": "2010-10-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "miramar beach, fla", "Title": "\u201cFelt like home!\u201d", "Author": "otis21", "ReviewID": "UR60879102", "Content": "children sometimes travel hard remember green mountain inn realized 9 month sleep told borrow wow couple runs green mountain inn sandy dan name couple sandy remembered staying hotel top else fantastic super clean smelled extra towels pillows smile look else stay business", "Date": "2010-04-10 00:00:00"}], "HotelInfo": {"Name": "Green Mountain Inn", "HotelURL": "/ShowUserReviews-g44160-d615597-Reviews-Green_Mountain_Inn-Branson_Missouri.html", "Price": "$65 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2825 Green Mountain Dr</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>", "HotelID": "615597", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/40/72/407203634efea1cf65811094361726b41large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Litchfield, Illinois",
+      "Title": "\u201cYOU CAN PAY MORE BUT CAN'T BEAT THIS HOTEL'S AMBIANCE, CHARM & FAMILY-OWNED HOSPITALITY! A MUST-DO IN BRANSON!\u201d",
+      "Author": "sally m",
+      "ReviewID": "UR137029355",
+      "Content": "thanks dan sandy family reunion sweet success familyowned hotel staying friends home clean pool wellmaintained owners staff wonderful people dans advise critical righton choices dining experiences celebrated family country charming clean safe stay 2nd family reunion branson loved green mountain inn branson mo 5 shining stars try youll yall soon thanks regards sally miller",
+      "Date": "2012-08-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cSimple but does the trick\u201d",
+      "Author": "LindenBJ",
+      "ReviewID": "UR130682086",
+      "Content": "quick cheap stop night didnt travel home dark found hotel ratings tripadvisor chance ac hot water water pressure normal absolutely fancy mom pop hotel meaning sheet bed bedspread blanket bedding closet waffles fruit cereal etc breakfast woke late experience pool middle courtyard road offer smoking smoking worried id smell smoke didnt pets pay deposit front wasnt thrilled staying pets desparate feet",
+      "Date": "2012-05-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ledgewood, NJ",
+      "Title": "\u201c5 Star Cleanliness, Convenience and Cordiality\u201d",
+      "Author": "TripmomLedgewood_NJ",
+      "ReviewID": "UR88462980",
+      "Content": "moment called reservation moment left night stay feel familys enjoyment owners top priority request trouble found extremely clean reasonably priced comfortable additionally supposed airconditioning tv wifi functioning properly pool wellmaintained children times included price breakfast features homemade waffles fresh donuts selections mom pop business definitely reflects pride ownership impressed recommend green mountain inn",
+      "Date": "2010-11-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Murfreesboro Tennessee, USA",
+      "Title": "\u201call around great deal\u201d",
+      "Author": "tntraveler067",
+      "ReviewID": "UR86661729",
+      "Content": "siblings met 3 surprise mother 80th birthdaythe price location perfect friendliness helpfulness owners chart sandy assist tickets donuts gone continental breakfast",
+      "Date": "2010-11-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Missouri",
+      "Title": "\u201cGreat value for your dollar~Clean friendly and comfortable\u201d",
+      "Author": "Tracey1223",
+      "ReviewID": "UR83017703",
+      "Content": "night stay hit antique malls stayed green mountain inn owners friendly family owned clean comfortable five star quiet motel location kept extremely clean yes little worn floor pattern linoleum bathrooms served purpose sleep dress breakfast adequate basics cereal toast donuts juice milk coffee tide till lunch save bucks breakfast sitting summer pool looks lot fun outside maintained",
+      "Date": "2010-10-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "miramar beach, fla",
+      "Title": "\u201cFelt like home!\u201d",
+      "Author": "otis21",
+      "ReviewID": "UR60879102",
+      "Content": "children sometimes travel hard remember green mountain inn realized 9 month sleep told borrow wow couple runs green mountain inn sandy dan name couple sandy remembered staying hotel top else fantastic super clean smelled extra towels pillows smile look else stay business",
+      "Date": "2010-04-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Green Mountain Inn",
+    "HotelURL": "/ShowUserReviews-g44160-d615597-Reviews-Green_Mountain_Inn-Branson_Missouri.html",
+    "Price": "$65 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2825 Green Mountain Dr</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>",
+    "HotelID": "615597",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/40/72/407203634efea1cf65811094361726b41large.jpg"
+  }
+}

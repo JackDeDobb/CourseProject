@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cDecent hotel in a good location\u201d", "Author": "Govvy", "ReviewID": "UR127984092", "Content": "trip started hotel finished hotel fair staff nice invest proper curtains tell manager location city walking distance main sites nice bathrooms time stayed bathroom decent size time bathroom getting nights sleep depend location hotel train station noisey lift loud change turkey update rules europe deem illegal life resturant top floor nice views breakfast decent little selection suit decent stay", "Date": "2012-04-16 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Muscat", "Title": "\u201cDecent\u201d", "Author": "Ali D", "ReviewID": "UR122970981", "Content": "pro available price range nice staff nice polite fantastic views istanbul breakfast terrace extensive selection breakfast food havent found con annoying sound hear level 3 train station outside elevator kept hearing throughout stay reception staff guy looks chewing time talk annoying try sell commission found rude times", "Date": "2012-01-12 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Baku", "Title": "\u201cfriendly staff...\u201d", "Author": "st_petre", "ReviewID": "UR120197845", "Content": "selected hotel location located downtown near tram station gulhane im mistaken 1015 minutes walk major attractions ayia sofia sultan ahmed staff welcoming friendly located close police stations souvenir shop hotel", "Date": "2011-11-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Buenos Aires, Argentina", "Title": "\u201cFriendly City Centre hotel\u201d", "Author": "JosephineSalvador", "ReviewID": "UR119975483", "Content": "hotel heart istanbul close major attractions simple hotel friendly staff clean breakfasts little hard tram light rail tourist office directly opposite station direct value money", "Date": "2011-10-31 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Bucharest, Romania", "Title": "\u201cgreat city trip hotel!\u201d", "Author": "jo_ba2005", "ReviewID": "UR118741497", "Content": "family stayed 2 nights lovely hotel istanbul pretty tricky hotel dont gps driving directions car streets pretty oneway getting hotel called reception immediately sent hotel clean chic clean bathroom bit extremely tasteful clean internet access free charge hotel parking spaces breakfast wasnt varied ok plus hotel location close topkapi palace sultanahmet park train station exactly hotel shops restaurants tram station close accessible nice hotel extremely helpful staff close main sights european istanbul nice restaurants shops", "Date": "2011-09-29 00:00:00"}], "HotelInfo": {"Name": "Best Town Palace", "HotelURL": "/ShowUserReviews-g293974-d2153087-Reviews-Best_Town_Palace-Istanbul.html", "Price": "$59 - $150*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Hocapasa Mah. Istasyon Arkasi Sk. No: 9</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34200</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "2153087", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/e3/d7/c9/best-town-palace.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cDecent hotel in a good location\u201d",
+      "Author": "Govvy",
+      "ReviewID": "UR127984092",
+      "Content": "trip started hotel finished hotel fair staff nice invest proper curtains tell manager location city walking distance main sites nice bathrooms time stayed bathroom decent size time bathroom getting nights sleep depend location hotel train station noisey lift loud change turkey update rules europe deem illegal life resturant top floor nice views breakfast decent little selection suit decent stay",
+      "Date": "2012-04-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Muscat",
+      "Title": "\u201cDecent\u201d",
+      "Author": "Ali D",
+      "ReviewID": "UR122970981",
+      "Content": "pro available price range nice staff nice polite fantastic views istanbul breakfast terrace extensive selection breakfast food havent found con annoying sound hear level 3 train station outside elevator kept hearing throughout stay reception staff guy looks chewing time talk annoying try sell commission found rude times",
+      "Date": "2012-01-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Baku",
+      "Title": "\u201cfriendly staff...\u201d",
+      "Author": "st_petre",
+      "ReviewID": "UR120197845",
+      "Content": "selected hotel location located downtown near tram station gulhane im mistaken 1015 minutes walk major attractions ayia sofia sultan ahmed staff welcoming friendly located close police stations souvenir shop hotel",
+      "Date": "2011-11-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Buenos Aires, Argentina",
+      "Title": "\u201cFriendly City Centre hotel\u201d",
+      "Author": "JosephineSalvador",
+      "ReviewID": "UR119975483",
+      "Content": "hotel heart istanbul close major attractions simple hotel friendly staff clean breakfasts little hard tram light rail tourist office directly opposite station direct value money",
+      "Date": "2011-10-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bucharest, Romania",
+      "Title": "\u201cgreat city trip hotel!\u201d",
+      "Author": "jo_ba2005",
+      "ReviewID": "UR118741497",
+      "Content": "family stayed 2 nights lovely hotel istanbul pretty tricky hotel dont gps driving directions car streets pretty oneway getting hotel called reception immediately sent hotel clean chic clean bathroom bit extremely tasteful clean internet access free charge hotel parking spaces breakfast wasnt varied ok plus hotel location close topkapi palace sultanahmet park train station exactly hotel shops restaurants tram station close accessible nice hotel extremely helpful staff close main sights european istanbul nice restaurants shops",
+      "Date": "2011-09-29 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Best Town Palace",
+    "HotelURL": "/ShowUserReviews-g293974-d2153087-Reviews-Best_Town_Palace-Istanbul.html",
+    "Price": "$59 - $150*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Hocapasa Mah. Istasyon Arkasi Sk. No: 9</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34200</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "2153087",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/e3/d7/c9/best-town-palace.jpg"
+  }
+}

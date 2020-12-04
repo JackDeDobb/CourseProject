@@ -78,4 +78,4 @@ os.mkdir(hotelDataCleanFilesDirectory)
 for (hotelID, hotelData) in list(hotelIDToDataMapping.items()):
   with open('/'.join([hotelDataCleanFilesDirectory, hotelID + '.json']), 'w+') as cleanDataFile:
     print('exporting file: ' + hotelID + '.json')
-    json.dump(hotelData, cleanDataFile, default=str)
+    json.dump(hotelData, cleanDataFile, default=str, indent=2)

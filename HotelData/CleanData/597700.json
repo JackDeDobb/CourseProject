@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Orlando", "Title": "\u201cPick a better spot\u201d", "Author": "DovelyOrlando", "ReviewID": "UR119328077", "Content": "sacrifice location quiet hospitable arrived 9pm counter acted interrupting brusk speak didnt explain breakfast normal provides breakfast towels sand paper wasnt toilet paper night dead bugs cabinets wasnt hot water person taking relaxing shower sleep terrible door didnt block sound outside reception elevator floor hear happening outside", "Date": "2011-10-15 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 5.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Moscow, Russia", "Title": "\u201cI had expected better\u201d", "Author": "R0zaS", "ReviewID": "UR119176588", "Content": "mundi close train station roma termini comfortable unfortunately hotel seriously couldnt imagined start bad cosy tidy comfortable couldve seen dirt ive seen cockroach brrrr everyday cleaning bed unpleasant furniture climax discontent bathroom shower wait heater ready 1st floor close public bathroom heater morning simply impossible warm shower tranquility evenings heard shouts foreigners languages cause quarter rome suppose reason absence view window hammered couple mornings pretty noisy hotel receptionist told special days shouting workers noise workers appreciable breakfast didnt space poor time staff russian girl days spoke russian english italian nice friendly italian nights unfriendly italian nights people wrote real nighmare hadnt speak english notte glad choose hotel planning trip rome yeah cheap dont", "Date": "2011-10-11 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cWell located, cheap but poor quality\u201d", "Author": "giemeigi", "ReviewID": "UR110755951", "Content": "hotel located improve lot night sleep reception noise awful couldnt sleepthe 3 nights sleep ok helpful friendly structure hotel improve modernize lot", "Date": "2011-05-31 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Tonbridge, United Kingdom", "Title": "\u201cdont stay here\u201d", "Author": "gilbert036", "ReviewID": "UR88686816", "Content": "location awful hotel web site stayed fifth floor air con hairdryer bar lounge dining advertised daughter paid leave paid cash stay card rude sign daughter details accepted payment", "Date": "2010-11-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Portishead, United Kingdom", "Title": "\u201c5 stars for Katrina the polyglot receptionist !\u201d", "Author": "pbmusician", "ReviewID": "UR86982575", "Content": "hope owners hotel realise treasure impeccably dressed mannered hepful receptionist beacon light overwhelmingly shabby cheerful establishment grace 5 star establishments world magnificent difference stay forget remember upside location location location walk termini left 100m cross road closer dont adams family exterior hangers congregate steps day night broom cupboard reception incredibly ancient asthmatic lift fort knox type steel door 5 5th floor slam door hard falls remember lovely katrina downstairs join 8am coffee bun round corner lucky ok price reasonbly equipped clean", "Date": "2010-11-13 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Fortaleza, CE", "Title": "\u201cwe were robbed\u201d", "Author": "MarcusFreitas", "ReviewID": "UR78678459", "Content": "booked five people air conditioning private bathroom reached hotel stay passports leave look forward close book reached floor maid told booked people quarter private bathroom giving bottle wine bottles water bottles sealed drink day city returned hall occupied five people private bathroom air conditioning taking stuff maid praising girls left hotel noticed stole belt scarf earring hotel dirty ugly respect customer dishonest night receptionist rude anyway hotel awful", "Date": "2010-09-07 00:00:00"}], "HotelInfo": {"Name": "Hotel Caput Mundi Roma", "HotelURL": "/ShowUserReviews-g187791-d597700-Reviews-Hotel_Caput_Mundi_Roma-Rome_Lazio.html", "Price": "$66 - $141*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Urbano Rattazzi 65</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "597700", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f0/b5/f0b5706fc6d988a5640c49f8287e68ac4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Orlando",
+      "Title": "\u201cPick a better spot\u201d",
+      "Author": "DovelyOrlando",
+      "ReviewID": "UR119328077",
+      "Content": "sacrifice location quiet hospitable arrived 9pm counter acted interrupting brusk speak didnt explain breakfast normal provides breakfast towels sand paper wasnt toilet paper night dead bugs cabinets wasnt hot water person taking relaxing shower sleep terrible door didnt block sound outside reception elevator floor hear happening outside",
+      "Date": "2011-10-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 5.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Moscow, Russia",
+      "Title": "\u201cI had expected better\u201d",
+      "Author": "R0zaS",
+      "ReviewID": "UR119176588",
+      "Content": "mundi close train station roma termini comfortable unfortunately hotel seriously couldnt imagined start bad cosy tidy comfortable couldve seen dirt ive seen cockroach brrrr everyday cleaning bed unpleasant furniture climax discontent bathroom shower wait heater ready 1st floor close public bathroom heater morning simply impossible warm shower tranquility evenings heard shouts foreigners languages cause quarter rome suppose reason absence view window hammered couple mornings pretty noisy hotel receptionist told special days shouting workers noise workers appreciable breakfast didnt space poor time staff russian girl days spoke russian english italian nice friendly italian nights unfriendly italian nights people wrote real nighmare hadnt speak english notte glad choose hotel planning trip rome yeah cheap dont",
+      "Date": "2011-10-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cWell located, cheap but poor quality\u201d",
+      "Author": "giemeigi",
+      "ReviewID": "UR110755951",
+      "Content": "hotel located improve lot night sleep reception noise awful couldnt sleepthe 3 nights sleep ok helpful friendly structure hotel improve modernize lot",
+      "Date": "2011-05-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Tonbridge, United Kingdom",
+      "Title": "\u201cdont stay here\u201d",
+      "Author": "gilbert036",
+      "ReviewID": "UR88686816",
+      "Content": "location awful hotel web site stayed fifth floor air con hairdryer bar lounge dining advertised daughter paid leave paid cash stay card rude sign daughter details accepted payment",
+      "Date": "2010-11-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Portishead, United Kingdom",
+      "Title": "\u201c5 stars for Katrina the polyglot receptionist !\u201d",
+      "Author": "pbmusician",
+      "ReviewID": "UR86982575",
+      "Content": "hope owners hotel realise treasure impeccably dressed mannered hepful receptionist beacon light overwhelmingly shabby cheerful establishment grace 5 star establishments world magnificent difference stay forget remember upside location location location walk termini left 100m cross road closer dont adams family exterior hangers congregate steps day night broom cupboard reception incredibly ancient asthmatic lift fort knox type steel door 5 5th floor slam door hard falls remember lovely katrina downstairs join 8am coffee bun round corner lucky ok price reasonbly equipped clean",
+      "Date": "2010-11-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Fortaleza, CE",
+      "Title": "\u201cwe were robbed\u201d",
+      "Author": "MarcusFreitas",
+      "ReviewID": "UR78678459",
+      "Content": "booked five people air conditioning private bathroom reached hotel stay passports leave look forward close book reached floor maid told booked people quarter private bathroom giving bottle wine bottles water bottles sealed drink day city returned hall occupied five people private bathroom air conditioning taking stuff maid praising girls left hotel noticed stole belt scarf earring hotel dirty ugly respect customer dishonest night receptionist rude anyway hotel awful",
+      "Date": "2010-09-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Caput Mundi Roma",
+    "HotelURL": "/ShowUserReviews-g187791-d597700-Reviews-Hotel_Caput_Mundi_Roma-Rome_Lazio.html",
+    "Price": "$66 - $141*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Urbano Rattazzi 65</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "597700",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f0/b5/f0b5706fc6d988a5640c49f8287e68ac4large.jpg"
+  }
+}

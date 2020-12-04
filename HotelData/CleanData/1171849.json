@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "El Reno, Oklahoma", "Title": "\u201cFantastic older motel\u201d", "Author": "Melissa L", "ReviewID": "UR136875205", "Content": "normally stay hotels motels checked couple looking disappointed pulled hopes surprise fantastic motel clean smelled clean stay absolutely fantastic owners sweet honest advise stay time am branson mo price reasonable nice amenities", "Date": "2012-08-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Mountain View, Arkansas", "Title": "\u201cThe Forth in Branson\u201d", "Author": "blackoak2006", "ReviewID": "UR133622146", "Content": "decided time branson 4th july looking online motel decided homestead motel based pricing reviews read disappointed stay owners helpful friendly motel located close strip easy wife shop taller shower head am 6 4 tall overall happy stay", "Date": "2012-07-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Kansas City, Missouri", "Title": "\u201cAWESOME Motel\u201d", "Author": "jbtande", "ReviewID": "UR103172471", "Content": "teenage son visiting branson cheap stay found homestead motel cheap value cheap owners children diligently stay perfect absolutely cleanest stayed including highend establishments stayed twice recommended people parents stayed recommendation called look phone branson summer stay love sign front original reason stopped stay anytime branson highly recommend", "Date": "2011-04-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Saint Joseph, Michigan", "Title": "\u201cGreat Hospitality\u201d", "Author": "Randi_Lynn957", "ReviewID": "UR102894155", "Content": "hospitality feel home remembered enjoyed chose homestead pet friendly dog feel welcomed guests fridge microwave coffee maker added comfort motel close stay", "Date": "2011-04-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Missouri", "Title": "\u201cFriendly! Caring! Very comfortable! Very reasonable! Wonderful Owners!\u201d", "Author": "LizB1963", "ReviewID": "UR72478291", "Content": "comfortable motel stayed branson owners wonderful family care guests comfortable include coffee maker refrigerator microwave cable tv wouldnt stay else branson motel owners scale 1 10 rank 10", "Date": "2010-07-26 00:00:00"}], "HotelInfo": {"Name": "Homestead Motel", "HotelURL": "/ShowUserReviews-g44160-d1171849-Reviews-Homestead_Motel-Branson_Missouri.html", "Price": "$59 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1024 West Main</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>", "HotelID": "1171849", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/bd/ff/57/homestead-motel-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "El Reno, Oklahoma",
+      "Title": "\u201cFantastic older motel\u201d",
+      "Author": "Melissa L",
+      "ReviewID": "UR136875205",
+      "Content": "normally stay hotels motels checked couple looking disappointed pulled hopes surprise fantastic motel clean smelled clean stay absolutely fantastic owners sweet honest advise stay time am branson mo price reasonable nice amenities",
+      "Date": "2012-08-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Mountain View, Arkansas",
+      "Title": "\u201cThe Forth in Branson\u201d",
+      "Author": "blackoak2006",
+      "ReviewID": "UR133622146",
+      "Content": "decided time branson 4th july looking online motel decided homestead motel based pricing reviews read disappointed stay owners helpful friendly motel located close strip easy wife shop taller shower head am 6 4 tall overall happy stay",
+      "Date": "2012-07-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Kansas City, Missouri",
+      "Title": "\u201cAWESOME Motel\u201d",
+      "Author": "jbtande",
+      "ReviewID": "UR103172471",
+      "Content": "teenage son visiting branson cheap stay found homestead motel cheap value cheap owners children diligently stay perfect absolutely cleanest stayed including highend establishments stayed twice recommended people parents stayed recommendation called look phone branson summer stay love sign front original reason stopped stay anytime branson highly recommend",
+      "Date": "2011-04-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Saint Joseph, Michigan",
+      "Title": "\u201cGreat Hospitality\u201d",
+      "Author": "Randi_Lynn957",
+      "ReviewID": "UR102894155",
+      "Content": "hospitality feel home remembered enjoyed chose homestead pet friendly dog feel welcomed guests fridge microwave coffee maker added comfort motel close stay",
+      "Date": "2011-04-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Missouri",
+      "Title": "\u201cFriendly! Caring! Very comfortable! Very reasonable! Wonderful Owners!\u201d",
+      "Author": "LizB1963",
+      "ReviewID": "UR72478291",
+      "Content": "comfortable motel stayed branson owners wonderful family care guests comfortable include coffee maker refrigerator microwave cable tv wouldnt stay else branson motel owners scale 1 10 rank 10",
+      "Date": "2010-07-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Homestead Motel",
+    "HotelURL": "/ShowUserReviews-g44160-d1171849-Reviews-Homestead_Motel-Branson_Missouri.html",
+    "Price": "$59 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1024 West Main</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>",
+    "HotelID": "1171849",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/bd/ff/57/homestead-motel-thumbnail.jpg"
+  }
+}

@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "paris", "Title": "\u201cClean hotel\u201d", "Author": "Shiriocasa", "ReviewID": "UR121120301", "Content": "hotel business close airport bit night life surrounded restaurant clean equiped wifi time internet charge bit expensive quality compare hotels dubai", "Date": "2011-11-28 00:00:00"}], "HotelInfo": {"Name": "Hawthorn Hotel Deira", "HotelURL": "/ShowUserReviews-g295424-d585143-Reviews-Hawthorn_Hotel_Deira-Dubai.html", "Price": "$82 - $294*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Al Rigga Street</span> | <span class=\"extended-address\">PO Box 182246</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "585143", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/99/b9/99b92414133a2bb6d7a04720aebd3b605large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "paris",
+      "Title": "\u201cClean hotel\u201d",
+      "Author": "Shiriocasa",
+      "ReviewID": "UR121120301",
+      "Content": "hotel business close airport bit night life surrounded restaurant clean equiped wifi time internet charge bit expensive quality compare hotels dubai",
+      "Date": "2011-11-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hawthorn Hotel Deira",
+    "HotelURL": "/ShowUserReviews-g295424-d585143-Reviews-Hawthorn_Hotel_Deira-Dubai.html",
+    "Price": "$82 - $294*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Al Rigga Street</span> | <span class=\"extended-address\">PO Box 182246</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "585143",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/99/b9/99b92414133a2bb6d7a04720aebd3b605large.jpg"
+  }
+}

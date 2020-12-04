@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Oxford, United Kingdom", "Title": "\u201cBetter than I expected\u201d", "Author": "doc_M", "ReviewID": "UR124335048", "Content": "stayed santa grand visiting national university singapore january 2012 chinese reading reviews feared worse didnt bad europe easily pass 3 hotel wasnt cheap 143 night normally 20 surcharge chinese havent compared value money clean wellserviced day wellappointed amenities youd expect 4 hotel free wifi bus service outside door bus 5 mins journey mrt 24hour reception desk goodsized 711 nearby tiny outside corner local restauants thats style mine neutral hotel welllocated presumably west coast business otherwise breakfast adequate wasnt ive stayed bad cheap feel check inout process condescendingly charging checkin suggesting leave cardkey reception avoid 30 lost card charge maid check check noisy fridge wet bathroom difficult avoid wet feet shower drain gurgled constantly tip towels muffle sound", "Date": "2012-02-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Brisbane", "Title": "\u201cgood clean hotel - small rooms\u201d", "Author": "Koalakaye", "ReviewID": "UR121553974", "Content": "stayed hotel total 4 nights night stayed return little bigger table little stool tv fridge kettle hair drier stayed 205 corner handy hotel university city catch bus mrt traintube station buses time front hotel 3 mins excellent transport system hotel clean day lots tv stations little fridge free water bottles day breakfast pretty limited boiled eggs toast oranges apples average coffee sweet hotel quiet beds hard slept night aircon", "Date": "2011-12-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Petaling Jaya, Malaysia", "Title": "\u201cJust OK...\u201d", "Author": "Zairol", "ReviewID": "UR119278836", "Content": "booked 3 night hotel via bookingcom pernight book charge night credit card penalty check walk clean amenities kettle hair dryer etc comfortable mattress hard sleeping wooden bed rest ok location wise ok near groceries restaurants", "Date": "2011-10-13 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "New Delhi", "Title": "\u201cA tiny but clean hotel\u201d", "Author": "crosswordsguy", "ReviewID": "UR95550051", "Content": "stayed 2 days hotel near size clean washroom tiny size sanitized staff courteous didnt charged extended stay breakfast bread jam fruits coffee available restaurant hotel restaurants located nearby try delicious egg cheese prata shop hotel conveniently located catch bus nearby bus stop mrt station recently haw par villa mrt station travel singapore little india indians delight recommend hotel budget travelers backpackers", "Date": "2011-02-05 00:00:00"}], "HotelInfo": {"Name": "Santa Grand Hotel West Coast", "HotelURL": "/ShowUserReviews-g294265-d620229-Reviews-Santa_Grand_Hotel_West_Coast-Singapore.html", "Price": "$103 - $150*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">428 Pasir Panjang Road</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">118769</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>", "HotelID": "620229", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/38/8e/06/deluxe-room.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Oxford, United Kingdom",
+      "Title": "\u201cBetter than I expected\u201d",
+      "Author": "doc_M",
+      "ReviewID": "UR124335048",
+      "Content": "stayed santa grand visiting national university singapore january 2012 chinese reading reviews feared worse didnt bad europe easily pass 3 hotel wasnt cheap 143 night normally 20 surcharge chinese havent compared value money clean wellserviced day wellappointed amenities youd expect 4 hotel free wifi bus service outside door bus 5 mins journey mrt 24hour reception desk goodsized 711 nearby tiny outside corner local restauants thats style mine neutral hotel welllocated presumably west coast business otherwise breakfast adequate wasnt ive stayed bad cheap feel check inout process condescendingly charging checkin suggesting leave cardkey reception avoid 30 lost card charge maid check check noisy fridge wet bathroom difficult avoid wet feet shower drain gurgled constantly tip towels muffle sound",
+      "Date": "2012-02-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Brisbane",
+      "Title": "\u201cgood clean hotel - small rooms\u201d",
+      "Author": "Koalakaye",
+      "ReviewID": "UR121553974",
+      "Content": "stayed hotel total 4 nights night stayed return little bigger table little stool tv fridge kettle hair drier stayed 205 corner handy hotel university city catch bus mrt traintube station buses time front hotel 3 mins excellent transport system hotel clean day lots tv stations little fridge free water bottles day breakfast pretty limited boiled eggs toast oranges apples average coffee sweet hotel quiet beds hard slept night aircon",
+      "Date": "2011-12-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Petaling Jaya, Malaysia",
+      "Title": "\u201cJust OK...\u201d",
+      "Author": "Zairol",
+      "ReviewID": "UR119278836",
+      "Content": "booked 3 night hotel via bookingcom pernight book charge night credit card penalty check walk clean amenities kettle hair dryer etc comfortable mattress hard sleeping wooden bed rest ok location wise ok near groceries restaurants",
+      "Date": "2011-10-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "New Delhi",
+      "Title": "\u201cA tiny but clean hotel\u201d",
+      "Author": "crosswordsguy",
+      "ReviewID": "UR95550051",
+      "Content": "stayed 2 days hotel near size clean washroom tiny size sanitized staff courteous didnt charged extended stay breakfast bread jam fruits coffee available restaurant hotel restaurants located nearby try delicious egg cheese prata shop hotel conveniently located catch bus nearby bus stop mrt station recently haw par villa mrt station travel singapore little india indians delight recommend hotel budget travelers backpackers",
+      "Date": "2011-02-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Santa Grand Hotel West Coast",
+    "HotelURL": "/ShowUserReviews-g294265-d620229-Reviews-Santa_Grand_Hotel_West_Coast-Singapore.html",
+    "Price": "$103 - $150*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">428 Pasir Panjang Road</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">118769</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>",
+    "HotelID": "620229",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/38/8e/06/deluxe-room.jpg"
+  }
+}

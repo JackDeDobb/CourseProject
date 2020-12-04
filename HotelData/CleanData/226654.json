@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Sabetha, Kansas", "Title": "\u201cWouldn't do that again!\u201d", "Author": "Nazario435", "ReviewID": "UR139441209", "Content": "family arrived bit late called 500pm ensure arriving late assured arrive ring night bell sign stated lobby 1100pm clerk wore tshirt boxer shorts register teen aged daughters amused neither matter dirty smelled musty wally world buy deodorizer sleep continental breakfast directed guest gutted tables placed inside milk warm 2 types cereal choose trouble buying donuts convenience store corner", "Date": "2012-09-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Tulsa, Oklahoma", "Title": "\u201cExcellent hospitality\u201d", "Author": "Donna S", "ReviewID": "UR134319513", "Content": "coming branson friends ours stayed convention recommended knights inn it\u2019s location convenient major city routes plenty restaurants walking distance easier husband drive nice size handicapped son family shared adjoining staff pleasant caring willing provided service breakfast set it\u2019s furniture impressed hospitality service coming motel return branson christmas donna smith", "Date": "2012-07-13 00:00:00"}], "HotelInfo": {"Name": "Knights Inn & Suites", "HotelURL": "/ShowUserReviews-g44160-d226654-Reviews-Knights_Inn_Suites-Branson_Missouri.html", "Price": "$52 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3775 West Highway 76</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>", "HotelID": "226654", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/53/75/53755f877bb5ef8ad01e44552833d48643large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sabetha, Kansas",
+      "Title": "\u201cWouldn't do that again!\u201d",
+      "Author": "Nazario435",
+      "ReviewID": "UR139441209",
+      "Content": "family arrived bit late called 500pm ensure arriving late assured arrive ring night bell sign stated lobby 1100pm clerk wore tshirt boxer shorts register teen aged daughters amused neither matter dirty smelled musty wally world buy deodorizer sleep continental breakfast directed guest gutted tables placed inside milk warm 2 types cereal choose trouble buying donuts convenience store corner",
+      "Date": "2012-09-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Tulsa, Oklahoma",
+      "Title": "\u201cExcellent hospitality\u201d",
+      "Author": "Donna S",
+      "ReviewID": "UR134319513",
+      "Content": "coming branson friends ours stayed convention recommended knights inn it\u2019s location convenient major city routes plenty restaurants walking distance easier husband drive nice size handicapped son family shared adjoining staff pleasant caring willing provided service breakfast set it\u2019s furniture impressed hospitality service coming motel return branson christmas donna smith",
+      "Date": "2012-07-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Knights Inn & Suites",
+    "HotelURL": "/ShowUserReviews-g44160-d226654-Reviews-Knights_Inn_Suites-Branson_Missouri.html",
+    "Price": "$52 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3775 West Highway 76</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>",
+    "HotelID": "226654",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/53/75/53755f877bb5ef8ad01e44552833d48643large.jpg"
+  }
+}

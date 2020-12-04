@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Brussels, Belgium", "Title": "\u201cClean, modern, good service\u201d", "Author": "Lillian-Melbourne", "ReviewID": "UR122752234", "Content": "time ive spent hotel versailles summer time winter times extremely happy hotel pros location accessible lots buses termini train station st peters center clean modern furnishings warm blankets heaterac hot water bathroom helpful english speaking staff selection hotel reception free wifi throughout hotel cons centre rome stay centre youd pay lot arent lot restaurantsshops near pop slice pizza example probably catch bus decent restaurant breakfast provided noisy street traffic slept probably exhausted definately stay time im rome", "Date": "2012-01-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Ann ARbor", "Title": "\u201cNice Hotel, Great Location\u201d", "Author": "Pruitt M", "ReviewID": "UR121102091", "Content": "hotel located 5 minute walk borghese gardens museum clean quiet window traffic noise street locals headed morning window closed ac fan quiet comfortable staff friendly helpful directions suggestions nearby cafes bus lines arranged taxi time head airport nice bar cafe block served fresh fruit pastry hot coffee prior arrival suggest taking street view look location internet map little easier look black doors termini station 15 minutes walking cab lot luggage price services", "Date": "2011-11-27 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Houston, Texas", "Title": "\u201cExcellent Hotel\u201d", "Author": "stacigu", "ReviewID": "UR107998734", "Content": "hotel excellent clean staff nice free wifi close restaurants close bus stop isnt close attractions window noisy close noise gone arrived checkin held bags extremely helpful", "Date": "2011-05-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Vancouver", "Title": "\u201cFantastic gem of a hotel\u201d", "Author": "JJETSETTER", "ReviewID": "UR84510377", "Content": "stay 3 nights imperial style building impressive entrance charming tiny elevator location short walk park rome villa borghese staff super friendly adequate english recently renovated modern business hotel tv english channels windows provided sound proofing free wifi included nearby caffe corner north hotel sumptuous extremely reasonable buffets 3 times day wines vibe night", "Date": "2010-10-23 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "pijnacker", "Title": "\u201cnice hideaway\u201d", "Author": "Vakantiegangers4", "ReviewID": "UR82942801", "Content": "seen photos internet hotel versailles rome price tempting booked nights wre advice bed nice bathroom family al sorts information neighbourhood neighbourhood nice pizzerias en restaurants corso ditalia busy cars book hotel", "Date": "2010-10-11 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 2.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Brussels, Belgium", "Title": "\u201cGood hotel for the independent traveller\u201d", "Author": "Lillian-Melbourne", "ReviewID": "UR81440600", "Content": "stayed five nights september 2010 booked wotif paid single arrival reception record booking manager extremely apologetic called hotels try eventually luck swapping upgraded double fifth floor clean bathroom modern clean hair dryer shower takes 7 minutes hot street noise insulated window closed quiet wall wall insulation terrible night hear using bathroom awoke times banging doors couple door due poor sound insulation woken mornings love negative hotel manager friendly helpful isnt lot tourist information isnt pass reception leave building dont feel convenient stop questions check pretty leave check independent traveller family arent information isnt ideal hotel versailles hard time building signage clue little name tag buzzer front door pros location 4 min bus termini station worth price mind discount booking wotif mentioned upgraded clean modern comfortable bed street noise air conditioning modern tv cable tv english channel fridge safe free unlimited fast wifi friendly staff elevator restaurants close metres taxi rank cons bad sound insulation breakfast lack tourist information", "Date": "2010-09-29 00:00:00"}], "HotelInfo": {"Name": "Hotel Versailles", "HotelURL": "/ShowUserReviews-g187791-d635127-Reviews-Hotel_Versailles-Rome_Lazio.html", "Price": "$70 - $1,310*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Corso d'Italia 92</span>, <span class=\"locality\"><span property=\"v:postal-code\">00198</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "635127", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/6e/ba/69/double-room-camera-doppia.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Brussels, Belgium",
+      "Title": "\u201cClean, modern, good service\u201d",
+      "Author": "Lillian-Melbourne",
+      "ReviewID": "UR122752234",
+      "Content": "time ive spent hotel versailles summer time winter times extremely happy hotel pros location accessible lots buses termini train station st peters center clean modern furnishings warm blankets heaterac hot water bathroom helpful english speaking staff selection hotel reception free wifi throughout hotel cons centre rome stay centre youd pay lot arent lot restaurantsshops near pop slice pizza example probably catch bus decent restaurant breakfast provided noisy street traffic slept probably exhausted definately stay time im rome",
+      "Date": "2012-01-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ann ARbor",
+      "Title": "\u201cNice Hotel, Great Location\u201d",
+      "Author": "Pruitt M",
+      "ReviewID": "UR121102091",
+      "Content": "hotel located 5 minute walk borghese gardens museum clean quiet window traffic noise street locals headed morning window closed ac fan quiet comfortable staff friendly helpful directions suggestions nearby cafes bus lines arranged taxi time head airport nice bar cafe block served fresh fruit pastry hot coffee prior arrival suggest taking street view look location internet map little easier look black doors termini station 15 minutes walking cab lot luggage price services",
+      "Date": "2011-11-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Houston, Texas",
+      "Title": "\u201cExcellent Hotel\u201d",
+      "Author": "stacigu",
+      "ReviewID": "UR107998734",
+      "Content": "hotel excellent clean staff nice free wifi close restaurants close bus stop isnt close attractions window noisy close noise gone arrived checkin held bags extremely helpful",
+      "Date": "2011-05-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Vancouver",
+      "Title": "\u201cFantastic gem of a hotel\u201d",
+      "Author": "JJETSETTER",
+      "ReviewID": "UR84510377",
+      "Content": "stay 3 nights imperial style building impressive entrance charming tiny elevator location short walk park rome villa borghese staff super friendly adequate english recently renovated modern business hotel tv english channels windows provided sound proofing free wifi included nearby caffe corner north hotel sumptuous extremely reasonable buffets 3 times day wines vibe night",
+      "Date": "2010-10-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "pijnacker",
+      "Title": "\u201cnice hideaway\u201d",
+      "Author": "Vakantiegangers4",
+      "ReviewID": "UR82942801",
+      "Content": "seen photos internet hotel versailles rome price tempting booked nights wre advice bed nice bathroom family al sorts information neighbourhood neighbourhood nice pizzerias en restaurants corso ditalia busy cars book hotel",
+      "Date": "2010-10-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Brussels, Belgium",
+      "Title": "\u201cGood hotel for the independent traveller\u201d",
+      "Author": "Lillian-Melbourne",
+      "ReviewID": "UR81440600",
+      "Content": "stayed five nights september 2010 booked wotif paid single arrival reception record booking manager extremely apologetic called hotels try eventually luck swapping upgraded double fifth floor clean bathroom modern clean hair dryer shower takes 7 minutes hot street noise insulated window closed quiet wall wall insulation terrible night hear using bathroom awoke times banging doors couple door due poor sound insulation woken mornings love negative hotel manager friendly helpful isnt lot tourist information isnt pass reception leave building dont feel convenient stop questions check pretty leave check independent traveller family arent information isnt ideal hotel versailles hard time building signage clue little name tag buzzer front door pros location 4 min bus termini station worth price mind discount booking wotif mentioned upgraded clean modern comfortable bed street noise air conditioning modern tv cable tv english channel fridge safe free unlimited fast wifi friendly staff elevator restaurants close metres taxi rank cons bad sound insulation breakfast lack tourist information",
+      "Date": "2010-09-29 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Versailles",
+    "HotelURL": "/ShowUserReviews-g187791-d635127-Reviews-Hotel_Versailles-Rome_Lazio.html",
+    "Price": "$70 - $1,310*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Corso d'Italia 92</span>, <span class=\"locality\"><span property=\"v:postal-code\">00198</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "635127",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/6e/ba/69/double-room-camera-doppia.jpg"
+  }
+}

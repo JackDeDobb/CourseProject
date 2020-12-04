@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Iasi, Romania", "Title": "\u201cGreat choice\u201d", "Author": "Alina M", "ReviewID": "UR126292267", "Content": "rome 5 night pleasure hotel staff nice helped night moved larger clean furniture refrigerator hair dryer free wifi access day clean breakfast continental type croissants coffee milk tea cakes location 10 minutes walk pizza republica metro station 1520 minutes termini touristic maps hotel reception conclusion recommend arent concerned luxury hotels visit city stay decent hotel", "Date": "2012-03-18 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "las vegas", "Title": "\u201cWorst, Terrible -- Not Secured !\u201d", "Author": "carlabebilasvegas", "ReviewID": "UR59027334", "Content": "arrived hotel noon fisrt night sleeping travel las vegas usa violated inside stole money lot stuff thank god daughter woke prevented guy stealing valuable items recommend hotel 2 staffs front desk nice helful", "Date": "2010-03-20 00:00:00"}], "HotelInfo": {"Name": "Hotel Pichierri", "HotelURL": "/ShowUserReviews-g187791-d556983-Reviews-Hotel_Pichierri-Rome_Lazio.html", "Price": "$76 - $1,320*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Flavia 84</span>, <span class=\"locality\"><span property=\"v:postal-code\">00187</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "556983", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/bb/91/bb91d7a60eb0bef54480000c32f07a0c1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Iasi, Romania",
+      "Title": "\u201cGreat choice\u201d",
+      "Author": "Alina M",
+      "ReviewID": "UR126292267",
+      "Content": "rome 5 night pleasure hotel staff nice helped night moved larger clean furniture refrigerator hair dryer free wifi access day clean breakfast continental type croissants coffee milk tea cakes location 10 minutes walk pizza republica metro station 1520 minutes termini touristic maps hotel reception conclusion recommend arent concerned luxury hotels visit city stay decent hotel",
+      "Date": "2012-03-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "las vegas",
+      "Title": "\u201cWorst, Terrible -- Not Secured !\u201d",
+      "Author": "carlabebilasvegas",
+      "ReviewID": "UR59027334",
+      "Content": "arrived hotel noon fisrt night sleeping travel las vegas usa violated inside stole money lot stuff thank god daughter woke prevented guy stealing valuable items recommend hotel 2 staffs front desk nice helful",
+      "Date": "2010-03-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Pichierri",
+    "HotelURL": "/ShowUserReviews-g187791-d556983-Reviews-Hotel_Pichierri-Rome_Lazio.html",
+    "Price": "$76 - $1,320*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Flavia 84</span>, <span class=\"locality\"><span property=\"v:postal-code\">00187</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "556983",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/bb/91/bb91d7a60eb0bef54480000c32f07a0c1large.jpg"
+  }
+}

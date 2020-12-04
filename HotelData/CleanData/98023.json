@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Chicago, Illinois", "Title": "\u201cshould be condemned\u201d", "Author": "unsatisfied35805", "ReviewID": "UR126282959", "Content": "motel condemned checked motel immediately checkedout finding bullet hole window blood splattered box spring mattress motel safe smelled smoke door difficult elbow handle faucet broke water leak ceiling recommend motel", "Date": "2012-03-18 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 4.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Milwaukee, Wisconsin", "Title": "\u201cGross\u201d", "Author": "zshwisconsin", "ReviewID": "UR126203596", "Content": "thank goodness stayed night walked pungent smoke smell hit recently smoked smoking fine bathroom filthy laugh little sanitized protection band placed toilet seat soon lifted seat greeted nasty toilet questionable hairs rim gross visible dirt counter top questionable hairs floor bathroom visible mold ceiling bathroom towels ancient threadbare stained clean means highly recommend staying elsewhere", "Date": "2012-03-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Dublin, Ireland", "Title": "\u201cExcellent staff - poor hotel\u201d", "Author": "jerjerDublin_Ireland", "ReviewID": "UR123271006", "Content": "base review staff top marks ignore dirt hotel motel property located ok arrived bus station beside regard getting impossible public transport arrived left walking 2 mile neighbourhoods didnt trying hotel", "Date": "2012-01-18 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Brisbane, Australia", "Title": "\u201cNeeds security and a lot of maintanance.\u201d", "Author": "zekewolf-11", "ReviewID": "UR120446729", "Content": "motel walk grounds evening suprised running yelling walked lobby thinking ok amazed walked front desk told talk allowed follow corridor money car broken 2 blocks obvious trying distance ourselves confrontation ensued finally left empty handed directed front desk holiday walk waiting car poor sod walk round decided forego walks allowed park grounds follow corridor advertised continental breakfast breakfast except couple rolls doubtful origin gone themthey replaced toast fruit juce containers empty 7am yes fridge death throw wheezed gasped night bath cracked crack covered sealer cockroach wander entertained morning checked bed amused piece wood centre bed supporting ok security reasonably cheap gladly paid else especially breakfast", "Date": "2011-11-11 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Seattle area", "Title": "\u201cBetter than I initially expected\u201d", "Author": "Culture_Lover", "ReviewID": "UR118608633", "Content": "plane landing little rock memphis airport closed storm passed 40minute connection called husband checked hotels near airport found low price decent ratings plane memphis reopened booked hotel envisioning mad scramble memphis bit dismayed originally arrived lobby locked neighborhood comfortable wireless internet near lobby minimal breakfast 5 theres shuttle airport booked reduced rate line airline ok", "Date": "2011-09-26 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Austin, Texas", "Title": "\u201cYes It is Inexpensive\u201d", "Author": "peppertree5706", "ReviewID": "UR107595162", "Content": "memphis inexpensive stay location coldest night winter 16 degrees heat toasty warm ritz carlton expect refrigerator someones elses food am memphis week casinos ms flooded closed am happy knights inn", "Date": "2011-05-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Rogers, Arkansas", "Title": "\u201cCouldn't ask for more\u201d", "Author": "Stormynark", "ReviewID": "UR74630693", "Content": "friend 3 day trip memphis august stayed knights inn airport staying 2 nights cheaper rate hotel clean people friendly helpful 15 mins pool looked chance breakfast special typical rolls cereal eat orange juice coffee drink dont eat breakfast didnt bother friend cereal roll cup coffee refrigerators microwaves micorwave frig kept cokes cold quickly heard 1 airplane night didnt hear notice looking sleep shower price close attractions recommend hotel plan staying", "Date": "2010-08-10 00:00:00"}], "HotelInfo": {"Name": "Knights Inn Airport", "HotelURL": "/ShowUserReviews-g55197-d98023-Reviews-Knights_Inn_Airport-Memphis_Tennessee.html", "Price": "$41 - $51*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2949 Airways Boulevard</span>, <span class=\"locality\"><span property=\"v:locality\">Memphis</span>, <span property=\"v:region\">TN</span> <span property=\"v:postal-code\">38116</span></span> </span> </span> </address>", "HotelID": "98023", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/13/fe/13fe49b6c5a1263e336428d2e0dee7d14large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Chicago, Illinois",
+      "Title": "\u201cshould be condemned\u201d",
+      "Author": "unsatisfied35805",
+      "ReviewID": "UR126282959",
+      "Content": "motel condemned checked motel immediately checkedout finding bullet hole window blood splattered box spring mattress motel safe smelled smoke door difficult elbow handle faucet broke water leak ceiling recommend motel",
+      "Date": "2012-03-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Milwaukee, Wisconsin",
+      "Title": "\u201cGross\u201d",
+      "Author": "zshwisconsin",
+      "ReviewID": "UR126203596",
+      "Content": "thank goodness stayed night walked pungent smoke smell hit recently smoked smoking fine bathroom filthy laugh little sanitized protection band placed toilet seat soon lifted seat greeted nasty toilet questionable hairs rim gross visible dirt counter top questionable hairs floor bathroom visible mold ceiling bathroom towels ancient threadbare stained clean means highly recommend staying elsewhere",
+      "Date": "2012-03-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Dublin, Ireland",
+      "Title": "\u201cExcellent staff - poor hotel\u201d",
+      "Author": "jerjerDublin_Ireland",
+      "ReviewID": "UR123271006",
+      "Content": "base review staff top marks ignore dirt hotel motel property located ok arrived bus station beside regard getting impossible public transport arrived left walking 2 mile neighbourhoods didnt trying hotel",
+      "Date": "2012-01-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Brisbane, Australia",
+      "Title": "\u201cNeeds security and a lot of maintanance.\u201d",
+      "Author": "zekewolf-11",
+      "ReviewID": "UR120446729",
+      "Content": "motel walk grounds evening suprised running yelling walked lobby thinking ok amazed walked front desk told talk allowed follow corridor money car broken 2 blocks obvious trying distance ourselves confrontation ensued finally left empty handed directed front desk holiday walk waiting car poor sod walk round decided forego walks allowed park grounds follow corridor advertised continental breakfast breakfast except couple rolls doubtful origin gone themthey replaced toast fruit juce containers empty 7am yes fridge death throw wheezed gasped night bath cracked crack covered sealer cockroach wander entertained morning checked bed amused piece wood centre bed supporting ok security reasonably cheap gladly paid else especially breakfast",
+      "Date": "2011-11-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Seattle area",
+      "Title": "\u201cBetter than I initially expected\u201d",
+      "Author": "Culture_Lover",
+      "ReviewID": "UR118608633",
+      "Content": "plane landing little rock memphis airport closed storm passed 40minute connection called husband checked hotels near airport found low price decent ratings plane memphis reopened booked hotel envisioning mad scramble memphis bit dismayed originally arrived lobby locked neighborhood comfortable wireless internet near lobby minimal breakfast 5 theres shuttle airport booked reduced rate line airline ok",
+      "Date": "2011-09-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Austin, Texas",
+      "Title": "\u201cYes It is Inexpensive\u201d",
+      "Author": "peppertree5706",
+      "ReviewID": "UR107595162",
+      "Content": "memphis inexpensive stay location coldest night winter 16 degrees heat toasty warm ritz carlton expect refrigerator someones elses food am memphis week casinos ms flooded closed am happy knights inn",
+      "Date": "2011-05-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rogers, Arkansas",
+      "Title": "\u201cCouldn't ask for more\u201d",
+      "Author": "Stormynark",
+      "ReviewID": "UR74630693",
+      "Content": "friend 3 day trip memphis august stayed knights inn airport staying 2 nights cheaper rate hotel clean people friendly helpful 15 mins pool looked chance breakfast special typical rolls cereal eat orange juice coffee drink dont eat breakfast didnt bother friend cereal roll cup coffee refrigerators microwaves micorwave frig kept cokes cold quickly heard 1 airplane night didnt hear notice looking sleep shower price close attractions recommend hotel plan staying",
+      "Date": "2010-08-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Knights Inn Airport",
+    "HotelURL": "/ShowUserReviews-g55197-d98023-Reviews-Knights_Inn_Airport-Memphis_Tennessee.html",
+    "Price": "$41 - $51*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2949 Airways Boulevard</span>, <span class=\"locality\"><span property=\"v:locality\">Memphis</span>, <span property=\"v:region\">TN</span> <span property=\"v:postal-code\">38116</span></span> </span> </span> </address>",
+    "HotelID": "98023",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/13/fe/13fe49b6c5a1263e336428d2e0dee7d14large.jpg"
+  }
+}

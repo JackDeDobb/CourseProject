@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Kaiserslautern, Germany", "Title": "\u201cGreat hotel- very affordable!\u201d", "Author": "Jessica C", "ReviewID": "UR122374067", "Content": "dont discouraged star rating extras missing hotel phone service safe found stay worth staff beyond help figure bus route helped bar breakfast sufficient inexpensive 750 euro breakfast wireless internet", "Date": "2012-01-01 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Budapest, Hungary", "Title": "\u201cSimple, Affordable & Tidy...no Frills\u201d", "Author": "stevenekuhn", "ReviewID": "UR121616302", "Content": "stay berlin hotel location compact organized functional breakfast buffet bad coffee pretty hotel nice business trip days suggest staying vacation reception quickly overloaded due 1 person business hotel receptionist ignore location 10 min walk potsdamer platz 5 min walk minutes hip prenzlauer berg", "Date": "2011-12-11 00:00:00"}], "HotelInfo": {"Name": "Motel One Berlin-Spittelmarkt", "HotelURL": "/ShowUserReviews-g187323-d1946028-Reviews-Motel_One_Berlin_Spittelmarkt-Berlin.html", "Price": "$91 - $137*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Leipziger Strasse 50</span>, <span class=\"locality\"><span property=\"v:postal-code\">10117</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "1946028", "ImgURL": "http://www.venere.com/img/hotel/0/8/7/3/343780/343780.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Kaiserslautern, Germany",
+      "Title": "\u201cGreat hotel- very affordable!\u201d",
+      "Author": "Jessica C",
+      "ReviewID": "UR122374067",
+      "Content": "dont discouraged star rating extras missing hotel phone service safe found stay worth staff beyond help figure bus route helped bar breakfast sufficient inexpensive 750 euro breakfast wireless internet",
+      "Date": "2012-01-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Budapest, Hungary",
+      "Title": "\u201cSimple, Affordable & Tidy...no Frills\u201d",
+      "Author": "stevenekuhn",
+      "ReviewID": "UR121616302",
+      "Content": "stay berlin hotel location compact organized functional breakfast buffet bad coffee pretty hotel nice business trip days suggest staying vacation reception quickly overloaded due 1 person business hotel receptionist ignore location 10 min walk potsdamer platz 5 min walk minutes hip prenzlauer berg",
+      "Date": "2011-12-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Motel One Berlin-Spittelmarkt",
+    "HotelURL": "/ShowUserReviews-g187323-d1946028-Reviews-Motel_One_Berlin_Spittelmarkt-Berlin.html",
+    "Price": "$91 - $137*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Leipziger Strasse 50</span>, <span class=\"locality\"><span property=\"v:postal-code\">10117</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "1946028",
+    "ImgURL": "http://www.venere.com/img/hotel/0/8/7/3/343780/343780.jpg"
+  }
+}

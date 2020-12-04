@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Frankfurt, Germany", "Title": "\u201cGood value for a tight budget - a good alternative to a hostel\u201d", "Author": "Dudel", "ReviewID": "UR124539183", "Content": "paid little hotel worn offers value surprisingly breakfast location unbearable hotel clean untidy germany 8 euro single tight budget looking lay head dont atmosphere hostel option", "Date": "2012-02-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Helsinki", "Title": "\u201cA nice hotel with good breakfast\u201d", "Author": "Tanjuta", "ReviewID": "UR118564201", "Content": "stayed solo traveller hotell september nights stay budget hotel reasonable distance das deutsche oper surroundings elegant due kurfuerstendamm street 5 minutes walk sbahn station savignyplatz friendly reception 2nd floor double 3rd floor keys hotel street corridor steps steep fashion elevator carried persons spacious double extra bed space furniture partly cheap looking bathroom renovated view peaceful courtyard floor noise minor bad smell breakfast nice selection breakfast food stay hotel time main concerning tourist attractions", "Date": "2011-09-25 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Kingsville, Texas", "Title": "\u201cNice Neighborhood - You Get What You Pay For\u201d", "Author": "gabeha", "ReviewID": "UR106002194", "Content": "hotel highend shopping district main street berlin quality neighborhood combined low price inexpensive parking park street hotel street pass 5 euroday cheapest parking berlin breakfast acceptable slightly below average selection type hotel fill nearest public transit station blocks palace museums 15 minute walk zoo 10 minutes found time berlin dont hotel shops restaurants neighborhood spoke russian language desk clerk spoke acceptable amount english people neighborhood ready communicate basics german checking hotel usual european building updated charming character checked smelled overwhelmingly rotting urine slight smell urine size europe inexpensive price little cleaner cobwebs ceilings walls set huge windows courtyard bathrooms looked rennovated average water temperature constantly change shower trend people booked discount website lowest floor hidden hallway upper floor little nicer finish nights sleep fairly comfortable fed morning 13 average hotel cost berlin safe classy neighborhood considered wouldnt choice stay budget", "Date": "2011-04-28 00:00:00"}], "HotelInfo": {"Name": "Hotel Castell", "HotelURL": "/ShowUserReviews-g187323-d615483-Reviews-Hotel_Castell-Berlin.html", "Price": "$66 - $137*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Wielandstrasse 24</span>, <span class=\"locality\"><span property=\"v:postal-code\">10707</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "615483", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c6/c6/c6c6fb02de5c1d5f6efc7350f462e9cc6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Frankfurt, Germany",
+      "Title": "\u201cGood value for a tight budget - a good alternative to a hostel\u201d",
+      "Author": "Dudel",
+      "ReviewID": "UR124539183",
+      "Content": "paid little hotel worn offers value surprisingly breakfast location unbearable hotel clean untidy germany 8 euro single tight budget looking lay head dont atmosphere hostel option",
+      "Date": "2012-02-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Helsinki",
+      "Title": "\u201cA nice hotel with good breakfast\u201d",
+      "Author": "Tanjuta",
+      "ReviewID": "UR118564201",
+      "Content": "stayed solo traveller hotell september nights stay budget hotel reasonable distance das deutsche oper surroundings elegant due kurfuerstendamm street 5 minutes walk sbahn station savignyplatz friendly reception 2nd floor double 3rd floor keys hotel street corridor steps steep fashion elevator carried persons spacious double extra bed space furniture partly cheap looking bathroom renovated view peaceful courtyard floor noise minor bad smell breakfast nice selection breakfast food stay hotel time main concerning tourist attractions",
+      "Date": "2011-09-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Kingsville, Texas",
+      "Title": "\u201cNice Neighborhood - You Get What You Pay For\u201d",
+      "Author": "gabeha",
+      "ReviewID": "UR106002194",
+      "Content": "hotel highend shopping district main street berlin quality neighborhood combined low price inexpensive parking park street hotel street pass 5 euroday cheapest parking berlin breakfast acceptable slightly below average selection type hotel fill nearest public transit station blocks palace museums 15 minute walk zoo 10 minutes found time berlin dont hotel shops restaurants neighborhood spoke russian language desk clerk spoke acceptable amount english people neighborhood ready communicate basics german checking hotel usual european building updated charming character checked smelled overwhelmingly rotting urine slight smell urine size europe inexpensive price little cleaner cobwebs ceilings walls set huge windows courtyard bathrooms looked rennovated average water temperature constantly change shower trend people booked discount website lowest floor hidden hallway upper floor little nicer finish nights sleep fairly comfortable fed morning 13 average hotel cost berlin safe classy neighborhood considered wouldnt choice stay budget",
+      "Date": "2011-04-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Castell",
+    "HotelURL": "/ShowUserReviews-g187323-d615483-Reviews-Hotel_Castell-Berlin.html",
+    "Price": "$66 - $137*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Wielandstrasse 24</span>, <span class=\"locality\"><span property=\"v:postal-code\">10707</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "615483",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c6/c6/c6c6fb02de5c1d5f6efc7350f462e9cc6large.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Edgewater, Maryland", "Title": "\u201cThe Good and the Bad-what a horrible night!\u201d", "Author": "bicycle53", "ReviewID": "UR126159926", "Content": "staff pleasant seeing concrete agree time payment returned staff kindly offered upgrade cottages compensating ours view clean pleasant phone bad saturday night club near cottages played nonstop pounding music 5 am cars motorcycles left 530 slept 930 1 am pounding woke nature experience received night hotel told security guards experience aound cottages cars parked morning stayed hotel impression prevous reviewers read carefully staff left message interview harrowing experience called person hung tried half dozen times left message contact information return call decided write review giving benefit contacting response nice people restaurant desk looking", "Date": "2012-03-15 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Philadelphia, Pennsylvania, United States", "Title": "\u201cDisappointed\u201d", "Author": "RevRuth L", "ReviewID": "UR124040265", "Content": "hotel changed according publicity 900 security guard registrar keys reserved hour wait paid 5 occupied people sounds bad anymore didnt feel safe morning executives leaving secluded romance encounter lovers shame shame shame", "Date": "2012-02-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Philadelphia, Pennsylvania", "Title": "\u201cNice location but needs to be run better....\u201d", "Author": "PhillyRubio", "ReviewID": "UR122009722", "Content": "hotel beautiful scenery week using hotel base explore puerto rico dissapointed cleaned week breakfast included ham cheese sandwich coffee am ok continental breakfast pushing days forgot breakfast altogether planning sleep weekend dont expect rest club playing blasting music 4am staff professional polite clean basic", "Date": "2011-12-22 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "CIdras", "Title": "\u201cOMG\u201d", "Author": "GRATEFUL61", "ReviewID": "UR60850264", "Content": "beds hotel clean personel awesome especially jose chicago pool clean plenty people talk socialize games social activities food provide coffeemaker refrigerator thank treasure island family vacation", "Date": "2010-04-09 00:00:00"}], "HotelInfo": {"Name": "Hotel Treasure Island", "HotelURL": "/ShowUserReviews-g1012437-d1012863-Reviews-Hotel_Treasure_Island-Cidra_Puerto_Rico.html", "Price": "$108 - $141*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Carr. 172 Interior Kilometer 13.5</span> | <span class=\"extended-address\">Barrio. Bayamon</span>, <span class=\"locality\"><span property=\"v:locality\">Cidra</span> <span property=\"v:postal-code\">00739</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>", "HotelID": "1012863", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/f3/49/df/hotel-treasure-island.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Edgewater, Maryland",
+      "Title": "\u201cThe Good and the Bad-what a horrible night!\u201d",
+      "Author": "bicycle53",
+      "ReviewID": "UR126159926",
+      "Content": "staff pleasant seeing concrete agree time payment returned staff kindly offered upgrade cottages compensating ours view clean pleasant phone bad saturday night club near cottages played nonstop pounding music 5 am cars motorcycles left 530 slept 930 1 am pounding woke nature experience received night hotel told security guards experience aound cottages cars parked morning stayed hotel impression prevous reviewers read carefully staff left message interview harrowing experience called person hung tried half dozen times left message contact information return call decided write review giving benefit contacting response nice people restaurant desk looking",
+      "Date": "2012-03-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Philadelphia, Pennsylvania, United States",
+      "Title": "\u201cDisappointed\u201d",
+      "Author": "RevRuth L",
+      "ReviewID": "UR124040265",
+      "Content": "hotel changed according publicity 900 security guard registrar keys reserved hour wait paid 5 occupied people sounds bad anymore didnt feel safe morning executives leaving secluded romance encounter lovers shame shame shame",
+      "Date": "2012-02-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Philadelphia, Pennsylvania",
+      "Title": "\u201cNice location but needs to be run better....\u201d",
+      "Author": "PhillyRubio",
+      "ReviewID": "UR122009722",
+      "Content": "hotel beautiful scenery week using hotel base explore puerto rico dissapointed cleaned week breakfast included ham cheese sandwich coffee am ok continental breakfast pushing days forgot breakfast altogether planning sleep weekend dont expect rest club playing blasting music 4am staff professional polite clean basic",
+      "Date": "2011-12-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "CIdras",
+      "Title": "\u201cOMG\u201d",
+      "Author": "GRATEFUL61",
+      "ReviewID": "UR60850264",
+      "Content": "beds hotel clean personel awesome especially jose chicago pool clean plenty people talk socialize games social activities food provide coffeemaker refrigerator thank treasure island family vacation",
+      "Date": "2010-04-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Treasure Island",
+    "HotelURL": "/ShowUserReviews-g1012437-d1012863-Reviews-Hotel_Treasure_Island-Cidra_Puerto_Rico.html",
+    "Price": "$108 - $141*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Carr. 172 Interior Kilometer 13.5</span> | <span class=\"extended-address\">Barrio. Bayamon</span>, <span class=\"locality\"><span property=\"v:locality\">Cidra</span> <span property=\"v:postal-code\">00739</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>",
+    "HotelID": "1012863",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/f3/49/df/hotel-treasure-island.jpg"
+  }
+}

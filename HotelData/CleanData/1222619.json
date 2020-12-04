@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "", "Title": "\u201cWonderful place and a great exprecience\u201d", "Author": "LxSir", "ReviewID": "UR124737716", "Content": "stayed petit prince coldest period winter canals frozen enjoy wonderful view skating canal tiny incredible experience staying petit prince wonderful indeed mean location hardly apartment nicely designed roomy pretty comfy warm terms climate spirit facilities comprehensive nice fireplace middle living till nespresso variety coffee capsules fridge quality food fresh drinks corteous owner charles charles gem host met managed cover care time stay starting intelligent instructions airport sent prior visit solved quickly effectively recommendations re stay attractions restaurants bars clubs charles whats smart recommendations depending own priorities stay perfect thats motto manages true stay petit prince perfect dreaming coming recommend follow recommendations avoid staying otherwise chance book", "Date": "2012-02-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Lisboa", "Title": "\u201cGreat stay at the Petit Prince\u201d", "Author": "Jorge037", "ReviewID": "UR67474329", "Content": "arrived amsterdam stayed family couple apartments petit prince house apartments suite loft location city couldnt five ten minutes walking amsterdam apartment owner charles tells visit eat etc apartments designed decorated details charles loves apartments ents arrive kitchen food nespresso machine charles special home apple pie makes tours charles help resume stay warm thanks charles", "Date": "2010-06-14 00:00:00"}], "HotelInfo": {"Name": "Petit Prince", "HotelURL": "/ShowUserReviews-g188590-d1222619-Reviews-Petit_Prince-Amsterdam_Noord_Holland.html", "Price": "$365 - $413*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Prinsengracht 232</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1016HE</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>", "HotelID": "1222619", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a9/30/a9303da43eac50d74535be5d15bb352a8large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cWonderful place and a great exprecience\u201d",
+      "Author": "LxSir",
+      "ReviewID": "UR124737716",
+      "Content": "stayed petit prince coldest period winter canals frozen enjoy wonderful view skating canal tiny incredible experience staying petit prince wonderful indeed mean location hardly apartment nicely designed roomy pretty comfy warm terms climate spirit facilities comprehensive nice fireplace middle living till nespresso variety coffee capsules fridge quality food fresh drinks corteous owner charles charles gem host met managed cover care time stay starting intelligent instructions airport sent prior visit solved quickly effectively recommendations re stay attractions restaurants bars clubs charles whats smart recommendations depending own priorities stay perfect thats motto manages true stay petit prince perfect dreaming coming recommend follow recommendations avoid staying otherwise chance book",
+      "Date": "2012-02-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Lisboa",
+      "Title": "\u201cGreat stay at the Petit Prince\u201d",
+      "Author": "Jorge037",
+      "ReviewID": "UR67474329",
+      "Content": "arrived amsterdam stayed family couple apartments petit prince house apartments suite loft location city couldnt five ten minutes walking amsterdam apartment owner charles tells visit eat etc apartments designed decorated details charles loves apartments ents arrive kitchen food nespresso machine charles special home apple pie makes tours charles help resume stay warm thanks charles",
+      "Date": "2010-06-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Petit Prince",
+    "HotelURL": "/ShowUserReviews-g188590-d1222619-Reviews-Petit_Prince-Amsterdam_Noord_Holland.html",
+    "Price": "$365 - $413*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Prinsengracht 232</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1016HE</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>",
+    "HotelID": "1222619",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a9/30/a9303da43eac50d74535be5d15bb352a8large.jpg"
+  }
+}

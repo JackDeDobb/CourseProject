@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "montreal", "Title": "\u201cworst stay here. Never rent from here\u201d", "Author": "Haley e", "ReviewID": "UR126309063", "Content": "friend thursday march 15th coming st patricks parade budget class hotel question found hotel elegant online looked pictures online decent wouldnt gorgeous sleepable anyways story short arrived woman front desk plesent walking looking inspecting time smelt wet carpets beds hard rock extremely hot window terrible stairs vending machine empty refilled 4 days stayed loud people door bang wall cuz wrestling head actually bounced wall building location hotel scarey look dump outside pictures online dont match online blanket feels plastic", "Date": "2012-03-18 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "New York", "Title": "\u201cGreat value! Great location!\u201d", "Author": "caribechick", "ReviewID": "UR121464019", "Content": "5 star hotel rat hole hotel value time montreal 2 blocks rue stecatherine gay village shopping downtown walking distance streets short bad walk close clubs 6 7 blocks 20 min walk vieux montreal montreal coras ihop canada 5 blocks rue ontario straight bars eat block standard queen size bed fridge nice clean bathroom desk staff isnt nice friendly questions answer 5 days 4 nights paid little 300 thats deal dont park street whatever reason people scared live parking actually pretty safe thats including walking hotel 3am slightly buzzed scared car happen accross street parking lot daily 20 corner didnt park day parked street actually avoided paying parking time experience price", "Date": "2011-12-06 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Ottawa, Canada", "Title": "\u201cGood value downtown and dog-friendly too\u201d", "Author": "chasinchelsea", "ReviewID": "UR120472240", "Content": "heard hotel site dont charge pets im totally fed hotels charge ridiculous amounts dog set aside ground floor owners theres hardly blade grass street nice park blocks dog walking stayed night pretty size clean smelled heavily disinfectant arrived mentioned manager day fortunately windows ritz means 87 including taxes garage parking 12 overnight desk clerk duty probably little courteous hotel close bus station noise", "Date": "2011-11-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cDowntown Montreal stay for less\u201d", "Author": "Tom S", "ReviewID": "UR119169473", "Content": "paid 160 taxes twonight stay queensize bed location location location walking montreal shopping fine restaurants dont breakfast coras breakfast 15 kms 20 minute walk hotel wifi slow unless youtube download movies youll internet connection pretty reasonable parking lot paid 21 drive 3 days paying extra 5 minutes hotel lazy walk park street rates wont flexible gf stayed 311 faced townhomes fairly quiet outrageous 3 day 2 night stay wasnt space luggage suitable minimum luggage travelled 1 gym bag 1 pack suit fit bed am gonna bother commenting panhandlers downtown montreal tip 1 cold hot try playing duct ceiling looking actually hvac duct close twisting tip 2 everytime paid stay bargain hotel worth money", "Date": "2011-10-11 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Toronto", "Title": "\u201cYou get what you pay for\u201d", "Author": "NoFixedPlans", "ReviewID": "UR105404355", "Content": "stayed hotel elegant 3 nights easter weekend upside staff friendly location close montreal crescent street shopping st catherine restaurants fine fairly clean breakfast basic coffee tea packaged croissants issue code night reviewers theres desk 24 hours secure parking street 12day complaints morning hot water shower night woken 3 am drunken people hallways coming home bars advertise free internet hotel warned exactly expected 50 night double breakfast cant beat price downtown montreal recommended cheap central sleep leave stuff", "Date": "2011-04-25 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "UK", "Title": "\u201cBook this hotel with caution\u201d", "Author": "LouLufc", "ReviewID": "UR70055781", "Content": "recently stayed hotel elegant montreal formula 1 weekend booked 2 reasons firstly location hotel relation circuit budget hotel ticked boxes short walk metro station 1 tube stop circuit economical time hotel prices city advice choosing hotel booked 3 1 hot basement flea ridden bed third freezing staff reception controlled air con guest staff friendly noisy pipes creaking poor breakfast read reviews hotel carefully book eyes wide", "Date": "2010-07-07 00:00:00"}], "HotelInfo": {"Name": "Hotel Elegant", "HotelURL": "/ShowUserReviews-g155032-d648187-Reviews-Hotel_Elegant-Montreal_Quebec.html", "Price": "$64 - $134*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1683 Rue Saint-Hubert</span>, <span class=\"locality\"><span property=\"v:locality\">Montreal</span>, <span property=\"v:region\">Quebec</span> <span property=\"v:postal-code\">H2L 3Z1</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span></span></address>", "HotelID": "648187", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/3a/b0/fe/hotel-elegant.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "montreal",
+      "Title": "\u201cworst stay here. Never rent from here\u201d",
+      "Author": "Haley e",
+      "ReviewID": "UR126309063",
+      "Content": "friend thursday march 15th coming st patricks parade budget class hotel question found hotel elegant online looked pictures online decent wouldnt gorgeous sleepable anyways story short arrived woman front desk plesent walking looking inspecting time smelt wet carpets beds hard rock extremely hot window terrible stairs vending machine empty refilled 4 days stayed loud people door bang wall cuz wrestling head actually bounced wall building location hotel scarey look dump outside pictures online dont match online blanket feels plastic",
+      "Date": "2012-03-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "New York",
+      "Title": "\u201cGreat value! Great location!\u201d",
+      "Author": "caribechick",
+      "ReviewID": "UR121464019",
+      "Content": "5 star hotel rat hole hotel value time montreal 2 blocks rue stecatherine gay village shopping downtown walking distance streets short bad walk close clubs 6 7 blocks 20 min walk vieux montreal montreal coras ihop canada 5 blocks rue ontario straight bars eat block standard queen size bed fridge nice clean bathroom desk staff isnt nice friendly questions answer 5 days 4 nights paid little 300 thats deal dont park street whatever reason people scared live parking actually pretty safe thats including walking hotel 3am slightly buzzed scared car happen accross street parking lot daily 20 corner didnt park day parked street actually avoided paying parking time experience price",
+      "Date": "2011-12-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Ottawa, Canada",
+      "Title": "\u201cGood value downtown and dog-friendly too\u201d",
+      "Author": "chasinchelsea",
+      "ReviewID": "UR120472240",
+      "Content": "heard hotel site dont charge pets im totally fed hotels charge ridiculous amounts dog set aside ground floor owners theres hardly blade grass street nice park blocks dog walking stayed night pretty size clean smelled heavily disinfectant arrived mentioned manager day fortunately windows ritz means 87 including taxes garage parking 12 overnight desk clerk duty probably little courteous hotel close bus station noise",
+      "Date": "2011-11-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cDowntown Montreal stay for less\u201d",
+      "Author": "Tom S",
+      "ReviewID": "UR119169473",
+      "Content": "paid 160 taxes twonight stay queensize bed location location location walking montreal shopping fine restaurants dont breakfast coras breakfast 15 kms 20 minute walk hotel wifi slow unless youtube download movies youll internet connection pretty reasonable parking lot paid 21 drive 3 days paying extra 5 minutes hotel lazy walk park street rates wont flexible gf stayed 311 faced townhomes fairly quiet outrageous 3 day 2 night stay wasnt space luggage suitable minimum luggage travelled 1 gym bag 1 pack suit fit bed am gonna bother commenting panhandlers downtown montreal tip 1 cold hot try playing duct ceiling looking actually hvac duct close twisting tip 2 everytime paid stay bargain hotel worth money",
+      "Date": "2011-10-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Toronto",
+      "Title": "\u201cYou get what you pay for\u201d",
+      "Author": "NoFixedPlans",
+      "ReviewID": "UR105404355",
+      "Content": "stayed hotel elegant 3 nights easter weekend upside staff friendly location close montreal crescent street shopping st catherine restaurants fine fairly clean breakfast basic coffee tea packaged croissants issue code night reviewers theres desk 24 hours secure parking street 12day complaints morning hot water shower night woken 3 am drunken people hallways coming home bars advertise free internet hotel warned exactly expected 50 night double breakfast cant beat price downtown montreal recommended cheap central sleep leave stuff",
+      "Date": "2011-04-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "UK",
+      "Title": "\u201cBook this hotel with caution\u201d",
+      "Author": "LouLufc",
+      "ReviewID": "UR70055781",
+      "Content": "recently stayed hotel elegant montreal formula 1 weekend booked 2 reasons firstly location hotel relation circuit budget hotel ticked boxes short walk metro station 1 tube stop circuit economical time hotel prices city advice choosing hotel booked 3 1 hot basement flea ridden bed third freezing staff reception controlled air con guest staff friendly noisy pipes creaking poor breakfast read reviews hotel carefully book eyes wide",
+      "Date": "2010-07-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Elegant",
+    "HotelURL": "/ShowUserReviews-g155032-d648187-Reviews-Hotel_Elegant-Montreal_Quebec.html",
+    "Price": "$64 - $134*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1683 Rue Saint-Hubert</span>, <span class=\"locality\"><span property=\"v:locality\">Montreal</span>, <span property=\"v:region\">Quebec</span> <span property=\"v:postal-code\">H2L 3Z1</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span></span></address>",
+    "HotelID": "648187",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/3a/b0/fe/hotel-elegant.jpg"
+  }
+}

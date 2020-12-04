@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Worcester, United Kingdom", "Title": "\u201cAbove average - Good for couples or groups but would be wary if you are female travelling alone.\u201d", "Author": "Clare H", "ReviewID": "UR125574580", "Content": "hotel location mtr walking access harbour tourist attractions nathan road staff friendly clean woman travelling hotel reception floor access hotel ground floor security locked doors entrance access hotel outside locked door chain hotel value money slightly doesnt matter time", "Date": "2012-03-03 00:00:00"}], "HotelInfo": {"Name": "Chelsea Hotel", "HotelURL": "/ShowUserReviews-g294217-d1868184-Reviews-Chelsea_Hotel-Hong_Kong.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">8A Hanoi Road, Tsim Sha Tsui, Kowloon</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>", "HotelID": "1868184", "ImgURL": "http://media-cdn.tripadvisor.com/media/daodao/photo-s/01/a9/bd/3f/caption.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Worcester, United Kingdom",
+      "Title": "\u201cAbove average - Good for couples or groups but would be wary if you are female travelling alone.\u201d",
+      "Author": "Clare H",
+      "ReviewID": "UR125574580",
+      "Content": "hotel location mtr walking access harbour tourist attractions nathan road staff friendly clean woman travelling hotel reception floor access hotel ground floor security locked doors entrance access hotel outside locked door chain hotel value money slightly doesnt matter time",
+      "Date": "2012-03-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Chelsea Hotel",
+    "HotelURL": "/ShowUserReviews-g294217-d1868184-Reviews-Chelsea_Hotel-Hong_Kong.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">8A Hanoi Road, Tsim Sha Tsui, Kowloon</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>",
+    "HotelID": "1868184",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/daodao/photo-s/01/a9/bd/3f/caption.jpg"
+  }
+}

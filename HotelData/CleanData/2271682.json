@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cProbably, the highest quality in town for the price I paid...\u201d", "Author": "aaron l", "ReviewID": "UR121869642", "Content": "istanbul 1015 times business past stay hotels 40 hotels located business trip try decided stay emerald hotel havent seen learned brand impressed service quality affordable rates am planning stay future business trips", "Date": "2011-12-18 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Los Angeles, CA", "Title": "\u201cEmerald hotel is overrated, terrible wi-fi, better options nearby\u201d", "Author": "lola8448", "ReviewID": "UR121563736", "Content": "stayed emerald hotel 2 nights recent sightseeing trip istanbul hotel located near taksim square metro particularly pedestrian taxi friendly cheaper cleaner surrounding hotels immediate vicinity discovered numerous cheaper options nicer locations blocks pera district photos website pretty accurate dont dreary view convey isolated atmosphere hotel cater traveling arab businessmen television offered 15 channels arab porn mecca channel mecca time handful englishspeaking channels staff helpful friendly oily didnt offer help wifi wasnt staff spoke limited english offer assistance directions etc basic communications okay despite requesting nonsmoking periodically stuff towels door prevent smoke coming lobby below linens key stationery panorama suites hotel emerald hotel caused momentary confusion pulled key instructing taxi driver didnt recognize name shower mildew istanbul hotel completely renovated am didnt failing fairly clean notice surfaces werent clean wash coffee cups sink using main gripe hotel besides breakfast ridiculously annoying useless wireless internet access guest obtain own log password challenge depending staff log 30 bad virtually unusable night visit front desk times finally access wifi additional password decipher staffs writing twice account ones issued didnt dont people using internet main reason prompted search hotel using wifi coffee shop course grateful found hotel location slightly price breakfast looked photos inedible wilted tired unappetizing eggs rubbery cheese crusty bread stale juices fake watered service cook spoke little english undoubtedly service hotel bottom line recommend staying pera district instead blocks scenic close proximity shops cafes istiklal street comparable prices", "Date": "2011-12-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Coventry, United Kingdom", "Title": "\u201cThe Perfect Holiday\u201d", "Author": "Erkan_K", "ReviewID": "UR118885614", "Content": "minute arrived attentive staff ensured stay memorable allowed checkin free upgrade wedding anniversary complimentary flowers fruit hand written card delivered hand crafted dessert platter spacious spotlessly clean towels changed whilst evening day arrival fourth floor perfect view taxim quiet marks", "Date": "2011-10-03 00:00:00"}], "HotelInfo": {"Name": "Emerald Hotel", "HotelURL": "/ShowUserReviews-g293974-d2271682-Reviews-Emerald_Hotel-Istanbul.html", "Price": "$100 - $263*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Taksim Caddesi No:45</span> | <span class=\"extended-address\">Beyoglu</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34437</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> (Formerly Panorama Suites Hotel )</span></span></address>", "HotelID": "2271682", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/26/03/9a/getlstd-property-photo.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cProbably, the highest quality in town for the price I paid...\u201d",
+      "Author": "aaron l",
+      "ReviewID": "UR121869642",
+      "Content": "istanbul 1015 times business past stay hotels 40 hotels located business trip try decided stay emerald hotel havent seen learned brand impressed service quality affordable rates am planning stay future business trips",
+      "Date": "2011-12-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Los Angeles, CA",
+      "Title": "\u201cEmerald hotel is overrated, terrible wi-fi, better options nearby\u201d",
+      "Author": "lola8448",
+      "ReviewID": "UR121563736",
+      "Content": "stayed emerald hotel 2 nights recent sightseeing trip istanbul hotel located near taksim square metro particularly pedestrian taxi friendly cheaper cleaner surrounding hotels immediate vicinity discovered numerous cheaper options nicer locations blocks pera district photos website pretty accurate dont dreary view convey isolated atmosphere hotel cater traveling arab businessmen television offered 15 channels arab porn mecca channel mecca time handful englishspeaking channels staff helpful friendly oily didnt offer help wifi wasnt staff spoke limited english offer assistance directions etc basic communications okay despite requesting nonsmoking periodically stuff towels door prevent smoke coming lobby below linens key stationery panorama suites hotel emerald hotel caused momentary confusion pulled key instructing taxi driver didnt recognize name shower mildew istanbul hotel completely renovated am didnt failing fairly clean notice surfaces werent clean wash coffee cups sink using main gripe hotel besides breakfast ridiculously annoying useless wireless internet access guest obtain own log password challenge depending staff log 30 bad virtually unusable night visit front desk times finally access wifi additional password decipher staffs writing twice account ones issued didnt dont people using internet main reason prompted search hotel using wifi coffee shop course grateful found hotel location slightly price breakfast looked photos inedible wilted tired unappetizing eggs rubbery cheese crusty bread stale juices fake watered service cook spoke little english undoubtedly service hotel bottom line recommend staying pera district instead blocks scenic close proximity shops cafes istiklal street comparable prices",
+      "Date": "2011-12-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Coventry, United Kingdom",
+      "Title": "\u201cThe Perfect Holiday\u201d",
+      "Author": "Erkan_K",
+      "ReviewID": "UR118885614",
+      "Content": "minute arrived attentive staff ensured stay memorable allowed checkin free upgrade wedding anniversary complimentary flowers fruit hand written card delivered hand crafted dessert platter spacious spotlessly clean towels changed whilst evening day arrival fourth floor perfect view taxim quiet marks",
+      "Date": "2011-10-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Emerald Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d2271682-Reviews-Emerald_Hotel-Istanbul.html",
+    "Price": "$100 - $263*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Taksim Caddesi No:45</span> | <span class=\"extended-address\">Beyoglu</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34437</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> (Formerly Panorama Suites Hotel )</span></span></address>",
+    "HotelID": "2271682",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/26/03/9a/getlstd-property-photo.jpg"
+  }
+}

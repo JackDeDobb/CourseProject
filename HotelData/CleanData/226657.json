@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "North Miami, Oklahoma, United States", "Title": "\u201cStay Away.....\u201d", "Author": "Katie P", "ReviewID": "UR134101973", "Content": "air didnt husband woke guy checking told guy tried complaints husband told woke pack husband air condition noticed springs noticed springs im dark brown color husband told air condition hardly blowing air wasnt front desk told air doing 2nd husband getting mad paid 2 nights told guy refund hot stay paid 11000 guy refunds wait morning refund 2nd night ahead tried 3rd air finally couldnt worse morning shower water hardly warm able wash hair body time ready shave legs water freezing oh forget dead bug top shower connects wall tell told guy front desk water cold taking showers save money else", "Date": "2012-07-11 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Illinois", "Title": "\u201cPlain Motel, Excellent Location, Economical\u201d", "Author": "JnR2", "ReviewID": "UR88341860", "Content": "stayed holiday weekend nonsmoking beds typical motel furnishings bathroom tv reserved lodging 2 1 2 nights 70 location south walmart easy access staff friendly skipped continental breakfast experience issues stated reviews choice price wed stay deal plush sleep", "Date": "2010-11-27 00:00:00"}], "HotelInfo": {"Name": "Peach Tree Inn", "HotelURL": "/ShowUserReviews-g44160-d226657-Reviews-Peach_Tree_Inn-Branson_Missouri.html", "Price": "$43 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2450 Green Mountain Drive</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>", "HotelID": "226657", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c1/25/c1253b6fe55839436b86451cf1e200cd1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "North Miami, Oklahoma, United States",
+      "Title": "\u201cStay Away.....\u201d",
+      "Author": "Katie P",
+      "ReviewID": "UR134101973",
+      "Content": "air didnt husband woke guy checking told guy tried complaints husband told woke pack husband air condition noticed springs noticed springs im dark brown color husband told air condition hardly blowing air wasnt front desk told air doing 2nd husband getting mad paid 2 nights told guy refund hot stay paid 11000 guy refunds wait morning refund 2nd night ahead tried 3rd air finally couldnt worse morning shower water hardly warm able wash hair body time ready shave legs water freezing oh forget dead bug top shower connects wall tell told guy front desk water cold taking showers save money else",
+      "Date": "2012-07-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Illinois",
+      "Title": "\u201cPlain Motel, Excellent Location, Economical\u201d",
+      "Author": "JnR2",
+      "ReviewID": "UR88341860",
+      "Content": "stayed holiday weekend nonsmoking beds typical motel furnishings bathroom tv reserved lodging 2 1 2 nights 70 location south walmart easy access staff friendly skipped continental breakfast experience issues stated reviews choice price wed stay deal plush sleep",
+      "Date": "2010-11-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Peach Tree Inn",
+    "HotelURL": "/ShowUserReviews-g44160-d226657-Reviews-Peach_Tree_Inn-Branson_Missouri.html",
+    "Price": "$43 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2450 Green Mountain Drive</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>",
+    "HotelID": "226657",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c1/25/c1253b6fe55839436b86451cf1e200cd1large.jpg"
+  }
+}

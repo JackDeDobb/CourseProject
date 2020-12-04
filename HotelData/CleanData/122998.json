@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Seattle, Washington", "Title": "\u201can inch away from filthy flop house\u201d", "Author": "mary b", "ReviewID": "UR126056129", "Content": "ive stayed college inn times experience gradually gone pretty horrible stayed weeks ago insisted money ive bad arrived 1000 clerk met door shoved key hand left night consequently wasnt able online code wasnt correct information wasnt clerk furniture quality goodwill reject send landfill im exaggerating morning coffee lukewarm awful usual past feature willing packing leave looking forward realized stepping condom lying beside bed gross called manager left message hear", "Date": "2012-03-13 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "vancouver", "Title": "\u201cGood value for the price\u201d", "Author": "mcneicerachel", "ReviewID": "UR118458118", "Content": "hotel stay planning hanging seattles university district concert hotels location ideal lots restaurants bars hotel cleanthe appointed floor share common washrooms definite minus breakfast upstairs morning hotel suits purpose stay spending time university district trips downtown seattle recommend", "Date": "2011-09-22 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Seattle, Washington", "Title": "\u201cI wish we had booked ALL of our nights in Seattle here!\u201d", "Author": "saramac610", "ReviewID": "UR85281948", "Content": "scared booked couple nights check school city phd program phrase communal bathrooms doesnt inspire lot confidence staying barebones college dorms wrong hugewe corner queen beds plenty windows charming cozy bed linens real comforters fluffy pillows towels terrycloth robes holy smokes sink walked feet bathrooms community bathrooms divided gender person guy yes apparently theres guy runs clean breakfast delicious easy walk district tons cheap ethnic restaurants coffee espresso shops shake stick plenty funky shops american apparel gag told wished faith college inn booked third night instead ramada downtown course stayed downtown night discovered crumpet shop near pike save yourself cash downtown hotel stay college inn bus downtown crumpet shop", "Date": "2010-10-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Seattle, Washington", "Title": "\u201cExcellent location for Huskie games\u201d", "Author": "henry10152001", "ReviewID": "UR83829834", "Content": "clean comfortable easy walk husky stadium pub downstairs breakfast morning ample free wireless bathrooms hall clean parking free options gentlemen morning friendly", "Date": "2010-10-17 00:00:00"}], "HotelInfo": {"Name": "The College Inn", "HotelURL": "/ShowUserReviews-g60878-d122998-Reviews-The_College_Inn-Seattle_Washington.html", "Price": "$66 - $84*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4000 University Way NE</span>, <span class=\"locality\"><span property=\"v:locality\">Seattle</span>, <span property=\"v:region\">WA</span> <span property=\"v:postal-code\">98105</span></span> </span> </span> </address>", "HotelID": "122998", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fa/03/fa03ed65b4af21225c32dfc0dd7be7085large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Seattle, Washington",
+      "Title": "\u201can inch away from filthy flop house\u201d",
+      "Author": "mary b",
+      "ReviewID": "UR126056129",
+      "Content": "ive stayed college inn times experience gradually gone pretty horrible stayed weeks ago insisted money ive bad arrived 1000 clerk met door shoved key hand left night consequently wasnt able online code wasnt correct information wasnt clerk furniture quality goodwill reject send landfill im exaggerating morning coffee lukewarm awful usual past feature willing packing leave looking forward realized stepping condom lying beside bed gross called manager left message hear",
+      "Date": "2012-03-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "vancouver",
+      "Title": "\u201cGood value for the price\u201d",
+      "Author": "mcneicerachel",
+      "ReviewID": "UR118458118",
+      "Content": "hotel stay planning hanging seattles university district concert hotels location ideal lots restaurants bars hotel cleanthe appointed floor share common washrooms definite minus breakfast upstairs morning hotel suits purpose stay spending time university district trips downtown seattle recommend",
+      "Date": "2011-09-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Seattle, Washington",
+      "Title": "\u201cI wish we had booked ALL of our nights in Seattle here!\u201d",
+      "Author": "saramac610",
+      "ReviewID": "UR85281948",
+      "Content": "scared booked couple nights check school city phd program phrase communal bathrooms doesnt inspire lot confidence staying barebones college dorms wrong hugewe corner queen beds plenty windows charming cozy bed linens real comforters fluffy pillows towels terrycloth robes holy smokes sink walked feet bathrooms community bathrooms divided gender person guy yes apparently theres guy runs clean breakfast delicious easy walk district tons cheap ethnic restaurants coffee espresso shops shake stick plenty funky shops american apparel gag told wished faith college inn booked third night instead ramada downtown course stayed downtown night discovered crumpet shop near pike save yourself cash downtown hotel stay college inn bus downtown crumpet shop",
+      "Date": "2010-10-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Seattle, Washington",
+      "Title": "\u201cExcellent location for Huskie games\u201d",
+      "Author": "henry10152001",
+      "ReviewID": "UR83829834",
+      "Content": "clean comfortable easy walk husky stadium pub downstairs breakfast morning ample free wireless bathrooms hall clean parking free options gentlemen morning friendly",
+      "Date": "2010-10-17 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "The College Inn",
+    "HotelURL": "/ShowUserReviews-g60878-d122998-Reviews-The_College_Inn-Seattle_Washington.html",
+    "Price": "$66 - $84*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4000 University Way NE</span>, <span class=\"locality\"><span property=\"v:locality\">Seattle</span>, <span property=\"v:region\">WA</span> <span property=\"v:postal-code\">98105</span></span> </span> </span> </address>",
+    "HotelID": "122998",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fa/03/fa03ed65b4af21225c32dfc0dd7be7085large.jpg"
+  }
+}

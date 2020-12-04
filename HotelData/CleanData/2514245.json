@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "london", "Title": "\u201cVery Dissappointing\u201d", "Author": "Traveller354", "ReviewID": "UR123351152", "Content": "dont stay stayed apartment 17 superior apartment 6 people living seated 3 4 push person kitchen time couldnt equipment door advanced bookings pay 40 street guests management guests customer service care inhumane stay", "Date": "2012-01-20 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cAverage stay\u201d", "Author": "Jac N", "ReviewID": "UR120457042", "Content": "recently stayed 6 days family pretty average arrived 3 children 3 adults help unloading etc whilst unit designed management unwelcoming unhelpful plumbing terrible sounds fridge didnt whilst looked clean curtains dirty overall amount paid recommend staff nice owners didnt care guests pretty slack response requests food feeding 6 people pretty", "Date": "2011-11-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Seattle, Washington", "Title": "\u201cEXCELLENT London Property!!!\u201d", "Author": "TaylorMae", "ReviewID": "UR119153806", "Content": "own reservations posting review fear positive reviews incredible property rent apartment honesty tell incredible opportunity enjoy london comforts apartments head shoulders hotel apartment options stay decide whatever breakfast versus chose menu try fit else offers buffet provides frying pans six quart pans criteria safe clean exceeding issues located near modes public transportation tell apartments insulated street noise bothering", "Date": "2011-10-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Brisbane, Australia", "Title": "\u201cSpacious apartments, convenient location and excellent service!\u201d", "Author": "Michael L", "ReviewID": "UR119140211", "Content": "family 5 stayed nights 3 times 4 weeks loved london base europe trip kept coming value apartment modern cozy equipped kitchen helpful family feed marks spencer 2 minute walk road tasting meals prepared dinner dining table pretending cooked food ourselves 16 bus outside apartments takes straight victoria station metro underground short walk apartment probably service front desk 247 help luggage actually kept suitcases paris via eurostar train fee definitely staying 4th time future", "Date": "2011-10-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Los Angeles, California", "Title": "\u201cFantastic stay\u201d", "Author": "sleepygiraffe4", "ReviewID": "UR92226789", "Content": "try apartment hotel weeklong vacation london wonderful experience definitely returning outside central london zone 2 travel quick easy bus stop bus lines located outside front door kilburn park tube station bakerloo line minute walk corner overground stop block street trains experiencing delays kept bus tube staff helpful professional friendly stay pleasant checkin checkout easy morning departure living bedroom spacious compared space youd london hotel free highspeed internet cable connection cable feet connected tv laptop restricted somewhat kitchen beautiful wellstocked cooking quick meals quantity dish soap laundry soap provided purchase extra necessities tesco express doors ms food sainsburys blocks overall wonderful experience highly recommend", "Date": "2011-01-08 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Victoria, Canada", "Title": "\u201ca very enjoyable stay\u201d", "Author": "AliceWilson", "ReviewID": "UR90268503", "Content": "booking hotel london read internet looking mandatory items free internet kitchen space else left chance peoples reviews read internet stay hotel forever front door hotels thousand nervous staying rented owner term stays pleased hotel looked dirtiest hotels \u2026 concerned pictures versus real life suite looked real life website suite kitchen equipped clean bathroom nice mixture marble staff nice location maybe bit actual downtown london initially glad quiet time stayed london time ago noisy quiet london forgot tiny city actually hotel close tube station easy downtown repaired washing machine drain fixed reviewer commented perfumey sprays hall wish hotels stopped using perfume sprays stay priced comfortable hotel sleep close shopping starbucks tube train front desk helpful pleasant left ourselves relaxing experience staying hotel lucked picking hotel", "Date": "2010-12-20 00:00:00"}], "HotelInfo": {"Name": "Sanctum Apartment London Hotel", "HotelURL": "/ShowUserReviews-g186338-d633733-Reviews-Sanctum_Apartment_London_Hotel-London_England.html", "Price": "$226 - $949*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1 Greville Rd</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">NW6 5HA</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>", "HotelID": "2514245", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/76/b3/76b3793c41fa938b787f0f5cb282a04f4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "london",
+      "Title": "\u201cVery Dissappointing\u201d",
+      "Author": "Traveller354",
+      "ReviewID": "UR123351152",
+      "Content": "dont stay stayed apartment 17 superior apartment 6 people living seated 3 4 push person kitchen time couldnt equipment door advanced bookings pay 40 street guests management guests customer service care inhumane stay",
+      "Date": "2012-01-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cAverage stay\u201d",
+      "Author": "Jac N",
+      "ReviewID": "UR120457042",
+      "Content": "recently stayed 6 days family pretty average arrived 3 children 3 adults help unloading etc whilst unit designed management unwelcoming unhelpful plumbing terrible sounds fridge didnt whilst looked clean curtains dirty overall amount paid recommend staff nice owners didnt care guests pretty slack response requests food feeding 6 people pretty",
+      "Date": "2011-11-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Seattle, Washington",
+      "Title": "\u201cEXCELLENT London Property!!!\u201d",
+      "Author": "TaylorMae",
+      "ReviewID": "UR119153806",
+      "Content": "own reservations posting review fear positive reviews incredible property rent apartment honesty tell incredible opportunity enjoy london comforts apartments head shoulders hotel apartment options stay decide whatever breakfast versus chose menu try fit else offers buffet provides frying pans six quart pans criteria safe clean exceeding issues located near modes public transportation tell apartments insulated street noise bothering",
+      "Date": "2011-10-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Brisbane, Australia",
+      "Title": "\u201cSpacious apartments, convenient location and excellent service!\u201d",
+      "Author": "Michael L",
+      "ReviewID": "UR119140211",
+      "Content": "family 5 stayed nights 3 times 4 weeks loved london base europe trip kept coming value apartment modern cozy equipped kitchen helpful family feed marks spencer 2 minute walk road tasting meals prepared dinner dining table pretending cooked food ourselves 16 bus outside apartments takes straight victoria station metro underground short walk apartment probably service front desk 247 help luggage actually kept suitcases paris via eurostar train fee definitely staying 4th time future",
+      "Date": "2011-10-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Los Angeles, California",
+      "Title": "\u201cFantastic stay\u201d",
+      "Author": "sleepygiraffe4",
+      "ReviewID": "UR92226789",
+      "Content": "try apartment hotel weeklong vacation london wonderful experience definitely returning outside central london zone 2 travel quick easy bus stop bus lines located outside front door kilburn park tube station bakerloo line minute walk corner overground stop block street trains experiencing delays kept bus tube staff helpful professional friendly stay pleasant checkin checkout easy morning departure living bedroom spacious compared space youd london hotel free highspeed internet cable connection cable feet connected tv laptop restricted somewhat kitchen beautiful wellstocked cooking quick meals quantity dish soap laundry soap provided purchase extra necessities tesco express doors ms food sainsburys blocks overall wonderful experience highly recommend",
+      "Date": "2011-01-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Victoria, Canada",
+      "Title": "\u201ca very enjoyable stay\u201d",
+      "Author": "AliceWilson",
+      "ReviewID": "UR90268503",
+      "Content": "booking hotel london read internet looking mandatory items free internet kitchen space else left chance peoples reviews read internet stay hotel forever front door hotels thousand nervous staying rented owner term stays pleased hotel looked dirtiest hotels \u2026 concerned pictures versus real life suite looked real life website suite kitchen equipped clean bathroom nice mixture marble staff nice location maybe bit actual downtown london initially glad quiet time stayed london time ago noisy quiet london forgot tiny city actually hotel close tube station easy downtown repaired washing machine drain fixed reviewer commented perfumey sprays hall wish hotels stopped using perfume sprays stay priced comfortable hotel sleep close shopping starbucks tube train front desk helpful pleasant left ourselves relaxing experience staying hotel lucked picking hotel",
+      "Date": "2010-12-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Sanctum Apartment London Hotel",
+    "HotelURL": "/ShowUserReviews-g186338-d633733-Reviews-Sanctum_Apartment_London_Hotel-London_England.html",
+    "Price": "$226 - $949*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1 Greville Rd</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">NW6 5HA</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>",
+    "HotelID": "2514245",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/76/b3/76b3793c41fa938b787f0f5cb282a04f4large.jpg"
+  }
+}

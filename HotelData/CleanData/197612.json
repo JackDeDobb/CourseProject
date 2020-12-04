@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Muscat, Oman", "Title": "\u201cMy Stay in Paris\u201d", "Author": "1966Doctor1234", "ReviewID": "UR121542990", "Content": "trip paris booked trip advisor doubts sceptic pleasant surprise hotel easily approachable tube bus excellent front office staff understood spoke englishi didnt french feel home lots restuarants liking accesible main tourist destinations easily calm perfect ambience decided budget traveller safe", "Date": "2011-12-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cAffordable, Clean and Comfortable - 4.5 out of 5 stars\u201d", "Author": "Vayne", "ReviewID": "UR79359781", "Content": "stayed 5 nights 7 minute walk metro station 57 metro stops tourist hotel priced paris clean comfortable opted breakfast package woke earlier 10am paris cafes corner highly recommend learning metro system truly easiest affordable paris day passes youre set cheers", "Date": "2010-09-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cGreat hotel!\u201d", "Author": "MilicaO", "ReviewID": "UR67876340", "Content": "cute little hotel boutique feel moment arrive check greeted friendly receptionist expecting twostar bb spotless flatscreen plasma tv balcony superb view paris 6th floor bathroom extra comfy bed breakfast typically french choice pastries hams cheeses plus coffee tea juice value money short tenminute walk bienvenue montparnasse metro rail station shorter fiveminute walk metro", "Date": "2010-06-18 00:00:00"}], "HotelInfo": {"Name": "Abotel Transcontinental", "HotelURL": "/ShowUserReviews-g187147-d197612-Reviews-Abotel_Transcontinental-Paris_Ile_de_France.html", "Price": "$113 - $253*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">155, avenue Du Maine</span> | <span class=\"extended-address\">14th Arr.</span>, <span class=\"locality\"><span property=\"v:postal-code\">75014</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>", "HotelID": "197612", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/22/66/2266ccf041965f73399bdd6a511e359d3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Muscat, Oman",
+      "Title": "\u201cMy Stay in Paris\u201d",
+      "Author": "1966Doctor1234",
+      "ReviewID": "UR121542990",
+      "Content": "trip paris booked trip advisor doubts sceptic pleasant surprise hotel easily approachable tube bus excellent front office staff understood spoke englishi didnt french feel home lots restuarants liking accesible main tourist destinations easily calm perfect ambience decided budget traveller safe",
+      "Date": "2011-12-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cAffordable, Clean and Comfortable - 4.5 out of 5 stars\u201d",
+      "Author": "Vayne",
+      "ReviewID": "UR79359781",
+      "Content": "stayed 5 nights 7 minute walk metro station 57 metro stops tourist hotel priced paris clean comfortable opted breakfast package woke earlier 10am paris cafes corner highly recommend learning metro system truly easiest affordable paris day passes youre set cheers",
+      "Date": "2010-09-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cGreat hotel!\u201d",
+      "Author": "MilicaO",
+      "ReviewID": "UR67876340",
+      "Content": "cute little hotel boutique feel moment arrive check greeted friendly receptionist expecting twostar bb spotless flatscreen plasma tv balcony superb view paris 6th floor bathroom extra comfy bed breakfast typically french choice pastries hams cheeses plus coffee tea juice value money short tenminute walk bienvenue montparnasse metro rail station shorter fiveminute walk metro",
+      "Date": "2010-06-18 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Abotel Transcontinental",
+    "HotelURL": "/ShowUserReviews-g187147-d197612-Reviews-Abotel_Transcontinental-Paris_Ile_de_France.html",
+    "Price": "$113 - $253*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">155, avenue Du Maine</span> | <span class=\"extended-address\">14th Arr.</span>, <span class=\"locality\"><span property=\"v:postal-code\">75014</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>",
+    "HotelID": "197612",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/22/66/2266ccf041965f73399bdd6a511e359d3large.jpg"
+  }
+}

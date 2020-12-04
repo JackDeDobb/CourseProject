@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Kissimmee, Florida", "Title": "\u201cValue for money\u201d", "Author": "steve w", "ReviewID": "UR122335808", "Content": "stayed week periods july 2011 previous reviewer referring construction noise ocean waves breaking pleasant view eating breakfast balcony watching world wake beach below priceless clean looked recently renovated job hotel privately owned units staff assist dealt owner direct pleasant simple process contact details local management company didnt price paid value money view time week break driving north decided stay loved", "Date": "2011-12-31 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Louisville, Kentucky", "Title": "\u201cYou get what you pay for!\u201d", "Author": "Dorothy A", "ReviewID": "UR119402762", "Content": "cant remember 4th floor outside pretty grubby looking inside painting bad cleaned dirty cookware missing handles opener rusted burners stove didnt drip pans burners cleaned properly buying paper plates utensils bc dirty entire time doing construction pool owner failed tell wed waking sound jack hammer morning staff front dont staff owner serves maintenance guy dont waste money looked rundown motel leg", "Date": "2011-10-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "lambertville,mi", "Title": "\u201cGreat Stay with a great price!\u201d", "Author": "pddally7428", "ReviewID": "UR60523755", "Content": "read reviews apprehensive free upgrade oceanfront stayed 303 excellent condition items surfing boards fishing clean offered beautiful view ocean staff extra days kept building slow elevators fine pool deck kept immaculate 4600 night bugs restaurant premises morning lunch meals", "Date": "2010-04-06 00:00:00"}], "HotelInfo": {"Name": "Daytona Beach Club Oceanfront Inn", "HotelURL": "/ShowUserReviews-g34172-d84328-Reviews-Daytona_Beach_Club_Oceanfront_Inn-Daytona_Beach_Florida.html", "Price": "$69 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">800 North Atlantic Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Daytona Beach</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">32118</span></span> </span></span></address>", "HotelID": "84328", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2c/ac/2caca215deb23e8546d9067fdbbd29c81large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Kissimmee, Florida",
+      "Title": "\u201cValue for money\u201d",
+      "Author": "steve w",
+      "ReviewID": "UR122335808",
+      "Content": "stayed week periods july 2011 previous reviewer referring construction noise ocean waves breaking pleasant view eating breakfast balcony watching world wake beach below priceless clean looked recently renovated job hotel privately owned units staff assist dealt owner direct pleasant simple process contact details local management company didnt price paid value money view time week break driving north decided stay loved",
+      "Date": "2011-12-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Louisville, Kentucky",
+      "Title": "\u201cYou get what you pay for!\u201d",
+      "Author": "Dorothy A",
+      "ReviewID": "UR119402762",
+      "Content": "cant remember 4th floor outside pretty grubby looking inside painting bad cleaned dirty cookware missing handles opener rusted burners stove didnt drip pans burners cleaned properly buying paper plates utensils bc dirty entire time doing construction pool owner failed tell wed waking sound jack hammer morning staff front dont staff owner serves maintenance guy dont waste money looked rundown motel leg",
+      "Date": "2011-10-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "lambertville,mi",
+      "Title": "\u201cGreat Stay with a great price!\u201d",
+      "Author": "pddally7428",
+      "ReviewID": "UR60523755",
+      "Content": "read reviews apprehensive free upgrade oceanfront stayed 303 excellent condition items surfing boards fishing clean offered beautiful view ocean staff extra days kept building slow elevators fine pool deck kept immaculate 4600 night bugs restaurant premises morning lunch meals",
+      "Date": "2010-04-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Daytona Beach Club Oceanfront Inn",
+    "HotelURL": "/ShowUserReviews-g34172-d84328-Reviews-Daytona_Beach_Club_Oceanfront_Inn-Daytona_Beach_Florida.html",
+    "Price": "$69 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">800 North Atlantic Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Daytona Beach</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">32118</span></span> </span></span></address>",
+    "HotelID": "84328",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2c/ac/2caca215deb23e8546d9067fdbbd29c81large.jpg"
+  }
+}

@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cExperience India in Singapore\u201d", "Author": "TheEco", "ReviewID": "UR107721097", "Content": "hotel located little india district feels india means shops sell traditional indian clothes jewelery fruit vegetables market 247 shops course kinds traditional indian restaurants step hotel located 510 min walking subway station workers painting walls guess renovating bathroom shower curtain prepare flood bathroom time takes shower change towels bed sheets daily breakfast included price offer toast butter marmalade eggs bananas coffee tea staff helpful", "Date": "2011-05-10 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "London", "Title": "\u201cGood value, basic, all you could need\u201d", "Author": "Weeza25", "ReviewID": "UR104267298", "Content": "money 2 people quiet air conditioning curtains bathroom facilities tea coffee breakfast appalling experienced breakfast cramped smelly noisy windows scraps bread butter peanut butter jam blobs scrambled egg tin sachets porridge add hot water hot water seemingly hidden door left people bins overflowing plastic bowls sachets previous guests breakfasts food disappeared time 10am probably eat fine staying night stop", "Date": "2011-04-16 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Kalajoki, Finland", "Title": "\u201cPretty cheap but nothing much\u201d", "Author": "Joonasss", "ReviewID": "UR103249218", "Content": "noisy night time cos indian pubs play music 11pm 5am didnt look clean bathroom moldy shower broke didnt liked atmosphere free wireless aircon prize bad", "Date": "2011-04-08 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Berlin", "Title": "\u201cNoisy rooms\u201d", "Author": "alfrednurse", "ReviewID": "UR76090652", "Content": "staying hotel occasions doubled price improvements ripoff 130 sgd night wouldnt stay anymore party drink noise street prevented getting sleep madras hotel worth money", "Date": "2010-08-20 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Bangalore, India", "Title": "\u201cVery Cheap (in multiple senses) in a noisy neighborhood\u201d", "Author": "roaming_pc", "ReviewID": "UR58035926", "Content": "hotel cheap singapore standards called refurbished signs age getting comfortable temperature dialing temperature nasty surprise ac doesnt regulate temperature poor staff helpful breakfast minimal bread jam butter eggs run hotel close little india mrt 5 min worst hotel location door pub music played loud late night days weekends practically overnight opposite hotel packers hostel sometimes music day noisy colleague road didnt issues noise downside window weekends hotel sort air bar people sitting sidewalks drinking cause people comfortable little india sea people weekend security safety issues congested wouldnt pick hotel lot soundproofing drown noise street dont doing time soon savings money offset loss sleep comfort hotel street perak hotel bit costlier decent breakfast", "Date": "2010-03-08 00:00:00"}], "HotelInfo": {"Name": "Madras Hotel", "HotelURL": "/ShowUserReviews-g294265-d1015811-Reviews-Madras_Hotel-Singapore.html", "Price": "$109 - $134*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.28-32 Madras Street</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">208422</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>", "HotelID": "1015811", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/81/53/8153b5b658c2b53236bae879751f2ec11large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cExperience India in Singapore\u201d",
+      "Author": "TheEco",
+      "ReviewID": "UR107721097",
+      "Content": "hotel located little india district feels india means shops sell traditional indian clothes jewelery fruit vegetables market 247 shops course kinds traditional indian restaurants step hotel located 510 min walking subway station workers painting walls guess renovating bathroom shower curtain prepare flood bathroom time takes shower change towels bed sheets daily breakfast included price offer toast butter marmalade eggs bananas coffee tea staff helpful",
+      "Date": "2011-05-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cGood value, basic, all you could need\u201d",
+      "Author": "Weeza25",
+      "ReviewID": "UR104267298",
+      "Content": "money 2 people quiet air conditioning curtains bathroom facilities tea coffee breakfast appalling experienced breakfast cramped smelly noisy windows scraps bread butter peanut butter jam blobs scrambled egg tin sachets porridge add hot water hot water seemingly hidden door left people bins overflowing plastic bowls sachets previous guests breakfasts food disappeared time 10am probably eat fine staying night stop",
+      "Date": "2011-04-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Kalajoki, Finland",
+      "Title": "\u201cPretty cheap but nothing much\u201d",
+      "Author": "Joonasss",
+      "ReviewID": "UR103249218",
+      "Content": "noisy night time cos indian pubs play music 11pm 5am didnt look clean bathroom moldy shower broke didnt liked atmosphere free wireless aircon prize bad",
+      "Date": "2011-04-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Berlin",
+      "Title": "\u201cNoisy rooms\u201d",
+      "Author": "alfrednurse",
+      "ReviewID": "UR76090652",
+      "Content": "staying hotel occasions doubled price improvements ripoff 130 sgd night wouldnt stay anymore party drink noise street prevented getting sleep madras hotel worth money",
+      "Date": "2010-08-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bangalore, India",
+      "Title": "\u201cVery Cheap (in multiple senses) in a noisy neighborhood\u201d",
+      "Author": "roaming_pc",
+      "ReviewID": "UR58035926",
+      "Content": "hotel cheap singapore standards called refurbished signs age getting comfortable temperature dialing temperature nasty surprise ac doesnt regulate temperature poor staff helpful breakfast minimal bread jam butter eggs run hotel close little india mrt 5 min worst hotel location door pub music played loud late night days weekends practically overnight opposite hotel packers hostel sometimes music day noisy colleague road didnt issues noise downside window weekends hotel sort air bar people sitting sidewalks drinking cause people comfortable little india sea people weekend security safety issues congested wouldnt pick hotel lot soundproofing drown noise street dont doing time soon savings money offset loss sleep comfort hotel street perak hotel bit costlier decent breakfast",
+      "Date": "2010-03-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Madras Hotel",
+    "HotelURL": "/ShowUserReviews-g294265-d1015811-Reviews-Madras_Hotel-Singapore.html",
+    "Price": "$109 - $134*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.28-32 Madras Street</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">208422</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>",
+    "HotelID": "1015811",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/81/53/8153b5b658c2b53236bae879751f2ec11large.jpg"
+  }
+}

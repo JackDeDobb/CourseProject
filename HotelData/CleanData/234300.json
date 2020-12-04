@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Birker\u00f8d", "Title": "\u201cNot as bad as supposed\u201d", "Author": "EmilPetersson", "ReviewID": "UR129850947", "Content": "youre expecting hotel youre disappointed hostel bad 2 buildings definitely modern hotel left hostel restaurant located guys shared entire hostel wasnt bad granted shower supplied hot water toilet hall bad lock bidet equipped tv surprise location incredibly central middle gay district madrid visible walk close metro stations bus stops dont eat food hotel restaurant nutritious dull starbucks dunkin donuts 30 meters eat instead breakfast lot street noise kept sleeping rock reception speak english youre little bit friendly learn spanish incredibly friendly helpful cleaning actually beds day despite hostel hotel fresh towels cleaning personel event fold clothes bed day hostel bad portrayed reviews hostel dont expect dont discard completely cheap value money", "Date": "2012-05-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Founex, Geneve, Switzerland", "Title": "\u201cGreat\u201d", "Author": "Letty R", "ReviewID": "UR122575665", "Content": "reading reviews little skeptical school found nice people nice service breakfast wasnt friends ate starbucks literally 10 meters easily accessible bus 10 minutes bus stop clean bathroom excellent value money sleep quality fine didnt trouble getting sleep city location amazing shops food 1 2 minutes perfect teenagers safe except pick pockets careful", "Date": "2012-01-05 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Samarate, Italy", "Title": "\u201cThe worst place I've ever been to.\u201d", "Author": "ale5875", "ReviewID": "UR101723857", "Content": "5 days weve found sticking plaster steak hairs nearly meals dried snot pillow dirty pants im tell dirt dirty bathtub dirty pillow changed told didnt position centre madrid rest awful food uneatable thank god bars starbucks near dont die", "Date": "2011-03-27 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Peterborough, United Kingdom", "Title": "\u201cGood basic hostel in central Madrid\u201d", "Author": "Dsjdoc", "ReviewID": "UR95983065", "Content": "weekend sights madrid try cheaply shared 3 \u00a319 inc breakfast beds clean hot water breakfast achieved easily location central hence noisy night thats partly due spain coming alive night amazing value", "Date": "2011-02-09 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "London", "Title": "\u201cGood location, price about right\u201d", "Author": "patrick1971", "ReviewID": "UR88033886", "Content": "centrally located plus main street recommended youre light sleeper reception staff speak little english spanish decor price expect bonus hotel shower hall hotels class shower pretty warned annoying paying reception desk card uk pound sterling ie using dynamic currency conversion pay euro instead woman allegedly couldnt machine happen didnt believe wellknown tourist rip pay cash recommended single traveller step youth hostel", "Date": "2010-11-23 00:00:00"}], "HotelInfo": {"Name": "Nuria Hotel", "HotelURL": "/ShowUserReviews-g187514-d234300-Reviews-Nuria_Hotel-Madrid.html", "Price": "$52 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">52 Fuencarral</span>, <span class=\"locality\"><span property=\"v:postal-code\">28004</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "234300", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4a/75/4a758e703aa1cc1699dfaa46b75cd52b1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Birker\u00f8d",
+      "Title": "\u201cNot as bad as supposed\u201d",
+      "Author": "EmilPetersson",
+      "ReviewID": "UR129850947",
+      "Content": "youre expecting hotel youre disappointed hostel bad 2 buildings definitely modern hotel left hostel restaurant located guys shared entire hostel wasnt bad granted shower supplied hot water toilet hall bad lock bidet equipped tv surprise location incredibly central middle gay district madrid visible walk close metro stations bus stops dont eat food hotel restaurant nutritious dull starbucks dunkin donuts 30 meters eat instead breakfast lot street noise kept sleeping rock reception speak english youre little bit friendly learn spanish incredibly friendly helpful cleaning actually beds day despite hostel hotel fresh towels cleaning personel event fold clothes bed day hostel bad portrayed reviews hostel dont expect dont discard completely cheap value money",
+      "Date": "2012-05-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Founex, Geneve, Switzerland",
+      "Title": "\u201cGreat\u201d",
+      "Author": "Letty R",
+      "ReviewID": "UR122575665",
+      "Content": "reading reviews little skeptical school found nice people nice service breakfast wasnt friends ate starbucks literally 10 meters easily accessible bus 10 minutes bus stop clean bathroom excellent value money sleep quality fine didnt trouble getting sleep city location amazing shops food 1 2 minutes perfect teenagers safe except pick pockets careful",
+      "Date": "2012-01-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Samarate, Italy",
+      "Title": "\u201cThe worst place I've ever been to.\u201d",
+      "Author": "ale5875",
+      "ReviewID": "UR101723857",
+      "Content": "5 days weve found sticking plaster steak hairs nearly meals dried snot pillow dirty pants im tell dirt dirty bathtub dirty pillow changed told didnt position centre madrid rest awful food uneatable thank god bars starbucks near dont die",
+      "Date": "2011-03-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Peterborough, United Kingdom",
+      "Title": "\u201cGood basic hostel in central Madrid\u201d",
+      "Author": "Dsjdoc",
+      "ReviewID": "UR95983065",
+      "Content": "weekend sights madrid try cheaply shared 3 \u00a319 inc breakfast beds clean hot water breakfast achieved easily location central hence noisy night thats partly due spain coming alive night amazing value",
+      "Date": "2011-02-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cGood location, price about right\u201d",
+      "Author": "patrick1971",
+      "ReviewID": "UR88033886",
+      "Content": "centrally located plus main street recommended youre light sleeper reception staff speak little english spanish decor price expect bonus hotel shower hall hotels class shower pretty warned annoying paying reception desk card uk pound sterling ie using dynamic currency conversion pay euro instead woman allegedly couldnt machine happen didnt believe wellknown tourist rip pay cash recommended single traveller step youth hostel",
+      "Date": "2010-11-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Nuria Hotel",
+    "HotelURL": "/ShowUserReviews-g187514-d234300-Reviews-Nuria_Hotel-Madrid.html",
+    "Price": "$52 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">52 Fuencarral</span>, <span class=\"locality\"><span property=\"v:postal-code\">28004</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "234300",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4a/75/4a758e703aa1cc1699dfaa46b75cd52b1large.jpg"
+  }
+}

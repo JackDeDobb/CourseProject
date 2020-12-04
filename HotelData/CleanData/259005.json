@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Moscow, Russia", "Title": "\u201cvery nice place!\u201d", "Author": "bazik_81", "ReviewID": "UR122288184", "Content": "stayed hotel october 2011 friend hotel situated building 19th century adorable patio neighbourhood walk look rome citizens location perfect stay roma stayed cheap perfect service park close hotel", "Date": "2011-12-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Barcelona, Spain", "Title": "\u201cPerfect and enchanting place to unwind\u201d", "Author": "CloAzcon", "ReviewID": "UR87002469", "Content": "villa stunning property located outside rome hotel charming centuries history tour villa wonder evening dinner view fantastic sunsets spectacular outside rome inconvenient perfect relax travels visiting city day breakfast treat", "Date": "2010-11-14 00:00:00"}], "HotelInfo": {"Name": "Hotel Villa Grazioli", "HotelURL": "/ShowUserReviews-g187791-d259005-Reviews-Hotel_Villa_Grazioli-Rome_Lazio.html", "Price": "$78 - $243*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Salaria 241</span>, <span class=\"locality\"><span property=\"v:postal-code\">00199</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "259005", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/b7/d6/8a/hotel.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Moscow, Russia",
+      "Title": "\u201cvery nice place!\u201d",
+      "Author": "bazik_81",
+      "ReviewID": "UR122288184",
+      "Content": "stayed hotel october 2011 friend hotel situated building 19th century adorable patio neighbourhood walk look rome citizens location perfect stay roma stayed cheap perfect service park close hotel",
+      "Date": "2011-12-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Barcelona, Spain",
+      "Title": "\u201cPerfect and enchanting place to unwind\u201d",
+      "Author": "CloAzcon",
+      "ReviewID": "UR87002469",
+      "Content": "villa stunning property located outside rome hotel charming centuries history tour villa wonder evening dinner view fantastic sunsets spectacular outside rome inconvenient perfect relax travels visiting city day breakfast treat",
+      "Date": "2010-11-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Villa Grazioli",
+    "HotelURL": "/ShowUserReviews-g187791-d259005-Reviews-Hotel_Villa_Grazioli-Rome_Lazio.html",
+    "Price": "$78 - $243*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Salaria 241</span>, <span class=\"locality\"><span property=\"v:postal-code\">00199</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "259005",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/b7/d6/8a/hotel.jpg"
+  }
+}

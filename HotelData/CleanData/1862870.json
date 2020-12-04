@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Prague, Czech Republic", "Title": "\u201cBetter than i expected\u201d", "Author": "Dalibor11235", "ReviewID": "UR123986773", "Content": "visited hotel weekend utterly satisfied extremely located couple minutes walk main berlin sbahn route station pubs bakerycoffee street decide skip breakfast closest 10 minutes clean spacious equipped tv minifridge pretty handy freezing outside plenty storage space toiletshower facility neat clean efficient provided towels toiletries free wifi excellent connection staff spoke pleasant overally id 100 recommend hotel budget travellers cause fancy price extremely nice hotel", "Date": "2012-02-01 00:00:00"}], "HotelInfo": {"Name": "Hotel-Pension Victoria", "HotelURL": "/ShowUserReviews-g187323-d1862870-Reviews-Hotel_Pension_Victoria-Berlin.html", "Price": "$42 - $81*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kaskelstr. 50</span>, <span class=\"locality\"><span property=\"v:postal-code\">10317</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "1862870", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2a/19/2a19d97c91754400f8a9d085045c49aa3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Prague, Czech Republic",
+      "Title": "\u201cBetter than i expected\u201d",
+      "Author": "Dalibor11235",
+      "ReviewID": "UR123986773",
+      "Content": "visited hotel weekend utterly satisfied extremely located couple minutes walk main berlin sbahn route station pubs bakerycoffee street decide skip breakfast closest 10 minutes clean spacious equipped tv minifridge pretty handy freezing outside plenty storage space toiletshower facility neat clean efficient provided towels toiletries free wifi excellent connection staff spoke pleasant overally id 100 recommend hotel budget travellers cause fancy price extremely nice hotel",
+      "Date": "2012-02-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel-Pension Victoria",
+    "HotelURL": "/ShowUserReviews-g187323-d1862870-Reviews-Hotel_Pension_Victoria-Berlin.html",
+    "Price": "$42 - $81*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kaskelstr. 50</span>, <span class=\"locality\"><span property=\"v:postal-code\">10317</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "1862870",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2a/19/2a19d97c91754400f8a9d085045c49aa3large.jpg"
+  }
+}

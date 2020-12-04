@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "North Vancouver, BC, Canada", "Title": "\u201cOutdated and poorly maintained\u201d", "Author": "motohachi", "ReviewID": "UR126248884", "Content": "stayed 1 night huge staff friendly carpet dirty internet hardly signal elevator elevator stuck lobby renovation contractors constantly smoking lobby bad air stay", "Date": "2012-03-17 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Australia", "Title": "\u201cTakes some getting used to\u201d", "Author": "Clairie2008", "ReviewID": "UR75265934", "Content": "stayed hotel pre tour accommodation joining tour hotel location street alameda central park markets galore themselves clean security little bit door people busted bit worrying theft etc 3 days staying hotel normal precaution hotels safety security boxes passports extra cash etc 1 key box keys service front counter poor meet ruben absolutely lovely tried help restaurant food meals free wifi password checkin downfalls hotel dated air conditioning fans noisy facing street faced onto street pub corner building road played extremely loud music hours", "Date": "2010-08-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "London", "Title": "\u201cLocation amazing - hotel alright\u201d", "Author": "MistOll", "ReviewID": "UR74849782", "Content": "location simply perfect 14th floor view city price excellent location hotel run hasnt looked food restaurant isnt wasnt cleanest beds comfortable clean sheets bathroom staff helpful polite money luxurious", "Date": "2010-08-12 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "london", "Title": "\u201clock up your stuff!\u201d", "Author": "Helen1107", "ReviewID": "UR61656942", "Content": "boyfriend stayed hotel february tour absolutely loved mexico city hotel location dont stay worth letting people afternoon hotel san francisco robbed literally 45 minutes checking left bags wander returned lock broken stuff gone hotel management somewhat helpful apologised moved nicer pretty hotel responsible hotel convenient walking pretty cheap pretty barren encourage staying valuables locked", "Date": "2010-04-16 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "St Albans", "Title": "\u201cBad first night\u201d", "Author": "June84StAlbans", "ReviewID": "UR57293116", "Content": "stayed night mexico road dug timeand noisy dusty staff fantastic helpful friendly level service wa size dont reccommend staying night clean possibly lot enjoyable building completed", "Date": "2010-02-27 00:00:00"}], "HotelInfo": {"Name": "San Francisco Hotel", "HotelURL": "/ShowUserReviews-g150800-d155869-Reviews-San_Francisco_Hotel-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$42 - $59*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Luis Moya No 11</span> | <span class=\"extended-address\">Colonia Centro</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06050</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "155869", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/3d/86/3d8689fc4531d30d316b6d0e5a17c8564large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "North Vancouver, BC, Canada",
+      "Title": "\u201cOutdated and poorly maintained\u201d",
+      "Author": "motohachi",
+      "ReviewID": "UR126248884",
+      "Content": "stayed 1 night huge staff friendly carpet dirty internet hardly signal elevator elevator stuck lobby renovation contractors constantly smoking lobby bad air stay",
+      "Date": "2012-03-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Australia",
+      "Title": "\u201cTakes some getting used to\u201d",
+      "Author": "Clairie2008",
+      "ReviewID": "UR75265934",
+      "Content": "stayed hotel pre tour accommodation joining tour hotel location street alameda central park markets galore themselves clean security little bit door people busted bit worrying theft etc 3 days staying hotel normal precaution hotels safety security boxes passports extra cash etc 1 key box keys service front counter poor meet ruben absolutely lovely tried help restaurant food meals free wifi password checkin downfalls hotel dated air conditioning fans noisy facing street faced onto street pub corner building road played extremely loud music hours",
+      "Date": "2010-08-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cLocation amazing - hotel alright\u201d",
+      "Author": "MistOll",
+      "ReviewID": "UR74849782",
+      "Content": "location simply perfect 14th floor view city price excellent location hotel run hasnt looked food restaurant isnt wasnt cleanest beds comfortable clean sheets bathroom staff helpful polite money luxurious",
+      "Date": "2010-08-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "london",
+      "Title": "\u201clock up your stuff!\u201d",
+      "Author": "Helen1107",
+      "ReviewID": "UR61656942",
+      "Content": "boyfriend stayed hotel february tour absolutely loved mexico city hotel location dont stay worth letting people afternoon hotel san francisco robbed literally 45 minutes checking left bags wander returned lock broken stuff gone hotel management somewhat helpful apologised moved nicer pretty hotel responsible hotel convenient walking pretty cheap pretty barren encourage staying valuables locked",
+      "Date": "2010-04-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "St Albans",
+      "Title": "\u201cBad first night\u201d",
+      "Author": "June84StAlbans",
+      "ReviewID": "UR57293116",
+      "Content": "stayed night mexico road dug timeand noisy dusty staff fantastic helpful friendly level service wa size dont reccommend staying night clean possibly lot enjoyable building completed",
+      "Date": "2010-02-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "San Francisco Hotel",
+    "HotelURL": "/ShowUserReviews-g150800-d155869-Reviews-San_Francisco_Hotel-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$42 - $59*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Luis Moya No 11</span> | <span class=\"extended-address\">Colonia Centro</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06050</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "155869",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/3d/86/3d8689fc4531d30d316b6d0e5a17c8564large.jpg"
+  }
+}

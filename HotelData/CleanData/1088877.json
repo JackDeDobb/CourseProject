@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Abu Dhabi, Abu Dhabi, United Arab Emirates", "Title": "\u201cFantastic value for money\u201d", "Author": "Shadiar123", "ReviewID": "UR125634849", "Content": "weekend abu dhabi excellent coupon deal including breakfast lunch apartments deira district dubai definitely distance majorly expensive youd visit shopping mall supermarket staying time stock honest thats food tasty slightly samey fault family 2 adults 2 little ones fitted oodles spare 1 bed apartment apartments clean fitted staff probably attentive travel polite courteous spare towels etc brought 10mins respected disturb sign phoning check okay deliver hairdryer overlooked dubai hotels stayed weekend gym huge pool adequate location fine plentiful taxis available outside hotel door oh free underground parking unheard dubai fantastic weekend wouldnt hesitate stay", "Date": "2012-03-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Toronto", "Title": "\u201cGood Experience at Nojoum\u201d", "Author": "jannie8", "ReviewID": "UR103293679", "Content": "reserved online website modify reservation arrived trouble doing online found staff helpful courteous location taxis picked outside front door single apartment bedroom size standard hotel kitchen bathrooms wouldnt hotel brandnew scuffs walls apartment nonetheless clean modern comfortable breakfast buffet morning decent price nice variety foods spectacular definitely adequate hotel offers pool roof nice day agree past poster drawback pay wifi didnt notice slow connection recommend hotel install hair dryer bathroom lot choice dubai accommodation stay deira recommend hotel stay return dubai", "Date": "2011-04-08 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Berks, UK", "Title": "\u201cGood Value, don't expect 5 star\u201d", "Author": "solo_girl_traveller", "ReviewID": "UR92766825", "Content": "true noise service hit miss overall hotel apartments value money apartment overall excellant size self catering facilities recently jan 2011 found easy travel dubai taxis tour bus tips own washing liquid cloths dont buy provided pay extra dishes washed dont eat hotel food quality poor dominos round corner hotel stay road main road ear plugs noise bothers bus stop hotel using public transport didnt cant comment buses desert safari trip seeing nature missed", "Date": "2011-01-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Manchester, United Kingdom", "Title": "\u201cA good place to stay!\u201d", "Author": "turbotraker", "ReviewID": "UR79068270", "Content": "stayed 4 nights stay lounge kitchen 2 bedrooms 32inch flatscreen tvs 2 channels english bbc world news bedrooms decent size en suite appartments close airport balcony doors shut quiet beware excessive traffic noise road apartment downside stay breakfast cornflakes warmer cooked food range eggs cold ones enjoy honest cook eggs steer hard boiled eggs boiled couse cold suposed hot staff extreemly pleasant dressed stay prefer eat morning close super hyper market", "Date": "2010-09-10 00:00:00"}], "HotelInfo": {"Name": "Nojoum Hotel Apartments", "HotelURL": "/ShowUserReviews-g295424-d1088877-Reviews-Nojoum_Hotel_Apartments-Dubai.html", "Price": "$136 - $327*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Abu Baker Al Siddique Road</span> | <span class=\"extended-address\">Adjacent to Hamarain Shopping Center</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "1088877", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ca/ef/caefb172826483ef6496d67dea80686e5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+      "Title": "\u201cFantastic value for money\u201d",
+      "Author": "Shadiar123",
+      "ReviewID": "UR125634849",
+      "Content": "weekend abu dhabi excellent coupon deal including breakfast lunch apartments deira district dubai definitely distance majorly expensive youd visit shopping mall supermarket staying time stock honest thats food tasty slightly samey fault family 2 adults 2 little ones fitted oodles spare 1 bed apartment apartments clean fitted staff probably attentive travel polite courteous spare towels etc brought 10mins respected disturb sign phoning check okay deliver hairdryer overlooked dubai hotels stayed weekend gym huge pool adequate location fine plentiful taxis available outside hotel door oh free underground parking unheard dubai fantastic weekend wouldnt hesitate stay",
+      "Date": "2012-03-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Toronto",
+      "Title": "\u201cGood Experience at Nojoum\u201d",
+      "Author": "jannie8",
+      "ReviewID": "UR103293679",
+      "Content": "reserved online website modify reservation arrived trouble doing online found staff helpful courteous location taxis picked outside front door single apartment bedroom size standard hotel kitchen bathrooms wouldnt hotel brandnew scuffs walls apartment nonetheless clean modern comfortable breakfast buffet morning decent price nice variety foods spectacular definitely adequate hotel offers pool roof nice day agree past poster drawback pay wifi didnt notice slow connection recommend hotel install hair dryer bathroom lot choice dubai accommodation stay deira recommend hotel stay return dubai",
+      "Date": "2011-04-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Berks, UK",
+      "Title": "\u201cGood Value, don't expect 5 star\u201d",
+      "Author": "solo_girl_traveller",
+      "ReviewID": "UR92766825",
+      "Content": "true noise service hit miss overall hotel apartments value money apartment overall excellant size self catering facilities recently jan 2011 found easy travel dubai taxis tour bus tips own washing liquid cloths dont buy provided pay extra dishes washed dont eat hotel food quality poor dominos round corner hotel stay road main road ear plugs noise bothers bus stop hotel using public transport didnt cant comment buses desert safari trip seeing nature missed",
+      "Date": "2011-01-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Manchester, United Kingdom",
+      "Title": "\u201cA good place to stay!\u201d",
+      "Author": "turbotraker",
+      "ReviewID": "UR79068270",
+      "Content": "stayed 4 nights stay lounge kitchen 2 bedrooms 32inch flatscreen tvs 2 channels english bbc world news bedrooms decent size en suite appartments close airport balcony doors shut quiet beware excessive traffic noise road apartment downside stay breakfast cornflakes warmer cooked food range eggs cold ones enjoy honest cook eggs steer hard boiled eggs boiled couse cold suposed hot staff extreemly pleasant dressed stay prefer eat morning close super hyper market",
+      "Date": "2010-09-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Nojoum Hotel Apartments",
+    "HotelURL": "/ShowUserReviews-g295424-d1088877-Reviews-Nojoum_Hotel_Apartments-Dubai.html",
+    "Price": "$136 - $327*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Abu Baker Al Siddique Road</span> | <span class=\"extended-address\">Adjacent to Hamarain Shopping Center</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "1088877",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ca/ef/caefb172826483ef6496d67dea80686e5large.jpg"
+  }
+}

@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Moscow, Russia", "Title": "\u201cSwiss quality in Italy\u201d", "Author": "Begemoth", "ReviewID": "UR94057838", "Content": "stayed hotel wife 4 nights hotel run swiss family couple means hotel unsurpassed swiss quality service family helpful personal breakfasts western european style italian free wifi hotel drawback location outside gra bus cab reach nearest subway station countryside location equals peaceful nights hotel highly recommended rent car rome dont afraid spend 4045 minutes city centre stay thanks", "Date": "2011-01-22 00:00:00"}], "HotelInfo": {"Name": "Marini Park Hotel", "HotelURL": "/ShowUserReviews-g187791-d570420-Reviews-Marini_Park_Hotel-Rome_Lazio.html", "Price": "$46 - $132*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Castel di Leva 258</span>, <span class=\"locality\"><span property=\"v:postal-code\">00134</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "570420", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5c/89/5c89940a171632c48d4604a24d0f73a83large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Moscow, Russia",
+      "Title": "\u201cSwiss quality in Italy\u201d",
+      "Author": "Begemoth",
+      "ReviewID": "UR94057838",
+      "Content": "stayed hotel wife 4 nights hotel run swiss family couple means hotel unsurpassed swiss quality service family helpful personal breakfasts western european style italian free wifi hotel drawback location outside gra bus cab reach nearest subway station countryside location equals peaceful nights hotel highly recommended rent car rome dont afraid spend 4045 minutes city centre stay thanks",
+      "Date": "2011-01-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Marini Park Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d570420-Reviews-Marini_Park_Hotel-Rome_Lazio.html",
+    "Price": "$46 - $132*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Castel di Leva 258</span>, <span class=\"locality\"><span property=\"v:postal-code\">00134</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "570420",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5c/89/5c89940a171632c48d4604a24d0f73a83large.jpg"
+  }
+}

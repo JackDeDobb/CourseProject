@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Langhorne, Pennsylvania", "Title": "\u201cNice Hotel\u201d", "Author": "twebst", "ReviewID": "UR125409569", "Content": "opted stay based nh stay lyon hotel modern looking clean staff extremely courteous friendly meals correct priced hotel location convenient easy access walking vast amount restaurants bars negatives mentioned availability wifi expensive day age wood flooring peeling am hotel television fixed immediately allinall value business hotel upscale", "Date": "2012-02-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Brighton", "Title": "\u201cexcellent mid-range business hotel\u201d", "Author": "travelduesouth", "ReviewID": "UR118710950", "Content": "stayed week month am fan nh hotels modern spacious comfortable beds excellent location business excellent formal dining tavern style casual tavern type locals steps santa fe stay mexico city plus hotel pool real downside business travellers", "Date": "2011-09-28 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Aachen, Germany", "Title": "\u201cIdeal for business travellers to Mexico, Santa Fe business district\u201d", "Author": "reissu-erkki01", "ReviewID": "UR55754911", "Content": "nice modern hotel spacy chic hotel personel helpful english speaking breakfast included ok location business travellers santa fe business close expensive shopping mall walls thin hear thru walls visiting hotel empty close neighbours floor cold barefoot", "Date": "2010-02-11 00:00:00"}], "HotelInfo": {"Name": "NH Santa Fe", "HotelURL": "/ShowUserReviews-g150800-d650313-Reviews-NH_Santa_Fe-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$86 - $177*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Juan Salvador Agraz 44</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">05120</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "650313", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0f/fb/0ffb11a81cd25734e3e9d6745f871e3c5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Langhorne, Pennsylvania",
+      "Title": "\u201cNice Hotel\u201d",
+      "Author": "twebst",
+      "ReviewID": "UR125409569",
+      "Content": "opted stay based nh stay lyon hotel modern looking clean staff extremely courteous friendly meals correct priced hotel location convenient easy access walking vast amount restaurants bars negatives mentioned availability wifi expensive day age wood flooring peeling am hotel television fixed immediately allinall value business hotel upscale",
+      "Date": "2012-02-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Brighton",
+      "Title": "\u201cexcellent mid-range business hotel\u201d",
+      "Author": "travelduesouth",
+      "ReviewID": "UR118710950",
+      "Content": "stayed week month am fan nh hotels modern spacious comfortable beds excellent location business excellent formal dining tavern style casual tavern type locals steps santa fe stay mexico city plus hotel pool real downside business travellers",
+      "Date": "2011-09-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Aachen, Germany",
+      "Title": "\u201cIdeal for business travellers to Mexico, Santa Fe business district\u201d",
+      "Author": "reissu-erkki01",
+      "ReviewID": "UR55754911",
+      "Content": "nice modern hotel spacy chic hotel personel helpful english speaking breakfast included ok location business travellers santa fe business close expensive shopping mall walls thin hear thru walls visiting hotel empty close neighbours floor cold barefoot",
+      "Date": "2010-02-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "NH Santa Fe",
+    "HotelURL": "/ShowUserReviews-g150800-d650313-Reviews-NH_Santa_Fe-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$86 - $177*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Juan Salvador Agraz 44</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">05120</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "650313",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0f/fb/0ffb11a81cd25734e3e9d6745f871e3c5large.jpg"
+  }
+}

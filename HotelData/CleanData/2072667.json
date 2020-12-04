@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "teesside", "Title": "\u201cbeautiful apartment\u201d", "Author": "jan h", "ReviewID": "UR128236582", "Content": "stayed 3 days penthouse duplex fabulousthe views terrace complimentary birthday cake delivered lovely surprise alba guest relations credit hotel helped organise bottle champagne notified football tickets delivered couldnt helpthe junior staff reception friendly senior people reception learn smile serious summary perfect location comfortable accommodation", "Date": "2012-04-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Happisburgh, United Kingdom", "Title": "\u201cPerfect Five Star bolt hole in Barcelona\u201d", "Author": "Happisburghlandlady", "ReviewID": "UR127473567", "Content": "spent nights majestic residence barcelona february appartment standard expect majestic extremely value facilities main majestic hotel road swimming pool looking familia excellent location walked wonderful balcony sun beds blessed wonderful weather balcony building quiet thoroughly recommend friends family stay return visit barcelona", "Date": "2012-04-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Kansas City, Missouri", "Title": "\u201cGreat apartment for families\u201d", "Author": "scott10s", "ReviewID": "UR126840358", "Content": "stayed majestic apartments march travelled wife daughters hard stay allow persons perfect solution apartment clean modern location block subway barcelona hotel staff nicer highly recommend staying perfect solution traveling family", "Date": "2012-03-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Manchester, United Kingdom", "Title": "\u201cGreat place to stay, an apartment with all the luxury of a 5 star hotel\u201d", "Author": "Big_Boots_10", "ReviewID": "UR126392423", "Content": "decided try apartments reading reviews enthusiastic apartment block road majestic hotel owns flats access hotel facilities apartments centre buy shopping restaurant avenue passeig de gr\u00e0cia minutes walk gaudi houses ramblas apartment furnished modern comfortable style equipped kitchen breakfast allowed local market buy fantastic hams fruit bread holiday prepare food machine endless cups coffee amount space relaxing balcony looked peaceful gardens restaurants shops apartment left nosey hustle bustle passeig de gr\u00e0cia rested ready straight vibrant town hotel bar roof spectacular views barcelona glitter light relaxing luxurious stay", "Date": "2012-03-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Chicago, Illinois", "Title": "\u201cA Truly Awesome Hotel\u201d", "Author": "Jro_11", "ReviewID": "UR118585776", "Content": "love majestic residences leery staying residences street actual hotel pleased decision stay residences apartments bedrooms bathrooms kitchen living dining tastefully decorated true resident barcelona apartment easily hold 46 people hotel beautiful highend shopping restaurants etc makes hotel awesome staff friendly specifically isidro terrific tim angel definitely property stay residences prepared daily maid service costs extra buy dish laundry soap deal pass gem", "Date": "2011-09-25 00:00:00"}], "HotelInfo": {"Name": "Majestic Residence", "HotelURL": "/ShowUserReviews-g187497-d2072667-Reviews-Majestic_Residence-Barcelona_Catalonia.html", "Price": "$302 - $408*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Passeig de Gracia 69</span>, <span class=\"locality\"><span property=\"v:postal-code\">08008</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "2072667", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/cf/a9/1f/majestic-residence.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "teesside",
+      "Title": "\u201cbeautiful apartment\u201d",
+      "Author": "jan h",
+      "ReviewID": "UR128236582",
+      "Content": "stayed 3 days penthouse duplex fabulousthe views terrace complimentary birthday cake delivered lovely surprise alba guest relations credit hotel helped organise bottle champagne notified football tickets delivered couldnt helpthe junior staff reception friendly senior people reception learn smile serious summary perfect location comfortable accommodation",
+      "Date": "2012-04-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Happisburgh, United Kingdom",
+      "Title": "\u201cPerfect Five Star bolt hole in Barcelona\u201d",
+      "Author": "Happisburghlandlady",
+      "ReviewID": "UR127473567",
+      "Content": "spent nights majestic residence barcelona february appartment standard expect majestic extremely value facilities main majestic hotel road swimming pool looking familia excellent location walked wonderful balcony sun beds blessed wonderful weather balcony building quiet thoroughly recommend friends family stay return visit barcelona",
+      "Date": "2012-04-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Kansas City, Missouri",
+      "Title": "\u201cGreat apartment for families\u201d",
+      "Author": "scott10s",
+      "ReviewID": "UR126840358",
+      "Content": "stayed majestic apartments march travelled wife daughters hard stay allow persons perfect solution apartment clean modern location block subway barcelona hotel staff nicer highly recommend staying perfect solution traveling family",
+      "Date": "2012-03-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Manchester, United Kingdom",
+      "Title": "\u201cGreat place to stay, an apartment with all the luxury of a 5 star hotel\u201d",
+      "Author": "Big_Boots_10",
+      "ReviewID": "UR126392423",
+      "Content": "decided try apartments reading reviews enthusiastic apartment block road majestic hotel owns flats access hotel facilities apartments centre buy shopping restaurant avenue passeig de gr\u00e0cia minutes walk gaudi houses ramblas apartment furnished modern comfortable style equipped kitchen breakfast allowed local market buy fantastic hams fruit bread holiday prepare food machine endless cups coffee amount space relaxing balcony looked peaceful gardens restaurants shops apartment left nosey hustle bustle passeig de gr\u00e0cia rested ready straight vibrant town hotel bar roof spectacular views barcelona glitter light relaxing luxurious stay",
+      "Date": "2012-03-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Chicago, Illinois",
+      "Title": "\u201cA Truly Awesome Hotel\u201d",
+      "Author": "Jro_11",
+      "ReviewID": "UR118585776",
+      "Content": "love majestic residences leery staying residences street actual hotel pleased decision stay residences apartments bedrooms bathrooms kitchen living dining tastefully decorated true resident barcelona apartment easily hold 46 people hotel beautiful highend shopping restaurants etc makes hotel awesome staff friendly specifically isidro terrific tim angel definitely property stay residences prepared daily maid service costs extra buy dish laundry soap deal pass gem",
+      "Date": "2011-09-25 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Majestic Residence",
+    "HotelURL": "/ShowUserReviews-g187497-d2072667-Reviews-Majestic_Residence-Barcelona_Catalonia.html",
+    "Price": "$302 - $408*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Passeig de Gracia 69</span>, <span class=\"locality\"><span property=\"v:postal-code\">08008</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "2072667",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/cf/a9/1f/majestic-residence.jpg"
+  }
+}

@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Durban, South Africa", "Title": "\u201cGreat staff, badly designed\u201d", "Author": "sally_and_bill_10", "ReviewID": "UR135169326", "Content": "hotel wonderful helpful friendly staff fire architect interior designer poorly designed beds hard hang towel staff welcome downstairs lobby looks waiting morgue spotlessly clean linen lovely crisp", "Date": "2012-07-23 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Munich, Germany", "Title": "\u201cSpacious modern hotel\u201d", "Author": "mwall722", "ReviewID": "UR133461514", "Content": "impression 5 star living nights bump 4 am engineer appreciate looking design definitely designed form function evident bathroom ultra modern shower difficult shower ha shade covering completely transparent window shower living kicker shade operated living window looks guess trust roommate surprised maybe ive gotten european pretty 35 square meter superior double issues ac staff addressed little frigid ive stayed location walked city times metro minute diego de leon staff friendly helpful stay isnt pool bummer madrid summer", "Date": "2012-07-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Hillsborough, New Jersey", "Title": "\u201cSpacious room - great for a family\u201d", "Author": "A2ZNJ", "ReviewID": "UR128051123", "Content": "hotel nice quiet city convenient using metro corner modern spacious front desk staff helpful directions recommendations enjoyed stay highly recommend", "Date": "2012-04-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Tulsa, Oklahoma", "Title": "\u201cGreat hotel\u201d", "Author": "eddieluda", "ReviewID": "UR119798665", "Content": "stayed 6 days received excellent service front desk attendants enjoyed spacious minikitchen internet etc block metro entrance outstanding location seeing sights madrid special thanks juan gonzales assistance allowing 2nd 3 days stay", "Date": "2011-10-27 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Arnhem, The Netherlands", "Title": "\u201cGood location, clean modern room\u201d", "Author": "Mathijn", "ReviewID": "UR119327980", "Content": "\u00e0 free upgrade \u00e0 superior nice spacious bed sit microwave coffeemachine kitchen stuff internet free fast choice minibar limited free nice location 2 minute walk metrostation exit de leon bed \u00e0 bit hard cant breakfast decided book wo breakfast enjoyed morning coffee bars near hotel", "Date": "2011-10-15 00:00:00"}], "HotelInfo": {"Name": "El Madrono", "HotelURL": "/ShowUserReviews-g187514-d231631-Reviews-El_Madrono-Madrid.html", "Price": "$96 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">General Diaz Porlier 101</span>, <span class=\"locality\"><span property=\"v:postal-code\">28006</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "231631", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/d3/cf/f2/double-superior-room.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Durban, South Africa",
+      "Title": "\u201cGreat staff, badly designed\u201d",
+      "Author": "sally_and_bill_10",
+      "ReviewID": "UR135169326",
+      "Content": "hotel wonderful helpful friendly staff fire architect interior designer poorly designed beds hard hang towel staff welcome downstairs lobby looks waiting morgue spotlessly clean linen lovely crisp",
+      "Date": "2012-07-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Munich, Germany",
+      "Title": "\u201cSpacious modern hotel\u201d",
+      "Author": "mwall722",
+      "ReviewID": "UR133461514",
+      "Content": "impression 5 star living nights bump 4 am engineer appreciate looking design definitely designed form function evident bathroom ultra modern shower difficult shower ha shade covering completely transparent window shower living kicker shade operated living window looks guess trust roommate surprised maybe ive gotten european pretty 35 square meter superior double issues ac staff addressed little frigid ive stayed location walked city times metro minute diego de leon staff friendly helpful stay isnt pool bummer madrid summer",
+      "Date": "2012-07-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Hillsborough, New Jersey",
+      "Title": "\u201cSpacious room - great for a family\u201d",
+      "Author": "A2ZNJ",
+      "ReviewID": "UR128051123",
+      "Content": "hotel nice quiet city convenient using metro corner modern spacious front desk staff helpful directions recommendations enjoyed stay highly recommend",
+      "Date": "2012-04-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Tulsa, Oklahoma",
+      "Title": "\u201cGreat hotel\u201d",
+      "Author": "eddieluda",
+      "ReviewID": "UR119798665",
+      "Content": "stayed 6 days received excellent service front desk attendants enjoyed spacious minikitchen internet etc block metro entrance outstanding location seeing sights madrid special thanks juan gonzales assistance allowing 2nd 3 days stay",
+      "Date": "2011-10-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Arnhem, The Netherlands",
+      "Title": "\u201cGood location, clean modern room\u201d",
+      "Author": "Mathijn",
+      "ReviewID": "UR119327980",
+      "Content": "\u00e0 free upgrade \u00e0 superior nice spacious bed sit microwave coffeemachine kitchen stuff internet free fast choice minibar limited free nice location 2 minute walk metrostation exit de leon bed \u00e0 bit hard cant breakfast decided book wo breakfast enjoyed morning coffee bars near hotel",
+      "Date": "2011-10-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "El Madrono",
+    "HotelURL": "/ShowUserReviews-g187514-d231631-Reviews-El_Madrono-Madrid.html",
+    "Price": "$96 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">General Diaz Porlier 101</span>, <span class=\"locality\"><span property=\"v:postal-code\">28006</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "231631",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/d3/cf/f2/double-superior-room.jpg"
+  }
+}

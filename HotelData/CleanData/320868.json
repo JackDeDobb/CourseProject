@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "derby", "Title": "\u201cconfusing and unpleasant stay at casa pisani\u201d", "Author": "karen k", "ReviewID": "UR126156282", "Content": "booked locanda canal met told transferred sister hotel casa reception site warned difficult wrong electricity failed day despite told ring house phone communicate time service eventually managed contact via mobile gentleman adamant casa pisani locanda canal despite saying realised telling night time pleased im afraid attitude locate fault pleased thinking wrong amazed met unfriendliness lady serving extremely inadequate breakfast morning offered complaint genuinely pleased somone sort im afraid attitude lady spoilt stayi definitely day served hard slices coffee undrinkable", "Date": "2012-03-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Bexley", "Title": "\u201cVisit march 2012\u201d", "Author": "Linda A", "ReviewID": "UR126111140", "Content": "hotel compact nice totally suited staff friendly reception sister hotel spoke excellent english helpful breakfast cold continental perfectly adequate tea coffee facilities advise own heating element nearest stop airport fondamenta nova red line literally left stop couple bridges hospital fondamenta del straight line square horse statue left 2nd bridge calle de 200 yds left fantastic osteria called 5 mins busy book", "Date": "2012-03-14 00:00:00"}], "HotelInfo": {"Name": "Casa Pisani Canal", "HotelURL": "/ShowUserReviews-g187870-d320868-Reviews-Casa_Pisani_Canal-Venice_Veneto.html", "Price": "$152 - $265*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Cannaregio 6105</span>, <span class=\"locality\"><span property=\"v:postal-code\">30131</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "320868", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fa/48/fa48477b0d9aaaeda29f947e85090e659large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "derby",
+      "Title": "\u201cconfusing and unpleasant stay at casa pisani\u201d",
+      "Author": "karen k",
+      "ReviewID": "UR126156282",
+      "Content": "booked locanda canal met told transferred sister hotel casa reception site warned difficult wrong electricity failed day despite told ring house phone communicate time service eventually managed contact via mobile gentleman adamant casa pisani locanda canal despite saying realised telling night time pleased im afraid attitude locate fault pleased thinking wrong amazed met unfriendliness lady serving extremely inadequate breakfast morning offered complaint genuinely pleased somone sort im afraid attitude lady spoilt stayi definitely day served hard slices coffee undrinkable",
+      "Date": "2012-03-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bexley",
+      "Title": "\u201cVisit march 2012\u201d",
+      "Author": "Linda A",
+      "ReviewID": "UR126111140",
+      "Content": "hotel compact nice totally suited staff friendly reception sister hotel spoke excellent english helpful breakfast cold continental perfectly adequate tea coffee facilities advise own heating element nearest stop airport fondamenta nova red line literally left stop couple bridges hospital fondamenta del straight line square horse statue left 2nd bridge calle de 200 yds left fantastic osteria called 5 mins busy book",
+      "Date": "2012-03-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Casa Pisani Canal",
+    "HotelURL": "/ShowUserReviews-g187870-d320868-Reviews-Casa_Pisani_Canal-Venice_Veneto.html",
+    "Price": "$152 - $265*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Cannaregio 6105</span>, <span class=\"locality\"><span property=\"v:postal-code\">30131</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "320868",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fa/48/fa48477b0d9aaaeda29f947e85090e659large.jpg"
+  }
+}

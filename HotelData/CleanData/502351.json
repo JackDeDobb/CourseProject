@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "new york city", "Title": "\u201cFelt like I was home\u201d", "Author": "ccarrozza", "ReviewID": "UR108554213", "Content": "hotel quiet frills comfortable york apartment cute nicely decorated view golden horn terrace nice breakfast ok staff friendly hoping bit bathroom little shocking shower basically toilet shower head drain little cramped odd days getting wished safe passports valuables carry passport times cozy spot pretty convenient close town 15 minutes taksim square walk major tourist sites cab overall value comfy spot stay istanbul iphone connecting internet wifi connection hotel", "Date": "2011-05-16 00:00:00"}], "HotelInfo": {"Name": "Daphnis Hotel", "HotelURL": "/ShowUserReviews-g293974-d502351-Reviews-Daphnis_Hotel-Istanbul.html", "Price": "$79 - $112*", "Address": "<div class=\"amenFloat\">", "HotelID": "502351", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/39/1d/77/getlstd-property-photo.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "new york city",
+      "Title": "\u201cFelt like I was home\u201d",
+      "Author": "ccarrozza",
+      "ReviewID": "UR108554213",
+      "Content": "hotel quiet frills comfortable york apartment cute nicely decorated view golden horn terrace nice breakfast ok staff friendly hoping bit bathroom little shocking shower basically toilet shower head drain little cramped odd days getting wished safe passports valuables carry passport times cozy spot pretty convenient close town 15 minutes taksim square walk major tourist sites cab overall value comfy spot stay istanbul iphone connecting internet wifi connection hotel",
+      "Date": "2011-05-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Daphnis Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d502351-Reviews-Daphnis_Hotel-Istanbul.html",
+    "Price": "$79 - $112*",
+    "Address": "<div class=\"amenFloat\">",
+    "HotelID": "502351",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/39/1d/77/getlstd-property-photo.jpg"
+  }
+}

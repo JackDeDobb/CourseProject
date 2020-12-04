@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Boston, MA", "Title": "\u201cWould Not Want to Stay Anywhere Else In Madrid\u201d", "Author": "travelisus37", "ReviewID": "UR125755409", "Content": "probably nicest location madrid bar none half block prado museum half block retiro park direction quiet peaceful oasis exist hustle bustle madrid stayed times discovering 1999 returned time awhile astonished changed called apartmenthotel apartments individual apartments sold private parties lucky ones hotel retaining rest instead 24 hour receptionist arrive hours staffed key front door yourself hours main change else delightful prices little lower spacious bedroom apartment including kitchen living terrace family 3 100 euros delightful cafebar building floor fabulous fruit store corner basic groceries block course importantly prado retiro park short walk plenty restaurants bars 20 minute walk busy plaza mayor located half block ritz hotel paseo del prado westin palace hotel directly street beautiful los church sad indeed travelers madrid building shifts completely individual apartment owners available night travelers encourage stay", "Date": "2012-03-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Hohenschwangau", "Title": "\u201cGreat location\u201d", "Author": "pesi88", "ReviewID": "UR102593754", "Content": "enjoyed 5 nights stay los hotel location spacy clean terrace views bit dated urgently renovation los located prado walking distance lots perfect exploring madrid", "Date": "2011-04-03 00:00:00"}], "HotelInfo": {"Name": "Los Jeronimos", "HotelURL": "/ShowUserReviews-g187514-d281110-Reviews-Los_Jeronimos-Madrid.html", "Price": "$179 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Moreto 9</span>, <span class=\"locality\"><span property=\"v:postal-code\">28014</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "281110", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6b/87/6b87a928759e0e30615eba753b54e96a1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Boston, MA",
+      "Title": "\u201cWould Not Want to Stay Anywhere Else In Madrid\u201d",
+      "Author": "travelisus37",
+      "ReviewID": "UR125755409",
+      "Content": "probably nicest location madrid bar none half block prado museum half block retiro park direction quiet peaceful oasis exist hustle bustle madrid stayed times discovering 1999 returned time awhile astonished changed called apartmenthotel apartments individual apartments sold private parties lucky ones hotel retaining rest instead 24 hour receptionist arrive hours staffed key front door yourself hours main change else delightful prices little lower spacious bedroom apartment including kitchen living terrace family 3 100 euros delightful cafebar building floor fabulous fruit store corner basic groceries block course importantly prado retiro park short walk plenty restaurants bars 20 minute walk busy plaza mayor located half block ritz hotel paseo del prado westin palace hotel directly street beautiful los church sad indeed travelers madrid building shifts completely individual apartment owners available night travelers encourage stay",
+      "Date": "2012-03-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Hohenschwangau",
+      "Title": "\u201cGreat location\u201d",
+      "Author": "pesi88",
+      "ReviewID": "UR102593754",
+      "Content": "enjoyed 5 nights stay los hotel location spacy clean terrace views bit dated urgently renovation los located prado walking distance lots perfect exploring madrid",
+      "Date": "2011-04-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Los Jeronimos",
+    "HotelURL": "/ShowUserReviews-g187514-d281110-Reviews-Los_Jeronimos-Madrid.html",
+    "Price": "$179 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Moreto 9</span>, <span class=\"locality\"><span property=\"v:postal-code\">28014</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "281110",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6b/87/6b87a928759e0e30615eba753b54e96a1large.jpg"
+  }
+}

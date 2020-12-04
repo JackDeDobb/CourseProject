@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Mexico City, Mexico", "Title": "\u201cTHIS HOTEL IS GOOD IF YOU WANT TO SAVE MONEY.....\u201d", "Author": "Alex Alexis Z", "ReviewID": "UR123253074", "Content": "hotel stay playa del carmen microwave freezer sink kitchen save money meal cooking hotel fashion dont expect luxury condition air cable tv living course bed king size pool remind avoid 1206 street bar wich noisy sleep", "Date": "2012-01-18 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Cancun, Mexico", "Title": "\u201cThe worse hotel i ever being\u201d", "Author": "AlecitaOrtiz", "ReviewID": "UR96533238", "Content": "hotel overprized offers location personal bunch service beyond bad restaurant food service slow space tinny sometimes share table guests expensive fot offer own cleaning lady moms charger cell phone suitcases inside closet called manager manager charge wait hour liar according told mom dare cleaning lady maybe left charger else check suitcases ones mom refused responsability calls thiefs pair gold diggers refused comments heard life experience payed money received range 4 stars hotel ja dreams", "Date": "2011-02-14 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "San Francisco, California", "Title": "\u201cHORRIBLE - A total nightmare\u201d", "Author": "allipants", "ReviewID": "UR77126228", "Content": "mother daughter checked hotel paid 5 nights completely smelled moldy noisy bed super uncomfortable hard impossible sleep horrible decided check move hotel tried check move hotel manager irate told bad paid ahead yelled rude defensive scared tried compromise pay 1 night plus 20 fee refund 4 nights signed agreement pay day money account time returned according employees refund policy posted nor refund policy website credit card dispute hotel process recovering money nightmare avoid hotel costs", "Date": "2010-08-27 00:00:00"}], "HotelInfo": {"Name": "Hotel Vista Caribe", "HotelURL": "/ShowUserReviews-g150812-d293622-Reviews-Hotel_Vista_Caribe-Playa_del_Carmen_Yucatan_Peninsula.html", "Price": "$69 - $81*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle 6</span>, <span class=\"locality\"><span property=\"v:locality\">Playa del Carmen</span> <span property=\"v:postal-code\">77710</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "293622", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/24/fc/6b/hotel-vista-caribe.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Mexico City, Mexico",
+      "Title": "\u201cTHIS HOTEL IS GOOD IF YOU WANT TO SAVE MONEY.....\u201d",
+      "Author": "Alex Alexis Z",
+      "ReviewID": "UR123253074",
+      "Content": "hotel stay playa del carmen microwave freezer sink kitchen save money meal cooking hotel fashion dont expect luxury condition air cable tv living course bed king size pool remind avoid 1206 street bar wich noisy sleep",
+      "Date": "2012-01-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Cancun, Mexico",
+      "Title": "\u201cThe worse hotel i ever being\u201d",
+      "Author": "AlecitaOrtiz",
+      "ReviewID": "UR96533238",
+      "Content": "hotel overprized offers location personal bunch service beyond bad restaurant food service slow space tinny sometimes share table guests expensive fot offer own cleaning lady moms charger cell phone suitcases inside closet called manager manager charge wait hour liar according told mom dare cleaning lady maybe left charger else check suitcases ones mom refused responsability calls thiefs pair gold diggers refused comments heard life experience payed money received range 4 stars hotel ja dreams",
+      "Date": "2011-02-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "San Francisco, California",
+      "Title": "\u201cHORRIBLE - A total nightmare\u201d",
+      "Author": "allipants",
+      "ReviewID": "UR77126228",
+      "Content": "mother daughter checked hotel paid 5 nights completely smelled moldy noisy bed super uncomfortable hard impossible sleep horrible decided check move hotel tried check move hotel manager irate told bad paid ahead yelled rude defensive scared tried compromise pay 1 night plus 20 fee refund 4 nights signed agreement pay day money account time returned according employees refund policy posted nor refund policy website credit card dispute hotel process recovering money nightmare avoid hotel costs",
+      "Date": "2010-08-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Vista Caribe",
+    "HotelURL": "/ShowUserReviews-g150812-d293622-Reviews-Hotel_Vista_Caribe-Playa_del_Carmen_Yucatan_Peninsula.html",
+    "Price": "$69 - $81*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle 6</span>, <span class=\"locality\"><span property=\"v:locality\">Playa del Carmen</span> <span property=\"v:postal-code\">77710</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "293622",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/24/fc/6b/hotel-vista-caribe.jpg"
+  }
+}

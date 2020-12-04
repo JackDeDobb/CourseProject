@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Vancouver, Canada", "Title": "\u201cclean rooms, great location\u201d", "Author": "blackbond_11", "ReviewID": "UR119277512", "Content": "hotel close bus train station air conditioned clean decent size grand canal falling window staff friendly offered breakfast savoury sweet options cappuccino remember hotels europe theres elevator pack lift", "Date": "2011-10-13 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "", "Title": "\u201cIdeal spot\u201d", "Author": "YYC_wayfarer", "ReviewID": "UR101455040", "Content": "nice yes probably read time spending youre venice clean quaint beds comfortable night exhausted walking day probably slept soundly table fantastic wine didnt hurt location nice 10 minute walk rialto bridge found casino huge mansion train station bus station scant minute hotel keys stop beside hotel cant comment breakfast ate perfect location exploring tourist madness piazza san marco", "Date": "2011-03-24 00:00:00"}], "HotelInfo": {"Name": "Antica Casa Carettoni", "HotelURL": "/ShowUserReviews-g187870-d529156-Reviews-Antica_Casa_Carettoni-Venice_Veneto.html", "Price": "$164 - $266*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Cannaregio 130</span>, <span class=\"locality\"><span property=\"v:postal-code\">30121</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "529156", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/28/6f/42/stanza-matrimoniale.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Vancouver, Canada",
+      "Title": "\u201cclean rooms, great location\u201d",
+      "Author": "blackbond_11",
+      "ReviewID": "UR119277512",
+      "Content": "hotel close bus train station air conditioned clean decent size grand canal falling window staff friendly offered breakfast savoury sweet options cappuccino remember hotels europe theres elevator pack lift",
+      "Date": "2011-10-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cIdeal spot\u201d",
+      "Author": "YYC_wayfarer",
+      "ReviewID": "UR101455040",
+      "Content": "nice yes probably read time spending youre venice clean quaint beds comfortable night exhausted walking day probably slept soundly table fantastic wine didnt hurt location nice 10 minute walk rialto bridge found casino huge mansion train station bus station scant minute hotel keys stop beside hotel cant comment breakfast ate perfect location exploring tourist madness piazza san marco",
+      "Date": "2011-03-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Antica Casa Carettoni",
+    "HotelURL": "/ShowUserReviews-g187870-d529156-Reviews-Antica_Casa_Carettoni-Venice_Veneto.html",
+    "Price": "$164 - $266*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Cannaregio 130</span>, <span class=\"locality\"><span property=\"v:postal-code\">30121</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "529156",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/28/6f/42/stanza-matrimoniale.jpg"
+  }
+}

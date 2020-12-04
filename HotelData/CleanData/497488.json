@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "New Delhi, India", "Title": "\u201cAllright if you get it under 70 EUR :)\u201d", "Author": "Nitin_Teckchandani", "ReviewID": "UR128104609", "Content": "comfortable stay booked cheaper rate 60 eur night worth stay charging 100 eur night double located blocks rome termini connected metro buses suggested hotel close termini hotel vintage charm look surprised hear 10 looks breakfast fine actually croissants coffee yoghurt fruits jam juices cereal milk dont free wifi charge 3 eur hour guess", "Date": "2012-04-18 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Birmingham, United Kingdom", "Title": "\u201cLiz & Ian, UK\u201d", "Author": "Ian B", "ReviewID": "UR125740247", "Content": "4 star hotel dated terms facilities decor shabby worst tv 6 channels shower move bend mini bar yes call 2 bottles water beer coke mini bar drink facilities poor restaurant bar management supply kettle drink late night bought flask obtain hot water drink brought 2 hours request 1am fallen asleep service night told impossible supply hot water serious note automatic fire doors jammed fire extinguishers heavy weights magnetic releases meant fire caught set alarm doors close fire spread location hotel class near main rail bus station weekend picked wrong hotel", "Date": "2012-03-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Sweden", "Title": "\u201cGood value for money\u201d", "Author": "MickeSweden", "ReviewID": "UR122909205", "Content": "simple hotel location minutes walk roma termini hotel bit outdated worn clean acceptable breakfast included basic bread boiled egg yoghurt cereals fine staff helpful pleasant recommendations restaurants request price location staff breakfast included hotel budget stay couple days rome", "Date": "2012-01-11 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cNot Recommended\u201d", "Author": "TravellersUs", "ReviewID": "UR118549415", "Content": "4 star hotel written rate 2 star closed month renovations guests hotel airconditioning preset minimum left hot time bed reasonably comfy ensuite previous guests empty shampoo containers shower hot water technician called fix teacoffee facilities breakfast wifi additional charge sit hallway lift appropriate floor location close termini walk luggage selection restaurants walking distance david reception polite helpfull return hotel", "Date": "2011-09-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Tel Aviv, Israel", "Title": "\u201cGood value for money\u201d", "Author": "rzg", "ReviewID": "UR107607798", "Content": "plan stay offered hotel reservations dest airport flight home cancelled spend extra 3 days rome single clean decor bathroom breakfast staff helpfull spoke fluent english unlike rome internet free 5\u20ac 12 hours fast connectivity recommend", "Date": "2011-05-10 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cnot more than 2 stars\u201d", "Author": "Michaelwzn", "ReviewID": "UR105363728", "Content": "booked night sister hotel hotel champagne park due lack wifi booking hotelscom transfered hotel champagne garden termini station closed station probably wifi expensive paid separately top overpriced hotel leaking radiator bathroom rude receptionist refused unless goes checks leak apologies inspection moved twin double paid floor bathroom dirty sticky walls dirty seriously require proper painting afraid complain receptionist rude accommodation rome overlooking banquet hall window probably enter fortunately havent events breakfast poor coffee disgusting 3 hotels 4 avoid", "Date": "2011-04-25 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Vejle, Denmark", "Title": "\u201cnice hotel\u201d", "Author": "TSTraveller74", "ReviewID": "UR65944983", "Content": "nice hotel close termini central station walk major sites central rome friendly staff nice lot soul hotel rated 4 stars 3 breakfeast served ok window closed noise street", "Date": "2010-05-31 00:00:00"}], "HotelInfo": {"Name": "Champagne Garden Hotel", "HotelURL": "/ShowUserReviews-g187791-d497488-Reviews-Champagne_Garden_Hotel-Rome_Lazio.html", "Price": "$155 - $293*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Vittorio Bachelet 4</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185 </span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "497488", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/22/52/2252f1f0a21de2d4afd4877bdad23e775large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "New Delhi, India",
+      "Title": "\u201cAllright if you get it under 70 EUR :)\u201d",
+      "Author": "Nitin_Teckchandani",
+      "ReviewID": "UR128104609",
+      "Content": "comfortable stay booked cheaper rate 60 eur night worth stay charging 100 eur night double located blocks rome termini connected metro buses suggested hotel close termini hotel vintage charm look surprised hear 10 looks breakfast fine actually croissants coffee yoghurt fruits jam juices cereal milk dont free wifi charge 3 eur hour guess",
+      "Date": "2012-04-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Birmingham, United Kingdom",
+      "Title": "\u201cLiz & Ian, UK\u201d",
+      "Author": "Ian B",
+      "ReviewID": "UR125740247",
+      "Content": "4 star hotel dated terms facilities decor shabby worst tv 6 channels shower move bend mini bar yes call 2 bottles water beer coke mini bar drink facilities poor restaurant bar management supply kettle drink late night bought flask obtain hot water drink brought 2 hours request 1am fallen asleep service night told impossible supply hot water serious note automatic fire doors jammed fire extinguishers heavy weights magnetic releases meant fire caught set alarm doors close fire spread location hotel class near main rail bus station weekend picked wrong hotel",
+      "Date": "2012-03-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Sweden",
+      "Title": "\u201cGood value for money\u201d",
+      "Author": "MickeSweden",
+      "ReviewID": "UR122909205",
+      "Content": "simple hotel location minutes walk roma termini hotel bit outdated worn clean acceptable breakfast included basic bread boiled egg yoghurt cereals fine staff helpful pleasant recommendations restaurants request price location staff breakfast included hotel budget stay couple days rome",
+      "Date": "2012-01-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cNot Recommended\u201d",
+      "Author": "TravellersUs",
+      "ReviewID": "UR118549415",
+      "Content": "4 star hotel written rate 2 star closed month renovations guests hotel airconditioning preset minimum left hot time bed reasonably comfy ensuite previous guests empty shampoo containers shower hot water technician called fix teacoffee facilities breakfast wifi additional charge sit hallway lift appropriate floor location close termini walk luggage selection restaurants walking distance david reception polite helpfull return hotel",
+      "Date": "2011-09-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Tel Aviv, Israel",
+      "Title": "\u201cGood value for money\u201d",
+      "Author": "rzg",
+      "ReviewID": "UR107607798",
+      "Content": "plan stay offered hotel reservations dest airport flight home cancelled spend extra 3 days rome single clean decor bathroom breakfast staff helpfull spoke fluent english unlike rome internet free 5\u20ac 12 hours fast connectivity recommend",
+      "Date": "2011-05-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cnot more than 2 stars\u201d",
+      "Author": "Michaelwzn",
+      "ReviewID": "UR105363728",
+      "Content": "booked night sister hotel hotel champagne park due lack wifi booking hotelscom transfered hotel champagne garden termini station closed station probably wifi expensive paid separately top overpriced hotel leaking radiator bathroom rude receptionist refused unless goes checks leak apologies inspection moved twin double paid floor bathroom dirty sticky walls dirty seriously require proper painting afraid complain receptionist rude accommodation rome overlooking banquet hall window probably enter fortunately havent events breakfast poor coffee disgusting 3 hotels 4 avoid",
+      "Date": "2011-04-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Vejle, Denmark",
+      "Title": "\u201cnice hotel\u201d",
+      "Author": "TSTraveller74",
+      "ReviewID": "UR65944983",
+      "Content": "nice hotel close termini central station walk major sites central rome friendly staff nice lot soul hotel rated 4 stars 3 breakfeast served ok window closed noise street",
+      "Date": "2010-05-31 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Champagne Garden Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d497488-Reviews-Champagne_Garden_Hotel-Rome_Lazio.html",
+    "Price": "$155 - $293*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Vittorio Bachelet 4</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185 </span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "497488",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/22/52/2252f1f0a21de2d4afd4877bdad23e775large.jpg"
+  }
+}

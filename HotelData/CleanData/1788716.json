@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "ayrshire, scotland", "Title": "\u201clovely hotel\u201d", "Author": "heather m", "ReviewID": "UR118387455", "Content": "spent 3 nights trend hotel pleased facilities city break spotless lovely decor helpful staff handy public transport rooftop pool cool sightseeing reading reviews bit worried please hotel stay", "Date": "2011-09-20 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "Istanbul, Turkey", "Title": "\u201cIdeal if you dont need any sleep and not interested in seeing the sights of Istanbul\u201d", "Author": "BrianWould", "ReviewID": "UR110544209", "Content": "search hotel cab easy address entrance main streetnot street impressions nice clean modern evening fell noise outside increased realised wasnt chance nights banging music chatter restaurants below meant couldnt sleep 3 am outside pestered street merchants people trying buying theres pop market aksaray station midnight short walk night intense dodgy types trying pressure bars girls girls girls themnot families women travellers breakfast meagre none usual hot food dry potatoes strange tasting dry toaster kettle tea coffee hotels travelling partner sought hotel gym closed 11am pool closed despite weather perfect little effort clients hotel 3 miles main attractions istanbul hotels welcome basket includes fruit bottle wine charged 10tl bags nuts welcome basket bought 125 tl corner wouldnt complained ultimately horrible nights found lovely cheaper hotel sultanahmet avoid hotel thumbs", "Date": "2011-05-30 00:00:00"}], "HotelInfo": {"Name": "Hotel Istanbul Trend", "HotelURL": "/ShowUserReviews-g293974-d1788716-Reviews-Hotel_Istanbul_Trend-Istanbul.html", "Price": "$105 - $209*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Mustafa Kemal Pasa caddesi No:86 Laleli</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34130</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "1788716", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/89/2d/cf/front-view.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "ayrshire, scotland",
+      "Title": "\u201clovely hotel\u201d",
+      "Author": "heather m",
+      "ReviewID": "UR118387455",
+      "Content": "spent 3 nights trend hotel pleased facilities city break spotless lovely decor helpful staff handy public transport rooftop pool cool sightseeing reading reviews bit worried please hotel stay",
+      "Date": "2011-09-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Istanbul, Turkey",
+      "Title": "\u201cIdeal if you dont need any sleep and not interested in seeing the sights of Istanbul\u201d",
+      "Author": "BrianWould",
+      "ReviewID": "UR110544209",
+      "Content": "search hotel cab easy address entrance main streetnot street impressions nice clean modern evening fell noise outside increased realised wasnt chance nights banging music chatter restaurants below meant couldnt sleep 3 am outside pestered street merchants people trying buying theres pop market aksaray station midnight short walk night intense dodgy types trying pressure bars girls girls girls themnot families women travellers breakfast meagre none usual hot food dry potatoes strange tasting dry toaster kettle tea coffee hotels travelling partner sought hotel gym closed 11am pool closed despite weather perfect little effort clients hotel 3 miles main attractions istanbul hotels welcome basket includes fruit bottle wine charged 10tl bags nuts welcome basket bought 125 tl corner wouldnt complained ultimately horrible nights found lovely cheaper hotel sultanahmet avoid hotel thumbs",
+      "Date": "2011-05-30 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Istanbul Trend",
+    "HotelURL": "/ShowUserReviews-g293974-d1788716-Reviews-Hotel_Istanbul_Trend-Istanbul.html",
+    "Price": "$105 - $209*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Mustafa Kemal Pasa caddesi No:86 Laleli</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34130</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "1788716",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/89/2d/cf/front-view.jpg"
+  }
+}

@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "San Jose, California", "Title": "\u201cYou get what you pay for.\u201d", "Author": "pokispapa", "ReviewID": "UR126967739", "Content": "admittedly stayed cheapest phoenix sleep night explain set main wing perpendicular road outdoor pool parking short wing parallel road creating front clerk school student training check smooth checked rear wing occupied term residence cooking upstairs walk talking units little noisy tried nap 5pm knock door looking else called front desk front wing told none available couldnt sleep tried internet repeated failure call front desk lots people tell trying eventually connect eventually people stop calling front desk walk front lobby wfi people calling telling rates double paid left dinner returned 11 people talking outside tired fell asleep okay phone call 1 am person afternoon visitor hear people talking yelling outside especially cars arrived left parking time 5 am pounding door calling person looked window told person wrong 730 left female knocking 5 sitting stairway front help final continental breakfast dozen bite sized muffins lobby counter drinks hot cold water bottom line cheap busy weekend spring training convenient freeway stay specifically stay front wing bring family circumstance", "Date": "2012-03-30 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Boston, Massachusetts", "Title": "\u201cFound Earing In My Bed...\u201d", "Author": "BusinessCO", "ReviewID": "UR119257906", "Content": "disgusting internet alarm clock tv remote food crumbs floor food blood splatter wall blanket looked 1960 solid layer dog hair carpet 4 women hoop earring bed walked im process trying refund management giving runaround am 5th phone call stay absolutely standards obviously change sheets vacuum carpets clean wall care condition sleep car", "Date": "2011-10-13 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Worcester,MA", "Title": "\u201cWorst experience ever\u201d", "Author": "aztraveler32010", "ReviewID": "UR57965552", "Content": "worst hotel stayed wife fast neighborhood changed feel safe bathroom sink stopper bay kitchen sink remote clockradio shampoo using sandpaper softer paper thin towels checking person glass enclosure clue picked motel late hour left left bad taste mouth travel inn doubt pick chain nights stay", "Date": "2010-03-07 00:00:00"}], "HotelInfo": {"Name": "Travel Inn", "HotelURL": "/ShowUserReviews-g31310-d74724-Reviews-Travel_Inn-Phoenix_Arizona.html", "Price": "$49 - $51*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4021 North 27th Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85017</span></span> </span></span></address>", "HotelID": "74724", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/1f/5f/10/travel-inn.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "San Jose, California",
+      "Title": "\u201cYou get what you pay for.\u201d",
+      "Author": "pokispapa",
+      "ReviewID": "UR126967739",
+      "Content": "admittedly stayed cheapest phoenix sleep night explain set main wing perpendicular road outdoor pool parking short wing parallel road creating front clerk school student training check smooth checked rear wing occupied term residence cooking upstairs walk talking units little noisy tried nap 5pm knock door looking else called front desk front wing told none available couldnt sleep tried internet repeated failure call front desk lots people tell trying eventually connect eventually people stop calling front desk walk front lobby wfi people calling telling rates double paid left dinner returned 11 people talking outside tired fell asleep okay phone call 1 am person afternoon visitor hear people talking yelling outside especially cars arrived left parking time 5 am pounding door calling person looked window told person wrong 730 left female knocking 5 sitting stairway front help final continental breakfast dozen bite sized muffins lobby counter drinks hot cold water bottom line cheap busy weekend spring training convenient freeway stay specifically stay front wing bring family circumstance",
+      "Date": "2012-03-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Boston, Massachusetts",
+      "Title": "\u201cFound Earing In My Bed...\u201d",
+      "Author": "BusinessCO",
+      "ReviewID": "UR119257906",
+      "Content": "disgusting internet alarm clock tv remote food crumbs floor food blood splatter wall blanket looked 1960 solid layer dog hair carpet 4 women hoop earring bed walked im process trying refund management giving runaround am 5th phone call stay absolutely standards obviously change sheets vacuum carpets clean wall care condition sleep car",
+      "Date": "2011-10-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Worcester,MA",
+      "Title": "\u201cWorst experience ever\u201d",
+      "Author": "aztraveler32010",
+      "ReviewID": "UR57965552",
+      "Content": "worst hotel stayed wife fast neighborhood changed feel safe bathroom sink stopper bay kitchen sink remote clockradio shampoo using sandpaper softer paper thin towels checking person glass enclosure clue picked motel late hour left left bad taste mouth travel inn doubt pick chain nights stay",
+      "Date": "2010-03-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Travel Inn",
+    "HotelURL": "/ShowUserReviews-g31310-d74724-Reviews-Travel_Inn-Phoenix_Arizona.html",
+    "Price": "$49 - $51*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4021 North 27th Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85017</span></span> </span></span></address>",
+    "HotelID": "74724",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/1f/5f/10/travel-inn.jpg"
+  }
+}

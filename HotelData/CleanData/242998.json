@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Torquay, United Kingdom", "Title": "\u201cIf you want better - then pay for it\u201d", "Author": "bobbamber", "ReviewID": "UR73285382", "Content": "stayed hotel 13 nights decent authority staying single basic negatives satelite tv none tv 5 terrestrial channels tiny ensuite literally ive seen technically shower toilet sink counts fire alarms twice hours faults system safe wasnt happy breakfast awful awful days stopped bread cornflakes milk left ages warm positives value \u00a350 night centre london amazing value 5 star title youre pay staff friendly happy help whenever free wifi tin fuss internet didnt cost stray train noise railway station noise wasnt bad otherside hotel maybe whos worse window wide youre light sleeper ear plugs shout im pretty sleeper didnt notice wasnt bad simple served purpose 5 star hotel means location perfect cheap stay london perfectly reasonable hotel accounts food eventually day youre 200 yards victoria shopping centre plenty food", "Date": "2010-08-01 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "DUblin", "Title": "\u201cStay away from here\u201d", "Author": "DublinJaney", "ReviewID": "UR64156019", "Content": "returned nights stay husband 2 children return carpet bedroom torn stained sparse furnishings chipped broken curtain window fit bright external light shone ensuite size broom cupboard piece plastic porta loo smell horrendous bottom door rotten gap door unable alternative accomodation forced spend night dump noise outside night unbelievable noise vibration trains rumbled night little sleep positive features nice staff location stay", "Date": "2010-05-14 00:00:00"}], "HotelInfo": {"Name": "Edward House", "HotelURL": "/ShowUserReviews-g186338-d242998-Reviews-Edward_House-London_England.html", "Price": "$56 - $190*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5 St Georges Drive</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">SW1V 4DP</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>", "HotelID": "242998", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e4/3a/e43a728c57e2b98803f8a9c4c01410c35large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Torquay, United Kingdom",
+      "Title": "\u201cIf you want better - then pay for it\u201d",
+      "Author": "bobbamber",
+      "ReviewID": "UR73285382",
+      "Content": "stayed hotel 13 nights decent authority staying single basic negatives satelite tv none tv 5 terrestrial channels tiny ensuite literally ive seen technically shower toilet sink counts fire alarms twice hours faults system safe wasnt happy breakfast awful awful days stopped bread cornflakes milk left ages warm positives value \u00a350 night centre london amazing value 5 star title youre pay staff friendly happy help whenever free wifi tin fuss internet didnt cost stray train noise railway station noise wasnt bad otherside hotel maybe whos worse window wide youre light sleeper ear plugs shout im pretty sleeper didnt notice wasnt bad simple served purpose 5 star hotel means location perfect cheap stay london perfectly reasonable hotel accounts food eventually day youre 200 yards victoria shopping centre plenty food",
+      "Date": "2010-08-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "DUblin",
+      "Title": "\u201cStay away from here\u201d",
+      "Author": "DublinJaney",
+      "ReviewID": "UR64156019",
+      "Content": "returned nights stay husband 2 children return carpet bedroom torn stained sparse furnishings chipped broken curtain window fit bright external light shone ensuite size broom cupboard piece plastic porta loo smell horrendous bottom door rotten gap door unable alternative accomodation forced spend night dump noise outside night unbelievable noise vibration trains rumbled night little sleep positive features nice staff location stay",
+      "Date": "2010-05-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Edward House",
+    "HotelURL": "/ShowUserReviews-g186338-d242998-Reviews-Edward_House-London_England.html",
+    "Price": "$56 - $190*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5 St Georges Drive</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">SW1V 4DP</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>",
+    "HotelID": "242998",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e4/3a/e43a728c57e2b98803f8a9c4c01410c35large.jpg"
+  }
+}

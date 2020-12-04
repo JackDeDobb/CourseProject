@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "North Little Rock, AR", "Title": "\u201cAccused of theft\u201d", "Author": "Loretta D", "ReviewID": "UR125292204", "Content": "days stay january 2012 microtel champaign charged 5 credit card plastic ice bucket call notify charging account phone assumed theft stole plastic ice bucket stay microtel inns suites am thief", "Date": "2012-02-27 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Milwaukee, Wisconsin", "Title": "\u201cWORST HOTEL EVER!\u201d", "Author": "ckam21", "ReviewID": "UR120958823", "Content": "dont hotel 3 5 honestly worst hotel ive stayed carpets badly stained brown spots throughout hallways towels holes sand paper guess replaced didnt provide amenities shampoo bed quilt am multiple holes looked washed heater didnt freezing night location hotel middle corn fields farthest hotel city champaign stay hotel", "Date": "2011-11-23 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "KENTUCKY", "Title": "\u201cCheap/Quiet\u201d", "Author": "JESS154", "ReviewID": "UR119165850", "Content": "worried staying hotel previous guys reviewbut staff nice stayed nights rate town business hotel frequent stay program wasnt housekeeping job recommend hotel replace carpeting improve breakfast", "Date": "2011-10-10 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Indianapolis, Indiana", "Title": "\u201cI would rather sleep in my car\u201d", "Author": "nadakage", "ReviewID": "UR94463644", "Content": "redeeming quality service front desk people encountered friendly helpful wife stayed university illinois homecoming weekend time hotels jack rates night stay 200 expensive typical weekly rate walked camping little popup campers cramped bed thin sheets blankets scratchy totally uncomfortable pillows musty bath towels itchy sleep car", "Date": "2011-01-26 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "pequot lakes", "Title": "\u201cNO NO NO!!!!\u201d", "Author": "sargcap", "ReviewID": "UR92145744", "Content": "snowing icy road quickly called car looked outside soon motel listened voice head leave seen plastic table cloth inside door table booklets horrid dirty beds horrible stay leave negative", "Date": "2011-01-08 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Homewood, Illinois", "Title": "\u201cPay the extra and get quality\u201d", "Author": "mjxxcj", "ReviewID": "UR81597704", "Content": "sparse laundry facilities welcoming bug crawling door found middle tried head uncomfortable beds bedding towels laundry facilities soccer team fun home receive extra charge call broken bed frame dont broke appreciated call wondering quality bed frame quality rest hotel appeared beds floor low lesson learned pay pay", "Date": "2010-09-30 00:00:00"}], "HotelInfo": {"Name": "Microtel Inn", "HotelURL": "/ShowUserReviews-g35790-d232223-Reviews-Microtel_Inn-Champaign_Illinois.html", "Price": "$52 - $88*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1615 Rion Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Champaign</span>, <span property=\"v:region\">IL</span> <span property=\"v:postal-code\">61822</span></span> </span> </span> </address>", "HotelID": "232223", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/54/05/5405e05e0001ddcc132ebdc3f5567cc63large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "North Little Rock, AR",
+      "Title": "\u201cAccused of theft\u201d",
+      "Author": "Loretta D",
+      "ReviewID": "UR125292204",
+      "Content": "days stay january 2012 microtel champaign charged 5 credit card plastic ice bucket call notify charging account phone assumed theft stole plastic ice bucket stay microtel inns suites am thief",
+      "Date": "2012-02-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Milwaukee, Wisconsin",
+      "Title": "\u201cWORST HOTEL EVER!\u201d",
+      "Author": "ckam21",
+      "ReviewID": "UR120958823",
+      "Content": "dont hotel 3 5 honestly worst hotel ive stayed carpets badly stained brown spots throughout hallways towels holes sand paper guess replaced didnt provide amenities shampoo bed quilt am multiple holes looked washed heater didnt freezing night location hotel middle corn fields farthest hotel city champaign stay hotel",
+      "Date": "2011-11-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "KENTUCKY",
+      "Title": "\u201cCheap/Quiet\u201d",
+      "Author": "JESS154",
+      "ReviewID": "UR119165850",
+      "Content": "worried staying hotel previous guys reviewbut staff nice stayed nights rate town business hotel frequent stay program wasnt housekeeping job recommend hotel replace carpeting improve breakfast",
+      "Date": "2011-10-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Indianapolis, Indiana",
+      "Title": "\u201cI would rather sleep in my car\u201d",
+      "Author": "nadakage",
+      "ReviewID": "UR94463644",
+      "Content": "redeeming quality service front desk people encountered friendly helpful wife stayed university illinois homecoming weekend time hotels jack rates night stay 200 expensive typical weekly rate walked camping little popup campers cramped bed thin sheets blankets scratchy totally uncomfortable pillows musty bath towels itchy sleep car",
+      "Date": "2011-01-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "pequot lakes",
+      "Title": "\u201cNO NO NO!!!!\u201d",
+      "Author": "sargcap",
+      "ReviewID": "UR92145744",
+      "Content": "snowing icy road quickly called car looked outside soon motel listened voice head leave seen plastic table cloth inside door table booklets horrid dirty beds horrible stay leave negative",
+      "Date": "2011-01-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Homewood, Illinois",
+      "Title": "\u201cPay the extra and get quality\u201d",
+      "Author": "mjxxcj",
+      "ReviewID": "UR81597704",
+      "Content": "sparse laundry facilities welcoming bug crawling door found middle tried head uncomfortable beds bedding towels laundry facilities soccer team fun home receive extra charge call broken bed frame dont broke appreciated call wondering quality bed frame quality rest hotel appeared beds floor low lesson learned pay pay",
+      "Date": "2010-09-30 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Microtel Inn",
+    "HotelURL": "/ShowUserReviews-g35790-d232223-Reviews-Microtel_Inn-Champaign_Illinois.html",
+    "Price": "$52 - $88*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1615 Rion Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Champaign</span>, <span property=\"v:region\">IL</span> <span property=\"v:postal-code\">61822</span></span> </span> </span> </address>",
+    "HotelID": "232223",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/54/05/5405e05e0001ddcc132ebdc3f5567cc63large.jpg"
+  }
+}

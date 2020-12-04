@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Boston, Massachusetts", "Title": "\u201cGreat little hotel\u201d", "Author": "iwishiwasinitaly", "ReviewID": "UR92325044", "Content": "hotel nofrills perfect budget hosts nice clean street little noisy location breakfast served morning simple nice start day rome nice little restaurants close defiantly stay", "Date": "2011-01-09 00:00:00"}], "HotelInfo": {"Name": "Affittacamere Aries", "HotelURL": "/ShowUserReviews-g187791-d571031-Reviews-Affittacamere_Aries-Rome_Lazio.html", "Price": "$66 - $158*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Venti Settembre 58/a</span> | <span class=\"extended-address\">scala B int. 3/4</span>, <span class=\"locality\"><span property=\"v:postal-code\">00187</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "571031", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8a/ca/8aca439d48e20c23dbf2cb0342d744591large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Boston, Massachusetts",
+      "Title": "\u201cGreat little hotel\u201d",
+      "Author": "iwishiwasinitaly",
+      "ReviewID": "UR92325044",
+      "Content": "hotel nofrills perfect budget hosts nice clean street little noisy location breakfast served morning simple nice start day rome nice little restaurants close defiantly stay",
+      "Date": "2011-01-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Affittacamere Aries",
+    "HotelURL": "/ShowUserReviews-g187791-d571031-Reviews-Affittacamere_Aries-Rome_Lazio.html",
+    "Price": "$66 - $158*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Venti Settembre 58/a</span> | <span class=\"extended-address\">scala B int. 3/4</span>, <span class=\"locality\"><span property=\"v:postal-code\">00187</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "571031",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8a/ca/8aca439d48e20c23dbf2cb0342d744591large.jpg"
+  }
+}

@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Lausanne, Switzerland", "Title": "\u201cMore than your money's worth!\u201d", "Author": "pbocsak", "ReviewID": "UR95855177", "Content": "trip rome decided stay san paolo time staff nice helpful clean metro stops downtown located safe metro stop 5 minutes foot 200m id highly recommend stay staff speaks variety languages italian french english german", "Date": "2011-02-08 00:00:00"}], "HotelInfo": {"Name": "Pensionato San Paolo", "HotelURL": "/ShowUserReviews-g187791-d529345-Reviews-Pensionato_San_Paolo-Rome_Lazio.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Viale F. Baldelli 41</span>, <span class=\"locality\"><span property=\"v:postal-code\">146</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "529345", "ImgURL": "http://www.venere.com/img/hotel/0/8/7/3/13780/13780.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Lausanne, Switzerland",
+      "Title": "\u201cMore than your money's worth!\u201d",
+      "Author": "pbocsak",
+      "ReviewID": "UR95855177",
+      "Content": "trip rome decided stay san paolo time staff nice helpful clean metro stops downtown located safe metro stop 5 minutes foot 200m id highly recommend stay staff speaks variety languages italian french english german",
+      "Date": "2011-02-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Pensionato San Paolo",
+    "HotelURL": "/ShowUserReviews-g187791-d529345-Reviews-Pensionato_San_Paolo-Rome_Lazio.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Viale F. Baldelli 41</span>, <span class=\"locality\"><span property=\"v:postal-code\">146</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "529345",
+    "ImgURL": "http://www.venere.com/img/hotel/0/8/7/3/13780/13780.jpg"
+  }
+}

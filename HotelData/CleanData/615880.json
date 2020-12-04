@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Gainesville, Florida", "Title": "\u201cTERRIBLE EXPERIENCE\u201d", "Author": "RACHEL R", "ReviewID": "UR126462792", "Content": "difficult hotel drove 1 12 hours called hotel 8 times hotels staff provide proper directions staff inefficient hotel disappointing rented 2 hot water found roaches restrooms safes hotel map airport worse hotel experience", "Date": "2012-03-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "PR", "Title": "\u201cExcellent\u201d", "Author": "travel_agent_Queb", "ReviewID": "UR120869921", "Content": "hotel city center santa rosa mall comfy home wow stayed night found clean friendly staff mall walking distance 10", "Date": "2011-11-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Jacksonville, Fl", "Title": "\u201cCaribbean Martial Arts Seminar\u201d", "Author": "aikido2", "ReviewID": "UR107585204", "Content": "martial arts training seminar spouses nice hotel considering definitely little am accustomed hotel stayed able size clean bathroom clean modern thumbs thats pool beach close extremely hot difficult trip weather kinda entire time guess air greatvery cold comfortable midst summer hot puerto rico appreciation hotel updating including tv carpet microwave fridge welcomed plus especially diabetic medications refrigerated times time ive stayed hotel fridge microwave definitely challenge entire staff awesome else lacking front desk attendant extremely patient pleasant personalities youd encounter smile helpful maria front desk attendant pleasant person print boarding passes trip home following day beyond call courtesy toget passes printed check process smoothly driver name carlos chain guide tourist spots tell drive awesome extremely nice hotel restaurant impressive waiter cant remember name owner sweetest people met attentive accommodating day finally tried beans rice chicken wings pleasantly surpirsed food guess choosing wrong eats stay hotel gotta try guava butter spread freshly baked rolls soooo pretty bread spread oh thingyou gotta sangria bartender hotel makes ive tasted wasnt alcohol refreshing definitely stay hotel planning trip puerto rico time stay san juan beautiful beachs", "Date": "2011-05-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Minneapolis", "Title": "\u201cVery nice place\u201d", "Author": "AttractionUSA", "ReviewID": "UR94006523", "Content": "stayed couple nights visit san jose rincon hotel staff helpful clean 10 minutes car san juan wasnt commute saved 90 night versus staying tourist san juan isnt night life ahead time definitely hotel", "Date": "2011-01-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Florida", "Title": "\u201cCare Free\u201d", "Author": "retiredchic", "ReviewID": "UR92166867", "Content": "hotel staff friendley helpful hotel clean neat stayed 5 days 6 nights rented car gone day visiting family shopping returned hotel night parking convinient safe underground plenty parking spaces ate dinner extended family hotel restaurant food tipical puertorican cuisine fresh delicious reasonable priced thank luis accomodating restaurant excellent service recommend hotel travelers business families", "Date": "2011-01-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Georgetown, Massachusetts", "Title": "\u201cWonderful Atmosphere\u201d", "Author": "Zoraida724", "ReviewID": "UR83231623", "Content": "recommend san miguel plaza hotel visiting puerto rico stay perfect quiet hotel excellent restaurant hotel dont food people music returned puerto rico 20 father little concerned booking hotel san miguel plaza hotel makes feel comfortable clean staff wonderful leave special treatment helpful giving directions san juan plan return soon", "Date": "2010-10-12 00:00:00"}], "HotelInfo": {"Name": "San Miguel Plaza Hotel", "HotelURL": "/ShowUserReviews-g1020017-d615880-Reviews-San_Miguel_Plaza_Hotel-Bayamon_Puerto_Rico.html", "Price": "$113 - $126*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2 Calle Las Rosas Apt 101</span> | <span class=\"extended-address\">San Miguel Plaza</span>, <span class=\"locality\"><span property=\"v:locality\">Bayamon</span> <span property=\"v:postal-code\">00961</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>", "HotelID": "615880", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e4/6a/e46a56a18d962ddc12f5dff96b597dac3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Gainesville, Florida",
+      "Title": "\u201cTERRIBLE EXPERIENCE\u201d",
+      "Author": "RACHEL R",
+      "ReviewID": "UR126462792",
+      "Content": "difficult hotel drove 1 12 hours called hotel 8 times hotels staff provide proper directions staff inefficient hotel disappointing rented 2 hot water found roaches restrooms safes hotel map airport worse hotel experience",
+      "Date": "2012-03-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "PR",
+      "Title": "\u201cExcellent\u201d",
+      "Author": "travel_agent_Queb",
+      "ReviewID": "UR120869921",
+      "Content": "hotel city center santa rosa mall comfy home wow stayed night found clean friendly staff mall walking distance 10",
+      "Date": "2011-11-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Jacksonville, Fl",
+      "Title": "\u201cCaribbean Martial Arts Seminar\u201d",
+      "Author": "aikido2",
+      "ReviewID": "UR107585204",
+      "Content": "martial arts training seminar spouses nice hotel considering definitely little am accustomed hotel stayed able size clean bathroom clean modern thumbs thats pool beach close extremely hot difficult trip weather kinda entire time guess air greatvery cold comfortable midst summer hot puerto rico appreciation hotel updating including tv carpet microwave fridge welcomed plus especially diabetic medications refrigerated times time ive stayed hotel fridge microwave definitely challenge entire staff awesome else lacking front desk attendant extremely patient pleasant personalities youd encounter smile helpful maria front desk attendant pleasant person print boarding passes trip home following day beyond call courtesy toget passes printed check process smoothly driver name carlos chain guide tourist spots tell drive awesome extremely nice hotel restaurant impressive waiter cant remember name owner sweetest people met attentive accommodating day finally tried beans rice chicken wings pleasantly surpirsed food guess choosing wrong eats stay hotel gotta try guava butter spread freshly baked rolls soooo pretty bread spread oh thingyou gotta sangria bartender hotel makes ive tasted wasnt alcohol refreshing definitely stay hotel planning trip puerto rico time stay san juan beautiful beachs",
+      "Date": "2011-05-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Minneapolis",
+      "Title": "\u201cVery nice place\u201d",
+      "Author": "AttractionUSA",
+      "ReviewID": "UR94006523",
+      "Content": "stayed couple nights visit san jose rincon hotel staff helpful clean 10 minutes car san juan wasnt commute saved 90 night versus staying tourist san juan isnt night life ahead time definitely hotel",
+      "Date": "2011-01-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Florida",
+      "Title": "\u201cCare Free\u201d",
+      "Author": "retiredchic",
+      "ReviewID": "UR92166867",
+      "Content": "hotel staff friendley helpful hotel clean neat stayed 5 days 6 nights rented car gone day visiting family shopping returned hotel night parking convinient safe underground plenty parking spaces ate dinner extended family hotel restaurant food tipical puertorican cuisine fresh delicious reasonable priced thank luis accomodating restaurant excellent service recommend hotel travelers business families",
+      "Date": "2011-01-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Georgetown, Massachusetts",
+      "Title": "\u201cWonderful Atmosphere\u201d",
+      "Author": "Zoraida724",
+      "ReviewID": "UR83231623",
+      "Content": "recommend san miguel plaza hotel visiting puerto rico stay perfect quiet hotel excellent restaurant hotel dont food people music returned puerto rico 20 father little concerned booking hotel san miguel plaza hotel makes feel comfortable clean staff wonderful leave special treatment helpful giving directions san juan plan return soon",
+      "Date": "2010-10-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "San Miguel Plaza Hotel",
+    "HotelURL": "/ShowUserReviews-g1020017-d615880-Reviews-San_Miguel_Plaza_Hotel-Bayamon_Puerto_Rico.html",
+    "Price": "$113 - $126*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2 Calle Las Rosas Apt 101</span> | <span class=\"extended-address\">San Miguel Plaza</span>, <span class=\"locality\"><span property=\"v:locality\">Bayamon</span> <span property=\"v:postal-code\">00961</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>",
+    "HotelID": "615880",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e4/6a/e46a56a18d962ddc12f5dff96b597dac3large.jpg"
+  }
+}

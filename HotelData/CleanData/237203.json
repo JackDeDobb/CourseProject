@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cbasic hotel stuck in the 70's\u201d", "Author": "Chris_Battersea", "ReviewID": "UR127015458", "Content": "coming rome la asian basic hotel near motorway decent doorbut overall hotel stuck 70s time warp service front desk slow employees none helping guests phone staring paper writing conversations lord demands concentration exuberance usually guests standing queue check name basic wifi basic towels fierce lighting dorm style beds basic toiletries tiled floors beware floor 1 park hear traffic 7 am midnight breakfast looks wedding hall banquet decent breakfast coldhot buffet stiff tourist hotel businessmen budget overnight stay comfortable nor convenient apart eur location staff seen days hotel 70s", "Date": "2012-03-31 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Italy", "Title": "\u201cAn \"oldie,\" but a goodie!\u201d", "Author": "Mis_Adventurous", "ReviewID": "UR124965974", "Content": "hotel aged tired decor location gra fantastic location walking distance 2 largest mall lazio typical european firm mattress flat pillows sparse surroundings fine except walls paper thin actually hear guy switching lights bedside table apparently guy coughed night hear hotel average rating rate sheraton roma stayed times staff shangri la capable checking travelers hour finally keys kept losing ability door funny guy front desk passport resetting key staff breakfast accommodating ready arrived cappuccino cornetto selection fresh fruit aggravation waiting water pressure hotel awesome nice hot shower plenty water pressure huge plus", "Date": "2012-02-21 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "usa", "Title": "\u201cPerfect location and set-up\u201d", "Author": "usintheusa", "ReviewID": "UR122444869", "Content": "checked pet charge smoking smoking sometimes encountered sold nonsmoking reeking smoke nevertheless stayed 4 nights enjoyed minute restaurant offered sumptuous meals able accommodate special dietary party excellent food music service features loved shower surprisingly roomy compared hotel showers previously encountered italy stones throw lake eur major shopping mall store restaurant options", "Date": "2012-01-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 1.0}, "AuthorLocation": "Athens, Greece", "Title": "\u201cExcellent service, peaceful atmosphere, clear rooms.\u201d", "Author": "eviar4", "ReviewID": "UR83486623", "Content": "service excellent staff polite trying satisfy clients staff afraid unemployment crisis breakfast rich interestingly hotel peaceful unfortunately stay nights definitely prefere stay time visit rome despite unfavorable location eur outside historical center", "Date": "2010-10-14 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Warsaw, Poland", "Title": "\u201cSea-resort-style hotel in the metropoly...\u201d", "Author": "Dorotka_BS", "ReviewID": "UR82604762", "Content": "dont believe pictures hotels website bring images luxury resort whereas ordinary hotel business travelers commercial park nearby wouldnt stay private trip ok steam bath plus noise street underneath makes calm night window impossible breakfast modest thumbs choice pastry possibility getting coffee bar buffet table vile apart eat staff speaks hardly english welcoming distance city centre", "Date": "2010-10-08 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Hull, Yorkshire", "Title": "\u201cWhy close parts of this 'resort' during the busiest time of the year for tourists??\u201d", "Author": "killickgolly", "ReviewID": "UR76916195", "Content": "busy road bustling traffic lots noise sadly exactly expect head double king size bed arrival found single beds pushed instead advertised resort book sounded fantastic able site sadly closed restaurant means walk eat shops closed bar 1900 hours poor indeed tip basically book august dissapointed car hire distance car sat nav easily vatican museum etc worth visit resort live 4 star standard throughout stay lucky achieved 1 star staff bothered closed suggested taxi various resulted huge cost taxis expensive italy", "Date": "2010-08-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "paris", "Title": "\u201ca big jump in the sixties\u201d", "Author": "bambou13", "ReviewID": "UR71339330", "Content": "entering hotel prepared walk bourgeois setting sixties lost twenty retro hotel difficult electricity service excellent pay prices famous restaurant provider service stand people serving stern bad feel serve dared express looked mars check hotel bill reception desk il computer god reference bill trust mistake bill rechecking stand mentality disadvantages", "Date": "2010-07-18 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Uberl\u00e2ndia", "Title": "\u201cFunny!\u201d", "Author": "jdallaglio", "ReviewID": "UR55485003", "Content": "husband shangri hotel rome october 2008 funny experience stayed 2 days style wide lightening dinner restaurant alive music service besides lunch althoug little expensive meat special red wine delicious localization near via historical center", "Date": "2010-02-08 00:00:00"}], "HotelInfo": {"Name": "Shangri La Corsetti", "HotelURL": "/ShowUserReviews-g187791-d237203-Reviews-Shangri_La_Corsetti-Rome_Lazio.html", "Price": "$121 - $230*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Viale Algeria, 141</span>, <span class=\"locality\"><span property=\"v:postal-code\">00144</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "237203", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/67/58/8d/shangri-la-corsetti.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cbasic hotel stuck in the 70's\u201d",
+      "Author": "Chris_Battersea",
+      "ReviewID": "UR127015458",
+      "Content": "coming rome la asian basic hotel near motorway decent doorbut overall hotel stuck 70s time warp service front desk slow employees none helping guests phone staring paper writing conversations lord demands concentration exuberance usually guests standing queue check name basic wifi basic towels fierce lighting dorm style beds basic toiletries tiled floors beware floor 1 park hear traffic 7 am midnight breakfast looks wedding hall banquet decent breakfast coldhot buffet stiff tourist hotel businessmen budget overnight stay comfortable nor convenient apart eur location staff seen days hotel 70s",
+      "Date": "2012-03-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Italy",
+      "Title": "\u201cAn \"oldie,\" but a goodie!\u201d",
+      "Author": "Mis_Adventurous",
+      "ReviewID": "UR124965974",
+      "Content": "hotel aged tired decor location gra fantastic location walking distance 2 largest mall lazio typical european firm mattress flat pillows sparse surroundings fine except walls paper thin actually hear guy switching lights bedside table apparently guy coughed night hear hotel average rating rate sheraton roma stayed times staff shangri la capable checking travelers hour finally keys kept losing ability door funny guy front desk passport resetting key staff breakfast accommodating ready arrived cappuccino cornetto selection fresh fruit aggravation waiting water pressure hotel awesome nice hot shower plenty water pressure huge plus",
+      "Date": "2012-02-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "usa",
+      "Title": "\u201cPerfect location and set-up\u201d",
+      "Author": "usintheusa",
+      "ReviewID": "UR122444869",
+      "Content": "checked pet charge smoking smoking sometimes encountered sold nonsmoking reeking smoke nevertheless stayed 4 nights enjoyed minute restaurant offered sumptuous meals able accommodate special dietary party excellent food music service features loved shower surprisingly roomy compared hotel showers previously encountered italy stones throw lake eur major shopping mall store restaurant options",
+      "Date": "2012-01-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Athens, Greece",
+      "Title": "\u201cExcellent service, peaceful atmosphere, clear rooms.\u201d",
+      "Author": "eviar4",
+      "ReviewID": "UR83486623",
+      "Content": "service excellent staff polite trying satisfy clients staff afraid unemployment crisis breakfast rich interestingly hotel peaceful unfortunately stay nights definitely prefere stay time visit rome despite unfavorable location eur outside historical center",
+      "Date": "2010-10-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Warsaw, Poland",
+      "Title": "\u201cSea-resort-style hotel in the metropoly...\u201d",
+      "Author": "Dorotka_BS",
+      "ReviewID": "UR82604762",
+      "Content": "dont believe pictures hotels website bring images luxury resort whereas ordinary hotel business travelers commercial park nearby wouldnt stay private trip ok steam bath plus noise street underneath makes calm night window impossible breakfast modest thumbs choice pastry possibility getting coffee bar buffet table vile apart eat staff speaks hardly english welcoming distance city centre",
+      "Date": "2010-10-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Hull, Yorkshire",
+      "Title": "\u201cWhy close parts of this 'resort' during the busiest time of the year for tourists??\u201d",
+      "Author": "killickgolly",
+      "ReviewID": "UR76916195",
+      "Content": "busy road bustling traffic lots noise sadly exactly expect head double king size bed arrival found single beds pushed instead advertised resort book sounded fantastic able site sadly closed restaurant means walk eat shops closed bar 1900 hours poor indeed tip basically book august dissapointed car hire distance car sat nav easily vatican museum etc worth visit resort live 4 star standard throughout stay lucky achieved 1 star staff bothered closed suggested taxi various resulted huge cost taxis expensive italy",
+      "Date": "2010-08-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "paris",
+      "Title": "\u201ca big jump in the sixties\u201d",
+      "Author": "bambou13",
+      "ReviewID": "UR71339330",
+      "Content": "entering hotel prepared walk bourgeois setting sixties lost twenty retro hotel difficult electricity service excellent pay prices famous restaurant provider service stand people serving stern bad feel serve dared express looked mars check hotel bill reception desk il computer god reference bill trust mistake bill rechecking stand mentality disadvantages",
+      "Date": "2010-07-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Uberl\u00e2ndia",
+      "Title": "\u201cFunny!\u201d",
+      "Author": "jdallaglio",
+      "ReviewID": "UR55485003",
+      "Content": "husband shangri hotel rome october 2008 funny experience stayed 2 days style wide lightening dinner restaurant alive music service besides lunch althoug little expensive meat special red wine delicious localization near via historical center",
+      "Date": "2010-02-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Shangri La Corsetti",
+    "HotelURL": "/ShowUserReviews-g187791-d237203-Reviews-Shangri_La_Corsetti-Rome_Lazio.html",
+    "Price": "$121 - $230*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Viale Algeria, 141</span>, <span class=\"locality\"><span property=\"v:postal-code\">00144</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "237203",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/67/58/8d/shangri-la-corsetti.jpg"
+  }
+}

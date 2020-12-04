@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Dubai, United Arab Emirates", "Title": "\u201cAverage room, excellent location\u201d", "Author": "Solitaire13", "ReviewID": "UR133417944", "Content": "stayed 2 nights fabulous terms location plaza mayor steps explore late night knowing block staff friendly courteous importantly speak english free wifi clean cozy wouldnt comfortable staying period 2 nights perfect", "Date": "2012-07-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Leawood, KS", "Title": "\u201cgreat location\u201d", "Author": "RealKathy", "ReviewID": "UR128495746", "Content": "stayed march 2004 remembered street noise latenight revelers convenience plaza mayor puerta del sol prado reina sofia shops restaurants bars perfect returned elevator bring own washcloth ear plugs clean bathrooms tiny en suite nice shared showertoiletsink hall bargain travelers lack fancy fine price convenient location", "Date": "2012-04-24 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Chicago", "Title": "\u201cGreat location - decent for budget travel\u201d", "Author": "mp1212", "ReviewID": "UR90521955", "Content": "hostel amazing location literally corner plaza mayor minute walk plaza del sol extremely beautiful bustling cafes bars restaurants metro stop balance location hostel flaws la perla claims staff speaks english unfortunately ten percent true staff operates basis meaning dont dig english skills wont kept clean isnt saying considering furniture bedding look extremely necessities balcony allows step fresh air provides form satisfaction remember bring own toiletries computer located lobby access internet 1 euro 30 minutes", "Date": "2010-12-23 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Lisbon, Portugal", "Title": "\u201cGreat location 1 minute walk from Puerta del Sol and Plaza Mayor\u201d", "Author": "Burrinha", "ReviewID": "UR72254544", "Content": "simple hostel centre city distance walking main attractions city welcoming staff nice safe closet price didnt breakfast included actually dont breakfast cafes close hostel expensive loved madrid definitely stay", "Date": "2010-07-25 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Plovdiv, Bulgaria", "Title": "\u201cThe heart of Madrid\u201d", "Author": "kotzeto", "ReviewID": "UR68767067", "Content": "stayed friends days june 2010the location worth madrid walking distancethe staff friendlythe little bit smallbut expect okthe disturbed noise night slept windows", "Date": "2010-06-26 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "lisbon", "Title": "\u201cGREAT LOCATION\u201d", "Author": "kittykatLisbon", "ReviewID": "UR66594965", "Content": "stayed hostel 2 nights traveling madrid leisure advice close turistic nightlife ok planning stay hours rest it\u00b4s cheap", "Date": "2010-06-06 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Tamworth", "Title": "\u201cBed Bugs!!!!!\u201d", "Author": "PaulandSarahTamworth", "ReviewID": "UR56841990", "Content": "tick sign guests 24 hours day told bed locking door local homeless drunks sang night below window ancient wouldnt close properly apparently homeless drunks spend night singing ang kicking shop shutters loud police didnot street cleaners 3am noisily jet washing square below window refuse garbage noisily emptying 4am quieten itch light discovered bed bed bugs 10 minutes covered lumps bodies girlfriend allergic reaction hunt kill sleep 5am time sleep mind told desk morning acted happens time maybe maybe sound asleep wouldnt bites avoid", "Date": "2010-02-23 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Luxembourg", "Title": "\u201cGreat location - and nothing else.\u201d", "Author": "MayaLux", "ReviewID": "UR55552380", "Content": "chose hotel mainly superb location convenient price im staying budget hotels didnt expect luxury quality accomodation below standards miniature looked single advertised double idea 120 cm bed called double air conditioning bed uncomfortable squeaky difficulty getting hot water shower looked fairly clean bed linen towels worn difficult ear caps night sleep step word spoken hallway heard unfortunately cant positive except location truly amazing corner la plaza mayor decide stay situation spend day outside hotel sleep final comment hostal boasts sticker recommendation 1988 guess recommendable 22 ago", "Date": "2010-02-09 00:00:00"}], "HotelInfo": {"Name": "Hostal la Perla Asturiana", "HotelURL": "/ShowUserReviews-g187514-d239065-Reviews-Hostal_la_Perla_Asturiana-Madrid.html", "Price": "$43 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Plaza de Santa Cruz, 3</span>, <span class=\"locality\"><span property=\"v:postal-code\">28012</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "239065", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f6/77/f677abf842911fe89968095dc94bc9046large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dubai, United Arab Emirates",
+      "Title": "\u201cAverage room, excellent location\u201d",
+      "Author": "Solitaire13",
+      "ReviewID": "UR133417944",
+      "Content": "stayed 2 nights fabulous terms location plaza mayor steps explore late night knowing block staff friendly courteous importantly speak english free wifi clean cozy wouldnt comfortable staying period 2 nights perfect",
+      "Date": "2012-07-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Leawood, KS",
+      "Title": "\u201cgreat location\u201d",
+      "Author": "RealKathy",
+      "ReviewID": "UR128495746",
+      "Content": "stayed march 2004 remembered street noise latenight revelers convenience plaza mayor puerta del sol prado reina sofia shops restaurants bars perfect returned elevator bring own washcloth ear plugs clean bathrooms tiny en suite nice shared showertoiletsink hall bargain travelers lack fancy fine price convenient location",
+      "Date": "2012-04-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Chicago",
+      "Title": "\u201cGreat location - decent for budget travel\u201d",
+      "Author": "mp1212",
+      "ReviewID": "UR90521955",
+      "Content": "hostel amazing location literally corner plaza mayor minute walk plaza del sol extremely beautiful bustling cafes bars restaurants metro stop balance location hostel flaws la perla claims staff speaks english unfortunately ten percent true staff operates basis meaning dont dig english skills wont kept clean isnt saying considering furniture bedding look extremely necessities balcony allows step fresh air provides form satisfaction remember bring own toiletries computer located lobby access internet 1 euro 30 minutes",
+      "Date": "2010-12-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Lisbon, Portugal",
+      "Title": "\u201cGreat location 1 minute walk from Puerta del Sol and Plaza Mayor\u201d",
+      "Author": "Burrinha",
+      "ReviewID": "UR72254544",
+      "Content": "simple hostel centre city distance walking main attractions city welcoming staff nice safe closet price didnt breakfast included actually dont breakfast cafes close hostel expensive loved madrid definitely stay",
+      "Date": "2010-07-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Plovdiv, Bulgaria",
+      "Title": "\u201cThe heart of Madrid\u201d",
+      "Author": "kotzeto",
+      "ReviewID": "UR68767067",
+      "Content": "stayed friends days june 2010the location worth madrid walking distancethe staff friendlythe little bit smallbut expect okthe disturbed noise night slept windows",
+      "Date": "2010-06-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "lisbon",
+      "Title": "\u201cGREAT LOCATION\u201d",
+      "Author": "kittykatLisbon",
+      "ReviewID": "UR66594965",
+      "Content": "stayed hostel 2 nights traveling madrid leisure advice close turistic nightlife ok planning stay hours rest it\u00b4s cheap",
+      "Date": "2010-06-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Tamworth",
+      "Title": "\u201cBed Bugs!!!!!\u201d",
+      "Author": "PaulandSarahTamworth",
+      "ReviewID": "UR56841990",
+      "Content": "tick sign guests 24 hours day told bed locking door local homeless drunks sang night below window ancient wouldnt close properly apparently homeless drunks spend night singing ang kicking shop shutters loud police didnot street cleaners 3am noisily jet washing square below window refuse garbage noisily emptying 4am quieten itch light discovered bed bed bugs 10 minutes covered lumps bodies girlfriend allergic reaction hunt kill sleep 5am time sleep mind told desk morning acted happens time maybe maybe sound asleep wouldnt bites avoid",
+      "Date": "2010-02-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Luxembourg",
+      "Title": "\u201cGreat location - and nothing else.\u201d",
+      "Author": "MayaLux",
+      "ReviewID": "UR55552380",
+      "Content": "chose hotel mainly superb location convenient price im staying budget hotels didnt expect luxury quality accomodation below standards miniature looked single advertised double idea 120 cm bed called double air conditioning bed uncomfortable squeaky difficulty getting hot water shower looked fairly clean bed linen towels worn difficult ear caps night sleep step word spoken hallway heard unfortunately cant positive except location truly amazing corner la plaza mayor decide stay situation spend day outside hotel sleep final comment hostal boasts sticker recommendation 1988 guess recommendable 22 ago",
+      "Date": "2010-02-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hostal la Perla Asturiana",
+    "HotelURL": "/ShowUserReviews-g187514-d239065-Reviews-Hostal_la_Perla_Asturiana-Madrid.html",
+    "Price": "$43 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Plaza de Santa Cruz, 3</span>, <span class=\"locality\"><span property=\"v:postal-code\">28012</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "239065",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f6/77/f677abf842911fe89968095dc94bc9046large.jpg"
+  }
+}

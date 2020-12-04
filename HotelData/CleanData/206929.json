@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cGood value for money\u201d", "Author": "AUSTUK", "ReviewID": "UR126379551", "Content": "adequate 3 extra bed space move price compared hotels barcelona value breakfast rated service unless pizza", "Date": "2012-03-20 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "London", "Title": "\u201cNice decor but terrible beds\u201d", "Author": "FamilleDiF", "ReviewID": "UR125562533", "Content": "husband business trip nice modern decor beds totally awful basically sink loved hardwood floors isolation wasnt probably chosen carpet flooring hear people people walking hallway halfhearted renovation elevators ancient magnetic keys replaced pretty day breakfast buffet ok restaurant bar breakfast hot food norm spain wifi free lobby 30 minute increments code hand price value extremely convenient metro les corts super easy access sants train station fira placa espanya quiet relatively upscale neighborhood lots local shops bars cafes police station block assuming safe", "Date": "2012-03-03 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cGet by\u201d", "Author": "Peggy_Pegster", "ReviewID": "UR90554668", "Content": "ultra modern boutique hotel mean barcelona exciting tons sightseeing activities wont spend lots time hotel actually little cram share toilet didnt 25 days week stay couldnt flush couldnt fix offered change comfy change 4 days staying stuff time wanna include packing itinerary spain arent pushy getting try insisting telling major changes realized colleagues moved balconies directly residential building opposite remember draw curtains simple reception simple breakfast scramble eggs sausage links course cold cuts breakie european style realize electrical adaptor fit spainish wall plugs prong type shape reception ran apparently shops adaptor broken dont supermarkets walk 7 minutes chinese run shop sells subway station round 7 10 minutes walk autumn remember bring umbrella else totally soaked thunderstorm hotel night fantastic hotel hotel theres 10 000 delegate conference occuring time festive season sept celebrate summer book planning barcelona peak season", "Date": "2010-12-23 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "South West England", "Title": "\u201cNot central but still a good place to stay\u201d", "Author": "JonnyBerlin", "ReviewID": "UR82734100", "Content": "hotel central transport links fight heart green line 3 bus 66 130 euros placa catalunya city centre top la rambla hotel street corner loads traffic quiet hotel spotlessly clean efficiently services daily hotel staff friendly helpful english speaking willing loads detail breakfasts expensive local cafes breafast third price loads restaurants bar bars stop outside eating drinking midnight moves inside stop shopping 5 mins diagonal camp nou easy walk opentop bus stop easy walking tickets stop blue red routes barcelona bus touristic cheapest option barcelona city base", "Date": "2010-10-09 00:00:00"}], "HotelInfo": {"Name": "NH Les Corts", "HotelURL": "/ShowUserReviews-g187497-d206929-Reviews-NH_Les_Corts-Barcelona_Catalonia.html", "Price": "$83 - $129*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Travessera de les Corts 292</span>, <span class=\"locality\"><span property=\"v:postal-code\">08029</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "206929", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/48/10/48102a9e67f87ca4fb0a56565797e1336large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cGood value for money\u201d",
+      "Author": "AUSTUK",
+      "ReviewID": "UR126379551",
+      "Content": "adequate 3 extra bed space move price compared hotels barcelona value breakfast rated service unless pizza",
+      "Date": "2012-03-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cNice decor but terrible beds\u201d",
+      "Author": "FamilleDiF",
+      "ReviewID": "UR125562533",
+      "Content": "husband business trip nice modern decor beds totally awful basically sink loved hardwood floors isolation wasnt probably chosen carpet flooring hear people people walking hallway halfhearted renovation elevators ancient magnetic keys replaced pretty day breakfast buffet ok restaurant bar breakfast hot food norm spain wifi free lobby 30 minute increments code hand price value extremely convenient metro les corts super easy access sants train station fira placa espanya quiet relatively upscale neighborhood lots local shops bars cafes police station block assuming safe",
+      "Date": "2012-03-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cGet by\u201d",
+      "Author": "Peggy_Pegster",
+      "ReviewID": "UR90554668",
+      "Content": "ultra modern boutique hotel mean barcelona exciting tons sightseeing activities wont spend lots time hotel actually little cram share toilet didnt 25 days week stay couldnt flush couldnt fix offered change comfy change 4 days staying stuff time wanna include packing itinerary spain arent pushy getting try insisting telling major changes realized colleagues moved balconies directly residential building opposite remember draw curtains simple reception simple breakfast scramble eggs sausage links course cold cuts breakie european style realize electrical adaptor fit spainish wall plugs prong type shape reception ran apparently shops adaptor broken dont supermarkets walk 7 minutes chinese run shop sells subway station round 7 10 minutes walk autumn remember bring umbrella else totally soaked thunderstorm hotel night fantastic hotel hotel theres 10 000 delegate conference occuring time festive season sept celebrate summer book planning barcelona peak season",
+      "Date": "2010-12-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "South West England",
+      "Title": "\u201cNot central but still a good place to stay\u201d",
+      "Author": "JonnyBerlin",
+      "ReviewID": "UR82734100",
+      "Content": "hotel central transport links fight heart green line 3 bus 66 130 euros placa catalunya city centre top la rambla hotel street corner loads traffic quiet hotel spotlessly clean efficiently services daily hotel staff friendly helpful english speaking willing loads detail breakfasts expensive local cafes breafast third price loads restaurants bar bars stop outside eating drinking midnight moves inside stop shopping 5 mins diagonal camp nou easy walk opentop bus stop easy walking tickets stop blue red routes barcelona bus touristic cheapest option barcelona city base",
+      "Date": "2010-10-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "NH Les Corts",
+    "HotelURL": "/ShowUserReviews-g187497-d206929-Reviews-NH_Les_Corts-Barcelona_Catalonia.html",
+    "Price": "$83 - $129*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Travessera de les Corts 292</span>, <span class=\"locality\"><span property=\"v:postal-code\">08029</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "206929",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/48/10/48102a9e67f87ca4fb0a56565797e1336large.jpg"
+  }
+}

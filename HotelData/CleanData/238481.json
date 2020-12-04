@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Los Angeles, California", "Title": "\u201cCompared to other options, not bad\u201d", "Author": "phillipsrhit", "ReviewID": "UR69758802", "Content": "american style hotel dont stay cheap frills italian hotel isnt bad parking handy leave car day stay free ac heat summer surcharge hotel pretty hot free breakfast wasnt bad complaint fruit proximity termini metro lines handy decent cheap option rome outdated staff nice helpful", "Date": "2010-07-05 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Vienna, Austria", "Title": "\u201cDon't go there!!\u201d", "Author": "DanielMartina", "ReviewID": "UR65948270", "Content": "hotel ok price price charges bad blanket little holes bloodstains bathroom bathroom toilet bidet sprinkler coming wall washbasin toilet shower curtain stinks space strike move shower tray thats shower bathroom water approx 2 cm stink leave window time stains wall former damages water awful nice expect homepage service ok location hotel ok near metro train station termini neighbourhood lot homeless people stinks urine hotelespecially warm outside please dont believe worth money", "Date": "2010-05-31 00:00:00"}], "HotelInfo": {"Name": "Hotel Pavia", "HotelURL": "/ShowUserReviews-g187791-d238481-Reviews-Hotel_Pavia-Rome_Lazio.html", "Price": "$98 - $231*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Gaeta 83</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "238481", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f0/0f/f00f855dcc8938f26742819cd196e63a3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Los Angeles, California",
+      "Title": "\u201cCompared to other options, not bad\u201d",
+      "Author": "phillipsrhit",
+      "ReviewID": "UR69758802",
+      "Content": "american style hotel dont stay cheap frills italian hotel isnt bad parking handy leave car day stay free ac heat summer surcharge hotel pretty hot free breakfast wasnt bad complaint fruit proximity termini metro lines handy decent cheap option rome outdated staff nice helpful",
+      "Date": "2010-07-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Vienna, Austria",
+      "Title": "\u201cDon't go there!!\u201d",
+      "Author": "DanielMartina",
+      "ReviewID": "UR65948270",
+      "Content": "hotel ok price price charges bad blanket little holes bloodstains bathroom bathroom toilet bidet sprinkler coming wall washbasin toilet shower curtain stinks space strike move shower tray thats shower bathroom water approx 2 cm stink leave window time stains wall former damages water awful nice expect homepage service ok location hotel ok near metro train station termini neighbourhood lot homeless people stinks urine hotelespecially warm outside please dont believe worth money",
+      "Date": "2010-05-31 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Pavia",
+    "HotelURL": "/ShowUserReviews-g187791-d238481-Reviews-Hotel_Pavia-Rome_Lazio.html",
+    "Price": "$98 - $231*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Gaeta 83</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "238481",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f0/0f/f00f855dcc8938f26742819cd196e63a3large.jpg"
+  }
+}

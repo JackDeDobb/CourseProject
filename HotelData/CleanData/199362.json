@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Germany/UK", "Title": "\u201cConvenient, clean, comfortable\u201d", "Author": "Ian2109", "ReviewID": "UR87462183", "Content": "ive stayed short trips berlin hotel convenient airport tegel near underground station opera parking available required night spotlessly clean breakfast standard smallish hotels including bacon egg sausages fruit te usual muesli rolls staff friendly german hotels wireless internet free doesnt bother own connection underground runs beneath hotel heard rumbling fourth floor doesnt bother disturb people excellent value money 68 eur including breakfast", "Date": "2010-11-18 00:00:00"}], "HotelInfo": {"Name": "ibis Styles Berlin an der Oper", "HotelURL": "/ShowUserReviews-g187323-d199362-Reviews-Ibis_Styles_Berlin_an_der_Oper-Berlin.html", "Price": "$59 - $147*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Bismarckstrasse 100</span>, <span class=\"locality\"><span property=\"v:postal-code\">10625</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> (Formerly Comfort Hotel An der Oper)</span></span></address>", "HotelID": "199362", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/30/4b/304b85cc5300500f5b790e927825dee711large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Germany/UK",
+      "Title": "\u201cConvenient, clean, comfortable\u201d",
+      "Author": "Ian2109",
+      "ReviewID": "UR87462183",
+      "Content": "ive stayed short trips berlin hotel convenient airport tegel near underground station opera parking available required night spotlessly clean breakfast standard smallish hotels including bacon egg sausages fruit te usual muesli rolls staff friendly german hotels wireless internet free doesnt bother own connection underground runs beneath hotel heard rumbling fourth floor doesnt bother disturb people excellent value money 68 eur including breakfast",
+      "Date": "2010-11-18 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "ibis Styles Berlin an der Oper",
+    "HotelURL": "/ShowUserReviews-g187323-d199362-Reviews-Ibis_Styles_Berlin_an_der_Oper-Berlin.html",
+    "Price": "$59 - $147*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Bismarckstrasse 100</span>, <span class=\"locality\"><span property=\"v:postal-code\">10625</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> (Formerly Comfort Hotel An der Oper)</span></span></address>",
+    "HotelID": "199362",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/30/4b/304b85cc5300500f5b790e927825dee711large.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Paris, Ile-de-France, France", "Title": "\u201cExactly as advertised\u201d", "Author": "Zachary B", "ReviewID": "UR124791712", "Content": "wife stayed carnivale 2012 absolute bast hotel 10 minute walk boat station lido 15 minute ride st marks square venice hotel location lido near shops restaurants main streets lido near 10 minute walk beach lido stroll swim stay themselves clean simple comfortable beds 180cm firm memory foam mattresses arrived venice cold 4 cold warmed course 6 night stay pleasant breakfast revive themselves hotel generous continental breakfast remember save appetite venice staff friendly helpful definitely recommend hotel", "Date": "2012-02-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Coconut Creek, Florida", "Title": "\u201cVery Relaxing\u201d", "Author": "Malibured3", "ReviewID": "UR121737630", "Content": "hotel villa cipro located lido quick vaporetto ride venice lido charming dimension venice tranquil trip venice time stayed lido hotel nice staff friendly perfect required amenities breakfast buffet delicious", "Date": "2011-12-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Naples, Italy", "Title": "\u201cGood hotel\u201d", "Author": "JHelmsNaples", "ReviewID": "UR110217507", "Content": "hotel traveled 2 dogs 1 1 medium sized dogs barked gone disturbed guests hotel staff friendly informing care location island lido nice note mind driving ferry 19 euro vehicle breakfast poor moving italy recall breakfast ac poor buy fan maintain reasonably priced staff highly recommend", "Date": "2011-05-28 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Moscow, Russia", "Title": "\u201cGood but could be better\u201d", "Author": "suleimanova_ira", "ReviewID": "UR89977871", "Content": "husband chose hotel price fine location highly appreciated calm peaceful atmosphere hotel island lido nice beaches else enjoy vacation minor disappointment breakfasts poor choice limited compared hotels coffee bad supposed boiling water tea slightly warm cleaning services improved youre planning costeffective vacation hotel hours sleep thats choose staff helpful friendly", "Date": "2010-12-16 00:00:00"}], "HotelInfo": {"Name": "Hotel Villa Cipro", "HotelURL": "/ShowUserReviews-g187870-d267945-Reviews-Hotel_Villa_Cipro-Venice_Veneto.html", "Price": "$107 - $217*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Zara, 2</span> | <span class=\"extended-address\">Lido</span>, <span class=\"locality\"><span property=\"v:postal-code\">30126</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "267945", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0d/ce/0dce99a987dae5f9855f4d439f3b283e5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Paris, Ile-de-France, France",
+      "Title": "\u201cExactly as advertised\u201d",
+      "Author": "Zachary B",
+      "ReviewID": "UR124791712",
+      "Content": "wife stayed carnivale 2012 absolute bast hotel 10 minute walk boat station lido 15 minute ride st marks square venice hotel location lido near shops restaurants main streets lido near 10 minute walk beach lido stroll swim stay themselves clean simple comfortable beds 180cm firm memory foam mattresses arrived venice cold 4 cold warmed course 6 night stay pleasant breakfast revive themselves hotel generous continental breakfast remember save appetite venice staff friendly helpful definitely recommend hotel",
+      "Date": "2012-02-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Coconut Creek, Florida",
+      "Title": "\u201cVery Relaxing\u201d",
+      "Author": "Malibured3",
+      "ReviewID": "UR121737630",
+      "Content": "hotel villa cipro located lido quick vaporetto ride venice lido charming dimension venice tranquil trip venice time stayed lido hotel nice staff friendly perfect required amenities breakfast buffet delicious",
+      "Date": "2011-12-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Naples, Italy",
+      "Title": "\u201cGood hotel\u201d",
+      "Author": "JHelmsNaples",
+      "ReviewID": "UR110217507",
+      "Content": "hotel traveled 2 dogs 1 1 medium sized dogs barked gone disturbed guests hotel staff friendly informing care location island lido nice note mind driving ferry 19 euro vehicle breakfast poor moving italy recall breakfast ac poor buy fan maintain reasonably priced staff highly recommend",
+      "Date": "2011-05-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Moscow, Russia",
+      "Title": "\u201cGood but could be better\u201d",
+      "Author": "suleimanova_ira",
+      "ReviewID": "UR89977871",
+      "Content": "husband chose hotel price fine location highly appreciated calm peaceful atmosphere hotel island lido nice beaches else enjoy vacation minor disappointment breakfasts poor choice limited compared hotels coffee bad supposed boiling water tea slightly warm cleaning services improved youre planning costeffective vacation hotel hours sleep thats choose staff helpful friendly",
+      "Date": "2010-12-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Villa Cipro",
+    "HotelURL": "/ShowUserReviews-g187870-d267945-Reviews-Hotel_Villa_Cipro-Venice_Veneto.html",
+    "Price": "$107 - $217*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Zara, 2</span> | <span class=\"extended-address\">Lido</span>, <span class=\"locality\"><span property=\"v:postal-code\">30126</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "267945",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0d/ce/0dce99a987dae5f9855f4d439f3b283e5large.jpg"
+  }
+}

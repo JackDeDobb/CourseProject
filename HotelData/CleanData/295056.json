@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Limassol, Cyprus", "Title": "\u201cExpecting the worse, pleasantly suprised!\u201d", "Author": "sneezing7", "ReviewID": "UR120452298", "Content": "reservation colleague mine istanbul reading reviews hotel minute expecting horrible hell hole instead stay pleasant hesitations staying staff courteous willing help questions clean breakfast variety nonetheless offer fresh tasty negatives difficult establish stable wifi connection bit thin hear enthusiastic activities door", "Date": "2011-11-11 00:00:00"}], "HotelInfo": {"Name": "Taxim Hill Hotel", "HotelURL": "/ShowUserReviews-g293974-d295056-Reviews-Taxim_Hill_Hotel-Istanbul.html", "Price": "$151 - $311*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Siraselviler Cad. No.5 Taksim Meydani</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">80090</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "295056", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/2c/6c/14/room.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Limassol, Cyprus",
+      "Title": "\u201cExpecting the worse, pleasantly suprised!\u201d",
+      "Author": "sneezing7",
+      "ReviewID": "UR120452298",
+      "Content": "reservation colleague mine istanbul reading reviews hotel minute expecting horrible hell hole instead stay pleasant hesitations staying staff courteous willing help questions clean breakfast variety nonetheless offer fresh tasty negatives difficult establish stable wifi connection bit thin hear enthusiastic activities door",
+      "Date": "2011-11-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Taxim Hill Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d295056-Reviews-Taxim_Hill_Hotel-Istanbul.html",
+    "Price": "$151 - $311*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Siraselviler Cad. No.5 Taksim Meydani</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">80090</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "295056",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/2c/6c/14/room.jpg"
+  }
+}

@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Munich, Germany", "Title": "\u201cGood place to start a city tour and to return to find rest and energy for the next day\u201d", "Author": "Spinring10", "ReviewID": "UR71681901", "Content": "central location town reach public transport cheap clean ac wireless internet television terrace view sea breakfast reception 24hours ie postcards shop restaurants close hotel stayed 3 nights recommend", "Date": "2010-07-20 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Mumbai (Bombay), India", "Title": "\u201cConvenient location, average hotel, rude staff\u201d", "Author": "shwetashetty", "ReviewID": "UR64306155", "Content": "location hotel convenient walkable distance mosques tourist spots staff hotel rude racist discourteous absolutely impolite didnt customers treated respect convenience dont recommend hotel", "Date": "2010-05-16 00:00:00"}], "HotelInfo": {"Name": "Sunlight Hotel", "HotelURL": "/ShowUserReviews-g293974-d295166-Reviews-Sunlight_Hotel-Istanbul.html", "Price": "$68 - $571*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Piyerloti Cad 60</span> | <span class=\"extended-address\">Sultanahmet</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34490</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "295166", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/69/55/6955457e398f0579c35fab7b48e418303large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Munich, Germany",
+      "Title": "\u201cGood place to start a city tour and to return to find rest and energy for the next day\u201d",
+      "Author": "Spinring10",
+      "ReviewID": "UR71681901",
+      "Content": "central location town reach public transport cheap clean ac wireless internet television terrace view sea breakfast reception 24hours ie postcards shop restaurants close hotel stayed 3 nights recommend",
+      "Date": "2010-07-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Mumbai (Bombay), India",
+      "Title": "\u201cConvenient location, average hotel, rude staff\u201d",
+      "Author": "shwetashetty",
+      "ReviewID": "UR64306155",
+      "Content": "location hotel convenient walkable distance mosques tourist spots staff hotel rude racist discourteous absolutely impolite didnt customers treated respect convenience dont recommend hotel",
+      "Date": "2010-05-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Sunlight Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d295166-Reviews-Sunlight_Hotel-Istanbul.html",
+    "Price": "$68 - $571*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Piyerloti Cad 60</span> | <span class=\"extended-address\">Sultanahmet</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34490</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "295166",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/69/55/6955457e398f0579c35fab7b48e418303large.jpg"
+  }
+}

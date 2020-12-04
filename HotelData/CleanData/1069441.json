@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Zagreb, Croatia", "Title": "\u201cexcellente =)\u201d", "Author": "hrvoje s", "ReviewID": "UR126106650", "Content": "hola en este hotel en 2012 que fue un el habitaciones son gracias por todo nos en el ano que hy hotel february tell excellent service people hotel excellent thank", "Date": "2012-03-14 00:00:00"}], "HotelInfo": {"Name": "Hotel Regente City", "HotelURL": "/ShowUserReviews-g150800-d1069441-Reviews-Hotel_Regente_City-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$53 - $78*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Paris No. 9 Col. Tabacalera</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06030 </span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "1069441", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c0/b2/c0b244e755cd028e4b2e1c28fed537361large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Zagreb, Croatia",
+      "Title": "\u201cexcellente =)\u201d",
+      "Author": "hrvoje s",
+      "ReviewID": "UR126106650",
+      "Content": "hola en este hotel en 2012 que fue un el habitaciones son gracias por todo nos en el ano que hy hotel february tell excellent service people hotel excellent thank",
+      "Date": "2012-03-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Regente City",
+    "HotelURL": "/ShowUserReviews-g150800-d1069441-Reviews-Hotel_Regente_City-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$53 - $78*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Paris No. 9 Col. Tabacalera</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06030 </span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "1069441",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c0/b2/c0b244e755cd028e4b2e1c28fed537361large.jpg"
+  }
+}

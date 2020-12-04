@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Ripton, VT", "Title": "\u201cSimple and Clean - great price!\u201d", "Author": "al7251", "ReviewID": "UR123352494", "Content": "stayed 2 nights january found comfortable friendly location near st catherine shopping able park car free plus walked metro city reviewer hotel cold planned ahead extra blankets found comfortable own thermostat control temp breakfast simple coffee toast delivered promptly staff helpful courteous definitely stay", "Date": "2012-01-20 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Riga, Latvia", "Title": "\u201cGenerally good hotel - although there were some minor problems\u201d", "Author": "andris75", "ReviewID": "UR122117413", "Content": "stayed hotel week happy stay reasonably nice somewhat unnecessary decor massive doors massive radiator decoration real heating else annoying tasteful signs wear shelves scratched satisfied clean hotel staff carefully day location center montreal short walk business district sights metro staff friendly helpful standard situations english communication skills explaining nonstandard situation people staying arriving times receptionists asian continental breakfast served day consists croissant toast coffeetea juice prefer bigger breakfast continental breakfast type standard montreal free wireless internet throughout stay arrived water flushing mechanism wc broken informed hotel staff fixed quickly cold evening fixed days temperature normal", "Date": "2011-12-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cAMAZING deal\u201d", "Author": "smfische", "ReviewID": "UR121418537", "Content": "clean huge paid 50night parking location fantastic decorated hotel quiet staff polite makes hotel instead five stars cold extra blankets finebut frozen heater shared bathroom water cold morning hot water broken fixed 10 mins overall travelling budget steal youre staying expecting fivestar hotel dont pay 50", "Date": "2011-12-05 00:00:00"}], "HotelInfo": {"Name": "Hotel Casa Bella", "HotelURL": "/ShowUserReviews-g155032-d282001-Reviews-Hotel_Casa_Bella-Montreal_Quebec.html", "Price": "$52 - $84*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">264 Sherbrooke ouest</span>, <span class=\"locality\"><span property=\"v:locality\">Montreal</span>, <span property=\"v:region\">Quebec</span> <span property=\"v:postal-code\">H2X 1X9</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span></span></address>", "HotelID": "282001", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/4e/b5/c3/new-renovated-room.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ripton, VT",
+      "Title": "\u201cSimple and Clean - great price!\u201d",
+      "Author": "al7251",
+      "ReviewID": "UR123352494",
+      "Content": "stayed 2 nights january found comfortable friendly location near st catherine shopping able park car free plus walked metro city reviewer hotel cold planned ahead extra blankets found comfortable own thermostat control temp breakfast simple coffee toast delivered promptly staff helpful courteous definitely stay",
+      "Date": "2012-01-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Riga, Latvia",
+      "Title": "\u201cGenerally good hotel - although there were some minor problems\u201d",
+      "Author": "andris75",
+      "ReviewID": "UR122117413",
+      "Content": "stayed hotel week happy stay reasonably nice somewhat unnecessary decor massive doors massive radiator decoration real heating else annoying tasteful signs wear shelves scratched satisfied clean hotel staff carefully day location center montreal short walk business district sights metro staff friendly helpful standard situations english communication skills explaining nonstandard situation people staying arriving times receptionists asian continental breakfast served day consists croissant toast coffeetea juice prefer bigger breakfast continental breakfast type standard montreal free wireless internet throughout stay arrived water flushing mechanism wc broken informed hotel staff fixed quickly cold evening fixed days temperature normal",
+      "Date": "2011-12-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cAMAZING deal\u201d",
+      "Author": "smfische",
+      "ReviewID": "UR121418537",
+      "Content": "clean huge paid 50night parking location fantastic decorated hotel quiet staff polite makes hotel instead five stars cold extra blankets finebut frozen heater shared bathroom water cold morning hot water broken fixed 10 mins overall travelling budget steal youre staying expecting fivestar hotel dont pay 50",
+      "Date": "2011-12-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Casa Bella",
+    "HotelURL": "/ShowUserReviews-g155032-d282001-Reviews-Hotel_Casa_Bella-Montreal_Quebec.html",
+    "Price": "$52 - $84*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">264 Sherbrooke ouest</span>, <span class=\"locality\"><span property=\"v:locality\">Montreal</span>, <span property=\"v:region\">Quebec</span> <span property=\"v:postal-code\">H2X 1X9</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span></span></address>",
+    "HotelID": "282001",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/4e/b5/c3/new-renovated-room.jpg"
+  }
+}

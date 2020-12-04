@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Indiana", "Title": "\u201cGood Stay... for the Price!\u201d", "Author": "jarIndiana", "ReviewID": "UR120066169", "Content": "noticed mixed reviews property 2 weeks ago stayed hotel reserved aaa rate 6000 king sized bed coffee maker microwave minifridge la quinta close nice eateries local shopping cant speak else clean fairly modern looking gentleman front desk fantastic job hospitality utilize indoor pool services value recieved price recommend travelers decent value money stay luck travels", "Date": "2011-11-02 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Seattle, Washington", "Title": "\u201cvery nice\u201d", "Author": "teresa226", "ReviewID": "UR103834197", "Content": "checking person friendly hallways bright attractive clean wll designed furniture clean carpet super comfortable bed plenty spare outlets ipods laptops cell phone charging bathroom nice elevators fast overall nice stay", "Date": "2011-04-12 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "chicago", "Title": "\u201cCheap in more ways then one\u201d", "Author": "chicagotoots", "ReviewID": "UR63529549", "Content": "location friendly service beautiful indoor heated pool clean comfortable breakfast lq standard pet friendly decent price travel pet attained elite status bottled water snack dont tell bottle water snack elite count sharing bottle water", "Date": "2010-05-07 00:00:00"}], "HotelInfo": {"Name": "La Quinta Inn Indianapolis North at Pyramids", "HotelURL": "/ShowUserReviews-g37209-d530673-Reviews-La_Quinta_Inn_Indianapolis_North_at_Pyramids-Indianapolis_Indiana.html", "Price": "$57 - $95*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3880 West 92nd Street</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46268</span></span> </span> </span> </address>", "HotelID": "530673", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d6/14/d61453ffdfa2aeb5ee65240c721d77a04large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Indiana",
+      "Title": "\u201cGood Stay... for the Price!\u201d",
+      "Author": "jarIndiana",
+      "ReviewID": "UR120066169",
+      "Content": "noticed mixed reviews property 2 weeks ago stayed hotel reserved aaa rate 6000 king sized bed coffee maker microwave minifridge la quinta close nice eateries local shopping cant speak else clean fairly modern looking gentleman front desk fantastic job hospitality utilize indoor pool services value recieved price recommend travelers decent value money stay luck travels",
+      "Date": "2011-11-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Seattle, Washington",
+      "Title": "\u201cvery nice\u201d",
+      "Author": "teresa226",
+      "ReviewID": "UR103834197",
+      "Content": "checking person friendly hallways bright attractive clean wll designed furniture clean carpet super comfortable bed plenty spare outlets ipods laptops cell phone charging bathroom nice elevators fast overall nice stay",
+      "Date": "2011-04-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "chicago",
+      "Title": "\u201cCheap in more ways then one\u201d",
+      "Author": "chicagotoots",
+      "ReviewID": "UR63529549",
+      "Content": "location friendly service beautiful indoor heated pool clean comfortable breakfast lq standard pet friendly decent price travel pet attained elite status bottled water snack dont tell bottle water snack elite count sharing bottle water",
+      "Date": "2010-05-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "La Quinta Inn Indianapolis North at Pyramids",
+    "HotelURL": "/ShowUserReviews-g37209-d530673-Reviews-La_Quinta_Inn_Indianapolis_North_at_Pyramids-Indianapolis_Indiana.html",
+    "Price": "$57 - $95*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3880 West 92nd Street</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46268</span></span> </span> </span> </address>",
+    "HotelID": "530673",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d6/14/d61453ffdfa2aeb5ee65240c721d77a04large.jpg"
+  }
+}

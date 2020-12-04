@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Cabarita Beach", "Title": "\u201cGood value, convenient to university\u201d", "Author": "Sam_I_Am_All_4_1", "ReviewID": "UR127899746", "Content": "recently stayed attend conference nearby university excellent free shuttle service university anagnina metro station 30 mins central rome nearby bus stop shuttle available regular service 500 locations found staff friendly helpful included free continental style breakfast adequate choices huge buffet appropriate price free undercover car parking wifi positives hotel triple spacious clean comfortable beds selection sky tv channels wardrobe luggage rack safe desk chair hairdryer bathroom note fridge tea coffee facilities coffee vending machine lobby produces reasonable coffee 1 euro commonly italian hotels building linen obviously little worn obviously clean opinion excellent value money mid size supermarket complex glance casino 8pm nearby tasty pizzerias choose discovered della pizza corner via giovanni via tasty pizza weight 12 lot pizza glance neighbourhood bit run observed women walking evening reasonably safe bonus nearby playgrounds occupying 2", "Date": "2012-04-15 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 2.0}, "AuthorLocation": "London", "Title": "\u201cVery satisfied\u201d", "Author": "CRISTINA D Posted by an Easytobook.com traveler", "ReviewID": "UR126529260", "Content": "hotel lovely clean spacious helpful staff enjoyed staying unfortunately location recommend people dont mind travelling outside town night perfect car despite distance hotel value money", "Date": "2012-03-23 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Luton, United Kingdom", "Title": "\u201cGood budget hotel if you don't mind not being in the centre of Rome\u201d", "Author": "DrewB_10", "ReviewID": "UR89848186", "Content": "little hard isnt italy worth stay looking hotel reasonable amenities wasnt centre rome hence cheaper exactly citta grand means found clean friendly time stay 1015 min walk nearest train station central rome station closer hotel due stayed 5 nights 3rd floor clean somewhat basic bit italian travelodge space extras found breakfast huge selection charge day question hotel looking stay outside centre rome save little money", "Date": "2010-12-14 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Brisbane Australia", "Title": "\u201cTerrible location - not close to anything & not safe to venture outside.\u201d", "Author": "dragonflyhealing", "ReviewID": "UR85009014", "Content": "selected hotel reasonable price close airport cheap added trip airport morning require cut lunch tour bus drop taxi driver terrible trouble finding basically bad location top dangerous leave food footpaths busy roads stuck eating", "Date": "2010-10-27 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 1.0}, "AuthorLocation": "Harrisburg, Pennsylvania", "Title": "\u201cNot the best\u201d", "Author": "amberharty", "ReviewID": "UR63943362", "Content": "stayed couple nights hotel child bad staff rude helpful advertised free internet connect laptop computer broken breakfast little food choose advertise 10km colliseum hour half drive bumper bumper traffic suggest drive walked faster wish upload pictures stay hotel hotel looks", "Date": "2010-05-12 00:00:00"}], "HotelInfo": {"Name": "Citta 2000", "HotelURL": "/ShowUserReviews-g187791-d497536-Reviews-Citta_2000-Rome_Lazio.html", "Price": "$58 - $145*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via della Tenuta di Torrenova 60</span>, <span class=\"locality\"><span property=\"v:postal-code\">00133</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "497536", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/88/6a/886a1b945d5ee707262545d253f3707e6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Cabarita Beach",
+      "Title": "\u201cGood value, convenient to university\u201d",
+      "Author": "Sam_I_Am_All_4_1",
+      "ReviewID": "UR127899746",
+      "Content": "recently stayed attend conference nearby university excellent free shuttle service university anagnina metro station 30 mins central rome nearby bus stop shuttle available regular service 500 locations found staff friendly helpful included free continental style breakfast adequate choices huge buffet appropriate price free undercover car parking wifi positives hotel triple spacious clean comfortable beds selection sky tv channels wardrobe luggage rack safe desk chair hairdryer bathroom note fridge tea coffee facilities coffee vending machine lobby produces reasonable coffee 1 euro commonly italian hotels building linen obviously little worn obviously clean opinion excellent value money mid size supermarket complex glance casino 8pm nearby tasty pizzerias choose discovered della pizza corner via giovanni via tasty pizza weight 12 lot pizza glance neighbourhood bit run observed women walking evening reasonably safe bonus nearby playgrounds occupying 2",
+      "Date": "2012-04-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cVery satisfied\u201d",
+      "Author": "CRISTINA D Posted by an Easytobook.com traveler",
+      "ReviewID": "UR126529260",
+      "Content": "hotel lovely clean spacious helpful staff enjoyed staying unfortunately location recommend people dont mind travelling outside town night perfect car despite distance hotel value money",
+      "Date": "2012-03-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Luton, United Kingdom",
+      "Title": "\u201cGood budget hotel if you don't mind not being in the centre of Rome\u201d",
+      "Author": "DrewB_10",
+      "ReviewID": "UR89848186",
+      "Content": "little hard isnt italy worth stay looking hotel reasonable amenities wasnt centre rome hence cheaper exactly citta grand means found clean friendly time stay 1015 min walk nearest train station central rome station closer hotel due stayed 5 nights 3rd floor clean somewhat basic bit italian travelodge space extras found breakfast huge selection charge day question hotel looking stay outside centre rome save little money",
+      "Date": "2010-12-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Brisbane Australia",
+      "Title": "\u201cTerrible location - not close to anything & not safe to venture outside.\u201d",
+      "Author": "dragonflyhealing",
+      "ReviewID": "UR85009014",
+      "Content": "selected hotel reasonable price close airport cheap added trip airport morning require cut lunch tour bus drop taxi driver terrible trouble finding basically bad location top dangerous leave food footpaths busy roads stuck eating",
+      "Date": "2010-10-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Harrisburg, Pennsylvania",
+      "Title": "\u201cNot the best\u201d",
+      "Author": "amberharty",
+      "ReviewID": "UR63943362",
+      "Content": "stayed couple nights hotel child bad staff rude helpful advertised free internet connect laptop computer broken breakfast little food choose advertise 10km colliseum hour half drive bumper bumper traffic suggest drive walked faster wish upload pictures stay hotel hotel looks",
+      "Date": "2010-05-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Citta 2000",
+    "HotelURL": "/ShowUserReviews-g187791-d497536-Reviews-Citta_2000-Rome_Lazio.html",
+    "Price": "$58 - $145*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via della Tenuta di Torrenova 60</span>, <span class=\"locality\"><span property=\"v:postal-code\">00133</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "497536",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/88/6a/886a1b945d5ee707262545d253f3707e6large.jpg"
+  }
+}

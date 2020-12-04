@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Waterloo, Canada", "Title": "\u201cGood Great Wonderful!!!\u201d", "Author": "jessica w", "ReviewID": "UR119845285", "Content": "staffs nice helpful stay stay montreal price reasonable free breakfast free internet free parking restaurants nearby bus stop front hotel metro station bus bus schedule runs midnight", "Date": "2011-10-28 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Tampa, Florida", "Title": "\u201cDon't be fooled by the name or website pictures or discription,terrible location.\u201d", "Author": "0001957", "ReviewID": "UR67570437", "Content": "hotel near 1 hour commute downtown minute bus ride metro 40 minutes quoted 11000 night charged grand prix inconvenient track downtown reeked smoke supposed nonsmoking roomsthe continental breakfast consisted mushy apples warm advertise 15 minutes track cost 7200 east isits 1200 taxi ride hotel ruined trip", "Date": "2010-06-15 00:00:00"}], "HotelInfo": {"Name": "Hotel Le Prestige", "HotelURL": "/ShowUserReviews-g155032-d602406-Reviews-Hotel_Le_Prestige-Montreal_Quebec.html", "Price": "$86 - $160*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">12555 Sherbrooke East</span>, <span class=\"locality\"><span property=\"v:locality\">Montreal</span>, <span property=\"v:region\">Quebec</span> <span property=\"v:postal-code\">H1B 1C8</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span></span></address>", "HotelID": "602406", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6e/3a/6e3a3e384352bb064afd65645abd7a411large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Waterloo, Canada",
+      "Title": "\u201cGood Great Wonderful!!!\u201d",
+      "Author": "jessica w",
+      "ReviewID": "UR119845285",
+      "Content": "staffs nice helpful stay stay montreal price reasonable free breakfast free internet free parking restaurants nearby bus stop front hotel metro station bus bus schedule runs midnight",
+      "Date": "2011-10-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Tampa, Florida",
+      "Title": "\u201cDon't be fooled by the name or website pictures or discription,terrible location.\u201d",
+      "Author": "0001957",
+      "ReviewID": "UR67570437",
+      "Content": "hotel near 1 hour commute downtown minute bus ride metro 40 minutes quoted 11000 night charged grand prix inconvenient track downtown reeked smoke supposed nonsmoking roomsthe continental breakfast consisted mushy apples warm advertise 15 minutes track cost 7200 east isits 1200 taxi ride hotel ruined trip",
+      "Date": "2010-06-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Le Prestige",
+    "HotelURL": "/ShowUserReviews-g155032-d602406-Reviews-Hotel_Le_Prestige-Montreal_Quebec.html",
+    "Price": "$86 - $160*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">12555 Sherbrooke East</span>, <span class=\"locality\"><span property=\"v:locality\">Montreal</span>, <span property=\"v:region\">Quebec</span> <span property=\"v:postal-code\">H1B 1C8</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span></span></address>",
+    "HotelID": "602406",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6e/3a/6e3a3e384352bb064afd65645abd7a411large.jpg"
+  }
+}

@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Ohio", "Title": "\u201cGREAT BARGIN\u201d", "Author": "Truto", "ReviewID": "UR122592868", "Content": "hotel manet hidden gem paris hotels located near metro stop line 7 hotel easy walk quiet street roissy bus de gaulle airport walk street metro station hotel largest found 2 3 star hotel paris excellent bath facilities cleanest staff speaks little english falls themselves accomodate guests rarely eat hotel breakfast save costs manet comes close 3 star hotels selections di modern mall forgotten bring selection electric current adapters paris home depot printemps department store nice branch located found restaurants average prefering eat wide selection bistros famed rue mouffetard short metro stops metro line 7 stops near mouffetard notre dame louvre opera major department stores connections metro line placing manet closer appears", "Date": "2012-01-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "St. Petersburg", "Title": "\u201cA very reasonable choice!\u201d", "Author": "Catalina1001", "ReviewID": "UR121136432", "Content": "hotel manet quiet comfortable clean 5 minutes metro bus stop clean view window lovely normal size bathroom pretty frankly speaking didnt mind apartments live breakfast excellent dairy products especially croissants sooo tasty useful free wifi handy please mind strange plug 3 holes devices youll lamp wifi ok mail surfing sometimes slow skype calls print documents computer printer floor service helpful welcome id draw attention speak english 5 2 waitresses talked spoke english understood course little bit awkward common france aware brought dictionary helped deal guys revise french enjoyable experience chance id choose manet service location reasonable price", "Date": "2011-11-28 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "England", "Title": "\u201cVery nice and well-priced small hotel\u201d", "Author": "Mabroi", "ReviewID": "UR120084230", "Content": "family five spent nights week reasonably priced hotel simply furnished comfortable views rooftops paris bathrooms excellent modern kept clean reception staff exception friendly helpful breakfast local cafes hotel provides reasonable buffet 8 euros pp stay negative comment carpets thorough clean", "Date": "2011-11-02 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Glasgow", "Title": "\u201cA brilliant basic hotel in the heart of Paris!\u201d", "Author": "smileen141", "ReviewID": "UR83454035", "Content": "partner nervous traveller quiet nights sleep relatively budget pick wisely night couldnt picked hotel manet clean quiet rue manet main streets ditalie service excellent balcony rooftops beautiful buildings ate meals found beautiful barrestaurant rue des magical time look forward returning sometime soon", "Date": "2010-10-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Auckland, New Zealand", "Title": "\u201cJust what we needed\u201d", "Author": "AndrewKiwi", "ReviewID": "UR82499602", "Content": "looking stay paris daunting task look hotel websites hours wondering stay main paris expensive stay hotel location clean comfortable bed nice bathroom didnt feel claustrophobic friend recommended hotel manet exactly hoping huge means decent size especially paris bathroom clean free wifi internet windows fresh air cant remember seeing temperature control location hotel 23 minute walk metro station access 3 metro lines connected nearby restaurants handy didnt try continental breakfast glance bread spreads cook eggs tea coffee people low star rating star ratings mean absolutely paris looking stay thats pleasant spending fortune allows travel easily hotel manet ideal choice", "Date": "2010-10-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Rochester New York", "Title": "\u201cA great find\u201d", "Author": "Ktech", "ReviewID": "UR75605021", "Content": "stayed 4 nights children superfriendly staff nice clean paris ample breakfast including bread croissants yogurts cereal option boiled eggs nice residential neighborhood convenient multiple subway lines restaurants boulangeries etc mall department stores grocery store blocks definitely stay little bit subway ride touristy neighborhood feels real paris tourist theme park excellent value", "Date": "2010-08-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Bath", "Title": "\u201cRelaxed and friendly no frills hotel\u201d", "Author": "LBS50", "ReviewID": "UR63081525", "Content": "stayed hotel manet 3 days daughter friendly staff clean basic french breakfast near metro exploring left bank foot bars restaurants near special ok basic meal beer tourists nice recommend walk paris mosque wonderful cafe glimpse paris relaxed friendly", "Date": "2010-05-03 00:00:00"}], "HotelInfo": {"Name": "Hotel Manet", "HotelURL": "/ShowUserReviews-g187147-d269117-Reviews-Hotel_Manet-Paris_Ile_de_France.html", "Price": "$107 - $193*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">15 Rue Edouard Manet</span> | <span class=\"extended-address\">13 Arr.</span>, <span class=\"locality\"><span property=\"v:postal-code\">75013</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>", "HotelID": "269117", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Ohio",
+      "Title": "\u201cGREAT BARGIN\u201d",
+      "Author": "Truto",
+      "ReviewID": "UR122592868",
+      "Content": "hotel manet hidden gem paris hotels located near metro stop line 7 hotel easy walk quiet street roissy bus de gaulle airport walk street metro station hotel largest found 2 3 star hotel paris excellent bath facilities cleanest staff speaks little english falls themselves accomodate guests rarely eat hotel breakfast save costs manet comes close 3 star hotels selections di modern mall forgotten bring selection electric current adapters paris home depot printemps department store nice branch located found restaurants average prefering eat wide selection bistros famed rue mouffetard short metro stops metro line 7 stops near mouffetard notre dame louvre opera major department stores connections metro line placing manet closer appears",
+      "Date": "2012-01-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "St. Petersburg",
+      "Title": "\u201cA very reasonable choice!\u201d",
+      "Author": "Catalina1001",
+      "ReviewID": "UR121136432",
+      "Content": "hotel manet quiet comfortable clean 5 minutes metro bus stop clean view window lovely normal size bathroom pretty frankly speaking didnt mind apartments live breakfast excellent dairy products especially croissants sooo tasty useful free wifi handy please mind strange plug 3 holes devices youll lamp wifi ok mail surfing sometimes slow skype calls print documents computer printer floor service helpful welcome id draw attention speak english 5 2 waitresses talked spoke english understood course little bit awkward common france aware brought dictionary helped deal guys revise french enjoyable experience chance id choose manet service location reasonable price",
+      "Date": "2011-11-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "England",
+      "Title": "\u201cVery nice and well-priced small hotel\u201d",
+      "Author": "Mabroi",
+      "ReviewID": "UR120084230",
+      "Content": "family five spent nights week reasonably priced hotel simply furnished comfortable views rooftops paris bathrooms excellent modern kept clean reception staff exception friendly helpful breakfast local cafes hotel provides reasonable buffet 8 euros pp stay negative comment carpets thorough clean",
+      "Date": "2011-11-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Glasgow",
+      "Title": "\u201cA brilliant basic hotel in the heart of Paris!\u201d",
+      "Author": "smileen141",
+      "ReviewID": "UR83454035",
+      "Content": "partner nervous traveller quiet nights sleep relatively budget pick wisely night couldnt picked hotel manet clean quiet rue manet main streets ditalie service excellent balcony rooftops beautiful buildings ate meals found beautiful barrestaurant rue des magical time look forward returning sometime soon",
+      "Date": "2010-10-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Auckland, New Zealand",
+      "Title": "\u201cJust what we needed\u201d",
+      "Author": "AndrewKiwi",
+      "ReviewID": "UR82499602",
+      "Content": "looking stay paris daunting task look hotel websites hours wondering stay main paris expensive stay hotel location clean comfortable bed nice bathroom didnt feel claustrophobic friend recommended hotel manet exactly hoping huge means decent size especially paris bathroom clean free wifi internet windows fresh air cant remember seeing temperature control location hotel 23 minute walk metro station access 3 metro lines connected nearby restaurants handy didnt try continental breakfast glance bread spreads cook eggs tea coffee people low star rating star ratings mean absolutely paris looking stay thats pleasant spending fortune allows travel easily hotel manet ideal choice",
+      "Date": "2010-10-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rochester New York",
+      "Title": "\u201cA great find\u201d",
+      "Author": "Ktech",
+      "ReviewID": "UR75605021",
+      "Content": "stayed 4 nights children superfriendly staff nice clean paris ample breakfast including bread croissants yogurts cereal option boiled eggs nice residential neighborhood convenient multiple subway lines restaurants boulangeries etc mall department stores grocery store blocks definitely stay little bit subway ride touristy neighborhood feels real paris tourist theme park excellent value",
+      "Date": "2010-08-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bath",
+      "Title": "\u201cRelaxed and friendly no frills hotel\u201d",
+      "Author": "LBS50",
+      "ReviewID": "UR63081525",
+      "Content": "stayed hotel manet 3 days daughter friendly staff clean basic french breakfast near metro exploring left bank foot bars restaurants near special ok basic meal beer tourists nice recommend walk paris mosque wonderful cafe glimpse paris relaxed friendly",
+      "Date": "2010-05-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Manet",
+    "HotelURL": "/ShowUserReviews-g187147-d269117-Reviews-Hotel_Manet-Paris_Ile_de_France.html",
+    "Price": "$107 - $193*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">15 Rue Edouard Manet</span> | <span class=\"extended-address\">13 Arr.</span>, <span class=\"locality\"><span property=\"v:postal-code\">75013</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>",
+    "HotelID": "269117",
+    "ImgURL": ""
+  }
+}

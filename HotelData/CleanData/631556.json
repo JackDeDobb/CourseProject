@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "england", "Title": "\u201cDid what it said on the tin\u201d", "Author": "christine0905", "ReviewID": "UR113071365", "Content": "travelled father birthday received wam welcome staff pleasant able offer help advice local restaurants visit olive tree provided maps information bus tours etc basic functional breakfast continental whilst morning plentiful 3 looking liitle thoroughly enjoyed stay stay time berlin", "Date": "2011-06-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Wien, Austria", "Title": "\u201cWas just ok\u201d", "Author": "HuSanNiang", "ReviewID": "UR87239292", "Content": "arrived earlier morning hotel immediately nice reach hotel airport tegel isn\u00b4t little bit difficult using 1 bus 2 sbahn 1 tram heavy suitcase tiring reaching city center easy using tram 2 stops bahn prepayment via money transfer week earlier charged complain started look payment prepayment accounting date hotel freshly renovated except shaddy carpet hall hope lilac pink single bigger double unfortunately wasn\u00b4t door curtain separate bathroom toilet rest faced therefor traffic noise shop hotel breakfast decent choice closest cash machine petrol station street visitors people families", "Date": "2010-11-16 00:00:00"}], "HotelInfo": {"Name": "Hotel Pankow", "HotelURL": "/ShowUserReviews-g187323-d631556-Reviews-Hotel_Pankow-Berlin.html", "Price": "$47 - $97*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Pasewalker Strasse 14-15</span>, <span class=\"locality\"><span property=\"v:postal-code\">13127</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "631556", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fa/69/fa69aac95ff79ecb20bef4ff849d2cc75large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "england",
+      "Title": "\u201cDid what it said on the tin\u201d",
+      "Author": "christine0905",
+      "ReviewID": "UR113071365",
+      "Content": "travelled father birthday received wam welcome staff pleasant able offer help advice local restaurants visit olive tree provided maps information bus tours etc basic functional breakfast continental whilst morning plentiful 3 looking liitle thoroughly enjoyed stay stay time berlin",
+      "Date": "2011-06-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Wien, Austria",
+      "Title": "\u201cWas just ok\u201d",
+      "Author": "HuSanNiang",
+      "ReviewID": "UR87239292",
+      "Content": "arrived earlier morning hotel immediately nice reach hotel airport tegel isn\u00b4t little bit difficult using 1 bus 2 sbahn 1 tram heavy suitcase tiring reaching city center easy using tram 2 stops bahn prepayment via money transfer week earlier charged complain started look payment prepayment accounting date hotel freshly renovated except shaddy carpet hall hope lilac pink single bigger double unfortunately wasn\u00b4t door curtain separate bathroom toilet rest faced therefor traffic noise shop hotel breakfast decent choice closest cash machine petrol station street visitors people families",
+      "Date": "2010-11-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Pankow",
+    "HotelURL": "/ShowUserReviews-g187323-d631556-Reviews-Hotel_Pankow-Berlin.html",
+    "Price": "$47 - $97*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Pasewalker Strasse 14-15</span>, <span class=\"locality\"><span property=\"v:postal-code\">13127</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "631556",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fa/69/fa69aac95ff79ecb20bef4ff849d2cc75large.jpg"
+  }
+}

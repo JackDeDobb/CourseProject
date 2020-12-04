@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Texas", "Title": "\u201cNice place, good location\u201d", "Author": "D S", "ReviewID": "UR119643939", "Content": "stayed trip sd paid minute price website surrounding nice clean ton hotels hotel circle lot choice limited etc satisfied girl check extremely nice close university avenue backside exit close locations satisfied recommended", "Date": "2011-10-23 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "San Diego, California", "Title": "\u201cDisgusting and dirty for babies\u201d", "Author": "quesada323", "ReviewID": "UR69429564", "Content": "awoke middle night baby bottle roaches disgusting roaches bathroom granted 430am morning called front desk girl spoke sleep light boss morning feel completely disgusted market baby food items groceries counter brought 21 month trip am peeved concerned situation", "Date": "2010-07-02 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "", "Title": "\u201cGood option for San Diego tourists with a car\u201d", "Author": "efsch", "ReviewID": "UR59618752", "Content": "extended stay hotel circle san diego mission valley hotel strip expensive 85 ns king including tax maintained minor multiple es property stayed recommend option tourists car sightsee san diego days es clean quiet friendly conveniently located miles san airport city center major tourist attractions zoo balboa park sea world city beaches mission valley shopping centers etc es properties includes kitchen basic cookware china flatware people benefit cities restaurant food greasy expensive es properties housekeeping doityourself except weekly cleaning linen change towels front desk daily clean food stains carpet dining table kitchen laminate flooring included table es properties motel quiet party convention facilities attract drunken parties set freeway traffic noise low hum san diego offers rudimentary public transportation car essential thrifty airport rental car brand cost 183 week including taxes fees walking distance es property minor multiple front desk care except plumbing promptly politely hangers coat rack china flatware missing items kitchen counter trim coming shower diverter tub drain function properly leaked tub faucet constant flow hot water bathroom warm damp pity city chronic water shortages leak arrival available time front desk suggestion stay san diego request ground floor climate mild option sleep windows overall stay appreciate extended stay properties rates kitchens quiet guests", "Date": "2010-03-26 00:00:00"}], "HotelInfo": {"Name": "Extended StayAmerica Hotel Circle", "HotelURL": "/ShowUserReviews-g60750-d224242-Reviews-Extended_StayAmerica_Hotel_Circle-San_Diego_California.html", "Price": "$66 - $121*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2087 Hotel Circle South</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92108</span></span> </span> </span> </address>", "HotelID": "224242", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ae/8d/ae8dfa4fd8841540bc90ab855528dd4d6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Texas",
+      "Title": "\u201cNice place, good location\u201d",
+      "Author": "D S",
+      "ReviewID": "UR119643939",
+      "Content": "stayed trip sd paid minute price website surrounding nice clean ton hotels hotel circle lot choice limited etc satisfied girl check extremely nice close university avenue backside exit close locations satisfied recommended",
+      "Date": "2011-10-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "San Diego, California",
+      "Title": "\u201cDisgusting and dirty for babies\u201d",
+      "Author": "quesada323",
+      "ReviewID": "UR69429564",
+      "Content": "awoke middle night baby bottle roaches disgusting roaches bathroom granted 430am morning called front desk girl spoke sleep light boss morning feel completely disgusted market baby food items groceries counter brought 21 month trip am peeved concerned situation",
+      "Date": "2010-07-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cGood option for San Diego tourists with a car\u201d",
+      "Author": "efsch",
+      "ReviewID": "UR59618752",
+      "Content": "extended stay hotel circle san diego mission valley hotel strip expensive 85 ns king including tax maintained minor multiple es property stayed recommend option tourists car sightsee san diego days es clean quiet friendly conveniently located miles san airport city center major tourist attractions zoo balboa park sea world city beaches mission valley shopping centers etc es properties includes kitchen basic cookware china flatware people benefit cities restaurant food greasy expensive es properties housekeeping doityourself except weekly cleaning linen change towels front desk daily clean food stains carpet dining table kitchen laminate flooring included table es properties motel quiet party convention facilities attract drunken parties set freeway traffic noise low hum san diego offers rudimentary public transportation car essential thrifty airport rental car brand cost 183 week including taxes fees walking distance es property minor multiple front desk care except plumbing promptly politely hangers coat rack china flatware missing items kitchen counter trim coming shower diverter tub drain function properly leaked tub faucet constant flow hot water bathroom warm damp pity city chronic water shortages leak arrival available time front desk suggestion stay san diego request ground floor climate mild option sleep windows overall stay appreciate extended stay properties rates kitchens quiet guests",
+      "Date": "2010-03-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Extended StayAmerica Hotel Circle",
+    "HotelURL": "/ShowUserReviews-g60750-d224242-Reviews-Extended_StayAmerica_Hotel_Circle-San_Diego_California.html",
+    "Price": "$66 - $121*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2087 Hotel Circle South</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92108</span></span> </span> </span> </address>",
+    "HotelID": "224242",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ae/8d/ae8dfa4fd8841540bc90ab855528dd4d6large.jpg"
+  }
+}

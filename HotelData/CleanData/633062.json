@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Budapest, Hungary", "Title": "\u201cAlmost very good\u201d", "Author": "davidabraham", "ReviewID": "UR114305493", "Content": "located district friedrichshain tourist youthful fizzy life cool city easily reachable tram ubahn sbahn close center berlin alexanderplatz surrounding streets lots caf\u00e9s bars breakfast drink eat groceries 510 mins walk standing supermarkets top quiet roomy 4 persons plus bed comfortable bathroom clean equipment madeup okay staff couldt speak english words tourist dont understand free internet access couldnt anyway breakfast morning witch worth total average improvements anyway recommend", "Date": "2011-06-19 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Glasgow", "Title": "\u201cGood value base for an excellent holiday\u201d", "Author": "Scotpacker", "ReviewID": "UR90274413", "Content": "hotel east berlin location fine 10 minute walk metro shared bathrooms bathrooms excellent clean required base exploring berlin half hour alexander platz walking metro stayed 4 nights \u00a330 night considered excellent value previous visitors ground floor noisy ground floor heard noise entrance arrangements slightly strange 2 keys gate courtyard hotel stayed 7 days altogether found berlin third reich walking tour fascinating led fit american ahead 5 miles hour toured main 10 euros amazing value bought 7 day zone travel pass 3 day museum pass staying 7 days recommend", "Date": "2010-12-20 00:00:00"}], "HotelInfo": {"Name": "Hotel Comenius", "HotelURL": "/ShowUserReviews-g187323-d633062-Reviews-Hotel_Comenius-Berlin.html", "Price": "$45 - $141*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Grunberger Strasse 22</span>, <span class=\"locality\"><span property=\"v:postal-code\">10243</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "633062", "ImgURL": "http://www.venere.com/img/hotel/7/8/9/1/311987/311987.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Budapest, Hungary",
+      "Title": "\u201cAlmost very good\u201d",
+      "Author": "davidabraham",
+      "ReviewID": "UR114305493",
+      "Content": "located district friedrichshain tourist youthful fizzy life cool city easily reachable tram ubahn sbahn close center berlin alexanderplatz surrounding streets lots caf\u00e9s bars breakfast drink eat groceries 510 mins walk standing supermarkets top quiet roomy 4 persons plus bed comfortable bathroom clean equipment madeup okay staff couldt speak english words tourist dont understand free internet access couldnt anyway breakfast morning witch worth total average improvements anyway recommend",
+      "Date": "2011-06-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Glasgow",
+      "Title": "\u201cGood value base for an excellent holiday\u201d",
+      "Author": "Scotpacker",
+      "ReviewID": "UR90274413",
+      "Content": "hotel east berlin location fine 10 minute walk metro shared bathrooms bathrooms excellent clean required base exploring berlin half hour alexander platz walking metro stayed 4 nights \u00a330 night considered excellent value previous visitors ground floor noisy ground floor heard noise entrance arrangements slightly strange 2 keys gate courtyard hotel stayed 7 days altogether found berlin third reich walking tour fascinating led fit american ahead 5 miles hour toured main 10 euros amazing value bought 7 day zone travel pass 3 day museum pass staying 7 days recommend",
+      "Date": "2010-12-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Comenius",
+    "HotelURL": "/ShowUserReviews-g187323-d633062-Reviews-Hotel_Comenius-Berlin.html",
+    "Price": "$45 - $141*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Grunberger Strasse 22</span>, <span class=\"locality\"><span property=\"v:postal-code\">10243</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "633062",
+    "ImgURL": "http://www.venere.com/img/hotel/7/8/9/1/311987/311987.jpg"
+  }
+}

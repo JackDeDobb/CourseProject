@@ -1,1 +1,44 @@
-[{"reviewId": "31300", "productName": "Buslink MP3-PBD1G Musica 1 GB MP3 Player and Flash Drive (Silver)", "title": "First Impressions", "author": "Carlos Andrade \"World_Runner\"", "createDate": "2006-08-17 00:00:00", "fullText": "player slightly bigger heavier shuffle battery life overall mp3 player running player hold 500 mb reformatted clicking folder windows explorer selecting format solved dont return", "rating": 3.0, "helpfulNum": 11, "totalNum": 11, "commentNum": 0, "webUrl": "http://www.amazon.com/review/product/B000EVMKSU/ref=cm_cr_dp_all_summary/103-1045630-8745437?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending", "htmlPath": "F:\\amazon_mp3\\1/408"}, {"reviewId": "31301", "productName": "Buslink MP3-PBD1G Musica 1 GB MP3 Player and Flash Drive (Silver)", "title": "Great for Exercise Music", "author": "smurf82", "createDate": "2007-03-16 00:00:00", "fullText": "plays music charges quickly charger computer easy looked lot options price perfect gym", "rating": 4.0, "helpfulNum": 0, "totalNum": 0, "commentNum": 0, "webUrl": "http://www.amazon.com/review/product/B000EVMKSU/ref=cm_cr_dp_all_summary/103-1045630-8745437?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending", "htmlPath": "F:\\amazon_mp3\\1/408"}, {"reviewId": "31302", "productName": "Buslink MP3-PBD1G Musica 1 GB MP3 Player and Flash Drive (Silver)", "title": "Complete Disappointment", "author": "Tosha Tessen", "createDate": "2007-07-24 00:00:00", "fullText": "received item white description stated silver item shorted week receiving item manufacturer unwilling refund money company purchased week half resolution amazon refund money company wouldnt item defective poorly received item horribly received poor customer service", "rating": 1.0, "helpfulNum": 1, "totalNum": 1, "commentNum": 0, "webUrl": "http://www.amazon.com/review/product/B000EVMKSU/ref=cm_cr_dp_all_summary/103-1045630-8745437?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending", "htmlPath": "F:\\amazon_mp3\\1/408"}]
+[
+  {
+    "reviewId": "31300",
+    "productName": "Buslink MP3-PBD1G Musica 1 GB MP3 Player and Flash Drive (Silver)",
+    "title": "First Impressions",
+    "author": "Carlos Andrade \"World_Runner\"",
+    "createDate": "2006-08-17 00:00:00",
+    "fullText": "player slightly bigger heavier shuffle battery life overall mp3 player running player hold 500 mb reformatted clicking folder windows explorer selecting format solved dont return",
+    "rating": 3.0,
+    "helpfulNum": 11,
+    "totalNum": 11,
+    "commentNum": 0,
+    "webUrl": "http://www.amazon.com/review/product/B000EVMKSU/ref=cm_cr_dp_all_summary/103-1045630-8745437?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending",
+    "htmlPath": "F:\\amazon_mp3\\1/408"
+  },
+  {
+    "reviewId": "31301",
+    "productName": "Buslink MP3-PBD1G Musica 1 GB MP3 Player and Flash Drive (Silver)",
+    "title": "Great for Exercise Music",
+    "author": "smurf82",
+    "createDate": "2007-03-16 00:00:00",
+    "fullText": "plays music charges quickly charger computer easy looked lot options price perfect gym",
+    "rating": 4.0,
+    "helpfulNum": 0,
+    "totalNum": 0,
+    "commentNum": 0,
+    "webUrl": "http://www.amazon.com/review/product/B000EVMKSU/ref=cm_cr_dp_all_summary/103-1045630-8745437?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending",
+    "htmlPath": "F:\\amazon_mp3\\1/408"
+  },
+  {
+    "reviewId": "31302",
+    "productName": "Buslink MP3-PBD1G Musica 1 GB MP3 Player and Flash Drive (Silver)",
+    "title": "Complete Disappointment",
+    "author": "Tosha Tessen",
+    "createDate": "2007-07-24 00:00:00",
+    "fullText": "received item white description stated silver item shorted week receiving item manufacturer unwilling refund money company purchased week half resolution amazon refund money company wouldnt item defective poorly received item horribly received poor customer service",
+    "rating": 1.0,
+    "helpfulNum": 1,
+    "totalNum": 1,
+    "commentNum": 0,
+    "webUrl": "http://www.amazon.com/review/product/B000EVMKSU/ref=cm_cr_dp_all_summary/103-1045630-8745437?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending",
+    "htmlPath": "F:\\amazon_mp3\\1/408"
+  }
+]

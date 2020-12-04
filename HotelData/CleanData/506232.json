@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201c10 out of 10 STUNNING HOTEL AT BUDGET PRICES!\u201d", "Author": "Dubai-Mafia", "ReviewID": "UR124494072", "Content": "stunning hotel clock tower perfect short stay beautiful breath taking interior hotel friendly nice staff bargain priced hotel shop 5 star beach resort stunning underground parking 10 10 pool sun apart stunning", "Date": "2012-02-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Singapore, null, Singapore", "Title": "\u201cA memorable stay in Dubai\u201d", "Author": "Divyalakshmi S", "ReviewID": "UR122384869", "Content": "stayed apartment thrice month december 2011 school trip 32 location hotel walking distance various near international airport metro station hotel strategic location near dubai creek friends evening strolls chilly breezes creek bur dubai dubai museum wide range shops selling carpets clothes bargain cheap eateries located hotel addition supermarkets beauty salons laundry service providers equipped comfortable sofas beds \u2013 cosy reside homey classy ambience attributed beautiful oil paintings hung apartment provides hairdryers request iron ironing board placed apartment kitchen equipped oven refrigerator washing machine stove cabinet filled cooking eating utensils service hotel provided service keeping luggage hotel travelled qatar doha returned check hotel date misfortune bags hotel \u2013 latter contained items staff helpful searching misplaced bag returned jose christmas day help hotel staff able retrieve bag laptop internet connection via wireless assistance ritual night staff patiently religiously helped connect internet night 3 nights continuously assistance embarrassed stopped short assistance surprise staff doorstep 11pm usual time call assistance check internet connectivity \u2013 managed permanently resolve laptop issue concierge staff charlie thomas friendly ready help anytime booking cab tours helping luggage reception staff consisting rose quick helped change peak period abdullah jose ensured smooth fast check 32 students 2 coordinators 20 minutes amenities hotel wellequipped travel agencies hairdressers restaurants pool gym likes dislikes negative hotel opinion complaint lifts 2 lifts servicing 15 levels hotel waiting time lift usual especially breakfast hours complaint swimming pool staff hotel location apartment amenities", "Date": "2012-01-02 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Sohar, Oman", "Title": "\u201cAbove Average Below Premium\u201d", "Author": "Suresh75", "ReviewID": "UR119315792", "Content": "ive stayed 2 nights stay except glitches clean sections 2 toilets 1 bathroom 2 televisions lot furniture required total 7 wooden chairs sit look carefully crash bathroom provide shaving kit tooth brush paste etc apart regular soap shampoo airconditioners setting wasnt able changed set 19 cold day 22 morning 19 ready chilling cold experience stay locality walk shopping water taxis etc staff allowed late checkout break fast reasonable priced reasonable valet parking single driver manage job parking manage front hotel expect delays patient day wait 30 minutes leave picking vehicle feel except minor issues value money hotel ready manage yourself", "Date": "2011-10-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Al Jubail, Saudi Arabia", "Title": "\u201cComfortable and nicely located Hotel in Dubai\u201d", "Author": "musharrafakhan", "ReviewID": "UR118882140", "Content": "prefer hotel location low price compared facilities comfort walking distance station rigga 10 aed city center heart bur dubai distance cost saved dubai nicely decorated personally carpeting cool calm atmosphere aware changes outside clock depressed taking tea tea bag cups water swimming pool enjoy gym facility food specially breakfast service satisfactory level faced little bit discouraging reception service satisfaction", "Date": "2011-10-03 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Johannesburg", "Title": "\u201cI can give you my e- mail address and state all reasons why not to stay here\u201d", "Author": "Gord15_50", "ReviewID": "UR96211296", "Content": "definitely business hotel recommend lousy breakfast noisy pay fortune nights stay top pay bottle water 3 fee settling bill amex youre happy love top bad kitsch", "Date": "2011-02-11 00:00:00"}], "HotelInfo": {"Name": "Emirates Concorde Hotel & Residence", "HotelURL": "/ShowUserReviews-g295424-d506232-Reviews-Emirates_Concorde_Hotel_Residence-Dubai.html", "Price": "$102 - $388*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Al Maktoum Rd</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span> <span property=\"v:postal-code\">64225</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "506232", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ce/17/ce1740e00123c7ca1fc9ccc9071839e95large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201c10 out of 10 STUNNING HOTEL AT BUDGET PRICES!\u201d",
+      "Author": "Dubai-Mafia",
+      "ReviewID": "UR124494072",
+      "Content": "stunning hotel clock tower perfect short stay beautiful breath taking interior hotel friendly nice staff bargain priced hotel shop 5 star beach resort stunning underground parking 10 10 pool sun apart stunning",
+      "Date": "2012-02-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Singapore, null, Singapore",
+      "Title": "\u201cA memorable stay in Dubai\u201d",
+      "Author": "Divyalakshmi S",
+      "ReviewID": "UR122384869",
+      "Content": "stayed apartment thrice month december 2011 school trip 32 location hotel walking distance various near international airport metro station hotel strategic location near dubai creek friends evening strolls chilly breezes creek bur dubai dubai museum wide range shops selling carpets clothes bargain cheap eateries located hotel addition supermarkets beauty salons laundry service providers equipped comfortable sofas beds \u2013 cosy reside homey classy ambience attributed beautiful oil paintings hung apartment provides hairdryers request iron ironing board placed apartment kitchen equipped oven refrigerator washing machine stove cabinet filled cooking eating utensils service hotel provided service keeping luggage hotel travelled qatar doha returned check hotel date misfortune bags hotel \u2013 latter contained items staff helpful searching misplaced bag returned jose christmas day help hotel staff able retrieve bag laptop internet connection via wireless assistance ritual night staff patiently religiously helped connect internet night 3 nights continuously assistance embarrassed stopped short assistance surprise staff doorstep 11pm usual time call assistance check internet connectivity \u2013 managed permanently resolve laptop issue concierge staff charlie thomas friendly ready help anytime booking cab tours helping luggage reception staff consisting rose quick helped change peak period abdullah jose ensured smooth fast check 32 students 2 coordinators 20 minutes amenities hotel wellequipped travel agencies hairdressers restaurants pool gym likes dislikes negative hotel opinion complaint lifts 2 lifts servicing 15 levels hotel waiting time lift usual especially breakfast hours complaint swimming pool staff hotel location apartment amenities",
+      "Date": "2012-01-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sohar, Oman",
+      "Title": "\u201cAbove Average Below Premium\u201d",
+      "Author": "Suresh75",
+      "ReviewID": "UR119315792",
+      "Content": "ive stayed 2 nights stay except glitches clean sections 2 toilets 1 bathroom 2 televisions lot furniture required total 7 wooden chairs sit look carefully crash bathroom provide shaving kit tooth brush paste etc apart regular soap shampoo airconditioners setting wasnt able changed set 19 cold day 22 morning 19 ready chilling cold experience stay locality walk shopping water taxis etc staff allowed late checkout break fast reasonable priced reasonable valet parking single driver manage job parking manage front hotel expect delays patient day wait 30 minutes leave picking vehicle feel except minor issues value money hotel ready manage yourself",
+      "Date": "2011-10-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Al Jubail, Saudi Arabia",
+      "Title": "\u201cComfortable and nicely located Hotel in Dubai\u201d",
+      "Author": "musharrafakhan",
+      "ReviewID": "UR118882140",
+      "Content": "prefer hotel location low price compared facilities comfort walking distance station rigga 10 aed city center heart bur dubai distance cost saved dubai nicely decorated personally carpeting cool calm atmosphere aware changes outside clock depressed taking tea tea bag cups water swimming pool enjoy gym facility food specially breakfast service satisfactory level faced little bit discouraging reception service satisfaction",
+      "Date": "2011-10-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Johannesburg",
+      "Title": "\u201cI can give you my e- mail address and state all reasons why not to stay here\u201d",
+      "Author": "Gord15_50",
+      "ReviewID": "UR96211296",
+      "Content": "definitely business hotel recommend lousy breakfast noisy pay fortune nights stay top pay bottle water 3 fee settling bill amex youre happy love top bad kitsch",
+      "Date": "2011-02-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Emirates Concorde Hotel & Residence",
+    "HotelURL": "/ShowUserReviews-g295424-d506232-Reviews-Emirates_Concorde_Hotel_Residence-Dubai.html",
+    "Price": "$102 - $388*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Al Maktoum Rd</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span> <span property=\"v:postal-code\">64225</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "506232",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ce/17/ce1740e00123c7ca1fc9ccc9071839e95large.jpg"
+  }
+}

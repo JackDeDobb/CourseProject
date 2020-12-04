@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "High Wycombe, England", "Title": "\u201cAvoid Unless Desperate\u201d", "Author": "cley123", "ReviewID": "UR125672956", "Content": "true hotel hostel restaurant attached awful claustrophobically it\u2019s middle industrial estate else it\u2019s nightmare booked nights error worst nights spent travelling life", "Date": "2012-03-05 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "kuwait", "Title": "\u201cNo Frills Hotel\u201d", "Author": "san142", "ReviewID": "UR125535393", "Content": "stayed 7 days neat internet free parking free rate hotel goes depending demand 140 aed 99 aed advertise cost taxi easyhotel dubai terminal 2 112 aed weekends hotel booked", "Date": "2012-03-03 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Sacramento, California", "Title": "\u201cNo Frills Hotel\u201d", "Author": "Globalredneck", "ReviewID": "UR124037448", "Content": "clean price excellent stay frills fancy soap shampoo service tv receive tv remote checking staff friendly bed comfortable somewhat difficult", "Date": "2012-02-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Preston, England", "Title": "\u201cValue for money\u201d", "Author": "andy1mac", "ReviewID": "UR123830768", "Content": "paid \u00a320 double cheap dubai exceptional value ok jebel ali stop metro cheap \u00a3110 city isnt issue takes hour city sights adequate particularly youre type beds comfortable easy facilities pay extra luxuries example cleaning towels changing etc additional bill 0 recommend drawback cab towards city starts wrong due motorway system start metro", "Date": "2012-01-30 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Dubai, United Arab Emirates", "Title": "\u201cBest value for money\u201d", "Author": "Rodeoankie", "ReviewID": "UR121754192", "Content": "hi stayed 2 nights hotel business client jebel ali simply limited spending nights dubai based jebel ali bet unless 45 star lover hotel including bathrooms clean kept std adequate spend night tv 4 free channels including dubai english movies channel bed comfy theres safe study table theres inhouse restaurant serves fresh food affordable menu welcoming owner vending machines beverages chocolates 23 aed internet 10 15 aed 6 hours 30 days speed available via wireless depending floor benefit negative accessibility city unless ok walk 700 meters metro station trying dubai taxi cost fortune taxi towards abu dhabi uturn 68 km ahead metro hotel shuttle car metro stn hassle experience recommend spend live basic dubai upto week", "Date": "2011-12-15 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Bangalore", "Title": "\u201cComfy\u201d", "Author": "Ankitjain", "ReviewID": "UR103723741", "Content": "ppl claim 100 dirhams couldnt rate herewe paid aroung 300 dirhams night 1 3 nights palce situated ali secured world getting ali everyday pain thousand thatso staying hotel easy commute office staff cooperative", "Date": "2011-04-12 00:00:00"}], "HotelInfo": {"Name": "easyHotel Dubai, Jebel Ali", "HotelURL": "/ShowUserReviews-g295424-d1906385-Reviews-EasyHotel_Dubai_Jebel_Ali-Dubai.html", "Price": "0", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Street 724</span> | <span class=\"extended-address\">Behind JAFZA #17</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span> <span property=\"v:postal-code\">17000</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "1906385", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/c1/3a/7a/easyhotel-dubai.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "High Wycombe, England",
+      "Title": "\u201cAvoid Unless Desperate\u201d",
+      "Author": "cley123",
+      "ReviewID": "UR125672956",
+      "Content": "true hotel hostel restaurant attached awful claustrophobically it\u2019s middle industrial estate else it\u2019s nightmare booked nights error worst nights spent travelling life",
+      "Date": "2012-03-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "kuwait",
+      "Title": "\u201cNo Frills Hotel\u201d",
+      "Author": "san142",
+      "ReviewID": "UR125535393",
+      "Content": "stayed 7 days neat internet free parking free rate hotel goes depending demand 140 aed 99 aed advertise cost taxi easyhotel dubai terminal 2 112 aed weekends hotel booked",
+      "Date": "2012-03-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Sacramento, California",
+      "Title": "\u201cNo Frills Hotel\u201d",
+      "Author": "Globalredneck",
+      "ReviewID": "UR124037448",
+      "Content": "clean price excellent stay frills fancy soap shampoo service tv receive tv remote checking staff friendly bed comfortable somewhat difficult",
+      "Date": "2012-02-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Preston, England",
+      "Title": "\u201cValue for money\u201d",
+      "Author": "andy1mac",
+      "ReviewID": "UR123830768",
+      "Content": "paid \u00a320 double cheap dubai exceptional value ok jebel ali stop metro cheap \u00a3110 city isnt issue takes hour city sights adequate particularly youre type beds comfortable easy facilities pay extra luxuries example cleaning towels changing etc additional bill 0 recommend drawback cab towards city starts wrong due motorway system start metro",
+      "Date": "2012-01-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Dubai, United Arab Emirates",
+      "Title": "\u201cBest value for money\u201d",
+      "Author": "Rodeoankie",
+      "ReviewID": "UR121754192",
+      "Content": "hi stayed 2 nights hotel business client jebel ali simply limited spending nights dubai based jebel ali bet unless 45 star lover hotel including bathrooms clean kept std adequate spend night tv 4 free channels including dubai english movies channel bed comfy theres safe study table theres inhouse restaurant serves fresh food affordable menu welcoming owner vending machines beverages chocolates 23 aed internet 10 15 aed 6 hours 30 days speed available via wireless depending floor benefit negative accessibility city unless ok walk 700 meters metro station trying dubai taxi cost fortune taxi towards abu dhabi uturn 68 km ahead metro hotel shuttle car metro stn hassle experience recommend spend live basic dubai upto week",
+      "Date": "2011-12-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bangalore",
+      "Title": "\u201cComfy\u201d",
+      "Author": "Ankitjain",
+      "ReviewID": "UR103723741",
+      "Content": "ppl claim 100 dirhams couldnt rate herewe paid aroung 300 dirhams night 1 3 nights palce situated ali secured world getting ali everyday pain thousand thatso staying hotel easy commute office staff cooperative",
+      "Date": "2011-04-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "easyHotel Dubai, Jebel Ali",
+    "HotelURL": "/ShowUserReviews-g295424-d1906385-Reviews-EasyHotel_Dubai_Jebel_Ali-Dubai.html",
+    "Price": "0",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Street 724</span> | <span class=\"extended-address\">Behind JAFZA #17</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span> <span property=\"v:postal-code\">17000</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "1906385",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/c1/3a/7a/easyhotel-dubai.jpg"
+  }
+}

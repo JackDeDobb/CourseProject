@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Tega Cay", "Title": "\u201cGreat value, good close to central location and super clean\u201d", "Author": "IncantatoTours", "ReviewID": "UR72050581", "Content": "casa religious guest house 3 star hotel lots 4 star ammenities including excellent ac 24 staffed reception nice breakfast buffet yes shower stalls tiny towels super nice learn appreciate travel lot italy clients love location catacombs nearby restaurants bus termini cab ride 15 euros day look forward staying tour", "Date": "2010-07-23 00:00:00"}], "HotelInfo": {"Name": "Kolping Hotel Casa Domitilla", "HotelURL": "/ShowUserReviews-g187791-d280224-Reviews-Kolping_Hotel_Casa_Domitilla-Rome_Lazio.html", "Price": "$96 - $137*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via delle sette Chiese, 280</span>, <span class=\"locality\"><span property=\"v:postal-code\">147</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "280224", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/45/a3/4b/outside.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Tega Cay",
+      "Title": "\u201cGreat value, good close to central location and super clean\u201d",
+      "Author": "IncantatoTours",
+      "ReviewID": "UR72050581",
+      "Content": "casa religious guest house 3 star hotel lots 4 star ammenities including excellent ac 24 staffed reception nice breakfast buffet yes shower stalls tiny towels super nice learn appreciate travel lot italy clients love location catacombs nearby restaurants bus termini cab ride 15 euros day look forward staying tour",
+      "Date": "2010-07-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Kolping Hotel Casa Domitilla",
+    "HotelURL": "/ShowUserReviews-g187791-d280224-Reviews-Kolping_Hotel_Casa_Domitilla-Rome_Lazio.html",
+    "Price": "$96 - $137*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via delle sette Chiese, 280</span>, <span class=\"locality\"><span property=\"v:postal-code\">147</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "280224",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/45/a3/4b/outside.jpg"
+  }
+}

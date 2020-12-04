@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "toronto", "Title": "\u201cAwful\u201d", "Author": "lovesouth42", "ReviewID": "UR128256237", "Content": "based reviews booked 4 night stay ruined stay beautiful istanbul arrival available garden basement 1 night 10 euro pice reduction promise transfered upstairs nice following day garden bathroom toilet space showerhead placed toilet showered toilet cleaned bed table night stand lamps hotel major cleaning hopeful nice nice wrong paint peeling ceiling falling bed clothes breakfast morning juices fruit bread packages butter jam cream cheese miserable coffee review am experience memory", "Date": "2012-04-20 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Toronto, ON", "Title": "\u201cGreat for small boutique hotel\u201d", "Author": "merchy10", "ReviewID": "UR122911045", "Content": "stayed dec 27th 29th enjoyed stay hotel owner helpful speaks fluent english helps guided eat schedule day family double single beds traveling wife little kids couple suitcases literally 5 mins walk blue mosque maybe 10 mins tourist stuff sultanahmet hotel doesnt elevator recommended elderly cant climb stairs breakfast roof top decent bread boiled egg milk looking decent hotel close attractions id definitely recommend", "Date": "2012-01-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Atlanta, Georgia", "Title": "\u201cGreat for budget travel!\u201d", "Author": "BeeAndKay", "ReviewID": "UR119940503", "Content": "lots research chose stay palace exactly looking budget prices location clean sleep helpful owner spoke perfect english private bathroom en suite surprised comfortable bed slept hotpot heat water brought own instant starbucks coffee owner loaned hairdryer wouldnt pack own thanks breakfast boiled egg fruit tomato cheese lots bread coffee tea choose tea loved breakfast lady wonderful liked location walk lot exercise lost 15 lbs public transportation nearby owner arranged airport transport day flew ankara definitely stay price", "Date": "2011-10-31 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "flayosc france", "Title": "\u201ca nice place and nice people in the center of the historical city\u201d", "Author": "claudeFlayoscFrance", "ReviewID": "UR118852208", "Content": "bedroom smal bathroom quet night splendid breakfast view bosphorus morning gorgeous view help advice luckily boss speaks perfect american turkish un understandable morning hear muezzin blue mosque answering aya sofia international luxury prefer real local life hesitate couple french people weeks holiday", "Date": "2011-10-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Chicago, Illinois", "Title": "\u201cGreat family hotel, excellent tourist location.\u201d", "Author": "cphillips35805", "ReviewID": "UR67080944", "Content": "brother sister run pension incredibly nice patient guests families couples traveling wild party people mom travelled turkey stop unfortunately found bit mold bathroom created slight smell option move prices recommend highly recommend recommend pension", "Date": "2010-06-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Korea", "Title": "\u201cGreat hosts, great location\u201d", "Author": "rosey10", "ReviewID": "UR57289919", "Content": "hotel pension location minutes walk main sights sultanahmet street busy nice backpackers street cute obviously attempt date limited budget hosts helpful breakfast terrace brilliant eat views sea marmara difficult leave hotel definitely recommend", "Date": "2010-02-27 00:00:00"}], "HotelInfo": {"Name": "Nayla Palace", "HotelURL": "/ShowUserReviews-g293974-d1152999-Reviews-Nayla_Palace-Istanbul.html", "Price": "$71 - $98*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kutlugun Sokak. No:22</span> | <span class=\"extended-address\">Sultanahmet</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "1152999", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/f8/ce/e4/nayla-palace.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "toronto",
+      "Title": "\u201cAwful\u201d",
+      "Author": "lovesouth42",
+      "ReviewID": "UR128256237",
+      "Content": "based reviews booked 4 night stay ruined stay beautiful istanbul arrival available garden basement 1 night 10 euro pice reduction promise transfered upstairs nice following day garden bathroom toilet space showerhead placed toilet showered toilet cleaned bed table night stand lamps hotel major cleaning hopeful nice nice wrong paint peeling ceiling falling bed clothes breakfast morning juices fruit bread packages butter jam cream cheese miserable coffee review am experience memory",
+      "Date": "2012-04-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Toronto, ON",
+      "Title": "\u201cGreat for small boutique hotel\u201d",
+      "Author": "merchy10",
+      "ReviewID": "UR122911045",
+      "Content": "stayed dec 27th 29th enjoyed stay hotel owner helpful speaks fluent english helps guided eat schedule day family double single beds traveling wife little kids couple suitcases literally 5 mins walk blue mosque maybe 10 mins tourist stuff sultanahmet hotel doesnt elevator recommended elderly cant climb stairs breakfast roof top decent bread boiled egg milk looking decent hotel close attractions id definitely recommend",
+      "Date": "2012-01-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Atlanta, Georgia",
+      "Title": "\u201cGreat for budget travel!\u201d",
+      "Author": "BeeAndKay",
+      "ReviewID": "UR119940503",
+      "Content": "lots research chose stay palace exactly looking budget prices location clean sleep helpful owner spoke perfect english private bathroom en suite surprised comfortable bed slept hotpot heat water brought own instant starbucks coffee owner loaned hairdryer wouldnt pack own thanks breakfast boiled egg fruit tomato cheese lots bread coffee tea choose tea loved breakfast lady wonderful liked location walk lot exercise lost 15 lbs public transportation nearby owner arranged airport transport day flew ankara definitely stay price",
+      "Date": "2011-10-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "flayosc france",
+      "Title": "\u201ca nice place and nice people in the center of the historical city\u201d",
+      "Author": "claudeFlayoscFrance",
+      "ReviewID": "UR118852208",
+      "Content": "bedroom smal bathroom quet night splendid breakfast view bosphorus morning gorgeous view help advice luckily boss speaks perfect american turkish un understandable morning hear muezzin blue mosque answering aya sofia international luxury prefer real local life hesitate couple french people weeks holiday",
+      "Date": "2011-10-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Chicago, Illinois",
+      "Title": "\u201cGreat family hotel, excellent tourist location.\u201d",
+      "Author": "cphillips35805",
+      "ReviewID": "UR67080944",
+      "Content": "brother sister run pension incredibly nice patient guests families couples traveling wild party people mom travelled turkey stop unfortunately found bit mold bathroom created slight smell option move prices recommend highly recommend recommend pension",
+      "Date": "2010-06-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Korea",
+      "Title": "\u201cGreat hosts, great location\u201d",
+      "Author": "rosey10",
+      "ReviewID": "UR57289919",
+      "Content": "hotel pension location minutes walk main sights sultanahmet street busy nice backpackers street cute obviously attempt date limited budget hosts helpful breakfast terrace brilliant eat views sea marmara difficult leave hotel definitely recommend",
+      "Date": "2010-02-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Nayla Palace",
+    "HotelURL": "/ShowUserReviews-g293974-d1152999-Reviews-Nayla_Palace-Istanbul.html",
+    "Price": "$71 - $98*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kutlugun Sokak. No:22</span> | <span class=\"extended-address\">Sultanahmet</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "1152999",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/f8/ce/e4/nayla-palace.jpg"
+  }
+}

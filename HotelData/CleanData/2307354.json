@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Athens, Greece", "Title": "\u201cVery nice hotel, amazingly nice staff\u201d", "Author": "nathkingcole", "ReviewID": "UR126909474", "Content": "common hotels paris cute comfort money hotel worth staff amazing night cap corner coming late evening comfy sweet wifi free note hotel fitness sauna feels home", "Date": "2012-03-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Amsterdam, The Netherlands", "Title": "\u201cmarylin monroe theme can convince- breakfast not really!\u201d", "Author": "KrisCobain", "ReviewID": "UR126290910", "Content": "chose hotel location based 50s theme theme lovely hotel 7 floors 7 04 biggest sadly huge building construction opposite street cute nice pink shower sadly carpet chose breakfast wouldnt basicly bread etc jam nutella fruits average warm dishes corner bakery bistros offer breakfast mcdonalds spa joke choose hotel based spa tiny service friendly tries feel welcome choose hotel rate def worth 170 euro night", "Date": "2012-03-18 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Lichfield, United Kingdom", "Title": "\u201cGreat little find\u201d", "Author": "popdog35", "ReviewID": "UR125127509", "Content": "booked hotel due location reviews tripadvisor time traveller paris optimistic hotel thankfully wasnt disappointed stylish money hotel worth little spa basically private believe hotel 35 staff friendly morning evening helped requests negatives hotel noise travel issue nearby hottub bath noise little irritating plus ipod dock doesnt worki told days appears months minor elements detract hotel didnt bother breakfast cant comment hotel useful base explore paris metro 3 minute walk tower 20 mins walk seine evening takes 3 mins view river tower lit glory return heartbeat looking cost hotels city offers valueformoney options", "Date": "2012-02-24 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cGood fun hotel\u201d", "Author": "Adrianhands", "ReviewID": "UR122219790", "Content": "wasnt booked success proved wrong marilyn monroe theme fun equipped despite modest size bathroom cool led lights built shower surround round bed comfortable breakfast outside hotel dinner offered staff friendly location near seine", "Date": "2011-12-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Malmesbury, United Kingdom", "Title": "\u201cIt`s MAD, but I love it!\u201d", "Author": "JonBunston", "ReviewID": "UR122190222", "Content": "stayed twice construction completed occasions staff extremely helpful nights sleep shower live decor mad love loads nearby eat easy access metro sooo french normally stay bigger deluxe hotel paris concern popular able", "Date": "2011-12-28 00:00:00"}], "HotelInfo": {"Name": "Platine Hotel", "HotelURL": "/ShowUserReviews-g187147-d2307354-Reviews-Platine_Hotel-Paris_Ile_de_France.html", "Price": "$191 - $336*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">20 rue Ingenieur Robert Keller</span>, <span class=\"locality\"><span property=\"v:postal-code\">75015</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>", "HotelID": "2307354", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/34/9f/29/salle-petit-dejeuner.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Athens, Greece",
+      "Title": "\u201cVery nice hotel, amazingly nice staff\u201d",
+      "Author": "nathkingcole",
+      "ReviewID": "UR126909474",
+      "Content": "common hotels paris cute comfort money hotel worth staff amazing night cap corner coming late evening comfy sweet wifi free note hotel fitness sauna feels home",
+      "Date": "2012-03-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Amsterdam, The Netherlands",
+      "Title": "\u201cmarylin monroe theme can convince- breakfast not really!\u201d",
+      "Author": "KrisCobain",
+      "ReviewID": "UR126290910",
+      "Content": "chose hotel location based 50s theme theme lovely hotel 7 floors 7 04 biggest sadly huge building construction opposite street cute nice pink shower sadly carpet chose breakfast wouldnt basicly bread etc jam nutella fruits average warm dishes corner bakery bistros offer breakfast mcdonalds spa joke choose hotel based spa tiny service friendly tries feel welcome choose hotel rate def worth 170 euro night",
+      "Date": "2012-03-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Lichfield, United Kingdom",
+      "Title": "\u201cGreat little find\u201d",
+      "Author": "popdog35",
+      "ReviewID": "UR125127509",
+      "Content": "booked hotel due location reviews tripadvisor time traveller paris optimistic hotel thankfully wasnt disappointed stylish money hotel worth little spa basically private believe hotel 35 staff friendly morning evening helped requests negatives hotel noise travel issue nearby hottub bath noise little irritating plus ipod dock doesnt worki told days appears months minor elements detract hotel didnt bother breakfast cant comment hotel useful base explore paris metro 3 minute walk tower 20 mins walk seine evening takes 3 mins view river tower lit glory return heartbeat looking cost hotels city offers valueformoney options",
+      "Date": "2012-02-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cGood fun hotel\u201d",
+      "Author": "Adrianhands",
+      "ReviewID": "UR122219790",
+      "Content": "wasnt booked success proved wrong marilyn monroe theme fun equipped despite modest size bathroom cool led lights built shower surround round bed comfortable breakfast outside hotel dinner offered staff friendly location near seine",
+      "Date": "2011-12-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Malmesbury, United Kingdom",
+      "Title": "\u201cIt`s MAD, but I love it!\u201d",
+      "Author": "JonBunston",
+      "ReviewID": "UR122190222",
+      "Content": "stayed twice construction completed occasions staff extremely helpful nights sleep shower live decor mad love loads nearby eat easy access metro sooo french normally stay bigger deluxe hotel paris concern popular able",
+      "Date": "2011-12-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Platine Hotel",
+    "HotelURL": "/ShowUserReviews-g187147-d2307354-Reviews-Platine_Hotel-Paris_Ile_de_France.html",
+    "Price": "$191 - $336*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">20 rue Ingenieur Robert Keller</span>, <span class=\"locality\"><span property=\"v:postal-code\">75015</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>",
+    "HotelID": "2307354",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/34/9f/29/salle-petit-dejeuner.jpg"
+  }
+}

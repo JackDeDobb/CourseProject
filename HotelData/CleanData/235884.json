@@ -1,1 +1,165 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Exeter", "Title": "\u201cNice location, poor management\u201d", "Author": "Sara C", "ReviewID": "UR128261931", "Content": "hotel strangely split 2 buildings annex 2 doors feel bit detached hotel standard price clean twin beds 2 beds joined separate couch breakfast reasonable waiting staff impossible main gripe lack hospitality arrived venice 9pm checked manager hotel restaurant table told closed diners advertised closing time 9pm minutes late dont start holiday offered reason return eat", "Date": "2012-04-21 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Anniebrook", "Title": "\u201cGreat Location\u201d", "Author": "Sue J", "ReviewID": "UR125732429", "Content": "hotel lovely little canal grand canal stop st marks square lovely quiet spot breakfast quality annexe clean sleep venice restaurant served lunch dinner standard definately stay location", "Date": "2012-03-07 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Exeter, United Kingdom", "Title": "\u201cwe won't be returning\u201d", "Author": "JimandJan", "ReviewID": "UR124450304", "Content": "spent days freezing cold days warm clean tidythe breakfast cold mornings afternoon coffee chore employee wait finished hoovering shown towards guests times walked reception spoke times italian hotels found people friendly reflection hotel stars stayed 1 avoided reception heard coming 630am reception staff heard talking banging disappointment previous italian trips hotel game", "Date": "2012-02-11 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Moscow, Russia", "Title": "\u201cIdeal position for good price\u201d", "Author": "Dombrik81", "ReviewID": "UR123389630", "Content": "location price offered pleasant stuff free wifi access unless stated walls design impressive looks stylish 19th century wifi hardly accessible corner signs hotel near streets outside entrance building coordinates bookingcom useful navigator", "Date": "2012-01-21 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Milano", "Title": "\u201cGood stay at Messner and good value also\u201d", "Author": "love78", "ReviewID": "UR120735511", "Content": "found hotel search lastminute venice hotel conveniently located five minutes walking la salute church boat stop arrived directly train station line 1 realized stars hotel main building cheaper located near structure ok overlooking garden silent extremely clean heating ok bathroom tiny water hot towels provided couldnt tv breakfast served restaurant main building selection pastries fruit teas etc staff extremely helpful stay", "Date": "2011-11-18 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cNice room in the main building at a reasonable price.\u201d", "Author": "Wilhelmina87", "ReviewID": "UR119733355", "Content": "stayed hotel 4 night october 2011 pleasantly surprised 1st floor main buildings overlooked canal 3 windows shutters balcony facing canal clean neat kept bathroom restaurant ok sometimes busy service slow people reception helpful considering limited english am happy inadequate response inquiries regarding items accidently left drawer inquired twice phone receptionists suggestion send hotel inquiry email week initial inquiry able property found", "Date": "2011-10-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Lancaster, Ohio", "Title": "\u201cHelpful Staff\u201d", "Author": "OverworkedMom48", "ReviewID": "UR119053900", "Content": "stayed hotel 10 days found delightful beautiful corner overlooking rio looked forward coming home night staff accomodating helpful friendlythey requests assistance service location salute grand canal san marco happily send friends", "Date": "2011-10-07 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Irvine, California", "Title": "\u201cDon't stay at Hotel Messner\u201d", "Author": "sos90", "ReviewID": "UR84574804", "Content": "160 night worth except location infested mosquitos clean bathroom tiny towels dark dreary annex main hotel staff unfriendly location walking distance local market restaurants dont waste money hotel", "Date": "2010-10-23 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Wirral", "Title": "\u201cAvoid the annex\u201d", "Author": "Wirralian", "ReviewID": "UR81143890", "Content": "location close salute vaporetto stop st marks welcoming helpful manager public ok grade hotel ive read elsewhere main building fine annex grim avoided price", "Date": "2010-09-27 00:00:00"}], "HotelInfo": {"Name": "Hotel Messner", "HotelURL": "/ShowUserReviews-g187870-d235884-Reviews-Hotel_Messner-Venice_Veneto.html", "Price": "$90 - $218*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Dorsoduro 216</span> | <span class=\"extended-address\">Fondamenta Ca' Bal&Atilde;&nbsp;</span>, <span class=\"locality\"><span property=\"v:postal-code\">30123</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "235884", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/33/ee/33eea23a800caac858f08b024999401f4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Exeter",
+      "Title": "\u201cNice location, poor management\u201d",
+      "Author": "Sara C",
+      "ReviewID": "UR128261931",
+      "Content": "hotel strangely split 2 buildings annex 2 doors feel bit detached hotel standard price clean twin beds 2 beds joined separate couch breakfast reasonable waiting staff impossible main gripe lack hospitality arrived venice 9pm checked manager hotel restaurant table told closed diners advertised closing time 9pm minutes late dont start holiday offered reason return eat",
+      "Date": "2012-04-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Anniebrook",
+      "Title": "\u201cGreat Location\u201d",
+      "Author": "Sue J",
+      "ReviewID": "UR125732429",
+      "Content": "hotel lovely little canal grand canal stop st marks square lovely quiet spot breakfast quality annexe clean sleep venice restaurant served lunch dinner standard definately stay location",
+      "Date": "2012-03-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Exeter, United Kingdom",
+      "Title": "\u201cwe won't be returning\u201d",
+      "Author": "JimandJan",
+      "ReviewID": "UR124450304",
+      "Content": "spent days freezing cold days warm clean tidythe breakfast cold mornings afternoon coffee chore employee wait finished hoovering shown towards guests times walked reception spoke times italian hotels found people friendly reflection hotel stars stayed 1 avoided reception heard coming 630am reception staff heard talking banging disappointment previous italian trips hotel game",
+      "Date": "2012-02-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Moscow, Russia",
+      "Title": "\u201cIdeal position for good price\u201d",
+      "Author": "Dombrik81",
+      "ReviewID": "UR123389630",
+      "Content": "location price offered pleasant stuff free wifi access unless stated walls design impressive looks stylish 19th century wifi hardly accessible corner signs hotel near streets outside entrance building coordinates bookingcom useful navigator",
+      "Date": "2012-01-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Milano",
+      "Title": "\u201cGood stay at Messner and good value also\u201d",
+      "Author": "love78",
+      "ReviewID": "UR120735511",
+      "Content": "found hotel search lastminute venice hotel conveniently located five minutes walking la salute church boat stop arrived directly train station line 1 realized stars hotel main building cheaper located near structure ok overlooking garden silent extremely clean heating ok bathroom tiny water hot towels provided couldnt tv breakfast served restaurant main building selection pastries fruit teas etc staff extremely helpful stay",
+      "Date": "2011-11-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cNice room in the main building at a reasonable price.\u201d",
+      "Author": "Wilhelmina87",
+      "ReviewID": "UR119733355",
+      "Content": "stayed hotel 4 night october 2011 pleasantly surprised 1st floor main buildings overlooked canal 3 windows shutters balcony facing canal clean neat kept bathroom restaurant ok sometimes busy service slow people reception helpful considering limited english am happy inadequate response inquiries regarding items accidently left drawer inquired twice phone receptionists suggestion send hotel inquiry email week initial inquiry able property found",
+      "Date": "2011-10-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Lancaster, Ohio",
+      "Title": "\u201cHelpful Staff\u201d",
+      "Author": "OverworkedMom48",
+      "ReviewID": "UR119053900",
+      "Content": "stayed hotel 10 days found delightful beautiful corner overlooking rio looked forward coming home night staff accomodating helpful friendlythey requests assistance service location salute grand canal san marco happily send friends",
+      "Date": "2011-10-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Irvine, California",
+      "Title": "\u201cDon't stay at Hotel Messner\u201d",
+      "Author": "sos90",
+      "ReviewID": "UR84574804",
+      "Content": "160 night worth except location infested mosquitos clean bathroom tiny towels dark dreary annex main hotel staff unfriendly location walking distance local market restaurants dont waste money hotel",
+      "Date": "2010-10-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Wirral",
+      "Title": "\u201cAvoid the annex\u201d",
+      "Author": "Wirralian",
+      "ReviewID": "UR81143890",
+      "Content": "location close salute vaporetto stop st marks welcoming helpful manager public ok grade hotel ive read elsewhere main building fine annex grim avoided price",
+      "Date": "2010-09-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Messner",
+    "HotelURL": "/ShowUserReviews-g187870-d235884-Reviews-Hotel_Messner-Venice_Veneto.html",
+    "Price": "$90 - $218*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Dorsoduro 216</span> | <span class=\"extended-address\">Fondamenta Ca' Bal&Atilde;&nbsp;</span>, <span class=\"locality\"><span property=\"v:postal-code\">30123</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "235884",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/33/ee/33eea23a800caac858f08b024999401f4large.jpg"
+  }
+}

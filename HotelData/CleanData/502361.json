@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "tehran", "Title": "\u201cNo stay at backroom of hotel !!! just front room beside street.\u201d", "Author": "ali h", "ReviewID": "UR128276204", "Content": "hotel day backroom hotelit free space terrible day hotel stuff replace front beside street 4th floorit front beside street", "Date": "2012-04-21 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Cork", "Title": "\u201cNot a 4 star hotel at all\u201d", "Author": "Clamball", "ReviewID": "UR125181544", "Content": "stayed 2 nights october dark outside am guessing inside darker expect lot standard price paying receptionists unhelpful efficient forever task travelling business receipts difficult provide hotel organised transfer airport hotel overpriced double booked wait forever airport pick passenger hotel complained reception lot shrugging recommend hotel stay", "Date": "2012-02-25 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "dublin", "Title": "\u201ccould do a lot better\u201d", "Author": "06D123", "ReviewID": "UR124829028", "Content": "traveled turkey hotels picked based trip advisor reviews correct lucky getting designed wheelchair access ok sizewise lucky person move times heating wouldnt electricity ok bathroom designed wheelchair users resulted mirror low normal practically kneel simple solution bigger mirror shower drop potential death trap positioned step access teh towels spa facilities skimpy gym treadmill exercise machine pool tiny overpriced 10 hour sauna top whack poor facility especially takes 10 minutes warm warned wasnt regard explored night ate teh hotel breakfast dinner ok dinner except package watch taxi ripoffs cost twice city centre maybe hotel staff taxis downtown picked street scenic tour home", "Date": "2012-02-19 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "kusadasi", "Title": "\u201cFriendly hotel but noisy!!\u201d", "Author": "wsthame", "ReviewID": "UR84354009", "Content": "stayed hotel 3 nights cleaned day staff welcoming friendly pool gym refurbished themthe pool ok dip suppose breakfast plenty offer eg eggs cheese salami salad cereal bread cakes ect bad constant noise traffic passers stay ear plugs hotel base trains trams travel walk night", "Date": "2010-10-21 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "dcorby5", "Title": "\u201cTerrible Hotel Don't Waste Your Time or Money\u201d", "Author": "dcorby5", "ReviewID": "UR60429579", "Content": "terrible stay recommend below summary hotel 1 pool dirty 2 staff didnt speak turkish friendly car service recommended hotel rip 3 breakfast minimal real hot food 4 gym extremley outdated staff charges 30 lire 20 th treadmill deal 5 minibar didnt exist fridge broken 6 outdated dirty noisy 7 bathroom outdated dirty 8 hotel location poor location ton street noise didnt feel safe location 9 price overpriced 10 airconditioning didnt exist hotel claims airconditioning 11 maidservice terrible poorly cleaned 12 cut fruit wouldnt provide", "Date": "2010-04-05 00:00:00"}], "HotelInfo": {"Name": "Grand Hilarium Hotel", "HotelURL": "/ShowUserReviews-g293974-d502361-Reviews-Grand_Hilarium_Hotel-Istanbul.html", "Price": "$79 - $439*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Fabrika Sokak 3-5 Yenikapi</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "502361", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f2/d4/f2d4b99529d204276f675093a041d9801large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "tehran",
+      "Title": "\u201cNo stay at backroom of hotel !!! just front room beside street.\u201d",
+      "Author": "ali h",
+      "ReviewID": "UR128276204",
+      "Content": "hotel day backroom hotelit free space terrible day hotel stuff replace front beside street 4th floorit front beside street",
+      "Date": "2012-04-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Cork",
+      "Title": "\u201cNot a 4 star hotel at all\u201d",
+      "Author": "Clamball",
+      "ReviewID": "UR125181544",
+      "Content": "stayed 2 nights october dark outside am guessing inside darker expect lot standard price paying receptionists unhelpful efficient forever task travelling business receipts difficult provide hotel organised transfer airport hotel overpriced double booked wait forever airport pick passenger hotel complained reception lot shrugging recommend hotel stay",
+      "Date": "2012-02-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "dublin",
+      "Title": "\u201ccould do a lot better\u201d",
+      "Author": "06D123",
+      "ReviewID": "UR124829028",
+      "Content": "traveled turkey hotels picked based trip advisor reviews correct lucky getting designed wheelchair access ok sizewise lucky person move times heating wouldnt electricity ok bathroom designed wheelchair users resulted mirror low normal practically kneel simple solution bigger mirror shower drop potential death trap positioned step access teh towels spa facilities skimpy gym treadmill exercise machine pool tiny overpriced 10 hour sauna top whack poor facility especially takes 10 minutes warm warned wasnt regard explored night ate teh hotel breakfast dinner ok dinner except package watch taxi ripoffs cost twice city centre maybe hotel staff taxis downtown picked street scenic tour home",
+      "Date": "2012-02-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "kusadasi",
+      "Title": "\u201cFriendly hotel but noisy!!\u201d",
+      "Author": "wsthame",
+      "ReviewID": "UR84354009",
+      "Content": "stayed hotel 3 nights cleaned day staff welcoming friendly pool gym refurbished themthe pool ok dip suppose breakfast plenty offer eg eggs cheese salami salad cereal bread cakes ect bad constant noise traffic passers stay ear plugs hotel base trains trams travel walk night",
+      "Date": "2010-10-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "dcorby5",
+      "Title": "\u201cTerrible Hotel Don't Waste Your Time or Money\u201d",
+      "Author": "dcorby5",
+      "ReviewID": "UR60429579",
+      "Content": "terrible stay recommend below summary hotel 1 pool dirty 2 staff didnt speak turkish friendly car service recommended hotel rip 3 breakfast minimal real hot food 4 gym extremley outdated staff charges 30 lire 20 th treadmill deal 5 minibar didnt exist fridge broken 6 outdated dirty noisy 7 bathroom outdated dirty 8 hotel location poor location ton street noise didnt feel safe location 9 price overpriced 10 airconditioning didnt exist hotel claims airconditioning 11 maidservice terrible poorly cleaned 12 cut fruit wouldnt provide",
+      "Date": "2010-04-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Grand Hilarium Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d502361-Reviews-Grand_Hilarium_Hotel-Istanbul.html",
+    "Price": "$79 - $439*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Fabrika Sokak 3-5 Yenikapi</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "502361",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f2/d4/f2d4b99529d204276f675093a041d9801large.jpg"
+  }
+}

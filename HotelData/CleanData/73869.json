@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Los Angeles, California", "Title": "\u201cQuestionalbe Neighborhood\u201d", "Author": "teobuck", "ReviewID": "UR125037482", "Content": "stayed hotel 3 nights february 2012 staff friendly neighborhood people hotel character concerned safety car biggest facility united motel 6 told clerk bed acceptable faucet bathroom sprayed water floors clean doors dents tried kick water pressure shower tv sound except chanels watch tv stations watch wo disturbing guests pools recommend staying motel 6 closer metro center looks nicer outside try prices appear picked hotel originaly close", "Date": "2012-02-22 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Vantaa", "Title": "\u201cNoisy room, friendly staff\u201d", "Author": "HannuVantaalta", "ReviewID": "UR79924178", "Content": "ok cant expect fancy 30 somehow expect little basic mainly clean nearby highway noisy single windows able noise outside resulting badly slept night staff reception friendly helpful", "Date": "2010-09-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "South Dakota", "Title": "\u201cFriendly Service can't be beat!\u201d", "Author": "Junkjeans", "ReviewID": "UR54938860", "Content": "hotel property friendly service helpfulness staff matter help denise melissa able security guard especially helpful price frills accomodation restaurants major streets recommend hotel personal service feel welcome", "Date": "2010-02-01 00:00:00"}], "HotelInfo": {"Name": "Motel 6 Phoenix - Black Canyon", "HotelURL": "/ShowUserReviews-g31310-d73869-Reviews-Motel_6_Phoenix_Black_Canyon-Phoenix_Arizona.html", "Price": "$36 - $46*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4130 N Black Canyon Hwy</span>, <span class=\"extended-address\">I-17 at Exit 202/Indian School Rd</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85017</span></span> </span></span></address>", "HotelID": "73869", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6b/d4/6bd4533378f506e2a403c0776ed723881large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Los Angeles, California",
+      "Title": "\u201cQuestionalbe Neighborhood\u201d",
+      "Author": "teobuck",
+      "ReviewID": "UR125037482",
+      "Content": "stayed hotel 3 nights february 2012 staff friendly neighborhood people hotel character concerned safety car biggest facility united motel 6 told clerk bed acceptable faucet bathroom sprayed water floors clean doors dents tried kick water pressure shower tv sound except chanels watch tv stations watch wo disturbing guests pools recommend staying motel 6 closer metro center looks nicer outside try prices appear picked hotel originaly close",
+      "Date": "2012-02-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Vantaa",
+      "Title": "\u201cNoisy room, friendly staff\u201d",
+      "Author": "HannuVantaalta",
+      "ReviewID": "UR79924178",
+      "Content": "ok cant expect fancy 30 somehow expect little basic mainly clean nearby highway noisy single windows able noise outside resulting badly slept night staff reception friendly helpful",
+      "Date": "2010-09-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "South Dakota",
+      "Title": "\u201cFriendly Service can't be beat!\u201d",
+      "Author": "Junkjeans",
+      "ReviewID": "UR54938860",
+      "Content": "hotel property friendly service helpfulness staff matter help denise melissa able security guard especially helpful price frills accomodation restaurants major streets recommend hotel personal service feel welcome",
+      "Date": "2010-02-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Motel 6 Phoenix - Black Canyon",
+    "HotelURL": "/ShowUserReviews-g31310-d73869-Reviews-Motel_6_Phoenix_Black_Canyon-Phoenix_Arizona.html",
+    "Price": "$36 - $46*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4130 N Black Canyon Hwy</span>, <span class=\"extended-address\">I-17 at Exit 202/Indian School Rd</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85017</span></span> </span></span></address>",
+    "HotelID": "73869",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6b/d4/6bd4533378f506e2a403c0776ed723881large.jpg"
+  }
+}

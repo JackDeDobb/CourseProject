@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Manchester", "Title": "\u201cLovely room\u201d", "Author": "Ruby2000", "ReviewID": "UR125034415", "Content": "stayed night triple booked double 60 euros value price near museumplein concertgebouw lovely clean comfy beds quiet nice view warm breakfast tasty chaotic staff duty 2 cope 2 staff busy hot rolls cooked egg bacon meant didnt time replenish breakfast buffet coffee orange juice bread cheese item appeared request soon snapped hungry staff didnt time tables people finished people coming sit remains elses meal sorry staff trying cope", "Date": "2012-02-22 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Mons, Belgium", "Title": "\u201cBasic, Central, Perfect for students.\u201d", "Author": "Nicothecalifornian", "ReviewID": "UR124701965", "Content": "friends central theres bus stop front couple stops plaza bars shops coffee shops guys reception nice helpful surprised clean nice beds nice decoration paid 30 euros night negative breakfast included 8 10 arrive theres left theres lot seats sometimes wait people finish breakfast leave overall nice hotel central expensive perfect youre 20s dont care luxury friends time", "Date": "2012-02-17 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Newcastle upon Tyne, United Kingdom", "Title": "\u201cvery handy for sight seeing\u201d", "Author": "melafellabulldogs", "ReviewID": "UR123441262", "Content": "stayed night moving hotel visiting amsterdam judging trip hotel central close museums concert hall short tram ride central station dam square tourist attractions ie red light district hotel basic clean hotel", "Date": "2012-01-22 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Sheffield", "Title": "\u201cValue for money\u201d", "Author": "Louise237", "ReviewID": "UR123195007", "Content": "stayed hotel 4 girls weekend price cheap wasnt expecting dreading pleasantly suprised little main clean weird aired fine bathroom sufficient clean weird smell lot bigger faced front building little disturbed traffic noise church bells warm nice staff helpful whenever breakfast included price decent lots choose location ok museumplein shops bars coffeeshops food bit trek 15 20 mins walk leidsplein lively stay hotel price location", "Date": "2012-01-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Coggiola, Italia", "Title": "\u201cbasic, good position\u201d", "Author": "elybrera", "ReviewID": "UR121108415", "Content": "concert hotel wood typical remove carpet stairs reception soon enter immediately smell typical unpleasant odor carpeting apart disadvantage sophisticated hotel especially price location center easily reached foot otherwise opposite hotel tram stop comfortable bus 197 airport comfortable beds clean tv wifi coffee tea coffee shower gel shampoo etc hairdryer return amsterdam book hotel unless hotel price convenient location breakfast included concert hotel breakfast included 10 euro person expensive city offers bakeries bars enjoy delicious breakfasts", "Date": "2011-11-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Los Angeles, California", "Title": "\u201cVery Good and Safe Location\u201d", "Author": "JasmineMarti", "ReviewID": "UR106746015", "Content": "hesitant book hotel reviews amsterdam queens day choice options hotels totally booked expectations set low pleasantly surprised hotel started operations 5 closed property dispute completed renovations resumed operations means instance bed comfortable appeared brand linens location hotel spectacular safe upscale residential stones throw museumplein concertgebouw reception building tall blond gentleman greeted nice helpful breakfast lovely serve fantastic breakfast smoked salmon champaign own mimosas am champaign available weekdays weekend bed people bed comfortable rearranged furniture pleasing eye bathroom comes travels europe scale european hotels", "Date": "2011-05-03 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "fife", "Title": "\u201cHotel is a sham and very rude reception\u201d", "Author": "sweethart241", "ReviewID": "UR105761788", "Content": "hotel supposed refurbished 8th april husband booked couple birthday arrival workmen finishing hotel running water toilet facilities hand clothes wardrobe pole hook kettle tea coffee workmen okay walk knocking waiting paint tins staircases lighting staircases reception moved guy reception complete laughing saying british people moan wasnt happy leave paying aggressive rude change hotels police didnt change refund friend tears supposed day holidays museum square hotel door managed excellent superior concert hotel please don stay choice", "Date": "2011-04-27 00:00:00"}], "HotelInfo": {"Name": "AMS Hotel Concert Inn", "HotelURL": "/ShowUserReviews-g188590-d232319-Reviews-AMS_Hotel_Concert_Inn-Amsterdam_Noord_Holland.html", "Price": "$82 - $244*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">De Lairessestraat 11</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1071 NR</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>", "HotelID": "232319", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Manchester",
+      "Title": "\u201cLovely room\u201d",
+      "Author": "Ruby2000",
+      "ReviewID": "UR125034415",
+      "Content": "stayed night triple booked double 60 euros value price near museumplein concertgebouw lovely clean comfy beds quiet nice view warm breakfast tasty chaotic staff duty 2 cope 2 staff busy hot rolls cooked egg bacon meant didnt time replenish breakfast buffet coffee orange juice bread cheese item appeared request soon snapped hungry staff didnt time tables people finished people coming sit remains elses meal sorry staff trying cope",
+      "Date": "2012-02-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Mons, Belgium",
+      "Title": "\u201cBasic, Central, Perfect for students.\u201d",
+      "Author": "Nicothecalifornian",
+      "ReviewID": "UR124701965",
+      "Content": "friends central theres bus stop front couple stops plaza bars shops coffee shops guys reception nice helpful surprised clean nice beds nice decoration paid 30 euros night negative breakfast included 8 10 arrive theres left theres lot seats sometimes wait people finish breakfast leave overall nice hotel central expensive perfect youre 20s dont care luxury friends time",
+      "Date": "2012-02-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Newcastle upon Tyne, United Kingdom",
+      "Title": "\u201cvery handy for sight seeing\u201d",
+      "Author": "melafellabulldogs",
+      "ReviewID": "UR123441262",
+      "Content": "stayed night moving hotel visiting amsterdam judging trip hotel central close museums concert hall short tram ride central station dam square tourist attractions ie red light district hotel basic clean hotel",
+      "Date": "2012-01-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sheffield",
+      "Title": "\u201cValue for money\u201d",
+      "Author": "Louise237",
+      "ReviewID": "UR123195007",
+      "Content": "stayed hotel 4 girls weekend price cheap wasnt expecting dreading pleasantly suprised little main clean weird aired fine bathroom sufficient clean weird smell lot bigger faced front building little disturbed traffic noise church bells warm nice staff helpful whenever breakfast included price decent lots choose location ok museumplein shops bars coffeeshops food bit trek 15 20 mins walk leidsplein lively stay hotel price location",
+      "Date": "2012-01-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Coggiola, Italia",
+      "Title": "\u201cbasic, good position\u201d",
+      "Author": "elybrera",
+      "ReviewID": "UR121108415",
+      "Content": "concert hotel wood typical remove carpet stairs reception soon enter immediately smell typical unpleasant odor carpeting apart disadvantage sophisticated hotel especially price location center easily reached foot otherwise opposite hotel tram stop comfortable bus 197 airport comfortable beds clean tv wifi coffee tea coffee shower gel shampoo etc hairdryer return amsterdam book hotel unless hotel price convenient location breakfast included concert hotel breakfast included 10 euro person expensive city offers bakeries bars enjoy delicious breakfasts",
+      "Date": "2011-11-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Los Angeles, California",
+      "Title": "\u201cVery Good and Safe Location\u201d",
+      "Author": "JasmineMarti",
+      "ReviewID": "UR106746015",
+      "Content": "hesitant book hotel reviews amsterdam queens day choice options hotels totally booked expectations set low pleasantly surprised hotel started operations 5 closed property dispute completed renovations resumed operations means instance bed comfortable appeared brand linens location hotel spectacular safe upscale residential stones throw museumplein concertgebouw reception building tall blond gentleman greeted nice helpful breakfast lovely serve fantastic breakfast smoked salmon champaign own mimosas am champaign available weekdays weekend bed people bed comfortable rearranged furniture pleasing eye bathroom comes travels europe scale european hotels",
+      "Date": "2011-05-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "fife",
+      "Title": "\u201cHotel is a sham and very rude reception\u201d",
+      "Author": "sweethart241",
+      "ReviewID": "UR105761788",
+      "Content": "hotel supposed refurbished 8th april husband booked couple birthday arrival workmen finishing hotel running water toilet facilities hand clothes wardrobe pole hook kettle tea coffee workmen okay walk knocking waiting paint tins staircases lighting staircases reception moved guy reception complete laughing saying british people moan wasnt happy leave paying aggressive rude change hotels police didnt change refund friend tears supposed day holidays museum square hotel door managed excellent superior concert hotel please don stay choice",
+      "Date": "2011-04-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "AMS Hotel Concert Inn",
+    "HotelURL": "/ShowUserReviews-g188590-d232319-Reviews-AMS_Hotel_Concert_Inn-Amsterdam_Noord_Holland.html",
+    "Price": "$82 - $244*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">De Lairessestraat 11</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1071 NR</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>",
+    "HotelID": "232319",
+    "ImgURL": ""
+  }
+}

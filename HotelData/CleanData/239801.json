@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cYuck - Bring paper towels to clean - You will need them!\u201d", "Author": "GCJ17", "ReviewID": "UR100954685", "Content": "clean soon check sticky chairs hairs bathroom floors wrinkled sheets hairs stains changed called front desk send housekeeping replacement light bulb guy delivering light bulb pleasant housekeeper definitely pleased toilet runs time shouldnt bother drowned noisy ac unit touch kitchen cabinets washed plates silverware using kitchen chipped formica appeared eaten presumably someones pet hopefully previous guest location pretty thats positive top nearby guest pizza box empty drinks outside stayed partially blocking walkway 34 days guess gruelling 12 ft trip nearby garbage cans guest staff bit research definitely extended stay phoenix", "Date": "2011-03-21 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Seattle, Washington", "Title": "\u201cTerrible, awful place. Worst place I have ever stayed at.\u201d", "Author": "Raiderfan0", "ReviewID": "UR97200809", "Content": "reservation 3 weeks advance arriving planned 2 week stay location arrived signs taped entrance doors sold available told smoking reservation changed smoking reservation clerk confirmation studio 6 website told left apology offer fix day leave figured fixed day checked smelled horrible figured smoking carpet nasty stains couch own unique bad smell ac filter filthy crumbs bed frame floor obvious cleanliness top priority picture headboard placed sticker employee bothered remove human hair floor kitchen bathroom shower bedspread stains bed uncomfortable noise anytime moved try toilet wouldnt flush noticed overcharged check confirmation email office plunger toilet refunded amount overcharged called studio 6 guest relations policy guarantee smoking reservations change smoking lady spoke told yes policy change guaranteed reservations smoking called smoking guarantee policy information mind office care issues issue brought toilet believe assistant manager operations manager joking laughed didnt smile joking serious brought overcharged 7000 clerk confused fix office assistant manager run eat returned tried computer happened times finally assistant manager fix apology finally brought called corporate office smoking reservation policy clerk office talk assistant manager assistant manager loudly food mouth office dont guarantee bed walls tone voice annoyance clerk returned front repeated assistant manager yelled completely shocked service receiving maintenance look toilet told maintenance person gone plunger waited eternity finally clerk returned plunger barely toilet flush decided leave day anyway help decision leave day 2am refrigerator bedroom started extremely loud sound 30 minutes sound kept waking 510 minutes dont started people staying shady looking characters people running stairs night people standing outside smoking hours night security guard guard apparently time morning broken glass parking lot packed 9am received refund left drove 25 miles studio 6 tempe az infinitely stay", "Date": "2011-02-19 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 4.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Phoenix, Arizona", "Title": "\u201cYuk!\u201d", "Author": "DanRanTravel", "ReviewID": "UR81515977", "Content": "reservation weeks advance accommodations requested else available smoking nonsmokers bed looked empty taco shell sticky comforter weekly rates stay entire night finding cockroach bathroom straw", "Date": "2010-09-29 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Monterey", "Title": "\u201cComfortable. Very nice, reasonable, helpful manager!\u201d", "Author": "CNolan", "ReviewID": "UR58554592", "Content": "im temporarily handicapped crutches accessable rm microwave wasnt cleaned manager sent clean competition handicap parking sometimes employee contact offenders taking handicap spots sometimes etc george manager listen couple days extra cleaning weekly rate doesnt incl towels cleaning day checked told rate decreased stay refunded money elderly checking told thrilled money rate bed comfortable lots hot water shower loved size frige microwave kitchenette sink bathroom kitchenette recommended friendsand stay", "Date": "2010-03-14 00:00:00"}], "HotelInfo": {"Name": "Studio 6 Phoenix - Deer Valley", "HotelURL": "/ShowUserReviews-g31310-d239801-Reviews-Studio_6_Phoenix_Deer_Valley-Phoenix_Arizona.html", "Price": "$31 - $43*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">18405 North 27th Avenue</span>, <span class=\"extended-address\">I-17 and Union Hills</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85053</span></span> </span></span></address>", "HotelID": "239801", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/45/31/45318aa1ed2dee87301fd45f2471a6731large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cYuck - Bring paper towels to clean - You will need them!\u201d",
+      "Author": "GCJ17",
+      "ReviewID": "UR100954685",
+      "Content": "clean soon check sticky chairs hairs bathroom floors wrinkled sheets hairs stains changed called front desk send housekeeping replacement light bulb guy delivering light bulb pleasant housekeeper definitely pleased toilet runs time shouldnt bother drowned noisy ac unit touch kitchen cabinets washed plates silverware using kitchen chipped formica appeared eaten presumably someones pet hopefully previous guest location pretty thats positive top nearby guest pizza box empty drinks outside stayed partially blocking walkway 34 days guess gruelling 12 ft trip nearby garbage cans guest staff bit research definitely extended stay phoenix",
+      "Date": "2011-03-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Seattle, Washington",
+      "Title": "\u201cTerrible, awful place. Worst place I have ever stayed at.\u201d",
+      "Author": "Raiderfan0",
+      "ReviewID": "UR97200809",
+      "Content": "reservation 3 weeks advance arriving planned 2 week stay location arrived signs taped entrance doors sold available told smoking reservation changed smoking reservation clerk confirmation studio 6 website told left apology offer fix day leave figured fixed day checked smelled horrible figured smoking carpet nasty stains couch own unique bad smell ac filter filthy crumbs bed frame floor obvious cleanliness top priority picture headboard placed sticker employee bothered remove human hair floor kitchen bathroom shower bedspread stains bed uncomfortable noise anytime moved try toilet wouldnt flush noticed overcharged check confirmation email office plunger toilet refunded amount overcharged called studio 6 guest relations policy guarantee smoking reservations change smoking lady spoke told yes policy change guaranteed reservations smoking called smoking guarantee policy information mind office care issues issue brought toilet believe assistant manager operations manager joking laughed didnt smile joking serious brought overcharged 7000 clerk confused fix office assistant manager run eat returned tried computer happened times finally assistant manager fix apology finally brought called corporate office smoking reservation policy clerk office talk assistant manager assistant manager loudly food mouth office dont guarantee bed walls tone voice annoyance clerk returned front repeated assistant manager yelled completely shocked service receiving maintenance look toilet told maintenance person gone plunger waited eternity finally clerk returned plunger barely toilet flush decided leave day anyway help decision leave day 2am refrigerator bedroom started extremely loud sound 30 minutes sound kept waking 510 minutes dont started people staying shady looking characters people running stairs night people standing outside smoking hours night security guard guard apparently time morning broken glass parking lot packed 9am received refund left drove 25 miles studio 6 tempe az infinitely stay",
+      "Date": "2011-02-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 4.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Phoenix, Arizona",
+      "Title": "\u201cYuk!\u201d",
+      "Author": "DanRanTravel",
+      "ReviewID": "UR81515977",
+      "Content": "reservation weeks advance accommodations requested else available smoking nonsmokers bed looked empty taco shell sticky comforter weekly rates stay entire night finding cockroach bathroom straw",
+      "Date": "2010-09-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Monterey",
+      "Title": "\u201cComfortable. Very nice, reasonable, helpful manager!\u201d",
+      "Author": "CNolan",
+      "ReviewID": "UR58554592",
+      "Content": "im temporarily handicapped crutches accessable rm microwave wasnt cleaned manager sent clean competition handicap parking sometimes employee contact offenders taking handicap spots sometimes etc george manager listen couple days extra cleaning weekly rate doesnt incl towels cleaning day checked told rate decreased stay refunded money elderly checking told thrilled money rate bed comfortable lots hot water shower loved size frige microwave kitchenette sink bathroom kitchenette recommended friendsand stay",
+      "Date": "2010-03-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Studio 6 Phoenix - Deer Valley",
+    "HotelURL": "/ShowUserReviews-g31310-d239801-Reviews-Studio_6_Phoenix_Deer_Valley-Phoenix_Arizona.html",
+    "Price": "$31 - $43*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">18405 North 27th Avenue</span>, <span class=\"extended-address\">I-17 and Union Hills</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85053</span></span> </span></span></address>",
+    "HotelID": "239801",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/45/31/45318aa1ed2dee87301fd45f2471a6731large.jpg"
+  }
+}

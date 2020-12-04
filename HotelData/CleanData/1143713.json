@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Alexandria", "Title": "\u201cGood for singles -- low budget\u201d", "Author": "Johnny1984", "ReviewID": "UR127346399", "Content": "missing basics dont expect views narrow bathroom service staff helpful safe wanna leave valuable stuff leave receptions safe brief recommended honeymoon looking low budget hotel cheers john", "Date": "2012-04-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "milano", "Title": "\u201cnice hotel\u201d", "Author": "betzMilano", "ReviewID": "UR119213737", "Content": "grand august 2011 own clean staff nice hotel till late night close metro station city centre close august safe reach night breakfast internet station tv fridge everyday cleaned bed dont special choose", "Date": "2011-10-12 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Bulgaria", "Title": "\u201c3* Hotel\u201d", "Author": "Niky_p", "ReviewID": "UR78752408", "Content": "wife u2 concert 6th september book hotel travel stay 2 days pay 60 eur roomper day example reception price double 90 eur tink 1 grand 3 world standart hotel ok hotel situated laleli neighbourhood leather shops european city completely hotel clean quiet basic english 2 hotel dont parking cant stop front hotel parking 200 bellboy dont 23 parking owner polite keys car dont worry price 16 24 stay 2 days deposit dont speak language except turkish haha excuse dont worry understand 3 internet lobby 4 th floor signal password telephone hotel 4 suggestion reception agent double bed separated beds bigger double king size bed post pictures clean aircondition tv 1 italian music channel turkish refrigerator empty strange hot water time hairdrier shower towels clean windows wardrobe hangers shelfs 5 breakfast miserably espresso starbucks 6 location hotel located aksaray tram station connected directly main attractions istanbul 15 jeton 2 stops tram 38 sultanahmet haghia sophia topkapi palace close aksaray metro station enjoy staying nick", "Date": "2010-09-08 00:00:00"}], "HotelInfo": {"Name": "Grand Tahir Hotel", "HotelURL": "/ShowUserReviews-g293974-d1143713-Reviews-Grand_Tahir_Hotel-Istanbul.html", "Price": "$105 - $131*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Ordu Cad Yesil Tulumba Sok No.17</span> | <span class=\"extended-address\">Laleli</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">7200</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "1143713", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/01/5e/015e69f62b7f8e4267debf693f6fc9e33large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Alexandria",
+      "Title": "\u201cGood for singles -- low budget\u201d",
+      "Author": "Johnny1984",
+      "ReviewID": "UR127346399",
+      "Content": "missing basics dont expect views narrow bathroom service staff helpful safe wanna leave valuable stuff leave receptions safe brief recommended honeymoon looking low budget hotel cheers john",
+      "Date": "2012-04-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "milano",
+      "Title": "\u201cnice hotel\u201d",
+      "Author": "betzMilano",
+      "ReviewID": "UR119213737",
+      "Content": "grand august 2011 own clean staff nice hotel till late night close metro station city centre close august safe reach night breakfast internet station tv fridge everyday cleaned bed dont special choose",
+      "Date": "2011-10-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bulgaria",
+      "Title": "\u201c3* Hotel\u201d",
+      "Author": "Niky_p",
+      "ReviewID": "UR78752408",
+      "Content": "wife u2 concert 6th september book hotel travel stay 2 days pay 60 eur roomper day example reception price double 90 eur tink 1 grand 3 world standart hotel ok hotel situated laleli neighbourhood leather shops european city completely hotel clean quiet basic english 2 hotel dont parking cant stop front hotel parking 200 bellboy dont 23 parking owner polite keys car dont worry price 16 24 stay 2 days deposit dont speak language except turkish haha excuse dont worry understand 3 internet lobby 4 th floor signal password telephone hotel 4 suggestion reception agent double bed separated beds bigger double king size bed post pictures clean aircondition tv 1 italian music channel turkish refrigerator empty strange hot water time hairdrier shower towels clean windows wardrobe hangers shelfs 5 breakfast miserably espresso starbucks 6 location hotel located aksaray tram station connected directly main attractions istanbul 15 jeton 2 stops tram 38 sultanahmet haghia sophia topkapi palace close aksaray metro station enjoy staying nick",
+      "Date": "2010-09-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Grand Tahir Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d1143713-Reviews-Grand_Tahir_Hotel-Istanbul.html",
+    "Price": "$105 - $131*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Ordu Cad Yesil Tulumba Sok No.17</span> | <span class=\"extended-address\">Laleli</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">7200</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "1143713",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/01/5e/015e69f62b7f8e4267debf693f6fc9e33large.jpg"
+  }
+}

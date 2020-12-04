@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Hyderabad, Andhra Pradesh, India", "Title": "\u201cAvoid this sleazy dirty & noisy hotel\u201d", "Author": "RaghuT", "ReviewID": "UR125064368", "Content": "hotel deira location else recommend loud music playing night 3 night clubs shady nightlife activities bad service soundproofing complete nightmare business traveller highlights sleaze bag hotel unfriendly staff insisted retaining passport booked thru web portal guranteed thru amex card staff partial payments payable extended 500 aed service insisted cash delivery told thrice horror horrors thru door 130 am night staff looked minor inconveniences faced guests suggest please avoid", "Date": "2012-02-23 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Tehran, Iran", "Title": "\u201cwhere you can't sleep !\u201d", "Author": "mabigs", "ReviewID": "UR124461154", "Content": "stayed 3 nights pros location lot restaurant near clean cons laud noise night club sleep 3am breakfast ordinary staff arent pleasant lobby nice sit rest bathroom completely clean hear voices", "Date": "2012-02-12 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Jaipur, India", "Title": "\u201cValue for money in such expensive city\u201d", "Author": "DocSheena", "ReviewID": "UR108963203", "Content": "location hotel perfect charges hotel average night affordable food joints malls nearby metro station close traveling easy clean specious overall experience pub club acceptable noise", "Date": "2011-05-19 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "London", "Title": "\u201cWould I recommend this hotel to a friend? I woulnd't recommend it to my worst enemy!!!\u201d", "Author": "oneluckytraveller", "ReviewID": "UR73561615", "Content": "suppose stay hotel depending traveller dont expect service clean sheets cheap stay dont mind roughing otherwise look elsewhere read reviews trip advisor travelling hotel booked behalf relative dubai didnt read hotel true smell walk main entrance lack entrances hotel car park alley lifts slow ok dirty shower head broken apt luckily sleep clean sheets yellow stained ones sheet cigarette burn hole clean towels apt time person dont otherwise disliked lack service messages left hotel friends messages relayed correct person relayed missed meeting friend hadnt seen 6 miss appointment leave passport front desk safe appartment dirty furniture tatty sheets dusty carpet cleaned complained reception told receptionist cant apt didnt disturb apparently image quality tv bad shower head broken aprt staff unattentive requested extra pillows complained front staff various issues including misunderstanding day leaving checkout refused key apt half party gone reception left receptionist listening picked ringing phone halfway complaint left wasting time couldnt care requested supposedly free shuttle night left rung 430am 10 minutes requested time idea talking didnt understand english cant spoke bellboy booked free shuttle didnt time argue cab instead paid seediness lobby hotel frequented prostitutes religious uncle approached car park friendly guest realised soon lady offering services liked self contained apt spacious metro situated 450 metres hotel street hotel 2 metro stops airport wasnt noisy anticipated 7th floor internet cafe 3 half hour 5 dirhams hour beauty salon 100 dirhams hair makeup shopping centre doorstep tips dubai metro especialy coming aiport topup card 20 dirhams 14 dirham charged clock metro similar oyster card system london journey cost 180 al rigga road stop hotel station walk straight ahead towards abu dhabi bank building gift shop hotel road hand taxis min charge 10 dirhams journey coming airport 30 dirhams min taxis hotel street bit rigga road called hotel deira pay price wherever souks malls worth anyway manage discounts shops valet car park hotel charges 10 dirhams", "Date": "2010-08-03 00:00:00"}], "HotelInfo": {"Name": "Ramee Guestline Deira Hotel", "HotelURL": "/ShowUserReviews-g295424-d618551-Reviews-Ramee_Guestline_Deira_Hotel-Dubai.html", "Price": "$102 - $269*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Near Clock Tower, Al Rigga Street</span> | <span class=\"extended-address\">P.O. Box 26816</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "618551", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/63/73/6373d60e96690c3300258094962c91714large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Hyderabad, Andhra Pradesh, India",
+      "Title": "\u201cAvoid this sleazy dirty & noisy hotel\u201d",
+      "Author": "RaghuT",
+      "ReviewID": "UR125064368",
+      "Content": "hotel deira location else recommend loud music playing night 3 night clubs shady nightlife activities bad service soundproofing complete nightmare business traveller highlights sleaze bag hotel unfriendly staff insisted retaining passport booked thru web portal guranteed thru amex card staff partial payments payable extended 500 aed service insisted cash delivery told thrice horror horrors thru door 130 am night staff looked minor inconveniences faced guests suggest please avoid",
+      "Date": "2012-02-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Tehran, Iran",
+      "Title": "\u201cwhere you can't sleep !\u201d",
+      "Author": "mabigs",
+      "ReviewID": "UR124461154",
+      "Content": "stayed 3 nights pros location lot restaurant near clean cons laud noise night club sleep 3am breakfast ordinary staff arent pleasant lobby nice sit rest bathroom completely clean hear voices",
+      "Date": "2012-02-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Jaipur, India",
+      "Title": "\u201cValue for money in such expensive city\u201d",
+      "Author": "DocSheena",
+      "ReviewID": "UR108963203",
+      "Content": "location hotel perfect charges hotel average night affordable food joints malls nearby metro station close traveling easy clean specious overall experience pub club acceptable noise",
+      "Date": "2011-05-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cWould I recommend this hotel to a friend? I woulnd't recommend it to my worst enemy!!!\u201d",
+      "Author": "oneluckytraveller",
+      "ReviewID": "UR73561615",
+      "Content": "suppose stay hotel depending traveller dont expect service clean sheets cheap stay dont mind roughing otherwise look elsewhere read reviews trip advisor travelling hotel booked behalf relative dubai didnt read hotel true smell walk main entrance lack entrances hotel car park alley lifts slow ok dirty shower head broken apt luckily sleep clean sheets yellow stained ones sheet cigarette burn hole clean towels apt time person dont otherwise disliked lack service messages left hotel friends messages relayed correct person relayed missed meeting friend hadnt seen 6 miss appointment leave passport front desk safe appartment dirty furniture tatty sheets dusty carpet cleaned complained reception told receptionist cant apt didnt disturb apparently image quality tv bad shower head broken aprt staff unattentive requested extra pillows complained front staff various issues including misunderstanding day leaving checkout refused key apt half party gone reception left receptionist listening picked ringing phone halfway complaint left wasting time couldnt care requested supposedly free shuttle night left rung 430am 10 minutes requested time idea talking didnt understand english cant spoke bellboy booked free shuttle didnt time argue cab instead paid seediness lobby hotel frequented prostitutes religious uncle approached car park friendly guest realised soon lady offering services liked self contained apt spacious metro situated 450 metres hotel street hotel 2 metro stops airport wasnt noisy anticipated 7th floor internet cafe 3 half hour 5 dirhams hour beauty salon 100 dirhams hair makeup shopping centre doorstep tips dubai metro especialy coming aiport topup card 20 dirhams 14 dirham charged clock metro similar oyster card system london journey cost 180 al rigga road stop hotel station walk straight ahead towards abu dhabi bank building gift shop hotel road hand taxis min charge 10 dirhams journey coming airport 30 dirhams min taxis hotel street bit rigga road called hotel deira pay price wherever souks malls worth anyway manage discounts shops valet car park hotel charges 10 dirhams",
+      "Date": "2010-08-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Ramee Guestline Deira Hotel",
+    "HotelURL": "/ShowUserReviews-g295424-d618551-Reviews-Ramee_Guestline_Deira_Hotel-Dubai.html",
+    "Price": "$102 - $269*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Near Clock Tower, Al Rigga Street</span> | <span class=\"extended-address\">P.O. Box 26816</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "618551",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/63/73/6373d60e96690c3300258094962c91714large.jpg"
+  }
+}

@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Warsaw, Poland", "Title": "\u201cRather Apartment not B&B\u201d", "Author": "RichardFasz", "ReviewID": "UR119294890", "Content": "challenge sign cleopatra except explanation bell button gap staff speak italian isn\u2019t easy bad wait 45 minutes staff found taking consideration cheap price convenient walk distance piramide underground train station border historic rome survived confess scared surprise buffet breakfast bb mean prepare own named apartment food provided surplus anyway equipped kitchen espresso machine toaster soft drinks milk butter fridge croissants toast bread jam available air conditioning unit bedroom bathroom clean washing machine wireless internet window blinds mechanically driven opinion bedroom bit 4 persons sightseeing day disadvantage remark trains running window spent remarkable time stay inside isn\u2019t resume \u2013 cheap convenient rome exploration accommodation average staying conditions perfect match mark acceptable", "Date": "2011-10-14 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cClean, compact, friendly B&B. Perfect for the budget city break\u201d", "Author": "SAD87", "ReviewID": "UR109767060", "Content": "converted apartment recently refurbished clean bathroom facilities standard bb 5 minute walk road metro station piramide overground connections ostia makes location excellent spend days city beach breakfast takes format help yourself kitchen stocked juice yogurts bread jam brioche style sweet breads coffee machine makes excellent coffee highly recommend bb looking clean comfortable city break 100 euros night apparently free wifi didnt facility", "Date": "2011-05-25 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "St. Petersburg, Russia", "Title": "\u201cVery nice b&b. Perfect for independent stay in Rome.\u201d", "Author": "GalinaMartinez", "ReviewID": "UR108042612", "Content": "liked lot bb beautiful interior apartment quiet furniture modern equipment clean kitchen comfortable location ok 5 min walking metrobus stop 1015 min bus city center 2 stops subway colosseum staff nice helpful people definitely value money bad train passes meters 1 trains pass night time 11 pm 6 am 2 dont hear window closed trains didnt disturb", "Date": "2011-05-13 00:00:00"}], "HotelInfo": {"Name": "Cleopatra B&B", "HotelURL": "/ShowUserReviews-g187791-d2040824-Reviews-Cleopatra_B_B-Rome_Lazio.html", "Price": "$79 - $125*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Pellegrino Matteucci, 41 scala D</span>, <span class=\"locality\"><span property=\"v:postal-code\">00144</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "2040824", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d0/45/d04531289b25965caa73746398b8a7161large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Warsaw, Poland",
+      "Title": "\u201cRather Apartment not B&B\u201d",
+      "Author": "RichardFasz",
+      "ReviewID": "UR119294890",
+      "Content": "challenge sign cleopatra except explanation bell button gap staff speak italian isn\u2019t easy bad wait 45 minutes staff found taking consideration cheap price convenient walk distance piramide underground train station border historic rome survived confess scared surprise buffet breakfast bb mean prepare own named apartment food provided surplus anyway equipped kitchen espresso machine toaster soft drinks milk butter fridge croissants toast bread jam available air conditioning unit bedroom bathroom clean washing machine wireless internet window blinds mechanically driven opinion bedroom bit 4 persons sightseeing day disadvantage remark trains running window spent remarkable time stay inside isn\u2019t resume \u2013 cheap convenient rome exploration accommodation average staying conditions perfect match mark acceptable",
+      "Date": "2011-10-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cClean, compact, friendly B&B. Perfect for the budget city break\u201d",
+      "Author": "SAD87",
+      "ReviewID": "UR109767060",
+      "Content": "converted apartment recently refurbished clean bathroom facilities standard bb 5 minute walk road metro station piramide overground connections ostia makes location excellent spend days city beach breakfast takes format help yourself kitchen stocked juice yogurts bread jam brioche style sweet breads coffee machine makes excellent coffee highly recommend bb looking clean comfortable city break 100 euros night apparently free wifi didnt facility",
+      "Date": "2011-05-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "St. Petersburg, Russia",
+      "Title": "\u201cVery nice b&b. Perfect for independent stay in Rome.\u201d",
+      "Author": "GalinaMartinez",
+      "ReviewID": "UR108042612",
+      "Content": "liked lot bb beautiful interior apartment quiet furniture modern equipment clean kitchen comfortable location ok 5 min walking metrobus stop 1015 min bus city center 2 stops subway colosseum staff nice helpful people definitely value money bad train passes meters 1 trains pass night time 11 pm 6 am 2 dont hear window closed trains didnt disturb",
+      "Date": "2011-05-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Cleopatra B&B",
+    "HotelURL": "/ShowUserReviews-g187791-d2040824-Reviews-Cleopatra_B_B-Rome_Lazio.html",
+    "Price": "$79 - $125*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Pellegrino Matteucci, 41 scala D</span>, <span class=\"locality\"><span property=\"v:postal-code\">00144</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "2040824",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d0/45/d04531289b25965caa73746398b8a7161large.jpg"
+  }
+}

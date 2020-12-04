@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "RUSHDEN", "Title": "\u201cBerlin weekend\u201d", "Author": "RushdenEug", "ReviewID": "UR125534977", "Content": "reasonably priced hotel situated east hot shower clean comfortable sized little efficient staff check buffet style breakfast choice fresh fruit cereals bacon egg etc hotel fine short break bother distance actually enjoyed ride city tram hotel 20 minute tram ride city centre m6 tram stop couple hundred yards hotel trams run time 10 minutes purchased berlin welcome cards airport unlimited travel citys public transport network discounts city attractions tours consider hotel time visit berlin", "Date": "2012-03-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "London", "Title": "\u201cExceptional Value for Money, Great Breakfast, comfy bed...a perfect 3 star hotel!\u201d", "Author": "EmilyandMattLondon", "ReviewID": "UR121711892", "Content": "berlin flight hotel deal late glad picked hotel 2 minutes tram stop tram alexanderplatz 20 minutes cant money proper east berlin truly suburb decor little dated dont berlin sit hotel couldnt fault showers strong warm beds comfortable nice warm temperature berlin winter breakfast amazing featuring pretty scrambled egg croissants cheese cold meat toast cereal fresh fruit yoghurt filling busy berlin days service hotel breakfast day catch flight tip tours", "Date": "2011-12-13 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Redondo Beach, California", "Title": "\u201cGreat value, roomy, clean and the bowling alley is fun!\u201d", "Author": "vazmann2", "ReviewID": "UR84500411", "Content": "east 78 km stadtmitte close stop ample free parking drivers value roomy clean quiet bowling alley fun breakfast included staff helpful overly hospitable avoid 5 euro charge 30 mins computer laundry service pricey", "Date": "2010-10-23 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Newcastle, Australia", "Title": "\u201cGood Find\u201d", "Author": "rbsimmo", "ReviewID": "UR72674290", "Content": "stayed hotel easy looks little derelict outside signs hotel bowling alley throws bit walked inside pleasantly surprised couldn\u2019t accommodation short notice international convention berlin hotels booked 53 5th floor little outdated clean inside foyer wardrobe hang jackets separate door bedroom table chairs 2 people writing desk tv english speaking channel bbc comfy bed slept breakfast included morning consisted scrambled eggs boiled eggs bacon breads pastries cereals yoghurt cold meats fresh fruit salad tea coffee juices selection parking free car property hotel situated 3 minute walk tram station tickets tram bought reception day tram pass catch m6 tram simple takes 10 minutes tram reach alexander platz stop hotel 3 star furniture update comfortable plenty hotel fresh smelling housekeeping complaints real negative air conditioning leave window main road produced noise traffic recommend hotel lot cheaper hotels heart berlin price online", "Date": "2010-07-28 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Roseville, California", "Title": "\u201cComfortable hotel, but a little far from downtown Berlin\u201d", "Author": "gcjones", "ReviewID": "UR69675318", "Content": "stayed 2 nights jun 1617 2010 tour comfortable clean property located former east berlin 20 minute tram ride alexanderplatz tram stop street hotel breakfast plentiful bar 8 lane bowling alley hotel youre looking inexpensive stay dont mind commute downtown berlin visiting option consider", "Date": "2010-07-04 00:00:00"}], "HotelInfo": {"Name": "Comfort Hotel Lichtenberg", "HotelURL": "/ShowUserReviews-g187323-d199425-Reviews-Comfort_Hotel_Lichtenberg-Berlin.html", "Price": "$71 - $134*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Rhinstrasse 159</span>, <span class=\"locality\"><span property=\"v:postal-code\">10315</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "199425", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c5/f7/c5f768675472f1ca70054880ff12dfdf7large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "RUSHDEN",
+      "Title": "\u201cBerlin weekend\u201d",
+      "Author": "RushdenEug",
+      "ReviewID": "UR125534977",
+      "Content": "reasonably priced hotel situated east hot shower clean comfortable sized little efficient staff check buffet style breakfast choice fresh fruit cereals bacon egg etc hotel fine short break bother distance actually enjoyed ride city tram hotel 20 minute tram ride city centre m6 tram stop couple hundred yards hotel trams run time 10 minutes purchased berlin welcome cards airport unlimited travel citys public transport network discounts city attractions tours consider hotel time visit berlin",
+      "Date": "2012-03-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cExceptional Value for Money, Great Breakfast, comfy bed...a perfect 3 star hotel!\u201d",
+      "Author": "EmilyandMattLondon",
+      "ReviewID": "UR121711892",
+      "Content": "berlin flight hotel deal late glad picked hotel 2 minutes tram stop tram alexanderplatz 20 minutes cant money proper east berlin truly suburb decor little dated dont berlin sit hotel couldnt fault showers strong warm beds comfortable nice warm temperature berlin winter breakfast amazing featuring pretty scrambled egg croissants cheese cold meat toast cereal fresh fruit yoghurt filling busy berlin days service hotel breakfast day catch flight tip tours",
+      "Date": "2011-12-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Redondo Beach, California",
+      "Title": "\u201cGreat value, roomy, clean and the bowling alley is fun!\u201d",
+      "Author": "vazmann2",
+      "ReviewID": "UR84500411",
+      "Content": "east 78 km stadtmitte close stop ample free parking drivers value roomy clean quiet bowling alley fun breakfast included staff helpful overly hospitable avoid 5 euro charge 30 mins computer laundry service pricey",
+      "Date": "2010-10-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Newcastle, Australia",
+      "Title": "\u201cGood Find\u201d",
+      "Author": "rbsimmo",
+      "ReviewID": "UR72674290",
+      "Content": "stayed hotel easy looks little derelict outside signs hotel bowling alley throws bit walked inside pleasantly surprised couldn\u2019t accommodation short notice international convention berlin hotels booked 53 5th floor little outdated clean inside foyer wardrobe hang jackets separate door bedroom table chairs 2 people writing desk tv english speaking channel bbc comfy bed slept breakfast included morning consisted scrambled eggs boiled eggs bacon breads pastries cereals yoghurt cold meats fresh fruit salad tea coffee juices selection parking free car property hotel situated 3 minute walk tram station tickets tram bought reception day tram pass catch m6 tram simple takes 10 minutes tram reach alexander platz stop hotel 3 star furniture update comfortable plenty hotel fresh smelling housekeeping complaints real negative air conditioning leave window main road produced noise traffic recommend hotel lot cheaper hotels heart berlin price online",
+      "Date": "2010-07-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Roseville, California",
+      "Title": "\u201cComfortable hotel, but a little far from downtown Berlin\u201d",
+      "Author": "gcjones",
+      "ReviewID": "UR69675318",
+      "Content": "stayed 2 nights jun 1617 2010 tour comfortable clean property located former east berlin 20 minute tram ride alexanderplatz tram stop street hotel breakfast plentiful bar 8 lane bowling alley hotel youre looking inexpensive stay dont mind commute downtown berlin visiting option consider",
+      "Date": "2010-07-04 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Comfort Hotel Lichtenberg",
+    "HotelURL": "/ShowUserReviews-g187323-d199425-Reviews-Comfort_Hotel_Lichtenberg-Berlin.html",
+    "Price": "$71 - $134*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Rhinstrasse 159</span>, <span class=\"locality\"><span property=\"v:postal-code\">10315</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "199425",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c5/f7/c5f768675472f1ca70054880ff12dfdf7large.jpg"
+  }
+}

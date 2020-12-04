@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Bucharest, Romania", "Title": "\u201cOK for 2 star hotel\u201d", "Author": "Kris_kris7", "ReviewID": "UR126589289", "Content": "hotel close bus station center city 2 metro stations 5 10 minutes walking closed gaudi park walking clean staff helpful breakfast offer possibility wide choice recommend eating cafes special local food try provided soap shampoo beginning stay else offered taking consideration 2 start hotel price ok staying", "Date": "2012-03-24 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cBED BUGS!\u201d", "Author": "Eur0Trip11", "ReviewID": "UR118923050", "Content": "looked clean lifted sheet bed strands black hair resting pillow bathroom floor aircon 2 bedroom 4 beds plenty reception friendly", "Date": "2011-10-04 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Dublin, Ireland", "Title": "\u201cslightly out of town\u201d", "Author": "frequentflyer1976_10", "ReviewID": "UR89149428", "Content": "arrived barcelona late taxi hotel taxi explains hotel mountains cost 35 euro surprise arrive hotel five minutes bit bad start hotel cleanquiet overly pricedthe hotel town bus taxi walk city center location hotel close park guell walking distance attractions bad person reception speak english led funny moments miscommunication overall nice hotel ticks boxes", "Date": "2010-12-06 00:00:00"}], "HotelInfo": {"Name": "Travessera Hotel", "HotelURL": "/ShowUserReviews-g187497-d503532-Reviews-Travessera_Hotel-Barcelona_Catalonia.html", "Price": "$91 - $223*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Travessera de Dalt 121-123</span>, <span class=\"locality\"><span property=\"v:postal-code\">08024</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "503532", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e2/a3/e2a3822e43b80311ab1854f2669a50835large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bucharest, Romania",
+      "Title": "\u201cOK for 2 star hotel\u201d",
+      "Author": "Kris_kris7",
+      "ReviewID": "UR126589289",
+      "Content": "hotel close bus station center city 2 metro stations 5 10 minutes walking closed gaudi park walking clean staff helpful breakfast offer possibility wide choice recommend eating cafes special local food try provided soap shampoo beginning stay else offered taking consideration 2 start hotel price ok staying",
+      "Date": "2012-03-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cBED BUGS!\u201d",
+      "Author": "Eur0Trip11",
+      "ReviewID": "UR118923050",
+      "Content": "looked clean lifted sheet bed strands black hair resting pillow bathroom floor aircon 2 bedroom 4 beds plenty reception friendly",
+      "Date": "2011-10-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Dublin, Ireland",
+      "Title": "\u201cslightly out of town\u201d",
+      "Author": "frequentflyer1976_10",
+      "ReviewID": "UR89149428",
+      "Content": "arrived barcelona late taxi hotel taxi explains hotel mountains cost 35 euro surprise arrive hotel five minutes bit bad start hotel cleanquiet overly pricedthe hotel town bus taxi walk city center location hotel close park guell walking distance attractions bad person reception speak english led funny moments miscommunication overall nice hotel ticks boxes",
+      "Date": "2010-12-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Travessera Hotel",
+    "HotelURL": "/ShowUserReviews-g187497-d503532-Reviews-Travessera_Hotel-Barcelona_Catalonia.html",
+    "Price": "$91 - $223*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Travessera de Dalt 121-123</span>, <span class=\"locality\"><span property=\"v:postal-code\">08024</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "503532",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e2/a3/e2a3822e43b80311ab1854f2669a50835large.jpg"
+  }
+}

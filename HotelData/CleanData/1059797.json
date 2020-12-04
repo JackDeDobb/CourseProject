@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cMore like a hostel, but clean and decent\u201d", "Author": "qu_tee", "ReviewID": "UR121744434", "Content": "hotel 15 minute walk berlin hauptbahnhof 5 minute walk nearest station u6 line time arrived late bit harder hotel own instead shares building ring buzzer reception s5 floor entry bit eerie dark believe larger floor ceiling entry doors windows obviously spacious size overall impression probably bit hostel hotel tv towels firm beds inbuilt body wash dispensers tea coffee facilities phone contact reception overall clean provided bare essentials tv arrived receptionist quick resolve free wifi available throughout building login codes reception location hotel bit city ok walk main city 2030 minutes train fairly easy 2 supermarkets 5 minute walk close 8pm subway food bit street didn\u2019t pay hotel breakfast didn\u2019t worth stuff supermarket instead", "Date": "2011-12-14 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Vevey, Switzerland", "Title": "\u201cComfortable simple hotel near Berlin's centre\u201d", "Author": "MichaelScholl", "ReviewID": "UR119979895", "Content": "stayed eastgate hotel weekend attend scientific symposium natural history museum museum berlin hotel perfectly located located hundred meters museum main reception 24 hours day located fifth floor building near terrace breakfast breakfast priced 75 euros buffet style catering everyones tastes single clean light comfortable windows space buildings desk cupboard ensuite bathroom hotel offered free highspeed wifi access greatly appreciated hotel situated 20 minutes easy walk centre berlin main tourist attractions definitely return stay hotel especially business purposes maybe romantic escapade", "Date": "2011-10-31 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Odessa, Ukraine", "Title": "\u201cTypical GDR Hotel\u201d", "Author": "Viktor K", "ReviewID": "UR119838482", "Content": "located eastern berlin soviet style atmosphere hotel top floor building appartments staff former soviet poor clean breakfast nice eat else bathroom clean tidy hotel 10 minutes walking brandenburg gate", "Date": "2011-10-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Komarom, Hungary", "Title": "\u201cEasy to explore the city\u201d", "Author": "pillang0", "ReviewID": "UR119652700", "Content": "walking distance major attractions brandenburg gate reichstag topography terror unter den linden checkpoint berlin museum island etc easy access thr airport train hauptbahnhof 800 meters walk hotel situated 4th 5th floors building wonderful views city television tower reichstag simple comfortable shower staff friendly helpful finally recommend cheap price location comfortable", "Date": "2011-10-24 00:00:00"}], "HotelInfo": {"Name": "Mikon Eastgate Hotel", "HotelURL": "/ShowUserReviews-g187323-d1059797-Reviews-Mikon_Eastgate_Hotel-Berlin.html", "Price": "$70 - $138*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Hessische Str 10</span>, <span class=\"locality\"><span property=\"v:postal-code\">10115</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "1059797", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/07/a2/07a2aa649655c68889e8141d69a7f0926large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cMore like a hostel, but clean and decent\u201d",
+      "Author": "qu_tee",
+      "ReviewID": "UR121744434",
+      "Content": "hotel 15 minute walk berlin hauptbahnhof 5 minute walk nearest station u6 line time arrived late bit harder hotel own instead shares building ring buzzer reception s5 floor entry bit eerie dark believe larger floor ceiling entry doors windows obviously spacious size overall impression probably bit hostel hotel tv towels firm beds inbuilt body wash dispensers tea coffee facilities phone contact reception overall clean provided bare essentials tv arrived receptionist quick resolve free wifi available throughout building login codes reception location hotel bit city ok walk main city 2030 minutes train fairly easy 2 supermarkets 5 minute walk close 8pm subway food bit street didn\u2019t pay hotel breakfast didn\u2019t worth stuff supermarket instead",
+      "Date": "2011-12-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Vevey, Switzerland",
+      "Title": "\u201cComfortable simple hotel near Berlin's centre\u201d",
+      "Author": "MichaelScholl",
+      "ReviewID": "UR119979895",
+      "Content": "stayed eastgate hotel weekend attend scientific symposium natural history museum museum berlin hotel perfectly located located hundred meters museum main reception 24 hours day located fifth floor building near terrace breakfast breakfast priced 75 euros buffet style catering everyones tastes single clean light comfortable windows space buildings desk cupboard ensuite bathroom hotel offered free highspeed wifi access greatly appreciated hotel situated 20 minutes easy walk centre berlin main tourist attractions definitely return stay hotel especially business purposes maybe romantic escapade",
+      "Date": "2011-10-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Odessa, Ukraine",
+      "Title": "\u201cTypical GDR Hotel\u201d",
+      "Author": "Viktor K",
+      "ReviewID": "UR119838482",
+      "Content": "located eastern berlin soviet style atmosphere hotel top floor building appartments staff former soviet poor clean breakfast nice eat else bathroom clean tidy hotel 10 minutes walking brandenburg gate",
+      "Date": "2011-10-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Komarom, Hungary",
+      "Title": "\u201cEasy to explore the city\u201d",
+      "Author": "pillang0",
+      "ReviewID": "UR119652700",
+      "Content": "walking distance major attractions brandenburg gate reichstag topography terror unter den linden checkpoint berlin museum island etc easy access thr airport train hauptbahnhof 800 meters walk hotel situated 4th 5th floors building wonderful views city television tower reichstag simple comfortable shower staff friendly helpful finally recommend cheap price location comfortable",
+      "Date": "2011-10-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Mikon Eastgate Hotel",
+    "HotelURL": "/ShowUserReviews-g187323-d1059797-Reviews-Mikon_Eastgate_Hotel-Berlin.html",
+    "Price": "$70 - $138*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Hessische Str 10</span>, <span class=\"locality\"><span property=\"v:postal-code\">10115</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "1059797",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/07/a2/07a2aa649655c68889e8141d69a7f0926large.jpg"
+  }
+}

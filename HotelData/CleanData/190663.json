@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "England", "Title": "\u201cGreat location to explore Berlin\u201d", "Author": "PhilandPhylUK", "ReviewID": "UR122289275", "Content": "hotel located 100 meters bahn berlin covered bahn trains tip buy berlin welcome card 25 euros 3 days unlimited travel buses trains potsdam airports discounts berlin attractions hotel staff nice spoke english breakfast excellent cold meats cheeses salad breads etc served spacious dining beautiful ceiling seperate couch table modern tastefully decorated clean heated despite freezing outside corner bath seperate bathroom nice 30 minutes fill bathroom hair shower attached bath short pipe bath fill mornings hold hair shower shower clean fun memorable hoilday experience didnt mate stay afterwards nice hotel character charm dont chain hotels", "Date": "2011-12-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "tepic, nayarit, mexico", "Title": "\u201cGREAT STAFF\u201d", "Author": "toronto4567", "ReviewID": "UR76877038", "Content": "reservations comet hotel arrival informed transfer elizabeth receptionist waiting comfortable welcome triple night graded suite rest stay breakfast welllocated hotel excellent personnel extra thankyou elizabeth", "Date": "2010-08-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Minneapolis, Minnesota", "Title": "\u201c+ and - .....\u201d", "Author": "humbledbyexperience", "ReviewID": "UR72056665", "Content": "excellent staff friendly helpful outdated adequate hot berlin 90s hot fans available breakfast people tend vegetarian store corner fruits vegetables etc require cash front means change mind cant else meant carry lots cash internet extra 5 euros day", "Date": "2010-07-23 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Hannover", "Title": "\u201cBad experience\u201d", "Author": "Coxiella", "ReviewID": "UR55507368", "Content": "pictures shown internet misleading seen looked shabby booked single reception gap door wall hear reception desk including radio sleeping impossible receptionist told booked check move hotel suddenly smell smoke unbearable hotel homepage tells nonsmoking motel highly", "Date": "2010-02-08 00:00:00"}], "HotelInfo": {"Name": "Hotel-Pension Wittelsbach", "HotelURL": "/ShowUserReviews-g187323-d190663-Reviews-Hotel_Pension_Wittelsbach-Berlin.html", "Price": "$64 - $156*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">22 Wittelsbacherstrasse</span> | <span class=\"extended-address\">Wilmersdorf</span>, <span class=\"locality\"><span property=\"v:postal-code\">10707</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "190663", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8c/53/8c5347a127fe4797215ba6d84a61c6fc1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "England",
+      "Title": "\u201cGreat location to explore Berlin\u201d",
+      "Author": "PhilandPhylUK",
+      "ReviewID": "UR122289275",
+      "Content": "hotel located 100 meters bahn berlin covered bahn trains tip buy berlin welcome card 25 euros 3 days unlimited travel buses trains potsdam airports discounts berlin attractions hotel staff nice spoke english breakfast excellent cold meats cheeses salad breads etc served spacious dining beautiful ceiling seperate couch table modern tastefully decorated clean heated despite freezing outside corner bath seperate bathroom nice 30 minutes fill bathroom hair shower attached bath short pipe bath fill mornings hold hair shower shower clean fun memorable hoilday experience didnt mate stay afterwards nice hotel character charm dont chain hotels",
+      "Date": "2011-12-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "tepic, nayarit, mexico",
+      "Title": "\u201cGREAT STAFF\u201d",
+      "Author": "toronto4567",
+      "ReviewID": "UR76877038",
+      "Content": "reservations comet hotel arrival informed transfer elizabeth receptionist waiting comfortable welcome triple night graded suite rest stay breakfast welllocated hotel excellent personnel extra thankyou elizabeth",
+      "Date": "2010-08-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Minneapolis, Minnesota",
+      "Title": "\u201c+ and - .....\u201d",
+      "Author": "humbledbyexperience",
+      "ReviewID": "UR72056665",
+      "Content": "excellent staff friendly helpful outdated adequate hot berlin 90s hot fans available breakfast people tend vegetarian store corner fruits vegetables etc require cash front means change mind cant else meant carry lots cash internet extra 5 euros day",
+      "Date": "2010-07-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Hannover",
+      "Title": "\u201cBad experience\u201d",
+      "Author": "Coxiella",
+      "ReviewID": "UR55507368",
+      "Content": "pictures shown internet misleading seen looked shabby booked single reception gap door wall hear reception desk including radio sleeping impossible receptionist told booked check move hotel suddenly smell smoke unbearable hotel homepage tells nonsmoking motel highly",
+      "Date": "2010-02-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel-Pension Wittelsbach",
+    "HotelURL": "/ShowUserReviews-g187323-d190663-Reviews-Hotel_Pension_Wittelsbach-Berlin.html",
+    "Price": "$64 - $156*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">22 Wittelsbacherstrasse</span> | <span class=\"extended-address\">Wilmersdorf</span>, <span class=\"locality\"><span property=\"v:postal-code\">10707</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "190663",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8c/53/8c5347a127fe4797215ba6d84a61c6fc1large.jpg"
+  }
+}

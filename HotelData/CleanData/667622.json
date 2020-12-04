@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Vancouver, Canada", "Title": "\u201cGreat Art Deco Hotel -\u201d", "Author": "geswho", "ReviewID": "UR121991045", "Content": "stayed week cruise wonderful atmosphere excellent location excellent staff breakfast lovely cappuccinos location absolutely excellent stay weeks month walking distance roman ruins excellent restaurants reasonable price", "Date": "2011-12-22 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 1.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Austin, Texas", "Title": "\u201cNice hotel close to beach & airport\u201d", "Author": "Karen_and_R0n", "ReviewID": "UR119720305", "Content": "stayed hotel belvedere century ostia couple days rome trip convenient airport hotel arranged car flight time manager helpful recommending restaurants seafood wonderful town delightful square shops hotel bar loud band night hours sleep flight", "Date": "2011-10-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Ramsgate", "Title": "\u201cThis is the hotel to stay in\u201d", "Author": "terrytraveler13", "ReviewID": "UR109856442", "Content": "wife recently returned visit rome stayed hotel hotel seafront 30 mins city hotel clean staff helpful reception staff spoke english breakfast spoke little english understand breakfasts continental buffet 0600 half board arranged prior arrival evening meal served restaurant road beach restaurant bills hotel set price food excellent staff friendly speak little english fault found pillows thin forwarned inflatable pillows extra pillow worry inflatable ones beds clean towels day linen towelling drying free safe set own security rome station 10mins walk buy 4euro ticket lasts bustram train urban district rome times wish day ostia antica stops line worth visit day pompei covered ash plenty shops near station found hotel respects bar door noise bad worry found agreable hotel stay", "Date": "2011-05-25 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Qu\u00e9bec", "Title": "\u201cPerfect for last night in Italy\u201d", "Author": "chagallvoyage", "ReviewID": "UR109840625", "Content": "night italy hotel provides shuttle airport 6 euros efficient fine clean yes 3 star hotel cant expect ritz ive seen worse 3 stars europe usa 3rd floor floors ceramic tiles hear people walking little 2 nice terraces guests located 3rd floor advantage breakfast morning especially coffee nice girl serve eggs bacon italy croissants coffee yogourt juices location perfect nice", "Date": "2011-05-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cBelvedere Century is a beautiful hotel with a sincere hospitality and scenes of serenity\u201d", "Author": "Shaltoot", "ReviewID": "UR85876407", "Content": "hotel location beautiful sea view considered close romes airport friendly cooperating staff free internet locate lobby access internet furthermore reach directions listed site sufficient risk reach hotel romes airport italian citizens speaks english include intuitive directions including landmarks instructions nonitalian speakers love people shopping sea caffes quiet city", "Date": "2010-11-03 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Detroit, Michigan", "Title": "\u201cDon't bother - shady place - relatively cheap BUT terrible hotel\u201d", "Author": "dolphinmarine", "ReviewID": "UR69535576", "Content": "seriously motel 6 10 4 pros relatively inexpensive rome pizzeria nearby pizza pound try pumpkin flower pizza real hotwater shower mario shuttle driver guy 20 mins airport weekday morning cons terrible cheesy rusted hardware fittings falling mention toilet flush mosquito menace couldnt kill 50 internet near frontdesk ofcourse mentioned 12 tv 12 didnt watch soccer dont decent words describe bathroom", "Date": "2010-07-03 00:00:00"}], "HotelInfo": {"Name": "Belvedere Century", "HotelURL": "/ShowUserReviews-g187791-d667622-Reviews-Belvedere_Century-Rome_Lazio.html", "Price": "$79 - $152*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Piazza dei Ravennati 4</span>, <span class=\"locality\"><span property=\"v:postal-code\">00121</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "667622", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e4/6b/e46bbcbac8529539873cdaa770bab6bf1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Vancouver, Canada",
+      "Title": "\u201cGreat Art Deco Hotel -\u201d",
+      "Author": "geswho",
+      "ReviewID": "UR121991045",
+      "Content": "stayed week cruise wonderful atmosphere excellent location excellent staff breakfast lovely cappuccinos location absolutely excellent stay weeks month walking distance roman ruins excellent restaurants reasonable price",
+      "Date": "2011-12-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Austin, Texas",
+      "Title": "\u201cNice hotel close to beach & airport\u201d",
+      "Author": "Karen_and_R0n",
+      "ReviewID": "UR119720305",
+      "Content": "stayed hotel belvedere century ostia couple days rome trip convenient airport hotel arranged car flight time manager helpful recommending restaurants seafood wonderful town delightful square shops hotel bar loud band night hours sleep flight",
+      "Date": "2011-10-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ramsgate",
+      "Title": "\u201cThis is the hotel to stay in\u201d",
+      "Author": "terrytraveler13",
+      "ReviewID": "UR109856442",
+      "Content": "wife recently returned visit rome stayed hotel hotel seafront 30 mins city hotel clean staff helpful reception staff spoke english breakfast spoke little english understand breakfasts continental buffet 0600 half board arranged prior arrival evening meal served restaurant road beach restaurant bills hotel set price food excellent staff friendly speak little english fault found pillows thin forwarned inflatable pillows extra pillow worry inflatable ones beds clean towels day linen towelling drying free safe set own security rome station 10mins walk buy 4euro ticket lasts bustram train urban district rome times wish day ostia antica stops line worth visit day pompei covered ash plenty shops near station found hotel respects bar door noise bad worry found agreable hotel stay",
+      "Date": "2011-05-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Qu\u00e9bec",
+      "Title": "\u201cPerfect for last night in Italy\u201d",
+      "Author": "chagallvoyage",
+      "ReviewID": "UR109840625",
+      "Content": "night italy hotel provides shuttle airport 6 euros efficient fine clean yes 3 star hotel cant expect ritz ive seen worse 3 stars europe usa 3rd floor floors ceramic tiles hear people walking little 2 nice terraces guests located 3rd floor advantage breakfast morning especially coffee nice girl serve eggs bacon italy croissants coffee yogourt juices location perfect nice",
+      "Date": "2011-05-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cBelvedere Century is a beautiful hotel with a sincere hospitality and scenes of serenity\u201d",
+      "Author": "Shaltoot",
+      "ReviewID": "UR85876407",
+      "Content": "hotel location beautiful sea view considered close romes airport friendly cooperating staff free internet locate lobby access internet furthermore reach directions listed site sufficient risk reach hotel romes airport italian citizens speaks english include intuitive directions including landmarks instructions nonitalian speakers love people shopping sea caffes quiet city",
+      "Date": "2010-11-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Detroit, Michigan",
+      "Title": "\u201cDon't bother - shady place - relatively cheap BUT terrible hotel\u201d",
+      "Author": "dolphinmarine",
+      "ReviewID": "UR69535576",
+      "Content": "seriously motel 6 10 4 pros relatively inexpensive rome pizzeria nearby pizza pound try pumpkin flower pizza real hotwater shower mario shuttle driver guy 20 mins airport weekday morning cons terrible cheesy rusted hardware fittings falling mention toilet flush mosquito menace couldnt kill 50 internet near frontdesk ofcourse mentioned 12 tv 12 didnt watch soccer dont decent words describe bathroom",
+      "Date": "2010-07-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Belvedere Century",
+    "HotelURL": "/ShowUserReviews-g187791-d667622-Reviews-Belvedere_Century-Rome_Lazio.html",
+    "Price": "$79 - $152*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Piazza dei Ravennati 4</span>, <span class=\"locality\"><span property=\"v:postal-code\">00121</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "667622",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e4/6b/e46bbcbac8529539873cdaa770bab6bf1large.jpg"
+  }
+}

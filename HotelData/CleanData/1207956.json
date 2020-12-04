@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Tehran, Iran", "Title": "\u201cnever never never again\u201d", "Author": "nakinak", "ReviewID": "UR123150213", "Content": "breakfast awful eat cup tea hot bath force hotel meet otherwise stay hour", "Date": "2012-01-16 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Dublin", "Title": "\u201cabsolutely dreadful\u201d", "Author": "MaeveDublin", "ReviewID": "UR67299232", "Content": "arrived evening time light tiny double move person stayed bedthe bedroom dirty dust food cups etc relatively clean ensuite covering outlet bedrooms onto inner tiny yard smelly drains explained lack overnight trip bulgaria tourists ireland norway netherlands russia uk bulgaria complained bitterly hotel backpacker standard", "Date": "2010-06-12 00:00:00"}], "HotelInfo": {"Name": "Kecik", "HotelURL": "/ShowUserReviews-g293974-d1207956-Reviews-Kecik-Istanbul.html", "Price": "$58 - $76*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Fethibey Cad. No.18</span> | <span class=\"extended-address\">Laleli</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "1207956", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/6f/a4/kecik-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Tehran, Iran",
+      "Title": "\u201cnever never never again\u201d",
+      "Author": "nakinak",
+      "ReviewID": "UR123150213",
+      "Content": "breakfast awful eat cup tea hot bath force hotel meet otherwise stay hour",
+      "Date": "2012-01-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Dublin",
+      "Title": "\u201cabsolutely dreadful\u201d",
+      "Author": "MaeveDublin",
+      "ReviewID": "UR67299232",
+      "Content": "arrived evening time light tiny double move person stayed bedthe bedroom dirty dust food cups etc relatively clean ensuite covering outlet bedrooms onto inner tiny yard smelly drains explained lack overnight trip bulgaria tourists ireland norway netherlands russia uk bulgaria complained bitterly hotel backpacker standard",
+      "Date": "2010-06-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Kecik",
+    "HotelURL": "/ShowUserReviews-g293974-d1207956-Reviews-Kecik-Istanbul.html",
+    "Price": "$58 - $76*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Fethibey Cad. No.18</span> | <span class=\"extended-address\">Laleli</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "1207956",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/6f/a4/kecik-thumbnail.jpg"
+  }
+}

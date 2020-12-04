@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Vancouver, Canada", "Title": "\u201cFilthy hotel with misleading rating\u201d", "Author": "Travel_for_fun_BC", "ReviewID": "UR79703303", "Content": "opinion rating hotel star checked hotel maybe forgot clean actually staff clean promptly replied clean daily pillows looked slept furniture covered dust bed spread disgusting windows cracked mouldy tiles bathroom cracked towels filthy carpet stained damaged couch chairs dirty coming apart staff nice hotel dump recommend", "Date": "2010-09-15 00:00:00"}], "HotelInfo": {"Name": "Hotel Sybharis", "HotelURL": "/ShowUserReviews-g150800-d1449252-Reviews-Hotel_Sybharis-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$46 - $52*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Sullivan 163-B</span> | <span class=\"extended-address\">Col. San Rafael</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06470</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "1449252", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/68/ed/68edd11cc80a440fc4723f6dc9c102db3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Vancouver, Canada",
+      "Title": "\u201cFilthy hotel with misleading rating\u201d",
+      "Author": "Travel_for_fun_BC",
+      "ReviewID": "UR79703303",
+      "Content": "opinion rating hotel star checked hotel maybe forgot clean actually staff clean promptly replied clean daily pillows looked slept furniture covered dust bed spread disgusting windows cracked mouldy tiles bathroom cracked towels filthy carpet stained damaged couch chairs dirty coming apart staff nice hotel dump recommend",
+      "Date": "2010-09-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Sybharis",
+    "HotelURL": "/ShowUserReviews-g150800-d1449252-Reviews-Hotel_Sybharis-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$46 - $52*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Sullivan 163-B</span> | <span class=\"extended-address\">Col. San Rafael</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06470</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "1449252",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/68/ed/68edd11cc80a440fc4723f6dc9c102db3large.jpg"
+  }
+}

@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Buenos Aires", "Title": "\u201cRevisiting a nice place\u201d", "Author": "cpsimons", "ReviewID": "UR119563705", "Content": "time hotel ago remains favorite mine kudamm zone berlinmitte lot trees flowers restaurants shops sbahn savignyplatz ubahn buses zoo eight minutes foot time stayed five nights service quality wifi connection free handicap worth mentioning elevator stops floors flight stairs nuisance mobility", "Date": "2011-10-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Seattle, WA", "Title": "\u201cGreat hotel, great location, great value\u201d", "Author": "Navajorug", "ReviewID": "UR72433856", "Content": "son stayed hotel 16 4 nights july 2010 3week vacation europe celebrating school graduation hotel stayed 3 weeks wellfurnished comfortable ours looked onto nice neighborhood quiet pleasant easy access ubahn sbahn bus station berlin easily quickly accessible staff couldnt helpful found knowledgeable people highly fluent english helpful german remember 4 school 35 ago staff loaded information maps brochures sell transit cards easy berlins excellent public transit special word breakfast smoked salmon rolls fresh fruit vegetables american eggs bacon mornings pot coffee sidewalk son slept late sipped world passed hotel air conditioned hot received fans checked heat drawback stay", "Date": "2010-07-26 00:00:00"}], "HotelInfo": {"Name": "Hotel Carmer 16", "HotelURL": "/ShowUserReviews-g187323-d608414-Reviews-Hotel_Carmer_16-Berlin.html", "Price": "$88 - $151*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Carmerstrasse 16</span> | <span class=\"extended-address\">Charlottenburg</span>, <span class=\"locality\"><span property=\"v:postal-code\">10623</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "608414", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/69/3d/693d9f1d778123bf8ec8b66dde5873474large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Buenos Aires",
+      "Title": "\u201cRevisiting a nice place\u201d",
+      "Author": "cpsimons",
+      "ReviewID": "UR119563705",
+      "Content": "time hotel ago remains favorite mine kudamm zone berlinmitte lot trees flowers restaurants shops sbahn savignyplatz ubahn buses zoo eight minutes foot time stayed five nights service quality wifi connection free handicap worth mentioning elevator stops floors flight stairs nuisance mobility",
+      "Date": "2011-10-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Seattle, WA",
+      "Title": "\u201cGreat hotel, great location, great value\u201d",
+      "Author": "Navajorug",
+      "ReviewID": "UR72433856",
+      "Content": "son stayed hotel 16 4 nights july 2010 3week vacation europe celebrating school graduation hotel stayed 3 weeks wellfurnished comfortable ours looked onto nice neighborhood quiet pleasant easy access ubahn sbahn bus station berlin easily quickly accessible staff couldnt helpful found knowledgeable people highly fluent english helpful german remember 4 school 35 ago staff loaded information maps brochures sell transit cards easy berlins excellent public transit special word breakfast smoked salmon rolls fresh fruit vegetables american eggs bacon mornings pot coffee sidewalk son slept late sipped world passed hotel air conditioned hot received fans checked heat drawback stay",
+      "Date": "2010-07-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Carmer 16",
+    "HotelURL": "/ShowUserReviews-g187323-d608414-Reviews-Hotel_Carmer_16-Berlin.html",
+    "Price": "$88 - $151*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Carmerstrasse 16</span> | <span class=\"extended-address\">Charlottenburg</span>, <span class=\"locality\"><span property=\"v:postal-code\">10623</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "608414",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/69/3d/693d9f1d778123bf8ec8b66dde5873474large.jpg"
+  }
+}

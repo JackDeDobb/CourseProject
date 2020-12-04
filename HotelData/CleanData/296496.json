@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Bolton", "Title": "\u201cNice rooms, nice price, nice location\u201d", "Author": "Stephen&Gemma", "ReviewID": "UR102137192", "Content": "nice hotel money paid ridiculously expected walking distance train station numerous attractions recommend hotel friends probably wouldnt stay i\u2019d prefer check hotels offer rome", "Date": "2011-03-30 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cnot clear of hostel location when booking\u201d", "Author": "iwander711", "ReviewID": "UR70919274", "Content": "booked hostelworldcom staying central location near train station roma checked particular building tried stay building farther questionable alley near embassy lots soldiers walking machine guns safe friend 2 single females werent people staying building quickly contacted front desk told placement unacceptable somehow found building originally booked clean careful book staying", "Date": "2010-07-14 00:00:00"}], "HotelInfo": {"Name": "Carlito's Way Hotel and Hostel", "HotelURL": "/ShowUserReviews-g187791-d296496-Reviews-Carlito_s_Way_Hotel_and_Hostel-Rome_Lazio.html", "Price": "$108 - $198*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Villafranca 10</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "296496", "ImgURL": "http://www.venere.com/img/hotel/4/8/3/8/198384/198384.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bolton",
+      "Title": "\u201cNice rooms, nice price, nice location\u201d",
+      "Author": "Stephen&Gemma",
+      "ReviewID": "UR102137192",
+      "Content": "nice hotel money paid ridiculously expected walking distance train station numerous attractions recommend hotel friends probably wouldnt stay i\u2019d prefer check hotels offer rome",
+      "Date": "2011-03-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cnot clear of hostel location when booking\u201d",
+      "Author": "iwander711",
+      "ReviewID": "UR70919274",
+      "Content": "booked hostelworldcom staying central location near train station roma checked particular building tried stay building farther questionable alley near embassy lots soldiers walking machine guns safe friend 2 single females werent people staying building quickly contacted front desk told placement unacceptable somehow found building originally booked clean careful book staying",
+      "Date": "2010-07-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Carlito's Way Hotel and Hostel",
+    "HotelURL": "/ShowUserReviews-g187791-d296496-Reviews-Carlito_s_Way_Hotel_and_Hostel-Rome_Lazio.html",
+    "Price": "$108 - $198*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Villafranca 10</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "296496",
+    "ImgURL": "http://www.venere.com/img/hotel/4/8/3/8/198384/198384.jpg"
+  }
+}

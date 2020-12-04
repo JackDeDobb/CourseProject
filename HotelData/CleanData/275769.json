@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Los Angeles, CA", "Title": "\u201cWonderful Little Corner of Rome\u201d", "Author": "Mattsaab", "ReviewID": "UR124205937", "Content": "charming little collection surprisingly wonderful quiet night ideally situated fantastic rome stay la lumiere save money rome staff freindly helpful easy corner spacious clean charming view rooftops loud day quiet night breakfast served sun porch atop pension spectacular fine start day save money regret time wasnt someplace else stay againand rome musical la lumiere opera", "Date": "2012-02-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Lausanne, Switzerland", "Title": "\u201cFabulous!\u201d", "Author": "susanpradja", "ReviewID": "UR119638886", "Content": "surprised read bad reviews hotel hotel deserve top 20 hotel rome choose hotel heart city close metro dont waste money taxi hotel located close piazza di spagna metro stop spanish steps crowded tourists feel safe hotel surrounding highend shops front love alley hotel cute beautiful pictures website describe late night smooth checked staff friendly information visit rome fabulous bathroom clean jacuzzi nice day walk city breakfast okay nothings special love terrace top building overlooks city hotel highly recommended", "Date": "2011-10-23 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Paris, France", "Title": "\u201cExcellent location, wonderful staff ... but\u201d", "Author": "ylw_fr", "ReviewID": "UR118944191", "Content": "location couldnt nor staff kinder helpful devil details bed comfortable reading lights useless eyes whereas adequate bedroom meet friends staying hotel chat accommodate people hang fifth floor breakfast served available maybe rooftop terrace fitted chairs pleasant weather internet connection poor five days connections despite willing help charming mauro reception desk soap replenished days admittedly detail hand towels changed daily despite environmental cost acceptable leave towels floor replaced otherwise day location staff lot inconveniences corrected deal effort", "Date": "2011-10-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Garden City, New York", "Title": "\u201cA wonderful hotel in a perfect location\u201d", "Author": "lyanna501", "ReviewID": "UR84378135", "Content": "lumiere di piazza di spagna hotel lots charm hotel situated near spanish steps walking distance restaurants shopping activities hotel served wonderful european style breakfast sunlit roof top dining staff wonderful connected wonderful guide colleseum forum st peters basilica", "Date": "2010-10-21 00:00:00"}], "HotelInfo": {"Name": "La Lumiere di Piazza di Spagna", "HotelURL": "/ShowUserReviews-g187791-d275769-Reviews-La_Lumiere_di_Piazza_di_Spagna-Rome_Lazio.html", "Price": "$171 - $341*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">via Belsiana, 72</span>, <span class=\"locality\"><span property=\"v:postal-code\">00187</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "275769", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/91/6d/916db3be547a5457fb63bdf2038c0c7d14large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Los Angeles, CA",
+      "Title": "\u201cWonderful Little Corner of Rome\u201d",
+      "Author": "Mattsaab",
+      "ReviewID": "UR124205937",
+      "Content": "charming little collection surprisingly wonderful quiet night ideally situated fantastic rome stay la lumiere save money rome staff freindly helpful easy corner spacious clean charming view rooftops loud day quiet night breakfast served sun porch atop pension spectacular fine start day save money regret time wasnt someplace else stay againand rome musical la lumiere opera",
+      "Date": "2012-02-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Lausanne, Switzerland",
+      "Title": "\u201cFabulous!\u201d",
+      "Author": "susanpradja",
+      "ReviewID": "UR119638886",
+      "Content": "surprised read bad reviews hotel hotel deserve top 20 hotel rome choose hotel heart city close metro dont waste money taxi hotel located close piazza di spagna metro stop spanish steps crowded tourists feel safe hotel surrounding highend shops front love alley hotel cute beautiful pictures website describe late night smooth checked staff friendly information visit rome fabulous bathroom clean jacuzzi nice day walk city breakfast okay nothings special love terrace top building overlooks city hotel highly recommended",
+      "Date": "2011-10-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Paris, France",
+      "Title": "\u201cExcellent location, wonderful staff ... but\u201d",
+      "Author": "ylw_fr",
+      "ReviewID": "UR118944191",
+      "Content": "location couldnt nor staff kinder helpful devil details bed comfortable reading lights useless eyes whereas adequate bedroom meet friends staying hotel chat accommodate people hang fifth floor breakfast served available maybe rooftop terrace fitted chairs pleasant weather internet connection poor five days connections despite willing help charming mauro reception desk soap replenished days admittedly detail hand towels changed daily despite environmental cost acceptable leave towels floor replaced otherwise day location staff lot inconveniences corrected deal effort",
+      "Date": "2011-10-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Garden City, New York",
+      "Title": "\u201cA wonderful hotel in a perfect location\u201d",
+      "Author": "lyanna501",
+      "ReviewID": "UR84378135",
+      "Content": "lumiere di piazza di spagna hotel lots charm hotel situated near spanish steps walking distance restaurants shopping activities hotel served wonderful european style breakfast sunlit roof top dining staff wonderful connected wonderful guide colleseum forum st peters basilica",
+      "Date": "2010-10-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "La Lumiere di Piazza di Spagna",
+    "HotelURL": "/ShowUserReviews-g187791-d275769-Reviews-La_Lumiere_di_Piazza_di_Spagna-Rome_Lazio.html",
+    "Price": "$171 - $341*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">via Belsiana, 72</span>, <span class=\"locality\"><span property=\"v:postal-code\">00187</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "275769",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/91/6d/916db3be547a5457fb63bdf2038c0c7d14large.jpg"
+  }
+}

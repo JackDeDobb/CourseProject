@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Almaty, Kazakhstan", "Title": "\u201cRecommended\u201d", "Author": "asseltraeland", "ReviewID": "UR123347906", "Content": "stayed hotel july 2010 finally found time write nice stay decided share experience hotel nice location short walking distance tube station taxi barcelona cheap dont tube offer free spa day spa 5 star hotels clean comfortable checked change previous smelling stay", "Date": "2012-01-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Philadelphia, Pennsylvania", "Title": "\u201cVery Cool\u201d", "Author": "Catapaken", "ReviewID": "UR122739041", "Content": "husband stayed hesperia sport barcelona july talking nice trip barcelona perfect hotel realized wrote review isthe location hotel perfect loved cool decor comfortable clean size nice balcony view sagrada familia nice sit beer catch evening breeze day sightseeing definitely bathroom shower body jets pool gym didn\u2019t time check remembered paid reasonable rate hotel \u2013 deal totally happy recommend anyway thanks reading note luck visit barcelona", "Date": "2012-01-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "The Hague", "Title": "\u201cNice and modern\u201d", "Author": "Knolraab", "ReviewID": "UR67447907", "Content": "clean ultra modern quiet hotel situated location barcelona dark wooden floor red wall luxurious feeling bed plenty pillows choose deal 4 nights inlcuding visiting spa wich located hotel tip 4th floor noisy 1100 am gym starts lesson spinning hear loud music 4th floor hear little compared floors definitely theres offer", "Date": "2010-06-14 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Singapore", "Title": "\u201cnice location and Nice Ambient\u201d", "Author": "dear_nikolas", "ReviewID": "UR64780160", "Content": "nice touch pillow menu bed comfortable design stylish reflects spirit hotel sleep wake late try choose hotel fourth floor hear noise coming gym gym started 7am late 1030pm beware noise tolerance low", "Date": "2010-05-19 00:00:00"}], "HotelInfo": {"Name": "Hesperia Sport Barcelona", "HotelURL": "/ShowUserReviews-g187497-d1175301-Reviews-Hesperia_Sport_Barcelona-Barcelona_Catalonia.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/ Provenza 408</span>, <span class=\"locality\"><span property=\"v:postal-code\">08025</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "1175301", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d3/9d/d39df078426aa20e5c194ddd233e0c561large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Almaty, Kazakhstan",
+      "Title": "\u201cRecommended\u201d",
+      "Author": "asseltraeland",
+      "ReviewID": "UR123347906",
+      "Content": "stayed hotel july 2010 finally found time write nice stay decided share experience hotel nice location short walking distance tube station taxi barcelona cheap dont tube offer free spa day spa 5 star hotels clean comfortable checked change previous smelling stay",
+      "Date": "2012-01-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Philadelphia, Pennsylvania",
+      "Title": "\u201cVery Cool\u201d",
+      "Author": "Catapaken",
+      "ReviewID": "UR122739041",
+      "Content": "husband stayed hesperia sport barcelona july talking nice trip barcelona perfect hotel realized wrote review isthe location hotel perfect loved cool decor comfortable clean size nice balcony view sagrada familia nice sit beer catch evening breeze day sightseeing definitely bathroom shower body jets pool gym didn\u2019t time check remembered paid reasonable rate hotel \u2013 deal totally happy recommend anyway thanks reading note luck visit barcelona",
+      "Date": "2012-01-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "The Hague",
+      "Title": "\u201cNice and modern\u201d",
+      "Author": "Knolraab",
+      "ReviewID": "UR67447907",
+      "Content": "clean ultra modern quiet hotel situated location barcelona dark wooden floor red wall luxurious feeling bed plenty pillows choose deal 4 nights inlcuding visiting spa wich located hotel tip 4th floor noisy 1100 am gym starts lesson spinning hear loud music 4th floor hear little compared floors definitely theres offer",
+      "Date": "2010-06-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Singapore",
+      "Title": "\u201cnice location and Nice Ambient\u201d",
+      "Author": "dear_nikolas",
+      "ReviewID": "UR64780160",
+      "Content": "nice touch pillow menu bed comfortable design stylish reflects spirit hotel sleep wake late try choose hotel fourth floor hear noise coming gym gym started 7am late 1030pm beware noise tolerance low",
+      "Date": "2010-05-19 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hesperia Sport Barcelona",
+    "HotelURL": "/ShowUserReviews-g187497-d1175301-Reviews-Hesperia_Sport_Barcelona-Barcelona_Catalonia.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/ Provenza 408</span>, <span class=\"locality\"><span property=\"v:postal-code\">08025</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "1175301",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d3/9d/d39df078426aa20e5c194ddd233e0c561large.jpg"
+  }
+}
