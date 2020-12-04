@@ -1,1 +1,41 @@
-[{"productName": "Apple iPod mini Portable MP3 player Silver", "title": "Doesnt hold a charge", "author": "Daphne \"Amazon addict!\"", "createDate": "Tue May 22 00:00:00 CST 2007", "fullText": "2 0", "rating": "1.0", "helpfulNum": "10", "totalNum": "12", "commentNum": "0", "webUrl": "http://www.amazon.com/review/product/B0001AU6WG/ref=cm_cr_dp_all_summary/105-1693336-5154803?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending", "htmlPath": "F:\\amazon_mp3\\1/52"}, {"productName": "Apple iPod mini Portable MP3 player Silver", "title": "lit", "author": "Svetlana Litvak \"36poi\"", "createDate": "Tue Jul 10 00:00:00 CST 2007", "fullText": "8 0", "rating": "5.0", "helpfulNum": "4", "totalNum": "4", "commentNum": "0", "webUrl": "http://www.amazon.com/review/product/B0001AU6WG/ref=cm_cr_dp_all_summary/105-1693336-5154803?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending", "htmlPath": "F:\\amazon_mp3\\1/52"}, {"productName": "Apple iPod mini Portable MP3 player Silver", "title": "Like Always, Apple made a Great Product", "author": "J. Schanen", "createDate": "Thu Feb 07 00:00:00 CST 2008", "fullText": "", "rating": "5.0", "helpfulNum": "0", "totalNum": "0", "commentNum": "0", "webUrl": "http://www.amazon.com/review/product/B0001AU6WG/ref=cm_cr_dp_all_summary/105-1693336-5154803?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending", "htmlPath": "F:\\amazon_mp3\\1/52"}]
+[
+  {
+    "productName": "Apple iPod mini Portable MP3 player Silver",
+    "title": "Doesnt hold a charge",
+    "author": "Daphne \"Amazon addict!\"",
+    "createDate": "Tue May 22 00:00:00 CST 2007",
+    "fullText": "2 0",
+    "rating": "1.0",
+    "helpfulNum": "10",
+    "totalNum": "12",
+    "commentNum": "0",
+    "webUrl": "http://www.amazon.com/review/product/B0001AU6WG/ref=cm_cr_dp_all_summary/105-1693336-5154803?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending",
+    "htmlPath": "F:\\amazon_mp3\\1/52"
+  },
+  {
+    "productName": "Apple iPod mini Portable MP3 player Silver",
+    "title": "lit",
+    "author": "Svetlana Litvak \"36poi\"",
+    "createDate": "Tue Jul 10 00:00:00 CST 2007",
+    "fullText": "8 0",
+    "rating": "5.0",
+    "helpfulNum": "4",
+    "totalNum": "4",
+    "commentNum": "0",
+    "webUrl": "http://www.amazon.com/review/product/B0001AU6WG/ref=cm_cr_dp_all_summary/105-1693336-5154803?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending",
+    "htmlPath": "F:\\amazon_mp3\\1/52"
+  },
+  {
+    "productName": "Apple iPod mini Portable MP3 player Silver",
+    "title": "Like Always, Apple made a Great Product",
+    "author": "J. Schanen",
+    "createDate": "Thu Feb 07 00:00:00 CST 2008",
+    "fullText": "",
+    "rating": "5.0",
+    "helpfulNum": "0",
+    "totalNum": "0",
+    "commentNum": "0",
+    "webUrl": "http://www.amazon.com/review/product/B0001AU6WG/ref=cm_cr_dp_all_summary/105-1693336-5154803?%5Fencoding=UTF8&showViewpoints=1&sortBy=bySubmissionDateAscending",
+    "htmlPath": "F:\\amazon_mp3\\1/52"
+  }
+]
