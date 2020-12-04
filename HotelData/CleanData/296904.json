@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Bucuresti", "Title": "\u201cIstanbul wonderful City\u201d", "Author": "COS_10", "ReviewID": "UR128387716", "Content": "hotel located istanbuls city centre 2 km district sultanahmet covered rooftop restaurant offering panoramic views simply furnished equipped air main attractions accessible 30 minutes walking include beyazit mosque grand bazaar tram 10minute walk", "Date": "2012-04-23 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Bournemouth", "Title": "\u201cReasonable Hotel for the price\u201d", "Author": "Mazzer72", "ReviewID": "UR67457784", "Content": "location hotel reasonable 510 mins walk tram station service clean tidy averse noise hotel noisy appears heavy vehicles travelling past beyond midnight staff helpful friendly breakfast fair", "Date": "2010-06-14 00:00:00"}], "HotelInfo": {"Name": "Fuar Hotel", "HotelURL": "/ShowUserReviews-g293974-d296904-Reviews-Fuar_Hotel-Istanbul.html", "Price": "$66 - $79*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Namik Kemal Caddesi 26</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34300</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "296904", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/43/70/4370183f3ee3406e3b798c0e358e58e81large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bucuresti",
+      "Title": "\u201cIstanbul wonderful City\u201d",
+      "Author": "COS_10",
+      "ReviewID": "UR128387716",
+      "Content": "hotel located istanbuls city centre 2 km district sultanahmet covered rooftop restaurant offering panoramic views simply furnished equipped air main attractions accessible 30 minutes walking include beyazit mosque grand bazaar tram 10minute walk",
+      "Date": "2012-04-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bournemouth",
+      "Title": "\u201cReasonable Hotel for the price\u201d",
+      "Author": "Mazzer72",
+      "ReviewID": "UR67457784",
+      "Content": "location hotel reasonable 510 mins walk tram station service clean tidy averse noise hotel noisy appears heavy vehicles travelling past beyond midnight staff helpful friendly breakfast fair",
+      "Date": "2010-06-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Fuar Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d296904-Reviews-Fuar_Hotel-Istanbul.html",
+    "Price": "$66 - $79*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Namik Kemal Caddesi 26</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34300</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "296904",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/43/70/4370183f3ee3406e3b798c0e358e58e81large.jpg"
+  }
+}

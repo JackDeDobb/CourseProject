@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Brighton, United Kingdom", "Title": "\u201cAn absolute bargain\u201d", "Author": "PhilAndAndy", "ReviewID": "UR134344817", "Content": "stayed july short city break reviewers glamorous luxurious cuttingedge hotel wonderful city madrid clean wellmaintained quiet unusual city real bargain booked advance central husa website \u00a370 night price outstanding visit city prefer stay closer tourist locations madrid frequently based amid shops cafes upmarket salamanca district metro station five minutes walk buses cab ranks close relaxed stroll centre city size bathroom excellent particularly wifi internet connection beds guaranteed nights sleep armchair comfortable visitors lament lack nonspanish tv channels staff helpful front desk daily cleaning particularly thorough efficient comment breakfasts paid roomonly rate numerous local cafes le pain quotidien especially stayed fancier madrid hotels stayed offered quality price", "Date": "2012-07-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cWe recommend this hotel !!!!\u201d", "Author": "kate w", "ReviewID": "UR129750340", "Content": "honey moon spain madrid spent week stayed hotel husa serrano royal hotels stayed loved customer service convenient location hotel hotel husa located center city makes nearby surprise checked 5 am greeted coffee tea doubt recommend hotel", "Date": "2012-05-11 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Thunder Bay", "Title": "\u201cWould go again\u201d", "Author": "Northern-Ontarions", "ReviewID": "UR125108255", "Content": "hotel location walking shopping taxi resturants shops affordable shopping tax free shopping zone breakfast morning wish coffee front desk staff helpful speak english helpful knowledgeable attractions stay", "Date": "2012-02-23 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Buenos Aires", "Title": "\u201cExcellent location\u201d", "Author": "cpsimons", "ReviewID": "UR119546567", "Content": "stayed lot times serrano royal half block serrano perfect base visiting shopping madrid nice lot light bathrooms ventilation prices reasonable book advance lobby flight stairs street ramp lobby elevator serves hotel persons mobility staff help baggage", "Date": "2011-10-21 00:00:00"}], "HotelInfo": {"Name": "Husa Serrano Royal Hotel", "HotelURL": "/ShowUserReviews-g187514-d228655-Reviews-Husa_Serrano_Royal_Hotel-Madrid.html", "Price": "$84 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Marques De Villamejor 8</span>, <span class=\"locality\"><span property=\"v:postal-code\">28006</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "228655", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/cc/15/ae/habitacion-doble.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Brighton, United Kingdom",
+      "Title": "\u201cAn absolute bargain\u201d",
+      "Author": "PhilAndAndy",
+      "ReviewID": "UR134344817",
+      "Content": "stayed july short city break reviewers glamorous luxurious cuttingedge hotel wonderful city madrid clean wellmaintained quiet unusual city real bargain booked advance central husa website \u00a370 night price outstanding visit city prefer stay closer tourist locations madrid frequently based amid shops cafes upmarket salamanca district metro station five minutes walk buses cab ranks close relaxed stroll centre city size bathroom excellent particularly wifi internet connection beds guaranteed nights sleep armchair comfortable visitors lament lack nonspanish tv channels staff helpful front desk daily cleaning particularly thorough efficient comment breakfasts paid roomonly rate numerous local cafes le pain quotidien especially stayed fancier madrid hotels stayed offered quality price",
+      "Date": "2012-07-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cWe recommend this hotel !!!!\u201d",
+      "Author": "kate w",
+      "ReviewID": "UR129750340",
+      "Content": "honey moon spain madrid spent week stayed hotel husa serrano royal hotels stayed loved customer service convenient location hotel hotel husa located center city makes nearby surprise checked 5 am greeted coffee tea doubt recommend hotel",
+      "Date": "2012-05-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Thunder Bay",
+      "Title": "\u201cWould go again\u201d",
+      "Author": "Northern-Ontarions",
+      "ReviewID": "UR125108255",
+      "Content": "hotel location walking shopping taxi resturants shops affordable shopping tax free shopping zone breakfast morning wish coffee front desk staff helpful speak english helpful knowledgeable attractions stay",
+      "Date": "2012-02-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Buenos Aires",
+      "Title": "\u201cExcellent location\u201d",
+      "Author": "cpsimons",
+      "ReviewID": "UR119546567",
+      "Content": "stayed lot times serrano royal half block serrano perfect base visiting shopping madrid nice lot light bathrooms ventilation prices reasonable book advance lobby flight stairs street ramp lobby elevator serves hotel persons mobility staff help baggage",
+      "Date": "2011-10-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Husa Serrano Royal Hotel",
+    "HotelURL": "/ShowUserReviews-g187514-d228655-Reviews-Husa_Serrano_Royal_Hotel-Madrid.html",
+    "Price": "$84 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Marques De Villamejor 8</span>, <span class=\"locality\"><span property=\"v:postal-code\">28006</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "228655",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/cc/15/ae/habitacion-doble.jpg"
+  }
+}

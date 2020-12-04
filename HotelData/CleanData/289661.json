@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Baltimore, Maryland", "Title": "\u201cGreat location & price in the mix of a lively plaza\u201d", "Author": "j3dnight", "ReviewID": "UR136665703", "Content": "trip spain time spent madrid hotel central location transportation options getting daytrips hostal plaza choice metro nearby puerto del sol easily train stations segovia toledo hop onhop bus stop street lot attractions walking distance single moved bigger surely appreciated located lively plaza safe shops restaurants pubs nearby staff helpful friendly im happy stay", "Date": "2012-08-08 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Afton, Minnesota", "Title": "\u201cTerrible hostel, bad for even budget hostels\u201d", "Author": "Plavec_H", "ReviewID": "UR121469378", "Content": "imaginable halfway bed table elevated tv rested laying reach shower cheap budget expect especially size 5 feet 6 smelled smoke cigarette burns sheets quality cigarette burns sheets recommend elsewhere", "Date": "2011-12-06 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Kiev", "Title": "\u201cthey charged us twice! never go here!\u201d", "Author": "Wiggily", "ReviewID": "UR120706654", "Content": "people charged twice night refusing return money provided copies bank account statements treating horribly replying email etc filthy dont speak english horrible please avoid cost", "Date": "2011-11-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Liberec, Czech Republic", "Title": "\u201cReally pleasant hostel\u201d", "Author": "marguarite82", "ReviewID": "UR110204937", "Content": "nice stay hostel twin bathroom 202 euro 4 nights staff helpful location excellent 5 min walking sol cleaned day disadvantage lift 4th floor compared else wasn\u00b4t bad", "Date": "2011-05-28 00:00:00"}], "HotelInfo": {"Name": "Hostal Plaza D'ort", "HotelURL": "/ShowUserReviews-g187514-d289661-Reviews-Hostal_Plaza_D_ort-Madrid.html", "Price": "$41 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Plaza del Angel 13</span>, <span class=\"locality\"><span property=\"v:postal-code\">28012 </span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "289661", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/0b/92/50/fachada-del-hostal.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Baltimore, Maryland",
+      "Title": "\u201cGreat location & price in the mix of a lively plaza\u201d",
+      "Author": "j3dnight",
+      "ReviewID": "UR136665703",
+      "Content": "trip spain time spent madrid hotel central location transportation options getting daytrips hostal plaza choice metro nearby puerto del sol easily train stations segovia toledo hop onhop bus stop street lot attractions walking distance single moved bigger surely appreciated located lively plaza safe shops restaurants pubs nearby staff helpful friendly im happy stay",
+      "Date": "2012-08-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Afton, Minnesota",
+      "Title": "\u201cTerrible hostel, bad for even budget hostels\u201d",
+      "Author": "Plavec_H",
+      "ReviewID": "UR121469378",
+      "Content": "imaginable halfway bed table elevated tv rested laying reach shower cheap budget expect especially size 5 feet 6 smelled smoke cigarette burns sheets quality cigarette burns sheets recommend elsewhere",
+      "Date": "2011-12-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Kiev",
+      "Title": "\u201cthey charged us twice! never go here!\u201d",
+      "Author": "Wiggily",
+      "ReviewID": "UR120706654",
+      "Content": "people charged twice night refusing return money provided copies bank account statements treating horribly replying email etc filthy dont speak english horrible please avoid cost",
+      "Date": "2011-11-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Liberec, Czech Republic",
+      "Title": "\u201cReally pleasant hostel\u201d",
+      "Author": "marguarite82",
+      "ReviewID": "UR110204937",
+      "Content": "nice stay hostel twin bathroom 202 euro 4 nights staff helpful location excellent 5 min walking sol cleaned day disadvantage lift 4th floor compared else wasn\u00b4t bad",
+      "Date": "2011-05-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hostal Plaza D'ort",
+    "HotelURL": "/ShowUserReviews-g187514-d289661-Reviews-Hostal_Plaza_D_ort-Madrid.html",
+    "Price": "$41 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Plaza del Angel 13</span>, <span class=\"locality\"><span property=\"v:postal-code\">28012 </span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "289661",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/0b/92/50/fachada-del-hostal.jpg"
+  }
+}

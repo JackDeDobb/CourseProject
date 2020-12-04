@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Blagoevgrad, Bulgaria", "Title": "\u201cVery Good value\u201d", "Author": "ExpertComptable", "ReviewID": "UR121184680", "Content": "nice surprise helpful positive staff value suites equipped kitchen ensuite bedroom reception visitors washroom internet breakfast included price value service available alcohol served hotel bring own duty freethere local inexpensive restaurant nearby hotel adequate restaurant supermarket drug store close rest dubai else taxis easy staff minutes", "Date": "2011-11-29 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 2.0}, "AuthorLocation": "Dubai", "Title": "\u201cNot a hotel. Decent furnished apartments.\u201d", "Author": "mniee", "ReviewID": "UR110659483", "Content": "bad base month worth short term visits expect spacious clean apartment hotel service location northern deira lots traffic youll car", "Date": "2011-05-31 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Kuwait City, Kuwait", "Title": "\u201cVALUE FOR MONEY BUT FAR FROM MAIN ATTRACTIONS\u201d", "Author": "Alexlondon1977", "ReviewID": "UR98178599", "Content": "booked 2 bed apt 4 nightsthe rate agreed decent 450 dhs night excluding arrived late 10 pm shown mind eventually settled 1011 balcony master bedroom overlooking main road noisy bit annoyed receptionist kept settle bill roomwhat didnt hotel night decor neutral overall nicely furnished bit tired wasnt overly impressed linen towels looked hard touch kitchen nice size microwave kettle medium size fridge wash drier wich handy fuse kept blowing attempting iron run time happy cleaniness smelled nice travelling couple occasions cleaners enter apt cleaning products trolley swimming read previous reviews gym 1st floor didnt visit hotel offers free internet access isnt wireless actually proved pain day call reception log password speed watching paint annoying location near dubai car reach turist attraction unfortunately traffic plan day starting 910 hit road earlier consideration huge rush hours traffic jam plenty evening 57 pm wasnt value money stayed closer town doesnt feel central sandy empty lots busy roads balcony lucky catch sight burj khalifa night recommended hotel nephew lives guess family dubai makes hotel value money cause eventually visited lot dubai holiday adventure kids wouldnt mind paying little extra closer action", "Date": "2011-02-27 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Dubai", "Title": "\u201cNever stay at this hotel\u201d", "Author": "DunesTunes", "ReviewID": "UR90490644", "Content": "advise value suggest staying service hotel call front desk times attend craps sloppy reasons time call location fine near fast airport various restaurants popular supermarket carrefour blocks hotel daily found supermarket heard locals al supermarket west hospital hospital hotel months staying themthey bad treatment record filipinos guys gals extra attention hospitality middle east nationality beside gulf middle east look limited attention hospitality example fewer fewer attention day 3 months suggest guys avoid heartache accommodation", "Date": "2010-12-22 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Dubai, United Arab Emirates", "Title": "\u201cBest in the Al Nahda and Al Qusais area\u201d", "Author": "neeraj1742", "ReviewID": "UR79589159", "Content": "company booked hotel stay week 2 persons hotel category swimming pool top furnished lcds lot channels entertainment hotel couple billiards pool centers established owners near stores stay hotel reach business form laptop comfort explore dubai reception people tour organisers", "Date": "2010-09-15 00:00:00"}], "HotelInfo": {"Name": "Emirates Stars Hotel Apartments", "HotelURL": "/ShowUserReviews-g295424-d939897-Reviews-Emirates_Stars_Hotel_Apartments-Dubai.html", "Price": "$75 - $321*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">between Amman and Baghdad streets</span> | <span class=\"extended-address\">PO Box 86880</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span> <span property=\"v:postal-code\">86880</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "939897", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ee/8d/ee8d52363c6ed7637b968ad4f96d88994large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Blagoevgrad, Bulgaria",
+      "Title": "\u201cVery Good value\u201d",
+      "Author": "ExpertComptable",
+      "ReviewID": "UR121184680",
+      "Content": "nice surprise helpful positive staff value suites equipped kitchen ensuite bedroom reception visitors washroom internet breakfast included price value service available alcohol served hotel bring own duty freethere local inexpensive restaurant nearby hotel adequate restaurant supermarket drug store close rest dubai else taxis easy staff minutes",
+      "Date": "2011-11-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Dubai",
+      "Title": "\u201cNot a hotel. Decent furnished apartments.\u201d",
+      "Author": "mniee",
+      "ReviewID": "UR110659483",
+      "Content": "bad base month worth short term visits expect spacious clean apartment hotel service location northern deira lots traffic youll car",
+      "Date": "2011-05-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Kuwait City, Kuwait",
+      "Title": "\u201cVALUE FOR MONEY BUT FAR FROM MAIN ATTRACTIONS\u201d",
+      "Author": "Alexlondon1977",
+      "ReviewID": "UR98178599",
+      "Content": "booked 2 bed apt 4 nightsthe rate agreed decent 450 dhs night excluding arrived late 10 pm shown mind eventually settled 1011 balcony master bedroom overlooking main road noisy bit annoyed receptionist kept settle bill roomwhat didnt hotel night decor neutral overall nicely furnished bit tired wasnt overly impressed linen towels looked hard touch kitchen nice size microwave kettle medium size fridge wash drier wich handy fuse kept blowing attempting iron run time happy cleaniness smelled nice travelling couple occasions cleaners enter apt cleaning products trolley swimming read previous reviews gym 1st floor didnt visit hotel offers free internet access isnt wireless actually proved pain day call reception log password speed watching paint annoying location near dubai car reach turist attraction unfortunately traffic plan day starting 910 hit road earlier consideration huge rush hours traffic jam plenty evening 57 pm wasnt value money stayed closer town doesnt feel central sandy empty lots busy roads balcony lucky catch sight burj khalifa night recommended hotel nephew lives guess family dubai makes hotel value money cause eventually visited lot dubai holiday adventure kids wouldnt mind paying little extra closer action",
+      "Date": "2011-02-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Dubai",
+      "Title": "\u201cNever stay at this hotel\u201d",
+      "Author": "DunesTunes",
+      "ReviewID": "UR90490644",
+      "Content": "advise value suggest staying service hotel call front desk times attend craps sloppy reasons time call location fine near fast airport various restaurants popular supermarket carrefour blocks hotel daily found supermarket heard locals al supermarket west hospital hospital hotel months staying themthey bad treatment record filipinos guys gals extra attention hospitality middle east nationality beside gulf middle east look limited attention hospitality example fewer fewer attention day 3 months suggest guys avoid heartache accommodation",
+      "Date": "2010-12-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dubai, United Arab Emirates",
+      "Title": "\u201cBest in the Al Nahda and Al Qusais area\u201d",
+      "Author": "neeraj1742",
+      "ReviewID": "UR79589159",
+      "Content": "company booked hotel stay week 2 persons hotel category swimming pool top furnished lcds lot channels entertainment hotel couple billiards pool centers established owners near stores stay hotel reach business form laptop comfort explore dubai reception people tour organisers",
+      "Date": "2010-09-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Emirates Stars Hotel Apartments",
+    "HotelURL": "/ShowUserReviews-g295424-d939897-Reviews-Emirates_Stars_Hotel_Apartments-Dubai.html",
+    "Price": "$75 - $321*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">between Amman and Baghdad streets</span> | <span class=\"extended-address\">PO Box 86880</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span> <span property=\"v:postal-code\">86880</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "939897",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ee/8d/ee8d52363c6ed7637b968ad4f96d88994large.jpg"
+  }
+}

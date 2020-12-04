@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Manchester, United Kingdom", "Title": "\u201cGood Stay, Great Location\u201d", "Author": "Sonal P", "ReviewID": "UR120925223", "Content": "4 friends stay hollywood hermosa beach venice etc easy easy access highway beds tv fridges breakfast stay super fun real value money", "Date": "2011-11-22 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Bayonne, New Jersey", "Title": "\u201caltogether a pleasant stay\u201d", "Author": "shelly04441", "ReviewID": "UR90333697", "Content": "stayed 4 consecutive nights price paid amenities complimentary breakfast toast pie juice coffee add entire staff friendly helpful parking limited christmas holidays didnt", "Date": "2010-12-20 00:00:00"}], "HotelInfo": {"Name": "Rodeway Inn Culver City", "HotelURL": "/ShowUserReviews-g32655-d84365-Reviews-Rodeway_Inn_Culver_City-Los_Angeles_California.html", "Price": "$99 - $135*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">11933 Washington Blvd West</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">90066</span></span> </span> </span> </address>", "HotelID": "84365", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5a/e3/5ae3818fcb61e0c3a8022d60ecf8307d3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Manchester, United Kingdom",
+      "Title": "\u201cGood Stay, Great Location\u201d",
+      "Author": "Sonal P",
+      "ReviewID": "UR120925223",
+      "Content": "4 friends stay hollywood hermosa beach venice etc easy easy access highway beds tv fridges breakfast stay super fun real value money",
+      "Date": "2011-11-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bayonne, New Jersey",
+      "Title": "\u201caltogether a pleasant stay\u201d",
+      "Author": "shelly04441",
+      "ReviewID": "UR90333697",
+      "Content": "stayed 4 consecutive nights price paid amenities complimentary breakfast toast pie juice coffee add entire staff friendly helpful parking limited christmas holidays didnt",
+      "Date": "2010-12-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Rodeway Inn Culver City",
+    "HotelURL": "/ShowUserReviews-g32655-d84365-Reviews-Rodeway_Inn_Culver_City-Los_Angeles_California.html",
+    "Price": "$99 - $135*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">11933 Washington Blvd West</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">90066</span></span> </span> </span> </address>",
+    "HotelID": "84365",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5a/e3/5ae3818fcb61e0c3a8022d60ecf8307d3large.jpg"
+  }
+}

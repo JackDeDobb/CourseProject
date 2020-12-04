@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Shimla, India", "Title": "\u201cRooms were clean but customer service lacked\u201d", "Author": "Kart13", "ReviewID": "UR124255032", "Content": "traveling family found suitable families busy road outside noisy service food available hotel breakfast included little offer vegetarians parking available easily factors nice stay night economical clean speed wifi", "Date": "2012-02-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Amsterdam, The Netherlands", "Title": "\u201cGood Berlin hotel for families with small children\u201d", "Author": "ThatSemanticsGuy", "ReviewID": "UR86383428", "Content": "family stayed hotel am savignyplatz 4 nights happy hotel inside apartment building location residential versus hotel feel comfortable clean hotel located close savignyplatz sb stop easy reach hotel explore city neighborhood nice restaurants hotel provides cold breakfast morning selection meats cheeses breads etc juices coffee tea reservation departed service prompt helpful couple aware problematic didnt access hotel floor floor using elevator meant carry luggage stroller lot luggage check hotel noise floor ours practicing piano sound sensitive difficult sleep faced onto major street didnt street noise apparently insulation windows overall nice stay especially price willing return future", "Date": "2010-11-08 00:00:00"}], "HotelInfo": {"Name": "Hotel Am Savignyplatz", "HotelURL": "/ShowUserReviews-g187323-d624856-Reviews-Hotel_Am_Savignyplatz-Berlin.html", "Price": "$62 - $143*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kantstrasse 22</span>, <span class=\"locality\"><span property=\"v:postal-code\">10623</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "624856", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/53/27/5327137d15e627fc5214150ed64f220d1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Shimla, India",
+      "Title": "\u201cRooms were clean but customer service lacked\u201d",
+      "Author": "Kart13",
+      "ReviewID": "UR124255032",
+      "Content": "traveling family found suitable families busy road outside noisy service food available hotel breakfast included little offer vegetarians parking available easily factors nice stay night economical clean speed wifi",
+      "Date": "2012-02-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Amsterdam, The Netherlands",
+      "Title": "\u201cGood Berlin hotel for families with small children\u201d",
+      "Author": "ThatSemanticsGuy",
+      "ReviewID": "UR86383428",
+      "Content": "family stayed hotel am savignyplatz 4 nights happy hotel inside apartment building location residential versus hotel feel comfortable clean hotel located close savignyplatz sb stop easy reach hotel explore city neighborhood nice restaurants hotel provides cold breakfast morning selection meats cheeses breads etc juices coffee tea reservation departed service prompt helpful couple aware problematic didnt access hotel floor floor using elevator meant carry luggage stroller lot luggage check hotel noise floor ours practicing piano sound sensitive difficult sleep faced onto major street didnt street noise apparently insulation windows overall nice stay especially price willing return future",
+      "Date": "2010-11-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Am Savignyplatz",
+    "HotelURL": "/ShowUserReviews-g187323-d624856-Reviews-Hotel_Am_Savignyplatz-Berlin.html",
+    "Price": "$62 - $143*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kantstrasse 22</span>, <span class=\"locality\"><span property=\"v:postal-code\">10623</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "624856",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/53/27/5327137d15e627fc5214150ed64f220d1large.jpg"
+  }
+}

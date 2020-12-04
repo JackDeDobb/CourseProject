@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "", "Title": "\u201cGood location, beautiful views from top floor rooms!\u201d", "Author": "Allison M", "ReviewID": "UR128454777", "Content": "hotel located conveniently quieter barcelona modern clean staff friendly breakfast delicious lots warm choices addition spread cold cereals fruits cheeses meats treat try 2 top floor walk luggage flight stairs jetted tub huge terrace fantastic view barcelona worth", "Date": "2012-04-23 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Berlin, Germany", "Title": "\u201cVery very bad customer service!\u201d", "Author": "Berth D", "ReviewID": "UR125010333", "Content": "apart 4 star 3 star hotel refer based recent unpleasant visit hotel reason writing review believe hotel insult towards customers travellers stays duration 7 days days passing contrary worse begin internet access time move reception check business emails addition sheets extremely service visited couple days reason furthermore sound isolation bad moreover toilet rubbish bin broken beginning althouth reported times replaced response time reception extremely slow staff speaking rude worst happened time service visited toilet paper run request delay 30 minutes call reception staff door entered knocking refer negative issues althouth remain memory hotel rich breakfast spacious bathroom reasonable pricing near centre city apart special based personal experience recommended circumstances", "Date": "2012-02-22 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cWorst Hotel Experience ever\u201d", "Author": "Hardiman_11", "ReviewID": "UR118516129", "Content": "stay ramblas near centre city knowing gaudis basically lots sangria sagrada unfinished cathedral agent didnt tell town horrible hotel found taxi drove travel short money worried breakfast included paid city tour left home fit walkers oldies hilly walk ramblas guell park 38 degrees nearly killed city tour didnt waited 2 mornings receptionist didnt help didnt australians time leave wouldnt late checkout werent fly till 6pm trip sydney hot toilets wash trip home receptionist followed dont normally critical staff plentiful commodity move experience ruined visit barcelona view rooftops bathroom narrow wouldnt advise people unless love walk worthwhile", "Date": "2011-09-24 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "uk", "Title": "\u201cGood budget choice\u201d", "Author": "fidiUk", "ReviewID": "UR106797947", "Content": "hotel chain hotels barcelona ones middleclass suburb reach centre bus metro allow 30 minutes rush liked seeing everyday life theres nice cafes breakfast nearby hotel 4 star uk standards night blocked sink smelled complained morning told fix returned afternoon spoke shift manager note apologetic moved immediately 6am wake call australia hotel suitable tours couples apart little letdowns value money dont mind staying bit town", "Date": "2011-05-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Wicklow, Ireland", "Title": "\u201cBrill Barcelona\u201d", "Author": "Abbeykeating", "ReviewID": "UR85629044", "Content": "stayed 4 nights consider irish 3star city visit staff lovely porters friendly clean didnt eat dont distance city centre 10mins bus approx depending traffic bus stop outside door bus service brilliant quiet night nice bar door cafes breakfast near supermarket close overall location cheaper city centre travelling airport coach 58 takes close stop close hotel return airport correct bus terminal 2 brill time send friends hotel", "Date": "2010-11-01 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Jerusalem", "Title": "\u201cGreat hotel, quiet location, perfect, will come back!\u201d", "Author": "Annabelle_Leanne", "ReviewID": "UR78386849", "Content": "ive enjoyed stay hotel barcelona vacation hotel perfect clean staff willing help arrived morning theyve immediately offered ready hours official checkin indeed ready 11 clean spacious wifi connection theres minibar didnt location hotel loud centre town easily walk lovely sights 10 mins ride metro el putxet station minutes perfect party return quiet sleep breakfast nice admittedly im breakfast person am happy pretty bottom line nice clean hotel lively coffeshops restaurants perfect night sleep huge bathrooms", "Date": "2010-09-05 00:00:00"}], "HotelInfo": {"Name": "Hotel Catalonia Barcelona 505", "HotelURL": "/ShowUserReviews-g187497-d228572-Reviews-Hotel_Catalonia_Barcelona_505-Barcelona_Catalonia.html", "Price": "$103 - $214*", "Address": "<div class=\"amenFloat\">", "HotelID": "228572", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2f/c1/2fc12b9b0f7013292772df6078ba18126large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cGood location, beautiful views from top floor rooms!\u201d",
+      "Author": "Allison M",
+      "ReviewID": "UR128454777",
+      "Content": "hotel located conveniently quieter barcelona modern clean staff friendly breakfast delicious lots warm choices addition spread cold cereals fruits cheeses meats treat try 2 top floor walk luggage flight stairs jetted tub huge terrace fantastic view barcelona worth",
+      "Date": "2012-04-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Berlin, Germany",
+      "Title": "\u201cVery very bad customer service!\u201d",
+      "Author": "Berth D",
+      "ReviewID": "UR125010333",
+      "Content": "apart 4 star 3 star hotel refer based recent unpleasant visit hotel reason writing review believe hotel insult towards customers travellers stays duration 7 days days passing contrary worse begin internet access time move reception check business emails addition sheets extremely service visited couple days reason furthermore sound isolation bad moreover toilet rubbish bin broken beginning althouth reported times replaced response time reception extremely slow staff speaking rude worst happened time service visited toilet paper run request delay 30 minutes call reception staff door entered knocking refer negative issues althouth remain memory hotel rich breakfast spacious bathroom reasonable pricing near centre city apart special based personal experience recommended circumstances",
+      "Date": "2012-02-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cWorst Hotel Experience ever\u201d",
+      "Author": "Hardiman_11",
+      "ReviewID": "UR118516129",
+      "Content": "stay ramblas near centre city knowing gaudis basically lots sangria sagrada unfinished cathedral agent didnt tell town horrible hotel found taxi drove travel short money worried breakfast included paid city tour left home fit walkers oldies hilly walk ramblas guell park 38 degrees nearly killed city tour didnt waited 2 mornings receptionist didnt help didnt australians time leave wouldnt late checkout werent fly till 6pm trip sydney hot toilets wash trip home receptionist followed dont normally critical staff plentiful commodity move experience ruined visit barcelona view rooftops bathroom narrow wouldnt advise people unless love walk worthwhile",
+      "Date": "2011-09-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "uk",
+      "Title": "\u201cGood budget choice\u201d",
+      "Author": "fidiUk",
+      "ReviewID": "UR106797947",
+      "Content": "hotel chain hotels barcelona ones middleclass suburb reach centre bus metro allow 30 minutes rush liked seeing everyday life theres nice cafes breakfast nearby hotel 4 star uk standards night blocked sink smelled complained morning told fix returned afternoon spoke shift manager note apologetic moved immediately 6am wake call australia hotel suitable tours couples apart little letdowns value money dont mind staying bit town",
+      "Date": "2011-05-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Wicklow, Ireland",
+      "Title": "\u201cBrill Barcelona\u201d",
+      "Author": "Abbeykeating",
+      "ReviewID": "UR85629044",
+      "Content": "stayed 4 nights consider irish 3star city visit staff lovely porters friendly clean didnt eat dont distance city centre 10mins bus approx depending traffic bus stop outside door bus service brilliant quiet night nice bar door cafes breakfast near supermarket close overall location cheaper city centre travelling airport coach 58 takes close stop close hotel return airport correct bus terminal 2 brill time send friends hotel",
+      "Date": "2010-11-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Jerusalem",
+      "Title": "\u201cGreat hotel, quiet location, perfect, will come back!\u201d",
+      "Author": "Annabelle_Leanne",
+      "ReviewID": "UR78386849",
+      "Content": "ive enjoyed stay hotel barcelona vacation hotel perfect clean staff willing help arrived morning theyve immediately offered ready hours official checkin indeed ready 11 clean spacious wifi connection theres minibar didnt location hotel loud centre town easily walk lovely sights 10 mins ride metro el putxet station minutes perfect party return quiet sleep breakfast nice admittedly im breakfast person am happy pretty bottom line nice clean hotel lively coffeshops restaurants perfect night sleep huge bathrooms",
+      "Date": "2010-09-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Catalonia Barcelona 505",
+    "HotelURL": "/ShowUserReviews-g187497-d228572-Reviews-Hotel_Catalonia_Barcelona_505-Barcelona_Catalonia.html",
+    "Price": "$103 - $214*",
+    "Address": "<div class=\"amenFloat\">",
+    "HotelID": "228572",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2f/c1/2fc12b9b0f7013292772df6078ba18126large.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Denver, Colorado", "Title": "\u201cAre you kidding me? NEVER AGAIN!!!!!!!!\u201d", "Author": "CBussey64", "ReviewID": "UR128672054", "Content": "booked hotel price pay didnt wish wish bad reviews seriously husband checked mid afternoon checking guy comes obviously dressed prostitute rent hour course desk guy renting stated week clerk shouldve clue wasnt bathroom window close mold bathtub windows ac cool dinner hot husband doors move settle mold ac noise starts apartment complex hotel parties parking lot loud noisy guests bed pretty comfy day decided head note paid 3 nights reserved 3 nights decided stay overnight midnight sunday paid monday key tried 10 minutes suitcases husband rang night bell stop 10 minutes answered drizzly tired door western lamplighter inn suites choice morning hubs check hojos credit sunday night adamant 2 heck didnt answer paying 8700 hours sleep western wonderful stay written corporate", "Date": "2012-04-26 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Murrieta, CA", "Title": "\u201cFilthy, Disgusting Dump\u201d", "Author": "Linda M", "ReviewID": "UR128499563", "Content": "reservation stay la mesa arrived 10 pm manager locked office door door immediately locked comfortable safe feeling beyond disgusting smelled bad front broken drawers dresser filthy husband walked bed bathroom socks socks black filth carpet bed horrible terrified getting bed bugs sleep reservations nights stay cancelled reservation refund stay hotel", "Date": "2012-04-24 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "San Diego", "Title": "\u201cMet our needs just fine\u201d", "Author": "psa64", "ReviewID": "UR120668695", "Content": "home repairs weekend vacate affordable spot wifi breakfast howard johnson el cajon blvd delivered quiet secure comfortable ritz street riteaid couple blocks buffet 899 lunch 25 senior discount front office housekeeping staff cordial", "Date": "2011-11-16 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Sao Paulo, SP", "Title": "\u201cRun from it!!!\u201d", "Author": "Bruno M", "ReviewID": "UR119122236", "Content": "booked line huge disappointment nonsmoking sign door smelled badwe forced buy aerosol disguise little bit lots lots stains carpet continental breakfast advertises sums experience", "Date": "2011-10-09 00:00:00"}], "HotelInfo": {"Name": "Howard Johnson Inn - San Diego", "HotelURL": "/ShowUserReviews-g60750-d123716-Reviews-Howard_Johnson_Inn_San_Diego-San_Diego_California.html", "Price": "$49 - $103*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">6440 El Cajon Boulevard</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92115</span></span> </span> </span> </address>", "HotelID": "2515766", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e0/9a/e09aa4a8ad074ad2961486f39d1abd3c1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Denver, Colorado",
+      "Title": "\u201cAre you kidding me? NEVER AGAIN!!!!!!!!\u201d",
+      "Author": "CBussey64",
+      "ReviewID": "UR128672054",
+      "Content": "booked hotel price pay didnt wish wish bad reviews seriously husband checked mid afternoon checking guy comes obviously dressed prostitute rent hour course desk guy renting stated week clerk shouldve clue wasnt bathroom window close mold bathtub windows ac cool dinner hot husband doors move settle mold ac noise starts apartment complex hotel parties parking lot loud noisy guests bed pretty comfy day decided head note paid 3 nights reserved 3 nights decided stay overnight midnight sunday paid monday key tried 10 minutes suitcases husband rang night bell stop 10 minutes answered drizzly tired door western lamplighter inn suites choice morning hubs check hojos credit sunday night adamant 2 heck didnt answer paying 8700 hours sleep western wonderful stay written corporate",
+      "Date": "2012-04-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Murrieta, CA",
+      "Title": "\u201cFilthy, Disgusting Dump\u201d",
+      "Author": "Linda M",
+      "ReviewID": "UR128499563",
+      "Content": "reservation stay la mesa arrived 10 pm manager locked office door door immediately locked comfortable safe feeling beyond disgusting smelled bad front broken drawers dresser filthy husband walked bed bathroom socks socks black filth carpet bed horrible terrified getting bed bugs sleep reservations nights stay cancelled reservation refund stay hotel",
+      "Date": "2012-04-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "San Diego",
+      "Title": "\u201cMet our needs just fine\u201d",
+      "Author": "psa64",
+      "ReviewID": "UR120668695",
+      "Content": "home repairs weekend vacate affordable spot wifi breakfast howard johnson el cajon blvd delivered quiet secure comfortable ritz street riteaid couple blocks buffet 899 lunch 25 senior discount front office housekeeping staff cordial",
+      "Date": "2011-11-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sao Paulo, SP",
+      "Title": "\u201cRun from it!!!\u201d",
+      "Author": "Bruno M",
+      "ReviewID": "UR119122236",
+      "Content": "booked line huge disappointment nonsmoking sign door smelled badwe forced buy aerosol disguise little bit lots lots stains carpet continental breakfast advertises sums experience",
+      "Date": "2011-10-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Howard Johnson Inn - San Diego",
+    "HotelURL": "/ShowUserReviews-g60750-d123716-Reviews-Howard_Johnson_Inn_San_Diego-San_Diego_California.html",
+    "Price": "$49 - $103*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">6440 El Cajon Boulevard</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92115</span></span> </span> </span> </address>",
+    "HotelID": "2515766",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e0/9a/e09aa4a8ad074ad2961486f39d1abd3c1large.jpg"
+  }
+}

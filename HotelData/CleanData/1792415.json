@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Basel, Schweiz", "Title": "\u201cWe will be back...\u201d", "Author": "77ontheroad", "ReviewID": "UR121290716", "Content": "thank toni lovely stay appartment spot nicely furnished bed comfortable space breakfast expect homemade jam delicious fresh bread morning fabulous support hospitality thanks lot watch cu diana petra", "Date": "2011-12-01 00:00:00"}], "HotelInfo": {"Name": "Milkshake", "HotelURL": "/ShowUserReviews-g187497-d1792415-Reviews-Milkshake-Barcelona_Catalonia.html", "Price": "0", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"locality\"><span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "1792415", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Basel, Schweiz",
+      "Title": "\u201cWe will be back...\u201d",
+      "Author": "77ontheroad",
+      "ReviewID": "UR121290716",
+      "Content": "thank toni lovely stay appartment spot nicely furnished bed comfortable space breakfast expect homemade jam delicious fresh bread morning fabulous support hospitality thanks lot watch cu diana petra",
+      "Date": "2011-12-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Milkshake",
+    "HotelURL": "/ShowUserReviews-g187497-d1792415-Reviews-Milkshake-Barcelona_Catalonia.html",
+    "Price": "0",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"locality\"><span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "1792415",
+    "ImgURL": ""
+  }
+}

@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Birmingham, United Kingdom", "Title": "\u201cSchool trips ? Never!! Find another hotel.\u201d", "Author": "Teacher B", "ReviewID": "UR126782385", "Content": "school travel agent booked hotel behalf raised concerns review school april 2011 told misunderstanding cleared wish trusted instinct school trips abroad travel personally countries situation days okay food nice restaurant staff polite accommodating pupils described lovely okay breakfast day found hotel staff taking pictures childrens consent knowledge immediately person stop met torrent loud comments aggressive body language amazed learn manager apparently person charge hotel receptionist person continued photos shouted teachers responsible wear tear joke female staff intimated person stood ground shouted manner course customer care statement missing lost earring children reported missing biscuits shower gel teenage people reported considered person yelled teachers talking children totally unacceptable believe pulling scam avoid hotel writing overall manager comfort hotels own video evidence", "Date": "2012-03-27 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Birmingham, United Kingdom", "Title": "\u201cNo good for school trips!\u201d", "Author": "Grace B", "ReviewID": "UR126643523", "Content": "stayed school 3 nights days couldnt fault apart choice dinner night behaviour maids english speaking staff friendly clean major issues check times staff photographs student happy inspection expected accepted worried slight real started breakfast day staff rushed minute pictures eating managed issues accused students breaking didnt cigarette placed 8 none whom smoked set issue behaviour maids unusual missing children reported bags crisps biscuits missing items usually ignored happened lot children apart staff rude checkout woman shouting calling pigs overall hotel okay staff difficult recommend hotel schools", "Date": "2012-03-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Newcastle, England", "Title": "\u201cOutstanding value\u201d", "Author": "nilocpro Posted by an OctopusTravel traveler", "ReviewID": "UR86118071", "Content": "staff helpful professional ensuite twin sole 8 nights comfortable warm armchairs table writing desk chair fashioned crt tv limited channels fridge complimentary bottle water provided day buffet breakfast 5 star standard choice cereals fruit fruit drinks cooked meats cheese rolls boiled scrambled eggs bacon coffee teas missed evening meal paid british visa card meal served professionally suggestions hotel electric kettle sachets coffee tea bags biscuits connect box crt tv channels reception replace tvs flat screen digital tvs disadvantage hotel centre usually walked 12 hour caught public transport tram sbahn", "Date": "2010-11-05 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 4.0, "Location": 1.0}, "AuthorLocation": "Billerica, Massachusetts", "Title": "\u201cVery noisy, far from attractions, but not bad.\u201d", "Author": "FrequentFlyer055", "ReviewID": "UR73379793", "Content": "stayed 4 nights huge clean unfortunately extremely loud hotel ac tried leave window little traffic loud facing busy street breakfast shower staff soso motivated help prompted touristy berlin busses probably stay fine mainly noise location noticed reviewer praised sauna pool hotel actually neither", "Date": "2010-08-02 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "New Zealand", "Title": "\u201cExcellent large room!\u201d", "Author": "bobinthebottle", "ReviewID": "UR70314549", "Content": "arrived hotel checked quickly massive 1 bedroom paid wasnt pay 5 euro parking night bad locked underground carpark wireless internet 8 euro 24 hours wasnt night night dont happens restaurant bit slow getting drinks food english speaking tv channels dvd movie watch wanna relax day berlin little noisy sometimes door wasnt woken noise warm night hotels fault pretty hotel", "Date": "2010-07-09 00:00:00"}], "HotelInfo": {"Name": "Comfort Hotel Weissensee", "HotelURL": "/ShowUserReviews-g187323-d199388-Reviews-Comfort_Hotel_Weissensee-Berlin.html", "Price": "$59 - $328*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Rennbahnstrasse 87 - 88</span>, <span class=\"locality\"><span property=\"v:postal-code\">13086</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "199388", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/3d/1d/3d/aussenansicht-des-hotels.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Birmingham, United Kingdom",
+      "Title": "\u201cSchool trips ? Never!! Find another hotel.\u201d",
+      "Author": "Teacher B",
+      "ReviewID": "UR126782385",
+      "Content": "school travel agent booked hotel behalf raised concerns review school april 2011 told misunderstanding cleared wish trusted instinct school trips abroad travel personally countries situation days okay food nice restaurant staff polite accommodating pupils described lovely okay breakfast day found hotel staff taking pictures childrens consent knowledge immediately person stop met torrent loud comments aggressive body language amazed learn manager apparently person charge hotel receptionist person continued photos shouted teachers responsible wear tear joke female staff intimated person stood ground shouted manner course customer care statement missing lost earring children reported missing biscuits shower gel teenage people reported considered person yelled teachers talking children totally unacceptable believe pulling scam avoid hotel writing overall manager comfort hotels own video evidence",
+      "Date": "2012-03-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Birmingham, United Kingdom",
+      "Title": "\u201cNo good for school trips!\u201d",
+      "Author": "Grace B",
+      "ReviewID": "UR126643523",
+      "Content": "stayed school 3 nights days couldnt fault apart choice dinner night behaviour maids english speaking staff friendly clean major issues check times staff photographs student happy inspection expected accepted worried slight real started breakfast day staff rushed minute pictures eating managed issues accused students breaking didnt cigarette placed 8 none whom smoked set issue behaviour maids unusual missing children reported bags crisps biscuits missing items usually ignored happened lot children apart staff rude checkout woman shouting calling pigs overall hotel okay staff difficult recommend hotel schools",
+      "Date": "2012-03-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Newcastle, England",
+      "Title": "\u201cOutstanding value\u201d",
+      "Author": "nilocpro Posted by an OctopusTravel traveler",
+      "ReviewID": "UR86118071",
+      "Content": "staff helpful professional ensuite twin sole 8 nights comfortable warm armchairs table writing desk chair fashioned crt tv limited channels fridge complimentary bottle water provided day buffet breakfast 5 star standard choice cereals fruit fruit drinks cooked meats cheese rolls boiled scrambled eggs bacon coffee teas missed evening meal paid british visa card meal served professionally suggestions hotel electric kettle sachets coffee tea bags biscuits connect box crt tv channels reception replace tvs flat screen digital tvs disadvantage hotel centre usually walked 12 hour caught public transport tram sbahn",
+      "Date": "2010-11-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 4.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Billerica, Massachusetts",
+      "Title": "\u201cVery noisy, far from attractions, but not bad.\u201d",
+      "Author": "FrequentFlyer055",
+      "ReviewID": "UR73379793",
+      "Content": "stayed 4 nights huge clean unfortunately extremely loud hotel ac tried leave window little traffic loud facing busy street breakfast shower staff soso motivated help prompted touristy berlin busses probably stay fine mainly noise location noticed reviewer praised sauna pool hotel actually neither",
+      "Date": "2010-08-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "New Zealand",
+      "Title": "\u201cExcellent large room!\u201d",
+      "Author": "bobinthebottle",
+      "ReviewID": "UR70314549",
+      "Content": "arrived hotel checked quickly massive 1 bedroom paid wasnt pay 5 euro parking night bad locked underground carpark wireless internet 8 euro 24 hours wasnt night night dont happens restaurant bit slow getting drinks food english speaking tv channels dvd movie watch wanna relax day berlin little noisy sometimes door wasnt woken noise warm night hotels fault pretty hotel",
+      "Date": "2010-07-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Comfort Hotel Weissensee",
+    "HotelURL": "/ShowUserReviews-g187323-d199388-Reviews-Comfort_Hotel_Weissensee-Berlin.html",
+    "Price": "$59 - $328*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Rennbahnstrasse 87 - 88</span>, <span class=\"locality\"><span property=\"v:postal-code\">13086</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "199388",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/3d/1d/3d/aussenansicht-des-hotels.jpg"
+  }
+}

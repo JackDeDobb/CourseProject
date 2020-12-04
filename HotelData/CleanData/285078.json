@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Toronto", "Title": "\u201cOk, but rude customer service\u201d", "Author": "AnnieO_70", "ReviewID": "UR125230639", "Content": "stayed couple weeks feel hotel run east indian family woman day miserable bother question request 10pm curfew strange dont enforce unless person looks undesirable th location low floor size cable tv internet bit slow clean guy nights nicer funny conversations urging week woman th day jus couldnt stand am laid person", "Date": "2012-02-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cAbsolument Parfait Pour Moi!\u201d", "Author": "Sunny D", "ReviewID": "UR123909760", "Content": "little budget hotel warm windows clean shower hot water pressure staff free wifi little fridge location hotel 3min walk metro station awesome hotel youll sketchy guests hotels regardless price liked buzzed hotel youre looking warm safe clean lay head enjoying montr\u00e3\u00a9al recommend", "Date": "2012-01-31 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Cincinnati", "Title": "\u201cConveniently Located\u201d", "Author": "zachm", "ReviewID": "UR76061950", "Content": "little hotel located km outside city hotel major busmetro terminal getting easy express bus runs 30min international airport lower level nice quiet clean shouldnt except sleep montreal wonderful city staff nice accommodating fluent french english people city convenient store street pick snack hotel couple blocks university chance street performances latin quarter nearby 3 blocks south hotel tons eat lot parks close hang picnic cities bus terminals surrounding bit sketchy completely safe", "Date": "2010-08-20 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Toronto", "Title": "\u201cI wished I read the review and listened to my friend\u201d", "Author": "cristoph2010", "ReviewID": "UR75358808", "Content": "hard trying provide objective review bad experience ill try firstly convenient located minutes greyhound terminal metro subway station secondly downtown criticisms checking entering smelt smoking lifted blanket check bed sheet strands hair wondered changed bed sheets upstairs receptionist nonsmoking told nonsmoking hotel definitely smelt cigarette smoke using air freshener mask stink shower door mouldy morning smelt burning indian incense hallway smelt incense incense doesnt stink cigarette suspect nonsmoking indoors applies incense person cleaning personal hygiene left bo lingered ac wasnt night getting stuffy feel springs bed needless couldnt night sleep reading cheap skate breakfast decided skip breakfast checked morning charged extra day penalty refund rest nights stayed experience loud announcement greyhound people mentioned hear moving furniture upstairs described people oh hour staying throat started itch smoke itch worsened days days developed blown sore throat throat irritation tried avoid hotel chains strongly believe supporting guys staying boutique hotels major major mistake based overall experience wouldnt stay pay", "Date": "2010-08-15 00:00:00"}], "HotelInfo": {"Name": "Hotel Europeenne", "HotelURL": "/ShowUserReviews-g155032-d285078-Reviews-Hotel_Europeenne-Montreal_Quebec.html", "Price": "$57 - $132*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1620 Rue St-Hubert</span>, <span class=\"locality\"><span property=\"v:locality\">Montreal</span>, <span property=\"v:region\">Quebec</span> <span property=\"v:postal-code\">H2L 3Z3</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span></span></address>", "HotelID": "285078", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b3/94/b394d909fecdd1e29817c36417259a3f5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Toronto",
+      "Title": "\u201cOk, but rude customer service\u201d",
+      "Author": "AnnieO_70",
+      "ReviewID": "UR125230639",
+      "Content": "stayed couple weeks feel hotel run east indian family woman day miserable bother question request 10pm curfew strange dont enforce unless person looks undesirable th location low floor size cable tv internet bit slow clean guy nights nicer funny conversations urging week woman th day jus couldnt stand am laid person",
+      "Date": "2012-02-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cAbsolument Parfait Pour Moi!\u201d",
+      "Author": "Sunny D",
+      "ReviewID": "UR123909760",
+      "Content": "little budget hotel warm windows clean shower hot water pressure staff free wifi little fridge location hotel 3min walk metro station awesome hotel youll sketchy guests hotels regardless price liked buzzed hotel youre looking warm safe clean lay head enjoying montr\u00e3\u00a9al recommend",
+      "Date": "2012-01-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Cincinnati",
+      "Title": "\u201cConveniently Located\u201d",
+      "Author": "zachm",
+      "ReviewID": "UR76061950",
+      "Content": "little hotel located km outside city hotel major busmetro terminal getting easy express bus runs 30min international airport lower level nice quiet clean shouldnt except sleep montreal wonderful city staff nice accommodating fluent french english people city convenient store street pick snack hotel couple blocks university chance street performances latin quarter nearby 3 blocks south hotel tons eat lot parks close hang picnic cities bus terminals surrounding bit sketchy completely safe",
+      "Date": "2010-08-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Toronto",
+      "Title": "\u201cI wished I read the review and listened to my friend\u201d",
+      "Author": "cristoph2010",
+      "ReviewID": "UR75358808",
+      "Content": "hard trying provide objective review bad experience ill try firstly convenient located minutes greyhound terminal metro subway station secondly downtown criticisms checking entering smelt smoking lifted blanket check bed sheet strands hair wondered changed bed sheets upstairs receptionist nonsmoking told nonsmoking hotel definitely smelt cigarette smoke using air freshener mask stink shower door mouldy morning smelt burning indian incense hallway smelt incense incense doesnt stink cigarette suspect nonsmoking indoors applies incense person cleaning personal hygiene left bo lingered ac wasnt night getting stuffy feel springs bed needless couldnt night sleep reading cheap skate breakfast decided skip breakfast checked morning charged extra day penalty refund rest nights stayed experience loud announcement greyhound people mentioned hear moving furniture upstairs described people oh hour staying throat started itch smoke itch worsened days days developed blown sore throat throat irritation tried avoid hotel chains strongly believe supporting guys staying boutique hotels major major mistake based overall experience wouldnt stay pay",
+      "Date": "2010-08-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Europeenne",
+    "HotelURL": "/ShowUserReviews-g155032-d285078-Reviews-Hotel_Europeenne-Montreal_Quebec.html",
+    "Price": "$57 - $132*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1620 Rue St-Hubert</span>, <span class=\"locality\"><span property=\"v:locality\">Montreal</span>, <span property=\"v:region\">Quebec</span> <span property=\"v:postal-code\">H2L 3Z3</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span></span></address>",
+    "HotelID": "285078",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b3/94/b394d909fecdd1e29817c36417259a3f5large.jpg"
+  }
+}

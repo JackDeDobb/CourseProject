@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Greece", "Title": "\u201cOverall a good hotel\u201d", "Author": "ToTravel_10", "ReviewID": "UR129503025", "Content": "hotel quiet 30 min walking atocha trainmetro station 3040 min walking prado museum considering prices city center hotel price quality deal clean toiletries products breakfast included price rich till downsides mention lobby free access wifi pleasant surprise beginning free internet lobby didnt expected limited 1h minus temperature read reviews mentioning hot mention cold night button adjusting heat didnt maybe adjust own heat persons reception willing help overall madrid stay hotel", "Date": "2012-05-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "El Vendrell, Spain", "Title": "\u201cOnly a short bus ride away from the museums\u201d", "Author": "SandieBarcelona", "ReviewID": "UR124890581", "Content": "hotel located quiet madrid short metrobus ride museums centre near atocha railway station 3 star accommodation clean friendly goodcheap visitors cars secure parking free wifi reception breakfast bit pricey lots cafes nearby cafe street breakfast offer 3 euros toast coffee fresh oj metrobus", "Date": "2012-02-20 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Gibraltar", "Title": "\u201cPoor hotel location and room\u201d", "Author": "thevividtraveller", "ReviewID": "UR124469119", "Content": "hotel situated 25 mins atocha station easy couple stations city centre maximum 1820 mins travel time city bus direct access hotel 2530 mins walk citys artistic cultural heart museo del prado reina thyssenbornemisza collection hotel wifi service common ie lobby none stayed poor looks motel tv carpet lady receptionist nice map directions male receptionist replaced helpful seeing effort city centre decided look hotel city centre decision", "Date": "2012-02-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Munich, Germany", "Title": "\u201cAverage rooms, poor location - but fantastic selection of toiletries!\u201d", "Author": "UncleOswald", "ReviewID": "UR123008906", "Content": "stayed hotel nights staff helpful particularly recommended chocolate churros various museums visit location tenfifteen minute walk nearest metro station ten minute ride town ridiculously youre madrid short city break spend bit time getting city centre close atocha station thats minute walk busy main road didnt eat breakfast hotel found overpriced coffee shops nearby buying ham cheese bread supermarket eating breakfast day pretty average clean bathroom toiletries fantastic sponges shoe polisher razor toothbrushes toothpaste cologne usual shampoo body wash shower caps shower powerful bathroom spotless clean bed comfy carpets curtains outdated view waswell view clean bed comfy youre staying couple days perfectly adequate", "Date": "2012-01-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "wilts", "Title": "\u201cReasonable location and price\u201d", "Author": "alikat32", "ReviewID": "UR99392321", "Content": "spent nights march 2011 short break madrid metro stations 1015 minutes walk bus stop outside hotel door hop 55 60 drop outside various metro stations walk buy tourist metro ticket 3 days pay buses metros airport found location convenient travelled easily city bit dark looked onto central comfortable clean bathroom equipped staff helpful able leave luggage day airport breakfast plenty choose stay worries luxurious value money", "Date": "2011-03-08 00:00:00"}], "HotelInfo": {"Name": "Abba Atocha Hotel", "HotelURL": "/ShowUserReviews-g187514-d1225858-Reviews-Abba_Atocha_Hotel-Madrid.html", "Price": "$59 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Paseo Santa Maria de la Cabeza, 73</span>, <span class=\"locality\"><span property=\"v:postal-code\">28045</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "1225858", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/71/a2/71a21940cb18a10d6ccc9edb4de8420c6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Greece",
+      "Title": "\u201cOverall a good hotel\u201d",
+      "Author": "ToTravel_10",
+      "ReviewID": "UR129503025",
+      "Content": "hotel quiet 30 min walking atocha trainmetro station 3040 min walking prado museum considering prices city center hotel price quality deal clean toiletries products breakfast included price rich till downsides mention lobby free access wifi pleasant surprise beginning free internet lobby didnt expected limited 1h minus temperature read reviews mentioning hot mention cold night button adjusting heat didnt maybe adjust own heat persons reception willing help overall madrid stay hotel",
+      "Date": "2012-05-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "El Vendrell, Spain",
+      "Title": "\u201cOnly a short bus ride away from the museums\u201d",
+      "Author": "SandieBarcelona",
+      "ReviewID": "UR124890581",
+      "Content": "hotel located quiet madrid short metrobus ride museums centre near atocha railway station 3 star accommodation clean friendly goodcheap visitors cars secure parking free wifi reception breakfast bit pricey lots cafes nearby cafe street breakfast offer 3 euros toast coffee fresh oj metrobus",
+      "Date": "2012-02-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Gibraltar",
+      "Title": "\u201cPoor hotel location and room\u201d",
+      "Author": "thevividtraveller",
+      "ReviewID": "UR124469119",
+      "Content": "hotel situated 25 mins atocha station easy couple stations city centre maximum 1820 mins travel time city bus direct access hotel 2530 mins walk citys artistic cultural heart museo del prado reina thyssenbornemisza collection hotel wifi service common ie lobby none stayed poor looks motel tv carpet lady receptionist nice map directions male receptionist replaced helpful seeing effort city centre decided look hotel city centre decision",
+      "Date": "2012-02-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Munich, Germany",
+      "Title": "\u201cAverage rooms, poor location - but fantastic selection of toiletries!\u201d",
+      "Author": "UncleOswald",
+      "ReviewID": "UR123008906",
+      "Content": "stayed hotel nights staff helpful particularly recommended chocolate churros various museums visit location tenfifteen minute walk nearest metro station ten minute ride town ridiculously youre madrid short city break spend bit time getting city centre close atocha station thats minute walk busy main road didnt eat breakfast hotel found overpriced coffee shops nearby buying ham cheese bread supermarket eating breakfast day pretty average clean bathroom toiletries fantastic sponges shoe polisher razor toothbrushes toothpaste cologne usual shampoo body wash shower caps shower powerful bathroom spotless clean bed comfy carpets curtains outdated view waswell view clean bed comfy youre staying couple days perfectly adequate",
+      "Date": "2012-01-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "wilts",
+      "Title": "\u201cReasonable location and price\u201d",
+      "Author": "alikat32",
+      "ReviewID": "UR99392321",
+      "Content": "spent nights march 2011 short break madrid metro stations 1015 minutes walk bus stop outside hotel door hop 55 60 drop outside various metro stations walk buy tourist metro ticket 3 days pay buses metros airport found location convenient travelled easily city bit dark looked onto central comfortable clean bathroom equipped staff helpful able leave luggage day airport breakfast plenty choose stay worries luxurious value money",
+      "Date": "2011-03-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Abba Atocha Hotel",
+    "HotelURL": "/ShowUserReviews-g187514-d1225858-Reviews-Abba_Atocha_Hotel-Madrid.html",
+    "Price": "$59 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Paseo Santa Maria de la Cabeza, 73</span>, <span class=\"locality\"><span property=\"v:postal-code\">28045</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "1225858",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/71/a2/71a21940cb18a10d6ccc9edb4de8420c6large.jpg"
+  }
+}

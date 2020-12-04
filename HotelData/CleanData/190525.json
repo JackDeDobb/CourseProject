@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Hereford", "Title": "\u201cAvoid the budget rooms\u201d", "Author": "SCC2104", "ReviewID": "UR89396106", "Content": "nice stay expanded added budget ownership build date hotel thinner walled leads excessive noise door corridor exterior noise intrusion pay extra superior free internet access bonus location", "Date": "2010-12-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "NY", "Title": "\u201cNice little hotel!\u201d", "Author": "Ilona52", "ReviewID": "UR86525790", "Content": "daughter stayed 5 nights november visited berlin 20th anniversary berlin wall coming super clean comfortable despite size probably negative elevator 4th floor nonsmoking nights tired literally crawled stairs absolutely complaints staff friendly helpful free inroom computerinternet definitely plus price", "Date": "2010-11-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Harrogate", "Title": "\u201cOne of Berlin's little gems.\u201d", "Author": "BaldEagleHarrogate", "ReviewID": "UR69356511", "Content": "location opposite bahn bahn station easily accessible bus tegel airport 15 mins direct train line schonefeld airport 4550 mins pleasant walk berlins main conference centre 2025 mins pleasant green suburb staff extremely helpful computer free internet access available lounge supply coffeeteahot", "Date": "2010-07-01 00:00:00"}], "HotelInfo": {"Name": "Art-Hotel Charlottenburger Hof", "HotelURL": "/ShowUserReviews-g187323-d190525-Reviews-Art_Hotel_Charlottenburger_Hof-Berlin.html", "Price": "$72 - $130*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Stuttgarter Platz 14</span>, <span class=\"locality\"><span property=\"v:postal-code\">10627</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "190525", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c7/fd/c7fd9c8cbd958d9506a12fd52738c5057large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Hereford",
+      "Title": "\u201cAvoid the budget rooms\u201d",
+      "Author": "SCC2104",
+      "ReviewID": "UR89396106",
+      "Content": "nice stay expanded added budget ownership build date hotel thinner walled leads excessive noise door corridor exterior noise intrusion pay extra superior free internet access bonus location",
+      "Date": "2010-12-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "NY",
+      "Title": "\u201cNice little hotel!\u201d",
+      "Author": "Ilona52",
+      "ReviewID": "UR86525790",
+      "Content": "daughter stayed 5 nights november visited berlin 20th anniversary berlin wall coming super clean comfortable despite size probably negative elevator 4th floor nonsmoking nights tired literally crawled stairs absolutely complaints staff friendly helpful free inroom computerinternet definitely plus price",
+      "Date": "2010-11-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Harrogate",
+      "Title": "\u201cOne of Berlin's little gems.\u201d",
+      "Author": "BaldEagleHarrogate",
+      "ReviewID": "UR69356511",
+      "Content": "location opposite bahn bahn station easily accessible bus tegel airport 15 mins direct train line schonefeld airport 4550 mins pleasant walk berlins main conference centre 2025 mins pleasant green suburb staff extremely helpful computer free internet access available lounge supply coffeeteahot",
+      "Date": "2010-07-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Art-Hotel Charlottenburger Hof",
+    "HotelURL": "/ShowUserReviews-g187323-d190525-Reviews-Art_Hotel_Charlottenburger_Hof-Berlin.html",
+    "Price": "$72 - $130*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Stuttgarter Platz 14</span>, <span class=\"locality\"><span property=\"v:postal-code\">10627</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "190525",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c7/fd/c7fd9c8cbd958d9506a12fd52738c5057large.jpg"
+  }
+}

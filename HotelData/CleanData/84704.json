@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Kissimmee, Florida", "Title": "\u201crun as fast as you can!!!!!\u201d", "Author": "Alexis O", "ReviewID": "UR126839843", "Content": "checked hotel night fiance hotel front desk person helpful quickly checked 2 entering couldnt help ignore scent cat urine filty kept quickly decided check 2nd surprise 2nd smelled lik 100 pack light mention bed suddenly remembered seeing sign lobby saying 15 minutes passes check refund quickly grabbed fiance hurry getting lobby front desk person helpful checking giving refund leaving hotel door stadium inn suites rate 20 dollars 2000 times bad note checked inout saturday 24 28 refund im dissapointed reassured refunded day 5 days recieved ive tried contact manager 5 times spoken bad business ethics reccomend hotel mind people descent standard living please title run fast own sake", "Date": "2012-03-28 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Longmont, Colorado", "Title": "\u201c(Really) Worst Place Ever\u201d", "Author": "RLLongmont", "ReviewID": "UR123047136", "Content": "week orlando family looking economical hotel booked hotel expedia ok brief week stayed spoke individuals front desk pleasant helpful bad ive stayed hotels world 3 5 night range backpacking youth easily worst dirtiest hotel ive set foot trip time hotel 16 18 hours time time energy quickly refund found hotel black mold tub tile shower curtain thick purchased bleach spray burned night bleaching surface definitely try stay hotel lysol floors beddings incredible level filth hotel somewhat sanitized bedsheets holes fitted sheet stay attached mattress time sat bed moved laying fitted sheet popped dark brown stains mattress hotel night trash floor hair sink person stayed bad hairs sink amounts paper trash threads floor late night towels changed towels spots incredibly thin bed cleaned desk morning replace sheets vaccuum clean sheets time bed floor vaccuumed sink wiped week wouldnt noticed roach traps bathroom toilet concerned health story short avoid costs sometimes lowest priced hotel worth", "Date": "2012-01-14 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Tamuning, Mariana Islands", "Title": "\u201ccamera stolen from room when we were out for new years\u201d", "Author": "satsumasandoz", "ReviewID": "UR91469837", "Content": "stay eve 9p 2am realized morning 2 cameras stolen filed police report police surveillance video functioning cameras months sketchy ruined day staff responsible loss left camera table gone day cleaning ppl access night desk worker", "Date": "2011-01-02 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Fort Lauderdale, Florida", "Title": "\u201cit is a really bad place that caters to bad people.\u201d", "Author": "tinkerbuffy", "ReviewID": "UR76341332", "Content": "house keeping 5 10 shower sucked fast asleep driving day midnite people 2 dogs checked dogs barked cried called front desk waited dogs barking crying called desk guy afraid tell people dogs move dressed pack stuff move instead words exchanged coming money left drove hour ft pierce found nice quality inn 500 dump vacation", "Date": "2010-08-22 00:00:00"}], "HotelInfo": {"Name": "Best Vacation Inn Kissimmee", "HotelURL": "/ShowUserReviews-g34352-d84704-Reviews-Best_Vacation_Inn_Kissimmee-Kissimmee_Florida.html", "Price": "$69 - $564*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2095 East Irlo Bronson Highway</span>, <span class=\"locality\"><span property=\"v:locality\">Kissimmee</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">34744</span></span> (Formerly Days Inn Kissimmee / Heritage Park)</span></span></address>", "HotelID": "84704", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5b/37/5b3781ee1ed142f9d97b9f4fa04464964large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Kissimmee, Florida",
+      "Title": "\u201crun as fast as you can!!!!!\u201d",
+      "Author": "Alexis O",
+      "ReviewID": "UR126839843",
+      "Content": "checked hotel night fiance hotel front desk person helpful quickly checked 2 entering couldnt help ignore scent cat urine filty kept quickly decided check 2nd surprise 2nd smelled lik 100 pack light mention bed suddenly remembered seeing sign lobby saying 15 minutes passes check refund quickly grabbed fiance hurry getting lobby front desk person helpful checking giving refund leaving hotel door stadium inn suites rate 20 dollars 2000 times bad note checked inout saturday 24 28 refund im dissapointed reassured refunded day 5 days recieved ive tried contact manager 5 times spoken bad business ethics reccomend hotel mind people descent standard living please title run fast own sake",
+      "Date": "2012-03-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Longmont, Colorado",
+      "Title": "\u201c(Really) Worst Place Ever\u201d",
+      "Author": "RLLongmont",
+      "ReviewID": "UR123047136",
+      "Content": "week orlando family looking economical hotel booked hotel expedia ok brief week stayed spoke individuals front desk pleasant helpful bad ive stayed hotels world 3 5 night range backpacking youth easily worst dirtiest hotel ive set foot trip time hotel 16 18 hours time time energy quickly refund found hotel black mold tub tile shower curtain thick purchased bleach spray burned night bleaching surface definitely try stay hotel lysol floors beddings incredible level filth hotel somewhat sanitized bedsheets holes fitted sheet stay attached mattress time sat bed moved laying fitted sheet popped dark brown stains mattress hotel night trash floor hair sink person stayed bad hairs sink amounts paper trash threads floor late night towels changed towels spots incredibly thin bed cleaned desk morning replace sheets vaccuum clean sheets time bed floor vaccuumed sink wiped week wouldnt noticed roach traps bathroom toilet concerned health story short avoid costs sometimes lowest priced hotel worth",
+      "Date": "2012-01-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Tamuning, Mariana Islands",
+      "Title": "\u201ccamera stolen from room when we were out for new years\u201d",
+      "Author": "satsumasandoz",
+      "ReviewID": "UR91469837",
+      "Content": "stay eve 9p 2am realized morning 2 cameras stolen filed police report police surveillance video functioning cameras months sketchy ruined day staff responsible loss left camera table gone day cleaning ppl access night desk worker",
+      "Date": "2011-01-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Fort Lauderdale, Florida",
+      "Title": "\u201cit is a really bad place that caters to bad people.\u201d",
+      "Author": "tinkerbuffy",
+      "ReviewID": "UR76341332",
+      "Content": "house keeping 5 10 shower sucked fast asleep driving day midnite people 2 dogs checked dogs barked cried called front desk waited dogs barking crying called desk guy afraid tell people dogs move dressed pack stuff move instead words exchanged coming money left drove hour ft pierce found nice quality inn 500 dump vacation",
+      "Date": "2010-08-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Best Vacation Inn Kissimmee",
+    "HotelURL": "/ShowUserReviews-g34352-d84704-Reviews-Best_Vacation_Inn_Kissimmee-Kissimmee_Florida.html",
+    "Price": "$69 - $564*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2095 East Irlo Bronson Highway</span>, <span class=\"locality\"><span property=\"v:locality\">Kissimmee</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">34744</span></span> (Formerly Days Inn Kissimmee / Heritage Park)</span></span></address>",
+    "HotelID": "84704",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5b/37/5b3781ee1ed142f9d97b9f4fa04464964large.jpg"
+  }
+}

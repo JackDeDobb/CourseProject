@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Bristol, United Kingdom", "Title": "\u201cexceptional service!\u201d", "Author": "steven r", "ReviewID": "UR127126870", "Content": "family visited istanbul recently decided stay near family friends live found aura suites online decided book close friends apartment absolutely amazed clean comfortable luxurious accommodation friendly staff helpful visit istanbul absolute pleasure definitely return highly recommend apartments couples families alike staffs helpful professional attitude special difference stay thank aura suites", "Date": "2012-04-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "shiraz", "Title": "\u201cappreciation\u201d", "Author": "kamyar1973", "ReviewID": "UR126686766", "Content": "wife daughter spent wonderful week istanbul wonderful nice historical spectacular natural staying clean equipped bedrooms aura suites helpful hotel personel helped trip dream highly recommanded", "Date": "2012-03-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Washington DC, District of Columbia", "Title": "\u201cJust Outstanding\u201d", "Author": "MO-DC2012", "ReviewID": "UR126580667", "Content": "hearing numerous stories challenging istanbul critical stay hotel aesthetic hospitable aura suites highly recommended experience luxury stay paying luxurious money suites clean relatively noise free yes noise free luxury instanbul little bit touristy sites sultanahmet worth bc family stayed sultanahmet complained noise level constantly bebek georgetown washington dc istanbul staff aura suites 5star extremely helpful hospital stay quality staff", "Date": "2012-03-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Mount Shasta, California", "Title": "\u201cA Gem in the Big City\u201d", "Author": "Victoria L", "ReviewID": "UR120716856", "Content": "weeks stay istanbul incredible aura suites outstanding home onebedroom penthouse suite perfect staff accommodating highly recommended thank memorable", "Date": "2011-11-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "New Delhi, India", "Title": "\u201cAura Suites is a value for money and an excellent hotel to stay if you are planning a trip to \u00c4\u00b0stanbul.\u201d", "Author": "AmarjeetBatra", "ReviewID": "UR92443103", "Content": "\u00e4\u00b0 \u00e4\u00b0stanbul business trip duration nearly month suggested colleague company 2 guys appartment provision sometimes cook facility available necessities \u00e4\u00b0 stay hospitality shown staff \u00e4\u00b0 \u00e4\u00b0 nice friends \u00e4\u00b0 time \u00e4\u00b0stanbul \u00e4\u00b0 surely prefer th\u00e4\u00b1s amar", "Date": "2011-01-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Dubai, United Arab Emirates", "Title": "\u201cGreat stay on a budget\u201d", "Author": "Discoverer_21", "ReviewID": "UR89901834", "Content": "normally stayed 5 hotels istanbul nice price moment plan trip istanbul short notice none 5 hotels available found aura suites honest bit skeptical impressed found clean cozy brand feel home couldnt lot difference compared 5 yes mini bar service time dinner colleagues didnt matter price 5 hotels cant beat aprox half price 5 personel nice ready assist time aura downside lot taxis takes", "Date": "2010-12-15 00:00:00"}], "HotelInfo": {"Name": "Aura Suites", "HotelURL": "/ShowUserReviews-g293974-d1909798-Reviews-Aura_Suites-Istanbul.html", "Price": "$169 - $222*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gayrettepe Mah.</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34349</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "1909798", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/68/90/3d/living-area.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bristol, United Kingdom",
+      "Title": "\u201cexceptional service!\u201d",
+      "Author": "steven r",
+      "ReviewID": "UR127126870",
+      "Content": "family visited istanbul recently decided stay near family friends live found aura suites online decided book close friends apartment absolutely amazed clean comfortable luxurious accommodation friendly staff helpful visit istanbul absolute pleasure definitely return highly recommend apartments couples families alike staffs helpful professional attitude special difference stay thank aura suites",
+      "Date": "2012-04-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "shiraz",
+      "Title": "\u201cappreciation\u201d",
+      "Author": "kamyar1973",
+      "ReviewID": "UR126686766",
+      "Content": "wife daughter spent wonderful week istanbul wonderful nice historical spectacular natural staying clean equipped bedrooms aura suites helpful hotel personel helped trip dream highly recommanded",
+      "Date": "2012-03-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Washington DC, District of Columbia",
+      "Title": "\u201cJust Outstanding\u201d",
+      "Author": "MO-DC2012",
+      "ReviewID": "UR126580667",
+      "Content": "hearing numerous stories challenging istanbul critical stay hotel aesthetic hospitable aura suites highly recommended experience luxury stay paying luxurious money suites clean relatively noise free yes noise free luxury instanbul little bit touristy sites sultanahmet worth bc family stayed sultanahmet complained noise level constantly bebek georgetown washington dc istanbul staff aura suites 5star extremely helpful hospital stay quality staff",
+      "Date": "2012-03-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Mount Shasta, California",
+      "Title": "\u201cA Gem in the Big City\u201d",
+      "Author": "Victoria L",
+      "ReviewID": "UR120716856",
+      "Content": "weeks stay istanbul incredible aura suites outstanding home onebedroom penthouse suite perfect staff accommodating highly recommended thank memorable",
+      "Date": "2011-11-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "New Delhi, India",
+      "Title": "\u201cAura Suites is a value for money and an excellent hotel to stay if you are planning a trip to \u00c4\u00b0stanbul.\u201d",
+      "Author": "AmarjeetBatra",
+      "ReviewID": "UR92443103",
+      "Content": "\u00e4\u00b0 \u00e4\u00b0stanbul business trip duration nearly month suggested colleague company 2 guys appartment provision sometimes cook facility available necessities \u00e4\u00b0 stay hospitality shown staff \u00e4\u00b0 \u00e4\u00b0 nice friends \u00e4\u00b0 time \u00e4\u00b0stanbul \u00e4\u00b0 surely prefer th\u00e4\u00b1s amar",
+      "Date": "2011-01-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Dubai, United Arab Emirates",
+      "Title": "\u201cGreat stay on a budget\u201d",
+      "Author": "Discoverer_21",
+      "ReviewID": "UR89901834",
+      "Content": "normally stayed 5 hotels istanbul nice price moment plan trip istanbul short notice none 5 hotels available found aura suites honest bit skeptical impressed found clean cozy brand feel home couldnt lot difference compared 5 yes mini bar service time dinner colleagues didnt matter price 5 hotels cant beat aprox half price 5 personel nice ready assist time aura downside lot taxis takes",
+      "Date": "2010-12-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Aura Suites",
+    "HotelURL": "/ShowUserReviews-g293974-d1909798-Reviews-Aura_Suites-Istanbul.html",
+    "Price": "$169 - $222*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gayrettepe Mah.</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34349</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "1909798",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/68/90/3d/living-area.jpg"
+  }
+}

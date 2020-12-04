@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Warsaw, Poland", "Title": "\u201cVery good location.\u201d", "Author": "agnieszkab6", "ReviewID": "UR125808617", "Content": "little hotel location city center 20 meters termini station metro 3 stops reach colosseum spanish steps fontain di trevi clean nice air conditioning laptop free wifi television sky gratis staff helpfull relation", "Date": "2012-03-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Highlands Ranch, Colorado", "Title": "\u201cExcellent stay at Hotel Viennese\u201d", "Author": "Travellover4444", "ReviewID": "UR122325417", "Content": "6 occupied 3 4 nights advertised 150 square feet extra clean clean hotel outstanding amenities usually hotel low tvs laptop computers internet staff person available desk 24 hours day staff person morning night assist maps directions suggestions etc staff person spoke english italian staff treated family continental breakfast served restaurant door consisted sweet roll donut choice drink coffee juice purchase additional food items wish found food days started location hotel rome street main railway station station sound bad atmosphere main street termini station safe plenty stores restaurants etc bothered time left returned hotel ideal location walk subway termini station wish safe experienced unpleasant experiences hotel outside hotel bus airport stopped termini station bus walk 20 yards 20 meters front door hotel nice international flight elevator typical european 2 3 people people elevator 2 size inside cabins cruise adequate sightseeing rome hotel primarily sleep anyway plan stay trip rome highly recommend hotel looking clean hotel staff excellent location rome wont hotel money rome", "Date": "2011-12-31 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Surfers Paradise, Australia", "Title": "\u201cwhat a terrible place to stay\u201d", "Author": "Robyn L", "ReviewID": "UR120075020", "Content": "stay shocking arrived late night arrangements late check booked 4 nights no2 called dump seen closets bigger bathroom called bathroom shower curtain toilet towel door water wouldnt run total time money beware book hotel dump", "Date": "2011-11-02 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Belfast, United Kingdom", "Title": "\u201cit was a biggest mistake to decide this hotel , horrible place !! beware of it\u201d", "Author": "drpran_tik", "ReviewID": "UR108317602", "Content": "stayed night 2011 advertised 3 star 1 star below mistake pay attention previous poor reviews suffered time rome probably prefer stay overnight railway station staying hotel", "Date": "2011-05-15 00:00:00"}], "HotelInfo": {"Name": "Hotel Viennese", "HotelURL": "/ShowUserReviews-g187791-d324710-Reviews-Hotel_Viennese-Rome_Lazio.html", "Price": "$79 - $158*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Marsala 64</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "324710", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/35/dc/bd/di-fronte-la-stazione.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Warsaw, Poland",
+      "Title": "\u201cVery good location.\u201d",
+      "Author": "agnieszkab6",
+      "ReviewID": "UR125808617",
+      "Content": "little hotel location city center 20 meters termini station metro 3 stops reach colosseum spanish steps fontain di trevi clean nice air conditioning laptop free wifi television sky gratis staff helpfull relation",
+      "Date": "2012-03-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Highlands Ranch, Colorado",
+      "Title": "\u201cExcellent stay at Hotel Viennese\u201d",
+      "Author": "Travellover4444",
+      "ReviewID": "UR122325417",
+      "Content": "6 occupied 3 4 nights advertised 150 square feet extra clean clean hotel outstanding amenities usually hotel low tvs laptop computers internet staff person available desk 24 hours day staff person morning night assist maps directions suggestions etc staff person spoke english italian staff treated family continental breakfast served restaurant door consisted sweet roll donut choice drink coffee juice purchase additional food items wish found food days started location hotel rome street main railway station station sound bad atmosphere main street termini station safe plenty stores restaurants etc bothered time left returned hotel ideal location walk subway termini station wish safe experienced unpleasant experiences hotel outside hotel bus airport stopped termini station bus walk 20 yards 20 meters front door hotel nice international flight elevator typical european 2 3 people people elevator 2 size inside cabins cruise adequate sightseeing rome hotel primarily sleep anyway plan stay trip rome highly recommend hotel looking clean hotel staff excellent location rome wont hotel money rome",
+      "Date": "2011-12-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Surfers Paradise, Australia",
+      "Title": "\u201cwhat a terrible place to stay\u201d",
+      "Author": "Robyn L",
+      "ReviewID": "UR120075020",
+      "Content": "stay shocking arrived late night arrangements late check booked 4 nights no2 called dump seen closets bigger bathroom called bathroom shower curtain toilet towel door water wouldnt run total time money beware book hotel dump",
+      "Date": "2011-11-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Belfast, United Kingdom",
+      "Title": "\u201cit was a biggest mistake to decide this hotel , horrible place !! beware of it\u201d",
+      "Author": "drpran_tik",
+      "ReviewID": "UR108317602",
+      "Content": "stayed night 2011 advertised 3 star 1 star below mistake pay attention previous poor reviews suffered time rome probably prefer stay overnight railway station staying hotel",
+      "Date": "2011-05-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Viennese",
+    "HotelURL": "/ShowUserReviews-g187791-d324710-Reviews-Hotel_Viennese-Rome_Lazio.html",
+    "Price": "$79 - $158*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Marsala 64</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "324710",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/35/dc/bd/di-fronte-la-stazione.jpg"
+  }
+}

@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 4.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "LA", "Title": "\u201cNot so great!\u201d", "Author": "lovebug123", "ReviewID": "UR121256630", "Content": "travel business time opportunity stay hotels ritz motel 6 people look hotel family looking clearn affordable safe visited dad south san diego spend time hotel decided spend money clean decent hotel customer service lady front desk friendly helpful bed comfortable breakfast decent extent positive real kitchenette sink clogged arrived smelled bad furniture carpet dingy manager unclog sink left 12 inch knife sharp bathroom sink found handed straw broke camels mine shocked reaction oh forgot knife called roll bed couch smelly dirty found charge informing price charge explanation cheap motel maam cheap hotels dont charge roll beds sense knife grabbed family ran hills location stinks surrounded industrial toxins huge trucks line cross border remotely except mexico happen passport reason hotel credit nice front desk lady comfy bed hotel awful", "Date": "2011-11-30 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cClean and convenient, but thin walls!\u201d", "Author": "Professional_Fan", "ReviewID": "UR109960115", "Content": "stayed attending cricket wireless amphitheater none party drive hotel close clean smelt hadnt aired beds comfy smell definitely wasnt reflection cleaniness staff friendly woman front desk embarrassing advice regarding nearby restaurant told walk luggage blocks called cab literally corner resulted annoyed cab driver whod job colleague didnt bother embarrassment complaint walls extremely thin hear people snoring suite overall value price approx 95 perfect attending concert 10 miles cab", "Date": "2011-05-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Provo Utah", "Title": "\u201cCould not have been happier\u201d", "Author": "gbthecoach", "ReviewID": "UR83842630", "Content": "ok reviews near downtown san diego walk happen hence 4 star 5 location business south east san diego friendly comfort suites stayed gentleman checking friendly talkative checking care ok stay bottles water tijuana 4pm night directions advice lived eat directions park walk border fantastic impression bed comfortable pillow top hotel hate lousy hotel beds spending 100 hotelmotel dont expect bed hotel spend 30 nights average fridge spotless am staying time am town morning enjoyed breakfast found car battery 3 people morning calling budget getting 2 hour quote time front desk help cables front desk 3 minutes easy faults travel times wrote property vastly exceeds expectations deserve praise wish remembered name checked guy train hotel worker amazed friendly staff clean nice bed 70 san diego am coming thank comfort suites mesa fantastic stay", "Date": "2010-10-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "mesa", "Title": "\u201ca good place to stay in south bay of san diego\u201d", "Author": "jackcheese", "ReviewID": "UR73962508", "Content": "family stayed couple days weekend excellent hot breakfast day lot choice clean extra space service nice staff location border downtown ihop subway mcdonald near", "Date": "2010-08-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "chicago,il", "Title": "\u201cGreat Hotel for the value\u201d", "Author": "argonauts52", "ReviewID": "UR65327858", "Content": "hotel 60 night mexico day hotel border clean staff location lousy terms restaurants hotels fault mind price spend night mexico day", "Date": "2010-05-25 00:00:00"}], "HotelInfo": {"Name": "Comfort Suites Otay Mesa", "HotelURL": "/ShowUserReviews-g60750-d83322-Reviews-Comfort_Suites_Otay_Mesa-San_Diego_California.html", "Price": "$80 - $123*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2351 Otay Center Ct.</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92154-7614</span></span> </span> </span> </address>", "HotelID": "2515570", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c5/58/c55856ee0ce133c766b15d086dd7c8dd4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "LA",
+      "Title": "\u201cNot so great!\u201d",
+      "Author": "lovebug123",
+      "ReviewID": "UR121256630",
+      "Content": "travel business time opportunity stay hotels ritz motel 6 people look hotel family looking clearn affordable safe visited dad south san diego spend time hotel decided spend money clean decent hotel customer service lady front desk friendly helpful bed comfortable breakfast decent extent positive real kitchenette sink clogged arrived smelled bad furniture carpet dingy manager unclog sink left 12 inch knife sharp bathroom sink found handed straw broke camels mine shocked reaction oh forgot knife called roll bed couch smelly dirty found charge informing price charge explanation cheap motel maam cheap hotels dont charge roll beds sense knife grabbed family ran hills location stinks surrounded industrial toxins huge trucks line cross border remotely except mexico happen passport reason hotel credit nice front desk lady comfy bed hotel awful",
+      "Date": "2011-11-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cClean and convenient, but thin walls!\u201d",
+      "Author": "Professional_Fan",
+      "ReviewID": "UR109960115",
+      "Content": "stayed attending cricket wireless amphitheater none party drive hotel close clean smelt hadnt aired beds comfy smell definitely wasnt reflection cleaniness staff friendly woman front desk embarrassing advice regarding nearby restaurant told walk luggage blocks called cab literally corner resulted annoyed cab driver whod job colleague didnt bother embarrassment complaint walls extremely thin hear people snoring suite overall value price approx 95 perfect attending concert 10 miles cab",
+      "Date": "2011-05-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Provo Utah",
+      "Title": "\u201cCould not have been happier\u201d",
+      "Author": "gbthecoach",
+      "ReviewID": "UR83842630",
+      "Content": "ok reviews near downtown san diego walk happen hence 4 star 5 location business south east san diego friendly comfort suites stayed gentleman checking friendly talkative checking care ok stay bottles water tijuana 4pm night directions advice lived eat directions park walk border fantastic impression bed comfortable pillow top hotel hate lousy hotel beds spending 100 hotelmotel dont expect bed hotel spend 30 nights average fridge spotless am staying time am town morning enjoyed breakfast found car battery 3 people morning calling budget getting 2 hour quote time front desk help cables front desk 3 minutes easy faults travel times wrote property vastly exceeds expectations deserve praise wish remembered name checked guy train hotel worker amazed friendly staff clean nice bed 70 san diego am coming thank comfort suites mesa fantastic stay",
+      "Date": "2010-10-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "mesa",
+      "Title": "\u201ca good place to stay in south bay of san diego\u201d",
+      "Author": "jackcheese",
+      "ReviewID": "UR73962508",
+      "Content": "family stayed couple days weekend excellent hot breakfast day lot choice clean extra space service nice staff location border downtown ihop subway mcdonald near",
+      "Date": "2010-08-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "chicago,il",
+      "Title": "\u201cGreat Hotel for the value\u201d",
+      "Author": "argonauts52",
+      "ReviewID": "UR65327858",
+      "Content": "hotel 60 night mexico day hotel border clean staff location lousy terms restaurants hotels fault mind price spend night mexico day",
+      "Date": "2010-05-25 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Comfort Suites Otay Mesa",
+    "HotelURL": "/ShowUserReviews-g60750-d83322-Reviews-Comfort_Suites_Otay_Mesa-San_Diego_California.html",
+    "Price": "$80 - $123*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2351 Otay Center Ct.</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92154-7614</span></span> </span> </span> </address>",
+    "HotelID": "2515570",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c5/58/c55856ee0ce133c766b15d086dd7c8dd4large.jpg"
+  }
+}

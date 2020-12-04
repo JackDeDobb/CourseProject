@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Ghent, Belgium", "Title": "\u201csplendid stay in the center of Rome\u201d", "Author": "lucdossche", "ReviewID": "UR125784269", "Content": "indeed renting town real hotel hotel hardly bb wonderfull 5 6 pleasant lobby spends days 2 square meters recommend doesnt real hotel rome", "Date": "2012-03-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Dublin", "Title": "\u201cUnbeatable location!\u201d", "Author": "Dorrra", "ReviewID": "UR124514282", "Content": "stayed night visiting rome weekend absolutely accommodation location literally corner spanish steps spanish metro station 2mins via del corso 10mins piazza navona 15mins vatican city compact norm rome clean 2011 brand white walls decor probably wear quickly stayed bed comfortable changing lights super cool fault shower floods floor super careful ipad guest nice touch wifi devices aloud ipad visit city greeted couldnt helpful actually liked idea breakfast cafe door close rainy day wouldnt bothersome prospect la italian cafe locals cappuccino morning espresso day choose items person absolutely 3 coffees 2 sandwiches cake share highly recommend minimalist nontraditional hotel", "Date": "2012-02-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "", "Title": "\u201cEXCELLENT!!\u201d", "Author": "flomus", "ReviewID": "UR123997266", "Content": "bb location perfect staff helpful booked night paid extra love close turistic clean comfortable visit rome love stay hotel", "Date": "2012-02-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Serres, Greece", "Title": "\u201cirooms hotel by spanish steps Dream Team\u201d", "Author": "Chris D", "ReviewID": "UR123037029", "Content": "visited hotel stayed 3 days impressed service hospitality people run hotel nice boutique quiet hotel spot rome comfortable beds minimal nice touches delicious brekfast authentic espressos coffee shops city strongly recommended", "Date": "2012-01-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Ontario", "Title": "\u201cGreat for a Short Stay in Rome!\u201d", "Author": "CanadianThunders", "ReviewID": "UR121829600", "Content": "call hotel sits floor 3 day stint perfect enter door street climb flight stairs lobby reception hotel manager owner greet delight life buzzing energy checked jiffy thank directions comfortable bed bathroom shower built jacuzzi cleaned daily basis standard breakfast typical italian cafe exactly 4 steps hotels main door choose pieces coffee sandwiches humungous yummy italian cold cuts location absolutely perfect unbeatable middle walk spanish steps stones throw forum coloseum mere 20 minute walk looking enjoy toom own clean comfy recommend frills convenience", "Date": "2011-12-17 00:00:00"}], "HotelInfo": {"Name": "iRooms Spanish Steps", "HotelURL": "/ShowUserReviews-g187791-d2098163-Reviews-IRooms_Spanish_Steps-Rome_Lazio.html", "Price": "$166 - $396*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Vittoria, 32</span> | <span class=\"extended-address\">interno 2 - Primo piano</span>, <span class=\"locality\"><span property=\"v:postal-code\">00187</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "2098163", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/dc/2e/dc2ea4811cb59b8ad97b1d37c87943be15large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ghent, Belgium",
+      "Title": "\u201csplendid stay in the center of Rome\u201d",
+      "Author": "lucdossche",
+      "ReviewID": "UR125784269",
+      "Content": "indeed renting town real hotel hotel hardly bb wonderfull 5 6 pleasant lobby spends days 2 square meters recommend doesnt real hotel rome",
+      "Date": "2012-03-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dublin",
+      "Title": "\u201cUnbeatable location!\u201d",
+      "Author": "Dorrra",
+      "ReviewID": "UR124514282",
+      "Content": "stayed night visiting rome weekend absolutely accommodation location literally corner spanish steps spanish metro station 2mins via del corso 10mins piazza navona 15mins vatican city compact norm rome clean 2011 brand white walls decor probably wear quickly stayed bed comfortable changing lights super cool fault shower floods floor super careful ipad guest nice touch wifi devices aloud ipad visit city greeted couldnt helpful actually liked idea breakfast cafe door close rainy day wouldnt bothersome prospect la italian cafe locals cappuccino morning espresso day choose items person absolutely 3 coffees 2 sandwiches cake share highly recommend minimalist nontraditional hotel",
+      "Date": "2012-02-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cEXCELLENT!!\u201d",
+      "Author": "flomus",
+      "ReviewID": "UR123997266",
+      "Content": "bb location perfect staff helpful booked night paid extra love close turistic clean comfortable visit rome love stay hotel",
+      "Date": "2012-02-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Serres, Greece",
+      "Title": "\u201cirooms hotel by spanish steps Dream Team\u201d",
+      "Author": "Chris D",
+      "ReviewID": "UR123037029",
+      "Content": "visited hotel stayed 3 days impressed service hospitality people run hotel nice boutique quiet hotel spot rome comfortable beds minimal nice touches delicious brekfast authentic espressos coffee shops city strongly recommended",
+      "Date": "2012-01-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ontario",
+      "Title": "\u201cGreat for a Short Stay in Rome!\u201d",
+      "Author": "CanadianThunders",
+      "ReviewID": "UR121829600",
+      "Content": "call hotel sits floor 3 day stint perfect enter door street climb flight stairs lobby reception hotel manager owner greet delight life buzzing energy checked jiffy thank directions comfortable bed bathroom shower built jacuzzi cleaned daily basis standard breakfast typical italian cafe exactly 4 steps hotels main door choose pieces coffee sandwiches humungous yummy italian cold cuts location absolutely perfect unbeatable middle walk spanish steps stones throw forum coloseum mere 20 minute walk looking enjoy toom own clean comfy recommend frills convenience",
+      "Date": "2011-12-17 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "iRooms Spanish Steps",
+    "HotelURL": "/ShowUserReviews-g187791-d2098163-Reviews-IRooms_Spanish_Steps-Rome_Lazio.html",
+    "Price": "$166 - $396*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Vittoria, 32</span> | <span class=\"extended-address\">interno 2 - Primo piano</span>, <span class=\"locality\"><span property=\"v:postal-code\">00187</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "2098163",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/dc/2e/dc2ea4811cb59b8ad97b1d37c87943be15large.jpg"
+  }
+}

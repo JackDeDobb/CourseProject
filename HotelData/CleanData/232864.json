@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Hong Kong, China", "Title": "\u201cA very good choice if you are on a budget!\u201d", "Author": "eliang2010", "ReviewID": "UR123064921", "Content": "stayed hotel 2 nights worth staying budget friendly staff cleanliness admittedly hotel remote city centre prepared takes time city centre metro bus takes lot effort time hotel hotel owner im free ride metro morning saves lot time friendly travel spotless cosy hotel provides free wifi free hot drinks computer lobby printer available print maps train schedule free useful thoughtful", "Date": "2012-01-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Devizes, United Kingdom", "Title": "\u201cgood value hotel\u201d", "Author": "Small30", "ReviewID": "UR78135991", "Content": "hotel clean functional ideal park car travel rome public transport clean appointed price air conditioning staff friendly helpfull spoke english bus runs past hotel metro hotel staff metro costs 1 euro 75 minutes travel 35 mins average hotel termini station top tour bus rome value 18 euro 2 days adult hop ate la 400 metres hotel georgio owners son speaks english food totally italian main course drink 46 euro friendly welcoming day sightseeing ideal", "Date": "2010-09-03 00:00:00"}], "HotelInfo": {"Name": "Hotel Victor", "HotelURL": "/ShowUserReviews-g187791-d232864-Reviews-Hotel_Victor-Rome_Lazio.html", "Price": "$57 - $159*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Annia Regilla 60, Appia Pignatelli</span>, <span class=\"locality\"><span property=\"v:postal-code\">00178</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "232864", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ee/ee/eeee8f5621346d102636e062a9d65b237large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Hong Kong, China",
+      "Title": "\u201cA very good choice if you are on a budget!\u201d",
+      "Author": "eliang2010",
+      "ReviewID": "UR123064921",
+      "Content": "stayed hotel 2 nights worth staying budget friendly staff cleanliness admittedly hotel remote city centre prepared takes time city centre metro bus takes lot effort time hotel hotel owner im free ride metro morning saves lot time friendly travel spotless cosy hotel provides free wifi free hot drinks computer lobby printer available print maps train schedule free useful thoughtful",
+      "Date": "2012-01-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Devizes, United Kingdom",
+      "Title": "\u201cgood value hotel\u201d",
+      "Author": "Small30",
+      "ReviewID": "UR78135991",
+      "Content": "hotel clean functional ideal park car travel rome public transport clean appointed price air conditioning staff friendly helpfull spoke english bus runs past hotel metro hotel staff metro costs 1 euro 75 minutes travel 35 mins average hotel termini station top tour bus rome value 18 euro 2 days adult hop ate la 400 metres hotel georgio owners son speaks english food totally italian main course drink 46 euro friendly welcoming day sightseeing ideal",
+      "Date": "2010-09-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Victor",
+    "HotelURL": "/ShowUserReviews-g187791-d232864-Reviews-Hotel_Victor-Rome_Lazio.html",
+    "Price": "$57 - $159*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Annia Regilla 60, Appia Pignatelli</span>, <span class=\"locality\"><span property=\"v:postal-code\">00178</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "232864",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ee/ee/eeee8f5621346d102636e062a9d65b237large.jpg"
+  }
+}

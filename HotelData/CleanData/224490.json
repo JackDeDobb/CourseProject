@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Seattle, Washington", "Title": "\u201cPoor Experience Nov '11\u201d", "Author": "MissNic253", "ReviewID": "UR120595906", "Content": "recently stayed 5 nights hotel except proximity beach maid stole phone charger walls paper thin located busy street loud traffic paper thin walls keys door plastic cards whic security concern look feel outdated doing construction hotel morning 7am appreciated additionally maid towels bathroom replaced none floor obviously arent worried conservation recommend hotel friends", "Date": "2011-11-14 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Las Vegas, Nevada, United States", "Title": "\u201cBad bed and slamming door\u201d", "Author": "Juliet640", "ReviewID": "UR120099413", "Content": "checked hotel 11am additional charge greatly appreciated driving night ok guess dive bed hard comfortable kept waking night noise loud worse summer due amount 20 kids door smoking illegal stuff loud doors card swipe fashion actual key lose charge 20 bucks hold onto beach doors slam close knobs outside wake hearing door slammed closed close beach shops walk plus clean serviced rest days days slept till 11am 12 noon maid service guess leave goes floor shes floor forget coming told hotel staff didnt care tv remote control shower stall head water sprays stay learned lesson pay plus parking bad 6 spots luck summer time", "Date": "2011-11-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Tempe, Arizona", "Title": "\u201cGreat for a budget\u201d", "Author": "nitro712", "ReviewID": "UR118433348", "Content": "nice hotel budget park parking space pretty walk wherever else lot stay limited budget stay dont expect 5 star quality 2 star price 3 star quality 3 star price pay", "Date": "2011-09-22 00:00:00"}], "HotelInfo": {"Name": "Seacoast Palms Inn", "HotelURL": "/ShowUserReviews-g60750-d224490-Reviews-Seacoast_Palms_Inn-San_Diego_California.html", "Price": "$82 - $247*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4760 Mission Blvd</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92109-2539</span></span> </span> </span> </address>", "HotelID": "224490", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/22/d1/22d18f69b76d21db7737505986d2e9869large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Seattle, Washington",
+      "Title": "\u201cPoor Experience Nov '11\u201d",
+      "Author": "MissNic253",
+      "ReviewID": "UR120595906",
+      "Content": "recently stayed 5 nights hotel except proximity beach maid stole phone charger walls paper thin located busy street loud traffic paper thin walls keys door plastic cards whic security concern look feel outdated doing construction hotel morning 7am appreciated additionally maid towels bathroom replaced none floor obviously arent worried conservation recommend hotel friends",
+      "Date": "2011-11-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Las Vegas, Nevada, United States",
+      "Title": "\u201cBad bed and slamming door\u201d",
+      "Author": "Juliet640",
+      "ReviewID": "UR120099413",
+      "Content": "checked hotel 11am additional charge greatly appreciated driving night ok guess dive bed hard comfortable kept waking night noise loud worse summer due amount 20 kids door smoking illegal stuff loud doors card swipe fashion actual key lose charge 20 bucks hold onto beach doors slam close knobs outside wake hearing door slammed closed close beach shops walk plus clean serviced rest days days slept till 11am 12 noon maid service guess leave goes floor shes floor forget coming told hotel staff didnt care tv remote control shower stall head water sprays stay learned lesson pay plus parking bad 6 spots luck summer time",
+      "Date": "2011-11-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Tempe, Arizona",
+      "Title": "\u201cGreat for a budget\u201d",
+      "Author": "nitro712",
+      "ReviewID": "UR118433348",
+      "Content": "nice hotel budget park parking space pretty walk wherever else lot stay limited budget stay dont expect 5 star quality 2 star price 3 star quality 3 star price pay",
+      "Date": "2011-09-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Seacoast Palms Inn",
+    "HotelURL": "/ShowUserReviews-g60750-d224490-Reviews-Seacoast_Palms_Inn-San_Diego_California.html",
+    "Price": "$82 - $247*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4760 Mission Blvd</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92109-2539</span></span> </span> </span> </address>",
+    "HotelID": "224490",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/22/d1/22d18f69b76d21db7737505986d2e9869large.jpg"
+  }
+}

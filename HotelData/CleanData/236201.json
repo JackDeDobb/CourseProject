@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Canberra", "Title": "\u201cAn art lover's delight\u201d", "Author": "Amyrlin", "ReviewID": "UR133221289", "Content": "little gem pension walking distance gentle stroll metro stations puerta de sol plaza mayor centre madrid art museums prado reina de sofia spitting distance airport bus stop easy 300 metres delightful cafebar door provides wifi access fantastic breakfast tidy clean towels provided daily cleaner bed head dusted time cigarette smoke drifted windows central apartment building preference using airconditioning disconcerting people dont mind dust cigarette smoke ideal pension offer excellent value money consider staying recommend friends", "Date": "2012-07-02 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Baldock, United Kingdom", "Title": "\u201cOutstanding location, spotless and authentic\u201d", "Author": "IanM327", "ReviewID": "UR133173715", "Content": "discovered gem rough guide whilst living madrid friends family stay visit 12 ago cheap youd real madrid east 5 minutes walk prado 10 retiro west 5 minutes pl sta ana 10 sol left outside front door west street 50 metres youre heart fantastic tapas direction plaza santa ana wonderful spend hours watching madrilenos drinking natural brown beer bar hostals facilities adequately described reviews helpful breakfast provided bar casa foot stairs owned wonderful alfredo hes friendly helpful laughter dont patrons speak neednt theres experience madrid dont hostal 20 minutes barajas catch airport bus outside terminal building 5 euros look stops neon sign cibeles youre brave wait leave cibeles driver drop stop bus doesnt normally stop stops stop calle cervantes didnt recommend harder book owners deserve praise", "Date": "2012-07-01 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Johannesburg", "Title": "\u201cGreat location! Madrid experience!\u201d", "Author": "Lia N", "ReviewID": "UR127917804", "Content": "cute little hostel price location ideal budget travel close metro bus stops main attractions prado museum figured narrow little streets surrounding lot easier anticipated easy walk main sights puerto del sol palace stay ideal madrid experience range unique shops bars starbucks 100ft owner friendly speak english smiled clean terrace looking narrow street below beds nice bathroom grown trouble moving otherwise greatly reccomend staying", "Date": "2012-04-15 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Falkirk, United Kingdom", "Title": "\u201cSpotless and ideal location\u201d", "Author": "Gillz79", "ReviewID": "UR86423286", "Content": "booked hostal based location visiting friends madrid close metro nightlife couldnt picked location im baffled reviews stating owner rude found friendly welcoming didnt speak english managed communicate little spanish lot hand signals sheets towels changed day bathroom kept spotless safety deposit box main doors locked night secure safe walls thin hear door getting shower owners cleaning morning corridor hostal residential building hear child upstairs running living flat uk didnt bother location spotlessly clean friendly helpful staff \u00a320 night excellant value", "Date": "2010-11-08 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Washington DC, District of Columbia", "Title": "\u201cNoisy at night, rude and nosy guy\u201d", "Author": "LorenaMP", "ReviewID": "UR58744688", "Content": "excellent location tiny clean guy desk nosy rude nights night decided rearrange furniture floor sleep bad", "Date": "2010-03-16 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Rapid City, South Dakota", "Title": "\u201cCompletely average hostal. Slightly overpriced.\u201d", "Author": "Sheenayparaguas", "ReviewID": "UR58168409", "Content": "utterly average sized bed bathroom lock box leave bags checkout day location bearings trouble finding quick walk prado retiro plazas west metro stations airport 2 euros cant complain 2 ownersmanagers friendly walls bit thin noise noticeable day breakfast internet available nearby shops overall start getting familiar attractions getting jet lag", "Date": "2010-03-09 00:00:00"}], "HotelInfo": {"Name": "Hostal Dulcinea", "HotelURL": "/ShowUserReviews-g187514-d236201-Reviews-Hostal_Dulcinea-Madrid.html", "Price": "$49 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Cervantes 19</span>, <span class=\"locality\"><span property=\"v:postal-code\">28014</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "236201", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/12/46/ca/madrid.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Canberra",
+      "Title": "\u201cAn art lover's delight\u201d",
+      "Author": "Amyrlin",
+      "ReviewID": "UR133221289",
+      "Content": "little gem pension walking distance gentle stroll metro stations puerta de sol plaza mayor centre madrid art museums prado reina de sofia spitting distance airport bus stop easy 300 metres delightful cafebar door provides wifi access fantastic breakfast tidy clean towels provided daily cleaner bed head dusted time cigarette smoke drifted windows central apartment building preference using airconditioning disconcerting people dont mind dust cigarette smoke ideal pension offer excellent value money consider staying recommend friends",
+      "Date": "2012-07-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Baldock, United Kingdom",
+      "Title": "\u201cOutstanding location, spotless and authentic\u201d",
+      "Author": "IanM327",
+      "ReviewID": "UR133173715",
+      "Content": "discovered gem rough guide whilst living madrid friends family stay visit 12 ago cheap youd real madrid east 5 minutes walk prado 10 retiro west 5 minutes pl sta ana 10 sol left outside front door west street 50 metres youre heart fantastic tapas direction plaza santa ana wonderful spend hours watching madrilenos drinking natural brown beer bar hostals facilities adequately described reviews helpful breakfast provided bar casa foot stairs owned wonderful alfredo hes friendly helpful laughter dont patrons speak neednt theres experience madrid dont hostal 20 minutes barajas catch airport bus outside terminal building 5 euros look stops neon sign cibeles youre brave wait leave cibeles driver drop stop bus doesnt normally stop stops stop calle cervantes didnt recommend harder book owners deserve praise",
+      "Date": "2012-07-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Johannesburg",
+      "Title": "\u201cGreat location! Madrid experience!\u201d",
+      "Author": "Lia N",
+      "ReviewID": "UR127917804",
+      "Content": "cute little hostel price location ideal budget travel close metro bus stops main attractions prado museum figured narrow little streets surrounding lot easier anticipated easy walk main sights puerto del sol palace stay ideal madrid experience range unique shops bars starbucks 100ft owner friendly speak english smiled clean terrace looking narrow street below beds nice bathroom grown trouble moving otherwise greatly reccomend staying",
+      "Date": "2012-04-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Falkirk, United Kingdom",
+      "Title": "\u201cSpotless and ideal location\u201d",
+      "Author": "Gillz79",
+      "ReviewID": "UR86423286",
+      "Content": "booked hostal based location visiting friends madrid close metro nightlife couldnt picked location im baffled reviews stating owner rude found friendly welcoming didnt speak english managed communicate little spanish lot hand signals sheets towels changed day bathroom kept spotless safety deposit box main doors locked night secure safe walls thin hear door getting shower owners cleaning morning corridor hostal residential building hear child upstairs running living flat uk didnt bother location spotlessly clean friendly helpful staff \u00a320 night excellant value",
+      "Date": "2010-11-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Washington DC, District of Columbia",
+      "Title": "\u201cNoisy at night, rude and nosy guy\u201d",
+      "Author": "LorenaMP",
+      "ReviewID": "UR58744688",
+      "Content": "excellent location tiny clean guy desk nosy rude nights night decided rearrange furniture floor sleep bad",
+      "Date": "2010-03-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Rapid City, South Dakota",
+      "Title": "\u201cCompletely average hostal. Slightly overpriced.\u201d",
+      "Author": "Sheenayparaguas",
+      "ReviewID": "UR58168409",
+      "Content": "utterly average sized bed bathroom lock box leave bags checkout day location bearings trouble finding quick walk prado retiro plazas west metro stations airport 2 euros cant complain 2 ownersmanagers friendly walls bit thin noise noticeable day breakfast internet available nearby shops overall start getting familiar attractions getting jet lag",
+      "Date": "2010-03-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hostal Dulcinea",
+    "HotelURL": "/ShowUserReviews-g187514-d236201-Reviews-Hostal_Dulcinea-Madrid.html",
+    "Price": "$49 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Cervantes 19</span>, <span class=\"locality\"><span property=\"v:postal-code\">28014</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "236201",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/12/46/ca/madrid.jpg"
+  }
+}

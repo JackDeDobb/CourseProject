@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Bracknell, United Kingdom", "Title": "\u201cNeeds updating\u201d", "Author": "bobbulo", "ReviewID": "UR124391864", "Content": "spend weeks client reservations hotel hotel staff nice friendly centre city downsides updating wallpaper peeling decent space space pull chair desk restaurant coming office late evening leave hotel walk 510 minutes decent restaurant idea service takeaway pizza firm pizza hut dominos short 12 day stay suitable", "Date": "2012-02-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "cocoa fl", "Title": "\u201cComfortable Hotel\u201d", "Author": "taylorbrock", "ReviewID": "UR124150735", "Content": "chose hotel close business meeting clean comfortable altogether pleasant excellent value stay arrival cab airport return public transport easy negotiate internet lobby pay fee require wifi ur roomit nice noisy bustle centro close town wish", "Date": "2012-02-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Tokyo", "Title": "\u201cNice Hotel - Good Value\u201d", "Author": "TokyoSurferboy", "ReviewID": "UR120808361", "Content": "looked hotels madrid decided stay nh nights beginning october reasonably priced choice nh conveniently located 510 minutes walking distance nearest subwaymetro station approx 30 minutes doortodoor citys main attractions metro airport hotel 40 minutes including changing lines twice recommended carry lot heavy luggage changing lines involves lot stations hotel modern clean maintained stayed standard double third floor facing main street nice comfortable feel featured basic amenities except similar hotel decent size closet free safety deposit box tv desk etc bathroom goodsized clean breakfast buffet lobby floor actually variety foods beverages didnt expect thumbs theres free 30 minutes wifi lobby fine ipad access code front desk front desk staff friendly helpful speaks english spanish bit rusty hotel residential theres nice tapas bars shops main street try tapas bar street hotel temperatures twenties celsius nice spend couple hours sitting outside eating tapas sipping sangria day touring city short recommend nh wouldnt hesitate stay", "Date": "2011-11-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "USA", "Title": "\u201cA good choice\u201d", "Author": "SonoraDweller", "ReviewID": "UR120050844", "Content": "residential expensive clean nice breakfast staff friendly attentive speak english liked safe plenty closet space beds comfortable bathroom clean towels fresh toiletries class october heat available ac wrote warm hot true completely window brings temp unpleasant sleep internet charge free lobby book cancel tours recommend", "Date": "2011-11-01 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Cheshire, UK", "Title": "\u201cAmazing value for money!\u201d", "Author": "fdsre", "ReviewID": "UR77852597", "Content": "stayed nh arguelles nights weekend august visit madrid arrived hotel slightly ahead designated checkin time straight 4 quality furniture carpeted throughout bed probably ive seen meter floor covers extremely comfortable equipped plasma tv international channels wardrobe desk functioning aircon bit noisy interestingly radio bathroom excellent powershower package included buffet breakfast variety usual cereal toast yoghurt fruit cakes reasonable start day hotel modern standard free wifi available lobby location goes nh arguelles set student centre madrid walkable didnt buses near hotel nearest metro station 57 mins walk particular line closed august walk line bit parking goes hotel residents parking unless hotel provides parking cost bit finally lot graffiti surrounding day night didnt fearful time madrid \u20ac80 nights people pleased choice ps hotel pizza hut service", "Date": "2010-09-01 00:00:00"}], "HotelInfo": {"Name": "NH Arguelles", "HotelURL": "/ShowUserReviews-g187514-d206985-Reviews-NH_Arguelles-Madrid.html", "Price": "$70 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Vallehermoso 65</span>, <span class=\"locality\"><span property=\"v:postal-code\">28015</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "206985", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/03/d3/03d384b9bdc533df0b2af2c30e86ab4e4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bracknell, United Kingdom",
+      "Title": "\u201cNeeds updating\u201d",
+      "Author": "bobbulo",
+      "ReviewID": "UR124391864",
+      "Content": "spend weeks client reservations hotel hotel staff nice friendly centre city downsides updating wallpaper peeling decent space space pull chair desk restaurant coming office late evening leave hotel walk 510 minutes decent restaurant idea service takeaway pizza firm pizza hut dominos short 12 day stay suitable",
+      "Date": "2012-02-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "cocoa fl",
+      "Title": "\u201cComfortable Hotel\u201d",
+      "Author": "taylorbrock",
+      "ReviewID": "UR124150735",
+      "Content": "chose hotel close business meeting clean comfortable altogether pleasant excellent value stay arrival cab airport return public transport easy negotiate internet lobby pay fee require wifi ur roomit nice noisy bustle centro close town wish",
+      "Date": "2012-02-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Tokyo",
+      "Title": "\u201cNice Hotel - Good Value\u201d",
+      "Author": "TokyoSurferboy",
+      "ReviewID": "UR120808361",
+      "Content": "looked hotels madrid decided stay nh nights beginning october reasonably priced choice nh conveniently located 510 minutes walking distance nearest subwaymetro station approx 30 minutes doortodoor citys main attractions metro airport hotel 40 minutes including changing lines twice recommended carry lot heavy luggage changing lines involves lot stations hotel modern clean maintained stayed standard double third floor facing main street nice comfortable feel featured basic amenities except similar hotel decent size closet free safety deposit box tv desk etc bathroom goodsized clean breakfast buffet lobby floor actually variety foods beverages didnt expect thumbs theres free 30 minutes wifi lobby fine ipad access code front desk front desk staff friendly helpful speaks english spanish bit rusty hotel residential theres nice tapas bars shops main street try tapas bar street hotel temperatures twenties celsius nice spend couple hours sitting outside eating tapas sipping sangria day touring city short recommend nh wouldnt hesitate stay",
+      "Date": "2011-11-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "USA",
+      "Title": "\u201cA good choice\u201d",
+      "Author": "SonoraDweller",
+      "ReviewID": "UR120050844",
+      "Content": "residential expensive clean nice breakfast staff friendly attentive speak english liked safe plenty closet space beds comfortable bathroom clean towels fresh toiletries class october heat available ac wrote warm hot true completely window brings temp unpleasant sleep internet charge free lobby book cancel tours recommend",
+      "Date": "2011-11-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Cheshire, UK",
+      "Title": "\u201cAmazing value for money!\u201d",
+      "Author": "fdsre",
+      "ReviewID": "UR77852597",
+      "Content": "stayed nh arguelles nights weekend august visit madrid arrived hotel slightly ahead designated checkin time straight 4 quality furniture carpeted throughout bed probably ive seen meter floor covers extremely comfortable equipped plasma tv international channels wardrobe desk functioning aircon bit noisy interestingly radio bathroom excellent powershower package included buffet breakfast variety usual cereal toast yoghurt fruit cakes reasonable start day hotel modern standard free wifi available lobby location goes nh arguelles set student centre madrid walkable didnt buses near hotel nearest metro station 57 mins walk particular line closed august walk line bit parking goes hotel residents parking unless hotel provides parking cost bit finally lot graffiti surrounding day night didnt fearful time madrid \u20ac80 nights people pleased choice ps hotel pizza hut service",
+      "Date": "2010-09-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "NH Arguelles",
+    "HotelURL": "/ShowUserReviews-g187514-d206985-Reviews-NH_Arguelles-Madrid.html",
+    "Price": "$70 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Vallehermoso 65</span>, <span class=\"locality\"><span property=\"v:postal-code\">28015</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "206985",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/03/d3/03d384b9bdc533df0b2af2c30e86ab4e4large.jpg"
+  }
+}

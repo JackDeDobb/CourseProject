@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Saskatoon, Canada", "Title": "\u201c2nd time still great!\u201d", "Author": "weasel14", "ReviewID": "UR125558162", "Content": "stayed nite booked solid price gone scuba divers discovered rarity 2 pools scuba certification rooftop paid 600 couldnt 8001000 value bit price range rosario front desk helpful friendly efficient guy price range fault price success met owners guys choice hotels downtown joked rosario write lousy review prices review details applies except noisy dog issue", "Date": "2012-03-03 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cGem of a place!\u201d", "Author": "Josephina R", "ReviewID": "UR124125261", "Content": "third time staying paraiso azul stay familiar feel home touristy easy feat quiet spacious clean prefer cool shady floor option light warmth little bit jungle ocean top floor pool nice view perfect days surf rough ive stayed safety deposit box refrigerator nice amenities love location main drag blocks gorgeous beach la restaurant beach shaded palm trees close bus station day trips cancun tulum front desk folks speak english helpful friendly plus connected hotel door restaurant dive shop boyfriend loves dive raved trips cenotes ocean time stayed travelling safe comfortable cant wait gracias todos", "Date": "2012-02-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Calgary, Canada", "Title": "\u201cIts like coming home\u201d", "Author": "Roxie107", "ReviewID": "UR120110760", "Content": "casa de 2 amazing weeks 8th time friend staff treat family time returni little beautiful lots privacy roof little pool tanning sit drink 3 read found prices bit chat owner usually price extended booked 2012 trip am counting reads hug", "Date": "2011-11-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Champaign, Illinois", "Title": "\u201cPerfect home base in Playa del Carmen\u201d", "Author": "C_Victor_J", "ReviewID": "UR87385098", "Content": "week scuba diving vacation playa del carmen stayed paraiso azul simple hotel vacation location walk shops restaurants wifi internet noise dive shop short walk hotel garden choice eateries easy walking distance tourist drag 5 ave bus ferry terminals nearby beach perfect base yourself explore playa del carmen", "Date": "2010-11-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Australia", "Title": "\u201cPretty good place to stay away from the annoying street vendors + craziness off the main drag\u201d", "Author": "SteveNLaura", "ReviewID": "UR80425002", "Content": "location pretty location 1 block action town 2 blocks beach located near convenience stores 10 minute walk walmart cheapest shop town clean functional kitchen air conditioner reason set hour resolved stay disappointing sick waking sweaty steamy pdc service pretty helpful people able answer questions local amenities free wifi free clean water kitchen pdc due ridiculous prices charged town meals value cheaper pdc saved lot week self catering overall solid stay look brilliant towel art house keeping", "Date": "2010-09-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Boise, Idaho", "Title": "\u201cCasa De Gopala is the best place to stay in Playa Del Carmen\u201d", "Author": "PatrickUlsh", "ReviewID": "UR74215139", "Content": "partner coming playa del carmen 20 stayed casa de azul everytime home home love looked hotels nice price", "Date": "2010-08-07 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Vancouver Canada", "Title": "\u201cNice central place at a reasonable rate\u201d", "Author": "andymanca", "ReviewID": "UR58506736", "Content": "main building bright safe laptop elevator hoof stuff stairs upper hotel fairly nice pool roof close 10pm front desk staff speak english door 247 location central steps main bus station easy 2 3 block walk beach street mexican city noises nearly bad stayed playa del carmen", "Date": "2010-03-13 00:00:00"}], "HotelInfo": {"Name": "Paraiso Azul's (Casa De Gopala)", "HotelURL": "/ShowUserReviews-g150812-d248160-Reviews-Paraiso_Azul_s_Casa_De_Gopala-Playa_del_Carmen_Yucatan_Peninsula.html", "Price": "$76 - $76*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle 2 between Avs. 10 and 15</span>, <span class=\"locality\"><span property=\"v:locality\">Playa del Carmen</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "248160", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/00/1a/2b/9d/lobby-garden.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Saskatoon, Canada",
+      "Title": "\u201c2nd time still great!\u201d",
+      "Author": "weasel14",
+      "ReviewID": "UR125558162",
+      "Content": "stayed nite booked solid price gone scuba divers discovered rarity 2 pools scuba certification rooftop paid 600 couldnt 8001000 value bit price range rosario front desk helpful friendly efficient guy price range fault price success met owners guys choice hotels downtown joked rosario write lousy review prices review details applies except noisy dog issue",
+      "Date": "2012-03-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cGem of a place!\u201d",
+      "Author": "Josephina R",
+      "ReviewID": "UR124125261",
+      "Content": "third time staying paraiso azul stay familiar feel home touristy easy feat quiet spacious clean prefer cool shady floor option light warmth little bit jungle ocean top floor pool nice view perfect days surf rough ive stayed safety deposit box refrigerator nice amenities love location main drag blocks gorgeous beach la restaurant beach shaded palm trees close bus station day trips cancun tulum front desk folks speak english helpful friendly plus connected hotel door restaurant dive shop boyfriend loves dive raved trips cenotes ocean time stayed travelling safe comfortable cant wait gracias todos",
+      "Date": "2012-02-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Calgary, Canada",
+      "Title": "\u201cIts like coming home\u201d",
+      "Author": "Roxie107",
+      "ReviewID": "UR120110760",
+      "Content": "casa de 2 amazing weeks 8th time friend staff treat family time returni little beautiful lots privacy roof little pool tanning sit drink 3 read found prices bit chat owner usually price extended booked 2012 trip am counting reads hug",
+      "Date": "2011-11-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Champaign, Illinois",
+      "Title": "\u201cPerfect home base in Playa del Carmen\u201d",
+      "Author": "C_Victor_J",
+      "ReviewID": "UR87385098",
+      "Content": "week scuba diving vacation playa del carmen stayed paraiso azul simple hotel vacation location walk shops restaurants wifi internet noise dive shop short walk hotel garden choice eateries easy walking distance tourist drag 5 ave bus ferry terminals nearby beach perfect base yourself explore playa del carmen",
+      "Date": "2010-11-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Australia",
+      "Title": "\u201cPretty good place to stay away from the annoying street vendors + craziness off the main drag\u201d",
+      "Author": "SteveNLaura",
+      "ReviewID": "UR80425002",
+      "Content": "location pretty location 1 block action town 2 blocks beach located near convenience stores 10 minute walk walmart cheapest shop town clean functional kitchen air conditioner reason set hour resolved stay disappointing sick waking sweaty steamy pdc service pretty helpful people able answer questions local amenities free wifi free clean water kitchen pdc due ridiculous prices charged town meals value cheaper pdc saved lot week self catering overall solid stay look brilliant towel art house keeping",
+      "Date": "2010-09-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Boise, Idaho",
+      "Title": "\u201cCasa De Gopala is the best place to stay in Playa Del Carmen\u201d",
+      "Author": "PatrickUlsh",
+      "ReviewID": "UR74215139",
+      "Content": "partner coming playa del carmen 20 stayed casa de azul everytime home home love looked hotels nice price",
+      "Date": "2010-08-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Vancouver Canada",
+      "Title": "\u201cNice central place at a reasonable rate\u201d",
+      "Author": "andymanca",
+      "ReviewID": "UR58506736",
+      "Content": "main building bright safe laptop elevator hoof stuff stairs upper hotel fairly nice pool roof close 10pm front desk staff speak english door 247 location central steps main bus station easy 2 3 block walk beach street mexican city noises nearly bad stayed playa del carmen",
+      "Date": "2010-03-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Paraiso Azul's (Casa De Gopala)",
+    "HotelURL": "/ShowUserReviews-g150812-d248160-Reviews-Paraiso_Azul_s_Casa_De_Gopala-Playa_del_Carmen_Yucatan_Peninsula.html",
+    "Price": "$76 - $76*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle 2 between Avs. 10 and 15</span>, <span class=\"locality\"><span property=\"v:locality\">Playa del Carmen</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "248160",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/00/1a/2b/9d/lobby-garden.jpg"
+  }
+}

@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Bensenville, Illinois", "Title": "\u201cLook elsewhere...\u201d", "Author": "Keith W", "ReviewID": "UR124728515", "Content": "booked online wasnt familiar hotel arrived internet rate half regular rate dilapidated window cracked toilet seat broken carpet threadbare pieces furniture lobby falling apart restaurant cup ice rude told charge ice kitchen dining looking didnt bother eating complimentary breakfast", "Date": "2012-02-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Manchester, United Kingdom", "Title": "\u201cIn need of a renovation but it'll do\u201d", "Author": "CupcakeTraveler", "ReviewID": "UR104584738", "Content": "renovation 1970s oranges brown red colours outdated kept clean living grotty cheap location makes walk easily free breakfast free hard pick wireless id recomend location cheapness terrible 70s decor", "Date": "2011-04-18 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Houston, Texas", "Title": "\u201cMy Hotel of Choice when in the DF\u201d", "Author": "Satsuma932", "ReviewID": "UR86324417", "Content": "stayed hotel times disappointed staff service location cant beat blocks la reforma metro stop walking distance neighbourhood quiet safe little beaten path speaking clean basic unless opt minisuite worth extra bucks spend significant time highly recommend hotel basic run near df", "Date": "2010-11-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "stockton (near Sacramento)", "Title": "\u201cGood for one or two nights\u201d", "Author": "artmos", "ReviewID": "UR78025789", "Content": "late midnight little weird cant define scary movie scary happens true stuffy lounge worn looks feels people friendly food stay stay options pay", "Date": "2010-09-02 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Glen Burnie", "Title": "\u201cHotel Prim, nice place to stay\u201d", "Author": "wgpittman", "ReviewID": "UR70039130", "Content": "checked thursday spent week relatives time family time ourselves greated nice bell receptionist taking care time straight reserved 4 ppl suprised beds bathrooms closets alot outlets electrical devices power suggest bring extention cord food resturant service letter wont paid money stay bank stay worth couple blocks main road reforma bus tourist bus pick guided tour city oh mention double decker roof tour bus mall walking distance hotel concierge nice stay oppurtunity", "Date": "2010-07-07 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Wellington, New Zealand", "Title": "\u201cBad bad experience\u201d", "Author": "tarynandcraig", "ReviewID": "UR62623990", "Content": "skeevy concierge dirty carpet awful breakfast wait staff wear swine flu masks awful smelly loud bar downstairs live music walls paper thin pay little bit else worth looks hotel shining taxi driver concierge ripped charged 7 times paid elsewhere pay internet havent seen slower computer 1983", "Date": "2010-04-27 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "brooklyn, new york", "Title": "\u201cHUGE suite, good bed, fine neighborhood!\u201d", "Author": "jazzbaby88", "ReviewID": "UR55667026", "Content": "stayed hotel prim space plain clean junior suites immense maroon subway blocks market museo de artes hotel nightclub floor cathedral bohemia school mexican sing live musicians thursfrisat", "Date": "2010-02-10 00:00:00"}], "HotelInfo": {"Name": "Hotel Prim", "HotelURL": "/ShowUserReviews-g150800-d154676-Reviews-Hotel_Prim-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$36 - $62*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Versalles 46</span> | <span class=\"extended-address\">Col. Juarez</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06600</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "154676", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c5/12/c5121a3853df7c6ea63810d4ef9718ed3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Bensenville, Illinois",
+      "Title": "\u201cLook elsewhere...\u201d",
+      "Author": "Keith W",
+      "ReviewID": "UR124728515",
+      "Content": "booked online wasnt familiar hotel arrived internet rate half regular rate dilapidated window cracked toilet seat broken carpet threadbare pieces furniture lobby falling apart restaurant cup ice rude told charge ice kitchen dining looking didnt bother eating complimentary breakfast",
+      "Date": "2012-02-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Manchester, United Kingdom",
+      "Title": "\u201cIn need of a renovation but it'll do\u201d",
+      "Author": "CupcakeTraveler",
+      "ReviewID": "UR104584738",
+      "Content": "renovation 1970s oranges brown red colours outdated kept clean living grotty cheap location makes walk easily free breakfast free hard pick wireless id recomend location cheapness terrible 70s decor",
+      "Date": "2011-04-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Houston, Texas",
+      "Title": "\u201cMy Hotel of Choice when in the DF\u201d",
+      "Author": "Satsuma932",
+      "ReviewID": "UR86324417",
+      "Content": "stayed hotel times disappointed staff service location cant beat blocks la reforma metro stop walking distance neighbourhood quiet safe little beaten path speaking clean basic unless opt minisuite worth extra bucks spend significant time highly recommend hotel basic run near df",
+      "Date": "2010-11-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "stockton (near Sacramento)",
+      "Title": "\u201cGood for one or two nights\u201d",
+      "Author": "artmos",
+      "ReviewID": "UR78025789",
+      "Content": "late midnight little weird cant define scary movie scary happens true stuffy lounge worn looks feels people friendly food stay stay options pay",
+      "Date": "2010-09-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Glen Burnie",
+      "Title": "\u201cHotel Prim, nice place to stay\u201d",
+      "Author": "wgpittman",
+      "ReviewID": "UR70039130",
+      "Content": "checked thursday spent week relatives time family time ourselves greated nice bell receptionist taking care time straight reserved 4 ppl suprised beds bathrooms closets alot outlets electrical devices power suggest bring extention cord food resturant service letter wont paid money stay bank stay worth couple blocks main road reforma bus tourist bus pick guided tour city oh mention double decker roof tour bus mall walking distance hotel concierge nice stay oppurtunity",
+      "Date": "2010-07-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Wellington, New Zealand",
+      "Title": "\u201cBad bad experience\u201d",
+      "Author": "tarynandcraig",
+      "ReviewID": "UR62623990",
+      "Content": "skeevy concierge dirty carpet awful breakfast wait staff wear swine flu masks awful smelly loud bar downstairs live music walls paper thin pay little bit else worth looks hotel shining taxi driver concierge ripped charged 7 times paid elsewhere pay internet havent seen slower computer 1983",
+      "Date": "2010-04-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "brooklyn, new york",
+      "Title": "\u201cHUGE suite, good bed, fine neighborhood!\u201d",
+      "Author": "jazzbaby88",
+      "ReviewID": "UR55667026",
+      "Content": "stayed hotel prim space plain clean junior suites immense maroon subway blocks market museo de artes hotel nightclub floor cathedral bohemia school mexican sing live musicians thursfrisat",
+      "Date": "2010-02-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Prim",
+    "HotelURL": "/ShowUserReviews-g150800-d154676-Reviews-Hotel_Prim-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$36 - $62*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Versalles 46</span> | <span class=\"extended-address\">Col. Juarez</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06600</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "154676",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c5/12/c5121a3853df7c6ea63810d4ef9718ed3large.jpg"
+  }
+}

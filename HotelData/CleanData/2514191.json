@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Stockport, United Kingdom", "Title": "\u201cPerfect Location\u201d", "Author": "lyndajwells", "ReviewID": "UR81777063", "Content": "bit concerned reading reviews apartments stayed 4 nights studio flat 11e letting agents helpful emailed doorman key ready desk apartment clean quality kitchen facilities able walk times squarecentral centre etc people 5 star hotel budget money stay york", "Date": "2010-10-01 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cDon't Bother\u201d", "Author": "peachystar73", "ReviewID": "UR56709222", "Content": "stay hassle worth paperwork sorted doormen owner particular unit help whatsoever fridge cleaner forgot defrost kitchen flooded shower curtain held properly lasted 1 shower taller 57 wont fit bed plus 10 minute walk straight 47th st times square parking door willing pay fortune opinion alot price looking time im york", "Date": "2010-02-21 00:00:00"}], "HotelInfo": {"Name": "Oxbridge Midtown East Apartments", "HotelURL": "/ShowUserReviews-g60763-d1199530-Reviews-Oxbridge_Midtown_East_Apartments-New_York_City_New_York.html", "Price": "0", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">210 E 47th St</span>, <span class=\"locality\"><span property=\"v:locality\">New York City</span>, <span property=\"v:region\">NY</span> <span property=\"v:postal-code\">10017</span></span> </span> </span> </address>", "HotelID": "2514191", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6a/e2/6ae203cb3c963d29b13bbcdd82613c9f3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Stockport, United Kingdom",
+      "Title": "\u201cPerfect Location\u201d",
+      "Author": "lyndajwells",
+      "ReviewID": "UR81777063",
+      "Content": "bit concerned reading reviews apartments stayed 4 nights studio flat 11e letting agents helpful emailed doorman key ready desk apartment clean quality kitchen facilities able walk times squarecentral centre etc people 5 star hotel budget money stay york",
+      "Date": "2010-10-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cDon't Bother\u201d",
+      "Author": "peachystar73",
+      "ReviewID": "UR56709222",
+      "Content": "stay hassle worth paperwork sorted doormen owner particular unit help whatsoever fridge cleaner forgot defrost kitchen flooded shower curtain held properly lasted 1 shower taller 57 wont fit bed plus 10 minute walk straight 47th st times square parking door willing pay fortune opinion alot price looking time im york",
+      "Date": "2010-02-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Oxbridge Midtown East Apartments",
+    "HotelURL": "/ShowUserReviews-g60763-d1199530-Reviews-Oxbridge_Midtown_East_Apartments-New_York_City_New_York.html",
+    "Price": "0",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">210 E 47th St</span>, <span class=\"locality\"><span property=\"v:locality\">New York City</span>, <span property=\"v:region\">NY</span> <span property=\"v:postal-code\">10017</span></span> </span> </span> </address>",
+    "HotelID": "2514191",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6a/e2/6ae203cb3c963d29b13bbcdd82613c9f3large.jpg"
+  }
+}

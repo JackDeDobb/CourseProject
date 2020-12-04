@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Ottawa", "Title": "\u201cNice Basic Hotel\u201d", "Author": "DalpalOttawa", "ReviewID": "UR120475638", "Content": "hotel basic perspective location decor staff helpful providing information tram city center return hotel command english desire communicate existed care ensure pay attention pick pockets tram incidents 207 noisy close busy intersection ambulances passing due close proximity hospital walking hotel street shops appearance neighbourhood questioning decision stay hotel perfectly acceptable stay", "Date": "2011-11-11 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Manchester, United Kingdom", "Title": "\u201cNice hotel but an Italian Basil Fawlty on reception!!!!\u201d", "Author": "Linda S", "ReviewID": "UR118414389", "Content": "booked hotel planned foursome sightsee rome hotel parking bit difficult managed looks outside set street inside clean nice shown pleasantly surprised clean nice bedding towels changed daily left lot desired read reviews previous booking nice austrian lady owner staff etc unfortunately nice austrian lady owner seen surly unhelpful elderly wouldnt lift head morning hello helpful didnt alleven bar little bar alright darkness 5 days breakfast meagre rolls jam sweet croissant served nice polite thai lady couldnt minibar due able drink hotel apart lack minibar basil fawlty reception bar drink stay stay", "Date": "2011-09-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Colorado", "Title": "\u201cNice clean comfortable hotel\u201d", "Author": "birdieboys", "ReviewID": "UR84633981", "Content": "sent recommedation local hotel quiet clean true roman breakfast special rolls coffee typical european hotelsthe moderately sized located walking distance city center tram stop corner city easily accessible stay highly recommend value comfort cleanliness", "Date": "2010-10-24 00:00:00"}], "HotelInfo": {"Name": "Hotel Monteverde & Austria", "HotelURL": "/ShowUserReviews-g187791-d650749-Reviews-Hotel_Monteverde_Austria-Rome_Lazio.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via di Monte Verde 86</span>, <span class=\"locality\"><span property=\"v:postal-code\">00151</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "650749", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Ottawa",
+      "Title": "\u201cNice Basic Hotel\u201d",
+      "Author": "DalpalOttawa",
+      "ReviewID": "UR120475638",
+      "Content": "hotel basic perspective location decor staff helpful providing information tram city center return hotel command english desire communicate existed care ensure pay attention pick pockets tram incidents 207 noisy close busy intersection ambulances passing due close proximity hospital walking hotel street shops appearance neighbourhood questioning decision stay hotel perfectly acceptable stay",
+      "Date": "2011-11-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Manchester, United Kingdom",
+      "Title": "\u201cNice hotel but an Italian Basil Fawlty on reception!!!!\u201d",
+      "Author": "Linda S",
+      "ReviewID": "UR118414389",
+      "Content": "booked hotel planned foursome sightsee rome hotel parking bit difficult managed looks outside set street inside clean nice shown pleasantly surprised clean nice bedding towels changed daily left lot desired read reviews previous booking nice austrian lady owner staff etc unfortunately nice austrian lady owner seen surly unhelpful elderly wouldnt lift head morning hello helpful didnt alleven bar little bar alright darkness 5 days breakfast meagre rolls jam sweet croissant served nice polite thai lady couldnt minibar due able drink hotel apart lack minibar basil fawlty reception bar drink stay stay",
+      "Date": "2011-09-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Colorado",
+      "Title": "\u201cNice clean comfortable hotel\u201d",
+      "Author": "birdieboys",
+      "ReviewID": "UR84633981",
+      "Content": "sent recommedation local hotel quiet clean true roman breakfast special rolls coffee typical european hotelsthe moderately sized located walking distance city center tram stop corner city easily accessible stay highly recommend value comfort cleanliness",
+      "Date": "2010-10-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Monteverde & Austria",
+    "HotelURL": "/ShowUserReviews-g187791-d650749-Reviews-Hotel_Monteverde_Austria-Rome_Lazio.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via di Monte Verde 86</span>, <span class=\"locality\"><span property=\"v:postal-code\">00151</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "650749",
+    "ImgURL": ""
+  }
+}

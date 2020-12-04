@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Austin, Texas", "Title": "\u201cBig clean hotel, lacks ambience .. and has dodgy internet\u201d", "Author": "bluetoffee316", "ReviewID": "UR124154423", "Content": "clean hotel business traveller class nice helpful freindly staff restaurant average bad particularly bar foyer lacks real character closes 11pm located mall near am convenient gym equipped example bikes weight machine 3 stacks 5 stations meaning lots alternating people busy travelling business main beef internet capability bad wireless ethernet backup wireless basically unusable 4 days unacceptable continues fixed sunday holiday am sceptical finding alternative accommodations 2 months", "Date": "2012-02-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Santiago, Chile", "Title": "\u201cRadison Paraiso\u201d", "Author": "Aventurero2010", "ReviewID": "UR121827023", "Content": "southern mexico city business university matters beats chain hotel located street gigantic mall short blocks paper mill converted beautiful series remodeled buildings short taxi ride amazing ciudad worth visit business generous space kept staff extremely friendly helpful breakfast typical mexican buffet innumerable taxis door ride airport smooth highly recommended posted rate expensive doubt pays rate university excellent rate", "Date": "2011-12-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Houston", "Title": "\u201cNear Mall But Needs Updating\u201d", "Author": "RolandofGilliad", "ReviewID": "UR121695567", "Content": "choose hotel walk nice mall starbucks disappointed experience lobby nice thin carpet smallish move facing freeway mall noisy staff helpful move food royal street liked able walk mall wouldnt", "Date": "2011-12-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 2.0}, "AuthorLocation": "Brasilia, DF", "Title": "\u201cGood option if you have to work nearby\u201d", "Author": "mcaetano70", "ReviewID": "UR119016823", "Content": "property quality similar radisson hotel hotel suited business travelers nearby hotel recommend intention leisure trip distant major touristic attraction mexico city", "Date": "2011-10-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Seattle, WA", "Title": "\u201cWonderful staff\u201d", "Author": "SeattleElikapeka", "ReviewID": "UR79833959", "Content": "staff hotel cant beat exception friendly helpful intrusive days lots eating meals hotel service incredibly quick restaurant pleasant food goodsized nicely decorated special extra touches hotel wireless internet free drawbacks shower nice hot bath bit disappointing reason marked 4 instead 5 category bed hardest ive slept neither deal breakers stay request mountain view overlooked road shopping mall road noise little loud night caveat tourist close sites probably visit city busy traffic consideration hotel staff cab arrangements care guests", "Date": "2010-09-16 00:00:00"}], "HotelInfo": {"Name": "Radisson Paraiso Hotel Mexico City", "HotelURL": "/ShowUserReviews-g150800-d154677-Reviews-Radisson_Paraiso_Hotel_Mexico_City-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$116 - $181*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Cuspide No 53</span> | <span class=\"extended-address\">Col. Parque del Pedregal</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">14020</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "154677", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fb/0a/fb0a33c4c07aa0913b5b9e7618d6ee2b4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Austin, Texas",
+      "Title": "\u201cBig clean hotel, lacks ambience .. and has dodgy internet\u201d",
+      "Author": "bluetoffee316",
+      "ReviewID": "UR124154423",
+      "Content": "clean hotel business traveller class nice helpful freindly staff restaurant average bad particularly bar foyer lacks real character closes 11pm located mall near am convenient gym equipped example bikes weight machine 3 stacks 5 stations meaning lots alternating people busy travelling business main beef internet capability bad wireless ethernet backup wireless basically unusable 4 days unacceptable continues fixed sunday holiday am sceptical finding alternative accommodations 2 months",
+      "Date": "2012-02-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Santiago, Chile",
+      "Title": "\u201cRadison Paraiso\u201d",
+      "Author": "Aventurero2010",
+      "ReviewID": "UR121827023",
+      "Content": "southern mexico city business university matters beats chain hotel located street gigantic mall short blocks paper mill converted beautiful series remodeled buildings short taxi ride amazing ciudad worth visit business generous space kept staff extremely friendly helpful breakfast typical mexican buffet innumerable taxis door ride airport smooth highly recommended posted rate expensive doubt pays rate university excellent rate",
+      "Date": "2011-12-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Houston",
+      "Title": "\u201cNear Mall But Needs Updating\u201d",
+      "Author": "RolandofGilliad",
+      "ReviewID": "UR121695567",
+      "Content": "choose hotel walk nice mall starbucks disappointed experience lobby nice thin carpet smallish move facing freeway mall noisy staff helpful move food royal street liked able walk mall wouldnt",
+      "Date": "2011-12-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Brasilia, DF",
+      "Title": "\u201cGood option if you have to work nearby\u201d",
+      "Author": "mcaetano70",
+      "ReviewID": "UR119016823",
+      "Content": "property quality similar radisson hotel hotel suited business travelers nearby hotel recommend intention leisure trip distant major touristic attraction mexico city",
+      "Date": "2011-10-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Seattle, WA",
+      "Title": "\u201cWonderful staff\u201d",
+      "Author": "SeattleElikapeka",
+      "ReviewID": "UR79833959",
+      "Content": "staff hotel cant beat exception friendly helpful intrusive days lots eating meals hotel service incredibly quick restaurant pleasant food goodsized nicely decorated special extra touches hotel wireless internet free drawbacks shower nice hot bath bit disappointing reason marked 4 instead 5 category bed hardest ive slept neither deal breakers stay request mountain view overlooked road shopping mall road noise little loud night caveat tourist close sites probably visit city busy traffic consideration hotel staff cab arrangements care guests",
+      "Date": "2010-09-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Radisson Paraiso Hotel Mexico City",
+    "HotelURL": "/ShowUserReviews-g150800-d154677-Reviews-Radisson_Paraiso_Hotel_Mexico_City-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$116 - $181*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Cuspide No 53</span> | <span class=\"extended-address\">Col. Parque del Pedregal</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">14020</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "154677",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fb/0a/fb0a33c4c07aa0913b5b9e7618d6ee2b4large.jpg"
+  }
+}

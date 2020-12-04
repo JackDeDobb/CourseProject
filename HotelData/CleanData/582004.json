@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Stavanger", "Title": "\u201c\"askin\" to leave\u201d", "Author": "tinman3", "ReviewID": "UR127965884", "Content": "experience location slept towels soap linens breakfast horrid 10day tour crisis tour operator hotel stay turkey worried rest hotels fortunately stood bad", "Date": "2012-04-16 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Huntington Beach, California", "Title": "\u201cAwful Experience\u201d", "Author": "Jef C", "ReviewID": "UR119235483", "Content": "recently unfortunate experience staying askin hotel istanbul adventure started innkeeper mistakenly booked saturday sunday night friday saturday reserved realize innkeeper prone mistakes im understanding person management askin absolutely effort amends mistakes arguing minutes manager begrudgingly offered directly adjacent quarters ground floor clean sheets soap trash hot water damp water glass mold bottom soap shower disappeared minute bottle antibacterial hand soap day manager moved type originally promised moved bags ourselves wasn\u00e2\u20ac\u2122t ready dropped left meal return manager indicated promised customer moved soap hot water except shower head soap \u00e2\u20ac\u0153if i\u00e2\u20ac\u2122ll bring room\u00e2\u20ac\ufffd indicated missing shower head consider lucky endured worse imagine worse gotten stayed night", "Date": "2011-10-12 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Portland, Oregon", "Title": "\u201cA dog House\u201d", "Author": "gazebo8528", "ReviewID": "UR83845860", "Content": "damp sheets window didnt close shower holder shower head lites didnt hot water sink didnt drain wife didnt stay nite fire rage wifes eyes refunded happy left", "Date": "2010-10-17 00:00:00"}], "HotelInfo": {"Name": "Askin Hotel", "HotelURL": "/ShowUserReviews-g293974-d582004-Reviews-Askin_Hotel-Istanbul.html", "Price": "$66 - $118*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.16 Sultanahmet</span> | <span class=\"extended-address\">Dalbasti Sokak</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34400</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "582004", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/39/ea/39eaf81884e7b316e7262c4aefb485071large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Stavanger",
+      "Title": "\u201c\"askin\" to leave\u201d",
+      "Author": "tinman3",
+      "ReviewID": "UR127965884",
+      "Content": "experience location slept towels soap linens breakfast horrid 10day tour crisis tour operator hotel stay turkey worried rest hotels fortunately stood bad",
+      "Date": "2012-04-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Huntington Beach, California",
+      "Title": "\u201cAwful Experience\u201d",
+      "Author": "Jef C",
+      "ReviewID": "UR119235483",
+      "Content": "recently unfortunate experience staying askin hotel istanbul adventure started innkeeper mistakenly booked saturday sunday night friday saturday reserved realize innkeeper prone mistakes im understanding person management askin absolutely effort amends mistakes arguing minutes manager begrudgingly offered directly adjacent quarters ground floor clean sheets soap trash hot water damp water glass mold bottom soap shower disappeared minute bottle antibacterial hand soap day manager moved type originally promised moved bags ourselves wasn\u00e2\u20ac\u2122t ready dropped left meal return manager indicated promised customer moved soap hot water except shower head soap \u00e2\u20ac\u0153if i\u00e2\u20ac\u2122ll bring room\u00e2\u20ac\ufffd indicated missing shower head consider lucky endured worse imagine worse gotten stayed night",
+      "Date": "2011-10-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Portland, Oregon",
+      "Title": "\u201cA dog House\u201d",
+      "Author": "gazebo8528",
+      "ReviewID": "UR83845860",
+      "Content": "damp sheets window didnt close shower holder shower head lites didnt hot water sink didnt drain wife didnt stay nite fire rage wifes eyes refunded happy left",
+      "Date": "2010-10-17 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Askin Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d582004-Reviews-Askin_Hotel-Istanbul.html",
+    "Price": "$66 - $118*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.16 Sultanahmet</span> | <span class=\"extended-address\">Dalbasti Sokak</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34400</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "582004",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/39/ea/39eaf81884e7b316e7262c4aefb485071large.jpg"
+  }
+}

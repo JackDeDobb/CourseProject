@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Austin, Texas, United States", "Title": "\u201cA great place to stay in Paris\u201d", "Author": "Jeannie M", "ReviewID": "UR126629261", "Content": "adult daughter spent weekend march 2012 pleased accomodations clean comfortable staff friendly rate reasonable hotel located safe women traveling own block ditalie metro station true didnt paris hang hotel fine didnt hotel breakfast expensive plenty cafes boulangeries nearby sunday mornings im lucky travel paris definitely stay", "Date": "2012-03-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Aalsmeer, The Netherlands", "Title": "\u201cLovely stay\u201d", "Author": "AnneM0", "ReviewID": "UR124146053", "Content": "husband stayed hotel november 2011 written indeed clean comfortable hotel located village paris bit beaten track factory road primary school pleasant staff sufficient breakfast easy access via metro nice shopping mall reached minutes foot nice location stay", "Date": "2012-02-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Manchester", "Title": "\u201cPetit but charming\u201d", "Author": "cpawley", "ReviewID": "UR124056142", "Content": "hotel regularly due discount offered lab hotel convenient beyond metro subsequent rer connections hotel efficient staff welcoming speak multitude languages uncomfortable sleep bigger breakfast typically french useful fill tourists workers alike", "Date": "2012-02-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "WV", "Title": "\u201cClose to Metro\u201d", "Author": "wvtravelman", "ReviewID": "UR118676804", "Content": "stayed 2 nights jan 2010 visiting paris clean friendly helpful staff car parking corner metro train station easy walk main sights location switching trains quick ride definatly city budget", "Date": "2011-09-27 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Perth", "Title": "\u201cRecommended\u201d", "Author": "BrionPerth", "ReviewID": "UR68735048", "Content": "100 euro hotel located quiet tree lined street traffic noise jacks hotel 5 minutes walk metro underground plenty restaurants near comfortable clean bathroom modern appointed pleasant breakfast available typically french chose cafe road memorable omelets", "Date": "2010-06-26 00:00:00"}], "HotelInfo": {"Name": "Jack's Hotel", "HotelURL": "/ShowUserReviews-g187147-d529928-Reviews-Jack_s_Hotel-Paris_Ile_de_France.html", "Price": "$107 - $168*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">19, avenue Stephen Pichon</span> | <span class=\"extended-address\">13th Arr.</span>, <span class=\"locality\"><span property=\"v:postal-code\">75013</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>", "HotelID": "529928", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b2/e5/b2e59bce6f887a93cb8068c2522f5e863large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Austin, Texas, United States",
+      "Title": "\u201cA great place to stay in Paris\u201d",
+      "Author": "Jeannie M",
+      "ReviewID": "UR126629261",
+      "Content": "adult daughter spent weekend march 2012 pleased accomodations clean comfortable staff friendly rate reasonable hotel located safe women traveling own block ditalie metro station true didnt paris hang hotel fine didnt hotel breakfast expensive plenty cafes boulangeries nearby sunday mornings im lucky travel paris definitely stay",
+      "Date": "2012-03-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Aalsmeer, The Netherlands",
+      "Title": "\u201cLovely stay\u201d",
+      "Author": "AnneM0",
+      "ReviewID": "UR124146053",
+      "Content": "husband stayed hotel november 2011 written indeed clean comfortable hotel located village paris bit beaten track factory road primary school pleasant staff sufficient breakfast easy access via metro nice shopping mall reached minutes foot nice location stay",
+      "Date": "2012-02-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Manchester",
+      "Title": "\u201cPetit but charming\u201d",
+      "Author": "cpawley",
+      "ReviewID": "UR124056142",
+      "Content": "hotel regularly due discount offered lab hotel convenient beyond metro subsequent rer connections hotel efficient staff welcoming speak multitude languages uncomfortable sleep bigger breakfast typically french useful fill tourists workers alike",
+      "Date": "2012-02-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "WV",
+      "Title": "\u201cClose to Metro\u201d",
+      "Author": "wvtravelman",
+      "ReviewID": "UR118676804",
+      "Content": "stayed 2 nights jan 2010 visiting paris clean friendly helpful staff car parking corner metro train station easy walk main sights location switching trains quick ride definatly city budget",
+      "Date": "2011-09-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Perth",
+      "Title": "\u201cRecommended\u201d",
+      "Author": "BrionPerth",
+      "ReviewID": "UR68735048",
+      "Content": "100 euro hotel located quiet tree lined street traffic noise jacks hotel 5 minutes walk metro underground plenty restaurants near comfortable clean bathroom modern appointed pleasant breakfast available typically french chose cafe road memorable omelets",
+      "Date": "2010-06-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Jack's Hotel",
+    "HotelURL": "/ShowUserReviews-g187147-d529928-Reviews-Jack_s_Hotel-Paris_Ile_de_France.html",
+    "Price": "$107 - $168*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">19, avenue Stephen Pichon</span> | <span class=\"extended-address\">13th Arr.</span>, <span class=\"locality\"><span property=\"v:postal-code\">75013</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>",
+    "HotelID": "529928",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b2/e5/b2e59bce6f887a93cb8068c2522f5e863large.jpg"
+  }
+}

@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "Los Angeles", "Title": "\u201cDramatic experience, stay away\u201d", "Author": "LAtraveller2012", "ReviewID": "UR123370877", "Content": "worst hotel experience mexico city 5 times business normally stay nikko try else bad decision hotel polanco main attractions hotel customer service extremely poor graded arrived hotel refused offer refund told orbitz booked called orbitz told hotel willing refund arrival day hotel wifi front desk told person charge available future bookers book expensive 2 floor suites located directly facing extremely busy street sleep options available polanco yourself favor stay hotel clean customer service poor", "Date": "2012-01-20 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 5.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Bondi Junction", "Title": "\u201cBETTER OPTIONS\u201d", "Author": "BLUE5KY", "ReviewID": "UR119610635", "Content": "hotel fit modern appealing location wise little main retail restaurant polanco mental note ensure convenient location future little homework am demanding expect service appreciate language barrier staff speaks english pitiful spanish smile crossed barriers front desk staff feel welcome impression lack care attitude night facing main roads considering mexicans drive hand horn noisy change tower 3 nights improvement hear muted traffic noise love travelling travel 3 months world sadly unpleasant experiences effort complain life review save travellers unfriendly experience options", "Date": "2011-10-23 00:00:00"}], "HotelInfo": {"Name": "Las Suites", "HotelURL": "/ShowUserReviews-g150800-d2089871-Reviews-Las_Suites-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$140 - $232*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Campos Eliseos 470, Polanco</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">11560</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "2089871", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c7/23/c723cf76c4e6b30cb703d7accd38cd192large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Los Angeles",
+      "Title": "\u201cDramatic experience, stay away\u201d",
+      "Author": "LAtraveller2012",
+      "ReviewID": "UR123370877",
+      "Content": "worst hotel experience mexico city 5 times business normally stay nikko try else bad decision hotel polanco main attractions hotel customer service extremely poor graded arrived hotel refused offer refund told orbitz booked called orbitz told hotel willing refund arrival day hotel wifi front desk told person charge available future bookers book expensive 2 floor suites located directly facing extremely busy street sleep options available polanco yourself favor stay hotel clean customer service poor",
+      "Date": "2012-01-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 5.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Bondi Junction",
+      "Title": "\u201cBETTER OPTIONS\u201d",
+      "Author": "BLUE5KY",
+      "ReviewID": "UR119610635",
+      "Content": "hotel fit modern appealing location wise little main retail restaurant polanco mental note ensure convenient location future little homework am demanding expect service appreciate language barrier staff speaks english pitiful spanish smile crossed barriers front desk staff feel welcome impression lack care attitude night facing main roads considering mexicans drive hand horn noisy change tower 3 nights improvement hear muted traffic noise love travelling travel 3 months world sadly unpleasant experiences effort complain life review save travellers unfriendly experience options",
+      "Date": "2011-10-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Las Suites",
+    "HotelURL": "/ShowUserReviews-g150800-d2089871-Reviews-Las_Suites-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$140 - $232*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Campos Eliseos 470, Polanco</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">11560</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "2089871",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c7/23/c723cf76c4e6b30cb703d7accd38cd192large.jpg"
+  }
+}

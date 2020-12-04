@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Gaeta, Italy", "Title": "\u201cGreat Hotel!\u201d", "Author": "GeminiR_S", "ReviewID": "UR125881739", "Content": "stayed 4 nights mar 48 2012 balcony instead larger fine found comfortable cleaned day linens bath towels excellent quality staff helpful excellent dinner recommendations night couple blocks metro corner breakfast beautiful pastries cereal milk yogurt fresh fruit juice american coffee expresso nice spacious dining elevator typical european lift enjoyed stay immensely stay thanks wonderful visit", "Date": "2012-03-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "La Crosse, Wisconsin, United States", "Title": "\u201cAn excellent place to stay\u201d", "Author": "Diane582", "ReviewID": "UR122567296", "Content": "surprised negative reviews hotel top notch hotel staff location stayed 8 nights dec 26 jan check smooth painless ready top floor balcony access terrace table 4 chairs begin day breakfast consisting couple kinds bread croissants fresh fruit types juice ham sausage cheese cereal assorted items breakfast table person running breakfast seeing romeo friendly spoken person loves serve looked forward seeing morning cleaned daily dirty ample space 4 beds comfortable busy check tv extent 5 minutes day staff greeted acknowledged valued customers location short 15 block walk metro whereever typically walk metro exploring rome foot recommend able short 1520 walk st peters vatican walk consisted hour walk colosseum detours spanish steps trevi fountain eve suprised champagne 4 wine glasses nice treated checkout 300 am smooth effecient called taxi airport picked 5 minutes peter runs friendly hotel wonderful staff outstanding location hotel treat", "Date": "2012-01-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "malaysia", "Title": "\u201cHOTEL GERBER\u201d", "Author": "JohnsonArokiasamy", "ReviewID": "UR120691100", "Content": "hotel manager peter taking care customers humble polite choose hotel help price reasonable located heart city nearest historical rome italy live", "Date": "2011-11-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Bras\u00edlia", "Title": "\u201cGreat location, familiar and good service, but a little disappointing.\u201d", "Author": "FelipeRocha", "ReviewID": "UR82878655", "Content": "wife little disappointed hotel highly recommended sites internet negatives bath water leaking floor bathroom cleaning poor didn\u2019t exchange bedding breakfast simple bad worst times door clean sleeping time packing leave tour positives hotel staff attentive modern equipped airconditioning essential summer location block subway close restaurants shopping vatican free speed internet despite negatives recomend stay", "Date": "2010-10-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Atlanta, Georgia", "Title": "\u201cGreat location, clean, friendly, abundant breakfast.\u201d", "Author": "Gardener77", "ReviewID": "UR68376326", "Content": "location halfway vatican peoples plaza piazza del popolo perfectly located walk sights foot 10 20 minutes walked spotless bed comfortable staff helpful breakfast abundant varied observation bathroom tiny especially shower help thank lucky stars husband overweight 10 lbs heavier gotten shower perfect sleek thin larger americans beware", "Date": "2010-06-22 00:00:00"}], "HotelInfo": {"Name": "Hotel Gerber", "HotelURL": "/ShowUserReviews-g187791-d236168-Reviews-Hotel_Gerber-Rome_Lazio.html", "Price": "$69 - $198*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via degli Scipioni 241</span>, <span class=\"locality\"><span property=\"v:postal-code\">00192</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "236168", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/3c/07/2c/hall.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Gaeta, Italy",
+      "Title": "\u201cGreat Hotel!\u201d",
+      "Author": "GeminiR_S",
+      "ReviewID": "UR125881739",
+      "Content": "stayed 4 nights mar 48 2012 balcony instead larger fine found comfortable cleaned day linens bath towels excellent quality staff helpful excellent dinner recommendations night couple blocks metro corner breakfast beautiful pastries cereal milk yogurt fresh fruit juice american coffee expresso nice spacious dining elevator typical european lift enjoyed stay immensely stay thanks wonderful visit",
+      "Date": "2012-03-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "La Crosse, Wisconsin, United States",
+      "Title": "\u201cAn excellent place to stay\u201d",
+      "Author": "Diane582",
+      "ReviewID": "UR122567296",
+      "Content": "surprised negative reviews hotel top notch hotel staff location stayed 8 nights dec 26 jan check smooth painless ready top floor balcony access terrace table 4 chairs begin day breakfast consisting couple kinds bread croissants fresh fruit types juice ham sausage cheese cereal assorted items breakfast table person running breakfast seeing romeo friendly spoken person loves serve looked forward seeing morning cleaned daily dirty ample space 4 beds comfortable busy check tv extent 5 minutes day staff greeted acknowledged valued customers location short 15 block walk metro whereever typically walk metro exploring rome foot recommend able short 1520 walk st peters vatican walk consisted hour walk colosseum detours spanish steps trevi fountain eve suprised champagne 4 wine glasses nice treated checkout 300 am smooth effecient called taxi airport picked 5 minutes peter runs friendly hotel wonderful staff outstanding location hotel treat",
+      "Date": "2012-01-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "malaysia",
+      "Title": "\u201cHOTEL GERBER\u201d",
+      "Author": "JohnsonArokiasamy",
+      "ReviewID": "UR120691100",
+      "Content": "hotel manager peter taking care customers humble polite choose hotel help price reasonable located heart city nearest historical rome italy live",
+      "Date": "2011-11-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bras\u00edlia",
+      "Title": "\u201cGreat location, familiar and good service, but a little disappointing.\u201d",
+      "Author": "FelipeRocha",
+      "ReviewID": "UR82878655",
+      "Content": "wife little disappointed hotel highly recommended sites internet negatives bath water leaking floor bathroom cleaning poor didn\u2019t exchange bedding breakfast simple bad worst times door clean sleeping time packing leave tour positives hotel staff attentive modern equipped airconditioning essential summer location block subway close restaurants shopping vatican free speed internet despite negatives recomend stay",
+      "Date": "2010-10-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Atlanta, Georgia",
+      "Title": "\u201cGreat location, clean, friendly, abundant breakfast.\u201d",
+      "Author": "Gardener77",
+      "ReviewID": "UR68376326",
+      "Content": "location halfway vatican peoples plaza piazza del popolo perfectly located walk sights foot 10 20 minutes walked spotless bed comfortable staff helpful breakfast abundant varied observation bathroom tiny especially shower help thank lucky stars husband overweight 10 lbs heavier gotten shower perfect sleek thin larger americans beware",
+      "Date": "2010-06-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Gerber",
+    "HotelURL": "/ShowUserReviews-g187791-d236168-Reviews-Hotel_Gerber-Rome_Lazio.html",
+    "Price": "$69 - $198*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via degli Scipioni 241</span>, <span class=\"locality\"><span property=\"v:postal-code\">00192</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "236168",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/3c/07/2c/hall.jpg"
+  }
+}

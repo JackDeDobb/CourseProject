@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Perth, Australia", "Title": "\u201cNew Years Surprise!\u201d", "Author": "AnitaBen", "ReviewID": "UR122572835", "Content": "searched low accommodation period travelling sydney resolution nye concert delightful surprise didnt 3 day trip cause costing fortune location fine enjoyed walks opposed expensive taxi option modern clean tidy preference bigger lit bathroom plenty trendy shops cafes visit crown street provided common help yourself coffee breakfast own time everyday cleaned inside building pub restaurant opposite busy intersection struggle hear yourself surprisingly time friday sunday busiest times wasnt fanciest hotel stayed met whirlwind trip save money staying shops city relax definitely stay", "Date": "2012-01-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Brisbane, Australia", "Title": "\u201csurprising and good\u201d", "Author": "BusinessExpert", "ReviewID": "UR94723923", "Content": "am regular traveler stayed hundreds hotels surprise cab pulled pub dragged bags crown hotel accommodation positive bar staff manager stairs halls dark suddenly lit sensor lights bit odd clean tidy reasonably appointed furniture etc light fittings including chair plastic sort brothel mentioned pub ran 24hours day busy intersection concerned noise surprised night helped wide range restaurants etc half am surprised licence run classy odd mix street coles supermarket road ok price 160 night means city", "Date": "2011-01-28 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cgood value in a convenient location!\u201d", "Author": "c3j7s", "ReviewID": "UR85800210", "Content": "hesitant book hotel reading reviews couldnt resist wotif price 120 surry hills perfect size decor fantastic love surry hills bit snob comes hotels wouldnt reccommend theres silver service casual thats actually liked facing crown street noise traffic wasnt pleasant blinds dont sun youre jetlagged desperate undisturbed sleep bring earplugs liked grab drink downstairs bar bottle shops closed trendy casual spacious modern surry hills cant complain 120 bargain", "Date": "2010-11-03 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Adelaide, Australia", "Title": "\u201cLet down by poor housekeeping\u201d", "Author": "oakbelle", "ReviewID": "UR72208884", "Content": "noisy \u00e2\u20ac\u201c ear plugs cross road smart white timber venetians don\u00e2\u20ac\u2122t street lighting \u00e2\u20ac\u201c travel mask smartly fitted poor housekeeping crinkled pillowcases home washed towels bearing makeup marks 3 bathmats towel washer coffee cups teaspoons glasses provided spoke manager people steal provide 160 night person coffee cup glass provided lovely barman obligingly provided 11pm plus ice bucket ice coathangers tissues fridge totally iced mini bar drinks frozen solid 5 bottles juice date dated march 09 july 24 2010 fridge spilt cream milk previous occupant day housekeeping remove wash glass mug milk provided coffee checking date 22 july 24 july left longlife milk", "Date": "2010-07-25 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Brisbane, Australia", "Title": "\u201cNice idea - let down by lack of attention to detail\u201d", "Author": "brisgooner", "ReviewID": "UR71982109", "Content": "didnt realise pub booked researched fault arrival 830pm tried check silent treatment assume shift manager pub checked perfectly bit noisy pub crown st thats ok goes territory shower deceive looks someones palace run wet little water coming exactly bargain decent chain hotel pretty rate probably ok youre groovy im youre groovy dont actually sleep shower", "Date": "2010-07-23 00:00:00"}], "HotelInfo": {"Name": "Crown Hotel", "HotelURL": "/ShowUserReviews-g255060-d653619-Reviews-Crown_Hotel-Sydney_New_South_Wales.html", "Price": "$247 - $361*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">589 Crown Street</span> | <span class=\"extended-address\">Surrey Hills</span>, <span class=\"locality\"><span property=\"v:locality\">Sydney</span>, <span property=\"v:region\">New South Wales</span> <span property=\"v:postal-code\">2010</span></span>, <span class=\"country-name\" property=\"v:country-name\">Australia</span> </span></span></address>", "HotelID": "653619", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/08/87/6e/bedding.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Perth, Australia",
+      "Title": "\u201cNew Years Surprise!\u201d",
+      "Author": "AnitaBen",
+      "ReviewID": "UR122572835",
+      "Content": "searched low accommodation period travelling sydney resolution nye concert delightful surprise didnt 3 day trip cause costing fortune location fine enjoyed walks opposed expensive taxi option modern clean tidy preference bigger lit bathroom plenty trendy shops cafes visit crown street provided common help yourself coffee breakfast own time everyday cleaned inside building pub restaurant opposite busy intersection struggle hear yourself surprisingly time friday sunday busiest times wasnt fanciest hotel stayed met whirlwind trip save money staying shops city relax definitely stay",
+      "Date": "2012-01-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Brisbane, Australia",
+      "Title": "\u201csurprising and good\u201d",
+      "Author": "BusinessExpert",
+      "ReviewID": "UR94723923",
+      "Content": "am regular traveler stayed hundreds hotels surprise cab pulled pub dragged bags crown hotel accommodation positive bar staff manager stairs halls dark suddenly lit sensor lights bit odd clean tidy reasonably appointed furniture etc light fittings including chair plastic sort brothel mentioned pub ran 24hours day busy intersection concerned noise surprised night helped wide range restaurants etc half am surprised licence run classy odd mix street coles supermarket road ok price 160 night means city",
+      "Date": "2011-01-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cgood value in a convenient location!\u201d",
+      "Author": "c3j7s",
+      "ReviewID": "UR85800210",
+      "Content": "hesitant book hotel reading reviews couldnt resist wotif price 120 surry hills perfect size decor fantastic love surry hills bit snob comes hotels wouldnt reccommend theres silver service casual thats actually liked facing crown street noise traffic wasnt pleasant blinds dont sun youre jetlagged desperate undisturbed sleep bring earplugs liked grab drink downstairs bar bottle shops closed trendy casual spacious modern surry hills cant complain 120 bargain",
+      "Date": "2010-11-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Adelaide, Australia",
+      "Title": "\u201cLet down by poor housekeeping\u201d",
+      "Author": "oakbelle",
+      "ReviewID": "UR72208884",
+      "Content": "noisy \u00e2\u20ac\u201c ear plugs cross road smart white timber venetians don\u00e2\u20ac\u2122t street lighting \u00e2\u20ac\u201c travel mask smartly fitted poor housekeeping crinkled pillowcases home washed towels bearing makeup marks 3 bathmats towel washer coffee cups teaspoons glasses provided spoke manager people steal provide 160 night person coffee cup glass provided lovely barman obligingly provided 11pm plus ice bucket ice coathangers tissues fridge totally iced mini bar drinks frozen solid 5 bottles juice date dated march 09 july 24 2010 fridge spilt cream milk previous occupant day housekeeping remove wash glass mug milk provided coffee checking date 22 july 24 july left longlife milk",
+      "Date": "2010-07-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Brisbane, Australia",
+      "Title": "\u201cNice idea - let down by lack of attention to detail\u201d",
+      "Author": "brisgooner",
+      "ReviewID": "UR71982109",
+      "Content": "didnt realise pub booked researched fault arrival 830pm tried check silent treatment assume shift manager pub checked perfectly bit noisy pub crown st thats ok goes territory shower deceive looks someones palace run wet little water coming exactly bargain decent chain hotel pretty rate probably ok youre groovy im youre groovy dont actually sleep shower",
+      "Date": "2010-07-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Crown Hotel",
+    "HotelURL": "/ShowUserReviews-g255060-d653619-Reviews-Crown_Hotel-Sydney_New_South_Wales.html",
+    "Price": "$247 - $361*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">589 Crown Street</span> | <span class=\"extended-address\">Surrey Hills</span>, <span class=\"locality\"><span property=\"v:locality\">Sydney</span>, <span property=\"v:region\">New South Wales</span> <span property=\"v:postal-code\">2010</span></span>, <span class=\"country-name\" property=\"v:country-name\">Australia</span> </span></span></address>",
+    "HotelID": "653619",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/08/87/6e/bedding.jpg"
+  }
+}

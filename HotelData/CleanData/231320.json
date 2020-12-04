@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cThe very worst I have stayed in Amsterdam\u201d", "Author": "SennamanUK", "ReviewID": "UR118367014", "Content": "booked minute trip amsterdam wife cheap clean hotel location fair ain location thats pit totally refurbished reception actually stair amsterdam hotels loads people hours night coming complained basically tough checked stayed 50 meters road tatty cramped dirty disrepair recommend bench squares stay peril", "Date": "2011-09-20 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Katwijk aan Zee, The Netherlands", "Title": "\u201cvery very bad!!!\u201d", "Author": "joanie86", "ReviewID": "UR107656425", "Content": "arived hotel shocked building completly renovated fit living windows boarded looked terrible look building windows woud building laying floor looked entrance luck found accomodation elsewhere 3 days realised charged night hotel inconvenience arriving check booked online apparently didnt look stayed anyway location rest terrible", "Date": "2011-05-10 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Nottingham", "Title": "\u201cAll you'll find is an empty building!!!\u201d", "Author": "NottinghamToffee", "ReviewID": "UR95280793", "Content": "booked august trip correspondence hotel closed imagine shock arrived confronted building sale shell advice youve mistake internet lovely hotel wander street book apartment thankfully found staff wonderful sorted accommodation minutes apartment clean cosy cheaper damrak", "Date": "2011-02-02 00:00:00"}], "HotelInfo": {"Name": "Hotel Damrak", "HotelURL": "/ShowUserReviews-g188590-d231320-Reviews-Hotel_Damrak-Amsterdam_Noord_Holland.html", "Price": "$92 - $211*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Damrak 49</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1012 LL</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>", "HotelID": "231320", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ae/0e/ae0e6b6fb3f172dbcb032cd62542d4c01large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cThe very worst I have stayed in Amsterdam\u201d",
+      "Author": "SennamanUK",
+      "ReviewID": "UR118367014",
+      "Content": "booked minute trip amsterdam wife cheap clean hotel location fair ain location thats pit totally refurbished reception actually stair amsterdam hotels loads people hours night coming complained basically tough checked stayed 50 meters road tatty cramped dirty disrepair recommend bench squares stay peril",
+      "Date": "2011-09-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Katwijk aan Zee, The Netherlands",
+      "Title": "\u201cvery very bad!!!\u201d",
+      "Author": "joanie86",
+      "ReviewID": "UR107656425",
+      "Content": "arived hotel shocked building completly renovated fit living windows boarded looked terrible look building windows woud building laying floor looked entrance luck found accomodation elsewhere 3 days realised charged night hotel inconvenience arriving check booked online apparently didnt look stayed anyway location rest terrible",
+      "Date": "2011-05-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Nottingham",
+      "Title": "\u201cAll you'll find is an empty building!!!\u201d",
+      "Author": "NottinghamToffee",
+      "ReviewID": "UR95280793",
+      "Content": "booked august trip correspondence hotel closed imagine shock arrived confronted building sale shell advice youve mistake internet lovely hotel wander street book apartment thankfully found staff wonderful sorted accommodation minutes apartment clean cosy cheaper damrak",
+      "Date": "2011-02-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Damrak",
+    "HotelURL": "/ShowUserReviews-g188590-d231320-Reviews-Hotel_Damrak-Amsterdam_Noord_Holland.html",
+    "Price": "$92 - $211*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Damrak 49</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1012 LL</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>",
+    "HotelID": "231320",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ae/0e/ae0e6b6fb3f172dbcb032cd62542d4c01large.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "New Jersey", "Title": "\u201cPerfect hotel choice in Berlin\u201d", "Author": "LisaZ_NewJersey", "ReviewID": "UR127130002", "Content": "stay prenzlauer berg berlin stay selected hotel based reviews photos site disappointed hotel little main sites subway stop street walk center city enjoyable nice residential definitely stay clean spacious updated hotel staff pleasant helpful definite value", "Date": "2012-04-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Geneva, Switzerland", "Title": "\u201cA Berlin experience\u201d", "Author": "BernieBird", "ReviewID": "UR122878862", "Content": "expectation booking hotel surprise guess experience real berlin building lights colors sad huge volume special atomosphere recommend stay overnight business leisure 6th december celebrated germany received nice huge chocolate gift", "Date": "2012-01-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Gloucestershire", "Title": "\u201cA great place to stay in Berlin!\u201d", "Author": "CharleyWood", "ReviewID": "UR121851639", "Content": "stayed week beginning december impressed price paid clean spacious comfortable staff friendly helpful speak english dont speak german hotel berg lots cafes resturants safe neighbourhood walk night im single female wasnt scared ubahn tram close easy access mitte beyond", "Date": "2011-12-18 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Stamford, Connecticut", "Title": "\u201cVery pleasant stay\u201d", "Author": "Putnam74", "ReviewID": "UR85641081", "Content": "sometimes wonder negative reviews stayed myers twice days found pleasant breakfast looked bit pricy half block cafe prenzlauer allee serves delicious breakfast dont staff particularly pleasant helpful excellent english skills american standards european standards disappointed minifridge charge using internet minor concerns comfortable quiet advantage residential street overlooked courtyard smell smoke hotel appears renovated recently charmingly decorated", "Date": "2010-11-01 00:00:00"}], "HotelInfo": {"Name": "Myer's Hotel - Berlin", "HotelURL": "/ShowUserReviews-g187323-d299990-Reviews-Myer_s_Hotel_Berlin-Berlin.html", "Price": "$75 - $589*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Metzer Strasse 26</span>, <span class=\"locality\"><span property=\"v:postal-code\">10405</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "299990", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a5/a8/a5a88cb0501d136ea8008ffbe39028fe4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "New Jersey",
+      "Title": "\u201cPerfect hotel choice in Berlin\u201d",
+      "Author": "LisaZ_NewJersey",
+      "ReviewID": "UR127130002",
+      "Content": "stay prenzlauer berg berlin stay selected hotel based reviews photos site disappointed hotel little main sites subway stop street walk center city enjoyable nice residential definitely stay clean spacious updated hotel staff pleasant helpful definite value",
+      "Date": "2012-04-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Geneva, Switzerland",
+      "Title": "\u201cA Berlin experience\u201d",
+      "Author": "BernieBird",
+      "ReviewID": "UR122878862",
+      "Content": "expectation booking hotel surprise guess experience real berlin building lights colors sad huge volume special atomosphere recommend stay overnight business leisure 6th december celebrated germany received nice huge chocolate gift",
+      "Date": "2012-01-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Gloucestershire",
+      "Title": "\u201cA great place to stay in Berlin!\u201d",
+      "Author": "CharleyWood",
+      "ReviewID": "UR121851639",
+      "Content": "stayed week beginning december impressed price paid clean spacious comfortable staff friendly helpful speak english dont speak german hotel berg lots cafes resturants safe neighbourhood walk night im single female wasnt scared ubahn tram close easy access mitte beyond",
+      "Date": "2011-12-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Stamford, Connecticut",
+      "Title": "\u201cVery pleasant stay\u201d",
+      "Author": "Putnam74",
+      "ReviewID": "UR85641081",
+      "Content": "sometimes wonder negative reviews stayed myers twice days found pleasant breakfast looked bit pricy half block cafe prenzlauer allee serves delicious breakfast dont staff particularly pleasant helpful excellent english skills american standards european standards disappointed minifridge charge using internet minor concerns comfortable quiet advantage residential street overlooked courtyard smell smoke hotel appears renovated recently charmingly decorated",
+      "Date": "2010-11-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Myer's Hotel - Berlin",
+    "HotelURL": "/ShowUserReviews-g187323-d299990-Reviews-Myer_s_Hotel_Berlin-Berlin.html",
+    "Price": "$75 - $589*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Metzer Strasse 26</span>, <span class=\"locality\"><span property=\"v:postal-code\">10405</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "299990",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a5/a8/a5a88cb0501d136ea8008ffbe39028fe4large.jpg"
+  }
+}

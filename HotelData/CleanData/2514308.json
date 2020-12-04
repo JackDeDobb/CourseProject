@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Glasgow, United Kingdom", "Title": "\u201cbudget accomodation\u201d", "Author": "steven l", "ReviewID": "UR126913479", "Content": "staying whilst doing contractor pleasant helpfull clean presentable bathroom suite fitted recently 17 twin 65 pounds night 3 weeks banks shops local nice little park selection pubs bit pricey basically ritz pay prices basic accomodation thats clean fine", "Date": "2012-03-29 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Leeds, England, United Kingdom", "Title": "\u201cNever Again\u201d", "Author": "Jacob L", "ReviewID": "UR121119693", "Content": "oh god worst hotel experience weve hotel located busy road parking wife nearby residential streets parking spacethe walls decor dated desperate didnt chance visit floors floor 1st floor engulfed cigarrette smell supposed nonsmoking hotel smell cigarrettes intense whenever returned hotel door cig smell hits sleep ok sheets smelt cigs unbearable shower disgrace revolting breakfast real breakfast bunch cheap fruits bread short hotel againnot sleep yuk", "Date": "2011-11-28 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Southampton, United Kingdom", "Title": "\u201cFar better than expected after reading reviews on here!\u201d", "Author": "psychpolly", "ReviewID": "UR120592724", "Content": "prior trip read reviews site genuinely apprehensive arrival discover couple stayed 4 nights choosing hotel central london cheap included breakfast ensuite tiny adequate werent planning spending bathroom towels bed linen undeniably clean hotel shabby attention safe clean main especially reading negative reviews tube station walk buses regular breakfast toast cereal fruit hardly expected english budget hotel customer service lacking werent luxury treatment keys left reception isnt ideal reviewers unfortunate lucky am believer people write review theyve bad experience believe deserved balanced review basic budget hotel centre london avoid youre expecting luxury probably fine safe clean base plus personally am fan brushing teeth whilst sat toilet", "Date": "2011-11-14 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Nottingham, United Kingdom", "Title": "\u201cIn 2011 do hotels like this really exist!\u201d", "Author": "NorthernMonkey47", "ReviewID": "UR109157738", "Content": "hotel unclean bed sheets unclean changed pretended theyd changed sticky furniture fire doors upper traffic noise night front buildingi cheap unacceptable levels hygiene noise sleep difficult", "Date": "2011-05-21 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Bicester, United Kingdom", "Title": "\u201cAbsolutely bloody awful (and that's being kind)\u201d", "Author": "elliott74", "ReviewID": "UR100969568", "Content": "bigger broom cupboard bathroom absolutely filthy dare shower hotel complimentary stripe snot bathroom door sheets appeared clean bed pillows hard hot noisy night cancelled arrived couldnt afford lose money days arrived pay hotel recommend hotel disliked", "Date": "2011-03-21 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Liverpool, United Kingdom", "Title": "\u201cwhat a complete dump!!!!!!!!!\u201d", "Author": "p_ofdarkness67", "ReviewID": "UR72976830", "Content": "carpets corridor looked bad care home floor carpet nasty wooden flooring scrapped cheap portable telly hand shop beds nearly floor low shelf type beds phone fag burns stale odour smoked breakfast crap skipped rest staythis name hotel bbs standards idea leave key advise leaving value wouldnt safe spent sleeping time stayed late spend time hotel nice dont mind bit getting impression fear possibility bed bugs luckily blessing", "Date": "2010-07-30 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "manchester", "Title": "\u201cPretty poor but you get what you pay for\u201d", "Author": "zoobus", "ReviewID": "UR64205544", "Content": "chose hotel relatively close brixton academy 30 minute walk noisy street tiny smelled paint ancient cheap \u00a360 night probably cheap london hotel breakfast toast cereal bed comfortable sheets clean wouldnt recommend except resort", "Date": "2010-05-15 00:00:00"}], "HotelInfo": {"Name": "The New Dome Hotel", "HotelURL": "/ShowUserReviews-g186338-d275448-Reviews-The_New_Dome_Hotel-London_England.html", "Price": "$103 - $119*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">51-53 Camberwell Church St</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">SE5 8TR</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>", "HotelID": "2514308", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a3/5d/a35d8745adaf62c2619b46c17bea3ab83large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Glasgow, United Kingdom",
+      "Title": "\u201cbudget accomodation\u201d",
+      "Author": "steven l",
+      "ReviewID": "UR126913479",
+      "Content": "staying whilst doing contractor pleasant helpfull clean presentable bathroom suite fitted recently 17 twin 65 pounds night 3 weeks banks shops local nice little park selection pubs bit pricey basically ritz pay prices basic accomodation thats clean fine",
+      "Date": "2012-03-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Leeds, England, United Kingdom",
+      "Title": "\u201cNever Again\u201d",
+      "Author": "Jacob L",
+      "ReviewID": "UR121119693",
+      "Content": "oh god worst hotel experience weve hotel located busy road parking wife nearby residential streets parking spacethe walls decor dated desperate didnt chance visit floors floor 1st floor engulfed cigarrette smell supposed nonsmoking hotel smell cigarrettes intense whenever returned hotel door cig smell hits sleep ok sheets smelt cigs unbearable shower disgrace revolting breakfast real breakfast bunch cheap fruits bread short hotel againnot sleep yuk",
+      "Date": "2011-11-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Southampton, United Kingdom",
+      "Title": "\u201cFar better than expected after reading reviews on here!\u201d",
+      "Author": "psychpolly",
+      "ReviewID": "UR120592724",
+      "Content": "prior trip read reviews site genuinely apprehensive arrival discover couple stayed 4 nights choosing hotel central london cheap included breakfast ensuite tiny adequate werent planning spending bathroom towels bed linen undeniably clean hotel shabby attention safe clean main especially reading negative reviews tube station walk buses regular breakfast toast cereal fruit hardly expected english budget hotel customer service lacking werent luxury treatment keys left reception isnt ideal reviewers unfortunate lucky am believer people write review theyve bad experience believe deserved balanced review basic budget hotel centre london avoid youre expecting luxury probably fine safe clean base plus personally am fan brushing teeth whilst sat toilet",
+      "Date": "2011-11-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Nottingham, United Kingdom",
+      "Title": "\u201cIn 2011 do hotels like this really exist!\u201d",
+      "Author": "NorthernMonkey47",
+      "ReviewID": "UR109157738",
+      "Content": "hotel unclean bed sheets unclean changed pretended theyd changed sticky furniture fire doors upper traffic noise night front buildingi cheap unacceptable levels hygiene noise sleep difficult",
+      "Date": "2011-05-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Bicester, United Kingdom",
+      "Title": "\u201cAbsolutely bloody awful (and that's being kind)\u201d",
+      "Author": "elliott74",
+      "ReviewID": "UR100969568",
+      "Content": "bigger broom cupboard bathroom absolutely filthy dare shower hotel complimentary stripe snot bathroom door sheets appeared clean bed pillows hard hot noisy night cancelled arrived couldnt afford lose money days arrived pay hotel recommend hotel disliked",
+      "Date": "2011-03-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Liverpool, United Kingdom",
+      "Title": "\u201cwhat a complete dump!!!!!!!!!\u201d",
+      "Author": "p_ofdarkness67",
+      "ReviewID": "UR72976830",
+      "Content": "carpets corridor looked bad care home floor carpet nasty wooden flooring scrapped cheap portable telly hand shop beds nearly floor low shelf type beds phone fag burns stale odour smoked breakfast crap skipped rest staythis name hotel bbs standards idea leave key advise leaving value wouldnt safe spent sleeping time stayed late spend time hotel nice dont mind bit getting impression fear possibility bed bugs luckily blessing",
+      "Date": "2010-07-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "manchester",
+      "Title": "\u201cPretty poor but you get what you pay for\u201d",
+      "Author": "zoobus",
+      "ReviewID": "UR64205544",
+      "Content": "chose hotel relatively close brixton academy 30 minute walk noisy street tiny smelled paint ancient cheap \u00a360 night probably cheap london hotel breakfast toast cereal bed comfortable sheets clean wouldnt recommend except resort",
+      "Date": "2010-05-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "The New Dome Hotel",
+    "HotelURL": "/ShowUserReviews-g186338-d275448-Reviews-The_New_Dome_Hotel-London_England.html",
+    "Price": "$103 - $119*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">51-53 Camberwell Church St</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">SE5 8TR</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>",
+    "HotelID": "2514308",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a3/5d/a35d8745adaf62c2619b46c17bea3ab83large.jpg"
+  }
+}

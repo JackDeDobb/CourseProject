@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "", "Title": "\u201cNear attractions in a quiet neighbourhood\u201d", "Author": "SoPl", "ReviewID": "UR120916369", "Content": "hotel near eiffel tower metro residential street balcony faced quiet garden furniture adequate run kitchenette plus plus free internet connection functioned excellently staff friendly drawback reception closed hours noon weekend altogether value money", "Date": "2011-11-22 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Paris, France", "Title": "\u201cPosive and negative points read before booking\u201d", "Author": "Darnaud", "ReviewID": "UR119827470", "Content": "start positive location convenient stated size paris standards outside space balcony terrace summer glass wine view eiffel tower negative stayed 5 ones major talking ugly stains carpets chairs ripped covers 4 chairs relatively ok rip sofa beds studio thin mattress left uncomfortable nights sleep noisy badly insulated traffic noise doors windows dont close makes drafty hate imagine staying winter friendly speak english rare paris hotels standard feel doing huge favour letting stay overheard giving price phone french realise speak fluent french hugely reduced rate offered foreigners charged repeat client guy speaking phone 85 euro anyhow hotel policy suggest reservations front desk time clients checking badly cleaned rubbish removed discovered note own rubbish weve stayed weekend ghost town nice front desk guy unfortunately weekend couple hours morning times front entrance closed speak help bit worrying note lift saying 2 people lift wonder happens lift stuck weekend hotel closed staff stairs worst fire overall bad service bad quality cleaning leaves lot desired stained sheets beds guess washed stains stayed threadbare towels invest linens stay assume coming paris staying indoors priority stay otherwise highly suggest else hotel cleans act coming recommend friends", "Date": "2011-10-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Baku", "Title": "\u201cThe best hotel ever\u201d", "Author": "LamanVJ", "ReviewID": "UR88150033", "Content": "weve paris budget 2 nights absolutely amazed weve panoramic window balcony table couple chairs nice evening dring looking eiffel tower location absolutely close staff friendly clean breakfast ok kitchenette useful save lot food expensive paris aware 24hour receiption taxi tickets attractions 6 pm yourself wifi phone didnt noticed break lunch arrive hotel luch time checkin front door locked pleasant time nearby cafe didnt mind issue travelling paris times staying hotels 100eur night hotel price location definitely recommend", "Date": "2010-11-25 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Ireland", "Title": "\u201cPoor quality and service\u201d", "Author": "PatrickjIreland", "ReviewID": "UR62215463", "Content": "found staff ok preference local rebookings decor photos website hotel urgent complete renovation opposed lick paint damp walls etc positive convenient tourist attractions detract giving quality service due demand wrong pretty basic value money proper sleep due noise thin walls floors", "Date": "2010-04-23 00:00:00"}], "HotelInfo": {"Name": "Adagio Access Paris Tour Eiffel Saint Charles", "HotelURL": "/ShowUserReviews-g187147-d578345-Reviews-Adagio_Access_Paris_Tour_Eiffel_Saint_Charles-Paris_Ile_de_France.html", "Price": "$107 - $180*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">43 rue Saint Charles</span> | <span class=\"extended-address\">15th Arr.</span>, <span class=\"locality\"><span property=\"v:postal-code\">75015</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> (Formerly Citea Tour Eiffel)</span> </span> </address>", "HotelID": "578345", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/66/70/66705e992dd1868939dced84e51d41f24large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cNear attractions in a quiet neighbourhood\u201d",
+      "Author": "SoPl",
+      "ReviewID": "UR120916369",
+      "Content": "hotel near eiffel tower metro residential street balcony faced quiet garden furniture adequate run kitchenette plus plus free internet connection functioned excellently staff friendly drawback reception closed hours noon weekend altogether value money",
+      "Date": "2011-11-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Paris, France",
+      "Title": "\u201cPosive and negative points read before booking\u201d",
+      "Author": "Darnaud",
+      "ReviewID": "UR119827470",
+      "Content": "start positive location convenient stated size paris standards outside space balcony terrace summer glass wine view eiffel tower negative stayed 5 ones major talking ugly stains carpets chairs ripped covers 4 chairs relatively ok rip sofa beds studio thin mattress left uncomfortable nights sleep noisy badly insulated traffic noise doors windows dont close makes drafty hate imagine staying winter friendly speak english rare paris hotels standard feel doing huge favour letting stay overheard giving price phone french realise speak fluent french hugely reduced rate offered foreigners charged repeat client guy speaking phone 85 euro anyhow hotel policy suggest reservations front desk time clients checking badly cleaned rubbish removed discovered note own rubbish weve stayed weekend ghost town nice front desk guy unfortunately weekend couple hours morning times front entrance closed speak help bit worrying note lift saying 2 people lift wonder happens lift stuck weekend hotel closed staff stairs worst fire overall bad service bad quality cleaning leaves lot desired stained sheets beds guess washed stains stayed threadbare towels invest linens stay assume coming paris staying indoors priority stay otherwise highly suggest else hotel cleans act coming recommend friends",
+      "Date": "2011-10-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Baku",
+      "Title": "\u201cThe best hotel ever\u201d",
+      "Author": "LamanVJ",
+      "ReviewID": "UR88150033",
+      "Content": "weve paris budget 2 nights absolutely amazed weve panoramic window balcony table couple chairs nice evening dring looking eiffel tower location absolutely close staff friendly clean breakfast ok kitchenette useful save lot food expensive paris aware 24hour receiption taxi tickets attractions 6 pm yourself wifi phone didnt noticed break lunch arrive hotel luch time checkin front door locked pleasant time nearby cafe didnt mind issue travelling paris times staying hotels 100eur night hotel price location definitely recommend",
+      "Date": "2010-11-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Ireland",
+      "Title": "\u201cPoor quality and service\u201d",
+      "Author": "PatrickjIreland",
+      "ReviewID": "UR62215463",
+      "Content": "found staff ok preference local rebookings decor photos website hotel urgent complete renovation opposed lick paint damp walls etc positive convenient tourist attractions detract giving quality service due demand wrong pretty basic value money proper sleep due noise thin walls floors",
+      "Date": "2010-04-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Adagio Access Paris Tour Eiffel Saint Charles",
+    "HotelURL": "/ShowUserReviews-g187147-d578345-Reviews-Adagio_Access_Paris_Tour_Eiffel_Saint_Charles-Paris_Ile_de_France.html",
+    "Price": "$107 - $180*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">43 rue Saint Charles</span> | <span class=\"extended-address\">15th Arr.</span>, <span class=\"locality\"><span property=\"v:postal-code\">75015</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> (Formerly Citea Tour Eiffel)</span> </span> </address>",
+    "HotelID": "578345",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/66/70/66705e992dd1868939dced84e51d41f24large.jpg"
+  }
+}

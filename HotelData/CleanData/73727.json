@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Cranbrook, Canada", "Title": "\u201cOlder property, 100% smoke free.\u201d", "Author": "Dawn B", "ReviewID": "UR127494752", "Content": "booked hotel advertised smoking check day travelling informed kim front desk wonderful cheap tickets phone looked listing website ensured refund stay night late time appears grand hotel day maintenance issues reported stood front desk hold cheap tickets 12 hour 12 hour finallly person review cheap tickets separate staff hotel accomodating attended maintenance issues quickly believe hands pool gorgeous elevators balconies tables chairs fridge microwave hot water bathroom sink able bath getting help getting plug instructions water bath 5 times cable hook internet able bar wifi search hotel kim saved day reads stays overnight person comes 11pm please tell compliment online frazzled", "Date": "2012-04-08 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Raleigh", "Title": "\u201cDreadful\u201d", "Author": "Mark B", "ReviewID": "UR126322357", "Content": "dirty dark dated air conditioning broken 3 night stay advertised amenities nonexistent ie inroom wifi pool bar restaurant upholstery furniture restaurant filthy hadnt prepaid id found lodgings plus convenient access 10 restaurants street centrally located", "Date": "2012-03-19 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "San Jose, California", "Title": "\u201cThe lowest\u201d", "Author": "GarryPy", "ReviewID": "UR125078771", "Content": "ive stayed hotels lowest renovation decades meant 70s look wifi beyond 2nd floor tv half dead breakfast insult", "Date": "2012-02-23 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Pleasant Prairie", "Title": "\u201cPhoenix vist\u201d", "Author": "bearman_10", "ReviewID": "UR124024937", "Content": "enjoyed stay grace inn nice people busy feeling run staff friendly helpful granted bit fine hotel clean value money nice hot tub head phoenix stay frig microwave", "Date": "2012-02-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Parker, Colorado", "Title": "\u201cDated, but Pretty Good\u201d", "Author": "DrTom234", "ReviewID": "UR121134826", "Content": "wwe looking pretty cheap hotel close family expedia 30 99 price 99 overpriced dated property sink fridge microwave sat weird spot counter shower dated bed comfortable relatively quiet overly impressed property service left jewelry checked called found held thankful", "Date": "2011-11-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Phoenix, Arizona", "Title": "\u201cGreat Resort!\u201d", "Author": "danappraise", "ReviewID": "UR86211760", "Content": "wow enjoyed stay grace inn hotel staff treated olimpica nice welcomed arms booked ball event nancy jim terriffic thank amazing stay dan", "Date": "2010-11-06 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Tubac, Arizona", "Title": "\u201cCannot Recommend\u201d", "Author": "68ElCamino", "ReviewID": "UR84785510", "Content": "am sorry recommend hotel ago friend stayed grace inn remember fairly nice upscale hotel boy changed wife checked call informing minute decision trip am glad stay hotel arrived dark lights burnedout parking lot lot dark exterior lights building burnedout flickering giving creepy feeling elevator odd clunking noises elevator doors hallway looked depressing musty smell tired completely clean consider wearing socks bed dont walk carpet bare feet looks updated 10 furnishing looked rough couldn\u2019t pay sit couch chair ac system loud worst toilet cleaned prior arrival unacceptable television lot channels bed altogether uncomfortable larger standard hotels features wet bar glad 6 am morning", "Date": "2010-10-25 00:00:00"}], "HotelInfo": {"Name": "Grace Inn Phoenix", "HotelURL": "/ShowUserReviews-g31310-d73727-Reviews-Grace_Inn_Phoenix-Phoenix_Arizona.html", "Price": "$74 - $121*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">10831 South 51st Street</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85044</span></span> </span></span></address>", "HotelID": "73727", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/a7/e4/e2/grace-inn.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Cranbrook, Canada",
+      "Title": "\u201cOlder property, 100% smoke free.\u201d",
+      "Author": "Dawn B",
+      "ReviewID": "UR127494752",
+      "Content": "booked hotel advertised smoking check day travelling informed kim front desk wonderful cheap tickets phone looked listing website ensured refund stay night late time appears grand hotel day maintenance issues reported stood front desk hold cheap tickets 12 hour 12 hour finallly person review cheap tickets separate staff hotel accomodating attended maintenance issues quickly believe hands pool gorgeous elevators balconies tables chairs fridge microwave hot water bathroom sink able bath getting help getting plug instructions water bath 5 times cable hook internet able bar wifi search hotel kim saved day reads stays overnight person comes 11pm please tell compliment online frazzled",
+      "Date": "2012-04-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Raleigh",
+      "Title": "\u201cDreadful\u201d",
+      "Author": "Mark B",
+      "ReviewID": "UR126322357",
+      "Content": "dirty dark dated air conditioning broken 3 night stay advertised amenities nonexistent ie inroom wifi pool bar restaurant upholstery furniture restaurant filthy hadnt prepaid id found lodgings plus convenient access 10 restaurants street centrally located",
+      "Date": "2012-03-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "San Jose, California",
+      "Title": "\u201cThe lowest\u201d",
+      "Author": "GarryPy",
+      "ReviewID": "UR125078771",
+      "Content": "ive stayed hotels lowest renovation decades meant 70s look wifi beyond 2nd floor tv half dead breakfast insult",
+      "Date": "2012-02-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Pleasant Prairie",
+      "Title": "\u201cPhoenix vist\u201d",
+      "Author": "bearman_10",
+      "ReviewID": "UR124024937",
+      "Content": "enjoyed stay grace inn nice people busy feeling run staff friendly helpful granted bit fine hotel clean value money nice hot tub head phoenix stay frig microwave",
+      "Date": "2012-02-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Parker, Colorado",
+      "Title": "\u201cDated, but Pretty Good\u201d",
+      "Author": "DrTom234",
+      "ReviewID": "UR121134826",
+      "Content": "wwe looking pretty cheap hotel close family expedia 30 99 price 99 overpriced dated property sink fridge microwave sat weird spot counter shower dated bed comfortable relatively quiet overly impressed property service left jewelry checked called found held thankful",
+      "Date": "2011-11-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Phoenix, Arizona",
+      "Title": "\u201cGreat Resort!\u201d",
+      "Author": "danappraise",
+      "ReviewID": "UR86211760",
+      "Content": "wow enjoyed stay grace inn hotel staff treated olimpica nice welcomed arms booked ball event nancy jim terriffic thank amazing stay dan",
+      "Date": "2010-11-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Tubac, Arizona",
+      "Title": "\u201cCannot Recommend\u201d",
+      "Author": "68ElCamino",
+      "ReviewID": "UR84785510",
+      "Content": "am sorry recommend hotel ago friend stayed grace inn remember fairly nice upscale hotel boy changed wife checked call informing minute decision trip am glad stay hotel arrived dark lights burnedout parking lot lot dark exterior lights building burnedout flickering giving creepy feeling elevator odd clunking noises elevator doors hallway looked depressing musty smell tired completely clean consider wearing socks bed dont walk carpet bare feet looks updated 10 furnishing looked rough couldn\u2019t pay sit couch chair ac system loud worst toilet cleaned prior arrival unacceptable television lot channels bed altogether uncomfortable larger standard hotels features wet bar glad 6 am morning",
+      "Date": "2010-10-25 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Grace Inn Phoenix",
+    "HotelURL": "/ShowUserReviews-g31310-d73727-Reviews-Grace_Inn_Phoenix-Phoenix_Arizona.html",
+    "Price": "$74 - $121*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">10831 South 51st Street</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85044</span></span> </span></span></address>",
+    "HotelID": "73727",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/a7/e4/e2/grace-inn.jpg"
+  }
+}

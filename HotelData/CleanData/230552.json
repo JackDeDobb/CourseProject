@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Preston, United Kingdom", "Title": "\u201cWeekend in Berlin\u201d", "Author": "den1401", "ReviewID": "UR125456891", "Content": "hotel stay near ground station road close bars entertainment evening 10 mins central berlin ground brilliant city pay zone easy ticket lasts day covers trains trams buses underground tower view zoo aquarium january wrapped warmer weather", "Date": "2012-03-01 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Hastings", "Title": "\u201cGreat base to explore a great city\u201d", "Author": "Euroscrote", "ReviewID": "UR123245440", "Content": "hotel special offer advertised travelzoo fantastic value money stayed nights time berlin offer hotel outside ity centre pleasant residential district red squirrel crossing street outside day spite relative tranquility local shops currywurst stall close quick delicious berlin delicacy hotel lunch evening meals excellent breakfast buffet receptionists recommended 15 minutes walk metro stops traditional german food evening ate nights hearty appetite portions generous metro minutes walk hotel links public transport system kurfurstendamm shops tour buses stops airport shuttle public transport bahn schonefeld couple changes cost euros day welcome ticket ripoff prices charged byt train operators london airport expresses perspective clean comfortable service efficient pleasant pleasant stay reasonable price", "Date": "2012-01-18 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Greater London", "Title": "\u201cEnjoyable solo stay but nothing special...\u201d", "Author": "mrvanp", "ReviewID": "UR118523702", "Content": "ive stayed city typically look hotel brand name 3 star quality outside centre town 15 minutes ubahn zoo station maybe 30 potsdamer platz basically hotel ticks box wouldnt average overall experience issues staying ifwhen berlin look staff bilingual spoke english couldnt understand bothered speak german tolerated keen improve own language skills fairness didnt local dont respect single standard western fittings wasnt unclean obviously worn refit western id stayed refitted 6 months difference obvious key offered hotel charge didnt charge offered accept 5050 id accepted didnt complain 40 euro addition bill checking issue safes deposit box option front desk fine easy believe german laws liability consistent elsewhere hotel facilities fixings fine complain brochure listed 4 probably closer 3 lifts werent exactly fast hotels ive stayed breakfast fine standard western deal tweaks note croissants didnt replaced virtually else wasnt exactly late breakfast couple day popular germans sleep slept home class average usually tend sleep touch hotels unimpressed woke tuesday 700am conference floor possibility outside cant mark location outside centre town met requirements ideal ubahn 100 metres hotel heart city 30 minutes front train heading towards heading towards strasse otherwise wrong exit wrong block head towards building value considering reflection wouldnt quiet upgrade dont benefit stay september 2011 time 4 nights bb excluding sleep probably hotel 34 hours day solo nonsmoking quiet hotel", "Date": "2011-09-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Shrewsbury, United Kingdom", "Title": "\u201cA port in a storm\u201d", "Author": "exwetherby", "ReviewID": "UR95090766", "Content": "fair hotel stayed 1 night tour tour company forgot book hotel cant easy accommodating 36 people 2300 whod driven berlin 4 hours nice barmaid kept bar 0100 wind relax couple hours standard city style breakfast nice avoided mouldy supermarket sliced bread toaster", "Date": "2011-01-31 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cOk but not in summer\u201d", "Author": "Balwinder_K_Dhaliwal", "ReviewID": "UR94689206", "Content": "hotel location near train bus stations near pharmacy sandwich shop 15 minutes walk supermarket didnt aircon stayed nights world cup 2006 hot lack aircon hard", "Date": "2011-01-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Walsall, United Kingdom", "Title": "\u201cbrill base in Berlin.\u201d", "Author": "oddw", "ReviewID": "UR92184279", "Content": "break xmas 2010 hotel situated restaurantsshops attractions ie zoo tiergarten highly recommend restaurant 55 excellent food service hotel 3 star standard clean comfortable excellent reception ladies breakfast tiny bit limited hotter city tour tickets reception 20 euro value city tour berlin", "Date": "2011-01-08 00:00:00"}], "HotelInfo": {"Name": "BEST WESTERN Queens Hotel Berlin City West", "HotelURL": "/ShowUserReviews-g187323-d230552-Reviews-BEST_WESTERN_Queens_Hotel_Berlin_City_West-Berlin.html", "Price": "$83 - $222*", "Address": "<div class=\"amenFloat\">", "HotelID": "230552", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5a/73/5a73bbf97825c6bcb1144ebd2bf414f44large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Preston, United Kingdom",
+      "Title": "\u201cWeekend in Berlin\u201d",
+      "Author": "den1401",
+      "ReviewID": "UR125456891",
+      "Content": "hotel stay near ground station road close bars entertainment evening 10 mins central berlin ground brilliant city pay zone easy ticket lasts day covers trains trams buses underground tower view zoo aquarium january wrapped warmer weather",
+      "Date": "2012-03-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Hastings",
+      "Title": "\u201cGreat base to explore a great city\u201d",
+      "Author": "Euroscrote",
+      "ReviewID": "UR123245440",
+      "Content": "hotel special offer advertised travelzoo fantastic value money stayed nights time berlin offer hotel outside ity centre pleasant residential district red squirrel crossing street outside day spite relative tranquility local shops currywurst stall close quick delicious berlin delicacy hotel lunch evening meals excellent breakfast buffet receptionists recommended 15 minutes walk metro stops traditional german food evening ate nights hearty appetite portions generous metro minutes walk hotel links public transport system kurfurstendamm shops tour buses stops airport shuttle public transport bahn schonefeld couple changes cost euros day welcome ticket ripoff prices charged byt train operators london airport expresses perspective clean comfortable service efficient pleasant pleasant stay reasonable price",
+      "Date": "2012-01-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Greater London",
+      "Title": "\u201cEnjoyable solo stay but nothing special...\u201d",
+      "Author": "mrvanp",
+      "ReviewID": "UR118523702",
+      "Content": "ive stayed city typically look hotel brand name 3 star quality outside centre town 15 minutes ubahn zoo station maybe 30 potsdamer platz basically hotel ticks box wouldnt average overall experience issues staying ifwhen berlin look staff bilingual spoke english couldnt understand bothered speak german tolerated keen improve own language skills fairness didnt local dont respect single standard western fittings wasnt unclean obviously worn refit western id stayed refitted 6 months difference obvious key offered hotel charge didnt charge offered accept 5050 id accepted didnt complain 40 euro addition bill checking issue safes deposit box option front desk fine easy believe german laws liability consistent elsewhere hotel facilities fixings fine complain brochure listed 4 probably closer 3 lifts werent exactly fast hotels ive stayed breakfast fine standard western deal tweaks note croissants didnt replaced virtually else wasnt exactly late breakfast couple day popular germans sleep slept home class average usually tend sleep touch hotels unimpressed woke tuesday 700am conference floor possibility outside cant mark location outside centre town met requirements ideal ubahn 100 metres hotel heart city 30 minutes front train heading towards heading towards strasse otherwise wrong exit wrong block head towards building value considering reflection wouldnt quiet upgrade dont benefit stay september 2011 time 4 nights bb excluding sleep probably hotel 34 hours day solo nonsmoking quiet hotel",
+      "Date": "2011-09-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Shrewsbury, United Kingdom",
+      "Title": "\u201cA port in a storm\u201d",
+      "Author": "exwetherby",
+      "ReviewID": "UR95090766",
+      "Content": "fair hotel stayed 1 night tour tour company forgot book hotel cant easy accommodating 36 people 2300 whod driven berlin 4 hours nice barmaid kept bar 0100 wind relax couple hours standard city style breakfast nice avoided mouldy supermarket sliced bread toaster",
+      "Date": "2011-01-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cOk but not in summer\u201d",
+      "Author": "Balwinder_K_Dhaliwal",
+      "ReviewID": "UR94689206",
+      "Content": "hotel location near train bus stations near pharmacy sandwich shop 15 minutes walk supermarket didnt aircon stayed nights world cup 2006 hot lack aircon hard",
+      "Date": "2011-01-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Walsall, United Kingdom",
+      "Title": "\u201cbrill base in Berlin.\u201d",
+      "Author": "oddw",
+      "ReviewID": "UR92184279",
+      "Content": "break xmas 2010 hotel situated restaurantsshops attractions ie zoo tiergarten highly recommend restaurant 55 excellent food service hotel 3 star standard clean comfortable excellent reception ladies breakfast tiny bit limited hotter city tour tickets reception 20 euro value city tour berlin",
+      "Date": "2011-01-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "BEST WESTERN Queens Hotel Berlin City West",
+    "HotelURL": "/ShowUserReviews-g187323-d230552-Reviews-BEST_WESTERN_Queens_Hotel_Berlin_City_West-Berlin.html",
+    "Price": "$83 - $222*",
+    "Address": "<div class=\"amenFloat\">",
+    "HotelID": "230552",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5a/73/5a73bbf97825c6bcb1144ebd2bf414f44large.jpg"
+  }
+}

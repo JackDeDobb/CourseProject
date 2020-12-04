@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cNot for the british\u201d", "Author": "jon m", "ReviewID": "UR130628676", "Content": "stayed 5 nights 2012 own trip mainly spanish tourists british decent food breakfast bar 8 people cant move que breakfast monday rest week staff rude ok tv decor living people water pipes noise water sounds terrible sleep personnally stay british madrid impressed madrid barcelona beach set british tourists unlike madrid british person madrid holiday hotel ok sleeping relax", "Date": "2012-05-26 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Helsinki, Finland", "Title": "\u201cGreat location, nice home in Madrid\u201d", "Author": "Ritva189934", "ReviewID": "UR119444261", "Content": "name hotel gran via location excellent cleaning services excellent washed dishes day internet own breakfast daily morning restaurant empty breakfast buffet breakfast costed eight eur internet costs eight eur pro day lots steps coming hotel nice location hardly imagine restaurants near sight seeing buses drive via shopping short walking", "Date": "2011-10-18 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Quebec", "Title": "\u201cQuality home at reasonable price\u201d", "Author": "panasia", "ReviewID": "UR119081244", "Content": "recently spent 4 nights hotel ok cleanliness bedding reception location price hotel main boulevard close lot sites visit 2 minutes metro station madrid staying negatives ac noisy wifi free 3 euro hour pillow bed", "Date": "2011-10-08 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "London", "Title": "\u201cOverall great choice, some small improvements to make it brilliant\u201d", "Author": "Too_Much_TM", "ReviewID": "UR88830688", "Content": "agree reviews regarding excellent location kitchenette clean size cupboard space grocery store bottom lots eating starbucks mcdonalds bed terrible yes realised 1 ok pain hard bed sleeping couch sat nite hear noise street night kettle toaster toast frying pan housekeeping available weekend happy overall choice speak hand bed", "Date": "2010-12-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Seregno, Italy", "Title": "\u201cgood choice near plaza de espana\u201d", "Author": "papasote", "ReviewID": "UR84131512", "Content": "centrally located near plaza de espana lot eating choice near hotel select carefully staff helpful hours checkin time surcharge leaving leave luggage surcharge", "Date": "2010-10-19 00:00:00"}], "HotelInfo": {"Name": "Aparthotel Gran Via 65", "HotelURL": "/ShowUserReviews-g187514-d234286-Reviews-Aparthotel_Gran_Via_65-Madrid.html", "Price": "$59 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gran Via 65</span>, <span class=\"locality\"><span property=\"v:postal-code\">28013</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "234286", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/da/86/da86bbe00b7953b505536cbfa18367258large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cNot for the british\u201d",
+      "Author": "jon m",
+      "ReviewID": "UR130628676",
+      "Content": "stayed 5 nights 2012 own trip mainly spanish tourists british decent food breakfast bar 8 people cant move que breakfast monday rest week staff rude ok tv decor living people water pipes noise water sounds terrible sleep personnally stay british madrid impressed madrid barcelona beach set british tourists unlike madrid british person madrid holiday hotel ok sleeping relax",
+      "Date": "2012-05-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Helsinki, Finland",
+      "Title": "\u201cGreat location, nice home in Madrid\u201d",
+      "Author": "Ritva189934",
+      "ReviewID": "UR119444261",
+      "Content": "name hotel gran via location excellent cleaning services excellent washed dishes day internet own breakfast daily morning restaurant empty breakfast buffet breakfast costed eight eur internet costs eight eur pro day lots steps coming hotel nice location hardly imagine restaurants near sight seeing buses drive via shopping short walking",
+      "Date": "2011-10-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Quebec",
+      "Title": "\u201cQuality home at reasonable price\u201d",
+      "Author": "panasia",
+      "ReviewID": "UR119081244",
+      "Content": "recently spent 4 nights hotel ok cleanliness bedding reception location price hotel main boulevard close lot sites visit 2 minutes metro station madrid staying negatives ac noisy wifi free 3 euro hour pillow bed",
+      "Date": "2011-10-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cOverall great choice, some small improvements to make it brilliant\u201d",
+      "Author": "Too_Much_TM",
+      "ReviewID": "UR88830688",
+      "Content": "agree reviews regarding excellent location kitchenette clean size cupboard space grocery store bottom lots eating starbucks mcdonalds bed terrible yes realised 1 ok pain hard bed sleeping couch sat nite hear noise street night kettle toaster toast frying pan housekeeping available weekend happy overall choice speak hand bed",
+      "Date": "2010-12-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Seregno, Italy",
+      "Title": "\u201cgood choice near plaza de espana\u201d",
+      "Author": "papasote",
+      "ReviewID": "UR84131512",
+      "Content": "centrally located near plaza de espana lot eating choice near hotel select carefully staff helpful hours checkin time surcharge leaving leave luggage surcharge",
+      "Date": "2010-10-19 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Aparthotel Gran Via 65",
+    "HotelURL": "/ShowUserReviews-g187514-d234286-Reviews-Aparthotel_Gran_Via_65-Madrid.html",
+    "Price": "$59 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gran Via 65</span>, <span class=\"locality\"><span property=\"v:postal-code\">28013</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "234286",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/da/86/da86bbe00b7953b505536cbfa18367258large.jpg"
+  }
+}

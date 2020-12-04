@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Zurich, Switzerland", "Title": "\u201cNice location and good price\u201d", "Author": "Cmon83", "ReviewID": "UR124090042", "Content": "hotel located reach town easy feet hotel safe calm neighborhood price dont expect 5star hotel clean nice breakfast ok complain price range average own bathroom price wasnt maybe worth itfor definitely stay hotel", "Date": "2012-02-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Helsinki, Finland", "Title": "\u201cGreat choise for single traveller!\u201d", "Author": "Miko358", "ReviewID": "UR120926361", "Content": "pleasant stay hotel crystal november 2011 single worth price tv sharp screen bed adequate toilet shower shared clean breakfast included price breakfast 2 breads toaster cheese cold meats cereals boiled eggs offered coffee machine coffees location tourist attractions leidseplein vondelpark rijksmuseum centraal station 20minutes walk hotel stay hotel crystal recommend hotel looking relaxing quiet comfortable stay amsterdam friends definitely budget opinion found worth cent", "Date": "2011-11-22 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "St. Petersburg, Russia", "Title": "\u201cGood hotel, great location\u201d", "Author": "Tushkanchik220", "ReviewID": "UR119288913", "Content": "hotel decent considering amsterdam prices lodging perpendicular staircase ive heard common amsterdam living 4 1 didnt expect decent breakfast location heart city makes quiet night close center near park reception friendly clean", "Date": "2011-10-14 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Brooklyn, New York", "Title": "\u201cAlways wear my heels when looking at the mirror!\u201d", "Author": "loveantoinette", "ReviewID": "UR108005494", "Content": "dutch people tall funniest hotel couldnt front sink mirror im 52 barely able forehead thank god fulllength mirror closet door aside mirror deal hotel cute charming near leidseplein 510 minute walk private single surprisingly spacious clean toilet outside shower hall clean wasnt share shower facilities maintained stairs nother issue deal practically similar climbing ladder thank god left luggage airport medium makes difference luggage youll bringing walls bit thin hear outside frankly didnt care wee hours night day stuff amsterdam offer simple free breakfast served breadrolls slices cheese hard boiled eggs juicecoffeetea fancy hold lunch amsterdam bit expensive comes food sandwiches packed bag picnic vondel park issue wifi third floor weak front desk believe 2 hours front desk guess preventing wifi comeback amsterdam ill def", "Date": "2011-05-12 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Oslo, Norway", "Title": "\u201cGood hotel, nice location\u201d", "Author": "HansCM", "ReviewID": "UR79920784", "Content": "bad reviews floating americans hotel true bad reviews step stairway toilets clean quiet night staff helpful demanding location close leidesplein museum district recommend hotel", "Date": "2010-09-17 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cAn alright hotel...\u201d", "Author": "natural_mystic82", "ReviewID": "UR78021927", "Content": "stayed hotel 3 friends 4 person hotel clean balcony smokers bathroom clean shower hot water equipped tv cupboard storage bad probably feature beds 4 beds lined 1 line extremely uncomfortable \u00e2\u00a3 4 beds camper beds whatsoever lay sunk bad 1 beds proper 4 legged sleep reason booking hotel visit amsterdam plus location excellent 15 minute walk centre happening breakfast adequate budget hotel typically continental pastries boiled eggs cheese cold meats time complaints staff helpful polite stay beds upgraded dissuade visitors please feel free email info", "Date": "2010-09-02 00:00:00"}], "HotelInfo": {"Name": "Hotel Crystal", "HotelURL": "/ShowUserReviews-g188590-d263960-Reviews-Hotel_Crystal-Amsterdam_Noord_Holland.html", "Price": "$86 - $232*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2e Helmersstraat 6</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1054 CH</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>", "HotelID": "263960", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b7/0d/b70dd29d77094b258f4747a64e81ab694large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Zurich, Switzerland",
+      "Title": "\u201cNice location and good price\u201d",
+      "Author": "Cmon83",
+      "ReviewID": "UR124090042",
+      "Content": "hotel located reach town easy feet hotel safe calm neighborhood price dont expect 5star hotel clean nice breakfast ok complain price range average own bathroom price wasnt maybe worth itfor definitely stay hotel",
+      "Date": "2012-02-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Helsinki, Finland",
+      "Title": "\u201cGreat choise for single traveller!\u201d",
+      "Author": "Miko358",
+      "ReviewID": "UR120926361",
+      "Content": "pleasant stay hotel crystal november 2011 single worth price tv sharp screen bed adequate toilet shower shared clean breakfast included price breakfast 2 breads toaster cheese cold meats cereals boiled eggs offered coffee machine coffees location tourist attractions leidseplein vondelpark rijksmuseum centraal station 20minutes walk hotel stay hotel crystal recommend hotel looking relaxing quiet comfortable stay amsterdam friends definitely budget opinion found worth cent",
+      "Date": "2011-11-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "St. Petersburg, Russia",
+      "Title": "\u201cGood hotel, great location\u201d",
+      "Author": "Tushkanchik220",
+      "ReviewID": "UR119288913",
+      "Content": "hotel decent considering amsterdam prices lodging perpendicular staircase ive heard common amsterdam living 4 1 didnt expect decent breakfast location heart city makes quiet night close center near park reception friendly clean",
+      "Date": "2011-10-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Brooklyn, New York",
+      "Title": "\u201cAlways wear my heels when looking at the mirror!\u201d",
+      "Author": "loveantoinette",
+      "ReviewID": "UR108005494",
+      "Content": "dutch people tall funniest hotel couldnt front sink mirror im 52 barely able forehead thank god fulllength mirror closet door aside mirror deal hotel cute charming near leidseplein 510 minute walk private single surprisingly spacious clean toilet outside shower hall clean wasnt share shower facilities maintained stairs nother issue deal practically similar climbing ladder thank god left luggage airport medium makes difference luggage youll bringing walls bit thin hear outside frankly didnt care wee hours night day stuff amsterdam offer simple free breakfast served breadrolls slices cheese hard boiled eggs juicecoffeetea fancy hold lunch amsterdam bit expensive comes food sandwiches packed bag picnic vondel park issue wifi third floor weak front desk believe 2 hours front desk guess preventing wifi comeback amsterdam ill def",
+      "Date": "2011-05-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Oslo, Norway",
+      "Title": "\u201cGood hotel, nice location\u201d",
+      "Author": "HansCM",
+      "ReviewID": "UR79920784",
+      "Content": "bad reviews floating americans hotel true bad reviews step stairway toilets clean quiet night staff helpful demanding location close leidesplein museum district recommend hotel",
+      "Date": "2010-09-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cAn alright hotel...\u201d",
+      "Author": "natural_mystic82",
+      "ReviewID": "UR78021927",
+      "Content": "stayed hotel 3 friends 4 person hotel clean balcony smokers bathroom clean shower hot water equipped tv cupboard storage bad probably feature beds 4 beds lined 1 line extremely uncomfortable \u00e2\u00a3 4 beds camper beds whatsoever lay sunk bad 1 beds proper 4 legged sleep reason booking hotel visit amsterdam plus location excellent 15 minute walk centre happening breakfast adequate budget hotel typically continental pastries boiled eggs cheese cold meats time complaints staff helpful polite stay beds upgraded dissuade visitors please feel free email info",
+      "Date": "2010-09-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Crystal",
+    "HotelURL": "/ShowUserReviews-g188590-d263960-Reviews-Hotel_Crystal-Amsterdam_Noord_Holland.html",
+    "Price": "$86 - $232*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2e Helmersstraat 6</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1054 CH</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>",
+    "HotelID": "263960",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b7/0d/b70dd29d77094b258f4747a64e81ab694large.jpg"
+  }
+}

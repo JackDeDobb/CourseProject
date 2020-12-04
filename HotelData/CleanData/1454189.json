@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Sheffield, United Kingdom", "Title": "\u201cRipped Off\u201d", "Author": "johncourt82", "ReviewID": "UR120158943", "Content": "basis lonely planet recommendation booked 3 nights hotel arriving uk tiring flight arrived hotel realise immediately despite wedge emails appeared booking friendly according lp chan evasive wait sorted hour waiting nearer getting explanation wife period positively rude hour popped else available proved difficult conferences exhibitions taking hk meant short notice accommodation premium stuck chan hour lot hassle finally chan agree providing chan disappeared totally scene incredibly rude chan awful available 3 nights total cost realised light published rates total ripoff circumstances hot tired burdened luggage option accept disenchanted situation checked following day moved nicer cheaper hotel offer refund cost 2 nights unused accommodation accepted pleased feel deliberate ripoff trip advisor writing lonely planet review recommendation hotel hong kong tourist board registered hotel please warned", "Date": "2011-11-04 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Hong Kong, China", "Title": "\u201cgood for price / quality in hong kong\u201d", "Author": "steven852", "ReviewID": "UR119775700", "Content": "ve stayed times night europe tiny clean safe location tsim sha tsui yes fancy spread flats outside window don 200 dollar night hong kong cheap people lot luggage fit", "Date": "2011-10-26 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Manila, Philippines", "Title": "\u201cGood value for money, but crappy receptionist.\u201d", "Author": "suzy100804", "ReviewID": "UR71013047", "Content": "theres doubt hing lung hostel travelers budget definitely appreciate low rates bathroom clean fresh towels request private bathroom pretty decent hostel dont expect five star typical hk hostel warning beware rude receptionist greeted cranky disrespectful discriminatory unaccommodating receptionist rude probably didnt prior accommodated real owners hing lung nice rode elevator probably female receptionist rude recommend staying past rude receptionist consolation day stay hong kong mirador mansion secure leave hostel lock doors", "Date": "2010-07-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Mandaue, Philippines", "Title": "\u201cman hing lung hotel...comfortable and accomodating owners\u201d", "Author": "docmarilyn", "ReviewID": "UR68276907", "Content": "family time staying hing lung hotel located mirador mansion tight security fairly clean met wonderful chinese owner named son accomodating helpful staythey cheaper compared famous hotell hostels mirador thank personal helping thanks son met lourdes filipina cook staying 6 employers looking stay hongkong try low rate accomodations depending comfort regards friend thanks definitely recommend stay", "Date": "2010-06-22 00:00:00"}], "HotelInfo": {"Name": "Man Hing Lung Hotel", "HotelURL": "/ShowUserReviews-g294217-d1454189-Reviews-Man_Hing_Lung_Hotel-Hong_Kong.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Flat F2 14/F, Mirador Mansion, 58 Nathan Rd., Tsim Sha Tsui</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>", "HotelID": "1454189", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/bc/c0/39/man-hing-lung-hotel-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Sheffield, United Kingdom",
+      "Title": "\u201cRipped Off\u201d",
+      "Author": "johncourt82",
+      "ReviewID": "UR120158943",
+      "Content": "basis lonely planet recommendation booked 3 nights hotel arriving uk tiring flight arrived hotel realise immediately despite wedge emails appeared booking friendly according lp chan evasive wait sorted hour waiting nearer getting explanation wife period positively rude hour popped else available proved difficult conferences exhibitions taking hk meant short notice accommodation premium stuck chan hour lot hassle finally chan agree providing chan disappeared totally scene incredibly rude chan awful available 3 nights total cost realised light published rates total ripoff circumstances hot tired burdened luggage option accept disenchanted situation checked following day moved nicer cheaper hotel offer refund cost 2 nights unused accommodation accepted pleased feel deliberate ripoff trip advisor writing lonely planet review recommendation hotel hong kong tourist board registered hotel please warned",
+      "Date": "2011-11-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Hong Kong, China",
+      "Title": "\u201cgood for price / quality in hong kong\u201d",
+      "Author": "steven852",
+      "ReviewID": "UR119775700",
+      "Content": "ve stayed times night europe tiny clean safe location tsim sha tsui yes fancy spread flats outside window don 200 dollar night hong kong cheap people lot luggage fit",
+      "Date": "2011-10-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Manila, Philippines",
+      "Title": "\u201cGood value for money, but crappy receptionist.\u201d",
+      "Author": "suzy100804",
+      "ReviewID": "UR71013047",
+      "Content": "theres doubt hing lung hostel travelers budget definitely appreciate low rates bathroom clean fresh towels request private bathroom pretty decent hostel dont expect five star typical hk hostel warning beware rude receptionist greeted cranky disrespectful discriminatory unaccommodating receptionist rude probably didnt prior accommodated real owners hing lung nice rode elevator probably female receptionist rude recommend staying past rude receptionist consolation day stay hong kong mirador mansion secure leave hostel lock doors",
+      "Date": "2010-07-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Mandaue, Philippines",
+      "Title": "\u201cman hing lung hotel...comfortable and accomodating owners\u201d",
+      "Author": "docmarilyn",
+      "ReviewID": "UR68276907",
+      "Content": "family time staying hing lung hotel located mirador mansion tight security fairly clean met wonderful chinese owner named son accomodating helpful staythey cheaper compared famous hotell hostels mirador thank personal helping thanks son met lourdes filipina cook staying 6 employers looking stay hongkong try low rate accomodations depending comfort regards friend thanks definitely recommend stay",
+      "Date": "2010-06-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Man Hing Lung Hotel",
+    "HotelURL": "/ShowUserReviews-g294217-d1454189-Reviews-Man_Hing_Lung_Hotel-Hong_Kong.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Flat F2 14/F, Mirador Mansion, 58 Nathan Rd., Tsim Sha Tsui</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>",
+    "HotelID": "1454189",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/bc/c0/39/man-hing-lung-hotel-thumbnail.jpg"
+  }
+}

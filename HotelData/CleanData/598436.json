@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Green Forest, Arkansas", "Title": "\u201cWe will definitely stay again!\u201d", "Author": "Brent S", "ReviewID": "UR131868859", "Content": "rosebud inn clean affordable able relax enjoy stay noticed quiet definitely plus quaint decorated nice loved location nestled hillside staff friendly accommodating beds comfortable hoped stay else branson", "Date": "2012-06-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Wright City, Missouri", "Title": "\u201cMy Favorite Place In Branson!\u201d", "Author": "PastorChad", "ReviewID": "UR129178822", "Content": "family discovered rosebud ago recommendation friends church serve pastor refuse stay else branson talk price rates terrific rates bit cheaper promise wont bang buck rosebud hotel clean spacious comfortable stayed 6 times stay wasnt comfortable amenities wonderful breakfast cant beat biscuits gravy location strip easy close branson makes rosebud people staff management 2nd none 2 brought senior citizens church branson conference stayed rosebud staff managers helpful getting reserved check ready beyond call duty feel home home wise choose rosebud trip cant wait", "Date": "2012-05-01 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Saint Louis, Missouri", "Title": "\u201cAn honest review of Rosebud Inn\u201d", "Author": "Jeffrey A", "ReviewID": "UR126015570", "Content": "returned special event branson stayed rosebud inn time rosebud highly recommended welcoming comfortable atmosphere family friendly besides easy access clean comfortable size beds comfortable housekeeping folks friendly professional continental breakfast tea coffee mornings enjoyable bit flexibility check times management willing help friendliest people ive met ive met courteous professional warm help event smooth absolutely stay matter im looking forward branson trip", "Date": "2012-03-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Joplin, MO", "Title": "\u201cNo complaints here!\u201d", "Author": "Mriann", "ReviewID": "UR64501635", "Content": "time weve stayed rosebud agree lot reviews cant beat price clean quiet love location convenient strip tucked quiet hill staff helpful friendly youre looking nice quiet rest head day fun branson rosebud choice", "Date": "2010-05-18 00:00:00"}], "HotelInfo": {"Name": "Rosebud Inn", "HotelURL": "/ShowUserReviews-g44160-d598436-Reviews-Rosebud_Inn-Branson_Missouri.html", "Price": "$70 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1415 Roark Valley Road</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>", "HotelID": "598436", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/2c/7f/53/rosebud-inn.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Green Forest, Arkansas",
+      "Title": "\u201cWe will definitely stay again!\u201d",
+      "Author": "Brent S",
+      "ReviewID": "UR131868859",
+      "Content": "rosebud inn clean affordable able relax enjoy stay noticed quiet definitely plus quaint decorated nice loved location nestled hillside staff friendly accommodating beds comfortable hoped stay else branson",
+      "Date": "2012-06-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Wright City, Missouri",
+      "Title": "\u201cMy Favorite Place In Branson!\u201d",
+      "Author": "PastorChad",
+      "ReviewID": "UR129178822",
+      "Content": "family discovered rosebud ago recommendation friends church serve pastor refuse stay else branson talk price rates terrific rates bit cheaper promise wont bang buck rosebud hotel clean spacious comfortable stayed 6 times stay wasnt comfortable amenities wonderful breakfast cant beat biscuits gravy location strip easy close branson makes rosebud people staff management 2nd none 2 brought senior citizens church branson conference stayed rosebud staff managers helpful getting reserved check ready beyond call duty feel home home wise choose rosebud trip cant wait",
+      "Date": "2012-05-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Saint Louis, Missouri",
+      "Title": "\u201cAn honest review of Rosebud Inn\u201d",
+      "Author": "Jeffrey A",
+      "ReviewID": "UR126015570",
+      "Content": "returned special event branson stayed rosebud inn time rosebud highly recommended welcoming comfortable atmosphere family friendly besides easy access clean comfortable size beds comfortable housekeeping folks friendly professional continental breakfast tea coffee mornings enjoyable bit flexibility check times management willing help friendliest people ive met ive met courteous professional warm help event smooth absolutely stay matter im looking forward branson trip",
+      "Date": "2012-03-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Joplin, MO",
+      "Title": "\u201cNo complaints here!\u201d",
+      "Author": "Mriann",
+      "ReviewID": "UR64501635",
+      "Content": "time weve stayed rosebud agree lot reviews cant beat price clean quiet love location convenient strip tucked quiet hill staff helpful friendly youre looking nice quiet rest head day fun branson rosebud choice",
+      "Date": "2010-05-18 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Rosebud Inn",
+    "HotelURL": "/ShowUserReviews-g44160-d598436-Reviews-Rosebud_Inn-Branson_Missouri.html",
+    "Price": "$70 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1415 Roark Valley Road</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>",
+    "HotelID": "598436",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/2c/7f/53/rosebud-inn.jpg"
+  }
+}

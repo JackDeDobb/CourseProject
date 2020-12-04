@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Fort Smith, Arkansas", "Title": "\u201cCould have been great, but ruined our vacation!\u201d", "Author": "Mickell", "ReviewID": "UR90725540", "Content": "log cabin booked trails beautiful setting husband son daughterinlaw grandchildren christmas trip visit silver dollar city cabin okay beds absolutely ruined trip hideabed dirty uncomfortable door lower kitchen cabinets fell hands tv informed prior trip wood available fireplace called wood told steal cabin fireplace virtually unusable anyway location corner toilet tissue told office beautiful setting lake wasted poor service cheap amenities", "Date": "2010-12-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Kansas City, Missouri", "Title": "\u201cVery beautiful, loved the cabin and the view\u201d", "Author": "murraykc423", "ReviewID": "UR65317801", "Content": "time time branson reviews read online misleading anyway beautiful covered deck rocking chairs picnic table wood kitchen stay home meal grills outside perfect view table rock lake wildlife breath taking woud peanut hand 1 12 yr son loved slept able bath night playground wasnt hot ahead brought toys playpen sleep ini brought own pillows towels service hey camp learn ruff folks staying home cooked meal head road trails eat restraunt dont tell service people nice comforts home stay trails loved loved hopes stay", "Date": "2010-05-25 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Joplin, Missouri", "Title": "\u201cNever Again!\u201d", "Author": "Juley10", "ReviewID": "UR62084751", "Content": "arrived pm check staff checked able time people staying type dont deal checking close half rented cabin duplex clean bed fairly comfortable outdated friends stayed rv site space fire ring close cabins concrete gravel swimming pool repainted water hot tub looked dirty nasty pool office water covered didnt check hot tub third pool game okay cleaned debris swimming water hot tub water dissappointing heated pools hot tubs main reason picked stay saturday night decided hang game awhile jukebox wouldnt money pinball machine money didnt racing video game stole money ping pong table buy ping pong balls machine ripped video game pacman guys able play pool cost dissappointed unless stay facilities lake reccommend", "Date": "2010-04-21 00:00:00"}], "HotelInfo": {"Name": "Trail's End Resort and RV Park at Indian Point", "HotelURL": "/ShowUserReviews-g44160-d226667-Reviews-Trail_s_End_Resort_and_RV_Park_at_Indian_Point-Branson_Missouri.html", "Price": "$119 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">71 Dogwood Park Trail</span>, <span class=\"extended-address\">Indian Point</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>", "HotelID": "226667", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5c/8d/5c8d17b5b6a2fbc91f6e716781d24cee3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Fort Smith, Arkansas",
+      "Title": "\u201cCould have been great, but ruined our vacation!\u201d",
+      "Author": "Mickell",
+      "ReviewID": "UR90725540",
+      "Content": "log cabin booked trails beautiful setting husband son daughterinlaw grandchildren christmas trip visit silver dollar city cabin okay beds absolutely ruined trip hideabed dirty uncomfortable door lower kitchen cabinets fell hands tv informed prior trip wood available fireplace called wood told steal cabin fireplace virtually unusable anyway location corner toilet tissue told office beautiful setting lake wasted poor service cheap amenities",
+      "Date": "2010-12-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Kansas City, Missouri",
+      "Title": "\u201cVery beautiful, loved the cabin and the view\u201d",
+      "Author": "murraykc423",
+      "ReviewID": "UR65317801",
+      "Content": "time time branson reviews read online misleading anyway beautiful covered deck rocking chairs picnic table wood kitchen stay home meal grills outside perfect view table rock lake wildlife breath taking woud peanut hand 1 12 yr son loved slept able bath night playground wasnt hot ahead brought toys playpen sleep ini brought own pillows towels service hey camp learn ruff folks staying home cooked meal head road trails eat restraunt dont tell service people nice comforts home stay trails loved loved hopes stay",
+      "Date": "2010-05-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Joplin, Missouri",
+      "Title": "\u201cNever Again!\u201d",
+      "Author": "Juley10",
+      "ReviewID": "UR62084751",
+      "Content": "arrived pm check staff checked able time people staying type dont deal checking close half rented cabin duplex clean bed fairly comfortable outdated friends stayed rv site space fire ring close cabins concrete gravel swimming pool repainted water hot tub looked dirty nasty pool office water covered didnt check hot tub third pool game okay cleaned debris swimming water hot tub water dissappointing heated pools hot tubs main reason picked stay saturday night decided hang game awhile jukebox wouldnt money pinball machine money didnt racing video game stole money ping pong table buy ping pong balls machine ripped video game pacman guys able play pool cost dissappointed unless stay facilities lake reccommend",
+      "Date": "2010-04-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Trail's End Resort and RV Park at Indian Point",
+    "HotelURL": "/ShowUserReviews-g44160-d226667-Reviews-Trail_s_End_Resort_and_RV_Park_at_Indian_Point-Branson_Missouri.html",
+    "Price": "$119 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">71 Dogwood Park Trail</span>, <span class=\"extended-address\">Indian Point</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>",
+    "HotelID": "226667",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5c/8d/5c8d17b5b6a2fbc91f6e716781d24cee3large.jpg"
+  }
+}

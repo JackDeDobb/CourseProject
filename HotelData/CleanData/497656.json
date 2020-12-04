@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Orlando, Florida", "Title": "\u201cCapital Inn, Rome (Giardinetti)\u201d", "Author": "eciarma", "ReviewID": "UR126765545", "Content": "hello fellow travelers youre looking clean inexpensive hotel hustle bustle rome stay minutes train station property located quiet safe suburb called internet connectivity included bit pricey shower stalls overall spacious clean quiet breakfast menu morning included variety delicious fruit meats pastries juices fresh espresso coffee service topnotch courteous polite stay time visit rome absolutely", "Date": "2012-03-27 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 1.0}, "AuthorLocation": "Bucharest", "Title": "\u201cAlmost 4 stars hotel but outside Rome!\u201d", "Author": "maniac_the_evil", "ReviewID": "UR118555955", "Content": "hotel situated outside rome clean space inside nice terace restaurant reception didnt city map bar buying beer menu 3 euro night beer costed 4 euro third 5 euro receipt ticket buying careful prices depending", "Date": "2011-09-25 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Athens, Greece", "Title": "\u201cdisaster\u201d", "Author": "marietta025", "ReviewID": "UR104872316", "Content": "spent 3 days staying hotel experience located miles city center wasted hour morning destination obliged wait centuries electricity card onthe bathroom tiny peoplethey stay 3 students third bed camp bedwe breakfast dinner hotelfood service ate day plate days fruits waiters spoke english sum suggest placethere hotels eternal ps excuse english", "Date": "2011-04-21 00:00:00"}], "HotelInfo": {"Name": "Hotel Capital Inn", "HotelURL": "/ShowUserReviews-g187791-d497656-Reviews-Hotel_Capital_Inn-Rome_Lazio.html", "Price": "$92 - $185*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via C.Santarelli 96</span>, <span class=\"locality\"><span property=\"v:postal-code\">00133</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "497656", "ImgURL": "http://www.venere.com/img/hotel/3/5/9/1/1953/1953.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Orlando, Florida",
+      "Title": "\u201cCapital Inn, Rome (Giardinetti)\u201d",
+      "Author": "eciarma",
+      "ReviewID": "UR126765545",
+      "Content": "hello fellow travelers youre looking clean inexpensive hotel hustle bustle rome stay minutes train station property located quiet safe suburb called internet connectivity included bit pricey shower stalls overall spacious clean quiet breakfast menu morning included variety delicious fruit meats pastries juices fresh espresso coffee service topnotch courteous polite stay time visit rome absolutely",
+      "Date": "2012-03-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Bucharest",
+      "Title": "\u201cAlmost 4 stars hotel but outside Rome!\u201d",
+      "Author": "maniac_the_evil",
+      "ReviewID": "UR118555955",
+      "Content": "hotel situated outside rome clean space inside nice terace restaurant reception didnt city map bar buying beer menu 3 euro night beer costed 4 euro third 5 euro receipt ticket buying careful prices depending",
+      "Date": "2011-09-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Athens, Greece",
+      "Title": "\u201cdisaster\u201d",
+      "Author": "marietta025",
+      "ReviewID": "UR104872316",
+      "Content": "spent 3 days staying hotel experience located miles city center wasted hour morning destination obliged wait centuries electricity card onthe bathroom tiny peoplethey stay 3 students third bed camp bedwe breakfast dinner hotelfood service ate day plate days fruits waiters spoke english sum suggest placethere hotels eternal ps excuse english",
+      "Date": "2011-04-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Capital Inn",
+    "HotelURL": "/ShowUserReviews-g187791-d497656-Reviews-Hotel_Capital_Inn-Rome_Lazio.html",
+    "Price": "$92 - $185*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via C.Santarelli 96</span>, <span class=\"locality\"><span property=\"v:postal-code\">00133</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "497656",
+    "ImgURL": "http://www.venere.com/img/hotel/3/5/9/1/1953/1953.jpg"
+  }
+}

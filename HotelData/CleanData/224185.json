@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Chicago, Illinois", "Title": "\u201cJust say NO!\u201d", "Author": "spajunkie914", "ReviewID": "UR89019376", "Content": "takes deep breath checked assigned head located 2nd floor door fainted stench whatever awful smell smell head request told werent available til wed monday smell smoke smoke smells wasnt supposed nonsmoking tells nonsmoking 1st flr extra fee convenient change 1st flr bc elevators facility satisfied course infested city spent majority night killing roaches bed walls paintings tv yes crawling tv fridge bathroom mirrors shower wall ridiculous pictures complained sprayed time crying manager switched reservations location horizon lake dr 5 stars overall guess staff helpful mean rude habitable im able tell staff nice location convenient doesnt scream creme de la creme signs posted park own risk literally sunny gloomy shades definitely vacation spot ppl probably ones saying excellent spot crash till whenever sharing pets wouldve booked accordingly beware", "Date": "2010-12-04 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Asheville, North Carolina", "Title": "\u201cJust don't. My dog would not sleep on carpet.\u201d", "Author": "mediastoryteller", "ReviewID": "UR88279125", "Content": "camp times kept telling camping dont touch camping takes getting dog laid carpet five minutes husband noticed hated carpet time days stayed thanksgiving weekend friday booked visit family nearby beg soap forks cooking utensils despite fullyequipped kitchen promise blankets window didnt shut blankets bad didnt bring camping supplies husband cockroaches bathroom bathroom door front door looked beaten bad fight washed surfaces soap cloth brown coffee pot washed fromt past guest able sheets throw recliner badly stained looked lots dirt husband friday internet okay fridge kept food bugs camping dog fee paid close 70night bright starbucks corner clean environment break shower kept flip flops plastic liner shield toothbrush hairbrush items garbage cleaned dirty filth moons garbage lobby receptionist sitting bug couldnt camping except fresh air oh fire toaster crappy set fire alarm couldnt door travel world bad youre dog wont touch floor didnt eaten bed bugs couple reports stains box spring traveller reported feel sorry didnt scroll read reviews booking teaches lesson future review reviewing hope helps", "Date": "2010-11-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "", "Title": "\u201cI Loved it!\u201d", "Author": "NinaH4", "ReviewID": "UR66832133", "Content": "thankfully didnt read reviews untill id checked hotel 20 min main airport beale street graceland mall zoo etc easy fast food 30 drive couple stores stocking fridge im southern heat fridge freezer fill drinks ice stayed signature suite size huge friend stay week plenty bathroom spotless arrived paint little worn dirty stayed similar didnt spend day bleaching feel wear flipflops shower ground floor office didnt notice traffic whilst appart setting fire alarm 9am night undisturbed cant reccomend obviously ritz cheap staff lovely feel home perfect save money amazing value cooking facilities saved fortune dining pretty ok town 21 female travelling safe welcomed neighborhood met traveler staying similar hotel seing actually switched hotels 3 difference undoubtably cleaner brighter friendlier didnt wierd smell ive booked hotel trip memphis ps isnt free internet 5 duration stay pretty fast", "Date": "2010-06-08 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "cleveland,ms", "Title": "\u201cNICE, CLEAN,AND AFFORDABLE WITH SOME(NOT ALL) NEW ROOMS\u201d", "Author": "lrob38732", "ReviewID": "UR65127765", "Content": "wonderful experience extended stay hesitant stay reading reviews arrived look checking staff didnt mind checked prefered stayed newly renovated signature suite clean bed comfy flooring decor originally signature suite wasnt available staff upgraded king signature suite price 45 night day expected leave overslept called front desk extend stay day nice extend problemthe regular rate 65 total 3 nights 136 including tax overall enjoyd stay ive booked stay signature suite", "Date": "2010-05-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Memphis, TN", "Title": "\u201cThe Hotel Stay Exceeded my Expectations\u201d", "Author": "Bernie1968", "ReviewID": "UR58238385", "Content": "concerned due previous reviews hotel stay exceeded expectations boyfriend weekend getaway stayed newly remodeled signature suite extremely clean kitchen appliances loved separate sleeping living hear faint sound children playing automobiles whizzing expressway bother hotel staff extremely friendly helpful directions information concerning restaurants definitely comeback", "Date": "2010-03-10 00:00:00"}], "HotelInfo": {"Name": "Extended Stay America Memphis / Sycamore View", "HotelURL": "/ShowUserReviews-g55197-d224185-Reviews-Extended_Stay_America_Memphis_Sycamore_View-Memphis_Tennessee.html", "Price": "$52 - $60*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5885 Shelby Oaks Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Memphis</span>, <span property=\"v:region\">TN</span> <span property=\"v:postal-code\">38134-7316</span></span> </span> </span> </address>", "HotelID": "224185", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/75/b2/75b296b90ac9410f530ee747b23ec9b94large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Chicago, Illinois",
+      "Title": "\u201cJust say NO!\u201d",
+      "Author": "spajunkie914",
+      "ReviewID": "UR89019376",
+      "Content": "takes deep breath checked assigned head located 2nd floor door fainted stench whatever awful smell smell head request told werent available til wed monday smell smoke smoke smells wasnt supposed nonsmoking tells nonsmoking 1st flr extra fee convenient change 1st flr bc elevators facility satisfied course infested city spent majority night killing roaches bed walls paintings tv yes crawling tv fridge bathroom mirrors shower wall ridiculous pictures complained sprayed time crying manager switched reservations location horizon lake dr 5 stars overall guess staff helpful mean rude habitable im able tell staff nice location convenient doesnt scream creme de la creme signs posted park own risk literally sunny gloomy shades definitely vacation spot ppl probably ones saying excellent spot crash till whenever sharing pets wouldve booked accordingly beware",
+      "Date": "2010-12-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Asheville, North Carolina",
+      "Title": "\u201cJust don't. My dog would not sleep on carpet.\u201d",
+      "Author": "mediastoryteller",
+      "ReviewID": "UR88279125",
+      "Content": "camp times kept telling camping dont touch camping takes getting dog laid carpet five minutes husband noticed hated carpet time days stayed thanksgiving weekend friday booked visit family nearby beg soap forks cooking utensils despite fullyequipped kitchen promise blankets window didnt shut blankets bad didnt bring camping supplies husband cockroaches bathroom bathroom door front door looked beaten bad fight washed surfaces soap cloth brown coffee pot washed fromt past guest able sheets throw recliner badly stained looked lots dirt husband friday internet okay fridge kept food bugs camping dog fee paid close 70night bright starbucks corner clean environment break shower kept flip flops plastic liner shield toothbrush hairbrush items garbage cleaned dirty filth moons garbage lobby receptionist sitting bug couldnt camping except fresh air oh fire toaster crappy set fire alarm couldnt door travel world bad youre dog wont touch floor didnt eaten bed bugs couple reports stains box spring traveller reported feel sorry didnt scroll read reviews booking teaches lesson future review reviewing hope helps",
+      "Date": "2010-11-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cI Loved it!\u201d",
+      "Author": "NinaH4",
+      "ReviewID": "UR66832133",
+      "Content": "thankfully didnt read reviews untill id checked hotel 20 min main airport beale street graceland mall zoo etc easy fast food 30 drive couple stores stocking fridge im southern heat fridge freezer fill drinks ice stayed signature suite size huge friend stay week plenty bathroom spotless arrived paint little worn dirty stayed similar didnt spend day bleaching feel wear flipflops shower ground floor office didnt notice traffic whilst appart setting fire alarm 9am night undisturbed cant reccomend obviously ritz cheap staff lovely feel home perfect save money amazing value cooking facilities saved fortune dining pretty ok town 21 female travelling safe welcomed neighborhood met traveler staying similar hotel seing actually switched hotels 3 difference undoubtably cleaner brighter friendlier didnt wierd smell ive booked hotel trip memphis ps isnt free internet 5 duration stay pretty fast",
+      "Date": "2010-06-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "cleveland,ms",
+      "Title": "\u201cNICE, CLEAN,AND AFFORDABLE WITH SOME(NOT ALL) NEW ROOMS\u201d",
+      "Author": "lrob38732",
+      "ReviewID": "UR65127765",
+      "Content": "wonderful experience extended stay hesitant stay reading reviews arrived look checking staff didnt mind checked prefered stayed newly renovated signature suite clean bed comfy flooring decor originally signature suite wasnt available staff upgraded king signature suite price 45 night day expected leave overslept called front desk extend stay day nice extend problemthe regular rate 65 total 3 nights 136 including tax overall enjoyd stay ive booked stay signature suite",
+      "Date": "2010-05-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Memphis, TN",
+      "Title": "\u201cThe Hotel Stay Exceeded my Expectations\u201d",
+      "Author": "Bernie1968",
+      "ReviewID": "UR58238385",
+      "Content": "concerned due previous reviews hotel stay exceeded expectations boyfriend weekend getaway stayed newly remodeled signature suite extremely clean kitchen appliances loved separate sleeping living hear faint sound children playing automobiles whizzing expressway bother hotel staff extremely friendly helpful directions information concerning restaurants definitely comeback",
+      "Date": "2010-03-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Extended Stay America Memphis / Sycamore View",
+    "HotelURL": "/ShowUserReviews-g55197-d224185-Reviews-Extended_Stay_America_Memphis_Sycamore_View-Memphis_Tennessee.html",
+    "Price": "$52 - $60*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5885 Shelby Oaks Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Memphis</span>, <span property=\"v:region\">TN</span> <span property=\"v:postal-code\">38134-7316</span></span> </span> </span> </address>",
+    "HotelID": "224185",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/75/b2/75b296b90ac9410f530ee747b23ec9b94large.jpg"
+  }
+}

@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Rosendale, NY", "Title": "\u201cQuiet hotel in a nice location, good value for mone\u201d", "Author": "rosendalerocks", "ReviewID": "UR55476230", "Content": "shocked negative reviews add mine travelled hotel amsterdam staff helped plan trip advised exchanged dollars euros favorable rate bottom courtyard waterbed comfortable bathroom larger ones seen hotel nearly dead quiet hear european police sirens continental breakfast delicious staff friendly arrived held baggage safely wandered checkin time night spent canal view quiet corner leidseplein location ideal close tram route busy street closed fine restaurants close vondelpark rijksmuseum short walk", "Date": "2010-02-08 00:00:00"}], "HotelInfo": {"Name": "Maas Hotel", "HotelURL": "/ShowUserReviews-g188590-d237577-Reviews-Maas_Hotel-Amsterdam_Noord_Holland.html", "Price": "$192 - $273*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Leidsekade 91</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1017 PN</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>", "HotelID": "237577", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7d/fc/7dfce5bbc1a25ecd3549d1795dc087b81large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Rosendale, NY",
+      "Title": "\u201cQuiet hotel in a nice location, good value for mone\u201d",
+      "Author": "rosendalerocks",
+      "ReviewID": "UR55476230",
+      "Content": "shocked negative reviews add mine travelled hotel amsterdam staff helped plan trip advised exchanged dollars euros favorable rate bottom courtyard waterbed comfortable bathroom larger ones seen hotel nearly dead quiet hear european police sirens continental breakfast delicious staff friendly arrived held baggage safely wandered checkin time night spent canal view quiet corner leidseplein location ideal close tram route busy street closed fine restaurants close vondelpark rijksmuseum short walk",
+      "Date": "2010-02-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Maas Hotel",
+    "HotelURL": "/ShowUserReviews-g188590-d237577-Reviews-Maas_Hotel-Amsterdam_Noord_Holland.html",
+    "Price": "$192 - $273*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Leidsekade 91</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1017 PN</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>",
+    "HotelID": "237577",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7d/fc/7dfce5bbc1a25ecd3549d1795dc087b81large.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Portsmouth, United Kingdom", "Title": "\u201cGrand Liza Istanbul\u201d", "Author": "bllhd", "ReviewID": "UR119754528", "Content": "hotel tiny grubby toilet seat lights shower curtain water stopped 4 inches tray wash basin fixed returned sightseeing cleaned checked", "Date": "2011-10-26 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Bath, United Kingdom", "Title": "\u201cBreakfast and size of room\u201d", "Author": "brenda s", "ReviewID": "UR119294268", "Content": "booked line twin double available ok actual couldnt swing cat husband sit bed pass bathroom smelt ceiling whilst staying shower curtain hotel map advertised single double twin beds called double confused charged double breakfast boring powdered orange juice instant coffee coffee mate disappointing lost enthusiasm eat variation food air conditioning heads bed draughty duvet hot duvet cold ac mention actual bed pillows comfortable", "Date": "2011-10-14 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Italy", "Title": "\u201cNot bad, good value\u201d", "Author": "Christina T", "ReviewID": "UR77625526", "Content": "bearing mind staying istanbul august hotel value 55 euros triple breakfast location main tourist drag sultanahmet near fish restaurants bedrooms sleep bathroom clean serviceable shower breakfast roof terrace lovely air conditioning unit completely inadequate advise breakfast hot outside visiting summer lovely views breakfast terrace breakfast ok average turkish breakfast eggs hardboiled black avoided staff ok particularly friendly return particularly rate", "Date": "2010-08-31 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Sydney", "Title": "\u201cConvenient and friendly, but a little cramped\u201d", "Author": "Swagfella", "ReviewID": "UR65436661", "Content": "location 10 minute stroll hill grand bazaar rooftop breakfast separate bar lounge hotel bit ramshackle thats istanbul sort adds charm serviceable comfortable crowd annoying single lift services hotel mid market tourists suitable business travelers", "Date": "2010-05-26 00:00:00"}], "HotelInfo": {"Name": "Grand Liza Hotel", "HotelURL": "/ShowUserReviews-g293974-d636226-Reviews-Grand_Liza_Hotel-Istanbul.html", "Price": "$72 - $87*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Tiyatro Caddesi 114, 34126</span> | <span class=\"extended-address\">Kumkap&Auml;&plusmn;</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "636226", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ba/73/ba73cf0758ec0a8bf2d77c4f171e813e1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Portsmouth, United Kingdom",
+      "Title": "\u201cGrand Liza Istanbul\u201d",
+      "Author": "bllhd",
+      "ReviewID": "UR119754528",
+      "Content": "hotel tiny grubby toilet seat lights shower curtain water stopped 4 inches tray wash basin fixed returned sightseeing cleaned checked",
+      "Date": "2011-10-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Bath, United Kingdom",
+      "Title": "\u201cBreakfast and size of room\u201d",
+      "Author": "brenda s",
+      "ReviewID": "UR119294268",
+      "Content": "booked line twin double available ok actual couldnt swing cat husband sit bed pass bathroom smelt ceiling whilst staying shower curtain hotel map advertised single double twin beds called double confused charged double breakfast boring powdered orange juice instant coffee coffee mate disappointing lost enthusiasm eat variation food air conditioning heads bed draughty duvet hot duvet cold ac mention actual bed pillows comfortable",
+      "Date": "2011-10-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Italy",
+      "Title": "\u201cNot bad, good value\u201d",
+      "Author": "Christina T",
+      "ReviewID": "UR77625526",
+      "Content": "bearing mind staying istanbul august hotel value 55 euros triple breakfast location main tourist drag sultanahmet near fish restaurants bedrooms sleep bathroom clean serviceable shower breakfast roof terrace lovely air conditioning unit completely inadequate advise breakfast hot outside visiting summer lovely views breakfast terrace breakfast ok average turkish breakfast eggs hardboiled black avoided staff ok particularly friendly return particularly rate",
+      "Date": "2010-08-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Sydney",
+      "Title": "\u201cConvenient and friendly, but a little cramped\u201d",
+      "Author": "Swagfella",
+      "ReviewID": "UR65436661",
+      "Content": "location 10 minute stroll hill grand bazaar rooftop breakfast separate bar lounge hotel bit ramshackle thats istanbul sort adds charm serviceable comfortable crowd annoying single lift services hotel mid market tourists suitable business travelers",
+      "Date": "2010-05-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Grand Liza Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d636226-Reviews-Grand_Liza_Hotel-Istanbul.html",
+    "Price": "$72 - $87*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Tiyatro Caddesi 114, 34126</span> | <span class=\"extended-address\">Kumkap&Auml;&plusmn;</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "636226",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ba/73/ba73cf0758ec0a8bf2d77c4f171e813e1large.jpg"
+  }
+}

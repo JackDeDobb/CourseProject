@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "NY", "Title": "\u201cGreat service\u201d", "Author": "Tenglish09", "ReviewID": "UR136091985", "Content": "instead staying airport overnight boyfriend found deal hotwirecom stayed night arrived hotel check time told check ready perfect balcony nice balcony basic idea getting diego helped time call taxi airport morning cost \u20ac21 barajas airport taxi driver waiting lobby free internet easy access didnt guy dining doing food taking serving cleaning bit short nasty metro wasnt nice closer maybe 1015 minutes hotel modern clean smoking nonsmoking available", "Date": "2012-08-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Hertzliya", "Title": "\u201cA great hotel !\u201d", "Author": "Shai A", "ReviewID": "UR131838393", "Content": "hotel located 20 minutes bus metro city center offers services comfy nice breakfast service stumbled fixed safe deposit box minutes printed material minutes polite helpful explaining beds quality rare hotels short definitely consider staying", "Date": "2012-06-12 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 1.0}, "AuthorLocation": "Barcelona, Spain", "Title": "\u201cComfortable hotel for business trips, desolate area of Madrid\u201d", "Author": "Marina L", "ReviewID": "UR126086189", "Content": "stayed nights confortel norte business trip client nearby spacious comfortable bathroom buffet breakfast ok wasnt yogurt fruit largest supplies average id strange 4star amenities provided piece soap shampoo wash hands shower soap dont replenish amenities clean free water bottles provided mini bar content replenished stay deserted night options dinner restaurant cafeteria short miserable serving salads sandwiches pizzas", "Date": "2012-03-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Spain", "Title": "\u201cCare of the Guest this hotel's true priority\u201d", "Author": "DHIIPAK", "ReviewID": "UR110118404", "Content": "probably called airport hotel proximity madrids barajas international chose laying night flight home california property pretty 4 maintained appears market conference meetings final test hotelit excellent nights sleep quiet comfortable beds days odyssey reach west coast madrids airport district pretty fair distance city center taxi fare 20 25 euros airport hotels metro transfer stop inconvenient youre hauling major luggage save trips airport guests split cab fare complementary wifi fine help price relatively speaking madrid offer via stay incredible guest service ms reception manager efficiently recovered wrist watch forgot anxious rush airport realized error called departure gate boarding staff swept found arranged spanish residence 24 hours via service watch sentimental value hard buy againand treated concern own coming assistance bravo", "Date": "2011-05-27 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 1.0}, "AuthorLocation": "New York", "Title": "\u201cWow- far away but pretty good in so many ways.... muy decente.\u201d", "Author": "Fattycrab", "ReviewID": "UR96769624", "Content": "surprises result priceline freaked looked location freaked tried cold december evening walk metro stop dicey brisk fifteen minute walk metro station 5 line finaly arrived pleased huge bunker hotel super duper bathroom staff competent earth professional walk metro ususally past showrooms gas station soon learned metro ciudad waits 105 bus runs julian skip walk altogether arrive bus makes left san breakfasts restaurant deal weekends special discount otherwise food alright free swift wifi feature hotel properties pricey wise emulate weeks stuck wifi nearby hotel connection internet staff nice remember free pcs lobby nice drawback besides remoteness lack gym building huge parking gym guess hoping people walk metro nearby park run try try confortel madrid disappointed staying confortel alcala norte huge madrid worse booking hotel madrid centrally located giving confortel alcala chance little hike", "Date": "2011-02-15 00:00:00"}], "HotelInfo": {"Name": "Confortel Alcala Norte", "HotelURL": "/ShowUserReviews-g187514-d296924-Reviews-Confortel_Alcala_Norte-Madrid.html", "Price": "$57 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle San Romualdo 30</span>, <span class=\"locality\"><span property=\"v:postal-code\">28037</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "296924", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/84/a0/69/front-view-confortel.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "NY",
+      "Title": "\u201cGreat service\u201d",
+      "Author": "Tenglish09",
+      "ReviewID": "UR136091985",
+      "Content": "instead staying airport overnight boyfriend found deal hotwirecom stayed night arrived hotel check time told check ready perfect balcony nice balcony basic idea getting diego helped time call taxi airport morning cost \u20ac21 barajas airport taxi driver waiting lobby free internet easy access didnt guy dining doing food taking serving cleaning bit short nasty metro wasnt nice closer maybe 1015 minutes hotel modern clean smoking nonsmoking available",
+      "Date": "2012-08-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Hertzliya",
+      "Title": "\u201cA great hotel !\u201d",
+      "Author": "Shai A",
+      "ReviewID": "UR131838393",
+      "Content": "hotel located 20 minutes bus metro city center offers services comfy nice breakfast service stumbled fixed safe deposit box minutes printed material minutes polite helpful explaining beds quality rare hotels short definitely consider staying",
+      "Date": "2012-06-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Barcelona, Spain",
+      "Title": "\u201cComfortable hotel for business trips, desolate area of Madrid\u201d",
+      "Author": "Marina L",
+      "ReviewID": "UR126086189",
+      "Content": "stayed nights confortel norte business trip client nearby spacious comfortable bathroom buffet breakfast ok wasnt yogurt fruit largest supplies average id strange 4star amenities provided piece soap shampoo wash hands shower soap dont replenish amenities clean free water bottles provided mini bar content replenished stay deserted night options dinner restaurant cafeteria short miserable serving salads sandwiches pizzas",
+      "Date": "2012-03-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Spain",
+      "Title": "\u201cCare of the Guest this hotel's true priority\u201d",
+      "Author": "DHIIPAK",
+      "ReviewID": "UR110118404",
+      "Content": "probably called airport hotel proximity madrids barajas international chose laying night flight home california property pretty 4 maintained appears market conference meetings final test hotelit excellent nights sleep quiet comfortable beds days odyssey reach west coast madrids airport district pretty fair distance city center taxi fare 20 25 euros airport hotels metro transfer stop inconvenient youre hauling major luggage save trips airport guests split cab fare complementary wifi fine help price relatively speaking madrid offer via stay incredible guest service ms reception manager efficiently recovered wrist watch forgot anxious rush airport realized error called departure gate boarding staff swept found arranged spanish residence 24 hours via service watch sentimental value hard buy againand treated concern own coming assistance bravo",
+      "Date": "2011-05-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "New York",
+      "Title": "\u201cWow- far away but pretty good in so many ways.... muy decente.\u201d",
+      "Author": "Fattycrab",
+      "ReviewID": "UR96769624",
+      "Content": "surprises result priceline freaked looked location freaked tried cold december evening walk metro stop dicey brisk fifteen minute walk metro station 5 line finaly arrived pleased huge bunker hotel super duper bathroom staff competent earth professional walk metro ususally past showrooms gas station soon learned metro ciudad waits 105 bus runs julian skip walk altogether arrive bus makes left san breakfasts restaurant deal weekends special discount otherwise food alright free swift wifi feature hotel properties pricey wise emulate weeks stuck wifi nearby hotel connection internet staff nice remember free pcs lobby nice drawback besides remoteness lack gym building huge parking gym guess hoping people walk metro nearby park run try try confortel madrid disappointed staying confortel alcala norte huge madrid worse booking hotel madrid centrally located giving confortel alcala chance little hike",
+      "Date": "2011-02-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Confortel Alcala Norte",
+    "HotelURL": "/ShowUserReviews-g187514-d296924-Reviews-Confortel_Alcala_Norte-Madrid.html",
+    "Price": "$57 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle San Romualdo 30</span>, <span class=\"locality\"><span property=\"v:postal-code\">28037</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "296924",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/84/a0/69/front-view-confortel.jpg"
+  }
+}

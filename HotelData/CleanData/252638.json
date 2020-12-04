@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Guadalajara, Mexico", "Title": "\u201cGood hotel, but big lack of security\u201d", "Author": "Melina_Guadalajara", "ReviewID": "UR92307010", "Content": "hotel comfortable services stay nice bad experience prevented enjoy hotel simply stolen own inside guy posed technician tv didnt left phone noticing luckily attacked takes care security nor control access hotel reaction prompt handle looking guy obviously recovered phone changed except clean service bit noise proximity club party hotel night notice internet connection available hotel 4th bad connectivity 9th none", "Date": "2011-01-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 2.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cGreat value, but so many tour groups!\u201d", "Author": "bearpackers", "ReviewID": "UR60873305", "Content": "stayed 8 nights easter found cheap rate size double beds safe decent bathroom tv 20 channels spanish dubbed spanish stay atleast 3 tour buses checking hotel day stay night leave morning easter holidays lobby crowded wifi wifi available lobby nights buses people arrived luckily stayed ours party kept door 10 people drinking carrying till atleast 2am called reception didnt couldnt sleep downstairs wifi 20 people drinking beer 100 empty beer cans receiption couldnt control bloody loud hotel value recommend budget traveller", "Date": "2010-04-09 00:00:00"}], "HotelInfo": {"Name": "Hotel Monte Real", "HotelURL": "/ShowUserReviews-g150800-d252638-Reviews-Hotel_Monte_Real-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$45 - $69*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Revillagigedo, 23</span> | <span class=\"extended-address\">Colonia Centro</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06050</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "252638", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b1/d6/b1d64bac55fa7836b064f2d4e9c195c83large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Guadalajara, Mexico",
+      "Title": "\u201cGood hotel, but big lack of security\u201d",
+      "Author": "Melina_Guadalajara",
+      "ReviewID": "UR92307010",
+      "Content": "hotel comfortable services stay nice bad experience prevented enjoy hotel simply stolen own inside guy posed technician tv didnt left phone noticing luckily attacked takes care security nor control access hotel reaction prompt handle looking guy obviously recovered phone changed except clean service bit noise proximity club party hotel night notice internet connection available hotel 4th bad connectivity 9th none",
+      "Date": "2011-01-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cGreat value, but so many tour groups!\u201d",
+      "Author": "bearpackers",
+      "ReviewID": "UR60873305",
+      "Content": "stayed 8 nights easter found cheap rate size double beds safe decent bathroom tv 20 channels spanish dubbed spanish stay atleast 3 tour buses checking hotel day stay night leave morning easter holidays lobby crowded wifi wifi available lobby nights buses people arrived luckily stayed ours party kept door 10 people drinking carrying till atleast 2am called reception didnt couldnt sleep downstairs wifi 20 people drinking beer 100 empty beer cans receiption couldnt control bloody loud hotel value recommend budget traveller",
+      "Date": "2010-04-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Monte Real",
+    "HotelURL": "/ShowUserReviews-g150800-d252638-Reviews-Hotel_Monte_Real-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$45 - $69*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Revillagigedo, 23</span> | <span class=\"extended-address\">Colonia Centro</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06050</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "252638",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b1/d6/b1d64bac55fa7836b064f2d4e9c195c83large.jpg"
+  }
+}

@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cMetropol Has All You Need\u201d", "Author": "Steven S", "ReviewID": "UR126364000", "Content": "recently stayed hotel metropol couple friends loved location close zocalo fine arts museum etc air antique market fair walk otherwise centrally located short visit staff friendly helpful easier wherever value untoward surprises highly recommended complaints", "Date": "2012-03-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Sydney", "Title": "\u201cGreat stay, great hotel\u201d", "Author": "backpacker2110", "ReviewID": "UR125341964", "Content": "hotel location near zocalo main plaza metro stations restaurants famous sights mexico city staff friendly safe refundable deposit hot water restaurant hotel clean spacious type hotel stay sometimes noisy traffic streets thats mexico city", "Date": "2012-02-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Warsaw", "Title": "\u201cGood service, good value, good location\u201d", "Author": "Ewa_Z", "ReviewID": "UR124225136", "Content": "positives location close bellas artes 10 minutes zocalo typical western european standard average business hotel thrills shame clean spacey etc deal booked internet especially considering capital city downsides", "Date": "2012-02-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Vancouver, Canada", "Title": "\u201cgreat location, great price\u201d", "Author": "mss059", "ReviewID": "UR120250843", "Content": "blocks easy walk historic centre clean little noisy thats mexico city staff friendly available night late arrivals staffs lack english lack spanish causes confusion dealt save plumbing hope dealt vacated nice little lounge expensive restaurant lots options tourist service helpful english speaking gentleman office eager help chased block clarify morning dont bother guys flogging tours street", "Date": "2011-11-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Worcester, United Kingdom", "Title": "\u201cGood service and location\u201d", "Author": "Dean W", "ReviewID": "UR119825683", "Content": "bad start trip mexico city transfer pick arrived hotel booking fault travel agent reservation staff hotel tried figure agent hadnt sent accommodation voucher eventually sorted staff metropol youd hotel couple staff hotel speaks fluent english cause hotel basic slightly dated clean comfortable tv english channels safe 10 usd deposit required dressing bath shower hotels restaurant nice prices low corner hotel restaurants 711 hotel 10 minutes walk la located lobby hotel travel office trips local attractions purchased paid 70 usd people ruins stops recommend hotel due help received location", "Date": "2011-10-28 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Los Angeles, California", "Title": "\u201cClean and nice people\u201d", "Author": "LyricJen", "ReviewID": "UR60694627", "Content": "stayed 4 nights tour departing staff hotel nice cleaning lady courteous location central close zocalo cathedral pharmacy restaurants subways didnt feel dangerous mexico city walked late night paid 55 bargain definitely recommend deal", "Date": "2010-04-07 00:00:00"}], "HotelInfo": {"Name": "Hotel Metropol", "HotelURL": "/ShowUserReviews-g150800-d154670-Reviews-Hotel_Metropol-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$37 - $53*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Luis Moya 39</span> | <span class=\"extended-address\">Zona Centro</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06050</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "154670", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/15/47/1547fc3dc4bc8ba1ac086e5d0653d2235large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cMetropol Has All You Need\u201d",
+      "Author": "Steven S",
+      "ReviewID": "UR126364000",
+      "Content": "recently stayed hotel metropol couple friends loved location close zocalo fine arts museum etc air antique market fair walk otherwise centrally located short visit staff friendly helpful easier wherever value untoward surprises highly recommended complaints",
+      "Date": "2012-03-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Sydney",
+      "Title": "\u201cGreat stay, great hotel\u201d",
+      "Author": "backpacker2110",
+      "ReviewID": "UR125341964",
+      "Content": "hotel location near zocalo main plaza metro stations restaurants famous sights mexico city staff friendly safe refundable deposit hot water restaurant hotel clean spacious type hotel stay sometimes noisy traffic streets thats mexico city",
+      "Date": "2012-02-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Warsaw",
+      "Title": "\u201cGood service, good value, good location\u201d",
+      "Author": "Ewa_Z",
+      "ReviewID": "UR124225136",
+      "Content": "positives location close bellas artes 10 minutes zocalo typical western european standard average business hotel thrills shame clean spacey etc deal booked internet especially considering capital city downsides",
+      "Date": "2012-02-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Vancouver, Canada",
+      "Title": "\u201cgreat location, great price\u201d",
+      "Author": "mss059",
+      "ReviewID": "UR120250843",
+      "Content": "blocks easy walk historic centre clean little noisy thats mexico city staff friendly available night late arrivals staffs lack english lack spanish causes confusion dealt save plumbing hope dealt vacated nice little lounge expensive restaurant lots options tourist service helpful english speaking gentleman office eager help chased block clarify morning dont bother guys flogging tours street",
+      "Date": "2011-11-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Worcester, United Kingdom",
+      "Title": "\u201cGood service and location\u201d",
+      "Author": "Dean W",
+      "ReviewID": "UR119825683",
+      "Content": "bad start trip mexico city transfer pick arrived hotel booking fault travel agent reservation staff hotel tried figure agent hadnt sent accommodation voucher eventually sorted staff metropol youd hotel couple staff hotel speaks fluent english cause hotel basic slightly dated clean comfortable tv english channels safe 10 usd deposit required dressing bath shower hotels restaurant nice prices low corner hotel restaurants 711 hotel 10 minutes walk la located lobby hotel travel office trips local attractions purchased paid 70 usd people ruins stops recommend hotel due help received location",
+      "Date": "2011-10-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Los Angeles, California",
+      "Title": "\u201cClean and nice people\u201d",
+      "Author": "LyricJen",
+      "ReviewID": "UR60694627",
+      "Content": "stayed 4 nights tour departing staff hotel nice cleaning lady courteous location central close zocalo cathedral pharmacy restaurants subways didnt feel dangerous mexico city walked late night paid 55 bargain definitely recommend deal",
+      "Date": "2010-04-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Metropol",
+    "HotelURL": "/ShowUserReviews-g150800-d154670-Reviews-Hotel_Metropol-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$37 - $53*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Luis Moya 39</span> | <span class=\"extended-address\">Zona Centro</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06050</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "154670",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/15/47/1547fc3dc4bc8ba1ac086e5d0653d2235large.jpg"
+  }
+}

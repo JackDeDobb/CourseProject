@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Jasonville, Indiana, United States", "Title": "\u201cEwww!\u201d", "Author": "Heather315", "ReviewID": "UR125968914", "Content": "family stayed nights receptionist nice else terrible light hanging ceiling bottom piece lining wall falling coffee terrible continental breakfast consisted muffins werent pool time stayed bath tub jets bath filled disgusting pieces crud jets cable channels neighborhood pretty terrible worse im itching definitely wish splurged nicer hotel", "Date": "2012-03-12 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Indianapolis, Indiana", "Title": "\u201cBED BUGS BED BUGS BED BUGS!!!!!\u201d", "Author": "Tiny W", "ReviewID": "UR124450731", "Content": "omg stay hotel staff rude filthiest bed bugs told didnt care holes carpet stains counter tops dirty blankets beds hair security lock pulled door tv didnt night spent stay", "Date": "2012-02-11 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Ft. Wayne", "Title": "\u201cThink twice\u201d", "Author": "itchyfeetFt_Wayne", "ReviewID": "UR121645293", "Content": "stayed motel night 10 game indianapolis 2nd minute stepped car beer cans empty beer bottles laying sidewalk entrance left morning tv didnt kept rolling didnt stains bedspread towels thin 2 extra towels coffee 2 bedside lamps bulb burned toilet yellow front desk people extremely nice mattress decent close event reasons stayed twice befor staying price choice motel worth", "Date": "2011-12-11 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Indianapolis, Indiana", "Title": "\u201cThis place is a NIGHTMARE\u201d", "Author": "Knucc", "ReviewID": "UR99783841", "Content": "rodeway inn employ trained professional people mom told leave arriving midnite staff fd incompetent doing am fd told call managers fire help whatsoever kept smiling saying im sorry ignorance troubles inconvenience joke", "Date": "2011-03-11 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Chesapeake, Virginia", "Title": "\u201cWoe is me for I am undone by this motel\u201d", "Author": "taliabo", "ReviewID": "UR94440589", "Content": "value im sorry family joke suite yes suite size indeed roomy furniture tacky decor outdated obviously major renovation wrecking ball heater unit noisy blew air directly sleeping shock continental 745 am travelling family greeted empty breakfast cubicle mean banana gently inquired receptionist flustered hurriedly rushed locked closet handed 6 packaged muffins offered milk desk food shop free passed pass rodeway inn time travelling ahem price", "Date": "2011-01-26 00:00:00"}], "HotelInfo": {"Name": "Rodeway Inn", "HotelURL": "/ShowUserReviews-g37209-d582205-Reviews-Rodeway_Inn-Indianapolis_Indiana.html", "Price": "$46 - $53*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3525 North Shadeland Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46226</span></span> (Formerly Sunrise Hotel)</span> </span> </address>", "HotelID": "582205", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b0/b6/b0b698fa14cacd3ff2a0c0ab0e2fb98b5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Jasonville, Indiana, United States",
+      "Title": "\u201cEwww!\u201d",
+      "Author": "Heather315",
+      "ReviewID": "UR125968914",
+      "Content": "family stayed nights receptionist nice else terrible light hanging ceiling bottom piece lining wall falling coffee terrible continental breakfast consisted muffins werent pool time stayed bath tub jets bath filled disgusting pieces crud jets cable channels neighborhood pretty terrible worse im itching definitely wish splurged nicer hotel",
+      "Date": "2012-03-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Indianapolis, Indiana",
+      "Title": "\u201cBED BUGS BED BUGS BED BUGS!!!!!\u201d",
+      "Author": "Tiny W",
+      "ReviewID": "UR124450731",
+      "Content": "omg stay hotel staff rude filthiest bed bugs told didnt care holes carpet stains counter tops dirty blankets beds hair security lock pulled door tv didnt night spent stay",
+      "Date": "2012-02-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Ft. Wayne",
+      "Title": "\u201cThink twice\u201d",
+      "Author": "itchyfeetFt_Wayne",
+      "ReviewID": "UR121645293",
+      "Content": "stayed motel night 10 game indianapolis 2nd minute stepped car beer cans empty beer bottles laying sidewalk entrance left morning tv didnt kept rolling didnt stains bedspread towels thin 2 extra towels coffee 2 bedside lamps bulb burned toilet yellow front desk people extremely nice mattress decent close event reasons stayed twice befor staying price choice motel worth",
+      "Date": "2011-12-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Indianapolis, Indiana",
+      "Title": "\u201cThis place is a NIGHTMARE\u201d",
+      "Author": "Knucc",
+      "ReviewID": "UR99783841",
+      "Content": "rodeway inn employ trained professional people mom told leave arriving midnite staff fd incompetent doing am fd told call managers fire help whatsoever kept smiling saying im sorry ignorance troubles inconvenience joke",
+      "Date": "2011-03-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Chesapeake, Virginia",
+      "Title": "\u201cWoe is me for I am undone by this motel\u201d",
+      "Author": "taliabo",
+      "ReviewID": "UR94440589",
+      "Content": "value im sorry family joke suite yes suite size indeed roomy furniture tacky decor outdated obviously major renovation wrecking ball heater unit noisy blew air directly sleeping shock continental 745 am travelling family greeted empty breakfast cubicle mean banana gently inquired receptionist flustered hurriedly rushed locked closet handed 6 packaged muffins offered milk desk food shop free passed pass rodeway inn time travelling ahem price",
+      "Date": "2011-01-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Rodeway Inn",
+    "HotelURL": "/ShowUserReviews-g37209-d582205-Reviews-Rodeway_Inn-Indianapolis_Indiana.html",
+    "Price": "$46 - $53*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3525 North Shadeland Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46226</span></span> (Formerly Sunrise Hotel)</span> </span> </address>",
+    "HotelID": "582205",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b0/b6/b0b698fa14cacd3ff2a0c0ab0e2fb98b5large.jpg"
+  }
+}

@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Ellicott City, Maryland", "Title": "\u201cGreat Stay, Mediocre Surroundings\u201d", "Author": "carissae", "ReviewID": "UR123390162", "Content": "hotel maintained free charge parking treat los angeles hot breakfast pity priority club receive recognition 3 nights stay experience fire sirens day walls thin hear alarm clock ringing door ill coughing heart red line station 5 minutes convenient walk neighborhood feels sleazy uncomfortable walking dark prefer drive", "Date": "2012-01-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "Edmond, OK", "Title": "\u201cGreat Hotel - Terrifying Location\u201d", "Author": "hpdp", "ReviewID": "UR123046258", "Content": "checkin parking accessed westlake street hotel addressed checkin experience smooth efficient door access proximity reader rely magnetic strip swiped traditional card reader hold plain white card near black circle door handle voila former ramada limited wifi ramada instructions select holiday inn express wifi wasnt internet access code checkin quick call front desk required speed able squeeze 21 mbps mbps using speedtestnet exactly stellar rates marginally useful hotels reset random times youll stops web page youre redirected hotels irritating ultimately switch verizon cellular modem hotels network kept losing connectivity internet major failure hospitality company desk adequately sized nice lamp electrical outlets prepared mouse pad optical mice faux granite finish desktop exceptionally noisy exhaust fan switch bathroom light major sore youll youve read reviews hospitality folks please rocket science separate switches bathroom light fan judging bulletproof glass found counter nearby isnt town experience walking westlake park subway station confirmed suspicion trash filth disrepair homeless lucky short walk days row mugged night unless driving locked car los angeles exists wednesday returned 410 pm cleaned normal hotel isnt exactly overrun guests occupied cleaned time dominos pizza delivers hotel tg original express thai chinese recommend night foot scarcely recommend day foot personal safety definitely peril nice hie property surrounding neighborhood utterly awful im sad means staying elsewhere return los angeles thats shame people property terrifically warm friendly helpful people five stars property zero averages rating", "Date": "2012-01-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "San Francisco, California", "Title": "\u201cNow a Holiday Inn Express & Suites!\u201d", "Author": "jkhotels", "ReviewID": "UR121435639", "Content": "little wary booking hotel overall expected newly refreshed holiday inn express suites improvement ramada limited heard management multimillion renovation tell easy gps typical los angeles bads safety property couple people mentioned previous reviews front desk little confused couple check understandable ramada ihg hotel complete change directions recommendations spot ready help plus parking free nice im thinking getting wallpaper own house modern elevator heard heard doors slamming note management hotel attention details windows hallway paint exterior splattered baseboards walls knicks looks furniture carpets outside elevator worn getting little dirty bathroom faucet holes actual fixture overtime cause ware cool feature hotel slide key reader doorknob pretty neat breakfast unlike holiday inn express properties pancake machine try am soon standard breakfast expected tip breakfast lady tray bacon dish bacon puddle grease soaks definitely recommend giving hotel shot 20 minute drive grove beautiful park rare la 10 minutes", "Date": "2011-12-05 00:00:00"}], "HotelInfo": {"Name": "Holiday Inn Express", "HotelURL": "/ShowUserReviews-g32655-d84286-Reviews-Holiday_Inn_Express-Los_Angeles_California.html", "Price": "$170 - $227*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">611 South West Lake Ave/I-10</span>, <span class=\"extended-address\">Wilshire Blvd./6th St.</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">90057</span></span> </span> </span> </address>", "HotelID": "84286", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/3c/38/3c38b96673569ac586133c2fc74c65f46large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Ellicott City, Maryland",
+      "Title": "\u201cGreat Stay, Mediocre Surroundings\u201d",
+      "Author": "carissae",
+      "ReviewID": "UR123390162",
+      "Content": "hotel maintained free charge parking treat los angeles hot breakfast pity priority club receive recognition 3 nights stay experience fire sirens day walls thin hear alarm clock ringing door ill coughing heart red line station 5 minutes convenient walk neighborhood feels sleazy uncomfortable walking dark prefer drive",
+      "Date": "2012-01-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Edmond, OK",
+      "Title": "\u201cGreat Hotel - Terrifying Location\u201d",
+      "Author": "hpdp",
+      "ReviewID": "UR123046258",
+      "Content": "checkin parking accessed westlake street hotel addressed checkin experience smooth efficient door access proximity reader rely magnetic strip swiped traditional card reader hold plain white card near black circle door handle voila former ramada limited wifi ramada instructions select holiday inn express wifi wasnt internet access code checkin quick call front desk required speed able squeeze 21 mbps mbps using speedtestnet exactly stellar rates marginally useful hotels reset random times youll stops web page youre redirected hotels irritating ultimately switch verizon cellular modem hotels network kept losing connectivity internet major failure hospitality company desk adequately sized nice lamp electrical outlets prepared mouse pad optical mice faux granite finish desktop exceptionally noisy exhaust fan switch bathroom light major sore youll youve read reviews hospitality folks please rocket science separate switches bathroom light fan judging bulletproof glass found counter nearby isnt town experience walking westlake park subway station confirmed suspicion trash filth disrepair homeless lucky short walk days row mugged night unless driving locked car los angeles exists wednesday returned 410 pm cleaned normal hotel isnt exactly overrun guests occupied cleaned time dominos pizza delivers hotel tg original express thai chinese recommend night foot scarcely recommend day foot personal safety definitely peril nice hie property surrounding neighborhood utterly awful im sad means staying elsewhere return los angeles thats shame people property terrifically warm friendly helpful people five stars property zero averages rating",
+      "Date": "2012-01-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "San Francisco, California",
+      "Title": "\u201cNow a Holiday Inn Express & Suites!\u201d",
+      "Author": "jkhotels",
+      "ReviewID": "UR121435639",
+      "Content": "little wary booking hotel overall expected newly refreshed holiday inn express suites improvement ramada limited heard management multimillion renovation tell easy gps typical los angeles bads safety property couple people mentioned previous reviews front desk little confused couple check understandable ramada ihg hotel complete change directions recommendations spot ready help plus parking free nice im thinking getting wallpaper own house modern elevator heard heard doors slamming note management hotel attention details windows hallway paint exterior splattered baseboards walls knicks looks furniture carpets outside elevator worn getting little dirty bathroom faucet holes actual fixture overtime cause ware cool feature hotel slide key reader doorknob pretty neat breakfast unlike holiday inn express properties pancake machine try am soon standard breakfast expected tip breakfast lady tray bacon dish bacon puddle grease soaks definitely recommend giving hotel shot 20 minute drive grove beautiful park rare la 10 minutes",
+      "Date": "2011-12-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Holiday Inn Express",
+    "HotelURL": "/ShowUserReviews-g32655-d84286-Reviews-Holiday_Inn_Express-Los_Angeles_California.html",
+    "Price": "$170 - $227*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">611 South West Lake Ave/I-10</span>, <span class=\"extended-address\">Wilshire Blvd./6th St.</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">90057</span></span> </span> </span> </address>",
+    "HotelID": "84286",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/3c/38/3c38b96673569ac586133c2fc74c65f46large.jpg"
+  }
+}

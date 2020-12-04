@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "San Pedro de Alcantara, Spain", "Title": "\u201cA good hotel for business travellers...\u201d", "Author": "GreenGuy101", "ReviewID": "UR127666065", "Content": "maybe tourists minute booking colleague stayed night day strike admit price advertised airport hotel flying morning wasnt airport stretching bit pulling hotel impressions doubtful looked youth hostel past awful smell underground parking due flooding day earlier hotel checkin fine excellent free speed wifi breakfast morning bars eat locally amount fine definitely saty am business fancy tourist", "Date": "2012-04-11 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Mattoon, Illinois", "Title": "\u201cClean, great staff, nice neighborhood.\u201d", "Author": "eppshel", "ReviewID": "UR107019809", "Content": "sister bit location hotel reading reviews trip concerned taxi dropped outside looked bleak stark staff breakfast change minds luxurious nice walk mass transit station 1015 minutes depending pace walk thru nice residential peaceful nice sense community cafes grocery stores banks shops forced community instead tourists mass transit system admired wasnt central district barcelona station day enjoyed travel time id", "Date": "2011-05-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Ringwood, New Jersey", "Title": "\u201cWonderful hotel but....\u201d", "Author": "HankJanet", "ReviewID": "UR97959426", "Content": "hotel lovely suburb barcelona clean adequate accommodations tourists hotel desk clerks helpful suggestions tours etc town quiet quaint lovely isif 60 fit bargain walk train station 10 minutes flat walk 510 minutes steep hill steps climb station touring walking barcelona center taxi ride isnt answer unless millions possibly 2530 euros bad located nearer train station course nearer barcelona center stay wheelchair accessible elevator reaching restaurant etc", "Date": "2011-02-25 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 5.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "London, UK", "Title": "\u201cOK, but AWFUL location!\u201d", "Author": "magicmat", "ReviewID": "UR97794580", "Content": "hotel thier sister hotel city cocked booking 2 receptionists slow idea taking guy front painful watch 8 neice job clean pretty basic fridge mini bar hotel bar wake town supermarket city barcelona visit cityyou hotel result poor location experience spa facilities nice hang amasing story originally booked hotel spoke receptionist tube map maps guests dont hotel map thier own maps didnt funny tube fancy idea trying remote location city timings tight reading bad stories opted taxis carefully booking", "Date": "2011-02-24 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "south west UK", "Title": "\u201cAvoid\u201d", "Author": "joneshead", "ReviewID": "UR79213344", "Content": "travelled 25th wedding hotel 4 stars advertised tea coffee facilities 2 occupancy 1 drinking glass support handle falling bath wall caught fire lost electrics ie coffee available morning bacon 3rd egg stayed 4 days train waiting station barcelona 45 minutes tell driver heard hotel 30 min 36 euro", "Date": "2010-09-12 00:00:00"}], "HotelInfo": {"Name": "Husa Via Barcelona", "HotelURL": "/ShowUserReviews-g187497-d919470-Reviews-Husa_Via_Barcelona-Barcelona_Catalonia.html", "Price": "$74 - $1,188*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Maria Tarrida 6-7</span>, <span class=\"locality\"><span property=\"v:postal-code\">08970</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "919470", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/cb/3f/38/room.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "San Pedro de Alcantara, Spain",
+      "Title": "\u201cA good hotel for business travellers...\u201d",
+      "Author": "GreenGuy101",
+      "ReviewID": "UR127666065",
+      "Content": "maybe tourists minute booking colleague stayed night day strike admit price advertised airport hotel flying morning wasnt airport stretching bit pulling hotel impressions doubtful looked youth hostel past awful smell underground parking due flooding day earlier hotel checkin fine excellent free speed wifi breakfast morning bars eat locally amount fine definitely saty am business fancy tourist",
+      "Date": "2012-04-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Mattoon, Illinois",
+      "Title": "\u201cClean, great staff, nice neighborhood.\u201d",
+      "Author": "eppshel",
+      "ReviewID": "UR107019809",
+      "Content": "sister bit location hotel reading reviews trip concerned taxi dropped outside looked bleak stark staff breakfast change minds luxurious nice walk mass transit station 1015 minutes depending pace walk thru nice residential peaceful nice sense community cafes grocery stores banks shops forced community instead tourists mass transit system admired wasnt central district barcelona station day enjoyed travel time id",
+      "Date": "2011-05-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Ringwood, New Jersey",
+      "Title": "\u201cWonderful hotel but....\u201d",
+      "Author": "HankJanet",
+      "ReviewID": "UR97959426",
+      "Content": "hotel lovely suburb barcelona clean adequate accommodations tourists hotel desk clerks helpful suggestions tours etc town quiet quaint lovely isif 60 fit bargain walk train station 10 minutes flat walk 510 minutes steep hill steps climb station touring walking barcelona center taxi ride isnt answer unless millions possibly 2530 euros bad located nearer train station course nearer barcelona center stay wheelchair accessible elevator reaching restaurant etc",
+      "Date": "2011-02-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "London, UK",
+      "Title": "\u201cOK, but AWFUL location!\u201d",
+      "Author": "magicmat",
+      "ReviewID": "UR97794580",
+      "Content": "hotel thier sister hotel city cocked booking 2 receptionists slow idea taking guy front painful watch 8 neice job clean pretty basic fridge mini bar hotel bar wake town supermarket city barcelona visit cityyou hotel result poor location experience spa facilities nice hang amasing story originally booked hotel spoke receptionist tube map maps guests dont hotel map thier own maps didnt funny tube fancy idea trying remote location city timings tight reading bad stories opted taxis carefully booking",
+      "Date": "2011-02-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "south west UK",
+      "Title": "\u201cAvoid\u201d",
+      "Author": "joneshead",
+      "ReviewID": "UR79213344",
+      "Content": "travelled 25th wedding hotel 4 stars advertised tea coffee facilities 2 occupancy 1 drinking glass support handle falling bath wall caught fire lost electrics ie coffee available morning bacon 3rd egg stayed 4 days train waiting station barcelona 45 minutes tell driver heard hotel 30 min 36 euro",
+      "Date": "2010-09-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Husa Via Barcelona",
+    "HotelURL": "/ShowUserReviews-g187497-d919470-Reviews-Husa_Via_Barcelona-Barcelona_Catalonia.html",
+    "Price": "$74 - $1,188*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Maria Tarrida 6-7</span>, <span class=\"locality\"><span property=\"v:postal-code\">08970</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "919470",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/cb/3f/38/room.jpg"
+  }
+}

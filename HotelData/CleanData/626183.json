@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Chester, United Kingdom", "Title": "\u201cFriendly, affordable, comfortable hostel\u201d", "Author": "Charles D", "ReviewID": "UR126048059", "Content": "chose hostel basis entry quick desperate computer search performed hostelworld arriving berlin bus station overnight coach amsterdam cheap close airport schonefeld eventually leave berlin travelling friend believed booking wait 2pm check arrived greeted enthusiastically ushered straight 930 morning nap comfortable bed search food found extensive menu bar hostel food delicious affordable service excellent hostel located east berlin simple city navigate advantage staying district cheap seeking serious nightlife ideal stay advantage cheap drinks hostel bar supermarket road train elsewhere city simply nights sleep honest nights drinking staff friendly helpful owner typical kiwi love life laugh common meet guests hostel clean showers hot coffee ready waiting counter hangover morning stay cant speak highly nights encountered bed allocation guests move time longterm residents didnt mind strongly recommend staying berlin", "Date": "2012-03-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Nottingham, England", "Title": "\u201cFive visits to Berlin, Five stays at Schlafmeile Hostel\u201d", "Author": "BrezUK", "ReviewID": "UR101568753", "Content": "ive berlin five times favourite city stayed hostel prices reasonable close bahn centre 10 minutes ubahn clean comfortable plus socialise common eating drinking nearby importantly glen owner staff friendly helpful example visit booked nights booking booked nights glen phone sorted remaining nights nearby ao hostel nice visit berlin stay hostel home", "Date": "2011-03-25 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "England", "Title": "\u201cPerfect base to explore Berlin on a budget\u201d", "Author": "Hills86", "ReviewID": "UR99493340", "Content": "3 visited berlin weekend stayed recommended friends arrived midnight luckily kiwi restaurant door unfortunately booking wrong arrive night little fuss allocated photos private entrance onto street people please tram runs past hostel bit noisy apart hostel clean nice hot showers cooking facilities lounge tv free wifi relax theres fixed computers log onto glen manager friendly hand recommend plenty eat local ubahn 5 minute walk hostel runs straight alexanderplatz definitely recommend heading tv tower wish book online beforehand avoid queues allows bearings whilst taking view city head brandenburg gate join free walking tours lasts 34 hours youll learn lot pay tour worth berlin city major touristy bits weekend city potsdam travellers worth visit time hostel based experience definitely look option travelling future", "Date": "2011-03-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Exeter, United Kingdom", "Title": "\u201cGreat time, fun & nice staff, clean and cheap place overall\u201d", "Author": "paperlily3", "ReviewID": "UR80884613", "Content": "stayed ago friend holiday staff nice owner especially funny guy beds comfy clean nicely decorated bathroom reasonably sized kitchen equipped lot cook own food social overcrowded lot effort hostel nice definitely stay subway isnt 10 mins walking quiet cool shops", "Date": "2010-09-24 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Brighton, United Kingdom", "Title": "\u201cVery clean and friendly\u201d", "Author": "AliceAdventures", "ReviewID": "UR74987250", "Content": "stayed night nice communal meeting people hanging clean beds comfy size lockable cupboards lockable boxes valuables bathrooms clean showers werent separated rest bathroom hope else shower werent hard exactly location heard travellers nightlife nearby honest berlin spread anyway doesnt difference hostel 10 minutes ubahn convenient sense definitely stay", "Date": "2010-08-13 00:00:00"}], "HotelInfo": {"Name": "Schlafmeile Hostel", "HotelURL": "/ShowUserReviews-g187323-d626183-Reviews-Schlafmeile_Hostel-Berlin.html", "Price": "0", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Weichsel Strasse 22-26</span>, <span class=\"locality\"><span property=\"v:postal-code\">10247</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "626183", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/09/dc/8a/rolly-out-the-front-with.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Chester, United Kingdom",
+      "Title": "\u201cFriendly, affordable, comfortable hostel\u201d",
+      "Author": "Charles D",
+      "ReviewID": "UR126048059",
+      "Content": "chose hostel basis entry quick desperate computer search performed hostelworld arriving berlin bus station overnight coach amsterdam cheap close airport schonefeld eventually leave berlin travelling friend believed booking wait 2pm check arrived greeted enthusiastically ushered straight 930 morning nap comfortable bed search food found extensive menu bar hostel food delicious affordable service excellent hostel located east berlin simple city navigate advantage staying district cheap seeking serious nightlife ideal stay advantage cheap drinks hostel bar supermarket road train elsewhere city simply nights sleep honest nights drinking staff friendly helpful owner typical kiwi love life laugh common meet guests hostel clean showers hot coffee ready waiting counter hangover morning stay cant speak highly nights encountered bed allocation guests move time longterm residents didnt mind strongly recommend staying berlin",
+      "Date": "2012-03-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Nottingham, England",
+      "Title": "\u201cFive visits to Berlin, Five stays at Schlafmeile Hostel\u201d",
+      "Author": "BrezUK",
+      "ReviewID": "UR101568753",
+      "Content": "ive berlin five times favourite city stayed hostel prices reasonable close bahn centre 10 minutes ubahn clean comfortable plus socialise common eating drinking nearby importantly glen owner staff friendly helpful example visit booked nights booking booked nights glen phone sorted remaining nights nearby ao hostel nice visit berlin stay hostel home",
+      "Date": "2011-03-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "England",
+      "Title": "\u201cPerfect base to explore Berlin on a budget\u201d",
+      "Author": "Hills86",
+      "ReviewID": "UR99493340",
+      "Content": "3 visited berlin weekend stayed recommended friends arrived midnight luckily kiwi restaurant door unfortunately booking wrong arrive night little fuss allocated photos private entrance onto street people please tram runs past hostel bit noisy apart hostel clean nice hot showers cooking facilities lounge tv free wifi relax theres fixed computers log onto glen manager friendly hand recommend plenty eat local ubahn 5 minute walk hostel runs straight alexanderplatz definitely recommend heading tv tower wish book online beforehand avoid queues allows bearings whilst taking view city head brandenburg gate join free walking tours lasts 34 hours youll learn lot pay tour worth berlin city major touristy bits weekend city potsdam travellers worth visit time hostel based experience definitely look option travelling future",
+      "Date": "2011-03-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Exeter, United Kingdom",
+      "Title": "\u201cGreat time, fun & nice staff, clean and cheap place overall\u201d",
+      "Author": "paperlily3",
+      "ReviewID": "UR80884613",
+      "Content": "stayed ago friend holiday staff nice owner especially funny guy beds comfy clean nicely decorated bathroom reasonably sized kitchen equipped lot cook own food social overcrowded lot effort hostel nice definitely stay subway isnt 10 mins walking quiet cool shops",
+      "Date": "2010-09-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Brighton, United Kingdom",
+      "Title": "\u201cVery clean and friendly\u201d",
+      "Author": "AliceAdventures",
+      "ReviewID": "UR74987250",
+      "Content": "stayed night nice communal meeting people hanging clean beds comfy size lockable cupboards lockable boxes valuables bathrooms clean showers werent separated rest bathroom hope else shower werent hard exactly location heard travellers nightlife nearby honest berlin spread anyway doesnt difference hostel 10 minutes ubahn convenient sense definitely stay",
+      "Date": "2010-08-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Schlafmeile Hostel",
+    "HotelURL": "/ShowUserReviews-g187323-d626183-Reviews-Schlafmeile_Hostel-Berlin.html",
+    "Price": "0",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Weichsel Strasse 22-26</span>, <span class=\"locality\"><span property=\"v:postal-code\">10247</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "626183",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/09/dc/8a/rolly-out-the-front-with.jpg"
+  }
+}

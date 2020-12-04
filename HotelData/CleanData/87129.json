@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Grand Cayman", "Title": "\u201cJust fine\u201d", "Author": "Kittalygirl", "ReviewID": "UR125313974", "Content": "reviews werent liked fine staff werent super helpful couple nice playpen set clean beds comfortable dolphin mall nearby airport close didnt hear planes car fine bedroom ill stay", "Date": "2012-02-27 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Caracas, Venezuela", "Title": "\u201cFair and a good value Hotel\u201d", "Author": "fbrito29", "ReviewID": "UR122754400", "Content": "delivers traveler expect price night sleep checked person counter courteous supposed informed amenities hotel sleep sofa bed bedroom suites front desk person maid diner sofa bed ready told ourselves climax realized sofa bed front desk request pillow bedsheets etc travelers understand hotel sinks realize fair hotel", "Date": "2012-01-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cFair place, with minor drawbacks\u201d", "Author": "AncientMariner924", "ReviewID": "UR122254006", "Content": "hotel undergone significant renovations helped improve offering exterior looks updating nice kitchen perfect close hear neighbors staff helpful help", "Date": "2011-12-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "The Villages, Florida", "Title": "\u201cDoesn't deserve to be called a Marriott\u201d", "Author": "JanBergeron", "ReviewID": "UR95757069", "Content": "outdated seedy worn staff pleasant accommodating couldnt deficiencies supposed nonsmoking reeked cigarette smoke poor excuse breakfast continental practically water pressure shower wait 510 minutes hot water waste time typing avoid", "Date": "2011-02-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Port Coquitlam, Canada", "Title": "\u201cdisappointing stay, wow does this need an update!\u201d", "Author": "Joellens", "ReviewID": "UR93964803", "Content": "stayed nite traveling disappointment paid 100 studio suite hard parking hard entry building signs elevators location disappointed cheaply outfitted collection mismatched dishes hole bottom freezer happen trouble shower promptly care nice staff desk chair free wifi stay wont written marriot", "Date": "2011-01-21 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Albany, New York", "Title": "\u201cGood place, in the middle of nowhere...\u201d", "Author": "Siena99", "ReviewID": "UR93467228", "Content": "stay cruise found towneplace suites reasonably priced option size kitchen spectacular beds relatively comfortable clean complimentary breakfast cramped lobby checkin nice pool placed outside hotel middle parking lot speaking location hotel middle industrial park middle youre looking hotel near action skip youre looking value near airport", "Date": "2011-01-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Lindon, Utah", "Title": "\u201cGood for one night but small and outdated room\u201d", "Author": "Scholartime", "ReviewID": "UR74201789", "Content": "traveling daughters close miami airport night chose hotel sleeping fridge actually kitchen met children nearby hospital hospital caters individuals necessarily travelers sofa sleeper disappointingly maybe double pretty bad mattress girls putting floor slightly comfortable walk reception linens mattress didn\u00e2\u20ac\u2122t fit getting inconvenient entrance building elevatorstairs inside pass lots people\u00e2\u20ac\u2122s elevator floor walk hall potentially disturb floors guests unless elevator noisy d\u00e3\u00a9cor pretty bad carpet especially dirty outdated try eating shopping surrounding neighborhood comment price wasn\u00e2\u20ac\u2122t bad hotel onenight stay stay extended period time staff friendly helpful job despite ongoing renovations breakfast okay", "Date": "2010-08-07 00:00:00"}], "HotelInfo": {"Name": "TownePlace Suites Miami Airport West / Doral Area", "HotelURL": "/ShowUserReviews-g34438-d87129-Reviews-TownePlace_Suites_Miami_Airport_West_Doral_Area-Miami_Florida.html", "Price": "$90 - $221*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">10505 NW 36th Street</span>, <span class=\"locality\"><span property=\"v:locality\">Miami</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">33178</span></span> </span> </span> </address>", "HotelID": "87129", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d7/ad/d7ad8bb8192480af744a89c27a6ff09e7large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Grand Cayman",
+      "Title": "\u201cJust fine\u201d",
+      "Author": "Kittalygirl",
+      "ReviewID": "UR125313974",
+      "Content": "reviews werent liked fine staff werent super helpful couple nice playpen set clean beds comfortable dolphin mall nearby airport close didnt hear planes car fine bedroom ill stay",
+      "Date": "2012-02-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Caracas, Venezuela",
+      "Title": "\u201cFair and a good value Hotel\u201d",
+      "Author": "fbrito29",
+      "ReviewID": "UR122754400",
+      "Content": "delivers traveler expect price night sleep checked person counter courteous supposed informed amenities hotel sleep sofa bed bedroom suites front desk person maid diner sofa bed ready told ourselves climax realized sofa bed front desk request pillow bedsheets etc travelers understand hotel sinks realize fair hotel",
+      "Date": "2012-01-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cFair place, with minor drawbacks\u201d",
+      "Author": "AncientMariner924",
+      "ReviewID": "UR122254006",
+      "Content": "hotel undergone significant renovations helped improve offering exterior looks updating nice kitchen perfect close hear neighbors staff helpful help",
+      "Date": "2011-12-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "The Villages, Florida",
+      "Title": "\u201cDoesn't deserve to be called a Marriott\u201d",
+      "Author": "JanBergeron",
+      "ReviewID": "UR95757069",
+      "Content": "outdated seedy worn staff pleasant accommodating couldnt deficiencies supposed nonsmoking reeked cigarette smoke poor excuse breakfast continental practically water pressure shower wait 510 minutes hot water waste time typing avoid",
+      "Date": "2011-02-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Port Coquitlam, Canada",
+      "Title": "\u201cdisappointing stay, wow does this need an update!\u201d",
+      "Author": "Joellens",
+      "ReviewID": "UR93964803",
+      "Content": "stayed nite traveling disappointment paid 100 studio suite hard parking hard entry building signs elevators location disappointed cheaply outfitted collection mismatched dishes hole bottom freezer happen trouble shower promptly care nice staff desk chair free wifi stay wont written marriot",
+      "Date": "2011-01-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Albany, New York",
+      "Title": "\u201cGood place, in the middle of nowhere...\u201d",
+      "Author": "Siena99",
+      "ReviewID": "UR93467228",
+      "Content": "stay cruise found towneplace suites reasonably priced option size kitchen spectacular beds relatively comfortable clean complimentary breakfast cramped lobby checkin nice pool placed outside hotel middle parking lot speaking location hotel middle industrial park middle youre looking hotel near action skip youre looking value near airport",
+      "Date": "2011-01-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Lindon, Utah",
+      "Title": "\u201cGood for one night but small and outdated room\u201d",
+      "Author": "Scholartime",
+      "ReviewID": "UR74201789",
+      "Content": "traveling daughters close miami airport night chose hotel sleeping fridge actually kitchen met children nearby hospital hospital caters individuals necessarily travelers sofa sleeper disappointingly maybe double pretty bad mattress girls putting floor slightly comfortable walk reception linens mattress didn\u00e2\u20ac\u2122t fit getting inconvenient entrance building elevatorstairs inside pass lots people\u00e2\u20ac\u2122s elevator floor walk hall potentially disturb floors guests unless elevator noisy d\u00e3\u00a9cor pretty bad carpet especially dirty outdated try eating shopping surrounding neighborhood comment price wasn\u00e2\u20ac\u2122t bad hotel onenight stay stay extended period time staff friendly helpful job despite ongoing renovations breakfast okay",
+      "Date": "2010-08-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "TownePlace Suites Miami Airport West / Doral Area",
+    "HotelURL": "/ShowUserReviews-g34438-d87129-Reviews-TownePlace_Suites_Miami_Airport_West_Doral_Area-Miami_Florida.html",
+    "Price": "$90 - $221*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">10505 NW 36th Street</span>, <span class=\"locality\"><span property=\"v:locality\">Miami</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">33178</span></span> </span> </span> </address>",
+    "HotelID": "87129",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d7/ad/d7ad8bb8192480af744a89c27a6ff09e7large.jpg"
+  }
+}

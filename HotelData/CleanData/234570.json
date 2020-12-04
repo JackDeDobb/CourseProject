@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "edinburgh", "Title": "\u201cBeautiful Barcelona\u201d", "Author": "esther joy m Posted by an Easytobook.com traveler", "ReviewID": "UR126962276", "Content": "entire family barcelona cheap weekend hotel fantastic excellent location close metro shops safe quiet staff helpful friendly upgraded free charge bigger ideal family definitely recommend hotel am hoping visit", "Date": "2012-03-30 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "", "Title": "\u201cNice hotel, but beware of some people of the staff\u201d", "Author": "88Gin", "ReviewID": "UR62774057", "Content": "hotel nice brief stay request parking lot employees beware female reception shes acid clean little bit city metro station nearby supermarket banks bars centre pricequality worth sorry", "Date": "2010-04-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Sweden", "Title": "\u201cSimple and tidy room\u201d", "Author": "TWNH", "ReviewID": "UR58614345", "Content": "speak english spanish french friendly pay attention enters hotel feels safe free safty box ground floor toliet shower nice clean supermarket cafe corner steps hotel dislike noisy ac hear traffic street window nonsmoking smelled smoking beer bottle sitting fridge ok tidy reasonable price stayed friend live nearby active tourists stay", "Date": "2010-03-15 00:00:00"}], "HotelInfo": {"Name": "Husa Bonanova Park", "HotelURL": "/ShowUserReviews-g187497-d234570-Reviews-Husa_Bonanova_Park-Barcelona_Catalonia.html", "Price": "$78 - $109*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Capitan Arenas 51</span>, <span class=\"locality\"><span property=\"v:postal-code\">08034</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "234570", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/17/06/170685319a642ead38a8f3c8141fbb993large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "edinburgh",
+      "Title": "\u201cBeautiful Barcelona\u201d",
+      "Author": "esther joy m Posted by an Easytobook.com traveler",
+      "ReviewID": "UR126962276",
+      "Content": "entire family barcelona cheap weekend hotel fantastic excellent location close metro shops safe quiet staff helpful friendly upgraded free charge bigger ideal family definitely recommend hotel am hoping visit",
+      "Date": "2012-03-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cNice hotel, but beware of some people of the staff\u201d",
+      "Author": "88Gin",
+      "ReviewID": "UR62774057",
+      "Content": "hotel nice brief stay request parking lot employees beware female reception shes acid clean little bit city metro station nearby supermarket banks bars centre pricequality worth sorry",
+      "Date": "2010-04-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sweden",
+      "Title": "\u201cSimple and tidy room\u201d",
+      "Author": "TWNH",
+      "ReviewID": "UR58614345",
+      "Content": "speak english spanish french friendly pay attention enters hotel feels safe free safty box ground floor toliet shower nice clean supermarket cafe corner steps hotel dislike noisy ac hear traffic street window nonsmoking smelled smoking beer bottle sitting fridge ok tidy reasonable price stayed friend live nearby active tourists stay",
+      "Date": "2010-03-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Husa Bonanova Park",
+    "HotelURL": "/ShowUserReviews-g187497-d234570-Reviews-Husa_Bonanova_Park-Barcelona_Catalonia.html",
+    "Price": "$78 - $109*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Capitan Arenas 51</span>, <span class=\"locality\"><span property=\"v:postal-code\">08034</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "234570",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/17/06/170685319a642ead38a8f3c8141fbb993large.jpg"
+  }
+}

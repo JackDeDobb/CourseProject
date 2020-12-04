@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 2.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "CT", "Title": "\u201cNice Jewish mother loved the convent\u201d", "Author": "Mollybloom51", "ReviewID": "UR88569466", "Content": "spent recent thanksgiving holiday rome 15year son love luxurious hotels decided extra cash shop eat rome convent triple bothered noise beds indeed comfortable excellent comfy accustomed quality pillows soft squashy pillow suitcase immaculate am bed maker son surprise pleasantly surprised housekeeping crew straightened bathroom private else floor weekend stay private convent filled lots guests weekend breakfast fancy coffee sister breakfast efficient location spectacular literally backyard navona street campo fiori bit hike walking distance synagogue convenient cash machines 247 vending street picked bottled water night close buses trams bars etc", "Date": "2010-11-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Ann Arbor, Michigan", "Title": "\u201cExcellent place to stay for the budget minded\u201d", "Author": "niramt", "ReviewID": "UR86076190", "Content": "immaculate bathrooms clean sisters friendly joy breakfast simple substantial tours day excellent stay budget looking peaceful sleep located near piazza walking distance historic rome told curfew true sisters lovely receptionist caretaker hours travelers left 400 am catch flight", "Date": "2010-11-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Lansing, Michigan", "Title": "\u201cLocation, location, location\u201d", "Author": "Musings-4U2", "ReviewID": "UR69152553", "Content": "retired couple 60s walked sites bus routes feet building entrance location easy midday siesta rest private bathroom including fixtures six eight day stay breakfast served 89 am simple ample elevator midnight curfew wifi sister catherine printed boarding passes cost numerous restaurants cafes gelatto stores sprinkled piazza navona located short walk sisters helpful basic clean adequately sized shutters block sounds city tv guests", "Date": "2010-06-29 00:00:00"}], "HotelInfo": {"Name": "Istituto Santa Giuliana Falconieri", "HotelURL": "/ShowUserReviews-g187791-d626570-Reviews-Istituto_Santa_Giuliana_Falconieri-Rome_Lazio.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Calasanzio, 1</span>, <span class=\"locality\"><span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "626570", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "CT",
+      "Title": "\u201cNice Jewish mother loved the convent\u201d",
+      "Author": "Mollybloom51",
+      "ReviewID": "UR88569466",
+      "Content": "spent recent thanksgiving holiday rome 15year son love luxurious hotels decided extra cash shop eat rome convent triple bothered noise beds indeed comfortable excellent comfy accustomed quality pillows soft squashy pillow suitcase immaculate am bed maker son surprise pleasantly surprised housekeeping crew straightened bathroom private else floor weekend stay private convent filled lots guests weekend breakfast fancy coffee sister breakfast efficient location spectacular literally backyard navona street campo fiori bit hike walking distance synagogue convenient cash machines 247 vending street picked bottled water night close buses trams bars etc",
+      "Date": "2010-11-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ann Arbor, Michigan",
+      "Title": "\u201cExcellent place to stay for the budget minded\u201d",
+      "Author": "niramt",
+      "ReviewID": "UR86076190",
+      "Content": "immaculate bathrooms clean sisters friendly joy breakfast simple substantial tours day excellent stay budget looking peaceful sleep located near piazza walking distance historic rome told curfew true sisters lovely receptionist caretaker hours travelers left 400 am catch flight",
+      "Date": "2010-11-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Lansing, Michigan",
+      "Title": "\u201cLocation, location, location\u201d",
+      "Author": "Musings-4U2",
+      "ReviewID": "UR69152553",
+      "Content": "retired couple 60s walked sites bus routes feet building entrance location easy midday siesta rest private bathroom including fixtures six eight day stay breakfast served 89 am simple ample elevator midnight curfew wifi sister catherine printed boarding passes cost numerous restaurants cafes gelatto stores sprinkled piazza navona located short walk sisters helpful basic clean adequately sized shutters block sounds city tv guests",
+      "Date": "2010-06-29 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Istituto Santa Giuliana Falconieri",
+    "HotelURL": "/ShowUserReviews-g187791-d626570-Reviews-Istituto_Santa_Giuliana_Falconieri-Rome_Lazio.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Calasanzio, 1</span>, <span class=\"locality\"><span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "626570",
+    "ImgURL": ""
+  }
+}

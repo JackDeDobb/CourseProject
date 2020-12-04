@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Fort Worth, TX", "Title": "\u201cOur New Home in Rome...\u201d", "Author": "Alyssa R", "ReviewID": "UR128228188", "Content": "booked expedia left review site loved experience searching trip advisor stayed days april 2012 hated leave inviting lovingly beautifully designed hotel superb staff quick smile dinner offer hotel umbrella rained hotel details feels staying anna hotel guest own home gorgeous amenities personal touches couples surrounded lush tucked garden feels hustle rome thick metro stop vatican upscale safe quiet neighborhood feel youre steps reastaurants shopping feel local overcrowded tourists breakfast main villa morning delicious beds comfortable ones entire trip throughout italy hotel experience trip trip staying else rome sing villas praises listen", "Date": "2012-04-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Helsingoer, Denmark", "Title": "\u201cStylish with atmosphere\u201d", "Author": "Svegaard", "ReviewID": "UR119708435", "Content": "hotel stylish placed street walls largest experience terms style fron mansion refurbishment nosie dust restaurant spa hotel according reception hotel owned fendi indeed fendi stayed family 2 else normal business hotel perfect stay breakfast 2 minutes carrefour breakfast shopping prepared walking metro bring hotel plan taxies enjoy", "Date": "2011-10-25 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "USA", "Title": "\u201cNice location, somewhat disappointing accomodations.\u201d", "Author": "nydy", "ReviewID": "UR56892898", "Content": "stayed senior suite atelier nice weather winter kitchenette comfortable seating stay warm weather lovely private outside terrace larger kitchenette supplied definite plus metal spiral stairs leading sleeping outside terrace 12 foot bed causing leg bruises towels toiletries provided nice bathroom barely desk clerks helpful otherwise service front desk staff spotty incorrect directions blocks change provide guests coin operated coffee machine etc housekeeping staff outstanding efficient pleasant consistent location residential fairly quiet residential eleven nights staying party patio usual staff left front desk else hotel supervise party 100am 1100pm 100pm music sooooo loud sounded played volume sleeping complained desk clerk following morning acted offended offer discount complimentary breakfast apology wireless internet system sometimes short periods", "Date": "2010-02-23 00:00:00"}], "HotelInfo": {"Name": "Villa Laetitia", "HotelURL": "/ShowUserReviews-g187791-d644514-Reviews-Villa_Laetitia-Rome_Lazio.html", "Price": "$145 - $249*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Lungo Tevere delle Armi, 22/23</span>, <span class=\"locality\"><span property=\"v:postal-code\">00195</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "644514", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/67/ad/67adafae7f41a9137f2e5e09a6dfe0597large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Fort Worth, TX",
+      "Title": "\u201cOur New Home in Rome...\u201d",
+      "Author": "Alyssa R",
+      "ReviewID": "UR128228188",
+      "Content": "booked expedia left review site loved experience searching trip advisor stayed days april 2012 hated leave inviting lovingly beautifully designed hotel superb staff quick smile dinner offer hotel umbrella rained hotel details feels staying anna hotel guest own home gorgeous amenities personal touches couples surrounded lush tucked garden feels hustle rome thick metro stop vatican upscale safe quiet neighborhood feel youre steps reastaurants shopping feel local overcrowded tourists breakfast main villa morning delicious beds comfortable ones entire trip throughout italy hotel experience trip trip staying else rome sing villas praises listen",
+      "Date": "2012-04-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Helsingoer, Denmark",
+      "Title": "\u201cStylish with atmosphere\u201d",
+      "Author": "Svegaard",
+      "ReviewID": "UR119708435",
+      "Content": "hotel stylish placed street walls largest experience terms style fron mansion refurbishment nosie dust restaurant spa hotel according reception hotel owned fendi indeed fendi stayed family 2 else normal business hotel perfect stay breakfast 2 minutes carrefour breakfast shopping prepared walking metro bring hotel plan taxies enjoy",
+      "Date": "2011-10-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "USA",
+      "Title": "\u201cNice location, somewhat disappointing accomodations.\u201d",
+      "Author": "nydy",
+      "ReviewID": "UR56892898",
+      "Content": "stayed senior suite atelier nice weather winter kitchenette comfortable seating stay warm weather lovely private outside terrace larger kitchenette supplied definite plus metal spiral stairs leading sleeping outside terrace 12 foot bed causing leg bruises towels toiletries provided nice bathroom barely desk clerks helpful otherwise service front desk staff spotty incorrect directions blocks change provide guests coin operated coffee machine etc housekeeping staff outstanding efficient pleasant consistent location residential fairly quiet residential eleven nights staying party patio usual staff left front desk else hotel supervise party 100am 1100pm 100pm music sooooo loud sounded played volume sleeping complained desk clerk following morning acted offended offer discount complimentary breakfast apology wireless internet system sometimes short periods",
+      "Date": "2010-02-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Villa Laetitia",
+    "HotelURL": "/ShowUserReviews-g187791-d644514-Reviews-Villa_Laetitia-Rome_Lazio.html",
+    "Price": "$145 - $249*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Lungo Tevere delle Armi, 22/23</span>, <span class=\"locality\"><span property=\"v:postal-code\">00195</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "644514",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/67/ad/67adafae7f41a9137f2e5e09a6dfe0597large.jpg"
+  }
+}

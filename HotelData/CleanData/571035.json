@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Brooklyn, New York", "Title": "\u201cPleasant experience\u201d", "Author": "beebahk", "ReviewID": "UR86540442", "Content": "actually found staff friendly overall treated checked command english native location convenient breakfast am reading comments thats italian breakfast breakfast people english americans brief stay sufficient stay return rome", "Date": "2010-11-09 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 1.0, "Value": 4.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "London", "Title": "\u201cDont stay here- night staff dont speak english, very excitable during check in - spoke to me constantly in Italian\u201d", "Author": "Travebkaman", "ReviewID": "UR67298383", "Content": "poor service rubbish breakfast location wouldnt stay call slice cake coffee breakfast stay staff phone rude short dismissive adaptor laptop staff office flying whilst looked didnt", "Date": "2010-06-12 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Guam", "Title": "\u201cbare bones basic\u201d", "Author": "halitozis", "ReviewID": "UR65993536", "Content": "plusses location 10 mins walk termini train station 30 min walk pantheon clean decent price wifi access negatives 5th floor loud rome hot water showers 45 absolutely zero cozy atmosphere decent choice lowmaintenance traveler", "Date": "2010-06-01 00:00:00"}], "HotelInfo": {"Name": "Ares Rooms", "HotelURL": "/ShowUserReviews-g187791-d571035-Reviews-Ares_Rooms-Rome_Lazio.html", "Price": "$73 - $125*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Domenichino 7</span>, <span class=\"locality\"><span property=\"v:postal-code\">00187</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "571035", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/48/74/487433ddc7970db4fec17c004aba86b91large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Brooklyn, New York",
+      "Title": "\u201cPleasant experience\u201d",
+      "Author": "beebahk",
+      "ReviewID": "UR86540442",
+      "Content": "actually found staff friendly overall treated checked command english native location convenient breakfast am reading comments thats italian breakfast breakfast people english americans brief stay sufficient stay return rome",
+      "Date": "2010-11-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 1.0,
+        "Value": 4.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cDont stay here- night staff dont speak english, very excitable during check in - spoke to me constantly in Italian\u201d",
+      "Author": "Travebkaman",
+      "ReviewID": "UR67298383",
+      "Content": "poor service rubbish breakfast location wouldnt stay call slice cake coffee breakfast stay staff phone rude short dismissive adaptor laptop staff office flying whilst looked didnt",
+      "Date": "2010-06-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Guam",
+      "Title": "\u201cbare bones basic\u201d",
+      "Author": "halitozis",
+      "ReviewID": "UR65993536",
+      "Content": "plusses location 10 mins walk termini train station 30 min walk pantheon clean decent price wifi access negatives 5th floor loud rome hot water showers 45 absolutely zero cozy atmosphere decent choice lowmaintenance traveler",
+      "Date": "2010-06-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Ares Rooms",
+    "HotelURL": "/ShowUserReviews-g187791-d571035-Reviews-Ares_Rooms-Rome_Lazio.html",
+    "Price": "$73 - $125*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Domenichino 7</span>, <span class=\"locality\"><span property=\"v:postal-code\">00187</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "571035",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/48/74/487433ddc7970db4fec17c004aba86b91large.jpg"
+  }
+}

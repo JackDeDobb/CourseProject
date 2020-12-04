@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Wellington, New Zealand", "Title": "\u201chugely misleading room description, do not stay here\u201d", "Author": "andda347", "ReviewID": "UR127745489", "Content": "booked 2 budget apartment described 40 square metres double bed advertised photos fitted description reason booked hotel door wed wrong key walking cupboard pull sofa bed bedding squeezing past found single bed equally wed booked 40 sqm double returned reception expecting set keys actual despite explaining apparent mix receptionist advised couldnt hotel offered 5 euro amends accepting advertised details misleading photos bookingcom larger expensive frank admission cancel booking told wasnt pay sensing increasing frustration offered 10 euro amends imagine lead balloon receptionist tried justify saying booked cheaper expect nice expensive deadlock call manager thinking common sense prevail disappointingly told 10 euro offer stood leave paid real option 10 euro worst hotel stayed appalled treated ones stay reasons", "Date": "2012-04-12 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Germany", "Title": "\u201cConveniently located and affordable\u201d", "Author": "GermanyNeedtotravel", "ReviewID": "UR124107024", "Content": "stayed nights december business berlin booked single offered larger hotel means conveniently located kudamm western berlin blocks subway line numerous restaurants short walking distance savignyplatz clean baths standard simply breakfast served included price overall pleasant stay helpful staff clean wellmanaged hotel", "Date": "2012-02-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cClean, Friendly, Spacious Room\u201d", "Author": "shannon c", "ReviewID": "UR118454820", "Content": "family stayed 3 weeks visiting berlin staff friendly helpful providing childs bed highchair cleaned daily standard bathroom spacious clean barfridge kettle microwave included beds comfortable breakfast buffet superb 3 weeks eating lots choice breads cheese meat cereal eggs yogurt juice tea coffee close bus sbahn transportation located town restaurants shopping streets little cheaper children play fun parks little exploring zoo closeby brought stroller fit tiny elevator 1 person kid stroller stroller tipped angle 4 flights stairs climb inconvenience larger stroller city mini wifi price tiny television bbc cnn english ac fan provided highly recommended child", "Date": "2011-09-22 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Cornwall", "Title": "\u201cPeaceful, friendly and comfortable\u201d", "Author": "Christysdad", "ReviewID": "UR57119287", "Content": "found hotel helpful friendly staff peaceful spacious inc fridge provide own kettle tea bags lovely buffet breakfast kurfurstendam cross main road supermarket left nearest bahn train station close station excellent turkish restaurant called sorry 46 remember anyway", "Date": "2010-02-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "", "Title": "\u201cClean, quiet, and roomy\u201d", "Author": "stucindy", "ReviewID": "UR56067199", "Content": "hotel staff helpful friendly clean comfortable bed little firmer am ok parking street parking lot street security car lots restaurants close easy city bus metro definitely recommend pension", "Date": "2010-02-15 00:00:00"}], "HotelInfo": {"Name": "Hotel Kurfurst", "HotelURL": "/ShowUserReviews-g187323-d408529-Reviews-Hotel_Kurfurst-Berlin.html", "Price": "$71 - $135*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Bleibtreustrasse 34</span>, <span class=\"locality\"><span property=\"v:postal-code\">10707</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "408529", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/20/7b/207bb0a763db66db4d8212a3a867d1841large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Wellington, New Zealand",
+      "Title": "\u201chugely misleading room description, do not stay here\u201d",
+      "Author": "andda347",
+      "ReviewID": "UR127745489",
+      "Content": "booked 2 budget apartment described 40 square metres double bed advertised photos fitted description reason booked hotel door wed wrong key walking cupboard pull sofa bed bedding squeezing past found single bed equally wed booked 40 sqm double returned reception expecting set keys actual despite explaining apparent mix receptionist advised couldnt hotel offered 5 euro amends accepting advertised details misleading photos bookingcom larger expensive frank admission cancel booking told wasnt pay sensing increasing frustration offered 10 euro amends imagine lead balloon receptionist tried justify saying booked cheaper expect nice expensive deadlock call manager thinking common sense prevail disappointingly told 10 euro offer stood leave paid real option 10 euro worst hotel stayed appalled treated ones stay reasons",
+      "Date": "2012-04-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Germany",
+      "Title": "\u201cConveniently located and affordable\u201d",
+      "Author": "GermanyNeedtotravel",
+      "ReviewID": "UR124107024",
+      "Content": "stayed nights december business berlin booked single offered larger hotel means conveniently located kudamm western berlin blocks subway line numerous restaurants short walking distance savignyplatz clean baths standard simply breakfast served included price overall pleasant stay helpful staff clean wellmanaged hotel",
+      "Date": "2012-02-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cClean, Friendly, Spacious Room\u201d",
+      "Author": "shannon c",
+      "ReviewID": "UR118454820",
+      "Content": "family stayed 3 weeks visiting berlin staff friendly helpful providing childs bed highchair cleaned daily standard bathroom spacious clean barfridge kettle microwave included beds comfortable breakfast buffet superb 3 weeks eating lots choice breads cheese meat cereal eggs yogurt juice tea coffee close bus sbahn transportation located town restaurants shopping streets little cheaper children play fun parks little exploring zoo closeby brought stroller fit tiny elevator 1 person kid stroller stroller tipped angle 4 flights stairs climb inconvenience larger stroller city mini wifi price tiny television bbc cnn english ac fan provided highly recommended child",
+      "Date": "2011-09-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Cornwall",
+      "Title": "\u201cPeaceful, friendly and comfortable\u201d",
+      "Author": "Christysdad",
+      "ReviewID": "UR57119287",
+      "Content": "found hotel helpful friendly staff peaceful spacious inc fridge provide own kettle tea bags lovely buffet breakfast kurfurstendam cross main road supermarket left nearest bahn train station close station excellent turkish restaurant called sorry 46 remember anyway",
+      "Date": "2010-02-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cClean, quiet, and roomy\u201d",
+      "Author": "stucindy",
+      "ReviewID": "UR56067199",
+      "Content": "hotel staff helpful friendly clean comfortable bed little firmer am ok parking street parking lot street security car lots restaurants close easy city bus metro definitely recommend pension",
+      "Date": "2010-02-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Kurfurst",
+    "HotelURL": "/ShowUserReviews-g187323-d408529-Reviews-Hotel_Kurfurst-Berlin.html",
+    "Price": "$71 - $135*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Bleibtreustrasse 34</span>, <span class=\"locality\"><span property=\"v:postal-code\">10707</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "408529",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/20/7b/207bb0a763db66db4d8212a3a867d1841large.jpg"
+  }
+}

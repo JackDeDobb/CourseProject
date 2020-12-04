@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Oslo, Norway", "Title": "\u201cExcellent value - a good place to stay in London.\u201d", "Author": "Trav369", "ReviewID": "UR105255008", "Content": "friend stayed night december staff friendly cooked english breakfast nice clean quiet sleep location excellent marylebone street restaurants shops walk oxford street", "Date": "2011-04-24 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Trondheim", "Title": "\u201cVery good hotel\u201d", "Author": "Hagbart", "ReviewID": "UR97788615", "Content": "nice centrally located hotel near baker street tube oxford street hotel friendly staff location quiet clean hotel norwegian eyes kettle shower bath refrigerator plug ironing facilities tv traditional english breakfast missed salads vegetables breakfast traditional english breakfast probably healthy run bit tiny ok london bed bit hard wife wireless internet connection", "Date": "2011-02-24 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Oslo", "Title": "\u201cSmall, noisy room\u201d", "Author": "Pnill", "ReviewID": "UR94687374", "Content": "located basement hallway smelled propane january incredibly hot window onto staircase unlocked door street top pay checked payment cash staff friendly except fun english acted understand else spoke understood fine location ok oxford street 10 min walk", "Date": "2011-01-27 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Nottingham, United Kingdom", "Title": "\u201cGood location but noisey\u201d", "Author": "lurvlyloz", "ReviewID": "UR85670111", "Content": "stayed regency night required hotel ideal location 5 minute walk tube attractions fall amount noise mainly hotel generators noisey couldnt windows hotel didnt air con", "Date": "2010-11-02 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "SbHokie", "Title": "\u201cAlmost Perfect except for Noise and Shower\u201d", "Author": "SbHokie", "ReviewID": "UR59336113", "Content": "stayed regency hotel five nights december close christmas location perfect short walk takes baker street underground station stops oxford circus piccadilly circus madame tussauds wax museum street approximately blocks hotel cute little shopping street little boutiques nice midrange restaurants included english breakfast delicious nice free start day sightseeing filling uncomfortable person youre staying plus sleeping bathing size didnt matter included television hairdryer ironing board iron electric tea kettle alarm clock complaints walls tissue paper thin light sleeper hears didnt help neighbors intoxicated 3am night plus road hotel quiet outside noise compete unfortunately shower worthless hardly clean entire time due slow trickle coming shower head plus bathtub alternative bathing available arent rush trouble rinsing hair top floor bad closer ground definitely consider staying location close", "Date": "2010-03-23 00:00:00"}], "HotelInfo": {"Name": "Regency Hotel - Nottingham Place", "HotelURL": "/ShowUserReviews-g186338-d214651-Reviews-Regency_Hotel_Nottingham_Place-London_England.html", "Price": "$146 - $475*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">19 Nottingham Place</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">W1M 3FF</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>", "HotelID": "214651", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f4/51/f4510de0a86fcb22fd7ddecbcaf7ab211large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Oslo, Norway",
+      "Title": "\u201cExcellent value - a good place to stay in London.\u201d",
+      "Author": "Trav369",
+      "ReviewID": "UR105255008",
+      "Content": "friend stayed night december staff friendly cooked english breakfast nice clean quiet sleep location excellent marylebone street restaurants shops walk oxford street",
+      "Date": "2011-04-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Trondheim",
+      "Title": "\u201cVery good hotel\u201d",
+      "Author": "Hagbart",
+      "ReviewID": "UR97788615",
+      "Content": "nice centrally located hotel near baker street tube oxford street hotel friendly staff location quiet clean hotel norwegian eyes kettle shower bath refrigerator plug ironing facilities tv traditional english breakfast missed salads vegetables breakfast traditional english breakfast probably healthy run bit tiny ok london bed bit hard wife wireless internet connection",
+      "Date": "2011-02-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Oslo",
+      "Title": "\u201cSmall, noisy room\u201d",
+      "Author": "Pnill",
+      "ReviewID": "UR94687374",
+      "Content": "located basement hallway smelled propane january incredibly hot window onto staircase unlocked door street top pay checked payment cash staff friendly except fun english acted understand else spoke understood fine location ok oxford street 10 min walk",
+      "Date": "2011-01-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Nottingham, United Kingdom",
+      "Title": "\u201cGood location but noisey\u201d",
+      "Author": "lurvlyloz",
+      "ReviewID": "UR85670111",
+      "Content": "stayed regency night required hotel ideal location 5 minute walk tube attractions fall amount noise mainly hotel generators noisey couldnt windows hotel didnt air con",
+      "Date": "2010-11-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "SbHokie",
+      "Title": "\u201cAlmost Perfect except for Noise and Shower\u201d",
+      "Author": "SbHokie",
+      "ReviewID": "UR59336113",
+      "Content": "stayed regency hotel five nights december close christmas location perfect short walk takes baker street underground station stops oxford circus piccadilly circus madame tussauds wax museum street approximately blocks hotel cute little shopping street little boutiques nice midrange restaurants included english breakfast delicious nice free start day sightseeing filling uncomfortable person youre staying plus sleeping bathing size didnt matter included television hairdryer ironing board iron electric tea kettle alarm clock complaints walls tissue paper thin light sleeper hears didnt help neighbors intoxicated 3am night plus road hotel quiet outside noise compete unfortunately shower worthless hardly clean entire time due slow trickle coming shower head plus bathtub alternative bathing available arent rush trouble rinsing hair top floor bad closer ground definitely consider staying location close",
+      "Date": "2010-03-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Regency Hotel - Nottingham Place",
+    "HotelURL": "/ShowUserReviews-g186338-d214651-Reviews-Regency_Hotel_Nottingham_Place-London_England.html",
+    "Price": "$146 - $475*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">19 Nottingham Place</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">W1M 3FF</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>",
+    "HotelID": "214651",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f4/51/f4510de0a86fcb22fd7ddecbcaf7ab211large.jpg"
+  }
+}

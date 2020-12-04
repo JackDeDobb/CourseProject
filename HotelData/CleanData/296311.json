@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Lucca, Italy", "Title": "\u201cDecent Hotel, Horrific Reception\u201d", "Author": "Stephanie C", "ReviewID": "UR125846383", "Content": "complaints hotel originally boyfriend checkin previous afternoon dealt reception day snowed night fit fast stop blue mosque airport shuttle picked blue mosque snow desk told returning 200 shuttle airline arranged shuttle hotel paid airline included stay arrived hotel 145 proceeded wait lobby shuttle 210 boyfriend reception shuttle response gone told leave firstly adamant 15 minutes personal shuttle waiting didnt tell word watched sitting shuttle left request tells shuttle isnt hours meaning miss flight taxi paid airport cost fortune decided matters own hands discuss barely able cool continued smile sinister fake refusing information saying fault missed shuttle starts questioning boyfriend married appropriate traveling woman giving strange looks noises breath excuse continued totally condescending insanely annoying person finally able admit shuttle coming minutes absolutely sick pleasure getting putting marriage status wow wondering stars wasnt horrible liked neighborhood snowing streets empty save kids throwing snow balls playing atmospheric people actually live tourists wait staff restaurant helpful pleasant treated effort enjoy stay nice friendly guys idea reception desk hotel doing themselves disservice keeping establishment", "Date": "2012-03-09 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cIs it Beer or Berr?\u201d", "Author": "Goldisold", "ReviewID": "UR92804706", "Content": "bring own shampoo allocated double arrival fairly compared prefab construction days hotel requires sprucing deter traveller price reasonable nice location walking distance metro continous hot water housekeeping chance enjoy gourmet breakfast tulip inn hotel overall bad istanbul expensive am avoid taxis metro buses boat trams enjoyed trip lot", "Date": "2011-01-13 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Altrincham, United Kingdom", "Title": "\u201cOverpriced, dirty, poor service from staff, noisy.\u201d", "Author": "tom_macpherson", "ReviewID": "UR79548958", "Content": "stayed hotel changed hotel err total 3 nights 8 hours sleep total situated busy road lot traffic car horns constant changed 3 times 3rd aircon clean bedding bathroom falling apart insects 3rd breakfast truly appalling opinion eat eat crap staff unhelpful tried selling city maps free 6 turkish lira \u00e2\u00a33 overall strongly recommend stay hotel else stayed istanbul didnt cost paying demanded refund stayed elsewhere 4 joke pushing 2", "Date": "2010-09-14 00:00:00"}], "HotelInfo": {"Name": "Berr Hotel", "HotelURL": "/ShowUserReviews-g293974-d296311-Reviews-Berr_Hotel-Istanbul.html", "Price": "$98 - $225*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Akdeniz Cad. No 78</span> | <span class=\"extended-address\">Fatih</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34080</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "296311", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/25/29/2529239cae3a057a8b8e961f53f5313a7large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Lucca, Italy",
+      "Title": "\u201cDecent Hotel, Horrific Reception\u201d",
+      "Author": "Stephanie C",
+      "ReviewID": "UR125846383",
+      "Content": "complaints hotel originally boyfriend checkin previous afternoon dealt reception day snowed night fit fast stop blue mosque airport shuttle picked blue mosque snow desk told returning 200 shuttle airline arranged shuttle hotel paid airline included stay arrived hotel 145 proceeded wait lobby shuttle 210 boyfriend reception shuttle response gone told leave firstly adamant 15 minutes personal shuttle waiting didnt tell word watched sitting shuttle left request tells shuttle isnt hours meaning miss flight taxi paid airport cost fortune decided matters own hands discuss barely able cool continued smile sinister fake refusing information saying fault missed shuttle starts questioning boyfriend married appropriate traveling woman giving strange looks noises breath excuse continued totally condescending insanely annoying person finally able admit shuttle coming minutes absolutely sick pleasure getting putting marriage status wow wondering stars wasnt horrible liked neighborhood snowing streets empty save kids throwing snow balls playing atmospheric people actually live tourists wait staff restaurant helpful pleasant treated effort enjoy stay nice friendly guys idea reception desk hotel doing themselves disservice keeping establishment",
+      "Date": "2012-03-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cIs it Beer or Berr?\u201d",
+      "Author": "Goldisold",
+      "ReviewID": "UR92804706",
+      "Content": "bring own shampoo allocated double arrival fairly compared prefab construction days hotel requires sprucing deter traveller price reasonable nice location walking distance metro continous hot water housekeeping chance enjoy gourmet breakfast tulip inn hotel overall bad istanbul expensive am avoid taxis metro buses boat trams enjoyed trip lot",
+      "Date": "2011-01-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Altrincham, United Kingdom",
+      "Title": "\u201cOverpriced, dirty, poor service from staff, noisy.\u201d",
+      "Author": "tom_macpherson",
+      "ReviewID": "UR79548958",
+      "Content": "stayed hotel changed hotel err total 3 nights 8 hours sleep total situated busy road lot traffic car horns constant changed 3 times 3rd aircon clean bedding bathroom falling apart insects 3rd breakfast truly appalling opinion eat eat crap staff unhelpful tried selling city maps free 6 turkish lira \u00e2\u00a33 overall strongly recommend stay hotel else stayed istanbul didnt cost paying demanded refund stayed elsewhere 4 joke pushing 2",
+      "Date": "2010-09-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Berr Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d296311-Reviews-Berr_Hotel-Istanbul.html",
+    "Price": "$98 - $225*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Akdeniz Cad. No 78</span> | <span class=\"extended-address\">Fatih</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34080</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "296311",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/25/29/2529239cae3a057a8b8e961f53f5313a7large.jpg"
+  }
+}

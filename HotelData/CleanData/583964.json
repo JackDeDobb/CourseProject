@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Frankfurt, Germany", "Title": "\u201cFriendly business hotel\u201d", "Author": "mrsmith0179", "ReviewID": "UR125032372", "Content": "stayed single night due business trip pleased stay check friendly smooth simple cleaned overlooking road quiet sleep dinner restaurant basic quality bit unexperienced polite friendly service hotel staff extremely friendly helpful thanks sending bb cable frankfurt hotel location specific tourist recommend", "Date": "2012-02-22 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Lisle, Illinois", "Title": "\u201cinexpensive when pre booked and surprinsingly quiet\u201d", "Author": "raiPh3ah", "ReviewID": "UR123138054", "Content": "using online booking 1 month advance reasonable rate hotel located busy road tram bus traffic third floor backside building road noticeable noise traffic clean staff friendly except afternoon coffee break ok eat hotel restaurant location near various buildings university reason choosing hotel aware city center usual tourist attractions using public transport near alexanderplatz 30 minutes taxis waiting street bus tram stops directly outside hotel", "Date": "2012-01-15 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Paris, France", "Title": "\u201cA good surprise\u201d", "Author": "Paul_Hamelin", "ReviewID": "UR118943286", "Content": "due mistake booking hotel travel agent 10 friends relocated hotel tourists 4 days stay remote location hotel 40 60 minutes city center depending time day night wasnt didnt fly sch\u00f6nefeld airport tegel exactly opposite bad luck honestly hotel surprise bad luck hotel modern clean bathrooms reasonable size comfortable excellent buffet breakfast staff friendly helpful minor minus wifi available free theres free access pc lobby", "Date": "2011-10-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Chennai (Madras), India", "Title": "\u201cGood one\u201d", "Author": "Hellboy_20_10_10", "ReviewID": "UR79163877", "Content": "hotel located city planning stay quiet location nearby airport hotel affordable price breakfast service clean hotel pleasant atmosphere highly recommended hotel classes business leisure", "Date": "2010-09-11 00:00:00"}], "HotelInfo": {"Name": "Dorint Adlershof Berlin", "HotelURL": "/ShowUserReviews-g187323-d583964-Reviews-Dorint_Adlershof_Berlin-Berlin.html", "Price": "$66 - $119*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Rudower Chaussee 15</span>, <span class=\"locality\"><span property=\"v:postal-code\">12489</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> (Formerly Ibis)</span></span></address>", "HotelID": "583964", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4a/c5/4ac56ba4fb487f363839793e721924d75large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Frankfurt, Germany",
+      "Title": "\u201cFriendly business hotel\u201d",
+      "Author": "mrsmith0179",
+      "ReviewID": "UR125032372",
+      "Content": "stayed single night due business trip pleased stay check friendly smooth simple cleaned overlooking road quiet sleep dinner restaurant basic quality bit unexperienced polite friendly service hotel staff extremely friendly helpful thanks sending bb cable frankfurt hotel location specific tourist recommend",
+      "Date": "2012-02-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Lisle, Illinois",
+      "Title": "\u201cinexpensive when pre booked and surprinsingly quiet\u201d",
+      "Author": "raiPh3ah",
+      "ReviewID": "UR123138054",
+      "Content": "using online booking 1 month advance reasonable rate hotel located busy road tram bus traffic third floor backside building road noticeable noise traffic clean staff friendly except afternoon coffee break ok eat hotel restaurant location near various buildings university reason choosing hotel aware city center usual tourist attractions using public transport near alexanderplatz 30 minutes taxis waiting street bus tram stops directly outside hotel",
+      "Date": "2012-01-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Paris, France",
+      "Title": "\u201cA good surprise\u201d",
+      "Author": "Paul_Hamelin",
+      "ReviewID": "UR118943286",
+      "Content": "due mistake booking hotel travel agent 10 friends relocated hotel tourists 4 days stay remote location hotel 40 60 minutes city center depending time day night wasnt didnt fly sch\u00f6nefeld airport tegel exactly opposite bad luck honestly hotel surprise bad luck hotel modern clean bathrooms reasonable size comfortable excellent buffet breakfast staff friendly helpful minor minus wifi available free theres free access pc lobby",
+      "Date": "2011-10-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Chennai (Madras), India",
+      "Title": "\u201cGood one\u201d",
+      "Author": "Hellboy_20_10_10",
+      "ReviewID": "UR79163877",
+      "Content": "hotel located city planning stay quiet location nearby airport hotel affordable price breakfast service clean hotel pleasant atmosphere highly recommended hotel classes business leisure",
+      "Date": "2010-09-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Dorint Adlershof Berlin",
+    "HotelURL": "/ShowUserReviews-g187323-d583964-Reviews-Dorint_Adlershof_Berlin-Berlin.html",
+    "Price": "$66 - $119*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Rudower Chaussee 15</span>, <span class=\"locality\"><span property=\"v:postal-code\">12489</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> (Formerly Ibis)</span></span></address>",
+    "HotelID": "583964",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4a/c5/4ac56ba4fb487f363839793e721924d75large.jpg"
+  }
+}

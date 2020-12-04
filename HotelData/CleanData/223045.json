@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Big Spring, Texas, United States", "Title": "\u201cBAD SERVICE! OUTDATED! BAD LOCATION!!!!!!!! NOT for families!\u201d", "Author": "Amber V", "ReviewID": "UR126209277", "Content": "door gentlemens club bad dallas scary street china town makeover elevator mess forever tvs flat screens deal picture wasnt service horrible check paper pool windows stating closed repairs people swimming attendant mary ann told closed swim night time closed stated 24 hours quiet swimming towels walter told couldnt thats supposed swimming fault construction mary ann told couldnt towels bathroom sign tells towels provided overall horrible beds comfortable messy hallways breakfast waffles kept sticking machine breakfast attendants spray stick spray awhile instead leaving overpriced 3rd night stayed baymont inn suites price indoor pool tops price upgrade flat screens modern left review total disappointment", "Date": "2012-03-16 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Dallas, Texas", "Title": "\u201cGood bargain in a small package\u201d", "Author": "MotleyMike", "ReviewID": "UR123359991", "Content": "motel relatively indoor pool exercise computer business office fresh cookies available happy hour lasts hour half late afternoon hot breakfast wellprepared varies adequate beds comfortable staff friendly responsive", "Date": "2012-01-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Cambridge, Canada", "Title": "\u201cFirst Time Dallas Trip\u201d", "Author": "Habsfan51", "ReviewID": "UR119896677", "Content": "paint key allow access lone computer front desk issue key everytime computor printer front desk staff friendly helpful printed boarding passes located industrial center fifteen minute drive major mall love airfield downtown core", "Date": "2011-10-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "New York, NY, USA", "Title": "\u201cA little worn but it gets an A for effort\u201d", "Author": "jack783", "ReviewID": "UR89545896", "Content": "ill bat nicest bestlocated budget suite hotel youll dallas building road commercial road couple strip clubs massage parlor stay dont expose family sights facilities maintained clean expect hotel welllit parking lot free wired wifi free hot breakfast gym indoor pool hot tub free computer print boarding passes spacious clean furnishings little dated comfortable kitchenette coffee maker fridge microwave familyowned hotel tell pride hotel plus people friendly friendly 80night hard hotel", "Date": "2010-12-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Calgary, Canada", "Title": "\u201cFantastic hotel close to airport\u201d", "Author": "glamourgirlYYC", "ReviewID": "UR67541795", "Content": "missing connecting flight due bad weather distressed passenger rate comfort inn front desk staff extremely accommodating offering toiletries passengers luggage bedding comfortable free shuttle airport apparently nearby walmart excellent varied continental breakfast free internet lobby nice outdoor pool impressed hotel", "Date": "2010-06-14 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "San Antonio, Texas", "Title": "\u201cGood business hotel for the price.\u201d", "Author": "tke_303", "ReviewID": "UR66343076", "Content": "start saying 3 12 stars slightly average solid rating reviews below touch issues related property ill try expand factors significance matter location im dallas travel dallas typically downtown park cities garland etc location northwestern dallas adequate terms location metroplex highway walnut hill 1 mile south 635 top marks location strip clubs noted previous trip advisor beware multiple strip clubs hotel usually dont stay business family drunken hanging hotel previously indicated thats bit misleading typically found usually quiet vagrants hanging property brought family wife child hotel im business dont doing cleanliness mileage vary stayed location 15 times past clean fresh typically complain terms overall cleanliness modern recently built comfort inns decor little dated travelers especially features flatscreen tvs granite counter tops bath dont expect basic accomodations price dallas hotels people dated clean age wear tear slightly hotel mold insect ymmv service typical chain type hotel staff friendly address minimal issues ie requesting cat5 cable etc major concerns staying terrible special category run mill interactions employees duty touched base hotel bit probably neighborhood 1012 decor bit dated personal taste flat screen tvs granite counters fancy bedding etc ive stayed typically clean nice major issues cause concern sleep quality ok special bad average category sleep dont hear highway hotel ive found hotel quiet late hours value excellent value typical dallas hotel rates pretty ive negotiated reasonal rates reservation features excellent breakfast happy hour property actually real eggs morning real sausage beacon tortillas tacos love sum tacos complimentary beer usually miller light wine finger foods 6pm ps beer drink bottoms features reason comming property separates competition im concerned especially price 5 min restaurant row northwest highway offers multiple restaurants bars head evening overall business hotel price location", "Date": "2010-06-03 00:00:00"}], "HotelInfo": {"Name": "Comfort Inn & Suites", "HotelURL": "/ShowUserReviews-g55711-d223045-Reviews-Comfort_Inn_Suites-Dallas_Texas.html", "Price": "$75 - $107*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">10835 Composite Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75220</span></span> </span></span></address>", "HotelID": "223045", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/85/00/8500a0cf130ca91cac2b6cc4ddba75314large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Big Spring, Texas, United States",
+      "Title": "\u201cBAD SERVICE! OUTDATED! BAD LOCATION!!!!!!!! NOT for families!\u201d",
+      "Author": "Amber V",
+      "ReviewID": "UR126209277",
+      "Content": "door gentlemens club bad dallas scary street china town makeover elevator mess forever tvs flat screens deal picture wasnt service horrible check paper pool windows stating closed repairs people swimming attendant mary ann told closed swim night time closed stated 24 hours quiet swimming towels walter told couldnt thats supposed swimming fault construction mary ann told couldnt towels bathroom sign tells towels provided overall horrible beds comfortable messy hallways breakfast waffles kept sticking machine breakfast attendants spray stick spray awhile instead leaving overpriced 3rd night stayed baymont inn suites price indoor pool tops price upgrade flat screens modern left review total disappointment",
+      "Date": "2012-03-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Dallas, Texas",
+      "Title": "\u201cGood bargain in a small package\u201d",
+      "Author": "MotleyMike",
+      "ReviewID": "UR123359991",
+      "Content": "motel relatively indoor pool exercise computer business office fresh cookies available happy hour lasts hour half late afternoon hot breakfast wellprepared varies adequate beds comfortable staff friendly responsive",
+      "Date": "2012-01-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Cambridge, Canada",
+      "Title": "\u201cFirst Time Dallas Trip\u201d",
+      "Author": "Habsfan51",
+      "ReviewID": "UR119896677",
+      "Content": "paint key allow access lone computer front desk issue key everytime computor printer front desk staff friendly helpful printed boarding passes located industrial center fifteen minute drive major mall love airfield downtown core",
+      "Date": "2011-10-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "New York, NY, USA",
+      "Title": "\u201cA little worn but it gets an A for effort\u201d",
+      "Author": "jack783",
+      "ReviewID": "UR89545896",
+      "Content": "ill bat nicest bestlocated budget suite hotel youll dallas building road commercial road couple strip clubs massage parlor stay dont expose family sights facilities maintained clean expect hotel welllit parking lot free wired wifi free hot breakfast gym indoor pool hot tub free computer print boarding passes spacious clean furnishings little dated comfortable kitchenette coffee maker fridge microwave familyowned hotel tell pride hotel plus people friendly friendly 80night hard hotel",
+      "Date": "2010-12-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Calgary, Canada",
+      "Title": "\u201cFantastic hotel close to airport\u201d",
+      "Author": "glamourgirlYYC",
+      "ReviewID": "UR67541795",
+      "Content": "missing connecting flight due bad weather distressed passenger rate comfort inn front desk staff extremely accommodating offering toiletries passengers luggage bedding comfortable free shuttle airport apparently nearby walmart excellent varied continental breakfast free internet lobby nice outdoor pool impressed hotel",
+      "Date": "2010-06-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "San Antonio, Texas",
+      "Title": "\u201cGood business hotel for the price.\u201d",
+      "Author": "tke_303",
+      "ReviewID": "UR66343076",
+      "Content": "start saying 3 12 stars slightly average solid rating reviews below touch issues related property ill try expand factors significance matter location im dallas travel dallas typically downtown park cities garland etc location northwestern dallas adequate terms location metroplex highway walnut hill 1 mile south 635 top marks location strip clubs noted previous trip advisor beware multiple strip clubs hotel usually dont stay business family drunken hanging hotel previously indicated thats bit misleading typically found usually quiet vagrants hanging property brought family wife child hotel im business dont doing cleanliness mileage vary stayed location 15 times past clean fresh typically complain terms overall cleanliness modern recently built comfort inns decor little dated travelers especially features flatscreen tvs granite counter tops bath dont expect basic accomodations price dallas hotels people dated clean age wear tear slightly hotel mold insect ymmv service typical chain type hotel staff friendly address minimal issues ie requesting cat5 cable etc major concerns staying terrible special category run mill interactions employees duty touched base hotel bit probably neighborhood 1012 decor bit dated personal taste flat screen tvs granite counters fancy bedding etc ive stayed typically clean nice major issues cause concern sleep quality ok special bad average category sleep dont hear highway hotel ive found hotel quiet late hours value excellent value typical dallas hotel rates pretty ive negotiated reasonal rates reservation features excellent breakfast happy hour property actually real eggs morning real sausage beacon tortillas tacos love sum tacos complimentary beer usually miller light wine finger foods 6pm ps beer drink bottoms features reason comming property separates competition im concerned especially price 5 min restaurant row northwest highway offers multiple restaurants bars head evening overall business hotel price location",
+      "Date": "2010-06-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Comfort Inn & Suites",
+    "HotelURL": "/ShowUserReviews-g55711-d223045-Reviews-Comfort_Inn_Suites-Dallas_Texas.html",
+    "Price": "$75 - $107*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">10835 Composite Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75220</span></span> </span></span></address>",
+    "HotelID": "223045",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/85/00/8500a0cf130ca91cac2b6cc4ddba75314large.jpg"
+  }
+}

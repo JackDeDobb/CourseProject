@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Wien, \u00d6sterreich", "Title": "\u201cAcceptable\u201d", "Author": "enbralva", "ReviewID": "UR120377777", "Content": "hotel mondial berlin kurf\u00fcrstendamm prestigious address berlin situated hotel looks view little bit fashioned fine ive separated beds ok warmly recommend contacts paid approx 75 eur night deal berlin breakfast acceptable havent tried hotels believe hotel mondial ok people seeking hotel standard moderate price", "Date": "2011-11-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Cluj-Napoca, Romania", "Title": "\u201cvery good\u201d", "Author": "oanach", "ReviewID": "UR118356639", "Content": "berlin mitte hotel positioned centre strasse wide street shops conditions except summer dont otherwise worth try lots cheap restaurants cafe", "Date": "2011-09-20 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Glasgow", "Title": "\u201cExcellent location and comfortable\u201d", "Author": "Jack2502", "ReviewID": "UR108673258", "Content": "hotel kudam uhlandstrasse ubahn station easy access transport system excellent location short walk zoologischer garten rail station fast link schoenefeld airport hotel wellfurnished comfortable standards housekeeping reception breakfast buffet fairly extensive visit hot food lukewarm items day werent replaced hour breakfast staff friendly helpful restaurant looked quiet evenings ate choice nearby ive stayed stay", "Date": "2011-05-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Glasgow, United Kingdom", "Title": "\u201cWell priced connecting room - a boon for families\u201d", "Author": "Wibbering", "ReviewID": "UR107099558", "Content": "extensive research hotels berlin family difficulty finding hotel provide family conecting decent price found mondial berlins cheap connecting price listed family actually separate connecting buffet breakfast included price swimming pool albeit chilly excellent choice families kudamm grander wed hoped oh free wifi", "Date": "2011-05-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Glasgow, United Kingdom", "Title": "\u201cNice hotel, central location\u201d", "Author": "twinklestar2307", "ReviewID": "UR99281232", "Content": "stayed hotel business nice vew front wonder sleeping didnt hear nice spacious bathroom usual toiletries restaurant seats outside waiter bit stroppy menu breakfast buffet filling location pickedup tour bus outside hotel notice ladies black eyes bit worse wear cosmetic clinic site hotel recovery stay", "Date": "2011-03-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Leeds, United Kingdom", "Title": "\u201cA hotel with a sense of class\u201d", "Author": "Gary488", "ReviewID": "UR95734354", "Content": "mondial wonderful hotel main shopping street berlin worldly charm decorated accordingly im furnishings original feeling imagine breakfast included price europe shops metro close loved appreciate", "Date": "2011-02-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Frankfurt, Germany", "Title": "\u201cvery nice\u201d", "Author": "hhsol", "ReviewID": "UR73316771", "Content": "4 ppl 2 kids baby 2 connecting food bar nice pool clean cool parking 125 day wifi free stand light touchup shower", "Date": "2010-08-01 00:00:00"}], "HotelInfo": {"Name": "Hotel Mondial", "HotelURL": "/ShowUserReviews-g187323-d234937-Reviews-Hotel_Mondial-Berlin.html", "Price": "$87 - $151*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kurfurstendamm 47</span> | <span class=\"extended-address\">Charlottenburg</span>, <span class=\"locality\"><span property=\"v:postal-code\">10707</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "234937", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e8/07/e807a5516cb4b3906fa82ea3211116cf1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Wien, \u00d6sterreich",
+      "Title": "\u201cAcceptable\u201d",
+      "Author": "enbralva",
+      "ReviewID": "UR120377777",
+      "Content": "hotel mondial berlin kurf\u00fcrstendamm prestigious address berlin situated hotel looks view little bit fashioned fine ive separated beds ok warmly recommend contacts paid approx 75 eur night deal berlin breakfast acceptable havent tried hotels believe hotel mondial ok people seeking hotel standard moderate price",
+      "Date": "2011-11-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Cluj-Napoca, Romania",
+      "Title": "\u201cvery good\u201d",
+      "Author": "oanach",
+      "ReviewID": "UR118356639",
+      "Content": "berlin mitte hotel positioned centre strasse wide street shops conditions except summer dont otherwise worth try lots cheap restaurants cafe",
+      "Date": "2011-09-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Glasgow",
+      "Title": "\u201cExcellent location and comfortable\u201d",
+      "Author": "Jack2502",
+      "ReviewID": "UR108673258",
+      "Content": "hotel kudam uhlandstrasse ubahn station easy access transport system excellent location short walk zoologischer garten rail station fast link schoenefeld airport hotel wellfurnished comfortable standards housekeeping reception breakfast buffet fairly extensive visit hot food lukewarm items day werent replaced hour breakfast staff friendly helpful restaurant looked quiet evenings ate choice nearby ive stayed stay",
+      "Date": "2011-05-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Glasgow, United Kingdom",
+      "Title": "\u201cWell priced connecting room - a boon for families\u201d",
+      "Author": "Wibbering",
+      "ReviewID": "UR107099558",
+      "Content": "extensive research hotels berlin family difficulty finding hotel provide family conecting decent price found mondial berlins cheap connecting price listed family actually separate connecting buffet breakfast included price swimming pool albeit chilly excellent choice families kudamm grander wed hoped oh free wifi",
+      "Date": "2011-05-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Glasgow, United Kingdom",
+      "Title": "\u201cNice hotel, central location\u201d",
+      "Author": "twinklestar2307",
+      "ReviewID": "UR99281232",
+      "Content": "stayed hotel business nice vew front wonder sleeping didnt hear nice spacious bathroom usual toiletries restaurant seats outside waiter bit stroppy menu breakfast buffet filling location pickedup tour bus outside hotel notice ladies black eyes bit worse wear cosmetic clinic site hotel recovery stay",
+      "Date": "2011-03-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Leeds, United Kingdom",
+      "Title": "\u201cA hotel with a sense of class\u201d",
+      "Author": "Gary488",
+      "ReviewID": "UR95734354",
+      "Content": "mondial wonderful hotel main shopping street berlin worldly charm decorated accordingly im furnishings original feeling imagine breakfast included price europe shops metro close loved appreciate",
+      "Date": "2011-02-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Frankfurt, Germany",
+      "Title": "\u201cvery nice\u201d",
+      "Author": "hhsol",
+      "ReviewID": "UR73316771",
+      "Content": "4 ppl 2 kids baby 2 connecting food bar nice pool clean cool parking 125 day wifi free stand light touchup shower",
+      "Date": "2010-08-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Mondial",
+    "HotelURL": "/ShowUserReviews-g187323-d234937-Reviews-Hotel_Mondial-Berlin.html",
+    "Price": "$87 - $151*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kurfurstendamm 47</span> | <span class=\"extended-address\">Charlottenburg</span>, <span class=\"locality\"><span property=\"v:postal-code\">10707</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "234937",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e8/07/e807a5516cb4b3906fa82ea3211116cf1large.jpg"
+  }
+}

@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "", "Title": "\u201cNot bad for HK standards\u201d", "Author": "sunloverCZ", "ReviewID": "UR131319501", "Content": "didnt expect hk accomodation bridal tea house fine price pay clean issue fro hk hotels bathroom clean included hitech shower radio steamer time staying hotel undergoing reconstruction entrance little bit harder didnt spend time inside didnt bother wifi reception floor receptionist helpful day departure store luggage reception day directions bus coming form hk airport save dollars public bus front airport takes 50 min tai kok tsui cost space luggage top deck enjoy ride spectacular view bus station", "Date": "2012-06-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cnot bad!! if not for noisy doors slamming and construction noise\u201d", "Author": "yandao87", "ReviewID": "UR131138000", "Content": "5 mins walk city mtr 200 metres line useful unless dont mind transit walk mongkok 11 minutes walk everyday alright especially weather taxi mongkok mongkok east mtr toilet doors doors shutting concern wake 10 am am awoken timings neighbours lifts visit toilets frequently previous stay sham shui po bridal tea house", "Date": "2012-06-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Manila, Philippines", "Title": "\u201cTolerable\u201d", "Author": "talonglang", "ReviewID": "UR129892845", "Content": "pay arrived hk 2 am cheap accessible spend remainder night wait check hotel 12 noon chose closest cosmo hotel mongkok enter hotel restaurant white french windows doors restaurant there\u2019s manager\u2019s don\u2019t reception anyway receptionist confirmed booking keys remote control adaptor aircon remote control compared accommodations reviews read expecting clean cozy admit bit disappointed bed bathroom clean white walls dirty luggage scratches marks dirty fingerprints double bed 1 \u00bd aisle chair bathroom clean tiny stretch hand sideways you\u2019re showering sink toilet bowl closely placed liked hardness bed pillows fine comforter clean bathroom funky smell maybe due space lack ventilation pretty decent sink bowl white clean water pressure temperature redeeming factors aircon provided temperature tv weren\u2019t able remote control broken looking sleep tight budget bridal tea house okay bit westerners hard time moving", "Date": "2012-05-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Malaysia", "Title": "\u201cSmall cozy room and economic!\u201d", "Author": "Jacklynsze", "ReviewID": "UR120935145", "Content": "hotel near olympic mtr 10 15 mins walking distance hotel surrounded workshop walkway slightly greasy overall bearable hotel clean cozy equipped basic neccessities hair dryer refrigerator tv toiletries towel provided booked standard twin upgrade family accommodate 3 person double bed single bed double bed size super single bed single bed dont hotel bad sound proof night hear people talking loud bang doors sound people moving chairs irritating hotel staffs friendly helpful huge mall 10 mins hotel walking distance mall beside olympic mtr station mall 3 phases actually link mongkok overall hotel", "Date": "2011-11-22 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cWould definitely stay again\u201d", "Author": "paulhb", "ReviewID": "UR74260094", "Content": "hotel hong kong character expect stereotypical hong kong street prior tourist age staff unable speak barest english friendly helpful boss phone translate arrived hong kong morning allowed drop bags care whilst day comfortable homely price hotel ten minutes walk olympic station arriving dont street entry restaurant ground floor walk call greet", "Date": "2010-08-08 00:00:00"}], "HotelInfo": {"Name": "Bridal Tea House Hotel (Tai Kok Tsui - Li Tak Street)", "HotelURL": "/ShowUserReviews-g294217-d1187163-Reviews-Bridal_Tea_House_Hotel_Tai_Kok_Tsui_Li_Tak_Street-Hong_Kong.html", "Price": "$64 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.36-38 Li Tak Street, Kowloon</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>", "HotelID": "1187163", "ImgURL": "http://img.travel.rakuten.co.jp/share/HOTEL/109335/109335.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cNot bad for HK standards\u201d",
+      "Author": "sunloverCZ",
+      "ReviewID": "UR131319501",
+      "Content": "didnt expect hk accomodation bridal tea house fine price pay clean issue fro hk hotels bathroom clean included hitech shower radio steamer time staying hotel undergoing reconstruction entrance little bit harder didnt spend time inside didnt bother wifi reception floor receptionist helpful day departure store luggage reception day directions bus coming form hk airport save dollars public bus front airport takes 50 min tai kok tsui cost space luggage top deck enjoy ride spectacular view bus station",
+      "Date": "2012-06-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cnot bad!! if not for noisy doors slamming and construction noise\u201d",
+      "Author": "yandao87",
+      "ReviewID": "UR131138000",
+      "Content": "5 mins walk city mtr 200 metres line useful unless dont mind transit walk mongkok 11 minutes walk everyday alright especially weather taxi mongkok mongkok east mtr toilet doors doors shutting concern wake 10 am am awoken timings neighbours lifts visit toilets frequently previous stay sham shui po bridal tea house",
+      "Date": "2012-06-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Manila, Philippines",
+      "Title": "\u201cTolerable\u201d",
+      "Author": "talonglang",
+      "ReviewID": "UR129892845",
+      "Content": "pay arrived hk 2 am cheap accessible spend remainder night wait check hotel 12 noon chose closest cosmo hotel mongkok enter hotel restaurant white french windows doors restaurant there\u2019s manager\u2019s don\u2019t reception anyway receptionist confirmed booking keys remote control adaptor aircon remote control compared accommodations reviews read expecting clean cozy admit bit disappointed bed bathroom clean white walls dirty luggage scratches marks dirty fingerprints double bed 1 \u00bd aisle chair bathroom clean tiny stretch hand sideways you\u2019re showering sink toilet bowl closely placed liked hardness bed pillows fine comforter clean bathroom funky smell maybe due space lack ventilation pretty decent sink bowl white clean water pressure temperature redeeming factors aircon provided temperature tv weren\u2019t able remote control broken looking sleep tight budget bridal tea house okay bit westerners hard time moving",
+      "Date": "2012-05-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Malaysia",
+      "Title": "\u201cSmall cozy room and economic!\u201d",
+      "Author": "Jacklynsze",
+      "ReviewID": "UR120935145",
+      "Content": "hotel near olympic mtr 10 15 mins walking distance hotel surrounded workshop walkway slightly greasy overall bearable hotel clean cozy equipped basic neccessities hair dryer refrigerator tv toiletries towel provided booked standard twin upgrade family accommodate 3 person double bed single bed double bed size super single bed single bed dont hotel bad sound proof night hear people talking loud bang doors sound people moving chairs irritating hotel staffs friendly helpful huge mall 10 mins hotel walking distance mall beside olympic mtr station mall 3 phases actually link mongkok overall hotel",
+      "Date": "2011-11-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cWould definitely stay again\u201d",
+      "Author": "paulhb",
+      "ReviewID": "UR74260094",
+      "Content": "hotel hong kong character expect stereotypical hong kong street prior tourist age staff unable speak barest english friendly helpful boss phone translate arrived hong kong morning allowed drop bags care whilst day comfortable homely price hotel ten minutes walk olympic station arriving dont street entry restaurant ground floor walk call greet",
+      "Date": "2010-08-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Bridal Tea House Hotel (Tai Kok Tsui - Li Tak Street)",
+    "HotelURL": "/ShowUserReviews-g294217-d1187163-Reviews-Bridal_Tea_House_Hotel_Tai_Kok_Tsui_Li_Tak_Street-Hong_Kong.html",
+    "Price": "$64 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.36-38 Li Tak Street, Kowloon</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>",
+    "HotelID": "1187163",
+    "ImgURL": "http://img.travel.rakuten.co.jp/share/HOTEL/109335/109335.jpg"
+  }
+}

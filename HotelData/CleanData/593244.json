@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Athens, Greece", "Title": "\u201cbad ''hotel''\u201d", "Author": "djk08", "ReviewID": "UR109319635", "Content": "firstly cant hotelthey wooden clean day thats difference tired hotel speak single noise 2 course breakfast poor fantasy cheap super market polite guy guest salt hotel lie boring time hotel closed door reseption nightno mini centre thatbut didnt expect delay hotel locals illegal girlfriend businessmen speak hours skype free internet heard single day walking rome", "Date": "2011-05-22 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Nes Ziona ,Israel", "Title": "\u201cnot coming back\u201d", "Author": "Erica06", "ReviewID": "UR80428658", "Content": "hotel checking reviews seeing photos 2 months stay thats shocked receive dark little hidden refused clark phone calls speak manager insisted receive diffrent shown hotel website nicer little normal store clothes 3 days stayed suitcase breakfast ok free parking hotel situated bit rome center bus closest metro metro close round road exits rome recomend", "Date": "2010-09-21 00:00:00"}], "HotelInfo": {"Name": "Antica Locanda Palmieri", "HotelURL": "/ShowUserReviews-g187791-d593244-Reviews-Antica_Locanda_Palmieri-Rome_Lazio.html", "Price": "$92 - $158*", "Address": "<div class=\"amenFloat\">", "HotelID": "593244", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/9d/cc/9dcce5ff34b685b8356ca1a0109120737large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Athens, Greece",
+      "Title": "\u201cbad ''hotel''\u201d",
+      "Author": "djk08",
+      "ReviewID": "UR109319635",
+      "Content": "firstly cant hotelthey wooden clean day thats difference tired hotel speak single noise 2 course breakfast poor fantasy cheap super market polite guy guest salt hotel lie boring time hotel closed door reseption nightno mini centre thatbut didnt expect delay hotel locals illegal girlfriend businessmen speak hours skype free internet heard single day walking rome",
+      "Date": "2011-05-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Nes Ziona ,Israel",
+      "Title": "\u201cnot coming back\u201d",
+      "Author": "Erica06",
+      "ReviewID": "UR80428658",
+      "Content": "hotel checking reviews seeing photos 2 months stay thats shocked receive dark little hidden refused clark phone calls speak manager insisted receive diffrent shown hotel website nicer little normal store clothes 3 days stayed suitcase breakfast ok free parking hotel situated bit rome center bus closest metro metro close round road exits rome recomend",
+      "Date": "2010-09-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Antica Locanda Palmieri",
+    "HotelURL": "/ShowUserReviews-g187791-d593244-Reviews-Antica_Locanda_Palmieri-Rome_Lazio.html",
+    "Price": "$92 - $158*",
+    "Address": "<div class=\"amenFloat\">",
+    "HotelID": "593244",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/9d/cc/9dcce5ff34b685b8356ca1a0109120737large.jpg"
+  }
+}

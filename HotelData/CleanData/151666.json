@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Bronx, New York", "Title": "\u201cThis place used to be awsome!\u201d", "Author": "Daydee", "ReviewID": "UR121061426", "Content": "family stayed summers enjoyed started shame thermal waters treat maybe someday developer bring day pool stay ponce", "Date": "2011-11-26 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cfor the price we paid it was dingy\u201d", "Author": "matty0214", "ReviewID": "UR103679689", "Content": "ok service eat drink dont bed bathroom coffee maker lil refridge swim dirty poolthey shoud recreational ok night staybut baby friendly dont provide play pens baby buy cooler ur stuff", "Date": "2011-04-11 00:00:00"}], "HotelInfo": {"Name": "Hotel Banos de Coamo", "HotelURL": "/ShowUserReviews-g147319-d151666-Reviews-Hotel_Banos_de_Coamo-Puerto_Rico.html", "Price": "$85 - $95*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Carr 546 Final</span> | <span class=\"extended-address\">Barrio San Idelfonso, Coamo</span>, <span class=\"locality\"><span property=\"v:postal-code\">00769</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>", "HotelID": "151666", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/bf/fc/ad/hotel-banos-de-coamo.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Bronx, New York",
+      "Title": "\u201cThis place used to be awsome!\u201d",
+      "Author": "Daydee",
+      "ReviewID": "UR121061426",
+      "Content": "family stayed summers enjoyed started shame thermal waters treat maybe someday developer bring day pool stay ponce",
+      "Date": "2011-11-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cfor the price we paid it was dingy\u201d",
+      "Author": "matty0214",
+      "ReviewID": "UR103679689",
+      "Content": "ok service eat drink dont bed bathroom coffee maker lil refridge swim dirty poolthey shoud recreational ok night staybut baby friendly dont provide play pens baby buy cooler ur stuff",
+      "Date": "2011-04-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Banos de Coamo",
+    "HotelURL": "/ShowUserReviews-g147319-d151666-Reviews-Hotel_Banos_de_Coamo-Puerto_Rico.html",
+    "Price": "$85 - $95*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Carr 546 Final</span> | <span class=\"extended-address\">Barrio San Idelfonso, Coamo</span>, <span class=\"locality\"><span property=\"v:postal-code\">00769</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>",
+    "HotelID": "151666",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/bf/fc/ad/hotel-banos-de-coamo.jpg"
+  }
+}

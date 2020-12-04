@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cGood hotel with an easily accessible location (by car)\u201d", "Author": "AnnikadeBruijne", "ReviewID": "UR130833867", "Content": "enjoyed nice stay hotel pleasant staff helpful located 10 minute drive cbd prepared car advised bus front door running regularly city free parking included didnt opt breakfast included cant comment restaurant looked nice catering wedding evenings stayed including loud noise music nice restaurant surprised wasnt fitness centre site nearby star rated hotel disappointed swimming pool wasnt despite consistent 30 degree plus weather daily weeks reasons booked check advised pool wasnt 23 weeks clean bed extremely comfortable noise fine apart wedding night private secluded despite hotel staff friendly including helping reverse charges call overseas lovely helpful giving directions map etc internet connection free wifi access reception unlike stays stay preferring stay little town recommend hotel otherwise stay cbd", "Date": "2012-05-29 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Bucharest", "Title": "\u201cRoom for improvement\u201d", "Author": "Mire84", "ReviewID": "UR121978974", "Content": "travelled madrid february 2010 business reasons hotel fairly flight taxi drive 30 mins drive main madrid airport highway reached hotel told wasnt 3045 mins finally chance specifically lobby internet connection thru cable wifi called advance hotel offer service internet free charge 1st check net connection surprise wasnt led calling reception explaining connect internet informed technical guy check issues lunch 1600 indeed guy tried fix roo downstairs late lunch specifically reception call whatever connection wasnt computer nice move stuff efforts late evening clean cleaned daily spacious stuff bathroom refreshed furniture condition english channels tv avaialble breakfast morning plenty choices worries coffee service nice wide choice late lunch wiht cesars salade pool happen drop summer hotel actually 3 buildings main restaurant reception esspecially sleepy morning outside pretty cold located location outside city bus stop front hotel 20 mins subway station 30mins city centre shops hotel cause bus restaurants taxi drive airporthotel hotel parking", "Date": "2011-12-22 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Barcelona, Spain", "Title": "\u201cBest for the summer\u201d", "Author": "capdail2006", "ReviewID": "UR121059254", "Content": "stayed eurostars november hotel nice summer swimming pool outdoors november recent promotion price attractive prepaid attractive proposal compared chain hotel neighbourhood hotel noisy guests mind screaming corridors outside porch front hotel separate buildings receptionists idea noise hotel business business hotels spain providing amenities toothbrush toothpaste shaving razor surprised eurostars receptionist request inroom tvs located inconvenient angle watch bed remote control key press start watching tv program key usual standby key channel taxi map indicate hotels location taxi gps hard taxi driver location spent 20 minutes taxi looking midnight coming city center found gates hotel closed ringing bell pedestrian entry answer reception walk car gates ringing ones bell receptionist able hear free wifi fast", "Date": "2011-11-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "richmond,surrey", "Title": "\u201cBit out of the way but great otherwise\u201d", "Author": "Posted by an OctopusTravel traveler", "ReviewID": "UR103457530", "Content": "hotel suburban seemingly residential green airy despite construction roads etc local shopsbars etc frequent 1015 minute bus ride nearest metro station student stay arriving madrid car holiday season office function invasion quiet hard atmosphere restaurant holiday season friendly helpful staff", "Date": "2011-04-10 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "madrid", "Title": "\u201cwarning to all travellers\u201d", "Author": "nemotre", "ReviewID": "UR84532574", "Content": "hotel city centre attactions 20 minutes bus stops front hotel 2025 min hotel located quiet brand residential basically looking accomodation stay", "Date": "2010-10-23 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Aabenraa, Denmark", "Title": "\u201cTOP HOTEL :)\u201d", "Author": "MAndersen4", "ReviewID": "UR82432078", "Content": "stayed hotel 3 days july nice hotel clean nice pool minus location walking distance hotel shops takes 30 min city center public transport stops night hotel nice experience recommend remember rent car", "Date": "2010-10-07 00:00:00"}], "HotelInfo": {"Name": "Eurostars Zarzuela Park", "HotelURL": "/ShowUserReviews-g187514-d289424-Reviews-Eurostars_Zarzuela_Park-Madrid.html", "Price": "$52 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Dario Aparicio, 32</span>, <span class=\"locality\"><span property=\"v:postal-code\">28023</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "289424", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7b/76/7b7691439a4abecd2dd61017763b40526large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cGood hotel with an easily accessible location (by car)\u201d",
+      "Author": "AnnikadeBruijne",
+      "ReviewID": "UR130833867",
+      "Content": "enjoyed nice stay hotel pleasant staff helpful located 10 minute drive cbd prepared car advised bus front door running regularly city free parking included didnt opt breakfast included cant comment restaurant looked nice catering wedding evenings stayed including loud noise music nice restaurant surprised wasnt fitness centre site nearby star rated hotel disappointed swimming pool wasnt despite consistent 30 degree plus weather daily weeks reasons booked check advised pool wasnt 23 weeks clean bed extremely comfortable noise fine apart wedding night private secluded despite hotel staff friendly including helping reverse charges call overseas lovely helpful giving directions map etc internet connection free wifi access reception unlike stays stay preferring stay little town recommend hotel otherwise stay cbd",
+      "Date": "2012-05-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bucharest",
+      "Title": "\u201cRoom for improvement\u201d",
+      "Author": "Mire84",
+      "ReviewID": "UR121978974",
+      "Content": "travelled madrid february 2010 business reasons hotel fairly flight taxi drive 30 mins drive main madrid airport highway reached hotel told wasnt 3045 mins finally chance specifically lobby internet connection thru cable wifi called advance hotel offer service internet free charge 1st check net connection surprise wasnt led calling reception explaining connect internet informed technical guy check issues lunch 1600 indeed guy tried fix roo downstairs late lunch specifically reception call whatever connection wasnt computer nice move stuff efforts late evening clean cleaned daily spacious stuff bathroom refreshed furniture condition english channels tv avaialble breakfast morning plenty choices worries coffee service nice wide choice late lunch wiht cesars salade pool happen drop summer hotel actually 3 buildings main restaurant reception esspecially sleepy morning outside pretty cold located location outside city bus stop front hotel 20 mins subway station 30mins city centre shops hotel cause bus restaurants taxi drive airporthotel hotel parking",
+      "Date": "2011-12-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Barcelona, Spain",
+      "Title": "\u201cBest for the summer\u201d",
+      "Author": "capdail2006",
+      "ReviewID": "UR121059254",
+      "Content": "stayed eurostars november hotel nice summer swimming pool outdoors november recent promotion price attractive prepaid attractive proposal compared chain hotel neighbourhood hotel noisy guests mind screaming corridors outside porch front hotel separate buildings receptionists idea noise hotel business business hotels spain providing amenities toothbrush toothpaste shaving razor surprised eurostars receptionist request inroom tvs located inconvenient angle watch bed remote control key press start watching tv program key usual standby key channel taxi map indicate hotels location taxi gps hard taxi driver location spent 20 minutes taxi looking midnight coming city center found gates hotel closed ringing bell pedestrian entry answer reception walk car gates ringing ones bell receptionist able hear free wifi fast",
+      "Date": "2011-11-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "richmond,surrey",
+      "Title": "\u201cBit out of the way but great otherwise\u201d",
+      "Author": "Posted by an OctopusTravel traveler",
+      "ReviewID": "UR103457530",
+      "Content": "hotel suburban seemingly residential green airy despite construction roads etc local shopsbars etc frequent 1015 minute bus ride nearest metro station student stay arriving madrid car holiday season office function invasion quiet hard atmosphere restaurant holiday season friendly helpful staff",
+      "Date": "2011-04-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "madrid",
+      "Title": "\u201cwarning to all travellers\u201d",
+      "Author": "nemotre",
+      "ReviewID": "UR84532574",
+      "Content": "hotel city centre attactions 20 minutes bus stops front hotel 2025 min hotel located quiet brand residential basically looking accomodation stay",
+      "Date": "2010-10-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Aabenraa, Denmark",
+      "Title": "\u201cTOP HOTEL :)\u201d",
+      "Author": "MAndersen4",
+      "ReviewID": "UR82432078",
+      "Content": "stayed hotel 3 days july nice hotel clean nice pool minus location walking distance hotel shops takes 30 min city center public transport stops night hotel nice experience recommend remember rent car",
+      "Date": "2010-10-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Eurostars Zarzuela Park",
+    "HotelURL": "/ShowUserReviews-g187514-d289424-Reviews-Eurostars_Zarzuela_Park-Madrid.html",
+    "Price": "$52 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Dario Aparicio, 32</span>, <span class=\"locality\"><span property=\"v:postal-code\">28023</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "289424",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7b/76/7b7691439a4abecd2dd61017763b40526large.jpg"
+  }
+}

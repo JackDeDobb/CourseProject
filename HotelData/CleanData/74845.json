@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Taxas", "Title": "\u201c\"Best Hotel With Good Service\"\u201d", "Author": "kim d", "ReviewID": "UR128202902", "Content": "honestly hotel probably stayed overall package check earlier checkin time extremely helpful itinerary staff friendly hospitable team people encountered hotel environment genuinely happy \u2026 guests themselves extremely spacious accomodating refrigerator brought snacks beds linens extremely comfortable bathroom ammenities outstanding time ran super happy help complimentary breakfast incredibly ample muffins juice waffles variety breads fruits cereal juices coffee etcthe internet speed fast amazing", "Date": "2012-04-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "California", "Title": "\u201c\"Very nice and comfortable\"\u201d", "Author": "ross5995", "ReviewID": "UR128142189", "Content": "night service comfort ease perfect clean newthe breakfast surprising waffel biscuits gravy nice surprise actually person stationed kept orderly friendly internet fast stay", "Date": "2012-04-18 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "White Lake, Michigan", "Title": "\u201cMaybe 3-1/2.\u201d", "Author": "Jugandme", "ReviewID": "UR125152054", "Content": "booked night phoenix coming airport sight unseen decent hard time finding neighborhood somewhat industrial little isolated freeway nearby motel nice staff friendly helpful public computer provided happy basic clean", "Date": "2012-02-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Colorado Springs, Colorado", "Title": "\u201cStaff and Management Super Friendly!\u201d", "Author": "Michelle S", "ReviewID": "UR122270570", "Content": "staff encountered check check polite helpful witnessed sounded customer somethings badgering front desk staff management remained calmed obviously loud rude customer cussing scene taking care comfortable priced nice staffed stay", "Date": "2011-12-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Phoenix, Arizona", "Title": "\u201cexcellent staff and property\u201d", "Author": "shirley s", "ReviewID": "UR121558565", "Content": "stayed comfort inn delighted check pleasant front desk shared amenities attractions city breakfast amazing host johnnie am bringing family love comfortable beds hotel thank comfort inn shelly", "Date": "2011-12-09 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Tucson", "Title": "\u201cTHE RUDEST FRONT DESK PERSON!\u201d", "Author": "luv2trvls", "ReviewID": "UR91633038", "Content": "reccomend hotelmotel call feel answer comfort inn cant imagine industry seriously stay friendly service clean atrocious", "Date": "2011-01-03 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "San Jose, California", "Title": "\u201cRelatively clean, very aged overall\u201d", "Author": "usuallyhappytravels", "ReviewID": "UR88773728", "Content": "checked midnight location online reservation checked prices hour online cheaper rate charged directly hotel 6 10 difference worth fighting mentioned checkout morning affordable lobby repair carpet furniture presentable breakfast ok hardboiled eggs juice toast limited cereal apples waffles bed nice wall paper aged bathroom tiles clean aged decent value money definitely reserve online discount", "Date": "2010-12-01 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Pasadena, California", "Title": "\u201cClose, well-run, good value but not brand new.\u201d", "Author": "profschiler", "ReviewID": "UR65023474", "Content": "stayed days friends stayed center downtown paid quarter paid conference ate dinner car drive five minutes light surface traffic hotel service pleasant light breakfast normal fresh waffles machine inclined stress free internet note pool business time caution located neighborhood light industry walk west ot downtown inside traffic jam", "Date": "2010-05-22 00:00:00"}], "HotelInfo": {"Name": "Comfort Inn West", "HotelURL": "/ShowUserReviews-g31310-d74845-Reviews-Comfort_Inn_West-Phoenix_Arizona.html", "Price": "$74 - $105*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1344 N 27th Ave</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85009</span></span> </span></span></address>", "HotelID": "74845", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/25/6f/256fec1b32259e4dbeafae2303adabcd5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Taxas",
+      "Title": "\u201c\"Best Hotel With Good Service\"\u201d",
+      "Author": "kim d",
+      "ReviewID": "UR128202902",
+      "Content": "honestly hotel probably stayed overall package check earlier checkin time extremely helpful itinerary staff friendly hospitable team people encountered hotel environment genuinely happy \u2026 guests themselves extremely spacious accomodating refrigerator brought snacks beds linens extremely comfortable bathroom ammenities outstanding time ran super happy help complimentary breakfast incredibly ample muffins juice waffles variety breads fruits cereal juices coffee etcthe internet speed fast amazing",
+      "Date": "2012-04-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "California",
+      "Title": "\u201c\"Very nice and comfortable\"\u201d",
+      "Author": "ross5995",
+      "ReviewID": "UR128142189",
+      "Content": "night service comfort ease perfect clean newthe breakfast surprising waffel biscuits gravy nice surprise actually person stationed kept orderly friendly internet fast stay",
+      "Date": "2012-04-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "White Lake, Michigan",
+      "Title": "\u201cMaybe 3-1/2.\u201d",
+      "Author": "Jugandme",
+      "ReviewID": "UR125152054",
+      "Content": "booked night phoenix coming airport sight unseen decent hard time finding neighborhood somewhat industrial little isolated freeway nearby motel nice staff friendly helpful public computer provided happy basic clean",
+      "Date": "2012-02-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Colorado Springs, Colorado",
+      "Title": "\u201cStaff and Management Super Friendly!\u201d",
+      "Author": "Michelle S",
+      "ReviewID": "UR122270570",
+      "Content": "staff encountered check check polite helpful witnessed sounded customer somethings badgering front desk staff management remained calmed obviously loud rude customer cussing scene taking care comfortable priced nice staffed stay",
+      "Date": "2011-12-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Phoenix, Arizona",
+      "Title": "\u201cexcellent staff and property\u201d",
+      "Author": "shirley s",
+      "ReviewID": "UR121558565",
+      "Content": "stayed comfort inn delighted check pleasant front desk shared amenities attractions city breakfast amazing host johnnie am bringing family love comfortable beds hotel thank comfort inn shelly",
+      "Date": "2011-12-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Tucson",
+      "Title": "\u201cTHE RUDEST FRONT DESK PERSON!\u201d",
+      "Author": "luv2trvls",
+      "ReviewID": "UR91633038",
+      "Content": "reccomend hotelmotel call feel answer comfort inn cant imagine industry seriously stay friendly service clean atrocious",
+      "Date": "2011-01-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "San Jose, California",
+      "Title": "\u201cRelatively clean, very aged overall\u201d",
+      "Author": "usuallyhappytravels",
+      "ReviewID": "UR88773728",
+      "Content": "checked midnight location online reservation checked prices hour online cheaper rate charged directly hotel 6 10 difference worth fighting mentioned checkout morning affordable lobby repair carpet furniture presentable breakfast ok hardboiled eggs juice toast limited cereal apples waffles bed nice wall paper aged bathroom tiles clean aged decent value money definitely reserve online discount",
+      "Date": "2010-12-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Pasadena, California",
+      "Title": "\u201cClose, well-run, good value but not brand new.\u201d",
+      "Author": "profschiler",
+      "ReviewID": "UR65023474",
+      "Content": "stayed days friends stayed center downtown paid quarter paid conference ate dinner car drive five minutes light surface traffic hotel service pleasant light breakfast normal fresh waffles machine inclined stress free internet note pool business time caution located neighborhood light industry walk west ot downtown inside traffic jam",
+      "Date": "2010-05-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Comfort Inn West",
+    "HotelURL": "/ShowUserReviews-g31310-d74845-Reviews-Comfort_Inn_West-Phoenix_Arizona.html",
+    "Price": "$74 - $105*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1344 N 27th Ave</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85009</span></span> </span></span></address>",
+    "HotelID": "74845",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/25/6f/256fec1b32259e4dbeafae2303adabcd5large.jpg"
+  }
+}

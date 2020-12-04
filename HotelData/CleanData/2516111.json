@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Washington state", "Title": "\u201cSECOND STAY AS GOOD AS FIRST\u201d", "Author": "sunnyWashingtonstate", "ReviewID": "UR123337506", "Content": "travel la frequently usually dont stay twice hotel cause care prices raised stay western canoga park motor inn stayed experience hotel bit pretty central freeways easy parking ample breakfast generous staff friendly clean close convention hear noise stayed close desk main floor", "Date": "2012-01-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Missouri", "Title": "\u201cA hidden gem with everything new and top notch.\u201d", "Author": "MissouriDaisy", "ReviewID": "UR69149753", "Content": "found lovely renovated motel chance front desk beyond helpful directions pizza ages exceptionally clean value priced pool nice restful fountain flowers plus easy trip day santa monica pier caught tour bus los angeles outside building plain step inside oasis", "Date": "2010-06-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Rosamond, CA", "Title": "\u201cClean, Quiet, all the usual Amenatives & Priced Right\u201d", "Author": "Socal Flyer", "ReviewID": "UR65281273", "Content": "based favorable reviews selected western canoga park quick overnight visiting pleased report reviews accurate front desk checkin friendly efficient clean quiet facility appeared recently renovated excellent condition eyes particularily liked crisply lit bathroom necessities inroom coffee microwave fridge wifi login info desk decent continental breakfast pool etc onsite restaurant nearby adjoining bowling alley boasts cocktail lounge price competitive discount booking online satisfactory stay", "Date": "2010-05-25 00:00:00"}], "HotelInfo": {"Name": "BEST WESTERN Canoga Park Motor Inn", "HotelURL": "/ShowUserReviews-g32655-d76325-Reviews-BEST_WESTERN_Canoga_Park_Motor_Inn-Los_Angeles_California.html", "Price": "$77 - $89*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">20122 Vanowen Street</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">91306</span></span> </span></span></address>", "HotelID": "2516111", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/95/8b/958b13da50f95a51f6723b3910c705d22large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Washington state",
+      "Title": "\u201cSECOND STAY AS GOOD AS FIRST\u201d",
+      "Author": "sunnyWashingtonstate",
+      "ReviewID": "UR123337506",
+      "Content": "travel la frequently usually dont stay twice hotel cause care prices raised stay western canoga park motor inn stayed experience hotel bit pretty central freeways easy parking ample breakfast generous staff friendly clean close convention hear noise stayed close desk main floor",
+      "Date": "2012-01-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Missouri",
+      "Title": "\u201cA hidden gem with everything new and top notch.\u201d",
+      "Author": "MissouriDaisy",
+      "ReviewID": "UR69149753",
+      "Content": "found lovely renovated motel chance front desk beyond helpful directions pizza ages exceptionally clean value priced pool nice restful fountain flowers plus easy trip day santa monica pier caught tour bus los angeles outside building plain step inside oasis",
+      "Date": "2010-06-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Rosamond, CA",
+      "Title": "\u201cClean, Quiet, all the usual Amenatives & Priced Right\u201d",
+      "Author": "Socal Flyer",
+      "ReviewID": "UR65281273",
+      "Content": "based favorable reviews selected western canoga park quick overnight visiting pleased report reviews accurate front desk checkin friendly efficient clean quiet facility appeared recently renovated excellent condition eyes particularily liked crisply lit bathroom necessities inroom coffee microwave fridge wifi login info desk decent continental breakfast pool etc onsite restaurant nearby adjoining bowling alley boasts cocktail lounge price competitive discount booking online satisfactory stay",
+      "Date": "2010-05-25 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "BEST WESTERN Canoga Park Motor Inn",
+    "HotelURL": "/ShowUserReviews-g32655-d76325-Reviews-BEST_WESTERN_Canoga_Park_Motor_Inn-Los_Angeles_California.html",
+    "Price": "$77 - $89*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">20122 Vanowen Street</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">91306</span></span> </span></span></address>",
+    "HotelID": "2516111",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/95/8b/958b13da50f95a51f6723b3910c705d22large.jpg"
+  }
+}

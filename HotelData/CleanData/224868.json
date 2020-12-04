@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Dallas, Texas", "Title": "\u201cESA REEKS\u201d", "Author": "C B", "ReviewID": "UR121154834", "Content": "nonsmoking reeked smoke staff sprayed heavy sweet deodorizers worse fans continuous didnt help carpet filthy white socks worn hours slippers oily black covered hair gunk dust caked edges carpet obvious glasses hair tub hair towels sheets receptionist wait minutes staff contractors times checkin transfer request checkout top headboard coated dust dead skin cells previous guests yuck lean watch tv parking lot hard access entrance crossover hotel hard bags manual double set double doors", "Date": "2011-11-28 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Berkeley Heights, New Jersey", "Title": "\u201cClean hotel, friendly & helpful staff.\u201d", "Author": "maria c", "ReviewID": "UR118428331", "Content": "husband stayed hotel august proximity miami port little concerned surroundings actually safe free parking plus taxi port approximately 2025 service unless stay 7 days clean towels front desk service additional 7 dollars cleaning free parking compensated cruise departing miami", "Date": "2011-09-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Mumbai", "Title": "\u201cPerfect, great Location, clean, Helpful staff.\u201d", "Author": "deepdsouza", "ReviewID": "UR106886574", "Content": "stayed 27th 30th april ideal youre looking clean quiet located clean clean sheets service frontdesk walgreens located opposite hotel publix supermarket getting eats etc metromover 5 min walk hotel perfect miami close hotel town bayside perfect cruise help", "Date": "2011-05-04 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Buenos Aires", "Title": "\u201cFIne hotel\u201d", "Author": "massiniezcurra", "ReviewID": "UR93232440", "Content": "stayed 3 nights hotel clean bed linen towels clean staff reception helpful friendly driving hotel short walk approx 3 blocks metromover walgreens road downside tv set dusty return", "Date": "2011-01-16 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Calgary", "Title": "\u201cGood value pre-cruise\u201d", "Author": "BeeandJay", "ReviewID": "UR55961126", "Content": "5 stayed hotel night cruise picked price relative proximity cruise port 3 total faced freeway complained bit noise facing walgreens hear freeway choose stay id suggest requesting facing walgreens freeway light sleeper check breeze staff friendly helpful suggested walk bridge italian trattoria dinner tutti trattoria called pizza recommend basic clean port approximately 10 minute cab ride alot walgreens publix accross street walk bridge restaurants choose time reallt explore subway people mover 10 minutes walk overall value money decent night cruise stay", "Date": "2010-02-14 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Cape Cod, MA", "Title": "\u201cGreat Location, Good Value, Two Thumbs Up\u201d", "Author": "Alitlserenity", "ReviewID": "UR55522145", "Content": "stayed night january 2010 research attempt decent reasonable stay night cruise happier decision stay hotel clean staff responsive helpful clean spacious plus kitchen stocked pots pans dishes silverware etc close getting hosed cost 8400 sunday night stay 2200 taxi ride airport 2100 taxi ride south beach 1200 taxi ride port walgreen publix 3 minute walk addition ate amazing lunch breakfast baklava factory five minute walk hotel total bill meals 2800 recommend hotel", "Date": "2010-02-08 00:00:00"}], "HotelInfo": {"Name": "Extended StayAmerica Miami - Brickell - Port of Miami", "HotelURL": "/ShowUserReviews-g34438-d224868-Reviews-Extended_StayAmerica_Miami_Brickell_Port_of_Miami-Miami_Florida.html", "Price": "$129 - $198*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">298 SW 15th Street</span>, <span class=\"locality\"><span property=\"v:locality\">Miami</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">33129</span></span> </span> </span> </address>", "HotelID": "224868", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b9/2e/b92e644bc06351a5c5d258a1331e6d1d5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Dallas, Texas",
+      "Title": "\u201cESA REEKS\u201d",
+      "Author": "C B",
+      "ReviewID": "UR121154834",
+      "Content": "nonsmoking reeked smoke staff sprayed heavy sweet deodorizers worse fans continuous didnt help carpet filthy white socks worn hours slippers oily black covered hair gunk dust caked edges carpet obvious glasses hair tub hair towels sheets receptionist wait minutes staff contractors times checkin transfer request checkout top headboard coated dust dead skin cells previous guests yuck lean watch tv parking lot hard access entrance crossover hotel hard bags manual double set double doors",
+      "Date": "2011-11-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Berkeley Heights, New Jersey",
+      "Title": "\u201cClean hotel, friendly & helpful staff.\u201d",
+      "Author": "maria c",
+      "ReviewID": "UR118428331",
+      "Content": "husband stayed hotel august proximity miami port little concerned surroundings actually safe free parking plus taxi port approximately 2025 service unless stay 7 days clean towels front desk service additional 7 dollars cleaning free parking compensated cruise departing miami",
+      "Date": "2011-09-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Mumbai",
+      "Title": "\u201cPerfect, great Location, clean, Helpful staff.\u201d",
+      "Author": "deepdsouza",
+      "ReviewID": "UR106886574",
+      "Content": "stayed 27th 30th april ideal youre looking clean quiet located clean clean sheets service frontdesk walgreens located opposite hotel publix supermarket getting eats etc metromover 5 min walk hotel perfect miami close hotel town bayside perfect cruise help",
+      "Date": "2011-05-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Buenos Aires",
+      "Title": "\u201cFIne hotel\u201d",
+      "Author": "massiniezcurra",
+      "ReviewID": "UR93232440",
+      "Content": "stayed 3 nights hotel clean bed linen towels clean staff reception helpful friendly driving hotel short walk approx 3 blocks metromover walgreens road downside tv set dusty return",
+      "Date": "2011-01-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Calgary",
+      "Title": "\u201cGood value pre-cruise\u201d",
+      "Author": "BeeandJay",
+      "ReviewID": "UR55961126",
+      "Content": "5 stayed hotel night cruise picked price relative proximity cruise port 3 total faced freeway complained bit noise facing walgreens hear freeway choose stay id suggest requesting facing walgreens freeway light sleeper check breeze staff friendly helpful suggested walk bridge italian trattoria dinner tutti trattoria called pizza recommend basic clean port approximately 10 minute cab ride alot walgreens publix accross street walk bridge restaurants choose time reallt explore subway people mover 10 minutes walk overall value money decent night cruise stay",
+      "Date": "2010-02-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Cape Cod, MA",
+      "Title": "\u201cGreat Location, Good Value, Two Thumbs Up\u201d",
+      "Author": "Alitlserenity",
+      "ReviewID": "UR55522145",
+      "Content": "stayed night january 2010 research attempt decent reasonable stay night cruise happier decision stay hotel clean staff responsive helpful clean spacious plus kitchen stocked pots pans dishes silverware etc close getting hosed cost 8400 sunday night stay 2200 taxi ride airport 2100 taxi ride south beach 1200 taxi ride port walgreen publix 3 minute walk addition ate amazing lunch breakfast baklava factory five minute walk hotel total bill meals 2800 recommend hotel",
+      "Date": "2010-02-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Extended StayAmerica Miami - Brickell - Port of Miami",
+    "HotelURL": "/ShowUserReviews-g34438-d224868-Reviews-Extended_StayAmerica_Miami_Brickell_Port_of_Miami-Miami_Florida.html",
+    "Price": "$129 - $198*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">298 SW 15th Street</span>, <span class=\"locality\"><span property=\"v:locality\">Miami</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">33129</span></span> </span> </span> </address>",
+    "HotelID": "224868",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b9/2e/b92e644bc06351a5c5d258a1331e6d1d5large.jpg"
+  }
+}

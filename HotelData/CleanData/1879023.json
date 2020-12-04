@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Dubai, Dubai, United Arab Emirates", "Title": "\u201cGreat pool area\u201d", "Author": "VindalooQueen11", "ReviewID": "UR121051514", "Content": "comfortable beds restaurant lovely pool hotel fab dont mind bit centre close airport tasty restaurants nearby corridors soundproofed makes sleep niggles air con wasnt overtly powerful change wifi shocking 35 dhs hour 4 star hotels free hotel airline crew offer discounts airlines", "Date": "2011-11-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Nr Cambridge", "Title": "\u201cWrong location\u201d", "Author": "MikeJenvey", "ReviewID": "UR120581248", "Content": "stayed night business relatively quick ride airport 15 20 mins advantageous location isnt nearby food outlets dont haute cuisine orientated towards local industry lots immediate car tyres changed whilst factor hotel bar disappointing yes uae consequently enjoy night life actually dubai taxi ideal time limited furnished hours comfortable tried sleep apparent background noise pronounced wasnt conditioning nor minibar fridge tried sleep avail sound slightly louder near window looked onto central atrium measured handy iphone app decibel ultra average peak quiet office normal home tried earplugs 0400 local reception technical help previously receptionist told noise tourist bus parked outside yeah engineer told cause ac blowing vents central atrium window atrium measured volume time average peak engineer couldnt noise disturbed uncomfortable sleep colleague faced front hotel onto busy main road note proportion atrium onto main road short disappointing stay", "Date": "2011-11-14 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "medway", "Title": "\u201cPleasant Business Hotel\u201d", "Author": "lincolnlady64", "ReviewID": "UR119965899", "Content": "plaza hotel pleasant hotel accomadating staff 10 minute cab ride airport 12 hour downtown appointed comfortable flight requested check tell based availabilty ready tried restaurant breakfast buffet", "Date": "2011-10-31 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "london", "Title": "\u201cNice Hotel but could do better\u201d", "Author": "boytunde", "ReviewID": "UR107418606", "Content": "arrived hotel checked friendly staff 2 baby cot provided 1 attempted hotel supply 2nd cot fruitless hotel location local attraction cost region 5060 dirham huge house keeping attention cleaniness dusty bathroom washed days brio service poor 30mins served overal hotel friendly staff", "Date": "2011-05-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "boston", "Title": "\u201cFantastic Stay\u201d", "Author": "redlineboston", "ReviewID": "UR93889401", "Content": "hotel 2 mos hotel near airport close staff fantastic helpful food excellent alcohol bar street hotel touristy quick taxi creek gold souk beach nice clean health club pool roof", "Date": "2011-01-20 00:00:00"}], "HotelInfo": {"Name": "TIME Grand Plaza Hotel", "HotelURL": "/ShowUserReviews-g295424-d1879023-Reviews-TIME_Grand_Plaza_Hotel-Dubai.html", "Price": "$109 - $191*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Damscus Street, Qusais, DAFZA</span> | <span class=\"extended-address\">PO Box 237844</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> (Formerly Layia Plaza Hotel)</span> </span> </address>", "HotelID": "1879023", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/5d/23/0c/layia-plaza-hotel.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Dubai, Dubai, United Arab Emirates",
+      "Title": "\u201cGreat pool area\u201d",
+      "Author": "VindalooQueen11",
+      "ReviewID": "UR121051514",
+      "Content": "comfortable beds restaurant lovely pool hotel fab dont mind bit centre close airport tasty restaurants nearby corridors soundproofed makes sleep niggles air con wasnt overtly powerful change wifi shocking 35 dhs hour 4 star hotels free hotel airline crew offer discounts airlines",
+      "Date": "2011-11-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Nr Cambridge",
+      "Title": "\u201cWrong location\u201d",
+      "Author": "MikeJenvey",
+      "ReviewID": "UR120581248",
+      "Content": "stayed night business relatively quick ride airport 15 20 mins advantageous location isnt nearby food outlets dont haute cuisine orientated towards local industry lots immediate car tyres changed whilst factor hotel bar disappointing yes uae consequently enjoy night life actually dubai taxi ideal time limited furnished hours comfortable tried sleep apparent background noise pronounced wasnt conditioning nor minibar fridge tried sleep avail sound slightly louder near window looked onto central atrium measured handy iphone app decibel ultra average peak quiet office normal home tried earplugs 0400 local reception technical help previously receptionist told noise tourist bus parked outside yeah engineer told cause ac blowing vents central atrium window atrium measured volume time average peak engineer couldnt noise disturbed uncomfortable sleep colleague faced front hotel onto busy main road note proportion atrium onto main road short disappointing stay",
+      "Date": "2011-11-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "medway",
+      "Title": "\u201cPleasant Business Hotel\u201d",
+      "Author": "lincolnlady64",
+      "ReviewID": "UR119965899",
+      "Content": "plaza hotel pleasant hotel accomadating staff 10 minute cab ride airport 12 hour downtown appointed comfortable flight requested check tell based availabilty ready tried restaurant breakfast buffet",
+      "Date": "2011-10-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "london",
+      "Title": "\u201cNice Hotel but could do better\u201d",
+      "Author": "boytunde",
+      "ReviewID": "UR107418606",
+      "Content": "arrived hotel checked friendly staff 2 baby cot provided 1 attempted hotel supply 2nd cot fruitless hotel location local attraction cost region 5060 dirham huge house keeping attention cleaniness dusty bathroom washed days brio service poor 30mins served overal hotel friendly staff",
+      "Date": "2011-05-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "boston",
+      "Title": "\u201cFantastic Stay\u201d",
+      "Author": "redlineboston",
+      "ReviewID": "UR93889401",
+      "Content": "hotel 2 mos hotel near airport close staff fantastic helpful food excellent alcohol bar street hotel touristy quick taxi creek gold souk beach nice clean health club pool roof",
+      "Date": "2011-01-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "TIME Grand Plaza Hotel",
+    "HotelURL": "/ShowUserReviews-g295424-d1879023-Reviews-TIME_Grand_Plaza_Hotel-Dubai.html",
+    "Price": "$109 - $191*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Damscus Street, Qusais, DAFZA</span> | <span class=\"extended-address\">PO Box 237844</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> (Formerly Layia Plaza Hotel)</span> </span> </address>",
+    "HotelID": "1879023",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/5d/23/0c/layia-plaza-hotel.jpg"
+  }
+}

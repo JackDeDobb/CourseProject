@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Tel Aviv, Israel", "Title": "\u201cgood location,nice rooms, bad attitude!!\u201d", "Author": "Offy_b", "ReviewID": "UR119182392", "Content": "night found hostel day looked nice nice location guy reception 2 girls dressed finenot scared 3 price thanks thanks day else told 2 prices private bathroom 2 min told tourist 1 shared ones private bathrooms happy found location ok price climb 4 floors elevator didnt mind night found cold water hot water 30 sec 2 guys night told price started yelling laughed told payed private bathroom talked sarcasm told wrong using shared bathroom fyi trip till day stayed shared bathroom apartment night own payed luckly guy reasonable louder offerd check tried hot water told wait sec agreed hot water none hell tell manager morning morning manager told pay shared bathroom cuz thats told hot water check guy night told hot lot short story tell lot lies attempts excuses attempts trick 15 min talking loud getting angry money payed shared bathroom oh loud morning carful location bad attitude noisy ps cold water shower found heating option blocked ac remote", "Date": "2011-10-11 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "San Diego, California", "Title": "\u201cGreat location. Not great staff.\u201d", "Author": "enc429", "ReviewID": "UR91762942", "Content": "heart las ramblas subway la boqueria getting extremely convenient adequate equipped ac decent beds clean bathroom tv lobby lockers check bag prepared site negatives time lobby getting painted paint fumes annoying guy front desk friendly elevator normally wouldnt bad unusually steep narrow stairs 4th floor maybe night drinks stairs overall decent price relation location", "Date": "2011-01-04 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Ipswich", "Title": "\u201cCheap and very cheerful\u201d", "Author": "DoveIpswich", "ReviewID": "UR64547479", "Content": "hostal paris brilliant location la ramblas close metro de reial catalunya currently renovated stayed workmen didnt start 10am chance lie low budget stay", "Date": "2010-05-18 00:00:00"}], "HotelInfo": {"Name": "Hostal Paris", "HotelURL": "/ShowUserReviews-g187497-d238731-Reviews-Hostal_Paris-Barcelona_Catalonia.html", "Price": "$66 - $119*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Cardenal Casanas, 4</span>, <span class=\"locality\"><span property=\"v:postal-code\">08002</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "238731", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/26/8a/268a23ab90084d03d9ba99065858731b1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Tel Aviv, Israel",
+      "Title": "\u201cgood location,nice rooms, bad attitude!!\u201d",
+      "Author": "Offy_b",
+      "ReviewID": "UR119182392",
+      "Content": "night found hostel day looked nice nice location guy reception 2 girls dressed finenot scared 3 price thanks thanks day else told 2 prices private bathroom 2 min told tourist 1 shared ones private bathrooms happy found location ok price climb 4 floors elevator didnt mind night found cold water hot water 30 sec 2 guys night told price started yelling laughed told payed private bathroom talked sarcasm told wrong using shared bathroom fyi trip till day stayed shared bathroom apartment night own payed luckly guy reasonable louder offerd check tried hot water told wait sec agreed hot water none hell tell manager morning morning manager told pay shared bathroom cuz thats told hot water check guy night told hot lot short story tell lot lies attempts excuses attempts trick 15 min talking loud getting angry money payed shared bathroom oh loud morning carful location bad attitude noisy ps cold water shower found heating option blocked ac remote",
+      "Date": "2011-10-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "San Diego, California",
+      "Title": "\u201cGreat location. Not great staff.\u201d",
+      "Author": "enc429",
+      "ReviewID": "UR91762942",
+      "Content": "heart las ramblas subway la boqueria getting extremely convenient adequate equipped ac decent beds clean bathroom tv lobby lockers check bag prepared site negatives time lobby getting painted paint fumes annoying guy front desk friendly elevator normally wouldnt bad unusually steep narrow stairs 4th floor maybe night drinks stairs overall decent price relation location",
+      "Date": "2011-01-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ipswich",
+      "Title": "\u201cCheap and very cheerful\u201d",
+      "Author": "DoveIpswich",
+      "ReviewID": "UR64547479",
+      "Content": "hostal paris brilliant location la ramblas close metro de reial catalunya currently renovated stayed workmen didnt start 10am chance lie low budget stay",
+      "Date": "2010-05-18 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hostal Paris",
+    "HotelURL": "/ShowUserReviews-g187497-d238731-Reviews-Hostal_Paris-Barcelona_Catalonia.html",
+    "Price": "$66 - $119*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Cardenal Casanas, 4</span>, <span class=\"locality\"><span property=\"v:postal-code\">08002</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "238731",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/26/8a/268a23ab90084d03d9ba99065858731b1large.jpg"
+  }
+}

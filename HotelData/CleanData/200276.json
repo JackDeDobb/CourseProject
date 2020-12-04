@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Ahmedabad, India", "Title": "\u201cGood hotel but not so good location\u201d", "Author": "Jinthereddevil", "ReviewID": "UR126474513", "Content": "confused comment location safety issues hotel safe civilization suddenly night pub restaurant etc walk 510 minutes schonefeld station grab train destination station 24 hours weekdays hotel nice cosy friendly staff food restaurants pub everyday recreational beer drinkers tv obsolete channels choose featuring german channels american tv german tv option internet speed stream tv live tv online recommend hotel travelers wishing stay berlin 3 days youre bound wee bit depressed civilization", "Date": "2012-03-22 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Wroclaw", "Title": "\u201cCloseness to airport, very clean & nice hotel\u201d", "Author": "Artur N", "ReviewID": "UR122779716", "Content": "schoenefeld airport 10 minutes foot convenient departure morning restaurant midnight wireless internet connection strangely usually buying wifi access eg 1 hour log internet anymore stop spending time button exists pressing happens paid time internet wasted", "Date": "2012-01-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Adelaide, Australia", "Title": "\u201cQuirky Airport Hotel\u201d", "Author": "Davsim3", "ReviewID": "UR122618106", "Content": "stayed albergo hotel flight morning didnt venture centre berlin close airport hotel natural choice arrival staff friendly quickly loved heated flooring bathroom checked ventured restaurant pizzas eaten overall stay", "Date": "2012-01-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "McKinney, Texas, USA", "Title": "\u201cGreat service, good room\u201d", "Author": "JerryByrd", "ReviewID": "UR118993185", "Content": "flight delayed arriving couple hours 200 morning called hotel cheery voice hotel close walk bed sweet bit hot window chance hear trains quiet window closed chance check food departure short night indicated pass breakfast", "Date": "2011-10-06 00:00:00"}], "HotelInfo": {"Name": "Albergo Hotel Berlin", "HotelURL": "/ShowUserReviews-g187323-d200276-Reviews-Albergo_Hotel_Berlin-Berlin.html", "Price": "$63 - $98*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Wassmanndorfer Chaussee 2</span> | <span class=\"extended-address\">Sch&ouml;nefeld</span>, <span class=\"locality\"><span property=\"v:postal-code\">12529</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "200276", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0c/ad/0cad134623943103f2158355e46a348e6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Ahmedabad, India",
+      "Title": "\u201cGood hotel but not so good location\u201d",
+      "Author": "Jinthereddevil",
+      "ReviewID": "UR126474513",
+      "Content": "confused comment location safety issues hotel safe civilization suddenly night pub restaurant etc walk 510 minutes schonefeld station grab train destination station 24 hours weekdays hotel nice cosy friendly staff food restaurants pub everyday recreational beer drinkers tv obsolete channels choose featuring german channels american tv german tv option internet speed stream tv live tv online recommend hotel travelers wishing stay berlin 3 days youre bound wee bit depressed civilization",
+      "Date": "2012-03-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Wroclaw",
+      "Title": "\u201cCloseness to airport, very clean & nice hotel\u201d",
+      "Author": "Artur N",
+      "ReviewID": "UR122779716",
+      "Content": "schoenefeld airport 10 minutes foot convenient departure morning restaurant midnight wireless internet connection strangely usually buying wifi access eg 1 hour log internet anymore stop spending time button exists pressing happens paid time internet wasted",
+      "Date": "2012-01-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Adelaide, Australia",
+      "Title": "\u201cQuirky Airport Hotel\u201d",
+      "Author": "Davsim3",
+      "ReviewID": "UR122618106",
+      "Content": "stayed albergo hotel flight morning didnt venture centre berlin close airport hotel natural choice arrival staff friendly quickly loved heated flooring bathroom checked ventured restaurant pizzas eaten overall stay",
+      "Date": "2012-01-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "McKinney, Texas, USA",
+      "Title": "\u201cGreat service, good room\u201d",
+      "Author": "JerryByrd",
+      "ReviewID": "UR118993185",
+      "Content": "flight delayed arriving couple hours 200 morning called hotel cheery voice hotel close walk bed sweet bit hot window chance hear trains quiet window closed chance check food departure short night indicated pass breakfast",
+      "Date": "2011-10-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Albergo Hotel Berlin",
+    "HotelURL": "/ShowUserReviews-g187323-d200276-Reviews-Albergo_Hotel_Berlin-Berlin.html",
+    "Price": "$63 - $98*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Wassmanndorfer Chaussee 2</span> | <span class=\"extended-address\">Sch&ouml;nefeld</span>, <span class=\"locality\"><span property=\"v:postal-code\">12529</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "200276",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0c/ad/0cad134623943103f2158355e46a348e6large.jpg"
+  }
+}

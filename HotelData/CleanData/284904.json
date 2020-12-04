@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Rosedale, New York", "Title": "\u201cMuch has improved\u201d", "Author": "chris p", "ReviewID": "UR120467834", "Content": "stayed 2000s wasnt trip nyc wasnt expensive decided shot improved cleaner nice updated historical building feel flat screen tvs updated furnishings comfortable bed happy staff accommodating allowed check late fee 100 price 500 definitely choice", "Date": "2011-11-11 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "nyc", "Title": "\u201cNot as bad as they claim.\u201d", "Author": "aquality4u3", "ReviewID": "UR87207742", "Content": "look stuck nyc overnight heard realized neighborhood try anyway roach bed bug bitten mice maybe found online decided staff told fixed sheets clean painting front entrance look reviews ago stay yep pretty quiet slept fine", "Date": "2010-11-15 00:00:00"}], "HotelInfo": {"Name": "Senton Hotel", "HotelURL": "/ShowUserReviews-g60763-d284904-Reviews-Senton_Hotel-New_York_City_New_York.html", "Price": "$76 - $144*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">39 West 27 Street</span>, <span class=\"locality\"><span property=\"v:locality\">New York City</span>, <span property=\"v:region\">NY</span> <span property=\"v:postal-code\">10001</span></span> </span> </span> </address>", "HotelID": "284904", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rosedale, New York",
+      "Title": "\u201cMuch has improved\u201d",
+      "Author": "chris p",
+      "ReviewID": "UR120467834",
+      "Content": "stayed 2000s wasnt trip nyc wasnt expensive decided shot improved cleaner nice updated historical building feel flat screen tvs updated furnishings comfortable bed happy staff accommodating allowed check late fee 100 price 500 definitely choice",
+      "Date": "2011-11-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "nyc",
+      "Title": "\u201cNot as bad as they claim.\u201d",
+      "Author": "aquality4u3",
+      "ReviewID": "UR87207742",
+      "Content": "look stuck nyc overnight heard realized neighborhood try anyway roach bed bug bitten mice maybe found online decided staff told fixed sheets clean painting front entrance look reviews ago stay yep pretty quiet slept fine",
+      "Date": "2010-11-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Senton Hotel",
+    "HotelURL": "/ShowUserReviews-g60763-d284904-Reviews-Senton_Hotel-New_York_City_New_York.html",
+    "Price": "$76 - $144*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">39 West 27 Street</span>, <span class=\"locality\"><span property=\"v:locality\">New York City</span>, <span property=\"v:region\">NY</span> <span property=\"v:postal-code\">10001</span></span> </span> </span> </address>",
+    "HotelID": "284904",
+    "ImgURL": ""
+  }
+}

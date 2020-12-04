@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Valinhos, SP", "Title": "\u201cPerfect!\u201d", "Author": "Fl\u00e1vio B", "ReviewID": "UR122828864", "Content": "hotel clean organized simple tasty breakfast served nice people fancy functional clean comfortable easy free wi fi internet sounds yeah minimum hotel hotel receptionists met extremely polite ready help information service hotel located calm friendly neighborhood fast access bus metro easy besides walking camp nou watch barcelona football match liked hotel day im barcelona im id hotel advise people stay", "Date": "2012-01-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Z\u00fcrich, Zurich, Switzerland", "Title": "\u201cvery nice hotel and just 8 minuts from the center...\u201d", "Author": "Junior Q", "ReviewID": "UR120081637", "Content": "4 days hotel metro station 3 minuts hotel 8 minuts center anyway time drive taxi cheap 6 8 euro staff friendly allways available tips information city thanks rios help staff team", "Date": "2011-11-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Baku, Azerbaijan", "Title": "\u201cthis hotel is really cozy,luxurious !\u201d", "Author": "NikolBaku", "ReviewID": "UR109225796", "Content": "catalonia pleased stayed hotel hotel cosy close thanks advance service im planing visit hotel gracias", "Date": "2011-05-21 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 5.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Oslo, Norway", "Title": "\u201cNice location, but ....\u201d", "Author": "Jaromaxxxxxxx", "ReviewID": "UR102083664", "Content": "3rd floor facing main street stay admit stay enjoyable time shabby walls dirty broken tiles bathroom etc reviews mention apartment desperate repair worst noise outside guests floor hear neighbours speaking positive hotel location near tres torres metro provides quick access center staff friendly spoke english choose repair hotel return otherwise options price", "Date": "2011-03-29 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Canton", "Title": "\u201cNoisy room, not very friendly staff\u201d", "Author": "GraceCanton", "ReviewID": "UR85319584", "Content": "stayed hotel night barcelona price ok hotel offer groundfloor restaurant woke 330am 600am staff restaurant noisy friendly staffwe phone hotel told metro stop didnt tell metro", "Date": "2010-10-29 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Boston, Massachusetts", "Title": "\u201cSingle rooms are like prison cells\u201d", "Author": "Traveller201084", "ReviewID": "UR78302664", "Content": "mistake hotel stayed gran hotel catalonia save euros trading stops metro center bitterly disappointed single single twin bed bigger bed topped window facing internal shaft curtain permanently feels prison cell claustrofobic 4th floor hear loudly doors close bang movement corridors floors metro convenient line serves stop comes 15 min theory reach plaza catalunia 10 min practice 30 min residential zone supposedly expensive town feels hotel staff friendly unfortunately cant poor rating", "Date": "2010-09-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Barcelona", "Title": "\u201cA very good place to stay!\u201d", "Author": "CarolinemBarcelona", "ReviewID": "UR62188995", "Content": "time barcelona found hotel pleasant surprise nice tidy clean breakfast tips managed seriously recommend hotel", "Date": "2010-04-22 00:00:00"}], "HotelInfo": {"Name": "Hotel Catalonia Castellnou", "HotelURL": "/ShowUserReviews-g187497-d228546-Reviews-Hotel_Catalonia_Castellnou-Barcelona_Catalonia.html", "Price": "$98 - $189*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/ Castellnou 61</span>, <span class=\"locality\"><span property=\"v:postal-code\">08017</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "228546", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/cf/e2/c1/exterior-catalonia-castellnou.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Valinhos, SP",
+      "Title": "\u201cPerfect!\u201d",
+      "Author": "Fl\u00e1vio B",
+      "ReviewID": "UR122828864",
+      "Content": "hotel clean organized simple tasty breakfast served nice people fancy functional clean comfortable easy free wi fi internet sounds yeah minimum hotel hotel receptionists met extremely polite ready help information service hotel located calm friendly neighborhood fast access bus metro easy besides walking camp nou watch barcelona football match liked hotel day im barcelona im id hotel advise people stay",
+      "Date": "2012-01-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Z\u00fcrich, Zurich, Switzerland",
+      "Title": "\u201cvery nice hotel and just 8 minuts from the center...\u201d",
+      "Author": "Junior Q",
+      "ReviewID": "UR120081637",
+      "Content": "4 days hotel metro station 3 minuts hotel 8 minuts center anyway time drive taxi cheap 6 8 euro staff friendly allways available tips information city thanks rios help staff team",
+      "Date": "2011-11-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Baku, Azerbaijan",
+      "Title": "\u201cthis hotel is really cozy,luxurious !\u201d",
+      "Author": "NikolBaku",
+      "ReviewID": "UR109225796",
+      "Content": "catalonia pleased stayed hotel hotel cosy close thanks advance service im planing visit hotel gracias",
+      "Date": "2011-05-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 5.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Oslo, Norway",
+      "Title": "\u201cNice location, but ....\u201d",
+      "Author": "Jaromaxxxxxxx",
+      "ReviewID": "UR102083664",
+      "Content": "3rd floor facing main street stay admit stay enjoyable time shabby walls dirty broken tiles bathroom etc reviews mention apartment desperate repair worst noise outside guests floor hear neighbours speaking positive hotel location near tres torres metro provides quick access center staff friendly spoke english choose repair hotel return otherwise options price",
+      "Date": "2011-03-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Canton",
+      "Title": "\u201cNoisy room, not very friendly staff\u201d",
+      "Author": "GraceCanton",
+      "ReviewID": "UR85319584",
+      "Content": "stayed hotel night barcelona price ok hotel offer groundfloor restaurant woke 330am 600am staff restaurant noisy friendly staffwe phone hotel told metro stop didnt tell metro",
+      "Date": "2010-10-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Boston, Massachusetts",
+      "Title": "\u201cSingle rooms are like prison cells\u201d",
+      "Author": "Traveller201084",
+      "ReviewID": "UR78302664",
+      "Content": "mistake hotel stayed gran hotel catalonia save euros trading stops metro center bitterly disappointed single single twin bed bigger bed topped window facing internal shaft curtain permanently feels prison cell claustrofobic 4th floor hear loudly doors close bang movement corridors floors metro convenient line serves stop comes 15 min theory reach plaza catalunia 10 min practice 30 min residential zone supposedly expensive town feels hotel staff friendly unfortunately cant poor rating",
+      "Date": "2010-09-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Barcelona",
+      "Title": "\u201cA very good place to stay!\u201d",
+      "Author": "CarolinemBarcelona",
+      "ReviewID": "UR62188995",
+      "Content": "time barcelona found hotel pleasant surprise nice tidy clean breakfast tips managed seriously recommend hotel",
+      "Date": "2010-04-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Catalonia Castellnou",
+    "HotelURL": "/ShowUserReviews-g187497-d228546-Reviews-Hotel_Catalonia_Castellnou-Barcelona_Catalonia.html",
+    "Price": "$98 - $189*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/ Castellnou 61</span>, <span class=\"locality\"><span property=\"v:postal-code\">08017</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "228546",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/cf/e2/c1/exterior-catalonia-castellnou.jpg"
+  }
+}

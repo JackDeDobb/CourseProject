@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cFalse advertising, this place is nothing like the brochure or the sight!!!!\u201d", "Author": "Natasha Wishuwe... S", "ReviewID": "UR119358636", "Content": "tiniest look feel dirty bathrooms hideous looks horror movie texas chain seriously tell smoking smoking fumes ambiance hotel ashamed yourselves advertising falsely upstairs looked shot basking ambiance hotel fit elevator friends carried handbags review mysteriously disappeared hotel reported bbb cause business false advertising confident cheaper 700 ridiculous mouse trapped money cancellation fees happened reservation hotel money cancellation fee happy motel 8 tractor trailor clean bathrooms poor option choose maybe tare miserable actualy website realy stay atleast called false advertising mean management runs hotel look seriously trip ny hotel gauge luckily holiday inn painted contrary hotel staff riverside painted cheaper empire building thanks natasha", "Date": "2011-10-16 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Chicago", "Title": "\u201cNo regrets. I'd stay here again.\u201d", "Author": "cirejcon", "ReviewID": "UR105389366", "Content": "pros wont cheaper hotel close bedbugs tell nice neighborhood safe fridge market nearby cons pretty else front cant deal dirty bathroom share people dont stay probably dont stay romantic getaway predict romance getaway time afterwards otherwise york time spend hotel time youre wasting doing awesome pay pass exhaustion save money youll trip york teenage sons goes college ill honest jumped price hotelscom noticed reviews bathrooms cheap tempted eat nonrefundable rent book someplace decent easter weekend time decent 400night available hold people 2 suite stuck im glad time restaurant bill breath saved hotel youre youll surprised exists cities europe walls smooth dozens cut rate paint jobs fairly fridge beds comfortable rollaway looked wwii surplus nevertheless slept comfortably lucky door little alcove contains bathroom private tell else bathroom actually fairly clean maid clean day theres human glance tub looked absolutely filthy closer inspection actually mineral deposits decades dripping shower head own fridge theres decent market corner breakfast snacks lovely neighborhood steps hudson round corner trump block express subway stop walking distance central park broadway times square etc location location location fantastic weekend suffered hotel added couple stories", "Date": "2011-04-25 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Austin, Texas", "Title": "\u201cGreat neighborhood location and good value\u201d", "Author": "Happytrails044", "ReviewID": "UR84972303", "Content": "enjoyed stay hotel caters students quiet safe clean staff helpful replying requests giving suggestions etc lucky found value didnt spend trip budget accommodations liked frig microwave eat breakfast hotel restaurants coffeeshops groceries nearby city diner favorite spot excellent food service", "Date": "2010-10-26 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Oklahoma", "Title": "\u201cGreat location, safe clean quiet neighborhood, yes I will stay again\u201d", "Author": "OklahomaMikie", "ReviewID": "UR82415450", "Content": "york city pay im 40 yr female 65 yr mother bathroom clean hanging 24 hours day left 0900 returned 2000 bed shower tv mini fridge microwave night call didnt clean towels sent coffee morning coffee pots electric pot warm water instant local store nice round couple coffee cups day crew front desk nice evening crew biggest complaint called wake call morning flight set phone alarm received wake call arranged night car service pick 0600 front told 0630 call service 10 min stay yes clean safe quiet location", "Date": "2010-10-07 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Cheshire, Connecticut", "Title": "\u201cVery quiet-inexpensive\u201d", "Author": "earthangel4u975", "ReviewID": "UR66105362", "Content": "looking plush hilton inexpensive stay york 2 private bathroom inbetween view hudson beautiful day night 3 blocks subway 2 blocks bagel zabars deli quiet neighborhood hotel quiet held bags day checked ready leave night night clerk helpful getting extra pillows towels fridge microwave added bonus coffeemaker slight disappointment planning staying", "Date": "2010-06-01 00:00:00"}], "HotelInfo": {"Name": "Riverside Hotel", "HotelURL": "/ShowUserReviews-g60763-d99292-Reviews-Riverside_Hotel-New_York_City_New_York.html", "Price": "$90 - $125*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">350 West 88th Street</span>, <span class=\"locality\"><span property=\"v:locality\">New York City</span>, <span property=\"v:region\">NY</span> <span property=\"v:postal-code\">10024</span></span> </span> </span> </address>", "HotelID": "99292", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cFalse advertising, this place is nothing like the brochure or the sight!!!!\u201d",
+      "Author": "Natasha Wishuwe... S",
+      "ReviewID": "UR119358636",
+      "Content": "tiniest look feel dirty bathrooms hideous looks horror movie texas chain seriously tell smoking smoking fumes ambiance hotel ashamed yourselves advertising falsely upstairs looked shot basking ambiance hotel fit elevator friends carried handbags review mysteriously disappeared hotel reported bbb cause business false advertising confident cheaper 700 ridiculous mouse trapped money cancellation fees happened reservation hotel money cancellation fee happy motel 8 tractor trailor clean bathrooms poor option choose maybe tare miserable actualy website realy stay atleast called false advertising mean management runs hotel look seriously trip ny hotel gauge luckily holiday inn painted contrary hotel staff riverside painted cheaper empire building thanks natasha",
+      "Date": "2011-10-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Chicago",
+      "Title": "\u201cNo regrets. I'd stay here again.\u201d",
+      "Author": "cirejcon",
+      "ReviewID": "UR105389366",
+      "Content": "pros wont cheaper hotel close bedbugs tell nice neighborhood safe fridge market nearby cons pretty else front cant deal dirty bathroom share people dont stay probably dont stay romantic getaway predict romance getaway time afterwards otherwise york time spend hotel time youre wasting doing awesome pay pass exhaustion save money youll trip york teenage sons goes college ill honest jumped price hotelscom noticed reviews bathrooms cheap tempted eat nonrefundable rent book someplace decent easter weekend time decent 400night available hold people 2 suite stuck im glad time restaurant bill breath saved hotel youre youll surprised exists cities europe walls smooth dozens cut rate paint jobs fairly fridge beds comfortable rollaway looked wwii surplus nevertheless slept comfortably lucky door little alcove contains bathroom private tell else bathroom actually fairly clean maid clean day theres human glance tub looked absolutely filthy closer inspection actually mineral deposits decades dripping shower head own fridge theres decent market corner breakfast snacks lovely neighborhood steps hudson round corner trump block express subway stop walking distance central park broadway times square etc location location location fantastic weekend suffered hotel added couple stories",
+      "Date": "2011-04-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Austin, Texas",
+      "Title": "\u201cGreat neighborhood location and good value\u201d",
+      "Author": "Happytrails044",
+      "ReviewID": "UR84972303",
+      "Content": "enjoyed stay hotel caters students quiet safe clean staff helpful replying requests giving suggestions etc lucky found value didnt spend trip budget accommodations liked frig microwave eat breakfast hotel restaurants coffeeshops groceries nearby city diner favorite spot excellent food service",
+      "Date": "2010-10-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Oklahoma",
+      "Title": "\u201cGreat location, safe clean quiet neighborhood, yes I will stay again\u201d",
+      "Author": "OklahomaMikie",
+      "ReviewID": "UR82415450",
+      "Content": "york city pay im 40 yr female 65 yr mother bathroom clean hanging 24 hours day left 0900 returned 2000 bed shower tv mini fridge microwave night call didnt clean towels sent coffee morning coffee pots electric pot warm water instant local store nice round couple coffee cups day crew front desk nice evening crew biggest complaint called wake call morning flight set phone alarm received wake call arranged night car service pick 0600 front told 0630 call service 10 min stay yes clean safe quiet location",
+      "Date": "2010-10-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Cheshire, Connecticut",
+      "Title": "\u201cVery quiet-inexpensive\u201d",
+      "Author": "earthangel4u975",
+      "ReviewID": "UR66105362",
+      "Content": "looking plush hilton inexpensive stay york 2 private bathroom inbetween view hudson beautiful day night 3 blocks subway 2 blocks bagel zabars deli quiet neighborhood hotel quiet held bags day checked ready leave night night clerk helpful getting extra pillows towels fridge microwave added bonus coffeemaker slight disappointment planning staying",
+      "Date": "2010-06-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Riverside Hotel",
+    "HotelURL": "/ShowUserReviews-g60763-d99292-Reviews-Riverside_Hotel-New_York_City_New_York.html",
+    "Price": "$90 - $125*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">350 West 88th Street</span>, <span class=\"locality\"><span property=\"v:locality\">New York City</span>, <span property=\"v:region\">NY</span> <span property=\"v:postal-code\">10024</span></span> </span> </span> </address>",
+    "HotelID": "99292",
+    "ImgURL": ""
+  }
+}

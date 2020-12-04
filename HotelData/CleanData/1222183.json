@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Delhi", "Title": "\u201cExtremely helpful staff....nicely located\u201d", "Author": "backpackdesi", "ReviewID": "UR124959989", "Content": "tucked noise levels manhattan giving beautiful view city personal trip convenient reaching manhattan ie 40 mins officially 20 min subway ride wait train etc etc free shuttle subway helpful times chose walk distance neighborhood isnt exactly picturesque cemetery ny houses safe extremely safe starbucks fast food chains cose style market internet cafes breakfast average world bad bang buck", "Date": "2012-02-21 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Cincinnati, Ohio", "Title": "\u201cYou get what you pay for, plus a little.\u201d", "Author": "braumeister", "ReviewID": "UR121029575", "Content": "fairly quiet backwater town slightly rundown pretty clean hotel staff friendly yorkers complaints 20 minute walk subway offer shuttle service price decent stay visiting nyc", "Date": "2011-11-25 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Karur, India", "Title": "\u201ci will never recommend this to anyone\u201d", "Author": "Arunkarur", "ReviewID": "UR119933295", "Content": "horrible hotel priced location staffs friendly willing guide help clients worst breakfast cramp disposable plate cup dont feel eating menu repeat everyday", "Date": "2011-10-31 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Kuala Lumpur, Malaysia", "Title": "\u201cComfortable but be prepared to walk\u201d", "Author": "EngOnAPlane", "ReviewID": "UR80595171", "Content": "chose hotel due free parking cost tad acceptable labor day weekend service cold arrived busy day maybe improved tremendously lunch allowed check change twin double requested front desk friendly free cookies late afternoon comfy stocked amenities expect breakfast special tad 6am9am sleep catch friend selective liked maybe due feedback cost changed shuttle service taxi service day walk trip metro 15min walk recommend people stay late due quiet streets walk hotel station recommend people families ones single female travelers touristy spot nice charm overlook quiet beautiful cemetery architecture hotel", "Date": "2010-09-22 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Berlin, Germany", "Title": "\u201cok, great view though!\u201d", "Author": "ilovenyc77", "ReviewID": "UR72235040", "Content": "book short notice affordable dates located queens metro station reached walking 15 minutes theres train directly time square pretty easy city pretty except huge cemetary street beautiful pictures statues dont facing manhattan staircase photos manhattan skyline hotel relatively clean interior furniture breakfast theres free shuttle laguardia airport metro station dont carry luggage driver nice funny guy favourite dont expect", "Date": "2010-07-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Sheffield, United Kingdom", "Title": "\u201cAn excellent stay\u201d", "Author": "ekaltenthaler", "ReviewID": "UR63656297", "Content": "stranded york recent volcanic ash fiasco city view inn party 7 week unpleasant stay pleasant due treatment received city view inn immaculate women cleaned accomodating front desk staff extremely helpful hotel little center york fifteen minute walk subway hotel provides free transport fifteen minute walk restaurants definitely stay", "Date": "2010-05-09 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Panama", "Title": "\u201cRecession has affected the quality of service at the City View Inn\u201d", "Author": "lapetede", "ReviewID": "UR58150913", "Content": "hotel times pick laguardia airport pick metro station hot breakfast hotel van rid drivers try walk metro takes 30 minutes denies service airport included western hotels website guests manager metro station airport manager didnt due lack service pity hotel attentive corteous employees fault own impression hotel lacking tell phone manager client didnt honor website offer travel airport spend vacation beware anyway hotel anyway prepared argue mad guests doing heard english french german everyday adventure didnt taxi walk walk days six days beware taxi hotel tell include bags otherwise arguing taxi drivers travel suitcases taxi driver told coupon covered persons vacation travel soon arrived home checked website hotel offer transportation la guardia airport argue transportation metro station didnt times six maybe sheet printout hotel luck luck justification lack service cheaper rates", "Date": "2010-03-09 00:00:00"}], "HotelInfo": {"Name": "BEST WESTERN City View Inn Hotel", "HotelURL": "/ShowUserReviews-g60763-d1222183-Reviews-BEST_WESTERN_City_View_Inn_Hotel-New_York_City_New_York.html", "Price": "0", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3317 Greenpoint Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">New York City</span>, <span property=\"v:region\">NY</span> <span property=\"v:postal-code\">11101 </span></span> </span> </span> </address>", "HotelID": "1222183", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/d9/bd/41/best-western-city-view.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Delhi",
+      "Title": "\u201cExtremely helpful staff....nicely located\u201d",
+      "Author": "backpackdesi",
+      "ReviewID": "UR124959989",
+      "Content": "tucked noise levels manhattan giving beautiful view city personal trip convenient reaching manhattan ie 40 mins officially 20 min subway ride wait train etc etc free shuttle subway helpful times chose walk distance neighborhood isnt exactly picturesque cemetery ny houses safe extremely safe starbucks fast food chains cose style market internet cafes breakfast average world bad bang buck",
+      "Date": "2012-02-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Cincinnati, Ohio",
+      "Title": "\u201cYou get what you pay for, plus a little.\u201d",
+      "Author": "braumeister",
+      "ReviewID": "UR121029575",
+      "Content": "fairly quiet backwater town slightly rundown pretty clean hotel staff friendly yorkers complaints 20 minute walk subway offer shuttle service price decent stay visiting nyc",
+      "Date": "2011-11-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Karur, India",
+      "Title": "\u201ci will never recommend this to anyone\u201d",
+      "Author": "Arunkarur",
+      "ReviewID": "UR119933295",
+      "Content": "horrible hotel priced location staffs friendly willing guide help clients worst breakfast cramp disposable plate cup dont feel eating menu repeat everyday",
+      "Date": "2011-10-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Kuala Lumpur, Malaysia",
+      "Title": "\u201cComfortable but be prepared to walk\u201d",
+      "Author": "EngOnAPlane",
+      "ReviewID": "UR80595171",
+      "Content": "chose hotel due free parking cost tad acceptable labor day weekend service cold arrived busy day maybe improved tremendously lunch allowed check change twin double requested front desk friendly free cookies late afternoon comfy stocked amenities expect breakfast special tad 6am9am sleep catch friend selective liked maybe due feedback cost changed shuttle service taxi service day walk trip metro 15min walk recommend people stay late due quiet streets walk hotel station recommend people families ones single female travelers touristy spot nice charm overlook quiet beautiful cemetery architecture hotel",
+      "Date": "2010-09-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Berlin, Germany",
+      "Title": "\u201cok, great view though!\u201d",
+      "Author": "ilovenyc77",
+      "ReviewID": "UR72235040",
+      "Content": "book short notice affordable dates located queens metro station reached walking 15 minutes theres train directly time square pretty easy city pretty except huge cemetary street beautiful pictures statues dont facing manhattan staircase photos manhattan skyline hotel relatively clean interior furniture breakfast theres free shuttle laguardia airport metro station dont carry luggage driver nice funny guy favourite dont expect",
+      "Date": "2010-07-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Sheffield, United Kingdom",
+      "Title": "\u201cAn excellent stay\u201d",
+      "Author": "ekaltenthaler",
+      "ReviewID": "UR63656297",
+      "Content": "stranded york recent volcanic ash fiasco city view inn party 7 week unpleasant stay pleasant due treatment received city view inn immaculate women cleaned accomodating front desk staff extremely helpful hotel little center york fifteen minute walk subway hotel provides free transport fifteen minute walk restaurants definitely stay",
+      "Date": "2010-05-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Panama",
+      "Title": "\u201cRecession has affected the quality of service at the City View Inn\u201d",
+      "Author": "lapetede",
+      "ReviewID": "UR58150913",
+      "Content": "hotel times pick laguardia airport pick metro station hot breakfast hotel van rid drivers try walk metro takes 30 minutes denies service airport included western hotels website guests manager metro station airport manager didnt due lack service pity hotel attentive corteous employees fault own impression hotel lacking tell phone manager client didnt honor website offer travel airport spend vacation beware anyway hotel anyway prepared argue mad guests doing heard english french german everyday adventure didnt taxi walk walk days six days beware taxi hotel tell include bags otherwise arguing taxi drivers travel suitcases taxi driver told coupon covered persons vacation travel soon arrived home checked website hotel offer transportation la guardia airport argue transportation metro station didnt times six maybe sheet printout hotel luck luck justification lack service cheaper rates",
+      "Date": "2010-03-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "BEST WESTERN City View Inn Hotel",
+    "HotelURL": "/ShowUserReviews-g60763-d1222183-Reviews-BEST_WESTERN_City_View_Inn_Hotel-New_York_City_New_York.html",
+    "Price": "0",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3317 Greenpoint Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">New York City</span>, <span property=\"v:region\">NY</span> <span property=\"v:postal-code\">11101 </span></span> </span> </span> </address>",
+    "HotelID": "1222183",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/d9/bd/41/best-western-city-view.jpg"
+  }
+}

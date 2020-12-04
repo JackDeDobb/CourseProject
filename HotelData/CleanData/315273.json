@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Worcester, United Kingdom", "Title": "\u201cGreat location, cheap and cheerful\u201d", "Author": "Ramona2121 Posted by an OctopusTravel traveler", "ReviewID": "UR126725716", "Content": "simple hotel location stayed 4 nights time stairs steep guess hotels stairs comfortable breakfast fine stay time im amsterdam", "Date": "2012-03-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cGreat Location and friendly/helpful staff\u201d", "Author": "AEDoxsey", "ReviewID": "UR124575842", "Content": "yesterday 2 nights hotel stayed 202 front hotel arrived check time lady reception kindly leave bags whilst sight seeing 3 staff met reception equally friendly helpful plus hotel location museums restaurants bars clean tidy reasonably spacious plenty wardrobe space hairdryer 10 outside warm infact warm partner plenty hot water shower pressure breakfast mornings 5 euros breakfast breakfast morning expensive breakfast cold buffet meats cheeses smoked salmon bread hard boiled eggs toast fruit juice fruit tea coffee price perfectly acceptable start day staircase upto steep expect hotels amsterdam bathroom floor marble cold bath mat provided welcome addition teacoffee facilities visit hotel stay", "Date": "2012-02-14 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Helsinki, Finland", "Title": "\u201cVery nice, until they accused me of stealing a blanket.\u201d", "Author": "niina", "ReviewID": "UR84084595", "Content": "personally found location numerous clubs restaurants stores close hotel railway station bit impossible distance extremely difficulties fitting luggage bathroom door properly bed didnt minus didnt spend time anyway wished cleaned breakfast ok breakfast lot bigger staff nice helpful definitely happy hotel departure departure day checked left luggage hotel flight leave walk told following manager blaming stealing blanket beds shocked convinced mistake confess crime accused definitely reason steal blanket manager threatened call police blanket miss flight pay 40 euros blanket steal incident happy hotel definitely dont recommend else blamed stealing", "Date": "2010-10-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Virginia Beach, Virginia", "Title": "\u201cArt Gallery Hotel - All you need in Amsterdam\u201d", "Author": "LMCinVB", "ReviewID": "UR80840495", "Content": "stayed amsterdam 2 nights booking travel bound package hotel breakfast leidseplein couldnt perfect hotel conveniently located canal rijksmuseum 3 blocks leidseplein square 370 bus schiphol square 40 minutes 4 euro short jaunt bus stop tram stops square super easy trams 2 5 centraal damrak night auditor ramses super accomodating highly entertaining impressions godfather left stitches single located 2nd floor extra doorway dark short hall ann frank staying cupboard tended short amsterdam stay atmospheric bathroom past cupboard entryway clean neat pin entire hotel neat smallish european breakfast buffet ample nook lower basement simply perfect location easily walk square trams buses easily nearby canal tour pickup 12 block hotel boom chicago thoroughly enjoyed improv friendly staff easily cheaply rented bike mac bike 2 blocks hotel able cover entire vondelpark handily holland international canal tour enjoy staying art gallery hotel hope visit museums tour ill book entire week", "Date": "2010-09-24 00:00:00"}], "HotelInfo": {"Name": "Art Gallery Hotel", "HotelURL": "/ShowUserReviews-g188590-d315273-Reviews-Art_Gallery_Hotel-Amsterdam_Noord_Holland.html", "Price": "$91 - $207*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Weteringschans 67</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1017 RX</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>", "HotelID": "315273", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/1b/bf/1bbfd1655463933f5fd7665a00e11aca7large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Worcester, United Kingdom",
+      "Title": "\u201cGreat location, cheap and cheerful\u201d",
+      "Author": "Ramona2121 Posted by an OctopusTravel traveler",
+      "ReviewID": "UR126725716",
+      "Content": "simple hotel location stayed 4 nights time stairs steep guess hotels stairs comfortable breakfast fine stay time im amsterdam",
+      "Date": "2012-03-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cGreat Location and friendly/helpful staff\u201d",
+      "Author": "AEDoxsey",
+      "ReviewID": "UR124575842",
+      "Content": "yesterday 2 nights hotel stayed 202 front hotel arrived check time lady reception kindly leave bags whilst sight seeing 3 staff met reception equally friendly helpful plus hotel location museums restaurants bars clean tidy reasonably spacious plenty wardrobe space hairdryer 10 outside warm infact warm partner plenty hot water shower pressure breakfast mornings 5 euros breakfast breakfast morning expensive breakfast cold buffet meats cheeses smoked salmon bread hard boiled eggs toast fruit juice fruit tea coffee price perfectly acceptable start day staircase upto steep expect hotels amsterdam bathroom floor marble cold bath mat provided welcome addition teacoffee facilities visit hotel stay",
+      "Date": "2012-02-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Helsinki, Finland",
+      "Title": "\u201cVery nice, until they accused me of stealing a blanket.\u201d",
+      "Author": "niina",
+      "ReviewID": "UR84084595",
+      "Content": "personally found location numerous clubs restaurants stores close hotel railway station bit impossible distance extremely difficulties fitting luggage bathroom door properly bed didnt minus didnt spend time anyway wished cleaned breakfast ok breakfast lot bigger staff nice helpful definitely happy hotel departure departure day checked left luggage hotel flight leave walk told following manager blaming stealing blanket beds shocked convinced mistake confess crime accused definitely reason steal blanket manager threatened call police blanket miss flight pay 40 euros blanket steal incident happy hotel definitely dont recommend else blamed stealing",
+      "Date": "2010-10-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Virginia Beach, Virginia",
+      "Title": "\u201cArt Gallery Hotel - All you need in Amsterdam\u201d",
+      "Author": "LMCinVB",
+      "ReviewID": "UR80840495",
+      "Content": "stayed amsterdam 2 nights booking travel bound package hotel breakfast leidseplein couldnt perfect hotel conveniently located canal rijksmuseum 3 blocks leidseplein square 370 bus schiphol square 40 minutes 4 euro short jaunt bus stop tram stops square super easy trams 2 5 centraal damrak night auditor ramses super accomodating highly entertaining impressions godfather left stitches single located 2nd floor extra doorway dark short hall ann frank staying cupboard tended short amsterdam stay atmospheric bathroom past cupboard entryway clean neat pin entire hotel neat smallish european breakfast buffet ample nook lower basement simply perfect location easily walk square trams buses easily nearby canal tour pickup 12 block hotel boom chicago thoroughly enjoyed improv friendly staff easily cheaply rented bike mac bike 2 blocks hotel able cover entire vondelpark handily holland international canal tour enjoy staying art gallery hotel hope visit museums tour ill book entire week",
+      "Date": "2010-09-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Art Gallery Hotel",
+    "HotelURL": "/ShowUserReviews-g188590-d315273-Reviews-Art_Gallery_Hotel-Amsterdam_Noord_Holland.html",
+    "Price": "$91 - $207*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Weteringschans 67</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1017 RX</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>",
+    "HotelID": "315273",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/1b/bf/1bbfd1655463933f5fd7665a00e11aca7large.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Los Angeles", "Title": "\u201cHidden away and far away\u201d", "Author": "Beenaround73", "ReviewID": "UR127492848", "Content": "brother wife buddy stayed road trip italy 09 venice stop italy driving munich drove gps able arrived late evening little bit trouble finding cause hidden building main street drove till sign hotel decided walk narrow street confirmed hotel indeed brother park parking lot inside check exterior hotel looks 70s close train station heading town easy drove bridge parked parking structures island entering lobby feel luxurious hotel 80s luckily 80s colors lots black checkin process easy keys separate buddy shared double 2 size beds fit beds dresser tv bathroom simple elegant overdone cheap looking beds pillows linens towels comfy clean price enjoyed stay sisterinlaw neighborhood looked rundown home time advanced reservations island", "Date": "2012-04-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Ridge, New York", "Title": "\u201cLovely, elegant hotel!\u201d", "Author": "crazyfornaples", "ReviewID": "UR120392707", "Content": "hotel pleasant surprise reasonable price paid clean comfortable decent size soundproof breakfast lovely garden outside close pedestrian center mestre lots shops cafes close bus stop venice staff friendly helpful information airport taxis bring luggage perfect stay sightseeing venice hassel carrying luggage venice ten minute ride port definitely hotel", "Date": "2011-11-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Paphos, Cyprus", "Title": "\u201cFantastic find\u201d", "Author": "NickPaphos123", "ReviewID": "UR119781896", "Content": "family relocated hotel michelangelo previous hotel thankful hotel reasonably price located fantastic location walking distance restaurants cafes bus stops outside takes directly venice hotel winner", "Date": "2011-10-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cGreat location - close to Venice!!\u201d", "Author": "KSandZH", "ReviewID": "UR82711997", "Content": "stayed nights visiting venice bus stop bus venice 10 minute trip 2 minutes walk hotel recommend purchasing 12 hour 16 euros 24 hour 18 euros pass reception hotel bus venice water bus venice clean bed comfortable ac bathroom shower free secure parking premises shopping center local restaurants movie theater 10 minutes walking distance able catch movie town theater mestre venice international film festival ongoing breakfast served 7 11 morning female waitress friendly welcoming grumpy training customer service staff reception cleaners friendly helpful free speed internet stay perfect cost 5 euroshour hours enjoyed stay michelangelo stay", "Date": "2010-10-09 00:00:00"}], "HotelInfo": {"Name": "Michelangelo Hotel", "HotelURL": "/ShowUserReviews-g187870-d233147-Reviews-Michelangelo_Hotel-Venice_Veneto.html", "Price": "$86 - $139*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Forte Marghera, 69</span>, <span class=\"locality\"><span property=\"v:postal-code\">30173</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "233147", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e4/89/e48993063d544b752afeca80922bb8f127large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Los Angeles",
+      "Title": "\u201cHidden away and far away\u201d",
+      "Author": "Beenaround73",
+      "ReviewID": "UR127492848",
+      "Content": "brother wife buddy stayed road trip italy 09 venice stop italy driving munich drove gps able arrived late evening little bit trouble finding cause hidden building main street drove till sign hotel decided walk narrow street confirmed hotel indeed brother park parking lot inside check exterior hotel looks 70s close train station heading town easy drove bridge parked parking structures island entering lobby feel luxurious hotel 80s luckily 80s colors lots black checkin process easy keys separate buddy shared double 2 size beds fit beds dresser tv bathroom simple elegant overdone cheap looking beds pillows linens towels comfy clean price enjoyed stay sisterinlaw neighborhood looked rundown home time advanced reservations island",
+      "Date": "2012-04-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ridge, New York",
+      "Title": "\u201cLovely, elegant hotel!\u201d",
+      "Author": "crazyfornaples",
+      "ReviewID": "UR120392707",
+      "Content": "hotel pleasant surprise reasonable price paid clean comfortable decent size soundproof breakfast lovely garden outside close pedestrian center mestre lots shops cafes close bus stop venice staff friendly helpful information airport taxis bring luggage perfect stay sightseeing venice hassel carrying luggage venice ten minute ride port definitely hotel",
+      "Date": "2011-11-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Paphos, Cyprus",
+      "Title": "\u201cFantastic find\u201d",
+      "Author": "NickPaphos123",
+      "ReviewID": "UR119781896",
+      "Content": "family relocated hotel michelangelo previous hotel thankful hotel reasonably price located fantastic location walking distance restaurants cafes bus stops outside takes directly venice hotel winner",
+      "Date": "2011-10-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cGreat location - close to Venice!!\u201d",
+      "Author": "KSandZH",
+      "ReviewID": "UR82711997",
+      "Content": "stayed nights visiting venice bus stop bus venice 10 minute trip 2 minutes walk hotel recommend purchasing 12 hour 16 euros 24 hour 18 euros pass reception hotel bus venice water bus venice clean bed comfortable ac bathroom shower free secure parking premises shopping center local restaurants movie theater 10 minutes walking distance able catch movie town theater mestre venice international film festival ongoing breakfast served 7 11 morning female waitress friendly welcoming grumpy training customer service staff reception cleaners friendly helpful free speed internet stay perfect cost 5 euroshour hours enjoyed stay michelangelo stay",
+      "Date": "2010-10-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Michelangelo Hotel",
+    "HotelURL": "/ShowUserReviews-g187870-d233147-Reviews-Michelangelo_Hotel-Venice_Veneto.html",
+    "Price": "$86 - $139*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Forte Marghera, 69</span>, <span class=\"locality\"><span property=\"v:postal-code\">30173</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "233147",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e4/89/e48993063d544b752afeca80922bb8f127large.jpg"
+  }
+}

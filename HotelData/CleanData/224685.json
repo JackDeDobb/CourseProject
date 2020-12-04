@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Vancouver, Canada", "Title": "\u201cBeautiful views...\u201d", "Author": "Jill-Een", "ReviewID": "UR125961146", "Content": "vancouver north facing looked city mountains water nice didnt club intrawest feeling club feeling specifically weve experienced club locations beautiful town location walking distance venues including gastown rain didnt notice free perks snacks coffee ive seen locations", "Date": "2012-03-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Alberta", "Title": "\u201cRoom With a View...\u201d", "Author": "TamandTomAlberta", "ReviewID": "UR125604715", "Content": "month stay december 1 bedroom2 bathroom clean comfortable husband especially loved view windows literally ceiling floor bedroom living view city amazing 30th floor sheraton wall center internet free internet service parking costly mind downtown vancouver parking expensive begin price ouch front desk staff lovely lovely lovely served various individuals service location heart vancouver walking distance lot shopping restaurants overall husband loved stay vancouver club intrawest property definitely future remember factor price parking overall expense staying", "Date": "2012-03-04 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Seattle", "Title": "\u201cGood value in a good location\u201d", "Author": "chrnic25", "ReviewID": "UR124453864", "Content": "spent night intrawest wall centre experience choose hotel friends staying street timeshare withing walking distance attractions stores studio provided ample space 2 people closet bathroom kitchenette wall ceiling windows provided amazing views negatives 28night parking fee include privileges repair bathroom ceiling finished properly bathroom feel bit shabby overall hesitant recommend hotel looking comfortable convenient location", "Date": "2012-02-11 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Calgary", "Title": "\u201cNoisy neighbours distract from an otherwise great stay\u201d", "Author": "cmbtraveller", "ReviewID": "UR122070817", "Content": "stayed intrawest wall centre previously recent visit stressful disappointing people staying concrete building extremely noisy loud music late partying night dragging furniture floor hours day banging inside drum sometimes mentioned duty concierge reception deal situation 4 nights past club intrawest people respectful considerate ive heard allow sheraton rent club intrawest public", "Date": "2011-12-24 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "philadelphia, pa", "Title": "\u201cGreat Downtown Location\u201d", "Author": "respbill020", "ReviewID": "UR68657516", "Content": "stayed based reviews site disappointed hotel downtown walk shopping restaurants water taxi granville island short walk club separate keys floors stayed studio kitchen nice eating breakfast bathroom walk shower floor ceiling windows views city timeshare cleaned 4th day unless pay extra getting extra towels coffee packs iga grocery close lots eat didnt parking pool staff helpful storing bags getting key concierge club booking tours", "Date": "2010-06-25 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Vancouver, BC, Canada", "Title": "\u201cNot as good as it seemed\u201d", "Author": "Altezza", "ReviewID": "UR63578299", "Content": "expectation advertisment location noticed hot tub steamroom shutdown due health concerns spafitness staff friendly especially knowing timeshare guests heating system noisy short cycling heater constantly setting temp 20 degree bed mattress worned tv poor cable reception", "Date": "2010-05-08 00:00:00"}], "HotelInfo": {"Name": "Club Intrawest - Vancouver", "HotelURL": "/ShowUserReviews-g154943-d224685-Reviews-Club_Intrawest_Vancouver-Vancouver_British_Columbia.html", "Price": "$160 - $285*", "Address": "<div class=\"wrap_bl wrap\">", "HotelID": "224685", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/86/8f/868f5c1cdb391b42150b6614f373128c3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Vancouver, Canada",
+      "Title": "\u201cBeautiful views...\u201d",
+      "Author": "Jill-Een",
+      "ReviewID": "UR125961146",
+      "Content": "vancouver north facing looked city mountains water nice didnt club intrawest feeling club feeling specifically weve experienced club locations beautiful town location walking distance venues including gastown rain didnt notice free perks snacks coffee ive seen locations",
+      "Date": "2012-03-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Alberta",
+      "Title": "\u201cRoom With a View...\u201d",
+      "Author": "TamandTomAlberta",
+      "ReviewID": "UR125604715",
+      "Content": "month stay december 1 bedroom2 bathroom clean comfortable husband especially loved view windows literally ceiling floor bedroom living view city amazing 30th floor sheraton wall center internet free internet service parking costly mind downtown vancouver parking expensive begin price ouch front desk staff lovely lovely lovely served various individuals service location heart vancouver walking distance lot shopping restaurants overall husband loved stay vancouver club intrawest property definitely future remember factor price parking overall expense staying",
+      "Date": "2012-03-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Seattle",
+      "Title": "\u201cGood value in a good location\u201d",
+      "Author": "chrnic25",
+      "ReviewID": "UR124453864",
+      "Content": "spent night intrawest wall centre experience choose hotel friends staying street timeshare withing walking distance attractions stores studio provided ample space 2 people closet bathroom kitchenette wall ceiling windows provided amazing views negatives 28night parking fee include privileges repair bathroom ceiling finished properly bathroom feel bit shabby overall hesitant recommend hotel looking comfortable convenient location",
+      "Date": "2012-02-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Calgary",
+      "Title": "\u201cNoisy neighbours distract from an otherwise great stay\u201d",
+      "Author": "cmbtraveller",
+      "ReviewID": "UR122070817",
+      "Content": "stayed intrawest wall centre previously recent visit stressful disappointing people staying concrete building extremely noisy loud music late partying night dragging furniture floor hours day banging inside drum sometimes mentioned duty concierge reception deal situation 4 nights past club intrawest people respectful considerate ive heard allow sheraton rent club intrawest public",
+      "Date": "2011-12-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "philadelphia, pa",
+      "Title": "\u201cGreat Downtown Location\u201d",
+      "Author": "respbill020",
+      "ReviewID": "UR68657516",
+      "Content": "stayed based reviews site disappointed hotel downtown walk shopping restaurants water taxi granville island short walk club separate keys floors stayed studio kitchen nice eating breakfast bathroom walk shower floor ceiling windows views city timeshare cleaned 4th day unless pay extra getting extra towels coffee packs iga grocery close lots eat didnt parking pool staff helpful storing bags getting key concierge club booking tours",
+      "Date": "2010-06-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Vancouver, BC, Canada",
+      "Title": "\u201cNot as good as it seemed\u201d",
+      "Author": "Altezza",
+      "ReviewID": "UR63578299",
+      "Content": "expectation advertisment location noticed hot tub steamroom shutdown due health concerns spafitness staff friendly especially knowing timeshare guests heating system noisy short cycling heater constantly setting temp 20 degree bed mattress worned tv poor cable reception",
+      "Date": "2010-05-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Club Intrawest - Vancouver",
+    "HotelURL": "/ShowUserReviews-g154943-d224685-Reviews-Club_Intrawest_Vancouver-Vancouver_British_Columbia.html",
+    "Price": "$160 - $285*",
+    "Address": "<div class=\"wrap_bl wrap\">",
+    "HotelID": "224685",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/86/8f/868f5c1cdb391b42150b6614f373128c3large.jpg"
+  }
+}

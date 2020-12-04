@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Yorkshire", "Title": "\u201cGreat value for money\u201d", "Author": "yorkshireVal", "ReviewID": "UR123569169", "Content": "friends weekend stayed nights loved huge single beds clean lovely white bedding strip beds leaving mattress pillows spotless breakfast plenty choice location road charlottenburg sbahn station hang time table bought tickets hotel reception staff brilliant helpful night decided drink decided nibbles 1000 little bar hotel told 30mins phone rung nice shower lovely warm step getting slippery value money", "Date": "2012-01-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Eindhoven, The Netherlands", "Title": "\u201cGreat staff, comfortable hotel\u201d", "Author": "supersharma", "ReviewID": "UR122171021", "Content": "located charlottenburg sbahn station noted little hotel worth money spend wife stayed nights loved day separate beds wed double bed apologised mistake morning huge kingsize bed clean wellmaintained breakfast standard decent owner presume nice lady helpful cheerful due christmas location berlins main station couple sbahn stops kurfurstendamm kilometre locations alexanderplatz potsdamer platz friedrichstrasse easily buy day tickets public transport berlin welcome card hotel reception close hotel turkish eateries till midnight theres 24hour supermarket metres owned russians except decent value money calm easily hustle bustle berlin mitte", "Date": "2011-12-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Hitchin, United Kingdom", "Title": "\u201cFriendly, small good value hotel in a good location in Berlin.\u201d", "Author": "inselufer", "ReviewID": "UR86753052", "Content": "staying hotel 23 times sometimes trip berlin 2004 enjoyed staying feel welcome owners staff gone welcome feel home brought friends occasions returning friends shortly excellent breakfast catering tastes nationalities", "Date": "2010-11-11 00:00:00"}], "HotelInfo": {"Name": "City Pension Berlin", "HotelURL": "/ShowUserReviews-g187323-d234921-Reviews-City_Pension_Berlin-Berlin.html", "Price": "$46 - $97*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Stuttgarter Platz 9</span> | <span class=\"extended-address\">Charlottenburg</span>, <span class=\"locality\"><span property=\"v:postal-code\">10627</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "234921", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/35/d7/35d7b4f2149f090cf4a3312a4a3e36a95large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Yorkshire",
+      "Title": "\u201cGreat value for money\u201d",
+      "Author": "yorkshireVal",
+      "ReviewID": "UR123569169",
+      "Content": "friends weekend stayed nights loved huge single beds clean lovely white bedding strip beds leaving mattress pillows spotless breakfast plenty choice location road charlottenburg sbahn station hang time table bought tickets hotel reception staff brilliant helpful night decided drink decided nibbles 1000 little bar hotel told 30mins phone rung nice shower lovely warm step getting slippery value money",
+      "Date": "2012-01-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Eindhoven, The Netherlands",
+      "Title": "\u201cGreat staff, comfortable hotel\u201d",
+      "Author": "supersharma",
+      "ReviewID": "UR122171021",
+      "Content": "located charlottenburg sbahn station noted little hotel worth money spend wife stayed nights loved day separate beds wed double bed apologised mistake morning huge kingsize bed clean wellmaintained breakfast standard decent owner presume nice lady helpful cheerful due christmas location berlins main station couple sbahn stops kurfurstendamm kilometre locations alexanderplatz potsdamer platz friedrichstrasse easily buy day tickets public transport berlin welcome card hotel reception close hotel turkish eateries till midnight theres 24hour supermarket metres owned russians except decent value money calm easily hustle bustle berlin mitte",
+      "Date": "2011-12-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Hitchin, United Kingdom",
+      "Title": "\u201cFriendly, small good value hotel in a good location in Berlin.\u201d",
+      "Author": "inselufer",
+      "ReviewID": "UR86753052",
+      "Content": "staying hotel 23 times sometimes trip berlin 2004 enjoyed staying feel welcome owners staff gone welcome feel home brought friends occasions returning friends shortly excellent breakfast catering tastes nationalities",
+      "Date": "2010-11-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "City Pension Berlin",
+    "HotelURL": "/ShowUserReviews-g187323-d234921-Reviews-City_Pension_Berlin-Berlin.html",
+    "Price": "$46 - $97*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Stuttgarter Platz 9</span> | <span class=\"extended-address\">Charlottenburg</span>, <span class=\"locality\"><span property=\"v:postal-code\">10627</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "234921",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/35/d7/35d7b4f2149f090cf4a3312a4a3e36a95large.jpg"
+  }
+}

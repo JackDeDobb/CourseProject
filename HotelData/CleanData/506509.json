@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "St. Petersburg, Russia", "Title": "\u201cMuch less than expected\u201d", "Author": "vasj", "ReviewID": "UR119864697", "Content": "ready 3 star service prepare yourself average 1 star hotel enjoy positive hotel provides actually starting location 2 lines subway rome hotel walking distance metrostation plus 4 stops exact center city district nice lacks cafes restaurants renovation soon huge balcony beautiful view breakfast serve start day little bit various main disappointment frontdesk welcome info city guidance ought ourselves 3 days simply bring tv variants choose dont expect regina margherita", "Date": "2011-10-29 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "", "Title": "\u201cFailed to provide expected facilities.\u201d", "Author": "Ograva", "ReviewID": "UR118636227", "Content": "understand price paid experience 1st floor beside noisy street time ac apparently repair floor workers crowding alleyway outside door heat noise unbearable complained none available wife decided pack bags look accommodation found leaving suddenly available 2nd 4th floor miracle trying stick crappy left anyway worse charged night 2 hours spent worst start visit rome", "Date": "2011-09-26 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Walbrzych, Poland", "Title": "\u201cDirty 1-star hotel\u201d", "Author": "parasso", "ReviewID": "UR91209953", "Content": "3stars hotel opinion 1star size double 78 square meters website shown probably triple double dirty walls bedspread bathroom ceiling overall impression uncleanliness change bigger clean guy reception told day day guy told conditions stay 4 nights moreover dark secured sound outside hotel heard discussed people sounds canteen breakfasts poor sweet terrible instant coffee coffee machine spend hotel 2 days breakfast humdrum cleaned day sheets towels etc woman cleans meantime services breakfasts reservation venerecom written availability internet free charge recetion told pay shown reservation recommend hotel money hotel maybe little center condition stay hotel close main attractions underground hotel hot shower butter breakfasts", "Date": "2010-12-31 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "ATHENS", "Title": "\u201cComfortable hotel, good for it's value.\u201d", "Author": "BLUERED", "ReviewID": "UR80406417", "Content": "booked hotel mind sleep intention spending time hotel cheap near attractions metro arrival hotel looked little worn tiny receptionlounge included bar sorts drink friend paid attention hotels description informed actually villa hotel interior wasn\u2019t cheap looking little tired lounge offered lcd tv screen spoke italian ceilings kept wooden floors walls waist hight wooden paneling rest painted nice white ground floor didn\u2019t noise restful sleep 2 twin beds comfortable didn\u2019t morning nice wooden wardrobe flat screen tv mounted wall comfortable vanity desk mirror lighting inadequate applying makeup window electric switch raised lowered blinds air conditioning arrived manager told time start producing cold air left leaving returned tiresome day lovely cool spacious bathroom nice sink counter decorated white carved tiles stand shower terrific shower head plenty hot water bidet elevated toilet knee friendly housecleaning changed towels daily replenished hotel toiletries breakfast pleasant various assortment fresh croissants plain filled cream chocolate fresh bread rolls corn flakes choco pops individual packets chocolate spread various flavored yogurts fresh milk coffee machine offering various types coffee juices various receptionists friendly speaking tour assistance chose create own tours decide airport shuttle service hotel 2250 euros person delighted ride black limo worth expense airport distance metro train location excellent bus station directly outside hotel metro block hotels exact location sense shops nearby district filled villas painted color complimenting don\u2019t fooled lively shopping district bus terminal couple blocks look shoulder time travelling rome returning late night happily recommend hotel quaint clean comfortable prices excellent hotel\u2019s location it\u2019s middle attractions thank regina margherita lovely stay definitely stay hotel trip", "Date": "2010-09-21 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cGood location but average hotel\u201d", "Author": "furb71", "ReviewID": "UR72952952", "Content": "hotel offered free parking couple stops metro city centre neighbourhood short shops amenities service pleasant minimal pretty basic tv shower caused flood poorly built comfortable special", "Date": "2010-07-30 00:00:00"}], "HotelInfo": {"Name": "Hotel Regina Margherita", "HotelURL": "/ShowUserReviews-g187791-d506509-Reviews-Hotel_Regina_Margherita-Rome_Lazio.html", "Price": "$53 - $115*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Bari 3</span>, <span class=\"locality\"><span property=\"v:postal-code\">00161</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "506509", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/65/05/6505eed77b913a3d4a25f34389aa3ef31large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "St. Petersburg, Russia",
+      "Title": "\u201cMuch less than expected\u201d",
+      "Author": "vasj",
+      "ReviewID": "UR119864697",
+      "Content": "ready 3 star service prepare yourself average 1 star hotel enjoy positive hotel provides actually starting location 2 lines subway rome hotel walking distance metrostation plus 4 stops exact center city district nice lacks cafes restaurants renovation soon huge balcony beautiful view breakfast serve start day little bit various main disappointment frontdesk welcome info city guidance ought ourselves 3 days simply bring tv variants choose dont expect regina margherita",
+      "Date": "2011-10-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cFailed to provide expected facilities.\u201d",
+      "Author": "Ograva",
+      "ReviewID": "UR118636227",
+      "Content": "understand price paid experience 1st floor beside noisy street time ac apparently repair floor workers crowding alleyway outside door heat noise unbearable complained none available wife decided pack bags look accommodation found leaving suddenly available 2nd 4th floor miracle trying stick crappy left anyway worse charged night 2 hours spent worst start visit rome",
+      "Date": "2011-09-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Walbrzych, Poland",
+      "Title": "\u201cDirty 1-star hotel\u201d",
+      "Author": "parasso",
+      "ReviewID": "UR91209953",
+      "Content": "3stars hotel opinion 1star size double 78 square meters website shown probably triple double dirty walls bedspread bathroom ceiling overall impression uncleanliness change bigger clean guy reception told day day guy told conditions stay 4 nights moreover dark secured sound outside hotel heard discussed people sounds canteen breakfasts poor sweet terrible instant coffee coffee machine spend hotel 2 days breakfast humdrum cleaned day sheets towels etc woman cleans meantime services breakfasts reservation venerecom written availability internet free charge recetion told pay shown reservation recommend hotel money hotel maybe little center condition stay hotel close main attractions underground hotel hot shower butter breakfasts",
+      "Date": "2010-12-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "ATHENS",
+      "Title": "\u201cComfortable hotel, good for it's value.\u201d",
+      "Author": "BLUERED",
+      "ReviewID": "UR80406417",
+      "Content": "booked hotel mind sleep intention spending time hotel cheap near attractions metro arrival hotel looked little worn tiny receptionlounge included bar sorts drink friend paid attention hotels description informed actually villa hotel interior wasn\u2019t cheap looking little tired lounge offered lcd tv screen spoke italian ceilings kept wooden floors walls waist hight wooden paneling rest painted nice white ground floor didn\u2019t noise restful sleep 2 twin beds comfortable didn\u2019t morning nice wooden wardrobe flat screen tv mounted wall comfortable vanity desk mirror lighting inadequate applying makeup window electric switch raised lowered blinds air conditioning arrived manager told time start producing cold air left leaving returned tiresome day lovely cool spacious bathroom nice sink counter decorated white carved tiles stand shower terrific shower head plenty hot water bidet elevated toilet knee friendly housecleaning changed towels daily replenished hotel toiletries breakfast pleasant various assortment fresh croissants plain filled cream chocolate fresh bread rolls corn flakes choco pops individual packets chocolate spread various flavored yogurts fresh milk coffee machine offering various types coffee juices various receptionists friendly speaking tour assistance chose create own tours decide airport shuttle service hotel 2250 euros person delighted ride black limo worth expense airport distance metro train location excellent bus station directly outside hotel metro block hotels exact location sense shops nearby district filled villas painted color complimenting don\u2019t fooled lively shopping district bus terminal couple blocks look shoulder time travelling rome returning late night happily recommend hotel quaint clean comfortable prices excellent hotel\u2019s location it\u2019s middle attractions thank regina margherita lovely stay definitely stay hotel trip",
+      "Date": "2010-09-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cGood location but average hotel\u201d",
+      "Author": "furb71",
+      "ReviewID": "UR72952952",
+      "Content": "hotel offered free parking couple stops metro city centre neighbourhood short shops amenities service pleasant minimal pretty basic tv shower caused flood poorly built comfortable special",
+      "Date": "2010-07-30 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Regina Margherita",
+    "HotelURL": "/ShowUserReviews-g187791-d506509-Reviews-Hotel_Regina_Margherita-Rome_Lazio.html",
+    "Price": "$53 - $115*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Bari 3</span>, <span class=\"locality\"><span property=\"v:postal-code\">00161</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "506509",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/65/05/6505eed77b913a3d4a25f34389aa3ef31large.jpg"
+  }
+}

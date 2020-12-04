@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "New Braunfels, Texas", "Title": "\u201cGreat Hotels Come in Small Packages\u201d", "Author": "viajerafeliz53", "ReviewID": "UR103081411", "Content": "hotel specially price hotel close coliseum metro station main attractions street grocery store corner found eat staff friendly helpful arrive morning stored luggage hotel check time ready picked stay thoroughly enjoyed breakfast quaint hotel loved mosaic tiled floors", "Date": "2011-04-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Austin, Texas", "Title": "\u201cCharming Boutique Hotel\u201d", "Author": "512TexasTraveler", "ReviewID": "UR102963515", "Content": "charming boutique hotel located rome especially spend time walking sightseeing love location owner staff extremely friendly polite location opportunity walk restaurants night grocery store snack change money corner begin day magnificent sights rome colosseum 140 home sight fairly 3 people consider bathroom remodeling antique house nicely decorated clean outlet american plugs stay connected free wifi available lobby head breakfast check frescoes decor fitting location little appreciate hotel continental breakfast delicious exactly expected italy perfect start day", "Date": "2011-04-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Boston, Massachusetts", "Title": "\u201cGreat location, welcoming hosts, comfortable room\u201d", "Author": "kathleeni60", "ReviewID": "UR81700121", "Content": "hotel gem tastefully decorated comfortable beds clean bathroom towels personal rating indicator little outside courtyard read sipped wine dinner chatted staff friendly helpful restaurant travel tips accommodatingthe location block colosseum forum metro convenient", "Date": "2010-10-01 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 5.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Calgary, Canada", "Title": "\u201cWorst hotel experience ever - read all the reviews before you book.\u201d", "Author": "Mauilover_9", "ReviewID": "UR76357683", "Content": "arrived hotel tired hot traveling train northern italy reception desk brusque indifferent name start yelled son putting backpack couch beside fair continue berate demanding pieces photo id dont suddenly irate 5 passports booked booked hotels italy getting mistakenly renting spacious quadruple family apartment cot added irritated copier wasnt properly couldnt copy passports explained obviously wrong rectify situation getting mumbled grumbled quad prodding single 140 euros agreed checked online found rate 96 120 euro swelteringly hot single horrible mildew smell bathroom called spacious family quad normal 3 beds packed figured day handle ac wasnt sleep wife talk heat control switch underneath desk booked hotel ac stopped kids couldnt sleep morning tired rested unlike reviews found breakfast exactly advertised continental breakfast server antonella nice night sweltering ac wife talk insisted checking kids lying beds shorts totally lethargic declared wasnt hot couldnt cold satisfy canadians yeah obviously hasnt toronto summer check internet wasnt picked supposedly ac internet day wife told leaving told couldnt arguing speak owner told owner roberto unavailable russia continued press suddenly able phone guy dealing rude compared roberto minute talking wife air conditioned replied maybe sprinkle rose petals ground walk wife replied considered nice fair person didnt comment unwarranted insisted couldnt leave charge visa nights negotiated settled reluctantly paying third night contract beware visa cost additional 190 euros leave hated pay worth finally enjoy rome hotel real ac pleasant staff roberto told wife couldnt care negative reviews loyal repeat customers thats explains reviews chance getting terrible customer service hotels value business life cant understand hotel rating list street hotel lancelot hotel capo dafrica wonderful alternatives location excellent colliseum restaurants tourist traps gems", "Date": "2010-08-22 00:00:00"}], "HotelInfo": {"Name": "Celio Hotel", "HotelURL": "/ShowUserReviews-g187791-d238028-Reviews-Celio_Hotel-Rome_Lazio.html", "Price": "$158 - $290*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via dei Santissimi Quattro 35/c</span>, <span class=\"locality\"><span property=\"v:postal-code\">00184</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "238028", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/76/02/7602fe131cb81b0e669b69a5b27a4d841large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "New Braunfels, Texas",
+      "Title": "\u201cGreat Hotels Come in Small Packages\u201d",
+      "Author": "viajerafeliz53",
+      "ReviewID": "UR103081411",
+      "Content": "hotel specially price hotel close coliseum metro station main attractions street grocery store corner found eat staff friendly helpful arrive morning stored luggage hotel check time ready picked stay thoroughly enjoyed breakfast quaint hotel loved mosaic tiled floors",
+      "Date": "2011-04-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Austin, Texas",
+      "Title": "\u201cCharming Boutique Hotel\u201d",
+      "Author": "512TexasTraveler",
+      "ReviewID": "UR102963515",
+      "Content": "charming boutique hotel located rome especially spend time walking sightseeing love location owner staff extremely friendly polite location opportunity walk restaurants night grocery store snack change money corner begin day magnificent sights rome colosseum 140 home sight fairly 3 people consider bathroom remodeling antique house nicely decorated clean outlet american plugs stay connected free wifi available lobby head breakfast check frescoes decor fitting location little appreciate hotel continental breakfast delicious exactly expected italy perfect start day",
+      "Date": "2011-04-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Boston, Massachusetts",
+      "Title": "\u201cGreat location, welcoming hosts, comfortable room\u201d",
+      "Author": "kathleeni60",
+      "ReviewID": "UR81700121",
+      "Content": "hotel gem tastefully decorated comfortable beds clean bathroom towels personal rating indicator little outside courtyard read sipped wine dinner chatted staff friendly helpful restaurant travel tips accommodatingthe location block colosseum forum metro convenient",
+      "Date": "2010-10-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 5.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Calgary, Canada",
+      "Title": "\u201cWorst hotel experience ever - read all the reviews before you book.\u201d",
+      "Author": "Mauilover_9",
+      "ReviewID": "UR76357683",
+      "Content": "arrived hotel tired hot traveling train northern italy reception desk brusque indifferent name start yelled son putting backpack couch beside fair continue berate demanding pieces photo id dont suddenly irate 5 passports booked booked hotels italy getting mistakenly renting spacious quadruple family apartment cot added irritated copier wasnt properly couldnt copy passports explained obviously wrong rectify situation getting mumbled grumbled quad prodding single 140 euros agreed checked online found rate 96 120 euro swelteringly hot single horrible mildew smell bathroom called spacious family quad normal 3 beds packed figured day handle ac wasnt sleep wife talk heat control switch underneath desk booked hotel ac stopped kids couldnt sleep morning tired rested unlike reviews found breakfast exactly advertised continental breakfast server antonella nice night sweltering ac wife talk insisted checking kids lying beds shorts totally lethargic declared wasnt hot couldnt cold satisfy canadians yeah obviously hasnt toronto summer check internet wasnt picked supposedly ac internet day wife told leaving told couldnt arguing speak owner told owner roberto unavailable russia continued press suddenly able phone guy dealing rude compared roberto minute talking wife air conditioned replied maybe sprinkle rose petals ground walk wife replied considered nice fair person didnt comment unwarranted insisted couldnt leave charge visa nights negotiated settled reluctantly paying third night contract beware visa cost additional 190 euros leave hated pay worth finally enjoy rome hotel real ac pleasant staff roberto told wife couldnt care negative reviews loyal repeat customers thats explains reviews chance getting terrible customer service hotels value business life cant understand hotel rating list street hotel lancelot hotel capo dafrica wonderful alternatives location excellent colliseum restaurants tourist traps gems",
+      "Date": "2010-08-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Celio Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d238028-Reviews-Celio_Hotel-Rome_Lazio.html",
+    "Price": "$158 - $290*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via dei Santissimi Quattro 35/c</span>, <span class=\"locality\"><span property=\"v:postal-code\">00184</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "238028",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/76/02/7602fe131cb81b0e669b69a5b27a4d841large.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Hong Kong", "Title": "\u201cExcellent location, modern and cozy\u201d", "Author": "QQM", "ReviewID": "UR122545555", "Content": "stayed deluxe triple nights hotel location modern clean bathroom travelled 3yearold boy arrived bathrobe extra bed bed rail sweet love hotel recommend friends", "Date": "2012-01-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Cyprus", "Title": "\u201cLocation, comfort and reasonable prices (for Venice)\u201d", "Author": "Scordis", "ReviewID": "UR122522836", "Content": "hotel cheap extremely expensive venice standards represents value location perfect 5 minutes st marks bit rialto huge triple 6yo daughter luxurious clean breakfast reasonable spa sauna jacuzzi steam bath staff personable helpful major disappointment relates spa reservation 30 minutes time patently little time", "Date": "2012-01-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Boston", "Title": "\u201cLoved Venice\u201d", "Author": "Sapphireprincess065", "ReviewID": "UR120583899", "Content": "wonderful nights palace looked canal hear gondolas restaurant hotel breakfast buffet sitting outside watching gondolas ideal location middle st marks square recommend hotel goes venice", "Date": "2011-11-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Cluj-Napoca, Romania", "Title": "\u201cGreat location - lousy room assignment\u201d", "Author": "gmsmithsf", "ReviewID": "UR103864339", "Content": "hard beat location midway rialto bridge san marco plaza hotel beautiful maintained inside staff pleasant knowledgeable english buffet breakfast excellent wide variety items excellent wait staff expect expensive 4 star hotel arrived flight hotel 9am expected told hotel booked ready noon 2 hours normal checkin left luggage toured noon handicapped equipped bed pushed wall person crawl getting bed bathroom outfitted bars rails running obstacle course shower tub simply space toilet practical forward thinking handicapped people hotel complain suppose assigned comfortable hotel checkout mentioned didnt gentleman changed checkin hotel remarked true moved following day didnt book expensive hotel deluxe repack move night 3 night stay booked weeks advance check assume assigned worst didnt book directly hotel bookingcom recommend hotel demand decent", "Date": "2011-04-13 00:00:00"}], "HotelInfo": {"Name": "Palace Bonvecchiati (deluxe Rooms)", "HotelURL": "/ShowUserReviews-g187870-d1217953-Reviews-Palace_Bonvecchiati_deluxe_Rooms-Venice_Veneto.html", "Price": "$326 - $660*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">San Marco 4680</span>, <span class=\"locality\"><span property=\"v:postal-code\">30124</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "1217953", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Hong Kong",
+      "Title": "\u201cExcellent location, modern and cozy\u201d",
+      "Author": "QQM",
+      "ReviewID": "UR122545555",
+      "Content": "stayed deluxe triple nights hotel location modern clean bathroom travelled 3yearold boy arrived bathrobe extra bed bed rail sweet love hotel recommend friends",
+      "Date": "2012-01-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Cyprus",
+      "Title": "\u201cLocation, comfort and reasonable prices (for Venice)\u201d",
+      "Author": "Scordis",
+      "ReviewID": "UR122522836",
+      "Content": "hotel cheap extremely expensive venice standards represents value location perfect 5 minutes st marks bit rialto huge triple 6yo daughter luxurious clean breakfast reasonable spa sauna jacuzzi steam bath staff personable helpful major disappointment relates spa reservation 30 minutes time patently little time",
+      "Date": "2012-01-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Boston",
+      "Title": "\u201cLoved Venice\u201d",
+      "Author": "Sapphireprincess065",
+      "ReviewID": "UR120583899",
+      "Content": "wonderful nights palace looked canal hear gondolas restaurant hotel breakfast buffet sitting outside watching gondolas ideal location middle st marks square recommend hotel goes venice",
+      "Date": "2011-11-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Cluj-Napoca, Romania",
+      "Title": "\u201cGreat location - lousy room assignment\u201d",
+      "Author": "gmsmithsf",
+      "ReviewID": "UR103864339",
+      "Content": "hard beat location midway rialto bridge san marco plaza hotel beautiful maintained inside staff pleasant knowledgeable english buffet breakfast excellent wide variety items excellent wait staff expect expensive 4 star hotel arrived flight hotel 9am expected told hotel booked ready noon 2 hours normal checkin left luggage toured noon handicapped equipped bed pushed wall person crawl getting bed bathroom outfitted bars rails running obstacle course shower tub simply space toilet practical forward thinking handicapped people hotel complain suppose assigned comfortable hotel checkout mentioned didnt gentleman changed checkin hotel remarked true moved following day didnt book expensive hotel deluxe repack move night 3 night stay booked weeks advance check assume assigned worst didnt book directly hotel bookingcom recommend hotel demand decent",
+      "Date": "2011-04-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Palace Bonvecchiati (deluxe Rooms)",
+    "HotelURL": "/ShowUserReviews-g187870-d1217953-Reviews-Palace_Bonvecchiati_deluxe_Rooms-Venice_Veneto.html",
+    "Price": "$326 - $660*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">San Marco 4680</span>, <span class=\"locality\"><span property=\"v:postal-code\">30124</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "1217953",
+    "ImgURL": ""
+  }
+}

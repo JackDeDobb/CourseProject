@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Little Silver, New Jersey", "Title": "\u201cA great place to stay\u201d", "Author": "blacktree0215", "ReviewID": "UR93468022", "Content": "returned weeks resort aprtment equal live jersey understand takes vacation stays accomodations live home basically bedroom apartment kitchen tvs deck overlooking ocean eating nearby friendly people facility island wife roots puerto rico home cant wait trip", "Date": "2011-01-17 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Brooklyn, New York", "Title": "\u201cemaculate grounds and Premises\u201d", "Author": "thecomentador", "ReviewID": "UR83746237", "Content": "exellent getaway oceanviews stood studio apartment ocean short distance dorado nice balcony bamboo patio table chairs sofa king size bed comforts home villa convienient kitchen pots pans plates cups utensils microwave stove fan lighting air conditioning pool hot tub pool fault found matress quality hard knees mean", "Date": "2010-10-16 00:00:00"}], "HotelInfo": {"Name": "The Villas at Palmas", "HotelURL": "/ShowUserReviews-g644388-d148198-Reviews-The_Villas_at_Palmas-Humacao_Puerto_Rico.html", "Price": "$140 - $930*", "Address": "<div class=\"amenFloat\">", "HotelID": "148198", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a9/d5/a9d543bc1f7e088b4dac41c27a9766c91large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Little Silver, New Jersey",
+      "Title": "\u201cA great place to stay\u201d",
+      "Author": "blacktree0215",
+      "ReviewID": "UR93468022",
+      "Content": "returned weeks resort aprtment equal live jersey understand takes vacation stays accomodations live home basically bedroom apartment kitchen tvs deck overlooking ocean eating nearby friendly people facility island wife roots puerto rico home cant wait trip",
+      "Date": "2011-01-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Brooklyn, New York",
+      "Title": "\u201cemaculate grounds and Premises\u201d",
+      "Author": "thecomentador",
+      "ReviewID": "UR83746237",
+      "Content": "exellent getaway oceanviews stood studio apartment ocean short distance dorado nice balcony bamboo patio table chairs sofa king size bed comforts home villa convienient kitchen pots pans plates cups utensils microwave stove fan lighting air conditioning pool hot tub pool fault found matress quality hard knees mean",
+      "Date": "2010-10-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "The Villas at Palmas",
+    "HotelURL": "/ShowUserReviews-g644388-d148198-Reviews-The_Villas_at_Palmas-Humacao_Puerto_Rico.html",
+    "Price": "$140 - $930*",
+    "Address": "<div class=\"amenFloat\">",
+    "HotelID": "148198",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a9/d5/a9d543bc1f7e088b4dac41c27a9766c91large.jpg"
+  }
+}

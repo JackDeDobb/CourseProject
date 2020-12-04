@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Tokyo", "Title": "\u201cOf of the better spots inside the Chungking Mansions...\u201d", "Author": "melonpan", "ReviewID": "UR139449231", "Content": "2006 ive stayed 8 9 guest houses inside chungking mansions peking guest house staff friendly helpful pretty clean air kinda sticky inside recommend people travel stay clean space heart hong kong", "Date": "2012-09-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cGreat service\u201d", "Author": "Kah Siong C", "ReviewID": "UR132000547", "Content": "cosy surprisingly cleaning morning provide service advised time hong kong traveller purchased disney ocean theme park tickets owner discount extra mile delivered tickets restaurant breakfast dim sum", "Date": "2012-06-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cNice hostel, plus the adventure at Chungking Mansions\u201d", "Author": "freddyfu", "ReviewID": "UR120517312", "Content": "stayed hostel twice april september 2011 stays pleasant accommodation expensive hk rate hostel reasonable opinion clean bit bad smell toilet that\u2019s common hk owner friendly lost key didn\u2019t charge chungking mansions looks shabby it\u2019s indeed ok lot people ground floor hostels don\u2019t ignore don\u2019t surveillance camera common security guards it\u2019s definitely safe importantly it\u2019s heart tsim sha tsui it\u2019s pretty close touristy hong kong island kowloon recommend hostel budget trip hk", "Date": "2011-11-13 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Phrae, Thailand", "Title": "\u201cWorth for HKD 250 / night\u201d", "Author": "LeeHyoHee", "ReviewID": "UR87951529", "Content": "booked peking guest house via hostelworldcom single ensuite price hkd 250 night located chungking mansion 12th floor nathan road tsim sha tsui location travel hong kong building guesthouse hostel luxury hotel including shopping arcade department stores brand name shops restaurants fast food chain stores mtr tsim sha tsui nearby connecting kowloon hong kong lantau territories tsim sha tsui ferry pier 15 minutes walk china ferry terminal macau near canton road location closed ultimate highlight hong kong symphony lights avenue stars checked 8 am checking usa hostel mirador mansion available security guard front elevator chungking mansion service residents housekeeper peking guest house friendly cooperation paid vacant left baggage travel 8 pm found baggage condition room\u2019s door walk step bed bathroom main purpose hong kong travel sleep morning late midnight time stayed bed bed sheet pillow blanket clean shelf tv telephone bed hanger cloth wall window view shelf attached edge window refrigerator tiny bathroom clean tiny wash bowl mirror little shelf bath cream disposal affixed wall nearby shower toilet bowl window bathroom computer internet available free charge owner advised polite looked overall feel fair hkd 250 night", "Date": "2010-11-23 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Earth", "Title": "\u201cWorth going!\u201d", "Author": "Edea", "ReviewID": "UR69542020", "Content": "relatively cheap read lot bad stories hostels chung king mansion surroundings girl travelling little worried booking owner peter emailed map building additional information arrived clean view street quiet 12th floor staff friendly ready help perfectly safe slept baby tried booking booked night", "Date": "2010-07-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "davao, philippines", "Title": "\u201cRIGHT PLACE TO STAY IN THE HEART OF HK\u201d", "Author": "joqs", "ReviewID": "UR66563679", "Content": "hotel clean friendly staff heart city located 12th floor mean hongkong densely populated dont expect stay flat bed hotel dont bother indians entrance information ground level elevator manager peter nice carry luggage deliver bus stop airport", "Date": "2010-06-05 00:00:00"}], "HotelInfo": {"Name": "New Peking Guest House", "HotelURL": "/ShowUserReviews-g294217-d1599816-Reviews-New_Peking_Guest_House-Hong_Kong.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">A1 12/F Block A Chung King Mansion, Yau Tsim Mong District (Tsim Sha Tsui)</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>", "HotelID": "1599816", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/b7/f6/88/new-peking-guest-house.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Tokyo",
+      "Title": "\u201cOf of the better spots inside the Chungking Mansions...\u201d",
+      "Author": "melonpan",
+      "ReviewID": "UR139449231",
+      "Content": "2006 ive stayed 8 9 guest houses inside chungking mansions peking guest house staff friendly helpful pretty clean air kinda sticky inside recommend people travel stay clean space heart hong kong",
+      "Date": "2012-09-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cGreat service\u201d",
+      "Author": "Kah Siong C",
+      "ReviewID": "UR132000547",
+      "Content": "cosy surprisingly cleaning morning provide service advised time hong kong traveller purchased disney ocean theme park tickets owner discount extra mile delivered tickets restaurant breakfast dim sum",
+      "Date": "2012-06-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cNice hostel, plus the adventure at Chungking Mansions\u201d",
+      "Author": "freddyfu",
+      "ReviewID": "UR120517312",
+      "Content": "stayed hostel twice april september 2011 stays pleasant accommodation expensive hk rate hostel reasonable opinion clean bit bad smell toilet that\u2019s common hk owner friendly lost key didn\u2019t charge chungking mansions looks shabby it\u2019s indeed ok lot people ground floor hostels don\u2019t ignore don\u2019t surveillance camera common security guards it\u2019s definitely safe importantly it\u2019s heart tsim sha tsui it\u2019s pretty close touristy hong kong island kowloon recommend hostel budget trip hk",
+      "Date": "2011-11-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Phrae, Thailand",
+      "Title": "\u201cWorth for HKD 250 / night\u201d",
+      "Author": "LeeHyoHee",
+      "ReviewID": "UR87951529",
+      "Content": "booked peking guest house via hostelworldcom single ensuite price hkd 250 night located chungking mansion 12th floor nathan road tsim sha tsui location travel hong kong building guesthouse hostel luxury hotel including shopping arcade department stores brand name shops restaurants fast food chain stores mtr tsim sha tsui nearby connecting kowloon hong kong lantau territories tsim sha tsui ferry pier 15 minutes walk china ferry terminal macau near canton road location closed ultimate highlight hong kong symphony lights avenue stars checked 8 am checking usa hostel mirador mansion available security guard front elevator chungking mansion service residents housekeeper peking guest house friendly cooperation paid vacant left baggage travel 8 pm found baggage condition room\u2019s door walk step bed bathroom main purpose hong kong travel sleep morning late midnight time stayed bed bed sheet pillow blanket clean shelf tv telephone bed hanger cloth wall window view shelf attached edge window refrigerator tiny bathroom clean tiny wash bowl mirror little shelf bath cream disposal affixed wall nearby shower toilet bowl window bathroom computer internet available free charge owner advised polite looked overall feel fair hkd 250 night",
+      "Date": "2010-11-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Earth",
+      "Title": "\u201cWorth going!\u201d",
+      "Author": "Edea",
+      "ReviewID": "UR69542020",
+      "Content": "relatively cheap read lot bad stories hostels chung king mansion surroundings girl travelling little worried booking owner peter emailed map building additional information arrived clean view street quiet 12th floor staff friendly ready help perfectly safe slept baby tried booking booked night",
+      "Date": "2010-07-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "davao, philippines",
+      "Title": "\u201cRIGHT PLACE TO STAY IN THE HEART OF HK\u201d",
+      "Author": "joqs",
+      "ReviewID": "UR66563679",
+      "Content": "hotel clean friendly staff heart city located 12th floor mean hongkong densely populated dont expect stay flat bed hotel dont bother indians entrance information ground level elevator manager peter nice carry luggage deliver bus stop airport",
+      "Date": "2010-06-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "New Peking Guest House",
+    "HotelURL": "/ShowUserReviews-g294217-d1599816-Reviews-New_Peking_Guest_House-Hong_Kong.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">A1 12/F Block A Chung King Mansion, Yau Tsim Mong District (Tsim Sha Tsui)</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>",
+    "HotelID": "1599816",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/b7/f6/88/new-peking-guest-house.jpg"
+  }
+}

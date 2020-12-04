@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "", "Title": "\u201cSisters' Weekend in Napa\u201d", "Author": "Wench117", "ReviewID": "UR119681264", "Content": "selected property price require 2 nite minimum pretty hotel surrounded establishments centrally located youd buy check person freindly curt tried bed reservation called beds blamed bookingcom printed receipt switched immediately spacious clean refrig micro plus flat screen tv dish network table 2 chairs plenty space decorated roman themes ours venice rm mural beds comfortable afforded stay price reasonable", "Date": "2011-10-24 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Ventura, California", "Title": "\u201cDissapointed at best\u201d", "Author": "Erin_Faverman", "ReviewID": "UR78500770", "Content": "hotel hotel tiny motel clean outside inside dated carpet stained filthy window view weedy yard dilapidated chicken coop wire clothes line stay napa price 15000 night cheap", "Date": "2010-09-06 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Erfurt", "Title": "\u201cnice place\u201d", "Author": "sebsahib", "ReviewID": "UR67554972", "Content": "nice stay clean lots space mediterranean style handpainted owner beds cosy little fridge downtown 15 minutes walk restaurants street front loud parking free tv nice city try vietnamese restaurant city center", "Date": "2010-06-15 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Los Angeles, CA", "Title": "\u201cIt's a motel, I wouldn't come here again\u201d", "Author": "Boginia1", "ReviewID": "UR66464187", "Content": "booked hotel minute memorial day weekend else town booked costing 250night im glad found hotels availability 150night saved trip stay avoid definitely motel type accomodations look otherwise luxury vacation motel decent accomodations mattress horrible couldnt fall asleep stay asleep plus check time manager feel unwelcome wasnt rude se approach offputting", "Date": "2010-06-04 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Cal City, CA", "Title": "\u201cRude office manager at check in\u201d", "Author": "WeezyCalCity", "ReviewID": "UR65603067", "Content": "female office manager time checkin extremely rude feel welcome vacation bad start phone office rude didnt acknowlege phone greeting hi welcome help reservation pleasant tone unfortunately obligated stay hind sight 2020 wished nevermind else stay website reservation deceptive inform rude clerk reservation online description select button appearance reserving nice cute clean comfortable difficult overcome rude unwelcome beginning", "Date": "2010-05-28 00:00:00"}], "HotelInfo": {"Name": "Chardonnay Lodge", "HotelURL": "/ShowUserReviews-g32766-d248135-Reviews-Chardonnay_Lodge-Napa_Napa_Valley_California.html", "Price": "$85 - $135*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2640 Jefferson St.</span>, <span class=\"locality\"><span property=\"v:locality\">Napa</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">94558</span></span> </span></span></address>", "HotelID": "248135", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/9e/86/9e8644a25b64698721ab9c93d462c4941large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cSisters' Weekend in Napa\u201d",
+      "Author": "Wench117",
+      "ReviewID": "UR119681264",
+      "Content": "selected property price require 2 nite minimum pretty hotel surrounded establishments centrally located youd buy check person freindly curt tried bed reservation called beds blamed bookingcom printed receipt switched immediately spacious clean refrig micro plus flat screen tv dish network table 2 chairs plenty space decorated roman themes ours venice rm mural beds comfortable afforded stay price reasonable",
+      "Date": "2011-10-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Ventura, California",
+      "Title": "\u201cDissapointed at best\u201d",
+      "Author": "Erin_Faverman",
+      "ReviewID": "UR78500770",
+      "Content": "hotel hotel tiny motel clean outside inside dated carpet stained filthy window view weedy yard dilapidated chicken coop wire clothes line stay napa price 15000 night cheap",
+      "Date": "2010-09-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Erfurt",
+      "Title": "\u201cnice place\u201d",
+      "Author": "sebsahib",
+      "ReviewID": "UR67554972",
+      "Content": "nice stay clean lots space mediterranean style handpainted owner beds cosy little fridge downtown 15 minutes walk restaurants street front loud parking free tv nice city try vietnamese restaurant city center",
+      "Date": "2010-06-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Los Angeles, CA",
+      "Title": "\u201cIt's a motel, I wouldn't come here again\u201d",
+      "Author": "Boginia1",
+      "ReviewID": "UR66464187",
+      "Content": "booked hotel minute memorial day weekend else town booked costing 250night im glad found hotels availability 150night saved trip stay avoid definitely motel type accomodations look otherwise luxury vacation motel decent accomodations mattress horrible couldnt fall asleep stay asleep plus check time manager feel unwelcome wasnt rude se approach offputting",
+      "Date": "2010-06-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Cal City, CA",
+      "Title": "\u201cRude office manager at check in\u201d",
+      "Author": "WeezyCalCity",
+      "ReviewID": "UR65603067",
+      "Content": "female office manager time checkin extremely rude feel welcome vacation bad start phone office rude didnt acknowlege phone greeting hi welcome help reservation pleasant tone unfortunately obligated stay hind sight 2020 wished nevermind else stay website reservation deceptive inform rude clerk reservation online description select button appearance reserving nice cute clean comfortable difficult overcome rude unwelcome beginning",
+      "Date": "2010-05-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Chardonnay Lodge",
+    "HotelURL": "/ShowUserReviews-g32766-d248135-Reviews-Chardonnay_Lodge-Napa_Napa_Valley_California.html",
+    "Price": "$85 - $135*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2640 Jefferson St.</span>, <span class=\"locality\"><span property=\"v:locality\">Napa</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">94558</span></span> </span></span></address>",
+    "HotelID": "248135",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/9e/86/9e8644a25b64698721ab9c93d462c4941large.jpg"
+  }
+}

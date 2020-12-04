@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "", "Title": "\u201cGreat hotel for a large group, but if travelling on your own, stay somewhere closer in.\u201d", "Author": "Jefftm", "ReviewID": "UR127198665", "Content": "hotel town located residential district german restaurant minutes walk laundries self service drop pick 10 mins walk regular trams 5 mins ice local shopping centre hotel caters crawling school handled minimal fuss delays", "Date": "2012-04-03 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Volgograd, Russia", "Title": "\u201c1-3 night stay\u201d", "Author": "mynthon Posted by an Oktogo.ru traveler", "ReviewID": "UR126168379", "Content": "location hotel 2030 min tram alexanderplatz takes 5 min tram stop school kids staying noises hotel former dorm thats look view disused house littered rubbish price hotel acceptable level", "Date": "2012-03-16 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Maastricht, The Netherlands", "Title": "\u201cNice rooms, a little far from the city\u201d", "Author": "janet r", "ReviewID": "UR118698737", "Content": "nice hotel enjoyed stay overall staff helpful informational tram stop five minute walk hotel daytime nighttime essentially street lighting shopping center near hotel restaurants value stay budget", "Date": "2011-09-28 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "San Jose, California", "Title": "\u201cIts average - You get what you pay for\u201d", "Author": "Raj018", "ReviewID": "UR82541359", "Content": "hotel fine staff friendly suggested berlin welcome card note usefull spending 2 days berlin 8 euro charge breakfast soooo totally worth meats delicious fill 4 5 evening wife complain location website suggested 15 mins city centre reality 7 mins walk nearest train station bahn train alexanderplatz 15 mins alexanderplatz options connections via bahn modes reality 30 40 mins centre overall hotel clean nice hostel option bathroom budget travellers hotel frills basically shower crash night", "Date": "2010-10-08 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "envbecky", "Title": "\u201cLike a delinquant youth centre, but with worse beds!!!!\u201d", "Author": "envbecky", "ReviewID": "UR59758183", "Content": "stay hotel am doing ma course university field trip study berlin time time students study time time jobs hotel located centre berlin 30 mins tram sharing 3 night alas actual beds 1 fold sofa bed mattress thinnest seen sofa bed shower althogh cubicle space wash properly mini bar consisted bottle water fridge left shelf cost 280 euros aside worst hotel guests arrived roudy italian girls swearing smoking noisy hotel oblivious noise signs calm guess 1618 served bar shoved lift control didnt annoy kids doing field trip economics chanting drunk farts 4am morning didnt served bar getting drunk night purchasing beer checks spoke trying chat 30 school field trip bar ran dry night people served bar staff particually cold am guessing actually buy beer school kids running riot banging doors evening messing lifts night squealing breakfast average bar drunk children am calmer offenders institute hotel wouldnt recommend staying unless 15 drunk questions hope university hotel cheaply stated actual tiny single beds wouldnt recommend hotel apart school kids fine wild else recommend avoid plague head else wasnt uni trip checked night paid whatever stay else officially worst hotel", "Date": "2010-03-28 00:00:00"}], "HotelInfo": {"Name": "Hotel Kolumbus", "HotelURL": "/ShowUserReviews-g187323-d232608-Reviews-Hotel_Kolumbus-Berlin.html", "Price": "$50 - $118*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Genslerstrasse 18</span>, <span class=\"locality\"><span property=\"v:postal-code\">13055</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "232608", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6e/f5/6ef50cf940e1654a810cdfba2ca4df421large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cGreat hotel for a large group, but if travelling on your own, stay somewhere closer in.\u201d",
+      "Author": "Jefftm",
+      "ReviewID": "UR127198665",
+      "Content": "hotel town located residential district german restaurant minutes walk laundries self service drop pick 10 mins walk regular trams 5 mins ice local shopping centre hotel caters crawling school handled minimal fuss delays",
+      "Date": "2012-04-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Volgograd, Russia",
+      "Title": "\u201c1-3 night stay\u201d",
+      "Author": "mynthon Posted by an Oktogo.ru traveler",
+      "ReviewID": "UR126168379",
+      "Content": "location hotel 2030 min tram alexanderplatz takes 5 min tram stop school kids staying noises hotel former dorm thats look view disused house littered rubbish price hotel acceptable level",
+      "Date": "2012-03-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Maastricht, The Netherlands",
+      "Title": "\u201cNice rooms, a little far from the city\u201d",
+      "Author": "janet r",
+      "ReviewID": "UR118698737",
+      "Content": "nice hotel enjoyed stay overall staff helpful informational tram stop five minute walk hotel daytime nighttime essentially street lighting shopping center near hotel restaurants value stay budget",
+      "Date": "2011-09-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "San Jose, California",
+      "Title": "\u201cIts average - You get what you pay for\u201d",
+      "Author": "Raj018",
+      "ReviewID": "UR82541359",
+      "Content": "hotel fine staff friendly suggested berlin welcome card note usefull spending 2 days berlin 8 euro charge breakfast soooo totally worth meats delicious fill 4 5 evening wife complain location website suggested 15 mins city centre reality 7 mins walk nearest train station bahn train alexanderplatz 15 mins alexanderplatz options connections via bahn modes reality 30 40 mins centre overall hotel clean nice hostel option bathroom budget travellers hotel frills basically shower crash night",
+      "Date": "2010-10-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "envbecky",
+      "Title": "\u201cLike a delinquant youth centre, but with worse beds!!!!\u201d",
+      "Author": "envbecky",
+      "ReviewID": "UR59758183",
+      "Content": "stay hotel am doing ma course university field trip study berlin time time students study time time jobs hotel located centre berlin 30 mins tram sharing 3 night alas actual beds 1 fold sofa bed mattress thinnest seen sofa bed shower althogh cubicle space wash properly mini bar consisted bottle water fridge left shelf cost 280 euros aside worst hotel guests arrived roudy italian girls swearing smoking noisy hotel oblivious noise signs calm guess 1618 served bar shoved lift control didnt annoy kids doing field trip economics chanting drunk farts 4am morning didnt served bar getting drunk night purchasing beer checks spoke trying chat 30 school field trip bar ran dry night people served bar staff particually cold am guessing actually buy beer school kids running riot banging doors evening messing lifts night squealing breakfast average bar drunk children am calmer offenders institute hotel wouldnt recommend staying unless 15 drunk questions hope university hotel cheaply stated actual tiny single beds wouldnt recommend hotel apart school kids fine wild else recommend avoid plague head else wasnt uni trip checked night paid whatever stay else officially worst hotel",
+      "Date": "2010-03-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Kolumbus",
+    "HotelURL": "/ShowUserReviews-g187323-d232608-Reviews-Hotel_Kolumbus-Berlin.html",
+    "Price": "$50 - $118*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Genslerstrasse 18</span>, <span class=\"locality\"><span property=\"v:postal-code\">13055</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "232608",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6e/f5/6ef50cf940e1654a810cdfba2ca4df421large.jpg"
+  }
+}

@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Toledo, Spain", "Title": "\u201cIt should be closed down, it is open under false pretences\u201d", "Author": "tom195012", "ReviewID": "UR87039031", "Content": "dump travellers stray animals mens shower facilities roof collapsed 3 showers 1 12 door 1 door driers quote attendant dry washing machine junk animals closed bears resemblance adds web", "Date": "2010-11-14 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "birmingham", "Title": "\u201cWhat a dump of a campsite, expensive with neglected facilities\u201d", "Author": "tonystart", "ReviewID": "UR85578147", "Content": "dump badly neglected facilities tepid showers unheated shower blocks standing water showers drain properly cold water sinks paid 32 euros night 570 electric hook mid october star rating spanish camping associated generous i\u2019d seen reviews picky \u2013 we\u2019ve stayed hundreds easily amongst worst top class camping international beautiful caught local train madrid efficient clean value metro system 3 days unlimited nb madrid lovely vibrant city massive wave hang tightly bags wallets times avoid campsite", "Date": "2010-11-01 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Plantation, Florida", "Title": "\u201cWhere do I begin\u201d", "Author": "brupm", "ReviewID": "UR65796185", "Content": "wife camp 5 nights staying 1 am list items bad loud highway security gates ants attendent careless market 2pm wifi internet caf\u00e9 2pm laundry machine expensive dryer hang close 20 minute walk uphill closest train station expensive 22 euro 2 people own tent lockers amenities children play dog cage camping overgrown grass packed dirt own rv ok stay recommend stay", "Date": "2010-05-30 00:00:00"}], "HotelInfo": {"Name": "Camping Osuna", "HotelURL": "/ShowUserReviews-g187514-d239428-Reviews-Camping_Osuna-Madrid.html", "Price": "0", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/ Jardines de Aranjuez, s/n</span>, <span class=\"locality\"><span property=\"v:postal-code\">28042</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "239428", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/15/54/99/1.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Toledo, Spain",
+      "Title": "\u201cIt should be closed down, it is open under false pretences\u201d",
+      "Author": "tom195012",
+      "ReviewID": "UR87039031",
+      "Content": "dump travellers stray animals mens shower facilities roof collapsed 3 showers 1 12 door 1 door driers quote attendant dry washing machine junk animals closed bears resemblance adds web",
+      "Date": "2010-11-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "birmingham",
+      "Title": "\u201cWhat a dump of a campsite, expensive with neglected facilities\u201d",
+      "Author": "tonystart",
+      "ReviewID": "UR85578147",
+      "Content": "dump badly neglected facilities tepid showers unheated shower blocks standing water showers drain properly cold water sinks paid 32 euros night 570 electric hook mid october star rating spanish camping associated generous i\u2019d seen reviews picky \u2013 we\u2019ve stayed hundreds easily amongst worst top class camping international beautiful caught local train madrid efficient clean value metro system 3 days unlimited nb madrid lovely vibrant city massive wave hang tightly bags wallets times avoid campsite",
+      "Date": "2010-11-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Plantation, Florida",
+      "Title": "\u201cWhere do I begin\u201d",
+      "Author": "brupm",
+      "ReviewID": "UR65796185",
+      "Content": "wife camp 5 nights staying 1 am list items bad loud highway security gates ants attendent careless market 2pm wifi internet caf\u00e9 2pm laundry machine expensive dryer hang close 20 minute walk uphill closest train station expensive 22 euro 2 people own tent lockers amenities children play dog cage camping overgrown grass packed dirt own rv ok stay recommend stay",
+      "Date": "2010-05-30 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Camping Osuna",
+    "HotelURL": "/ShowUserReviews-g187514-d239428-Reviews-Camping_Osuna-Madrid.html",
+    "Price": "0",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/ Jardines de Aranjuez, s/n</span>, <span class=\"locality\"><span property=\"v:postal-code\">28042</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "239428",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/15/54/99/1.jpg"
+  }
+}

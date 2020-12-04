@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Dallas, Texas", "Title": "\u201cPoor customer service is just the tip of the iceberg.\u201d", "Author": "P J", "ReviewID": "UR119757702", "Content": "ive reported hotel corporate office staff belligerent disrespectful management bad spoke manager avail choice corporate level maids clean week lie cleaning didnt happened multiple times otherwise excuse theyre pet friendly theyre cat consistently refused maid service essentially clean ourselves beforehand grain litter food floor grounds refusal involving pet isnt maids responsibility clean according rules rates outrageous poor service lack amenities laundry isnt functional time wifi speed plus location happens crime ridden car broken stay weve seen police times count", "Date": "2011-10-26 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Dallas", "Title": "\u201cATROCIOUS-Don't waste your money or time with this establishment\u201d", "Author": "hoteladvisor5", "ReviewID": "UR59756357", "Content": "please beware talk homestead studio suites homestead studio suites dallas north park central please save yourself mental stay mold smoke checked due floor damage carpets ripped horrible smell found refrigerator leaked night wetting kitchen floor causing mold smell doubt carpets laundry service talking front desk staff told entitled refund spending 2 machine total 6 3 4 washers didnt signs posted refund told call owners machines report service collect refund owners machines stated responsible refunds service machines week ive checked laundry tow staff understanding customer satisfaction service representatives walked multiple times stating hey didnt tell stay dont else ive treated paying patron disrespect grounds litter dog poop simply management staff overhaul live standard disgusting", "Date": "2010-03-28 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 5.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Texas", "Title": "\u201cIn 2 years, this place has become a filthy place\u201d", "Author": "diaperchanger01", "ReviewID": "UR55783569", "Content": "stayed hotel times manager months ago started overlooked stayed time honest filth evident grounds particular stay carpet worn detached tiled kitchen time children walked barefooted walked carpet tacks bathtub unspeakable hair spots mildew mold growing bathroom air conditioning learned past 2 febreze able tolerate smell beds sleeping floor probably floor carpet simply dirty grounds hotel scrubbing pick cigarette butts etc staff lesson customer service continue polite location manager screaming matches attitude simply stay motel convenient location excellent price 2 ago opinion truly shame property potential discovered", "Date": "2010-02-12 00:00:00"}], "HotelInfo": {"Name": "Homestead Studio Suites Dallas - North - Park Central", "HotelURL": "/ShowUserReviews-g55711-d217717-Reviews-Homestead_Studio_Suites_Dallas_North_Park_Central-Dallas_Texas.html", "Price": "$45 - $58*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">12121 Coit Road</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75251</span></span> </span></span></address>", "HotelID": "217717", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c1/9c/c19c6e209e6aa7b9390d2fd5cb129f414large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dallas, Texas",
+      "Title": "\u201cPoor customer service is just the tip of the iceberg.\u201d",
+      "Author": "P J",
+      "ReviewID": "UR119757702",
+      "Content": "ive reported hotel corporate office staff belligerent disrespectful management bad spoke manager avail choice corporate level maids clean week lie cleaning didnt happened multiple times otherwise excuse theyre pet friendly theyre cat consistently refused maid service essentially clean ourselves beforehand grain litter food floor grounds refusal involving pet isnt maids responsibility clean according rules rates outrageous poor service lack amenities laundry isnt functional time wifi speed plus location happens crime ridden car broken stay weve seen police times count",
+      "Date": "2011-10-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Dallas",
+      "Title": "\u201cATROCIOUS-Don't waste your money or time with this establishment\u201d",
+      "Author": "hoteladvisor5",
+      "ReviewID": "UR59756357",
+      "Content": "please beware talk homestead studio suites homestead studio suites dallas north park central please save yourself mental stay mold smoke checked due floor damage carpets ripped horrible smell found refrigerator leaked night wetting kitchen floor causing mold smell doubt carpets laundry service talking front desk staff told entitled refund spending 2 machine total 6 3 4 washers didnt signs posted refund told call owners machines report service collect refund owners machines stated responsible refunds service machines week ive checked laundry tow staff understanding customer satisfaction service representatives walked multiple times stating hey didnt tell stay dont else ive treated paying patron disrespect grounds litter dog poop simply management staff overhaul live standard disgusting",
+      "Date": "2010-03-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 5.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Texas",
+      "Title": "\u201cIn 2 years, this place has become a filthy place\u201d",
+      "Author": "diaperchanger01",
+      "ReviewID": "UR55783569",
+      "Content": "stayed hotel times manager months ago started overlooked stayed time honest filth evident grounds particular stay carpet worn detached tiled kitchen time children walked barefooted walked carpet tacks bathtub unspeakable hair spots mildew mold growing bathroom air conditioning learned past 2 febreze able tolerate smell beds sleeping floor probably floor carpet simply dirty grounds hotel scrubbing pick cigarette butts etc staff lesson customer service continue polite location manager screaming matches attitude simply stay motel convenient location excellent price 2 ago opinion truly shame property potential discovered",
+      "Date": "2010-02-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Homestead Studio Suites Dallas - North - Park Central",
+    "HotelURL": "/ShowUserReviews-g55711-d217717-Reviews-Homestead_Studio_Suites_Dallas_North_Park_Central-Dallas_Texas.html",
+    "Price": "$45 - $58*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">12121 Coit Road</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75251</span></span> </span></span></address>",
+    "HotelID": "217717",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c1/9c/c19c6e209e6aa7b9390d2fd5cb129f414large.jpg"
+  }
+}

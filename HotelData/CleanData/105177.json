@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Portland, Oregon", "Title": "\u201cBEDBUGS - stay away! Memphis Hampton Inn.\u201d", "Author": "wegougo", "ReviewID": "UR124343546", "Content": "hampton inn cross road bedbugs buddies stayed week found bugs themselves throw clothes luggage pictures bugs huge management hampton inn surprised informed bugs comp cover cost infested items terrible experience stay bedbugs", "Date": "2012-02-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Nashville, Tennessee", "Title": "\u201cSoccer Tournament in Memphis/Mike Rose Soccer Complex\u201d", "Author": "elcid89tn", "ReviewID": "UR91293366", "Content": "location soccer tournament mike rose soccer complex close complex near sporting store supermarkets eat eating easy eat breakfast share pizza team friday saturday night", "Date": "2011-01-01 00:00:00"}], "HotelInfo": {"Name": "Hampton Inn Memphis - Southwind", "HotelURL": "/ShowUserReviews-g55197-d105177-Reviews-Hampton_Inn_Memphis_Southwind-Memphis_Tennessee.html", "Price": "$78 - $126*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3579 Hacks Cross Road</span>, <span class=\"locality\"><span property=\"v:locality\">Memphis</span>, <span property=\"v:region\">TN</span> <span property=\"v:postal-code\">38125</span></span> </span> </span> </address>", "HotelID": "105177", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/27/d3/27d35c6dbc00e8cdd688bf9ebcefad8c4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Portland, Oregon",
+      "Title": "\u201cBEDBUGS - stay away! Memphis Hampton Inn.\u201d",
+      "Author": "wegougo",
+      "ReviewID": "UR124343546",
+      "Content": "hampton inn cross road bedbugs buddies stayed week found bugs themselves throw clothes luggage pictures bugs huge management hampton inn surprised informed bugs comp cover cost infested items terrible experience stay bedbugs",
+      "Date": "2012-02-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Nashville, Tennessee",
+      "Title": "\u201cSoccer Tournament in Memphis/Mike Rose Soccer Complex\u201d",
+      "Author": "elcid89tn",
+      "ReviewID": "UR91293366",
+      "Content": "location soccer tournament mike rose soccer complex close complex near sporting store supermarkets eat eating easy eat breakfast share pizza team friday saturday night",
+      "Date": "2011-01-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hampton Inn Memphis - Southwind",
+    "HotelURL": "/ShowUserReviews-g55197-d105177-Reviews-Hampton_Inn_Memphis_Southwind-Memphis_Tennessee.html",
+    "Price": "$78 - $126*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3579 Hacks Cross Road</span>, <span class=\"locality\"><span property=\"v:locality\">Memphis</span>, <span property=\"v:region\">TN</span> <span property=\"v:postal-code\">38125</span></span> </span> </span> </address>",
+    "HotelID": "105177",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/27/d3/27d35c6dbc00e8cdd688bf9ebcefad8c4large.jpg"
+  }
+}

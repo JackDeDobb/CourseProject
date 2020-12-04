@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Codicote, United Kingdom", "Title": "\u201cKeep away until Libyan war guests leave\u201d", "Author": "alp1942", "ReviewID": "UR125994208", "Content": "brother weekend whilst hotel spotless staff nicest crew encountered recently smiles common ie restaurant lobby unusable due war wounded treated istanbul effort congratulate applaud turkish government initiative surely management warn prospective visitors hotel centre health centre ambiance conducive pleasure weekend istanbul", "Date": "2012-03-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Moscow", "Title": "\u201cPerfect stay between flights\u201d", "Author": "comnen", "ReviewID": "UR125036383", "Content": "stayed beginning february lot flights delays hotel provided turkish airlines location city attractions close surroundings dull hotel nice lobby breakfast fruits free wifi password", "Date": "2012-02-22 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Budapest, Hungary", "Title": "\u201cPerfect for Business\u201d", "Author": "Patricia D", "ReviewID": "UR121676829", "Content": "staying hotel guest welcomed attentive staff outmost guests happy hotel brand modern selection breakfast nice meals lunch outside dining possibilities 50 street meeting technical equipment meetings comfortable stay", "Date": "2011-12-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "San Diego, California", "Title": "\u201cNew Hotel with Great Staff\u201d", "Author": "bdouble", "ReviewID": "UR121301552", "Content": "actually contest sponsored hilton garden inn decided turkey friend college ill try unbiased review hotel months visit lobby nice features business center pantry consumer barrestaurant throughout hotel pics local attractions staff friendly resolved couple minor billing issues central reservation center hadnt sufficient notes free stay bar overpriced opinion beers 8 believe highend chain hotel probably caters business travelers budgetminded ones despite location bit except incredible views flower featured private patio panoramic view river furnishings highend adjustable bed ultracomfortable helped set laptop flat screen tv couldnt read directions turkish breakfast expensive 1820 believe amazing omelettes 5 types bread probably 6 types cheese fresh olives lot money time enjoy staff exceptional spoke english found lived miles home florida overall pretty expensive option food service accomodations return check tourist attractions bazaars food istanbul amazing", "Date": "2011-12-01 00:00:00"}], "HotelInfo": {"Name": "Hilton Garden Inn Istanbul Golden Horn Turkey", "HotelURL": "/ShowUserReviews-g293974-d2309995-Reviews-Hilton_Garden_Inn_Istanbul_Golden_Horn_Turkey-Istanbul.html", "Price": "$119 - $288*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Sutluce Mah. Imrahor Cad. Dutluk Sok No 2</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34445</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "2309995", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/42/87/4287c7a5d54c5e58c7f29b1c34b3be1f5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Codicote, United Kingdom",
+      "Title": "\u201cKeep away until Libyan war guests leave\u201d",
+      "Author": "alp1942",
+      "ReviewID": "UR125994208",
+      "Content": "brother weekend whilst hotel spotless staff nicest crew encountered recently smiles common ie restaurant lobby unusable due war wounded treated istanbul effort congratulate applaud turkish government initiative surely management warn prospective visitors hotel centre health centre ambiance conducive pleasure weekend istanbul",
+      "Date": "2012-03-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Moscow",
+      "Title": "\u201cPerfect stay between flights\u201d",
+      "Author": "comnen",
+      "ReviewID": "UR125036383",
+      "Content": "stayed beginning february lot flights delays hotel provided turkish airlines location city attractions close surroundings dull hotel nice lobby breakfast fruits free wifi password",
+      "Date": "2012-02-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Budapest, Hungary",
+      "Title": "\u201cPerfect for Business\u201d",
+      "Author": "Patricia D",
+      "ReviewID": "UR121676829",
+      "Content": "staying hotel guest welcomed attentive staff outmost guests happy hotel brand modern selection breakfast nice meals lunch outside dining possibilities 50 street meeting technical equipment meetings comfortable stay",
+      "Date": "2011-12-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "San Diego, California",
+      "Title": "\u201cNew Hotel with Great Staff\u201d",
+      "Author": "bdouble",
+      "ReviewID": "UR121301552",
+      "Content": "actually contest sponsored hilton garden inn decided turkey friend college ill try unbiased review hotel months visit lobby nice features business center pantry consumer barrestaurant throughout hotel pics local attractions staff friendly resolved couple minor billing issues central reservation center hadnt sufficient notes free stay bar overpriced opinion beers 8 believe highend chain hotel probably caters business travelers budgetminded ones despite location bit except incredible views flower featured private patio panoramic view river furnishings highend adjustable bed ultracomfortable helped set laptop flat screen tv couldnt read directions turkish breakfast expensive 1820 believe amazing omelettes 5 types bread probably 6 types cheese fresh olives lot money time enjoy staff exceptional spoke english found lived miles home florida overall pretty expensive option food service accomodations return check tourist attractions bazaars food istanbul amazing",
+      "Date": "2011-12-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hilton Garden Inn Istanbul Golden Horn Turkey",
+    "HotelURL": "/ShowUserReviews-g293974-d2309995-Reviews-Hilton_Garden_Inn_Istanbul_Golden_Horn_Turkey-Istanbul.html",
+    "Price": "$119 - $288*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Sutluce Mah. Imrahor Cad. Dutluk Sok No 2</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34445</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "2309995",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/42/87/4287c7a5d54c5e58c7f29b1c34b3be1f5large.jpg"
+  }
+}

@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Warminster, United Kingdom", "Title": "\u201cWebsite misleading\u201d", "Author": "Claire H", "ReviewID": "UR121069867", "Content": "service staff pleasant speak german stay reprint plane boarding pass business center offered include printer staff helpful trying solve looking nearby grocery store vague direction girl mattresses lumpy pillows dont hold shape worst nights sleep ive time clean quiet twenty minute train ride centre city nearest sbahn stop lines 3 75 fit sightseeing hotel closer city dont speak german skip", "Date": "2011-11-27 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Baarn, The Netherlands", "Title": "\u201cNice hotel\u201d", "Author": "A.Brouwer", "ReviewID": "UR119330695", "Content": "hotel altough berlin city centre spandau nice city centre shopping mall opposite berlin spandau railwaystation 25 minutes railway trip berlin zoo station howeverthe nearest railwaystation station served trains busstop near hotel strasse hotel clean safe didnt breakfast buffet coffee internet 5 euros 24 hours according travel agency free charge rent bike 12 euros day desk unstaffed check rang bell left hotel checking", "Date": "2011-10-15 00:00:00"}], "HotelInfo": {"Name": "SORAT Hotel Berlin-Spandau", "HotelURL": "/ShowUserReviews-g187323-d202452-Reviews-SORAT_Hotel_Berlin_Spandau-Berlin.html", "Price": "$51 - $151*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Heidereuterstr. 37 - 38</span>, <span class=\"locality\"><span property=\"v:postal-code\">13597</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "202452", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/cd/60/c9/empfangshalle-mit-lobby.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Warminster, United Kingdom",
+      "Title": "\u201cWebsite misleading\u201d",
+      "Author": "Claire H",
+      "ReviewID": "UR121069867",
+      "Content": "service staff pleasant speak german stay reprint plane boarding pass business center offered include printer staff helpful trying solve looking nearby grocery store vague direction girl mattresses lumpy pillows dont hold shape worst nights sleep ive time clean quiet twenty minute train ride centre city nearest sbahn stop lines 3 75 fit sightseeing hotel closer city dont speak german skip",
+      "Date": "2011-11-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Baarn, The Netherlands",
+      "Title": "\u201cNice hotel\u201d",
+      "Author": "A.Brouwer",
+      "ReviewID": "UR119330695",
+      "Content": "hotel altough berlin city centre spandau nice city centre shopping mall opposite berlin spandau railwaystation 25 minutes railway trip berlin zoo station howeverthe nearest railwaystation station served trains busstop near hotel strasse hotel clean safe didnt breakfast buffet coffee internet 5 euros 24 hours according travel agency free charge rent bike 12 euros day desk unstaffed check rang bell left hotel checking",
+      "Date": "2011-10-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "SORAT Hotel Berlin-Spandau",
+    "HotelURL": "/ShowUserReviews-g187323-d202452-Reviews-SORAT_Hotel_Berlin_Spandau-Berlin.html",
+    "Price": "$51 - $151*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Heidereuterstr. 37 - 38</span>, <span class=\"locality\"><span property=\"v:postal-code\">13597</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "202452",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/cd/60/c9/empfangshalle-mit-lobby.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Houston, Texas", "Title": "\u201cGreat Hotel, Very modern\u201d", "Author": "USA_SIN_IT", "ReviewID": "UR127116436", "Content": "stayed night catch flight fiumicino airport city center shopping mall walking distance staff friendly clean bathroom nicest ive seen europe curious bath salts bathroom shower downside bathroom quick flood shower water drainage wasnt breakfast tasty wait stuff friendly stay", "Date": "2012-04-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Milan, Italy", "Title": "\u201cdetails ...\u201d", "Author": "LucaDea", "ReviewID": "UR124827355", "Content": "ive night business travel hotel position appointment office eur hote il brand months ago paint staying bathroom nice details weird salts bath bathroom shower restaurant excellent choice plates pretty unusual hotel restaurant cooked id suggest nutella drops dessert delicious aware youre situation tourist staying hotel breakfast finished chance enter bar id suggest hotel manage tourist reserving dedicated breakfast guests upset", "Date": "2012-02-19 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "Thessaloniki, Greece", "Title": "\u201cBAD LOCATION\u201d", "Author": "AGGELOS33", "ReviewID": "UR107937314", "Content": "tourist location hotel centre city bus stops front hotel metro late takes 45 minutes centre city 3 stops bus 9 stops train time addition stayed 4 nights didn\u00b4t change sheetsthe breakfast wasn\u00b4t special 4 star hotel broke wasn\u00b4t internet access hotel contrast bathroom hotel near 2 complex shopping traveller", "Date": "2011-05-12 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 2.0}, "AuthorLocation": "Thessaloniki, Greece", "Title": "\u201cNew hotel with good infrastructure but bad personnel behavior\u201d", "Author": "shelman_10", "ReviewID": "UR105529877", "Content": "spacy clean bathroom breakfast replenishment continuous believe design hides inappropriate bad behaving servicing personnel goodmorning hello entering hotel entering restaurant breakfast", "Date": "2011-04-26 00:00:00"}], "HotelInfo": {"Name": "OP Hotel", "HotelURL": "/ShowUserReviews-g187791-d1835836-Reviews-OP_Hotel-Rome_Lazio.html", "Price": "$121 - $257*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Viale Oceano Pacifico 165</span>, <span class=\"locality\"><span property=\"v:postal-code\">00144</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "1835836", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/92/92/9292a18a62efe494b68e1370c65f1a405large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Houston, Texas",
+      "Title": "\u201cGreat Hotel, Very modern\u201d",
+      "Author": "USA_SIN_IT",
+      "ReviewID": "UR127116436",
+      "Content": "stayed night catch flight fiumicino airport city center shopping mall walking distance staff friendly clean bathroom nicest ive seen europe curious bath salts bathroom shower downside bathroom quick flood shower water drainage wasnt breakfast tasty wait stuff friendly stay",
+      "Date": "2012-04-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Milan, Italy",
+      "Title": "\u201cdetails ...\u201d",
+      "Author": "LucaDea",
+      "ReviewID": "UR124827355",
+      "Content": "ive night business travel hotel position appointment office eur hote il brand months ago paint staying bathroom nice details weird salts bath bathroom shower restaurant excellent choice plates pretty unusual hotel restaurant cooked id suggest nutella drops dessert delicious aware youre situation tourist staying hotel breakfast finished chance enter bar id suggest hotel manage tourist reserving dedicated breakfast guests upset",
+      "Date": "2012-02-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Thessaloniki, Greece",
+      "Title": "\u201cBAD LOCATION\u201d",
+      "Author": "AGGELOS33",
+      "ReviewID": "UR107937314",
+      "Content": "tourist location hotel centre city bus stops front hotel metro late takes 45 minutes centre city 3 stops bus 9 stops train time addition stayed 4 nights didn\u00b4t change sheetsthe breakfast wasn\u00b4t special 4 star hotel broke wasn\u00b4t internet access hotel contrast bathroom hotel near 2 complex shopping traveller",
+      "Date": "2011-05-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Thessaloniki, Greece",
+      "Title": "\u201cNew hotel with good infrastructure but bad personnel behavior\u201d",
+      "Author": "shelman_10",
+      "ReviewID": "UR105529877",
+      "Content": "spacy clean bathroom breakfast replenishment continuous believe design hides inappropriate bad behaving servicing personnel goodmorning hello entering hotel entering restaurant breakfast",
+      "Date": "2011-04-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "OP Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d1835836-Reviews-OP_Hotel-Rome_Lazio.html",
+    "Price": "$121 - $257*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Viale Oceano Pacifico 165</span>, <span class=\"locality\"><span property=\"v:postal-code\">00144</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "1835836",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/92/92/9292a18a62efe494b68e1370c65f1a405large.jpg"
+  }
+}

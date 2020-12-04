@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Virginia Beach, Virginia", "Title": "\u201cNever again\u201d", "Author": "Ramon A", "ReviewID": "UR122337572", "Content": "didnt natural light cave upgrade beachfront bedroom sliding glass door lock broken third nice sheets fitted move noooo water towels sand paper coffe maker bedroom own coffe lobby dont coffe la que nos luz natural una cueva nos una al mar pero la puerta de cristal el estaba la que nos estaba bien pero las se te si una bien es el para de agua caliente nos que el agua correr pero caliente las bien en las habitaciones que mi cafe en el lobby ya que ni tan cafe yo mi cafe", "Date": "2011-12-31 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "New Orleans, Louisiana", "Title": "\u201cBest place to stay in Joyuda, Cabo Rojo\u201d", "Author": "Humberto Q", "ReviewID": "UR119815908", "Content": "budget friendly stay front beautiful beach protected reef perfect snorkeling sun baths sand nice pool relax drink food service ive stayed hotels close restaurants west island minutes marinas golf courses 15 minutes famous beaches stay private hotel offer recommended visiting im booked month", "Date": "2011-10-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Trujillo Alto", "Title": "\u201cGood place for a family and friends to stay\u201d", "Author": "FernandoSierra", "ReviewID": "UR106155858", "Content": "dont people bad reviews stay hotel details service details luxurious hotel range course ready pay itthe employees food restaurant menu breakfast lunch dinner excellent beach adequate chance marine life nearbythe pool nice night includes dj lot fun nice vacationi recommend", "Date": "2011-04-29 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Mexico", "Title": "\u201cWorst. Hotel. EVER.\u201d", "Author": "Rickyrasta", "ReviewID": "UR95692460", "Content": "dirty cockroaches bed hard rocks cant stress bad bed worst bed ive slept dirty sheets dont cover dirty mattress sleeping top dirty mattress bad service bad foodthe nightmare package yes listed reviews bad stay", "Date": "2011-02-06 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Toa Baja, Puerto Rico", "Title": "\u201cNot recommended at all!!!\u201d", "Author": "JJSony", "ReviewID": "UR77273905", "Content": "total waste time money definitely would\u00e2\u20ac\u2122ve looked time check review site reservation basically negative comments guests accurate detail guy positive reviews paid hotel mentioned negative comment i\u00e2\u20ac\u2122ve seen \u00e2\u20ac\u201c hard mattresses \u00e2\u20ac\u201c true checked hotel attendant offered weak internet connection front lobby closest lobby \u00e2\u20ac\u201c close pool king bed hard boxspring wooden frame bed lacked softer mattress goes top pleasant night sleep mattress dirty sheets blankets hair previous guests sheets hadn\u00e2\u20ac\u2122t replaced arrival offer attendant moved hoping internet signal smoother cleaner bed guess hoping bed filthy stained mattress harder concrete third beds attendant roaches scrambling beds paid days nights checkin agreement refund departures wasn\u00e2\u20ac\u2122t options stay hotel attendant night cordial fault tried help hotel owner couple times stay judging rancid look wiser stay future hate online write negative review absolute annoys fooled deceiving advertising false expectations beach hotel worth night\u00e2\u20ac\u2122s 60 bucks night you\u00e2\u20ac\u2122d staying cheap motel you\u00e2\u20ac\u2122ll microwave true board pool tiny couple time deep leaves disgusting bubbling foam hadn\u00e2\u20ac\u2122t cleaned time didn\u00e2\u20ac\u2122t lighting water night pitch black night arrived beach shared guests oldlooking apartment condo door beach sand filled rocks steps water bare feet ice machine available dirty red cooler water ice available don\u00e2\u20ac\u2122t caught bringing own beer outside cooler rules \u00e2\u20ac\u201c btw rules learn pay slapped 250 fine dare additional towel 150 fine size paint cabin didn\u00e2\u20ac\u2122t consider eating that\u00e2\u20ac\u2122s pathetic looked sucked badly mentions review site showers literally spray water except body person taking shower similar bathroom sink valve carefully water faucet control flow distribute stream little quickly won\u00e2\u20ac\u2122t shower stay pitch extra 20 yourself hotel local puerto rican recommend tourists abroad", "Date": "2010-08-28 00:00:00"}], "HotelInfo": {"Name": "Hotel Joyuda Beach", "HotelURL": "/ShowUserReviews-g147319-d151957-Reviews-Hotel_Joyuda_Beach-Puerto_Rico.html", "Price": "$70 - $125*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Road 102 Km 11.7</span> | <span class=\"extended-address\">Joyuda, Cabo Rojo</span>, <span class=\"locality\"><span property=\"v:postal-code\">00623</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>", "HotelID": "151957", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fb/d6/fbd64163b9aa3ca34f0bb3ce993572d44large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Virginia Beach, Virginia",
+      "Title": "\u201cNever again\u201d",
+      "Author": "Ramon A",
+      "ReviewID": "UR122337572",
+      "Content": "didnt natural light cave upgrade beachfront bedroom sliding glass door lock broken third nice sheets fitted move noooo water towels sand paper coffe maker bedroom own coffe lobby dont coffe la que nos luz natural una cueva nos una al mar pero la puerta de cristal el estaba la que nos estaba bien pero las se te si una bien es el para de agua caliente nos que el agua correr pero caliente las bien en las habitaciones que mi cafe en el lobby ya que ni tan cafe yo mi cafe",
+      "Date": "2011-12-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "New Orleans, Louisiana",
+      "Title": "\u201cBest place to stay in Joyuda, Cabo Rojo\u201d",
+      "Author": "Humberto Q",
+      "ReviewID": "UR119815908",
+      "Content": "budget friendly stay front beautiful beach protected reef perfect snorkeling sun baths sand nice pool relax drink food service ive stayed hotels close restaurants west island minutes marinas golf courses 15 minutes famous beaches stay private hotel offer recommended visiting im booked month",
+      "Date": "2011-10-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Trujillo Alto",
+      "Title": "\u201cGood place for a family and friends to stay\u201d",
+      "Author": "FernandoSierra",
+      "ReviewID": "UR106155858",
+      "Content": "dont people bad reviews stay hotel details service details luxurious hotel range course ready pay itthe employees food restaurant menu breakfast lunch dinner excellent beach adequate chance marine life nearbythe pool nice night includes dj lot fun nice vacationi recommend",
+      "Date": "2011-04-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Mexico",
+      "Title": "\u201cWorst. Hotel. EVER.\u201d",
+      "Author": "Rickyrasta",
+      "ReviewID": "UR95692460",
+      "Content": "dirty cockroaches bed hard rocks cant stress bad bed worst bed ive slept dirty sheets dont cover dirty mattress sleeping top dirty mattress bad service bad foodthe nightmare package yes listed reviews bad stay",
+      "Date": "2011-02-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Toa Baja, Puerto Rico",
+      "Title": "\u201cNot recommended at all!!!\u201d",
+      "Author": "JJSony",
+      "ReviewID": "UR77273905",
+      "Content": "total waste time money definitely would\u00e2\u20ac\u2122ve looked time check review site reservation basically negative comments guests accurate detail guy positive reviews paid hotel mentioned negative comment i\u00e2\u20ac\u2122ve seen \u00e2\u20ac\u201c hard mattresses \u00e2\u20ac\u201c true checked hotel attendant offered weak internet connection front lobby closest lobby \u00e2\u20ac\u201c close pool king bed hard boxspring wooden frame bed lacked softer mattress goes top pleasant night sleep mattress dirty sheets blankets hair previous guests sheets hadn\u00e2\u20ac\u2122t replaced arrival offer attendant moved hoping internet signal smoother cleaner bed guess hoping bed filthy stained mattress harder concrete third beds attendant roaches scrambling beds paid days nights checkin agreement refund departures wasn\u00e2\u20ac\u2122t options stay hotel attendant night cordial fault tried help hotel owner couple times stay judging rancid look wiser stay future hate online write negative review absolute annoys fooled deceiving advertising false expectations beach hotel worth night\u00e2\u20ac\u2122s 60 bucks night you\u00e2\u20ac\u2122d staying cheap motel you\u00e2\u20ac\u2122ll microwave true board pool tiny couple time deep leaves disgusting bubbling foam hadn\u00e2\u20ac\u2122t cleaned time didn\u00e2\u20ac\u2122t lighting water night pitch black night arrived beach shared guests oldlooking apartment condo door beach sand filled rocks steps water bare feet ice machine available dirty red cooler water ice available don\u00e2\u20ac\u2122t caught bringing own beer outside cooler rules \u00e2\u20ac\u201c btw rules learn pay slapped 250 fine dare additional towel 150 fine size paint cabin didn\u00e2\u20ac\u2122t consider eating that\u00e2\u20ac\u2122s pathetic looked sucked badly mentions review site showers literally spray water except body person taking shower similar bathroom sink valve carefully water faucet control flow distribute stream little quickly won\u00e2\u20ac\u2122t shower stay pitch extra 20 yourself hotel local puerto rican recommend tourists abroad",
+      "Date": "2010-08-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Joyuda Beach",
+    "HotelURL": "/ShowUserReviews-g147319-d151957-Reviews-Hotel_Joyuda_Beach-Puerto_Rico.html",
+    "Price": "$70 - $125*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Road 102 Km 11.7</span> | <span class=\"extended-address\">Joyuda, Cabo Rojo</span>, <span class=\"locality\"><span property=\"v:postal-code\">00623</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>",
+    "HotelID": "151957",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fb/d6/fbd64163b9aa3ca34f0bb3ce993572d44large.jpg"
+  }
+}

@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Kissimmee, Florida, United States", "Title": "\u201cDo NOT try your luck with this place!\u201d", "Author": "N_Valkyrie", "ReviewID": "UR119817541", "Content": "inn pleasant experience wealth reasons immediately overtly try overcharge addition woman counter evening shift unpleasant service horrendous absolutely shame renting horribly stained walls lack toiletries supplies literally extremely thin toilet tissue roll sliver soap threadbare bath towels doors front inn looked kicked regularly horrible possibly dangerous available innkeeper choose rent begs question stay facility learned near attractions stay close theme parks property located opposite city attractions located kissimmee deals hotels looking local stay kissimmee", "Date": "2011-10-28 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Fort Lauderdale, Florida", "Title": "\u201cSleepless in Kissimmee\u201d", "Author": "Koala8009", "ReviewID": "UR100985099", "Content": "faced bar street started live music time relax day disney kept awake till 200 300 am party continued hotel 330 am begged people door please quiet management 1100pm help endure 2 nights didnt option prepaid cash available elsewhere dont care cheap rate value", "Date": "2011-03-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Kissimmee, Florida", "Title": "\u201cplace is not bad\u201d", "Author": "sgfromfl", "ReviewID": "UR63744629", "Content": "weeks looking house people nice helpfulno ritz nto paying moneythe cleani smoke wifi charge worth cheap pay stay someplace else", "Date": "2010-05-10 00:00:00"}], "HotelInfo": {"Name": "Flamingo Inn", "HotelURL": "/ShowUserReviews-g34352-d120296-Reviews-Flamingo_Inn-Kissimmee_Florida.html", "Price": "$29 - $59*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">801 E. Vine St.</span>, <span class=\"locality\"><span property=\"v:locality\">Kissimmee</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">34744</span></span> </span></span></address>", "HotelID": "120296", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Kissimmee, Florida, United States",
+      "Title": "\u201cDo NOT try your luck with this place!\u201d",
+      "Author": "N_Valkyrie",
+      "ReviewID": "UR119817541",
+      "Content": "inn pleasant experience wealth reasons immediately overtly try overcharge addition woman counter evening shift unpleasant service horrendous absolutely shame renting horribly stained walls lack toiletries supplies literally extremely thin toilet tissue roll sliver soap threadbare bath towels doors front inn looked kicked regularly horrible possibly dangerous available innkeeper choose rent begs question stay facility learned near attractions stay close theme parks property located opposite city attractions located kissimmee deals hotels looking local stay kissimmee",
+      "Date": "2011-10-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Fort Lauderdale, Florida",
+      "Title": "\u201cSleepless in Kissimmee\u201d",
+      "Author": "Koala8009",
+      "ReviewID": "UR100985099",
+      "Content": "faced bar street started live music time relax day disney kept awake till 200 300 am party continued hotel 330 am begged people door please quiet management 1100pm help endure 2 nights didnt option prepaid cash available elsewhere dont care cheap rate value",
+      "Date": "2011-03-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Kissimmee, Florida",
+      "Title": "\u201cplace is not bad\u201d",
+      "Author": "sgfromfl",
+      "ReviewID": "UR63744629",
+      "Content": "weeks looking house people nice helpfulno ritz nto paying moneythe cleani smoke wifi charge worth cheap pay stay someplace else",
+      "Date": "2010-05-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Flamingo Inn",
+    "HotelURL": "/ShowUserReviews-g34352-d120296-Reviews-Flamingo_Inn-Kissimmee_Florida.html",
+    "Price": "$29 - $59*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">801 E. Vine St.</span>, <span class=\"locality\"><span property=\"v:locality\">Kissimmee</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">34744</span></span> </span></span></address>",
+    "HotelID": "120296",
+    "ImgURL": ""
+  }
+}

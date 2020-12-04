@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Nottingham, United Kingdom", "Title": "\u201cgood budget hotel\u201d", "Author": "bungeeflyer", "ReviewID": "UR124607695", "Content": "friend returned 3 night stay hotel reading reviews expecting pleasantly surprised building door main reception accessed buzzer system top building 51 steps day walking facing onto rear despite proximity railway overly bothered noise spacious basically furnished spotlessly clean beds comfortable little adequate sized towels provided waste sink fixing leaked mirror bedroom bathroomthere tv italian programs continental breakfast provided choice cereals bread toaster provided jams coffee tea bags fruit juices price 2 friendly staff placed 15 minute straight walk termini stay recommend clean basic", "Date": "2012-02-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cClean and Cosy\u201d", "Author": "luvrui", "ReviewID": "UR110358409", "Content": "arriving grounds interior comforting ambient key handled single ensuite floor cosy yellow bed fittings window overlooks greenhouse breakfast unfortunately extremely weak wifi connection constantly sit lobby breakfast downstairs extremely cold breakfast continental crossiants toast wide variety preserves forgetting espressos served request despite merely straight left road termini difficulty locating am pretty navigator overall bad rome experience impaired navigation day police whom drove passed heading merely 100 metres hotel door police flashed badge kept immediately demanded passport doubt requested police badge pull vehicle middle lane started belongings refused passport real doubt police started sniff wallet bag debit card cash accusing am japanese cigarettes weird actions puzzled holding belongings courage started overcoming fear snatched shouted trying run conjested traffic caused pull vehicle started honking jetted returned hotel midi told guy tending reception happened understand policeman probably police driving police car private car secondly police travel pair policeman whom met italian lesson learnt encounter hand belongings offer walk nearest police station happens nevertheless thank reception guy whom cleared doubts piece mind rest remaining journey", "Date": "2011-05-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Cork, Ireland", "Title": "\u201cFantastic place to stay\u201d", "Author": "Raz86", "ReviewID": "UR102611325", "Content": "reading negative reviews hotel bit apprehensive trip rome time perfect arrived hotel night surrounding looked dirty unfriendly little intimidating pleasantly surprised midi hotel buzzed door feel safe entering delighted clean reception staff spoke perfect english floor overlooking conservatory breakfast garden balcony sitting day walking handy partner smokes ash trays provided compact cosy comfortable bathroom tiny toilet awkwardly placed hard centre toilet shower wall cramped tall little awkward minor issue shower fixed shower head detachable water pressure corner shower leak afterwards towel dry water wasnt didnt tv mini bar sleep bed comfortable wasnt noise hotel dont noise recommend shutter glass doors lead onto balcony nice leave shutters warm night march breakfast pretty basic bread option toast pre packed croissants cereal juice ate breakfast day stayed didnt slept bit location hotel close termini station walking distance sights roma passes day recommend free entrance museums archeological free travel metro bus tram routes cost \u20ac25 valid days metro lot easy restaurant street via manzoni called red ate night food seriously nice reasonably priced staff welcoming friendly speak english italian love hear words italian italians effort help attempt language overall midi hotel fantastic base days spent rome location price perfect helpful staff whom extra mile help excellent time rome cant wait recommend hotel definitely stay", "Date": "2011-04-03 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Sheffield, United Kingdom", "Title": "\u201cThis hotel is lovely, really!!!\u201d", "Author": "Ashleybradley", "ReviewID": "UR80281318", "Content": "read bad comments regarding hotel travelled wasnt looking forward found hotel ideal clean en suite air conditioned lift floor anyway wasnt issue staff helpful polite personal remembering breakfast simple cereal toast pasta pizza bad quibble location trams outside didnt city centre walk termini metro tremendous issue remember reading reviews people expectations crash night found adequate expected maybe pleased pleased aspects hotel highly recommended consider", "Date": "2010-09-20 00:00:00"}], "HotelInfo": {"Name": "Midi Hotel", "HotelURL": "/ShowUserReviews-g187791-d482638-Reviews-Midi_Hotel-Rome_Lazio.html", "Price": "$74 - $138*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Giovanni Giolitti</span>, <span class=\"locality\"><span property=\"v:postal-code\">00195</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "482638", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/e8/0f/0f/il-nostro-giardino.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Nottingham, United Kingdom",
+      "Title": "\u201cgood budget hotel\u201d",
+      "Author": "bungeeflyer",
+      "ReviewID": "UR124607695",
+      "Content": "friend returned 3 night stay hotel reading reviews expecting pleasantly surprised building door main reception accessed buzzer system top building 51 steps day walking facing onto rear despite proximity railway overly bothered noise spacious basically furnished spotlessly clean beds comfortable little adequate sized towels provided waste sink fixing leaked mirror bedroom bathroomthere tv italian programs continental breakfast provided choice cereals bread toaster provided jams coffee tea bags fruit juices price 2 friendly staff placed 15 minute straight walk termini stay recommend clean basic",
+      "Date": "2012-02-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cClean and Cosy\u201d",
+      "Author": "luvrui",
+      "ReviewID": "UR110358409",
+      "Content": "arriving grounds interior comforting ambient key handled single ensuite floor cosy yellow bed fittings window overlooks greenhouse breakfast unfortunately extremely weak wifi connection constantly sit lobby breakfast downstairs extremely cold breakfast continental crossiants toast wide variety preserves forgetting espressos served request despite merely straight left road termini difficulty locating am pretty navigator overall bad rome experience impaired navigation day police whom drove passed heading merely 100 metres hotel door police flashed badge kept immediately demanded passport doubt requested police badge pull vehicle middle lane started belongings refused passport real doubt police started sniff wallet bag debit card cash accusing am japanese cigarettes weird actions puzzled holding belongings courage started overcoming fear snatched shouted trying run conjested traffic caused pull vehicle started honking jetted returned hotel midi told guy tending reception happened understand policeman probably police driving police car private car secondly police travel pair policeman whom met italian lesson learnt encounter hand belongings offer walk nearest police station happens nevertheless thank reception guy whom cleared doubts piece mind rest remaining journey",
+      "Date": "2011-05-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Cork, Ireland",
+      "Title": "\u201cFantastic place to stay\u201d",
+      "Author": "Raz86",
+      "ReviewID": "UR102611325",
+      "Content": "reading negative reviews hotel bit apprehensive trip rome time perfect arrived hotel night surrounding looked dirty unfriendly little intimidating pleasantly surprised midi hotel buzzed door feel safe entering delighted clean reception staff spoke perfect english floor overlooking conservatory breakfast garden balcony sitting day walking handy partner smokes ash trays provided compact cosy comfortable bathroom tiny toilet awkwardly placed hard centre toilet shower wall cramped tall little awkward minor issue shower fixed shower head detachable water pressure corner shower leak afterwards towel dry water wasnt didnt tv mini bar sleep bed comfortable wasnt noise hotel dont noise recommend shutter glass doors lead onto balcony nice leave shutters warm night march breakfast pretty basic bread option toast pre packed croissants cereal juice ate breakfast day stayed didnt slept bit location hotel close termini station walking distance sights roma passes day recommend free entrance museums archeological free travel metro bus tram routes cost \u20ac25 valid days metro lot easy restaurant street via manzoni called red ate night food seriously nice reasonably priced staff welcoming friendly speak english italian love hear words italian italians effort help attempt language overall midi hotel fantastic base days spent rome location price perfect helpful staff whom extra mile help excellent time rome cant wait recommend hotel definitely stay",
+      "Date": "2011-04-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sheffield, United Kingdom",
+      "Title": "\u201cThis hotel is lovely, really!!!\u201d",
+      "Author": "Ashleybradley",
+      "ReviewID": "UR80281318",
+      "Content": "read bad comments regarding hotel travelled wasnt looking forward found hotel ideal clean en suite air conditioned lift floor anyway wasnt issue staff helpful polite personal remembering breakfast simple cereal toast pasta pizza bad quibble location trams outside didnt city centre walk termini metro tremendous issue remember reading reviews people expectations crash night found adequate expected maybe pleased pleased aspects hotel highly recommended consider",
+      "Date": "2010-09-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Midi Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d482638-Reviews-Midi_Hotel-Rome_Lazio.html",
+    "Price": "$74 - $138*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Giovanni Giolitti</span>, <span class=\"locality\"><span property=\"v:postal-code\">00195</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "482638",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/e8/0f/0f/il-nostro-giardino.jpg"
+  }
+}

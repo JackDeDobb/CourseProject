@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Savannah, Georgia", "Title": "\u201cFantastic experience thanks to the location and staff\u201d", "Author": "TheGiorgis", "ReviewID": "UR81082104", "Content": "location little cafes train station street centrallylocated price fantastic hotels stay friendly helpful receptionist doesnt speak english dont speak word german able understand arrived husband greet airport taxis outside german dont train connecting bus 210 eu opposed 20 eu taxi cut train schedule explained 3 times understood excited successful trip airport international vacation experiences makes trip top choosing view charged originally quoted", "Date": "2010-09-26 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Perugia, Italy", "Title": "\u201cExcellent location but the rooms are just about OK\u201d", "Author": "TheDreamGod", "ReviewID": "UR68475525", "Content": "hotel close sbahn ubahn stations connected addition quarter lively ambulance cafe street provides free wifi excellent food hot drinks nice food nearby hotel staff polite helpful guests occasionally yelling furniture unlucky stinky bathroom breakfast nice id recommend location price", "Date": "2010-06-23 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Melbourne", "Title": "\u201cGood sized rooms, friendly reception and nice breaky.\u201d", "Author": "fairyprincess_007", "ReviewID": "UR57073328", "Content": "stayed 5 nights winter berlin staff speak little english friendly none hotel neat clean theres plenty spread internet reach internet care road espresso ambulance coffee password youll window facing breakfast usual meats cheeses breads yoghurts lots restaurants eating pleasure theres subway station outside opted taxi hauptbahnhof cost 7 euro", "Date": "2010-02-25 00:00:00"}], "HotelInfo": {"Name": "Hotel Berlin Markischer Hof am Tacheles", "HotelURL": "/ShowUserReviews-g187323-d234938-Reviews-Hotel_Berlin_Markischer_Hof_am_Tacheles-Berlin.html", "Price": "$59 - $85*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Linienstrasse 133</span> | <span class=\"extended-address\">Mitte</span>, <span class=\"locality\"><span property=\"v:postal-code\">10115</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "234938", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/33/96/b1/hotel-berlin-markischer.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Savannah, Georgia",
+      "Title": "\u201cFantastic experience thanks to the location and staff\u201d",
+      "Author": "TheGiorgis",
+      "ReviewID": "UR81082104",
+      "Content": "location little cafes train station street centrallylocated price fantastic hotels stay friendly helpful receptionist doesnt speak english dont speak word german able understand arrived husband greet airport taxis outside german dont train connecting bus 210 eu opposed 20 eu taxi cut train schedule explained 3 times understood excited successful trip airport international vacation experiences makes trip top choosing view charged originally quoted",
+      "Date": "2010-09-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Perugia, Italy",
+      "Title": "\u201cExcellent location but the rooms are just about OK\u201d",
+      "Author": "TheDreamGod",
+      "ReviewID": "UR68475525",
+      "Content": "hotel close sbahn ubahn stations connected addition quarter lively ambulance cafe street provides free wifi excellent food hot drinks nice food nearby hotel staff polite helpful guests occasionally yelling furniture unlucky stinky bathroom breakfast nice id recommend location price",
+      "Date": "2010-06-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Melbourne",
+      "Title": "\u201cGood sized rooms, friendly reception and nice breaky.\u201d",
+      "Author": "fairyprincess_007",
+      "ReviewID": "UR57073328",
+      "Content": "stayed 5 nights winter berlin staff speak little english friendly none hotel neat clean theres plenty spread internet reach internet care road espresso ambulance coffee password youll window facing breakfast usual meats cheeses breads yoghurts lots restaurants eating pleasure theres subway station outside opted taxi hauptbahnhof cost 7 euro",
+      "Date": "2010-02-25 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Berlin Markischer Hof am Tacheles",
+    "HotelURL": "/ShowUserReviews-g187323-d234938-Reviews-Hotel_Berlin_Markischer_Hof_am_Tacheles-Berlin.html",
+    "Price": "$59 - $85*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Linienstrasse 133</span> | <span class=\"extended-address\">Mitte</span>, <span class=\"locality\"><span property=\"v:postal-code\">10115</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "234938",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/33/96/b1/hotel-berlin-markischer.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "San Francisco, California", "Title": "\u201cPile of poop, cockroaches, dirty feet/looks and cramped rooms\u201d", "Author": "runnershigh8", "ReviewID": "UR125680304", "Content": "write review acknowledging bad experience unlucky ones building main guests staying inconvenient main facilities breakfast laundry main lounge am pretty building 1 cheap singapore 2 located aljunied mtr station 3 cleancomfy beds 4 wifi internet access bad 1 extremely cramped arms bit arm span reach wall wall couldnt door slamming luggage 2 im security twice doors closed locked hall slammed doors door didnt ease mind security werent 3 arent allowed wear shoes inside pretty considering trudging trudging arent supposed wear shoes bathrooms wearing shoes inside wore designated shower sandals received pretty nasty looks 4 elevator means brought luggage stories building stories building 5 book additional 10 service charge pay addition rate quoted hostelworld didnt realize looked closely printout 5 hear walls partitioned owners hostel create meaning huge cracks wall via shared window example allow serious sound travel hear people door breathing 6 building residents live nicer definitely didnt welcome hostel feeling people ugly literally pile steaming fresh diarrhea greet steps staircase building wth happened additional freebie huge cockroach presumably died horrific stench wasnt 10 hours arrived hosed didnt learn night stay cockroaches singapore indeed fly singaporean friend told witness building main hang building fan windows left dayall night meant bathrooms occupied huge flying cockroach cockroaches dont bother definitely bother boyfriend traveling southeast asia 7 weeks favorite stayed options singapore extremely limited budget book caution", "Date": "2012-03-05 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 4.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Dorset, England", "Title": "\u201cAdequate hostel but a bit rough around the edges\u201d", "Author": "Whale_shark_23", "ReviewID": "UR121383382", "Content": "positives comfortable clean bed nice bedding internet access lockers 4 modern shower mrt station air con hot showers movies tv negatives change wasnt wet unfinished paint diy cramped bedroom hard sign outside third floor poor breakfast milk dry cornflakes cheap bread check cheap", "Date": "2011-12-04 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Manila, Philippines", "Title": "\u201cI recommend\u201d", "Author": "CharmingHoney", "ReviewID": "UR120819204", "Content": "hotel near ew 9 station aljunied steps youre mrt located 3rd floor carry baggage unluckily heavy person charge fluent english access main door common bathroom clean continental breakfast fine recommend hostel budget concious", "Date": "2011-11-20 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Las Pinas, Philippines", "Title": "\u201cGreat place to stay in!\u201d", "Author": "goldencleo88", "ReviewID": "UR105746060", "Content": "kids enjoyed 6 days stay hostel manager son ourselves meet people boarding private suited stones throw mrt shower clean airconditioned 24hrs wifi value money", "Date": "2011-04-27 00:00:00"}], "HotelInfo": {"Name": "Wow Hostels", "HotelURL": "/ShowUserReviews-g294265-d1625675-Reviews-Wow_Hostels-Singapore.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">67B Lor 27 Geylang</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">388189</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>", "HotelID": "1625675", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "San Francisco, California",
+      "Title": "\u201cPile of poop, cockroaches, dirty feet/looks and cramped rooms\u201d",
+      "Author": "runnershigh8",
+      "ReviewID": "UR125680304",
+      "Content": "write review acknowledging bad experience unlucky ones building main guests staying inconvenient main facilities breakfast laundry main lounge am pretty building 1 cheap singapore 2 located aljunied mtr station 3 cleancomfy beds 4 wifi internet access bad 1 extremely cramped arms bit arm span reach wall wall couldnt door slamming luggage 2 im security twice doors closed locked hall slammed doors door didnt ease mind security werent 3 arent allowed wear shoes inside pretty considering trudging trudging arent supposed wear shoes bathrooms wearing shoes inside wore designated shower sandals received pretty nasty looks 4 elevator means brought luggage stories building stories building 5 book additional 10 service charge pay addition rate quoted hostelworld didnt realize looked closely printout 5 hear walls partitioned owners hostel create meaning huge cracks wall via shared window example allow serious sound travel hear people door breathing 6 building residents live nicer definitely didnt welcome hostel feeling people ugly literally pile steaming fresh diarrhea greet steps staircase building wth happened additional freebie huge cockroach presumably died horrific stench wasnt 10 hours arrived hosed didnt learn night stay cockroaches singapore indeed fly singaporean friend told witness building main hang building fan windows left dayall night meant bathrooms occupied huge flying cockroach cockroaches dont bother definitely bother boyfriend traveling southeast asia 7 weeks favorite stayed options singapore extremely limited budget book caution",
+      "Date": "2012-03-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Dorset, England",
+      "Title": "\u201cAdequate hostel but a bit rough around the edges\u201d",
+      "Author": "Whale_shark_23",
+      "ReviewID": "UR121383382",
+      "Content": "positives comfortable clean bed nice bedding internet access lockers 4 modern shower mrt station air con hot showers movies tv negatives change wasnt wet unfinished paint diy cramped bedroom hard sign outside third floor poor breakfast milk dry cornflakes cheap bread check cheap",
+      "Date": "2011-12-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Manila, Philippines",
+      "Title": "\u201cI recommend\u201d",
+      "Author": "CharmingHoney",
+      "ReviewID": "UR120819204",
+      "Content": "hotel near ew 9 station aljunied steps youre mrt located 3rd floor carry baggage unluckily heavy person charge fluent english access main door common bathroom clean continental breakfast fine recommend hostel budget concious",
+      "Date": "2011-11-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Las Pinas, Philippines",
+      "Title": "\u201cGreat place to stay in!\u201d",
+      "Author": "goldencleo88",
+      "ReviewID": "UR105746060",
+      "Content": "kids enjoyed 6 days stay hostel manager son ourselves meet people boarding private suited stones throw mrt shower clean airconditioned 24hrs wifi value money",
+      "Date": "2011-04-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Wow Hostels",
+    "HotelURL": "/ShowUserReviews-g294265-d1625675-Reviews-Wow_Hostels-Singapore.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">67B Lor 27 Geylang</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">388189</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>",
+    "HotelID": "1625675",
+    "ImgURL": ""
+  }
+}

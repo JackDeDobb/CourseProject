@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Bonn, Germany", "Title": "\u201cRoyal feel and look\u201d", "Author": "ankismile", "ReviewID": "UR122967112", "Content": "hotel situated berlin center walking tram sbahn station missed entrance hotel realised pretty deal insidethe hotel look 1920s royal building looks villa converted hotel elevator feel 20s spacious neat comfortable staff nice spoke english recommended", "Date": "2012-01-12 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "\u00c5rhus, Denmark", "Title": "\u201cGreat value!\u201d", "Author": "Jensen09", "ReviewID": "UR75023449", "Content": "returned fantastic trip berlin vi booked hotel hotelscom 130 \u20ac 3 nights breakfast included bit worried quality hotel cheap surprised placed bit center berlin absolutely ubahn station outside door public transport effective neighborhood offers restaurants comfortable bed slept bathroom newly modernized clean shower plenty space stuff real hair dryer hotel hair dryer enjoyed creaking wooden floor contributed charm facing street busy noisy windows closed posible facing lovely backyard return facing street balcony fifth floor fantastic view city close windows night hot summer hotel offer aircondition breakfast costs 9 \u20ac probably cheaper worth money hard choose delicious summer enjoy quiet backyard lots plants flowers service staff help question absolutely return time berlin", "Date": "2010-08-13 00:00:00"}], "HotelInfo": {"Name": "Brandies MD Hotel Messe", "HotelURL": "/ShowUserReviews-g187323-d234932-Reviews-Brandies_MD_Hotel_Messe-Berlin.html", "Price": "$64 - $217*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kaiserdamm 27</span> | <span class=\"extended-address\">Charlottenburg</span>, <span class=\"locality\"><span property=\"v:postal-code\">14057</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "234932", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/fa/00/9a/gartenidylle-im-brandies.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bonn, Germany",
+      "Title": "\u201cRoyal feel and look\u201d",
+      "Author": "ankismile",
+      "ReviewID": "UR122967112",
+      "Content": "hotel situated berlin center walking tram sbahn station missed entrance hotel realised pretty deal insidethe hotel look 1920s royal building looks villa converted hotel elevator feel 20s spacious neat comfortable staff nice spoke english recommended",
+      "Date": "2012-01-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "\u00c5rhus, Denmark",
+      "Title": "\u201cGreat value!\u201d",
+      "Author": "Jensen09",
+      "ReviewID": "UR75023449",
+      "Content": "returned fantastic trip berlin vi booked hotel hotelscom 130 \u20ac 3 nights breakfast included bit worried quality hotel cheap surprised placed bit center berlin absolutely ubahn station outside door public transport effective neighborhood offers restaurants comfortable bed slept bathroom newly modernized clean shower plenty space stuff real hair dryer hotel hair dryer enjoyed creaking wooden floor contributed charm facing street busy noisy windows closed posible facing lovely backyard return facing street balcony fifth floor fantastic view city close windows night hot summer hotel offer aircondition breakfast costs 9 \u20ac probably cheaper worth money hard choose delicious summer enjoy quiet backyard lots plants flowers service staff help question absolutely return time berlin",
+      "Date": "2010-08-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Brandies MD Hotel Messe",
+    "HotelURL": "/ShowUserReviews-g187323-d234932-Reviews-Brandies_MD_Hotel_Messe-Berlin.html",
+    "Price": "$64 - $217*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kaiserdamm 27</span> | <span class=\"extended-address\">Charlottenburg</span>, <span class=\"locality\"><span property=\"v:postal-code\">14057</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "234932",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/fa/00/9a/gartenidylle-im-brandies.jpg"
+  }
+}

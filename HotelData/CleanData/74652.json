@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "tucson,az", "Title": "\u201cserves its purpose well\u201d", "Author": "2oldtravelers2", "ReviewID": "UR121988843", "Content": "hotel close st hospital thomas rd 7th perfect family staying day hospital special rates hospital stays husbands hospital stay 3 weeks hesitant stay negative reviews improved service accommodations reviewers bad expected hilton marriott sheraton experience bargain rates stayed efficiency apartment bring own shampoo food serviced week fine staff pleasant weekday coffee bagels muffins fruit bit shopworn bed comfortable price geared practicality term vacations luxury amenities stay stay hospital imminent", "Date": "2011-12-22 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "colorado springs", "Title": "\u201cSTAY AWAY!!!!\u201d", "Author": "sdfghasderthg", "ReviewID": "UR83586013", "Content": "worst hotel wait hour checking front doors locked guest protection front desk 7am dirty smelly found shower towels looked cleaned month hard beds light dirty pool bad", "Date": "2010-10-15 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cDONT STAY HERE!\u201d", "Author": "Astutefox", "ReviewID": "UR80094081", "Content": "outside hotel looked lobby clean staff courteous left lobby bad hallway dingy carpet filthy walked stains looked dried blood vomit check reaching conclusions blush looked okay tell recently remodeled fresh coat paint flat screen tv refurbished cabinets entered noticed 1 worn dirty carpet cigarette burns white stains dented chipped furniture stained sofa 2 bedsheets hair lipstick 3 someones belonging left closed neatly bundled plastic bag 4 infested roaches grabbed bags left immediately extended stay refund apologies found clean comfortable holiday inn express 30 breakfast included summary clean lobby courteous staff bad else including lobby closes 10pm dirty hallways dingy roaches bottom line dont stay", "Date": "2010-09-18 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "yuma az", "Title": "\u201cHospital visit - economy prime - good value\u201d", "Author": "birchbaybill_9", "ReviewID": "UR67740033", "Content": "yuma power steering 40 mile short staggered thrilled motel lot repaired car day medical trip appreciated hospital discount 3 days night left windows bit cds classical hawaiian folk figured theyd tossed checked trashes beware accommodation queen studio perfectly adequate bed fridge tv cont breakfast minimal adequate bagel toast utensils skimpy dishes told staff friendly helpful april deducted star loss favorite cds", "Date": "2010-06-16 00:00:00"}], "HotelInfo": {"Name": "Extended Stay Deluxe Phoenix - Midtown", "HotelURL": "/ShowUserReviews-g31310-d74652-Reviews-Extended_Stay_Deluxe_Phoenix_Midtown-Phoenix_Arizona.html", "Price": "$73 - $81*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">217 West Osborn Road</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85013</span></span> </span></span></address>", "HotelID": "74652", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/61/12/6112d0bc576e229ef2c593d36a25bea84large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "tucson,az",
+      "Title": "\u201cserves its purpose well\u201d",
+      "Author": "2oldtravelers2",
+      "ReviewID": "UR121988843",
+      "Content": "hotel close st hospital thomas rd 7th perfect family staying day hospital special rates hospital stays husbands hospital stay 3 weeks hesitant stay negative reviews improved service accommodations reviewers bad expected hilton marriott sheraton experience bargain rates stayed efficiency apartment bring own shampoo food serviced week fine staff pleasant weekday coffee bagels muffins fruit bit shopworn bed comfortable price geared practicality term vacations luxury amenities stay stay hospital imminent",
+      "Date": "2011-12-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "colorado springs",
+      "Title": "\u201cSTAY AWAY!!!!\u201d",
+      "Author": "sdfghasderthg",
+      "ReviewID": "UR83586013",
+      "Content": "worst hotel wait hour checking front doors locked guest protection front desk 7am dirty smelly found shower towels looked cleaned month hard beds light dirty pool bad",
+      "Date": "2010-10-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cDONT STAY HERE!\u201d",
+      "Author": "Astutefox",
+      "ReviewID": "UR80094081",
+      "Content": "outside hotel looked lobby clean staff courteous left lobby bad hallway dingy carpet filthy walked stains looked dried blood vomit check reaching conclusions blush looked okay tell recently remodeled fresh coat paint flat screen tv refurbished cabinets entered noticed 1 worn dirty carpet cigarette burns white stains dented chipped furniture stained sofa 2 bedsheets hair lipstick 3 someones belonging left closed neatly bundled plastic bag 4 infested roaches grabbed bags left immediately extended stay refund apologies found clean comfortable holiday inn express 30 breakfast included summary clean lobby courteous staff bad else including lobby closes 10pm dirty hallways dingy roaches bottom line dont stay",
+      "Date": "2010-09-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "yuma az",
+      "Title": "\u201cHospital visit - economy prime - good value\u201d",
+      "Author": "birchbaybill_9",
+      "ReviewID": "UR67740033",
+      "Content": "yuma power steering 40 mile short staggered thrilled motel lot repaired car day medical trip appreciated hospital discount 3 days night left windows bit cds classical hawaiian folk figured theyd tossed checked trashes beware accommodation queen studio perfectly adequate bed fridge tv cont breakfast minimal adequate bagel toast utensils skimpy dishes told staff friendly helpful april deducted star loss favorite cds",
+      "Date": "2010-06-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Extended Stay Deluxe Phoenix - Midtown",
+    "HotelURL": "/ShowUserReviews-g31310-d74652-Reviews-Extended_Stay_Deluxe_Phoenix_Midtown-Phoenix_Arizona.html",
+    "Price": "$73 - $81*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">217 West Osborn Road</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85013</span></span> </span></span></address>",
+    "HotelID": "74652",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/61/12/6112d0bc576e229ef2c593d36a25bea84large.jpg"
+  }
+}

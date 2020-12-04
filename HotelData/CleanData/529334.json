@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Castiglione del Lago, Italy", "Title": "\u201cBut it is inexpensive!\u201d", "Author": "Don938", "ReviewID": "UR123556316", "Content": "hotel hard endured lot remodel clean noticed entering smoking ash tray looked left overs construction job flooring didnt reach walls wall finishes varied incomplete wall trash plastic cups bed comfortable quiet shower foot bathroom door blocked twothirds toilet close shower sat feet rested shower pan neither toilet lid seat stayed sat toilet lid hit rested restaurant 1970s design wine list told red white selected red drinkable served bread fresh tasty pasta dishes course waiter nice gentleman concerned hadnt finished pasta", "Date": "2012-01-24 00:00:00"}], "HotelInfo": {"Name": "Villa Spada", "HotelURL": "/ShowUserReviews-g187791-d529334-Reviews-Villa_Spada-Rome_Lazio.html", "Price": "$66 - $100*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Maria Elena Bettini 20</span>, <span class=\"locality\"><span property=\"v:postal-code\">138</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "529334", "ImgURL": "http://www.venere.com/img/hotel/0/5/2/2/2250/2250.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Castiglione del Lago, Italy",
+      "Title": "\u201cBut it is inexpensive!\u201d",
+      "Author": "Don938",
+      "ReviewID": "UR123556316",
+      "Content": "hotel hard endured lot remodel clean noticed entering smoking ash tray looked left overs construction job flooring didnt reach walls wall finishes varied incomplete wall trash plastic cups bed comfortable quiet shower foot bathroom door blocked twothirds toilet close shower sat feet rested shower pan neither toilet lid seat stayed sat toilet lid hit rested restaurant 1970s design wine list told red white selected red drinkable served bread fresh tasty pasta dishes course waiter nice gentleman concerned hadnt finished pasta",
+      "Date": "2012-01-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Villa Spada",
+    "HotelURL": "/ShowUserReviews-g187791-d529334-Reviews-Villa_Spada-Rome_Lazio.html",
+    "Price": "$66 - $100*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Maria Elena Bettini 20</span>, <span class=\"locality\"><span property=\"v:postal-code\">138</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "529334",
+    "ImgURL": "http://www.venere.com/img/hotel/0/5/2/2/2250/2250.jpg"
+  }
+}

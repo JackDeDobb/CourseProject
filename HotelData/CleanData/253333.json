@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "branson", "Title": "\u201cA much needed extended stay motel and negotiable.\u201d", "Author": "curus005", "ReviewID": "UR109116989", "Content": "nice stay expenses paid wifi water refrig furniture carpeting residents atmosphere wd swimming pool hot tuband dated spring cleanings initial towels service extra regular hotel rates extended stays negotiable sincerely barbara annual extended stay", "Date": "2011-05-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Wichita, Kansas", "Title": "\u201cGreat stay!!!!!\u201d", "Author": "skippy047", "ReviewID": "UR98472831", "Content": "stayed 5 nights staff friendly helped directions getting tickets hassle stay branson clean comfortable wife extra pillows towels liked location stay", "Date": "2011-02-28 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Farmer City, Illinois", "Title": "\u201cnever again....\u201d", "Author": "cobina54", "ReviewID": "UR87023248", "Content": "spend 3 nights called motel reservations handicapped handicapped coffee pot elevator lighting struck leaky toliet towels toliet paper mold bath quiet guest bypass motel sleep bus", "Date": "2010-11-14 00:00:00"}], "HotelInfo": {"Name": "Leisure Country Inn", "HotelURL": "/ShowUserReviews-g44160-d253333-Reviews-Leisure_Country_Inn-Branson_Missouri.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3350 West Hwy 76</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>", "HotelID": "253333", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/bd/ff/85/leisure-country-inn-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "branson",
+      "Title": "\u201cA much needed extended stay motel and negotiable.\u201d",
+      "Author": "curus005",
+      "ReviewID": "UR109116989",
+      "Content": "nice stay expenses paid wifi water refrig furniture carpeting residents atmosphere wd swimming pool hot tuband dated spring cleanings initial towels service extra regular hotel rates extended stays negotiable sincerely barbara annual extended stay",
+      "Date": "2011-05-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Wichita, Kansas",
+      "Title": "\u201cGreat stay!!!!!\u201d",
+      "Author": "skippy047",
+      "ReviewID": "UR98472831",
+      "Content": "stayed 5 nights staff friendly helped directions getting tickets hassle stay branson clean comfortable wife extra pillows towels liked location stay",
+      "Date": "2011-02-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Farmer City, Illinois",
+      "Title": "\u201cnever again....\u201d",
+      "Author": "cobina54",
+      "ReviewID": "UR87023248",
+      "Content": "spend 3 nights called motel reservations handicapped handicapped coffee pot elevator lighting struck leaky toliet towels toliet paper mold bath quiet guest bypass motel sleep bus",
+      "Date": "2010-11-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Leisure Country Inn",
+    "HotelURL": "/ShowUserReviews-g44160-d253333-Reviews-Leisure_Country_Inn-Branson_Missouri.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3350 West Hwy 76</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>",
+    "HotelID": "253333",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/bd/ff/85/leisure-country-inn-thumbnail.jpg"
+  }
+}

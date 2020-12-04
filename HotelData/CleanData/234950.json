@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "New York", "Title": "\u201cGenerally Good\u201d", "Author": "trebex", "ReviewID": "UR94315821", "Content": "european meaning tiny clean quiet hot water breakfast 7 euros decent eat cheaper outside conveniently located near ubahn neighborhood plenty food choices staff speak english friendly biggest issue adjacent smoking floor reeked", "Date": "2011-01-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cGreat value and service\u201d", "Author": "Julian088", "ReviewID": "UR70969817", "Content": "friendly family run hotel facilities 23 star spotlessly clean beds comfortable free wifi staff friendly helpful sufficient english close bahn travel city book parking space courtyard secure", "Date": "2010-07-15 00:00:00"}], "HotelInfo": {"Name": "Hotel am Hermannplatz", "HotelURL": "/ShowUserReviews-g187323-d234950-Reviews-Hotel_am_Hermannplatz-Berlin.html", "Price": "$72 - $122*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kottbusser Damm 24</span> | <span class=\"extended-address\">Kreuzberg</span>, <span class=\"locality\"><span property=\"v:postal-code\">10967</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "234950", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/98/c2/98c22ed5ef6e916b20ebfe15d06a84461large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "New York",
+      "Title": "\u201cGenerally Good\u201d",
+      "Author": "trebex",
+      "ReviewID": "UR94315821",
+      "Content": "european meaning tiny clean quiet hot water breakfast 7 euros decent eat cheaper outside conveniently located near ubahn neighborhood plenty food choices staff speak english friendly biggest issue adjacent smoking floor reeked",
+      "Date": "2011-01-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cGreat value and service\u201d",
+      "Author": "Julian088",
+      "ReviewID": "UR70969817",
+      "Content": "friendly family run hotel facilities 23 star spotlessly clean beds comfortable free wifi staff friendly helpful sufficient english close bahn travel city book parking space courtyard secure",
+      "Date": "2010-07-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel am Hermannplatz",
+    "HotelURL": "/ShowUserReviews-g187323-d234950-Reviews-Hotel_am_Hermannplatz-Berlin.html",
+    "Price": "$72 - $122*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kottbusser Damm 24</span> | <span class=\"extended-address\">Kreuzberg</span>, <span class=\"locality\"><span property=\"v:postal-code\">10967</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "234950",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/98/c2/98c22ed5ef6e916b20ebfe15d06a84461large.jpg"
+  }
+}

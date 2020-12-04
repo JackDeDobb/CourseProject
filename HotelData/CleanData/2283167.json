@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Gothenburg, Sweden", "Title": "\u201cWonderful\u201d", "Author": "eson_pson", "ReviewID": "UR127409151", "Content": "location perfect quiet street hundreds restaurants shops walking distance campo di fiori piazza navona trastevere breakfast outstanding normal hotels rome lots cut fresh fruit cheese cold cuts cereals youghurts bread croissants pastries staff breakfast nice hardly notice extremely efficient quiet reception staff pleasant helpful especially irene helped lot warm smile clean appreciated chairs sit bed bedside lamp efficient light reading pillows hard", "Date": "2012-04-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Gibraltar", "Title": "\u201cGood rapport qualite/prix for the position.\u201d", "Author": "peter_miles", "ReviewID": "UR121875761", "Content": "previously stayed albergo al nearby hotel little cheaper frankly decent breakfast included credit cards neither position excellent terms tourist attractions quiet requested advance fun brit french embassy door whenever bit depressed reminder scale special clean decent reasonable price central rome terms", "Date": "2011-12-19 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Dallas", "Title": "\u201cVery Quaint Hotel in Good Location\u201d", "Author": "Dallas51", "ReviewID": "UR121243810", "Content": "quaint hotel street piazza farnese 2 3 minute walk campo dei fiori plaza restaurants lots activity breakfast buffet fresh fruits tomatoes meats morning buffet spacious quaint biggest disappointment uncertainty internet terminal internet negative review access internet definitely stay due location", "Date": "2011-11-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Murrells Inlet,SC-USA", "Title": "\u201cLocation\u201d", "Author": "harry d", "ReviewID": "UR120592519", "Content": "31 hotel location walking distance major attractions staff superb buffet breakfast superior typical size european hotels sufficient irene francesca desk extremely helpful friendlier hotel front desk personnel encountered highly recommend property hesitate stay", "Date": "2011-11-14 00:00:00"}], "HotelInfo": {"Name": "Hotel Residenza Farnese", "HotelURL": "/ShowUserReviews-g187791-d2283167-Reviews-Hotel_Residenza_Farnese-Rome_Lazio.html", "Price": "$95 - $310*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via del Mascherone 59</span>, <span class=\"locality\"><span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "2283167", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/1e/b9/82/getlstd-property-photo.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Gothenburg, Sweden",
+      "Title": "\u201cWonderful\u201d",
+      "Author": "eson_pson",
+      "ReviewID": "UR127409151",
+      "Content": "location perfect quiet street hundreds restaurants shops walking distance campo di fiori piazza navona trastevere breakfast outstanding normal hotels rome lots cut fresh fruit cheese cold cuts cereals youghurts bread croissants pastries staff breakfast nice hardly notice extremely efficient quiet reception staff pleasant helpful especially irene helped lot warm smile clean appreciated chairs sit bed bedside lamp efficient light reading pillows hard",
+      "Date": "2012-04-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Gibraltar",
+      "Title": "\u201cGood rapport qualite/prix for the position.\u201d",
+      "Author": "peter_miles",
+      "ReviewID": "UR121875761",
+      "Content": "previously stayed albergo al nearby hotel little cheaper frankly decent breakfast included credit cards neither position excellent terms tourist attractions quiet requested advance fun brit french embassy door whenever bit depressed reminder scale special clean decent reasonable price central rome terms",
+      "Date": "2011-12-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dallas",
+      "Title": "\u201cVery Quaint Hotel in Good Location\u201d",
+      "Author": "Dallas51",
+      "ReviewID": "UR121243810",
+      "Content": "quaint hotel street piazza farnese 2 3 minute walk campo dei fiori plaza restaurants lots activity breakfast buffet fresh fruits tomatoes meats morning buffet spacious quaint biggest disappointment uncertainty internet terminal internet negative review access internet definitely stay due location",
+      "Date": "2011-11-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Murrells Inlet,SC-USA",
+      "Title": "\u201cLocation\u201d",
+      "Author": "harry d",
+      "ReviewID": "UR120592519",
+      "Content": "31 hotel location walking distance major attractions staff superb buffet breakfast superior typical size european hotels sufficient irene francesca desk extremely helpful friendlier hotel front desk personnel encountered highly recommend property hesitate stay",
+      "Date": "2011-11-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Residenza Farnese",
+    "HotelURL": "/ShowUserReviews-g187791-d2283167-Reviews-Hotel_Residenza_Farnese-Rome_Lazio.html",
+    "Price": "$95 - $310*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via del Mascherone 59</span>, <span class=\"locality\"><span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "2283167",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/1e/b9/82/getlstd-property-photo.jpg"
+  }
+}

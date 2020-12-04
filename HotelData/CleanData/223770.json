@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "chicago", "Title": "\u201cMemphis in May - amazing stay!\u201d", "Author": "ChiCity88", "ReviewID": "UR106893246", "Content": "visiting memphis hotel def packed staff able handle pretty indoor pool cool tell theyve maintaining staff incredibly helpful children floor little noisy night wife called front desk staff able regulate minutes close highway price paid complaints", "Date": "2011-05-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cA wonderful experience overall- friendly staff and courteous service!\u201d", "Author": "riri86", "ReviewID": "UR83867078", "Content": "arrived sleep staff extremely helpful checked time clean kept definitely bargain pleasant experience overall staff quick answer helpful recommend sleep stay whenever am", "Date": "2010-10-17 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Dallas, Texas", "Title": "\u201cThey Just Don't Care\u201d", "Author": "TheWanderer972", "ReviewID": "UR70481391", "Content": "im choice hotels rewards program stay hotels experience stay sleep inn 7 hotels stayed recent 10 day vacation worst booked reservations road 3 hours arrival hot musty smelling air conditioners apparently days left property dinner cool trash hallway floors looked hadnt seen vacuum cleaner weeks eating lame excuse breakfast morning watched couple wait 15 minutes front desk checkout 8 am morning front desk attempted checkout 30 minutes wait 10 minutes apologies management property simply doesnt care dont care customers dont care service dont concept professionalism stay", "Date": "2010-07-11 00:00:00"}], "HotelInfo": {"Name": "Sleep Inn - Memphis / Old Austin Peay Hwy", "HotelURL": "/ShowUserReviews-g55197-d223770-Reviews-Sleep_Inn_Memphis_Old_Austin_Peay_Hwy-Memphis_Tennessee.html", "Price": "$76 - $91*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2855 Old Austin Peay Hwy</span>, <span class=\"locality\"><span property=\"v:locality\">Memphis</span>, <span property=\"v:region\">TN</span> <span property=\"v:postal-code\">38128-5604</span></span> </span> </span> </address>", "HotelID": "223770", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/21/58/2158613dd2c39b5208432bf971fb0cbb3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "chicago",
+      "Title": "\u201cMemphis in May - amazing stay!\u201d",
+      "Author": "ChiCity88",
+      "ReviewID": "UR106893246",
+      "Content": "visiting memphis hotel def packed staff able handle pretty indoor pool cool tell theyve maintaining staff incredibly helpful children floor little noisy night wife called front desk staff able regulate minutes close highway price paid complaints",
+      "Date": "2011-05-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cA wonderful experience overall- friendly staff and courteous service!\u201d",
+      "Author": "riri86",
+      "ReviewID": "UR83867078",
+      "Content": "arrived sleep staff extremely helpful checked time clean kept definitely bargain pleasant experience overall staff quick answer helpful recommend sleep stay whenever am",
+      "Date": "2010-10-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Dallas, Texas",
+      "Title": "\u201cThey Just Don't Care\u201d",
+      "Author": "TheWanderer972",
+      "ReviewID": "UR70481391",
+      "Content": "im choice hotels rewards program stay hotels experience stay sleep inn 7 hotels stayed recent 10 day vacation worst booked reservations road 3 hours arrival hot musty smelling air conditioners apparently days left property dinner cool trash hallway floors looked hadnt seen vacuum cleaner weeks eating lame excuse breakfast morning watched couple wait 15 minutes front desk checkout 8 am morning front desk attempted checkout 30 minutes wait 10 minutes apologies management property simply doesnt care dont care customers dont care service dont concept professionalism stay",
+      "Date": "2010-07-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Sleep Inn - Memphis / Old Austin Peay Hwy",
+    "HotelURL": "/ShowUserReviews-g55197-d223770-Reviews-Sleep_Inn_Memphis_Old_Austin_Peay_Hwy-Memphis_Tennessee.html",
+    "Price": "$76 - $91*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2855 Old Austin Peay Hwy</span>, <span class=\"locality\"><span property=\"v:locality\">Memphis</span>, <span property=\"v:region\">TN</span> <span property=\"v:postal-code\">38128-5604</span></span> </span> </span> </address>",
+    "HotelID": "223770",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/21/58/2158613dd2c39b5208432bf971fb0cbb3large.jpg"
+  }
+}

@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cBEDBUGS - DO NOT STAY HERE!\u201d", "Author": "Know99999", "ReviewID": "UR83131173", "Content": "fun relaxing weekend montreal quickly worst nightmare night hotel park avenue red itchy bumps appear skin getting swollen throughout day bed bugs partner reaction day realize realized idiots caught signs sooner reeked sort strong cleaning agent mattress plastic cover found dead bed bugs inside receptionist cleaners acted totally shocked surprised told didnt money little compensation amount time funds cleaned andor replaced stay montreal extra days ensure cleaned properly appear hotel doing solve save yourself trouble stay", "Date": "2010-10-12 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "New York", "Title": "\u201cWe were robbed.\u201d", "Author": "mrgondal", "ReviewID": "UR65659216", "Content": "looking cheap hotel finally paid pricewe stayed hotel night 26th horrible trip night lost worth park van hotel hotel manager advised ushe told parking free untill moving third floorno elevator hotelwe left luggage dirty ac welland internet signals third morning door found travel uswe lost bags gold morei hotel call surprised police station report police station security cameras dont leave ur stay terrible dream", "Date": "2010-05-29 00:00:00"}], "HotelInfo": {"Name": "Hotel Park Avenue", "HotelURL": "/ShowUserReviews-g155032-d183613-Reviews-Hotel_Park_Avenue-Montreal_Quebec.html", "Price": "$58 - $97*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4544 Avenue du Parc</span>, <span class=\"locality\"><span property=\"v:locality\">Montreal</span>, <span property=\"v:region\">Quebec</span> <span property=\"v:postal-code\">H2V 4E3</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span></span></address>", "HotelID": "183613", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/65/02/65020fa1be6176fff302cbfce0fbcc6f5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cBEDBUGS - DO NOT STAY HERE!\u201d",
+      "Author": "Know99999",
+      "ReviewID": "UR83131173",
+      "Content": "fun relaxing weekend montreal quickly worst nightmare night hotel park avenue red itchy bumps appear skin getting swollen throughout day bed bugs partner reaction day realize realized idiots caught signs sooner reeked sort strong cleaning agent mattress plastic cover found dead bed bugs inside receptionist cleaners acted totally shocked surprised told didnt money little compensation amount time funds cleaned andor replaced stay montreal extra days ensure cleaned properly appear hotel doing solve save yourself trouble stay",
+      "Date": "2010-10-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "New York",
+      "Title": "\u201cWe were robbed.\u201d",
+      "Author": "mrgondal",
+      "ReviewID": "UR65659216",
+      "Content": "looking cheap hotel finally paid pricewe stayed hotel night 26th horrible trip night lost worth park van hotel hotel manager advised ushe told parking free untill moving third floorno elevator hotelwe left luggage dirty ac welland internet signals third morning door found travel uswe lost bags gold morei hotel call surprised police station report police station security cameras dont leave ur stay terrible dream",
+      "Date": "2010-05-29 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Park Avenue",
+    "HotelURL": "/ShowUserReviews-g155032-d183613-Reviews-Hotel_Park_Avenue-Montreal_Quebec.html",
+    "Price": "$58 - $97*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4544 Avenue du Parc</span>, <span class=\"locality\"><span property=\"v:locality\">Montreal</span>, <span property=\"v:region\">Quebec</span> <span property=\"v:postal-code\">H2V 4E3</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span></span></address>",
+    "HotelID": "183613",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/65/02/65020fa1be6176fff302cbfce0fbcc6f5large.jpg"
+  }
+}

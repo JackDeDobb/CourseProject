@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Dallas, Texas", "Title": "\u201cA friendly smile goes a long way...\u201d", "Author": "an0nymiss", "ReviewID": "UR127887052", "Content": "stayed hotel month bedroom suite waiting newly purchased home ready move im normally westin crowne plaza type gal apartment living setting hotel chose property judging ratings enjoyed stayed location nice clean suitable living majority staff polite helpful except front desk agent checked smile drilled party rules party am attractive 24 automatically qualify party animal whenever check hotel thats treated offensive especially checking husband kids couple days wonderful relaxing employee smiled spoke front desk day frowning uninviting pay couldnt avoid anyway staying 2 weeks paying 120 day politely discounted weekly rate answer simple eye contact dont discounts anymore ive heard hotels giving sort discount anyway clerk didnt argue husband talk manager hopefully week response sarcastic talk stated didnt wore uniform clerks told handles front desk matters told managers name forgot told thats husband speak told able discount corporate 5 ok discount wasnt issue break extremely savings im rude person complain uncomfortable check extendedstay hotel feel welcomed appreciated guest reason theyre business staff paid besides encounter definitely recommend hotel especially term", "Date": "2012-04-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Ennis, Texas", "Title": "\u201cThe Creme' De Le'Creme of Economical Extended Stay!\u201d", "Author": "tinkerbtch", "ReviewID": "UR126522077", "Content": "beautiful property property rating extended stay hotel doesnt cost week cost buy car customer service absolutely astounding queen size bed night stands dresser table stove top burners kitchen sink cabinets dishes pots pans eating utensils cups bowls cooking utensils etc features sized refrigeratorfreezer saves ton money dining bathroom sized apartment hotel bathshower combo storage sink closet plenty walk sized ironing board iron hotel makes feel home people front desk courteous fail care call additional issues follow prompt manner dont avoid hotels staff feel life easier calm collected ready assist definitely visiting hotel consider rave property staff stay march 28th 2012 tell im miss bad possibly hotel onsite laundry expensive 2 wash load 2 dry load typically dry twice youre looking total cost load 46 dollars dont haul property", "Date": "2012-03-22 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Plano, Texas", "Title": "\u201cI'd stay again\u201d", "Author": "VECooper", "ReviewID": "UR114125781", "Content": "low price conveniences cleanliness comparable 2 12 star rated 2 star kitchen bonus pool hot tub excercise facilities sufficient location safe staff lovely brought own linens im relocating useful sheets bedding subpar complaints modern creature comforts nice breakfast upgraded double queen larger imagined short walk grocery store restaraunts nice added convenience closein proximity west tollway stay recommend friends family", "Date": "2011-06-18 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Dallas, Texas", "Title": "\u201cAbsolutely a home away from home !\u201d", "Author": "USAFretired1", "ReviewID": "UR87686504", "Content": "stayed homestead studio suites 2 weeks spotless move throughly cleaned stay shower bathroom look renovated clean whistle staff professional courteous times helpful business traveler honestly stayed hotels cost 5 times near clean accomodating homestead studio suites grounds appealing lobby fancy inviting looking stay fancy hotel 5star restaurant empty bank account cozy dining time primarily morning complementary continental breakfast free coffee 24 hours day internet wifi system cost 495 entire stay looking home bargain price gem rough", "Date": "2010-11-20 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 1.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Panama City, FL", "Title": "\u201cTerrible Beds\u201d", "Author": "Nursechristi22", "ReviewID": "UR57279115", "Content": "traveling florida texas stayed homestead studio suites booked hotel priceline name own price 20 dollars night shouldnt complain bed wich queen hard tile bathroom indeed kitchen oven bathroom nice housekeeping hav little dust corners carpet looks cleaning looking forward night sleep driving 14 hours bed 2 pillows husband extra told didnt hotel looks hotel clean pretty outside nice close breakfast joke stale bagles cream cheese coffee thats cereal anythingthe served purpose 20 dollars cant staff helful", "Date": "2010-02-27 00:00:00"}], "HotelInfo": {"Name": "Homestead Studio Suites Dallas - Plano", "HotelURL": "/ShowUserReviews-g55711-d109339-Reviews-Homestead_Studio_Suites_Dallas_Plano-Dallas_Texas.html", "Price": "$67 - $87*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">18470 North Dallas Parkway</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75287</span></span> </span></span></address>", "HotelID": "109339", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fa/98/fa98e753ab0397235b7d5d11f9ed3b2d6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dallas, Texas",
+      "Title": "\u201cA friendly smile goes a long way...\u201d",
+      "Author": "an0nymiss",
+      "ReviewID": "UR127887052",
+      "Content": "stayed hotel month bedroom suite waiting newly purchased home ready move im normally westin crowne plaza type gal apartment living setting hotel chose property judging ratings enjoyed stayed location nice clean suitable living majority staff polite helpful except front desk agent checked smile drilled party rules party am attractive 24 automatically qualify party animal whenever check hotel thats treated offensive especially checking husband kids couple days wonderful relaxing employee smiled spoke front desk day frowning uninviting pay couldnt avoid anyway staying 2 weeks paying 120 day politely discounted weekly rate answer simple eye contact dont discounts anymore ive heard hotels giving sort discount anyway clerk didnt argue husband talk manager hopefully week response sarcastic talk stated didnt wore uniform clerks told handles front desk matters told managers name forgot told thats husband speak told able discount corporate 5 ok discount wasnt issue break extremely savings im rude person complain uncomfortable check extendedstay hotel feel welcomed appreciated guest reason theyre business staff paid besides encounter definitely recommend hotel especially term",
+      "Date": "2012-04-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ennis, Texas",
+      "Title": "\u201cThe Creme' De Le'Creme of Economical Extended Stay!\u201d",
+      "Author": "tinkerbtch",
+      "ReviewID": "UR126522077",
+      "Content": "beautiful property property rating extended stay hotel doesnt cost week cost buy car customer service absolutely astounding queen size bed night stands dresser table stove top burners kitchen sink cabinets dishes pots pans eating utensils cups bowls cooking utensils etc features sized refrigeratorfreezer saves ton money dining bathroom sized apartment hotel bathshower combo storage sink closet plenty walk sized ironing board iron hotel makes feel home people front desk courteous fail care call additional issues follow prompt manner dont avoid hotels staff feel life easier calm collected ready assist definitely visiting hotel consider rave property staff stay march 28th 2012 tell im miss bad possibly hotel onsite laundry expensive 2 wash load 2 dry load typically dry twice youre looking total cost load 46 dollars dont haul property",
+      "Date": "2012-03-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Plano, Texas",
+      "Title": "\u201cI'd stay again\u201d",
+      "Author": "VECooper",
+      "ReviewID": "UR114125781",
+      "Content": "low price conveniences cleanliness comparable 2 12 star rated 2 star kitchen bonus pool hot tub excercise facilities sufficient location safe staff lovely brought own linens im relocating useful sheets bedding subpar complaints modern creature comforts nice breakfast upgraded double queen larger imagined short walk grocery store restaraunts nice added convenience closein proximity west tollway stay recommend friends family",
+      "Date": "2011-06-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dallas, Texas",
+      "Title": "\u201cAbsolutely a home away from home !\u201d",
+      "Author": "USAFretired1",
+      "ReviewID": "UR87686504",
+      "Content": "stayed homestead studio suites 2 weeks spotless move throughly cleaned stay shower bathroom look renovated clean whistle staff professional courteous times helpful business traveler honestly stayed hotels cost 5 times near clean accomodating homestead studio suites grounds appealing lobby fancy inviting looking stay fancy hotel 5star restaurant empty bank account cozy dining time primarily morning complementary continental breakfast free coffee 24 hours day internet wifi system cost 495 entire stay looking home bargain price gem rough",
+      "Date": "2010-11-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Panama City, FL",
+      "Title": "\u201cTerrible Beds\u201d",
+      "Author": "Nursechristi22",
+      "ReviewID": "UR57279115",
+      "Content": "traveling florida texas stayed homestead studio suites booked hotel priceline name own price 20 dollars night shouldnt complain bed wich queen hard tile bathroom indeed kitchen oven bathroom nice housekeeping hav little dust corners carpet looks cleaning looking forward night sleep driving 14 hours bed 2 pillows husband extra told didnt hotel looks hotel clean pretty outside nice close breakfast joke stale bagles cream cheese coffee thats cereal anythingthe served purpose 20 dollars cant staff helful",
+      "Date": "2010-02-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Homestead Studio Suites Dallas - Plano",
+    "HotelURL": "/ShowUserReviews-g55711-d109339-Reviews-Homestead_Studio_Suites_Dallas_Plano-Dallas_Texas.html",
+    "Price": "$67 - $87*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">18470 North Dallas Parkway</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75287</span></span> </span></span></address>",
+    "HotelID": "109339",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fa/98/fa98e753ab0397235b7d5d11f9ed3b2d6large.jpg"
+  }
+}

@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Santa Fe, New Mexico", "Title": "\u201cService doesn't reflect Mexico's kindness...\u201d", "Author": "mouleyfrites", "ReviewID": "UR93632493", "Content": "location funny electronics street street devoted technology product plumbing electronics bathroom fitting vacuum cleaners kinda fun restaurants bars night beverage option aside manly buy beers barred security window oxxo street queuing scary cast latenight characters front desk clerks day dont speak spanish tried hard polite respectful door broke locked dont foreign visitors day friend sent messenger pick sunglasses left mistake desk clerk sent messenger saying left hotel knowing return five minutes arranged taxi schedule plain meanspirited call taxi establish fare agree dont real drivers friends hotel sweet quadruple charge desk clerks heard term radio taxi unbearably noisy inside dark clean pleasant hotel mexico reflect little mexico aesthetics architecture typically mexican warmth kindness offers neither restaurant staff fun breakfast nice bit pricey free breakfasts mexico disappointing staff nice fine", "Date": "2011-01-18 00:00:00"}], "HotelInfo": {"Name": "Hotel El Salvador", "HotelURL": "/ShowUserReviews-g150800-d252607-Reviews-Hotel_El_Salvador-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$32 - $44*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Rep del Salvador, 16</span> | <span class=\"extended-address\">Col. Centro</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06080</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "252607", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/79/f9/hotel-el-salvador-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Santa Fe, New Mexico",
+      "Title": "\u201cService doesn't reflect Mexico's kindness...\u201d",
+      "Author": "mouleyfrites",
+      "ReviewID": "UR93632493",
+      "Content": "location funny electronics street street devoted technology product plumbing electronics bathroom fitting vacuum cleaners kinda fun restaurants bars night beverage option aside manly buy beers barred security window oxxo street queuing scary cast latenight characters front desk clerks day dont speak spanish tried hard polite respectful door broke locked dont foreign visitors day friend sent messenger pick sunglasses left mistake desk clerk sent messenger saying left hotel knowing return five minutes arranged taxi schedule plain meanspirited call taxi establish fare agree dont real drivers friends hotel sweet quadruple charge desk clerks heard term radio taxi unbearably noisy inside dark clean pleasant hotel mexico reflect little mexico aesthetics architecture typically mexican warmth kindness offers neither restaurant staff fun breakfast nice bit pricey free breakfasts mexico disappointing staff nice fine",
+      "Date": "2011-01-18 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel El Salvador",
+    "HotelURL": "/ShowUserReviews-g150800-d252607-Reviews-Hotel_El_Salvador-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$32 - $44*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Rep del Salvador, 16</span> | <span class=\"extended-address\">Col. Centro</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06080</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "252607",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/79/f9/hotel-el-salvador-thumbnail.jpg"
+  }
+}

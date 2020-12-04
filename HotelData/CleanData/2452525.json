@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "sharm el sheik", "Title": "\u201cAmazing. . .\u201d", "Author": "pramid", "ReviewID": "UR128316117", "Content": "stay 2 nights excellent service position nice clean breakfast noise specialy mehmet try help tour information reservation restaurant galata soon", "Date": "2012-04-22 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Cambodia", "Title": "\u201cThe hotel was sweet\u201d", "Author": "Alice W", "ReviewID": "UR128054639", "Content": "brand hotel location setting nice close aksaray station explore city stayed hotel 4 nights lucky receive complimentary upgrade deluxe manager mehmet check arrival extra charge decorated taste luxury forget softness bed bathroom separate shower tub free wifi unfortunately try hotel spa enjoyed stay hotel highly recommended hesitate stay staffs friendly helpful people", "Date": "2012-04-17 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Sweden", "Title": "\u201cTara fr\u00c3\u00a5n Sweden\u201d", "Author": "TaraSweden", "ReviewID": "UR128005597", "Content": "clean fresh modern close tram station decorated hotel facility overall staffs attitude professional except personal served breakfast attitude 4 2 nicely change replied unpleasent manner it\u00e2\u20ac\u2122s matter money pay can\u00e2\u20ac\u2122t expect betterwe paid 120 dollar standard check online amount money royal suit family 2 couples information secound key arrived day condition pay loose unfriendly manner", "Date": "2012-04-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Istanbul", "Title": "\u201cFriendly helpful staff\u201d", "Author": "ValerisaIstanbu... W", "ReviewID": "UR127871669", "Content": "stayed hotel nights impression friendly helpful staff arrived 10am happy allow compact clean comfortable bed leave day tour offered pack light breakfast wifi reliable walking distance lot attractions walk tram close prefer experience extended stay", "Date": "2012-04-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Brighton, United Kingdom", "Title": "\u201cLuxury Hotel - Great Location!\u201d", "Author": "osbornestephen", "ReviewID": "UR127086026", "Content": "4 star luxury hotel brand staff trained hotel comfortable quality furniture materials comfortable beds wifi reliable nice location city aksaray tram stop easy access istanbul quick check inout complimentary coffee tea stayed 4 nights actually booked sister definitely stay planned trip hotel elegant staff friendly clean airconditioning perfect upgrade standard deluxe free charge nice hotel thank", "Date": "2012-04-01 00:00:00"}], "HotelInfo": {"Name": "Grand Durmaz Hotel", "HotelURL": "/ShowUserReviews-g293974-d2452525-Reviews-Grand_Durmaz_Hotel-Istanbul.html", "Price": "$117 - $392*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Ataturk Bulvari Kemalpasa Mah. No:4</span> | <span class=\"extended-address\">Aksaray/Fatih</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34080</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "2452525", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2d/3c/2d3cf2d535a4d55ebafa24c43fc84e5c3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "sharm el sheik",
+      "Title": "\u201cAmazing. . .\u201d",
+      "Author": "pramid",
+      "ReviewID": "UR128316117",
+      "Content": "stay 2 nights excellent service position nice clean breakfast noise specialy mehmet try help tour information reservation restaurant galata soon",
+      "Date": "2012-04-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Cambodia",
+      "Title": "\u201cThe hotel was sweet\u201d",
+      "Author": "Alice W",
+      "ReviewID": "UR128054639",
+      "Content": "brand hotel location setting nice close aksaray station explore city stayed hotel 4 nights lucky receive complimentary upgrade deluxe manager mehmet check arrival extra charge decorated taste luxury forget softness bed bathroom separate shower tub free wifi unfortunately try hotel spa enjoyed stay hotel highly recommended hesitate stay staffs friendly helpful people",
+      "Date": "2012-04-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Sweden",
+      "Title": "\u201cTara fr\u00c3\u00a5n Sweden\u201d",
+      "Author": "TaraSweden",
+      "ReviewID": "UR128005597",
+      "Content": "clean fresh modern close tram station decorated hotel facility overall staffs attitude professional except personal served breakfast attitude 4 2 nicely change replied unpleasent manner it\u00e2\u20ac\u2122s matter money pay can\u00e2\u20ac\u2122t expect betterwe paid 120 dollar standard check online amount money royal suit family 2 couples information secound key arrived day condition pay loose unfriendly manner",
+      "Date": "2012-04-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Istanbul",
+      "Title": "\u201cFriendly helpful staff\u201d",
+      "Author": "ValerisaIstanbu... W",
+      "ReviewID": "UR127871669",
+      "Content": "stayed hotel nights impression friendly helpful staff arrived 10am happy allow compact clean comfortable bed leave day tour offered pack light breakfast wifi reliable walking distance lot attractions walk tram close prefer experience extended stay",
+      "Date": "2012-04-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Brighton, United Kingdom",
+      "Title": "\u201cLuxury Hotel - Great Location!\u201d",
+      "Author": "osbornestephen",
+      "ReviewID": "UR127086026",
+      "Content": "4 star luxury hotel brand staff trained hotel comfortable quality furniture materials comfortable beds wifi reliable nice location city aksaray tram stop easy access istanbul quick check inout complimentary coffee tea stayed 4 nights actually booked sister definitely stay planned trip hotel elegant staff friendly clean airconditioning perfect upgrade standard deluxe free charge nice hotel thank",
+      "Date": "2012-04-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Grand Durmaz Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d2452525-Reviews-Grand_Durmaz_Hotel-Istanbul.html",
+    "Price": "$117 - $392*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Ataturk Bulvari Kemalpasa Mah. No:4</span> | <span class=\"extended-address\">Aksaray/Fatih</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34080</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "2452525",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2d/3c/2d3cf2d535a4d55ebafa24c43fc84e5c3large.jpg"
+  }
+}

@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "connersville indiana", "Title": "\u201cNASTY\u201d", "Author": "rita_adams", "ReviewID": "UR121953218", "Content": "stayed 222 econo urine toilet stains conspicuous nature glad didnt black light gum phone cleaning staff fired front desk staff nice attentive tv didnt remote didnt fan bathroom kept exposed light bulb 60 watt bathtub holes curtains pleasant stay 56 bucks stayed truck stay dec 17 18 2011", "Date": "2011-12-21 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Dumfries, Virginia", "Title": "\u201cListen to all comments below !!!\u201d", "Author": "jvf01", "ReviewID": "UR108326498", "Content": "stay car changed bugs etc etc blew comments booked hell hold figured spend time hospital lay head shower check tv didnt showered trip hospital midnight maid towels replace noticed missing left course check bag missing bag plus steals elses didnt didnt leave money valuables notified manager didnt care called police", "Date": "2011-05-15 00:00:00"}], "HotelInfo": {"Name": "Econo Lodge Indianapolis", "HotelURL": "/ShowUserReviews-g37209-d240185-Reviews-Econo_Lodge_Indianapolis-Indianapolis_Indiana.html", "Price": "$54 - $64*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5241 West Bradbury Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46241</span></span> (Formerly Motel 6 and Sunshine Lodge)</span> </span> </address>", "HotelID": "240185", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b9/71/b9714e439db5626952afd9d9f9b507573large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "connersville indiana",
+      "Title": "\u201cNASTY\u201d",
+      "Author": "rita_adams",
+      "ReviewID": "UR121953218",
+      "Content": "stayed 222 econo urine toilet stains conspicuous nature glad didnt black light gum phone cleaning staff fired front desk staff nice attentive tv didnt remote didnt fan bathroom kept exposed light bulb 60 watt bathtub holes curtains pleasant stay 56 bucks stayed truck stay dec 17 18 2011",
+      "Date": "2011-12-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Dumfries, Virginia",
+      "Title": "\u201cListen to all comments below !!!\u201d",
+      "Author": "jvf01",
+      "ReviewID": "UR108326498",
+      "Content": "stay car changed bugs etc etc blew comments booked hell hold figured spend time hospital lay head shower check tv didnt showered trip hospital midnight maid towels replace noticed missing left course check bag missing bag plus steals elses didnt didnt leave money valuables notified manager didnt care called police",
+      "Date": "2011-05-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Econo Lodge Indianapolis",
+    "HotelURL": "/ShowUserReviews-g37209-d240185-Reviews-Econo_Lodge_Indianapolis-Indianapolis_Indiana.html",
+    "Price": "$54 - $64*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5241 West Bradbury Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46241</span></span> (Formerly Motel 6 and Sunshine Lodge)</span> </span> </address>",
+    "HotelID": "240185",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b9/71/b9714e439db5626952afd9d9f9b507573large.jpg"
+  }
+}

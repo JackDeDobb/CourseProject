@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Colchester, Vermont", "Title": "\u201cQuaint hotel, excellent location\u201d", "Author": "WFD0328", "ReviewID": "UR125482146", "Content": "stay hotel du des champs elysees whenever visit paris love nice location fantastic front desk staff stayed 1996 hotel block champs elysees mid jardin des tuilleries arc de triumphe numerous cafes block hotel boulangeriepatisserie doors sends wonderful aroma fresh baked bread past window morning hotel offers breakfast expensive reasonably priced breakfast front door hotel cross street head left little cafe corner breakfast coffee perfect hotel family suite queensize bed sofa bed sleeps bathrooms terrace incredible view eiffel tower champs elysees block highend shopping avenue montaigne blocks champs elysees youll louis vuitton gucci prada etc youre looking french hotel experience convenient usual tourist sites transportation shopping absolutely wrong hotel", "Date": "2012-03-01 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Florida", "Title": "\u201cThe perfect taste of Paris!\u201d", "Author": "Softsoutherner", "ReviewID": "UR121485176", "Content": "2nd time stayed liked love near artsy lot hilton isnt enjoy paris meant youve heard bad parisiennes forget stay hotel helpful charming appreciate little french speak speak excellent english metro couple times mainly enjoyed walking evrywhere vary size time stayed 80 floor elevator stop stairs huge suitcases mind living city view tower outside door paris rooftops bed meticulously clean beautifully decorated breakfast perfect little near coffee pastry morning", "Date": "2011-12-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Knysna, South Africa", "Title": "\u201cGenuine Parisian Hotel\u201d", "Author": "vanlipp", "ReviewID": "UR118428125", "Content": "quaint little hotel immediately makes feel truely paris decor speaks olde world charm simply elegant ostentation comfortable bathroom fabulously spacious cleaning perfectly day fresh fluffy white towels awaiting return staff cordial friendly accommodating breakfasts lovely especially setting beautifully furnished dining splendid crockery served five day stay paris special hotel du home home location street below champs elysees perfectly situated peaceful welcoming return day", "Date": "2011-09-21 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Taipei, Taiwan", "Title": "\u201cA nice and warming hotel\u201d", "Author": "dumora75", "ReviewID": "UR84854675", "Content": "reception except tall guy balcony didnt chance enjoy breakfast commend nice hotel location minutes walk metro champs elysees", "Date": "2010-10-26 00:00:00"}], "HotelInfo": {"Name": "Rond-Point Hotel Champs-Elysees", "HotelURL": "/ShowUserReviews-g187147-d236567-Reviews-Rond_Point_Hotel_Champs_Elysees-Paris_Ile_de_France.html", "Price": "$180 - $373*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">10, rue de Ponthieu</span>, <span class=\"locality\"><span property=\"v:postal-code\">75008</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>", "HotelID": "2515216", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/90/81/9081f955ec04d0d3bc9c48d3c40edfbb1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Colchester, Vermont",
+      "Title": "\u201cQuaint hotel, excellent location\u201d",
+      "Author": "WFD0328",
+      "ReviewID": "UR125482146",
+      "Content": "stay hotel du des champs elysees whenever visit paris love nice location fantastic front desk staff stayed 1996 hotel block champs elysees mid jardin des tuilleries arc de triumphe numerous cafes block hotel boulangeriepatisserie doors sends wonderful aroma fresh baked bread past window morning hotel offers breakfast expensive reasonably priced breakfast front door hotel cross street head left little cafe corner breakfast coffee perfect hotel family suite queensize bed sofa bed sleeps bathrooms terrace incredible view eiffel tower champs elysees block highend shopping avenue montaigne blocks champs elysees youll louis vuitton gucci prada etc youre looking french hotel experience convenient usual tourist sites transportation shopping absolutely wrong hotel",
+      "Date": "2012-03-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Florida",
+      "Title": "\u201cThe perfect taste of Paris!\u201d",
+      "Author": "Softsoutherner",
+      "ReviewID": "UR121485176",
+      "Content": "2nd time stayed liked love near artsy lot hilton isnt enjoy paris meant youve heard bad parisiennes forget stay hotel helpful charming appreciate little french speak speak excellent english metro couple times mainly enjoyed walking evrywhere vary size time stayed 80 floor elevator stop stairs huge suitcases mind living city view tower outside door paris rooftops bed meticulously clean beautifully decorated breakfast perfect little near coffee pastry morning",
+      "Date": "2011-12-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Knysna, South Africa",
+      "Title": "\u201cGenuine Parisian Hotel\u201d",
+      "Author": "vanlipp",
+      "ReviewID": "UR118428125",
+      "Content": "quaint little hotel immediately makes feel truely paris decor speaks olde world charm simply elegant ostentation comfortable bathroom fabulously spacious cleaning perfectly day fresh fluffy white towels awaiting return staff cordial friendly accommodating breakfasts lovely especially setting beautifully furnished dining splendid crockery served five day stay paris special hotel du home home location street below champs elysees perfectly situated peaceful welcoming return day",
+      "Date": "2011-09-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Taipei, Taiwan",
+      "Title": "\u201cA nice and warming hotel\u201d",
+      "Author": "dumora75",
+      "ReviewID": "UR84854675",
+      "Content": "reception except tall guy balcony didnt chance enjoy breakfast commend nice hotel location minutes walk metro champs elysees",
+      "Date": "2010-10-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Rond-Point Hotel Champs-Elysees",
+    "HotelURL": "/ShowUserReviews-g187147-d236567-Reviews-Rond_Point_Hotel_Champs_Elysees-Paris_Ile_de_France.html",
+    "Price": "$180 - $373*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">10, rue de Ponthieu</span>, <span class=\"locality\"><span property=\"v:postal-code\">75008</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>",
+    "HotelID": "2515216",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/90/81/9081f955ec04d0d3bc9c48d3c40edfbb1large.jpg"
+  }
+}

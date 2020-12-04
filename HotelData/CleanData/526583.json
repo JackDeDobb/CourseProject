@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Vancouver, Washington", "Title": "\u201cCastle is more fun than Hotel\u201d", "Author": "BarbandJuliette", "ReviewID": "UR123528114", "Content": "fun try daughter choose stay holiday inn express style hotels unique stay bed breakfast castle definitely unique driver arrived train station wisked crazy traffic suburbs rome arrived castle dark greeted friendly hostess miss lobby filled statues art christmas tree brightly lit miss happy spacious accomodation visiting walked door dinner cute little market sold fresh hot food groceries morning served filling euro breakfast available help plan days journey caught bus front pizzaria corner metro tour rome coming castle evening nice day roaring crowd downtown rome unique stay vacation rome truly memorable", "Date": "2012-01-23 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "roma", "Title": "\u201cthe fairy tale castle\u201d", "Author": "ileananina", "ReviewID": "UR122596968", "Content": "title mean family living atmosphere childhood fairy tale plenty images inspiration fairy tales wonder architecture furniture statues pictures walls lights carpets objects placed artistically compose splendid structure", "Date": "2012-01-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Frankfurt, Germany", "Title": "\u201cFANTASTIC\u201d", "Author": "jelenadoskovic", "ReviewID": "UR97489095", "Content": "friends travel hotel comfortable wonderful hosts moments stay time visit town accomodation hotel friends looking forward wonderful hosts", "Date": "2011-02-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Helsinki, Finland", "Title": "\u201cMAMMA MIA BELISSIMO\u201d", "Author": "SavaFinland", "ReviewID": "UR91821030", "Content": "spent 3 nights castle visiting rome family 4 staying appartment 3 beds sitting beautiful bathroom lower level served breakfast terrace morning cleaned towels day holiday experiences adventure love hotelif travell car center fast public tranport", "Date": "2011-01-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Belgrade, Serbia", "Title": "\u201cexcellent\u201d", "Author": "nevena276", "ReviewID": "UR89332380", "Content": "hotel fantastic genuine portrays impression smell rome comfortable quick arrive city center time relax enjoy peace staying hotel am sorry late october november pool covered terrace offers atmosphere flight happy tanning type facility provides fantastic opportunities fitness center hair salon hosts extremely bowed guest atmosphere casual friendly breakfast diverse rich hygiene organized business relationship price quality servicefor guests cars relief parking hotel safe located territory hotel friends beautiful impressions hotel happy recommend hope guests", "Date": "2010-12-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Manchester, England", "Title": "\u201cQuirky but excellent\u201d", "Author": "seetheworld50", "ReviewID": "UR77572091", "Content": "spent 3 nights castle whilst visiting rome dont outside appearance hotel expecting beautiful castle middle field isnt im actually convinced castle residential looks buildings cobbled owners obviously spent considerable amount time money castle family 4 staying appartment huge length building 50ft 3 beds sitting beautiful bathroom lower level served breakfast terrace morning cleaned towels day owners couldnt help excellent hosts restaurant street holiday experiences adventure love quirky hotel fan plastic identical chain hotels definately car rome", "Date": "2010-08-30 00:00:00"}], "HotelInfo": {"Name": "Scandeluzza Castle - Castello Scandeluzza", "HotelURL": "/ShowUserReviews-g187791-d526583-Reviews-Scandeluzza_Castle_Castello_Scandeluzza-Rome_Lazio.html", "Price": "$186 - $190*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Scandeluzza, 11</span>, <span class=\"locality\"><span property=\"v:postal-code\">00100</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "526583", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/49/6b/72/scandeluzza-castle-castello.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Vancouver, Washington",
+      "Title": "\u201cCastle is more fun than Hotel\u201d",
+      "Author": "BarbandJuliette",
+      "ReviewID": "UR123528114",
+      "Content": "fun try daughter choose stay holiday inn express style hotels unique stay bed breakfast castle definitely unique driver arrived train station wisked crazy traffic suburbs rome arrived castle dark greeted friendly hostess miss lobby filled statues art christmas tree brightly lit miss happy spacious accomodation visiting walked door dinner cute little market sold fresh hot food groceries morning served filling euro breakfast available help plan days journey caught bus front pizzaria corner metro tour rome coming castle evening nice day roaring crowd downtown rome unique stay vacation rome truly memorable",
+      "Date": "2012-01-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "roma",
+      "Title": "\u201cthe fairy tale castle\u201d",
+      "Author": "ileananina",
+      "ReviewID": "UR122596968",
+      "Content": "title mean family living atmosphere childhood fairy tale plenty images inspiration fairy tales wonder architecture furniture statues pictures walls lights carpets objects placed artistically compose splendid structure",
+      "Date": "2012-01-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Frankfurt, Germany",
+      "Title": "\u201cFANTASTIC\u201d",
+      "Author": "jelenadoskovic",
+      "ReviewID": "UR97489095",
+      "Content": "friends travel hotel comfortable wonderful hosts moments stay time visit town accomodation hotel friends looking forward wonderful hosts",
+      "Date": "2011-02-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Helsinki, Finland",
+      "Title": "\u201cMAMMA MIA BELISSIMO\u201d",
+      "Author": "SavaFinland",
+      "ReviewID": "UR91821030",
+      "Content": "spent 3 nights castle visiting rome family 4 staying appartment 3 beds sitting beautiful bathroom lower level served breakfast terrace morning cleaned towels day holiday experiences adventure love hotelif travell car center fast public tranport",
+      "Date": "2011-01-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Belgrade, Serbia",
+      "Title": "\u201cexcellent\u201d",
+      "Author": "nevena276",
+      "ReviewID": "UR89332380",
+      "Content": "hotel fantastic genuine portrays impression smell rome comfortable quick arrive city center time relax enjoy peace staying hotel am sorry late october november pool covered terrace offers atmosphere flight happy tanning type facility provides fantastic opportunities fitness center hair salon hosts extremely bowed guest atmosphere casual friendly breakfast diverse rich hygiene organized business relationship price quality servicefor guests cars relief parking hotel safe located territory hotel friends beautiful impressions hotel happy recommend hope guests",
+      "Date": "2010-12-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Manchester, England",
+      "Title": "\u201cQuirky but excellent\u201d",
+      "Author": "seetheworld50",
+      "ReviewID": "UR77572091",
+      "Content": "spent 3 nights castle whilst visiting rome dont outside appearance hotel expecting beautiful castle middle field isnt im actually convinced castle residential looks buildings cobbled owners obviously spent considerable amount time money castle family 4 staying appartment huge length building 50ft 3 beds sitting beautiful bathroom lower level served breakfast terrace morning cleaned towels day owners couldnt help excellent hosts restaurant street holiday experiences adventure love quirky hotel fan plastic identical chain hotels definately car rome",
+      "Date": "2010-08-30 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Scandeluzza Castle - Castello Scandeluzza",
+    "HotelURL": "/ShowUserReviews-g187791-d526583-Reviews-Scandeluzza_Castle_Castello_Scandeluzza-Rome_Lazio.html",
+    "Price": "$186 - $190*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Scandeluzza, 11</span>, <span class=\"locality\"><span property=\"v:postal-code\">00100</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "526583",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/49/6b/72/scandeluzza-castle-castello.jpg"
+  }
+}

@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Edinburgh, United Kingdom", "Title": "\u201cExcellent value for money\u201d", "Author": "GT_55", "ReviewID": "UR81809497", "Content": "nuova aurora budget motel marghera kilometres south mestre isnt essentially main road prostitute 50m note occasion walked entire length road late night bothered feeling threatened hotel frills decent price clean sheets towels changed daily staff helpful poor english skills efforts help little bit mildew shower own home worse walls little thin traffic noise people hallway audible throughout night quiet didnt bother bus link venice close hotel convenient runs late night inexpensive overall base seeing venice budget nice waking sight grand canal pleasant sleep pockets dont run deep", "Date": "2010-10-02 00:00:00"}], "HotelInfo": {"Name": "Nuova Aurora", "HotelURL": "/ShowUserReviews-g187870-d571190-Reviews-Nuova_Aurora-Venice_Veneto.html", "Price": "$55 - $99*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Fratelli Bandiera 194</span>, <span class=\"locality\"><span property=\"v:postal-code\">30175</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "571190", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d1/98/d198cac1138c25fa044b8acdfb031bc71large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Edinburgh, United Kingdom",
+      "Title": "\u201cExcellent value for money\u201d",
+      "Author": "GT_55",
+      "ReviewID": "UR81809497",
+      "Content": "nuova aurora budget motel marghera kilometres south mestre isnt essentially main road prostitute 50m note occasion walked entire length road late night bothered feeling threatened hotel frills decent price clean sheets towels changed daily staff helpful poor english skills efforts help little bit mildew shower own home worse walls little thin traffic noise people hallway audible throughout night quiet didnt bother bus link venice close hotel convenient runs late night inexpensive overall base seeing venice budget nice waking sight grand canal pleasant sleep pockets dont run deep",
+      "Date": "2010-10-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Nuova Aurora",
+    "HotelURL": "/ShowUserReviews-g187870-d571190-Reviews-Nuova_Aurora-Venice_Veneto.html",
+    "Price": "$55 - $99*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Fratelli Bandiera 194</span>, <span class=\"locality\"><span property=\"v:postal-code\">30175</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "571190",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d1/98/d198cac1138c25fa044b8acdfb031bc71large.jpg"
+  }
+}

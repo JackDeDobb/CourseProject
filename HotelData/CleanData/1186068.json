@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Skopje, Republic of Macedonia", "Title": "\u201cBad!\u201d", "Author": "TheITGirlMK", "ReviewID": "UR121680245", "Content": "didnt expect motel looking cheapest option available price payed cheap hole tiny barely managed bags closet bathroom door closed outside sheets smelly lots stains tv bad picture ac loud breakfast served office motel seat eat fan cheapest cereal wifi network didnt receptionist couldnt help barely spoke english location 2 minute walk chinese theater walk fame", "Date": "2011-12-12 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Vienna, Austria", "Title": "\u201cclean, not more\u201d", "Author": "Roundtrip23", "ReviewID": "UR110371296", "Content": "pretty shady youre looking clean somewhat close stuff weekend paid course rip absolute basic running options roomsaver coupon didnt count book advance learned", "Date": "2011-05-29 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Eugene, Oregon", "Title": "\u201cDo not rent here!!! Worst experience ever!!!!\u201d", "Author": "mcmuffin12", "ReviewID": "UR81256102", "Content": "expect harassment management reason foreign couple runs inn rude terrible communication manager calls checkin demands payment additional people staying wife whatever crazy reason believes throw massive sleepover party money telling we\u2019re calls security police station expected security guy comes course people couple abruptly conversation husband start saying money money accompanied gimme money hand gesture tried talk annoyance wife jump chanting run front desk surreal episode seinfeld bathroom tiny literally 68 inches space front toilet sit normally manager\u2019s wife cleaning cheap hire staff explains it\u2019s clean bottom line rent wouldn\u2019t stay free horrible experience hope save mess", "Date": "2010-09-27 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Las Vegas, Nevada", "Title": "\u201cStayed here 2 times and went home with bed bug bites 2 times!\u201d", "Author": "GAD9452", "ReviewID": "UR77413751", "Content": "expect price bed bathroom fridge nice bathroom toilet door sit sideways hated unexpected guest bed bugs bites arms", "Date": "2010-08-29 00:00:00"}], "HotelInfo": {"Name": "Budget Inn Hollywood", "HotelURL": "/ShowUserReviews-g32655-d1186068-Reviews-Budget_Inn_Hollywood-Los_Angeles_California.html", "Price": "$65 - $82*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">6830 Sunset Boulevard</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">90028</span></span> </span> </span> </address>", "HotelID": "1186068", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/22/77/227756bec6758f759fb1c383bfd30ff37large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Skopje, Republic of Macedonia",
+      "Title": "\u201cBad!\u201d",
+      "Author": "TheITGirlMK",
+      "ReviewID": "UR121680245",
+      "Content": "didnt expect motel looking cheapest option available price payed cheap hole tiny barely managed bags closet bathroom door closed outside sheets smelly lots stains tv bad picture ac loud breakfast served office motel seat eat fan cheapest cereal wifi network didnt receptionist couldnt help barely spoke english location 2 minute walk chinese theater walk fame",
+      "Date": "2011-12-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Vienna, Austria",
+      "Title": "\u201cclean, not more\u201d",
+      "Author": "Roundtrip23",
+      "ReviewID": "UR110371296",
+      "Content": "pretty shady youre looking clean somewhat close stuff weekend paid course rip absolute basic running options roomsaver coupon didnt count book advance learned",
+      "Date": "2011-05-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Eugene, Oregon",
+      "Title": "\u201cDo not rent here!!! Worst experience ever!!!!\u201d",
+      "Author": "mcmuffin12",
+      "ReviewID": "UR81256102",
+      "Content": "expect harassment management reason foreign couple runs inn rude terrible communication manager calls checkin demands payment additional people staying wife whatever crazy reason believes throw massive sleepover party money telling we\u2019re calls security police station expected security guy comes course people couple abruptly conversation husband start saying money money accompanied gimme money hand gesture tried talk annoyance wife jump chanting run front desk surreal episode seinfeld bathroom tiny literally 68 inches space front toilet sit normally manager\u2019s wife cleaning cheap hire staff explains it\u2019s clean bottom line rent wouldn\u2019t stay free horrible experience hope save mess",
+      "Date": "2010-09-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Las Vegas, Nevada",
+      "Title": "\u201cStayed here 2 times and went home with bed bug bites 2 times!\u201d",
+      "Author": "GAD9452",
+      "ReviewID": "UR77413751",
+      "Content": "expect price bed bathroom fridge nice bathroom toilet door sit sideways hated unexpected guest bed bugs bites arms",
+      "Date": "2010-08-29 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Budget Inn Hollywood",
+    "HotelURL": "/ShowUserReviews-g32655-d1186068-Reviews-Budget_Inn_Hollywood-Los_Angeles_California.html",
+    "Price": "$65 - $82*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">6830 Sunset Boulevard</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">90028</span></span> </span> </span> </address>",
+    "HotelID": "1186068",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/22/77/227756bec6758f759fb1c383bfd30ff37large.jpg"
+  }
+}

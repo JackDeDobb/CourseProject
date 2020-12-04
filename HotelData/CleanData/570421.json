@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Co Tyrone, Northern Ireland", "Title": "\u201cDefinitely not a hotel\u201d", "Author": "Shellbeville", "ReviewID": "UR121802945", "Content": "husband stayed december lot research admit via nazionale fantastic location exactly staying site seeing rome hotel hotel arrived late wednesday night 1030pm front hotel huge double door locked buzzed half hour finally resident accommodation bizarre set owners rented floor building letting poky desk stuck corner call reception besides guests site morning basic breakfast poor excuse pub 2 doors staying coffee croissant called breakfast didnt choice extra else hotel definitely hotel wouldnt class bb strange set 4 hotels building definitely lot accommodation available disappointed booked based soley previous reviews", "Date": "2011-12-16 00:00:00"}], "HotelInfo": {"Name": "Magnifico Hotel", "HotelURL": "/ShowUserReviews-g187791-d570421-Reviews-Magnifico_Hotel-Rome_Lazio.html", "Price": "$98 - $168*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Nazionale 243</span>, <span class=\"locality\"><span property=\"v:postal-code\">184</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "570421", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e8/11/e8113313e8a7663f4546aa8bdb0a848e13large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Co Tyrone, Northern Ireland",
+      "Title": "\u201cDefinitely not a hotel\u201d",
+      "Author": "Shellbeville",
+      "ReviewID": "UR121802945",
+      "Content": "husband stayed december lot research admit via nazionale fantastic location exactly staying site seeing rome hotel hotel arrived late wednesday night 1030pm front hotel huge double door locked buzzed half hour finally resident accommodation bizarre set owners rented floor building letting poky desk stuck corner call reception besides guests site morning basic breakfast poor excuse pub 2 doors staying coffee croissant called breakfast didnt choice extra else hotel definitely hotel wouldnt class bb strange set 4 hotels building definitely lot accommodation available disappointed booked based soley previous reviews",
+      "Date": "2011-12-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Magnifico Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d570421-Reviews-Magnifico_Hotel-Rome_Lazio.html",
+    "Price": "$98 - $168*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Nazionale 243</span>, <span class=\"locality\"><span property=\"v:postal-code\">184</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "570421",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e8/11/e8113313e8a7663f4546aa8bdb0a848e13large.jpg"
+  }
+}

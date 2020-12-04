@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Washington, District of Columbia, United States", "Title": "\u201cOcean City's little gem :)\u201d", "Author": "bode72", "ReviewID": "UR139088112", "Content": "stayed sea cove six seven times time wonderful clean nice hampton inn half price people front desk block beach cant wait thanks sea cove", "Date": "2012-09-01 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Columbus, Ohio", "Title": "\u201cPleasantly Surprised\u201d", "Author": "Chris R", "ReviewID": "UR138888391", "Content": "stayed double hotel office friday night read mixed reviews prior booking pleasantly surprised renovated faux wood floor ceramic tile bathroom furniture comfortable beds layout reminded updated motel 6 recessed closet sink picture frames secured wall nicely cleaned plenty soap towels ac unit relatively remote hummed quietly night awakening fan tv flat screen cable stations blocked werent watch location excellent near beach fridge cold didn\u2019t try microwave cost compared hotels experience recommend hotel price clean quiet comfortable close beach", "Date": "2012-08-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Mount Airy, Maryland", "Title": "\u201cWe love this place!\u201d", "Author": "Barbara H", "ReviewID": "UR134893617", "Content": "family stayed sea cove motel abt 5 yrs vacations oc md awesome location price clean peter hotel staff couldnt accommodating issue 2012 booked 2nd vac august excited return", "Date": "2012-07-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Lake Ridge, Virginia", "Title": "\u201cA pleasant surprise in an emergency!\u201d", "Author": "1Janine1", "ReviewID": "UR75356180", "Content": "leave home week plumbing repair travel cats found listing sea cove petfriendly hotels decided time waste reservation weeks notice 7 son beach called reservation time check breeze excellent lived town apartment comparable staff extremely helpful time management terrific nice expecting walltowall carpeting fine decor beach sadly pay street frankly clean clean bed shower beach honestly vacation id shopping cheap", "Date": "2010-08-15 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Quantico, Virginia", "Title": "\u201cYou get what you pay for...in this case, bugs.\u201d", "Author": "Amy_G_2805", "ReviewID": "UR74604083", "Content": "impression staff nice hotel nice curb appeal 3 star experience paid 179 night walked kids immediately noted smelled fungus wet mushrooms hung car freshener hopes mask smell spent day beach 1 block plus trip returning settled bed startled awake fire engine passing 345 am checked kids bug crawling near sons head caught didnt internet looked pictures looked bed bug pulled sheets found health department website look ones caught front desk clerk told id wait owner 915am waited found accused bringing trying free nights stay hotel bugs course happy offered staff clean door move immediately move send exterminator moved waited hour cleaning crew finish soon moved trash bags white bottle hose sprayer attached shut curtains locked door im assuming attempting kill bugs moved obviously scrubbed bleach feel little stay chalked loss left ocean city pay didnt expect pay bed bugs", "Date": "2010-08-10 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "ashburn, va", "Title": "\u201cHealth Code Violation\u201d", "Author": "serinalisa", "ReviewID": "UR66141615", "Content": "okay buildings attached motel office okay stay stayed blood splatter bathroom wall wtf shower showerhead continuous spray moldy smell holes walls smoke detector ripped wall broken glass floor cleaning people 3 day stay office beg towels speaking office manager told 140 night check 160 told phone 140 okay okay 140 microwave issues brought office manager people denies bad ive paid stay infection dont die fire", "Date": "2010-06-02 00:00:00"}], "HotelInfo": {"Name": "Sea Cove Motel", "HotelURL": "/ShowUserReviews-g41298-d675655-Reviews-Sea_Cove_Motel-Ocean_City_Maryland.html", "Price": "$57 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2701 N Baltimore Ave.</span>, <span class=\"locality\"><span property=\"v:locality\">Ocean City</span>, <span property=\"v:region\">MD</span> <span property=\"v:postal-code\">21842</span></span> </span></span></address>", "HotelID": "675655", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/95/a0/95a03707ac4bfa303f1958843d7994bb1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Washington, District of Columbia, United States",
+      "Title": "\u201cOcean City's little gem :)\u201d",
+      "Author": "bode72",
+      "ReviewID": "UR139088112",
+      "Content": "stayed sea cove six seven times time wonderful clean nice hampton inn half price people front desk block beach cant wait thanks sea cove",
+      "Date": "2012-09-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Columbus, Ohio",
+      "Title": "\u201cPleasantly Surprised\u201d",
+      "Author": "Chris R",
+      "ReviewID": "UR138888391",
+      "Content": "stayed double hotel office friday night read mixed reviews prior booking pleasantly surprised renovated faux wood floor ceramic tile bathroom furniture comfortable beds layout reminded updated motel 6 recessed closet sink picture frames secured wall nicely cleaned plenty soap towels ac unit relatively remote hummed quietly night awakening fan tv flat screen cable stations blocked werent watch location excellent near beach fridge cold didn\u2019t try microwave cost compared hotels experience recommend hotel price clean quiet comfortable close beach",
+      "Date": "2012-08-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Mount Airy, Maryland",
+      "Title": "\u201cWe love this place!\u201d",
+      "Author": "Barbara H",
+      "ReviewID": "UR134893617",
+      "Content": "family stayed sea cove motel abt 5 yrs vacations oc md awesome location price clean peter hotel staff couldnt accommodating issue 2012 booked 2nd vac august excited return",
+      "Date": "2012-07-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Lake Ridge, Virginia",
+      "Title": "\u201cA pleasant surprise in an emergency!\u201d",
+      "Author": "1Janine1",
+      "ReviewID": "UR75356180",
+      "Content": "leave home week plumbing repair travel cats found listing sea cove petfriendly hotels decided time waste reservation weeks notice 7 son beach called reservation time check breeze excellent lived town apartment comparable staff extremely helpful time management terrific nice expecting walltowall carpeting fine decor beach sadly pay street frankly clean clean bed shower beach honestly vacation id shopping cheap",
+      "Date": "2010-08-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Quantico, Virginia",
+      "Title": "\u201cYou get what you pay for...in this case, bugs.\u201d",
+      "Author": "Amy_G_2805",
+      "ReviewID": "UR74604083",
+      "Content": "impression staff nice hotel nice curb appeal 3 star experience paid 179 night walked kids immediately noted smelled fungus wet mushrooms hung car freshener hopes mask smell spent day beach 1 block plus trip returning settled bed startled awake fire engine passing 345 am checked kids bug crawling near sons head caught didnt internet looked pictures looked bed bug pulled sheets found health department website look ones caught front desk clerk told id wait owner 915am waited found accused bringing trying free nights stay hotel bugs course happy offered staff clean door move immediately move send exterminator moved waited hour cleaning crew finish soon moved trash bags white bottle hose sprayer attached shut curtains locked door im assuming attempting kill bugs moved obviously scrubbed bleach feel little stay chalked loss left ocean city pay didnt expect pay bed bugs",
+      "Date": "2010-08-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "ashburn, va",
+      "Title": "\u201cHealth Code Violation\u201d",
+      "Author": "serinalisa",
+      "ReviewID": "UR66141615",
+      "Content": "okay buildings attached motel office okay stay stayed blood splatter bathroom wall wtf shower showerhead continuous spray moldy smell holes walls smoke detector ripped wall broken glass floor cleaning people 3 day stay office beg towels speaking office manager told 140 night check 160 told phone 140 okay okay 140 microwave issues brought office manager people denies bad ive paid stay infection dont die fire",
+      "Date": "2010-06-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Sea Cove Motel",
+    "HotelURL": "/ShowUserReviews-g41298-d675655-Reviews-Sea_Cove_Motel-Ocean_City_Maryland.html",
+    "Price": "$57 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2701 N Baltimore Ave.</span>, <span class=\"locality\"><span property=\"v:locality\">Ocean City</span>, <span property=\"v:region\">MD</span> <span property=\"v:postal-code\">21842</span></span> </span></span></address>",
+    "HotelID": "675655",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/95/a0/95a03707ac4bfa303f1958843d7994bb1large.jpg"
+  }
+}

@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "CrusierCat", "Title": "\u201cGreat Hotel @ a Great Price in a wonderful location.\u201d", "Author": "CrusierCat", "ReviewID": "UR56706736", "Content": "traveled friends miami super bowl weekend unintentionally cruise waited minute book hotel found availability extremely limited hotels grossly overpriced ambassadors provided clean albeit rustic entire party competitive rate clean spacious charming view beautiful grounds kept hotel employees friendly accommodating highly recommend hotel family friends traveling miami sincerity downside share lack ice machine", "Date": "2010-02-21 00:00:00"}], "HotelInfo": {"Name": "Four Ambassadors Suites Hotel", "HotelURL": "/ShowUserReviews-g34438-d87085-Reviews-Four_Ambassadors_Suites_Hotel-Miami_Florida.html", "Price": "$140 - $160*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">801 Brickell Bay Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Miami</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">33131</span></span> </span> </span> </address>", "HotelID": "87085", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/94/10/94106cfeeae232076ac974dfdd98ca351large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "CrusierCat",
+      "Title": "\u201cGreat Hotel @ a Great Price in a wonderful location.\u201d",
+      "Author": "CrusierCat",
+      "ReviewID": "UR56706736",
+      "Content": "traveled friends miami super bowl weekend unintentionally cruise waited minute book hotel found availability extremely limited hotels grossly overpriced ambassadors provided clean albeit rustic entire party competitive rate clean spacious charming view beautiful grounds kept hotel employees friendly accommodating highly recommend hotel family friends traveling miami sincerity downside share lack ice machine",
+      "Date": "2010-02-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Four Ambassadors Suites Hotel",
+    "HotelURL": "/ShowUserReviews-g34438-d87085-Reviews-Four_Ambassadors_Suites_Hotel-Miami_Florida.html",
+    "Price": "$140 - $160*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">801 Brickell Bay Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Miami</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">33131</span></span> </span> </span> </address>",
+    "HotelID": "87085",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/94/10/94106cfeeae232076ac974dfdd98ca351large.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Meppel, The Netherlands", "Title": "\u201cVery Nice hotel\u201d", "Author": "Nickyvandenberg", "ReviewID": "UR139990856", "Content": "stayed nights city trip hk hotel sophisticated hotel beatiful design staff friendly location 5 min metrostation hotel stay business pleasure", "Date": "2012-09-11 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Ommen, The Netherlands", "Title": "\u201cGreat hotel, too bad about the pool\u201d", "Author": "Koba_1982", "ReviewID": "UR138962147", "Content": "stayed 3 nights located middle action hk mtr 5 minutes walking 15 minutes youre nathans road complimentary ipad nice breakfast balance etc breakfast clean comfy downside pool closed notice apparently cant permit mentioned site bookingcom booked partly rooftop pool", "Date": "2012-08-31 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Doha, Qatar", "Title": "\u201cGreat Stay!\u201d", "Author": "chriscoe777", "ReviewID": "UR135850145", "Content": "short stay bout 3 roomvery modern cleanstaff friendly breakfast fine 1 girl wait time coffee besides 5 star", "Date": "2012-07-31 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 2.0}, "AuthorLocation": "Singapore", "Title": "\u201cNew, Modern hotel with Nice Rooms but Service is below Par\u201d", "Author": "VictoriaSommers", "ReviewID": "UR133825085", "Content": "stay week operation client booked hotel rate attractive below inclusive breakfast course brand modern ecofriendly extremely hitech tv comes screen ipad awaits bedside forth wont disappointed concerned ballrooms events banquet staff courteous breakfast mediocre wrong stay 4 nights staff wasnt properly trained terms processes protocol 1 lobby empty staff manning reception checkin supposed floors ground floor 2 daily package free drinks fridge wasnt told colleague checked told found night 3 staff credit card passport checkin lady ipad key details amazement told didnt records checked technology wouldnt help staff wasnt trained 4 afternoon business call housekeeping staff rang bell couldnt answer door card key bathrobe 5 night tried front desk wakeup call tried calling times 15 hours picked day told staff incidentally left post attend else couldnt believe supposed 24hour service left post hour 6 walked smelled tobacco supposed nosmoking floor manager told couldnt guests chose smoke nonsmoking floor true response inappropriate hotels restaurant offers japanese italian fusion food sashimi fresh dessert wonderful hk week client threw party hotel meal party 17 3 hours complete restaurant 4 tables serve night hotel improve rate attractive doesnt mind distance occasional clumsy service", "Date": "2012-07-09 00:00:00"}], "HotelInfo": {"Name": "L'hotel elan", "HotelURL": "/ShowUserReviews-g294217-d3205411-Reviews-L_hotel_elan-Hong_Kong.html", "Price": "$124 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.38 Chong Yip Street, Kwun Tong</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>", "HotelID": "3205411", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/84/a1/8b/twin-bed-room.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Meppel, The Netherlands",
+      "Title": "\u201cVery Nice hotel\u201d",
+      "Author": "Nickyvandenberg",
+      "ReviewID": "UR139990856",
+      "Content": "stayed nights city trip hk hotel sophisticated hotel beatiful design staff friendly location 5 min metrostation hotel stay business pleasure",
+      "Date": "2012-09-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Ommen, The Netherlands",
+      "Title": "\u201cGreat hotel, too bad about the pool\u201d",
+      "Author": "Koba_1982",
+      "ReviewID": "UR138962147",
+      "Content": "stayed 3 nights located middle action hk mtr 5 minutes walking 15 minutes youre nathans road complimentary ipad nice breakfast balance etc breakfast clean comfy downside pool closed notice apparently cant permit mentioned site bookingcom booked partly rooftop pool",
+      "Date": "2012-08-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Doha, Qatar",
+      "Title": "\u201cGreat Stay!\u201d",
+      "Author": "chriscoe777",
+      "ReviewID": "UR135850145",
+      "Content": "short stay bout 3 roomvery modern cleanstaff friendly breakfast fine 1 girl wait time coffee besides 5 star",
+      "Date": "2012-07-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Singapore",
+      "Title": "\u201cNew, Modern hotel with Nice Rooms but Service is below Par\u201d",
+      "Author": "VictoriaSommers",
+      "ReviewID": "UR133825085",
+      "Content": "stay week operation client booked hotel rate attractive below inclusive breakfast course brand modern ecofriendly extremely hitech tv comes screen ipad awaits bedside forth wont disappointed concerned ballrooms events banquet staff courteous breakfast mediocre wrong stay 4 nights staff wasnt properly trained terms processes protocol 1 lobby empty staff manning reception checkin supposed floors ground floor 2 daily package free drinks fridge wasnt told colleague checked told found night 3 staff credit card passport checkin lady ipad key details amazement told didnt records checked technology wouldnt help staff wasnt trained 4 afternoon business call housekeeping staff rang bell couldnt answer door card key bathrobe 5 night tried front desk wakeup call tried calling times 15 hours picked day told staff incidentally left post attend else couldnt believe supposed 24hour service left post hour 6 walked smelled tobacco supposed nosmoking floor manager told couldnt guests chose smoke nonsmoking floor true response inappropriate hotels restaurant offers japanese italian fusion food sashimi fresh dessert wonderful hk week client threw party hotel meal party 17 3 hours complete restaurant 4 tables serve night hotel improve rate attractive doesnt mind distance occasional clumsy service",
+      "Date": "2012-07-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "L'hotel elan",
+    "HotelURL": "/ShowUserReviews-g294217-d3205411-Reviews-L_hotel_elan-Hong_Kong.html",
+    "Price": "$124 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.38 Chong Yip Street, Kwun Tong</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>",
+    "HotelID": "3205411",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/84/a1/8b/twin-bed-room.jpg"
+  }
+}

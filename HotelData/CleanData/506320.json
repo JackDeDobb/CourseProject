@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Puerto Princesa, Philippines", "Title": "\u201cTiny price, tiny room\u201d", "Author": "Vetus", "ReviewID": "UR128155953", "Content": "superior including bathroom uncomfortable bed tried sleep cotton sheet covered mattress impossible cost night disaster fantastic stepping 1970s singapore excellent restaurants cheap singapore leaving hotel mall supermarket left closer 24hour supermarket bit excellent 112 katong mall close changi airport taste discomfort geylang try btw girls", "Date": "2012-04-19 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Mannheim", "Title": "\u201cInexpensive Hotel near Changi Airport\u201d", "Author": "DieMannheimer", "ReviewID": "UR127451724", "Content": "hotel joo 1015 min airport located east coast road geylang nice malaysian neighborhood restaurants bars malls walking distance hotel expensive singapore clean nights singapore standards spacious dont expect facilities swimmingpool restaurant ideal hotel stopover flights arrived 6 pm leave morning 730 am", "Date": "2012-04-08 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "pasay, philippines", "Title": "\u201cOverall very satisfactory!\u201d", "Author": "rickyrose", "ReviewID": "UR125370335", "Content": "hotel satisfactory 3 nights stay location quiet daytime little bit busy evening located mixed residential commercial bars bars tourists welcome harrassed pretty girls unlike red light districts hotel comfortable night sleep 502 503 front elevator slept guests comes elevator noise tolerable cleaned daily staff friendly specially filipina staff name night duty bus stop 10 meters ride singapore bus stop 200 meters plenty fast foods surely return hotel", "Date": "2012-02-28 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Al Khobar, Saudi Arabia", "Title": "\u201csmall room-no shower curtain-no customer service\u201d", "Author": "nomeeekhan", "ReviewID": "UR91356957", "Content": "roomno shower customer service family didnt floor smoking bad smell smoking service self help staff muslim resturant south indian 10 mins walk 5 mins walk available beside hotel temple", "Date": "2011-01-02 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Kuala Lumpur", "Title": "\u201cNo going back for me\u201d", "Author": "evi1angel", "ReviewID": "UR86370690", "Content": "booked family 3 girls allow check extra charge check able luggage luggage hotel mrt station bus stops costs taxi mrt station hotel taxi paya lebar mrt night walked hotel road hotel row sleazy bars night lot prowling street supposed geylang uneasy ladies walking night wasnt shower curtain toilet wet easily hotel staff bother smile check wait 15min 1 couple front stay anymore", "Date": "2010-11-08 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Bangkok, Thailand", "Title": "\u201cconvenient and nice\u201d", "Author": "teeray-andy", "ReviewID": "UR83437053", "Content": "fragrance hotel nice location basically fulfills person holiday expensive hotels singapore clean bathrooms clean condition cabs available easily convenient move", "Date": "2010-10-14 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Singapore", "Title": "\u201cFor what it costs..\u201d", "Author": "Cronus71", "ReviewID": "UR55781274", "Content": "ok stay clean true shower water drain creates pool floor wireless internet additional cost broadband swisshotel stamford staff friendly location ok considering al lot fragrance hotels situated redlight district dont stay week spends time hotel except sleep shower carry evening budget hotel pay oh elevator makes ping noise reaches floor im floor elevator hear heh", "Date": "2010-02-11 00:00:00"}], "HotelInfo": {"Name": "Fragrance Hotel Joo Chiat", "HotelURL": "/ShowUserReviews-g294265-d506320-Reviews-Fragrance_Hotel_Joo_Chiat-Singapore.html", "Price": "$53 - $63*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">219 Joo Chiat Road</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">427485</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>", "HotelID": "506320", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d4/16/d416577fc362c53036075c377765165b7large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Puerto Princesa, Philippines",
+      "Title": "\u201cTiny price, tiny room\u201d",
+      "Author": "Vetus",
+      "ReviewID": "UR128155953",
+      "Content": "superior including bathroom uncomfortable bed tried sleep cotton sheet covered mattress impossible cost night disaster fantastic stepping 1970s singapore excellent restaurants cheap singapore leaving hotel mall supermarket left closer 24hour supermarket bit excellent 112 katong mall close changi airport taste discomfort geylang try btw girls",
+      "Date": "2012-04-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Mannheim",
+      "Title": "\u201cInexpensive Hotel near Changi Airport\u201d",
+      "Author": "DieMannheimer",
+      "ReviewID": "UR127451724",
+      "Content": "hotel joo 1015 min airport located east coast road geylang nice malaysian neighborhood restaurants bars malls walking distance hotel expensive singapore clean nights singapore standards spacious dont expect facilities swimmingpool restaurant ideal hotel stopover flights arrived 6 pm leave morning 730 am",
+      "Date": "2012-04-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "pasay, philippines",
+      "Title": "\u201cOverall very satisfactory!\u201d",
+      "Author": "rickyrose",
+      "ReviewID": "UR125370335",
+      "Content": "hotel satisfactory 3 nights stay location quiet daytime little bit busy evening located mixed residential commercial bars bars tourists welcome harrassed pretty girls unlike red light districts hotel comfortable night sleep 502 503 front elevator slept guests comes elevator noise tolerable cleaned daily staff friendly specially filipina staff name night duty bus stop 10 meters ride singapore bus stop 200 meters plenty fast foods surely return hotel",
+      "Date": "2012-02-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Al Khobar, Saudi Arabia",
+      "Title": "\u201csmall room-no shower curtain-no customer service\u201d",
+      "Author": "nomeeekhan",
+      "ReviewID": "UR91356957",
+      "Content": "roomno shower customer service family didnt floor smoking bad smell smoking service self help staff muslim resturant south indian 10 mins walk 5 mins walk available beside hotel temple",
+      "Date": "2011-01-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Kuala Lumpur",
+      "Title": "\u201cNo going back for me\u201d",
+      "Author": "evi1angel",
+      "ReviewID": "UR86370690",
+      "Content": "booked family 3 girls allow check extra charge check able luggage luggage hotel mrt station bus stops costs taxi mrt station hotel taxi paya lebar mrt night walked hotel road hotel row sleazy bars night lot prowling street supposed geylang uneasy ladies walking night wasnt shower curtain toilet wet easily hotel staff bother smile check wait 15min 1 couple front stay anymore",
+      "Date": "2010-11-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Bangkok, Thailand",
+      "Title": "\u201cconvenient and nice\u201d",
+      "Author": "teeray-andy",
+      "ReviewID": "UR83437053",
+      "Content": "fragrance hotel nice location basically fulfills person holiday expensive hotels singapore clean bathrooms clean condition cabs available easily convenient move",
+      "Date": "2010-10-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Singapore",
+      "Title": "\u201cFor what it costs..\u201d",
+      "Author": "Cronus71",
+      "ReviewID": "UR55781274",
+      "Content": "ok stay clean true shower water drain creates pool floor wireless internet additional cost broadband swisshotel stamford staff friendly location ok considering al lot fragrance hotels situated redlight district dont stay week spends time hotel except sleep shower carry evening budget hotel pay oh elevator makes ping noise reaches floor im floor elevator hear heh",
+      "Date": "2010-02-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Fragrance Hotel Joo Chiat",
+    "HotelURL": "/ShowUserReviews-g294265-d506320-Reviews-Fragrance_Hotel_Joo_Chiat-Singapore.html",
+    "Price": "$53 - $63*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">219 Joo Chiat Road</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">427485</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>",
+    "HotelID": "506320",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d4/16/d416577fc362c53036075c377765165b7large.jpg"
+  }
+}

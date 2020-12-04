@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cDecent enough, but some aspects disappointing\u201d", "Author": "Ryan700", "ReviewID": "UR122863108", "Content": "stayed total 3 nights hotel broken 2 stays stay decent furnishings bare adequate note kettle teacoffee facilities sort bare essentials provided hotel checked night florence rome stay provided keys directions sister hotel hotel des artistes checking hotel des artistes cheaper inferior hotel confirmed checked internet rates hotel expensive hotel des artistes furnishings lighting hotel des artistes substandard example crt tv des artistes dark gloomy effect booked paid provided inferior sly informing explaining reception excuses hotel des artistes expensive location expected thanks previous review trip advisor persisted eventually agreed provide hotel requested accommodate hotel apparently strange considering accepted reservation mentioned bumped guest aspects lifts fairly dodgy breakfast decent price pay toilets dont flush properly", "Date": "2012-01-10 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Ireland", "Title": "\u201cSCAM.. Don't pay for Lucci Hotel as you'll be put in a different (lower priced) hotel but have to pay the higher money!\u201d", "Author": "Jill-02-07", "ReviewID": "UR78251075", "Content": "scam booked 3 weeks departure id read reviews told 1st 2nd floor told check hotel door hotel des artistes breakfast fine arrival told pay upfront seeing key told 4th floor didnt pay hotel hotel des artistes priced lot lower hotel paid hotel guy started saying difference hotel standing lift 24 hour reception breakfast stayed hotel breakfast etc told hotel paid talked looked price difference hotel des artistes hotel major difference mailing hotel management owe scam scam", "Date": "2010-09-04 00:00:00"}], "HotelInfo": {"Name": "Lucci Hotel", "HotelURL": "/ShowUserReviews-g187791-d589560-Reviews-Lucci_Hotel-Rome_Lazio.html", "Price": "$96 - $201*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Villafranca 20</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "589560", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/09/e0/09e097e4eac554812d6004c0848f6d751large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cDecent enough, but some aspects disappointing\u201d",
+      "Author": "Ryan700",
+      "ReviewID": "UR122863108",
+      "Content": "stayed total 3 nights hotel broken 2 stays stay decent furnishings bare adequate note kettle teacoffee facilities sort bare essentials provided hotel checked night florence rome stay provided keys directions sister hotel hotel des artistes checking hotel des artistes cheaper inferior hotel confirmed checked internet rates hotel expensive hotel des artistes furnishings lighting hotel des artistes substandard example crt tv des artistes dark gloomy effect booked paid provided inferior sly informing explaining reception excuses hotel des artistes expensive location expected thanks previous review trip advisor persisted eventually agreed provide hotel requested accommodate hotel apparently strange considering accepted reservation mentioned bumped guest aspects lifts fairly dodgy breakfast decent price pay toilets dont flush properly",
+      "Date": "2012-01-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Ireland",
+      "Title": "\u201cSCAM.. Don't pay for Lucci Hotel as you'll be put in a different (lower priced) hotel but have to pay the higher money!\u201d",
+      "Author": "Jill-02-07",
+      "ReviewID": "UR78251075",
+      "Content": "scam booked 3 weeks departure id read reviews told 1st 2nd floor told check hotel door hotel des artistes breakfast fine arrival told pay upfront seeing key told 4th floor didnt pay hotel hotel des artistes priced lot lower hotel paid hotel guy started saying difference hotel standing lift 24 hour reception breakfast stayed hotel breakfast etc told hotel paid talked looked price difference hotel des artistes hotel major difference mailing hotel management owe scam scam",
+      "Date": "2010-09-04 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Lucci Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d589560-Reviews-Lucci_Hotel-Rome_Lazio.html",
+    "Price": "$96 - $201*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Villafranca 20</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "589560",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/09/e0/09e097e4eac554812d6004c0848f6d751large.jpg"
+  }
+}

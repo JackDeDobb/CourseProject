@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "San Francisco, California", "Title": "\u201cGood value for a short stay\u201d", "Author": "Phillip T", "ReviewID": "UR126975401", "Content": "meeting stayed homestead studio san diego mission valley clean remodeled somehow smell fresh paint night attendant friendly checked midnight hotel close main freeways shopping quiet value short trip san diego", "Date": "2012-03-30 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "CA", "Title": "\u201cDon't arrive before 3pm!\u201d", "Author": "John X", "ReviewID": "UR126811862", "Content": "newly renovated modern kitchen bath updated granite gripe check 3pm refused checkin wasnt 3pm dot hotels accommodating busy hotel check hour 1230 woman desk didnt look computer 3 understand exactly booming hotel business park assure available thursday afternoon", "Date": "2012-03-28 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Berwick, Maine", "Title": "\u201cGross!!!!!\u201d", "Author": "MKBL999", "ReviewID": "UR125157342", "Content": "hotel disgusting arrived floor found directly trash 4 5 feet trash dumped stairwells bins covers flies swarming couldnt door smelled horrid urine toilet walkway piles cigarette buts litter beer cans decided try third stunk urine bad couldnt stand hadnt vacuumed needless stay stay night dump fooled recently renovated claim coworkers stay hotel complaints endless extremely noisy plumbing tiny broken ac units broken toilets showers etc", "Date": "2012-02-24 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "San Diego, California", "Title": "\u201cThis place is awesome... as an absolute last resort\u201d", "Author": "will2002", "ReviewID": "UR108731187", "Content": "location cheap spacious bad pretty else booked employers month stay found else price cleaned weekly fee extra toilet paper daily towel service beds extremely uncomfortable towels bathroom checked cigarette butt coffee mug bathroom dirty oh showtime", "Date": "2011-05-18 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Sacramento, California", "Title": "\u201cWarning - Do NOT stay here\u201d", "Author": "Catira2010", "ReviewID": "UR81932398", "Content": "filthiest hotel seen reason walk door refund accomodations late unable check 1030 pm late elsewhere dive dont stay chose kitchen due special diet required cooking details clean blankets desk looked walked dont laundered bed cover kitchen floor dirty shoes stuck microwave food explosions stove hood greasy dusty counters wiped toilet running dont addition interior rundown rusty towel racks cabinets tub drains slow ankle deep water showering checked maid cleaning countertops broom explains lot issues feeling eviction notice door unit below unit door dog left barked day person dog grass outside extended stays night stayed extended stay woodland hills ca marginally hoped exception homestead worse homestead suites mission valley appears extended stay hotel business leisure low rent apartment complex probably seedy motel experiences near extended stay chain hotels", "Date": "2010-10-03 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Ann Arbor, Mi", "Title": "\u201cGood value for the frugal, but don't expect luxury\u201d", "Author": "RoadTripCity", "ReviewID": "UR63541192", "Content": "stayed hotel weeks business trip deal believe rate stay 60 night beds kitchen colleague didnt feel cramped kitchen bathroom functional sanitary hotel outdoor picnic tables wifi grill people using homestead situated office park immediate surroundings completely lack character quiet totally abandoned night hotel 510 minute walk 23 minute drive strip mall grocery store pharmacy dennys starbucks etc convenient lot shopping centers malls public transportation reviewers mentioned cleaned hotels policy clean week stay request frequently followed policy cleaned twice weeks reviewers mentioned traffic noise highway concern depending hotel buildings close highway stayed roughly middle building traffic noise probably okay request thats highway overall plan treat hotel sleep maybe cook meals recommend hotel hand spend vacation lounging hotel isnt choice", "Date": "2010-05-08 00:00:00"}], "HotelInfo": {"Name": "Homestead Studio Suites San Diego / Mission Valley", "HotelURL": "/ShowUserReviews-g60750-d119755-Reviews-Homestead_Studio_Suites_San_Diego_Mission_Valley-San_Diego_California.html", "Price": "$78 - $98*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">7444 Mission Valley Road</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92108</span></span> </span> </span> </address>", "HotelID": "119755", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0c/20/0c20875e3805ba741bea4d366952d04e4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "San Francisco, California",
+      "Title": "\u201cGood value for a short stay\u201d",
+      "Author": "Phillip T",
+      "ReviewID": "UR126975401",
+      "Content": "meeting stayed homestead studio san diego mission valley clean remodeled somehow smell fresh paint night attendant friendly checked midnight hotel close main freeways shopping quiet value short trip san diego",
+      "Date": "2012-03-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "CA",
+      "Title": "\u201cDon't arrive before 3pm!\u201d",
+      "Author": "John X",
+      "ReviewID": "UR126811862",
+      "Content": "newly renovated modern kitchen bath updated granite gripe check 3pm refused checkin wasnt 3pm dot hotels accommodating busy hotel check hour 1230 woman desk didnt look computer 3 understand exactly booming hotel business park assure available thursday afternoon",
+      "Date": "2012-03-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Berwick, Maine",
+      "Title": "\u201cGross!!!!!\u201d",
+      "Author": "MKBL999",
+      "ReviewID": "UR125157342",
+      "Content": "hotel disgusting arrived floor found directly trash 4 5 feet trash dumped stairwells bins covers flies swarming couldnt door smelled horrid urine toilet walkway piles cigarette buts litter beer cans decided try third stunk urine bad couldnt stand hadnt vacuumed needless stay stay night dump fooled recently renovated claim coworkers stay hotel complaints endless extremely noisy plumbing tiny broken ac units broken toilets showers etc",
+      "Date": "2012-02-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "San Diego, California",
+      "Title": "\u201cThis place is awesome... as an absolute last resort\u201d",
+      "Author": "will2002",
+      "ReviewID": "UR108731187",
+      "Content": "location cheap spacious bad pretty else booked employers month stay found else price cleaned weekly fee extra toilet paper daily towel service beds extremely uncomfortable towels bathroom checked cigarette butt coffee mug bathroom dirty oh showtime",
+      "Date": "2011-05-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Sacramento, California",
+      "Title": "\u201cWarning - Do NOT stay here\u201d",
+      "Author": "Catira2010",
+      "ReviewID": "UR81932398",
+      "Content": "filthiest hotel seen reason walk door refund accomodations late unable check 1030 pm late elsewhere dive dont stay chose kitchen due special diet required cooking details clean blankets desk looked walked dont laundered bed cover kitchen floor dirty shoes stuck microwave food explosions stove hood greasy dusty counters wiped toilet running dont addition interior rundown rusty towel racks cabinets tub drains slow ankle deep water showering checked maid cleaning countertops broom explains lot issues feeling eviction notice door unit below unit door dog left barked day person dog grass outside extended stays night stayed extended stay woodland hills ca marginally hoped exception homestead worse homestead suites mission valley appears extended stay hotel business leisure low rent apartment complex probably seedy motel experiences near extended stay chain hotels",
+      "Date": "2010-10-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Ann Arbor, Mi",
+      "Title": "\u201cGood value for the frugal, but don't expect luxury\u201d",
+      "Author": "RoadTripCity",
+      "ReviewID": "UR63541192",
+      "Content": "stayed hotel weeks business trip deal believe rate stay 60 night beds kitchen colleague didnt feel cramped kitchen bathroom functional sanitary hotel outdoor picnic tables wifi grill people using homestead situated office park immediate surroundings completely lack character quiet totally abandoned night hotel 510 minute walk 23 minute drive strip mall grocery store pharmacy dennys starbucks etc convenient lot shopping centers malls public transportation reviewers mentioned cleaned hotels policy clean week stay request frequently followed policy cleaned twice weeks reviewers mentioned traffic noise highway concern depending hotel buildings close highway stayed roughly middle building traffic noise probably okay request thats highway overall plan treat hotel sleep maybe cook meals recommend hotel hand spend vacation lounging hotel isnt choice",
+      "Date": "2010-05-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Homestead Studio Suites San Diego / Mission Valley",
+    "HotelURL": "/ShowUserReviews-g60750-d119755-Reviews-Homestead_Studio_Suites_San_Diego_Mission_Valley-San_Diego_California.html",
+    "Price": "$78 - $98*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">7444 Mission Valley Road</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92108</span></span> </span> </span> </address>",
+    "HotelID": "119755",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0c/20/0c20875e3805ba741bea4d366952d04e4large.jpg"
+  }
+}

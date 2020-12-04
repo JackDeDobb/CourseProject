@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Babylon, New York, United States", "Title": "\u201cWell?\u201d", "Author": "7Magus7", "ReviewID": "UR124216132", "Content": "staff actually nice location sadly roaches bedbugs luckily bitten bed clean minus stains sheets dont housekeeping week quiet unless afford avoid care bugs clean bit ive stayed past times roaches deal wont staying bedbugs", "Date": "2012-02-06 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "paddy by the sea", "Title": "\u201cits fine\u201d", "Author": "luperduper", "ReviewID": "UR120918560", "Content": "exactly pay cheap clean value money 75 night 10 cab ride town staff nice elevator carry luggage downstairs budget perfect neighbourhood fine wits plenty shops", "Date": "2011-11-22 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "New Orleans/Honolulu", "Title": "\u201cworst hotel ever, but made for a funny story all these years later\u201d", "Author": "rockchick", "ReviewID": "UR62397636", "Content": "stayed abbott ago friends quick found driving instincts common sense told stay friends listen else read true gay porn lobby brown water coming sink mirrors ceilings crack heads hookers roaming halls broken sent wierd guy wrench try fix left lock fell door none exageration afraid shower freshen 18 hours traveling car event soon friends ready evening checked outdid stay night laugh experience", "Date": "2010-04-25 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Iowa City, IA", "Title": "\u201cWonderfully Horrifying\u201d", "Author": "mystic_fool", "ReviewID": "UR57117979", "Content": "traveling lost highway recommend stay hotel welcoming lobby closed sign greats enter lobby moment appreciate pair doves pecking cage desk clerks politeness looks pity distrust constant eye contact recommended halls smell atrocious deep breath tomorrow morning pray halls smelled delightful blood stains pubic hairs bed lucky fluid stain bed window shut allows immersed street noises outside claim color tv true instead close eyes listen radiators pretending london blitz toilet sturdy effect experience post youtube", "Date": "2010-02-25 00:00:00"}], "HotelInfo": {"Name": "Abbott Hotel", "HotelURL": "/ShowUserReviews-g35805-d123318-Reviews-Abbott_Hotel-Chicago_Illinois.html", "Price": "$51 - $100*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">721 W Belmont Ave</span>, <span class=\"locality\"><span property=\"v:locality\">Chicago</span>, <span property=\"v:region\">IL</span> <span property=\"v:postal-code\">60657</span></span> </span> </span> </address>", "HotelID": "123318", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/45/61/abbott-hotel-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Babylon, New York, United States",
+      "Title": "\u201cWell?\u201d",
+      "Author": "7Magus7",
+      "ReviewID": "UR124216132",
+      "Content": "staff actually nice location sadly roaches bedbugs luckily bitten bed clean minus stains sheets dont housekeeping week quiet unless afford avoid care bugs clean bit ive stayed past times roaches deal wont staying bedbugs",
+      "Date": "2012-02-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "paddy by the sea",
+      "Title": "\u201cits fine\u201d",
+      "Author": "luperduper",
+      "ReviewID": "UR120918560",
+      "Content": "exactly pay cheap clean value money 75 night 10 cab ride town staff nice elevator carry luggage downstairs budget perfect neighbourhood fine wits plenty shops",
+      "Date": "2011-11-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "New Orleans/Honolulu",
+      "Title": "\u201cworst hotel ever, but made for a funny story all these years later\u201d",
+      "Author": "rockchick",
+      "ReviewID": "UR62397636",
+      "Content": "stayed abbott ago friends quick found driving instincts common sense told stay friends listen else read true gay porn lobby brown water coming sink mirrors ceilings crack heads hookers roaming halls broken sent wierd guy wrench try fix left lock fell door none exageration afraid shower freshen 18 hours traveling car event soon friends ready evening checked outdid stay night laugh experience",
+      "Date": "2010-04-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Iowa City, IA",
+      "Title": "\u201cWonderfully Horrifying\u201d",
+      "Author": "mystic_fool",
+      "ReviewID": "UR57117979",
+      "Content": "traveling lost highway recommend stay hotel welcoming lobby closed sign greats enter lobby moment appreciate pair doves pecking cage desk clerks politeness looks pity distrust constant eye contact recommended halls smell atrocious deep breath tomorrow morning pray halls smelled delightful blood stains pubic hairs bed lucky fluid stain bed window shut allows immersed street noises outside claim color tv true instead close eyes listen radiators pretending london blitz toilet sturdy effect experience post youtube",
+      "Date": "2010-02-25 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Abbott Hotel",
+    "HotelURL": "/ShowUserReviews-g35805-d123318-Reviews-Abbott_Hotel-Chicago_Illinois.html",
+    "Price": "$51 - $100*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">721 W Belmont Ave</span>, <span class=\"locality\"><span property=\"v:locality\">Chicago</span>, <span property=\"v:region\">IL</span> <span property=\"v:postal-code\">60657</span></span> </span> </span> </address>",
+    "HotelID": "123318",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/45/61/abbott-hotel-thumbnail.jpg"
+  }
+}

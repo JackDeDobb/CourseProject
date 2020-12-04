@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Denver, Colorado", "Title": "\u201cAmazing. NEW OWNERS\u201d", "Author": "TheHardTruth4567", "ReviewID": "UR112340008", "Content": "improved greatly inn cheap definetly worth restaurant closed inn restaurant cleaner nicer plus easily burgers branson owners plans improvements soon inn owners gotten cleaner comfortable definetly money 550 amazing half pound cheeseburger 750 special cheeseburger bacon pool goes 3 feet 10 feet deep", "Date": "2011-06-09 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Moore, Oklahoma", "Title": "\u201cYou get what you pay for\u201d", "Author": "tkirkes", "ReviewID": "UR80848167", "Content": "wow cheap pay location main road thru branson dirty smelled musty beds awful quality lost sleep cleaning consisted bed taking trash else run bathroom dirty bathtub stains pay little decent sleep", "Date": "2010-09-24 00:00:00"}], "HotelInfo": {"Name": "Hillbilly Inn", "HotelURL": "/ShowUserReviews-g44160-d270347-Reviews-Hillbilly_Inn-Branson_Missouri.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1166 West Hwy. 76</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>", "HotelID": "270347", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/87/63/876329cfa6364d0af6778ff1634ecfaa78large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Denver, Colorado",
+      "Title": "\u201cAmazing. NEW OWNERS\u201d",
+      "Author": "TheHardTruth4567",
+      "ReviewID": "UR112340008",
+      "Content": "improved greatly inn cheap definetly worth restaurant closed inn restaurant cleaner nicer plus easily burgers branson owners plans improvements soon inn owners gotten cleaner comfortable definetly money 550 amazing half pound cheeseburger 750 special cheeseburger bacon pool goes 3 feet 10 feet deep",
+      "Date": "2011-06-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Moore, Oklahoma",
+      "Title": "\u201cYou get what you pay for\u201d",
+      "Author": "tkirkes",
+      "ReviewID": "UR80848167",
+      "Content": "wow cheap pay location main road thru branson dirty smelled musty beds awful quality lost sleep cleaning consisted bed taking trash else run bathroom dirty bathtub stains pay little decent sleep",
+      "Date": "2010-09-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hillbilly Inn",
+    "HotelURL": "/ShowUserReviews-g44160-d270347-Reviews-Hillbilly_Inn-Branson_Missouri.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1166 West Hwy. 76</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>",
+    "HotelID": "270347",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/87/63/876329cfa6364d0af6778ff1634ecfaa78large.jpg"
+  }
+}

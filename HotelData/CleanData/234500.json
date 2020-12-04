@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Wroclaw, Poland", "Title": "\u201cGood place to explore berlin\u201d", "Author": "Alexander W", "ReviewID": "UR122988624", "Content": "stay nights apartments hotel cas move stay family little outdated apartment kitchen breakfast facilities floor excellent breakfast wifi weak 9th floor", "Date": "2012-01-12 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Peterborough, United Kingdom", "Title": "\u201cFab location, views and breakfast.\u201d", "Author": "hammerthief", "ReviewID": "UR96764281", "Content": "excellent location close potsdammer platz sony centre excellent clean warm condition nice furniture kitchen equiped breakfast superb range choice couldnt tempt amazed", "Date": "2011-02-15 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "CYPRUS", "Title": "\u201cLOVELY HOTEL IN THE CENTER OF BERLIN- GREAT VALUE FOR MONEY\u201d", "Author": "ROULA-THANOS", "ReviewID": "UR92177153", "Content": "wife stayed 6 day xmas holiday hotel hotel covenient location 2 min foot plaz connection metro located nice lot shops cafe restaurants cinemas shopping mall short walk stayed section appartments comfort 3 hotelroom size bigger average size compare hotel germany variety cakes pastries offer start day winter warm central heating finally recoment hotel choice central location majority attraction value money", "Date": "2011-01-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Pune, India", "Title": "\u201cExcellant location for business trip, value for money!\u201d", "Author": "gpoonam13", "ReviewID": "UR90981212", "Content": "berlin business trip august 2010 stayed apartment 11th floor 3 weeks apartment single person living bedroom kitchen bathroom wc store living window curtains scenery beautiful living tv german channels english channels sofa cupboard dining table 2 chairs ironing board iron kitchen equipped 4 burner stove refrigerator microwave oven dish washer toaster teacoffee maker required utensils cooking pans sized plates bowls glasses spoons wine glasses serving bowls serving spoons knives bedroom medium sized wooden cupboard occupied entire wall cupboard hangers hang clothes mirror packet needle threads kept cupboard double bed cozy 2 tables drawers lamp window curtains similar living bathroom bath tub shower cabin wc washbasin dustbin 4 towels soap hair gel kept shower cabin washbasin hot cold water store front door washing machine passage clothes stand drying clothes umbrella wifi internet complimentary faced major connection except twice cleaning alternate day opted daily breakfast cost 5 euros day lot options choose am vegetarian choose fresh fruits boiled scrambled eggs cakes 34 types bread 34 types jam butter 2 juices tea coffee machine milk corn flakes muesli etc breakfast spacious staff helpful reception complimentary railway map etc receptionists shift found polite helpful english hotel 2 lifts slow people wait lift mornings floor breakfast nearest railway station potsdamer platz walking distance lot bakeries restaurants nearby remains berlin wall walking distance 5min lot sightseeing brandenburger tor berliner dom tier garten memorial killed jews jewish museum walking distance 1520min potsdamer platz shopping mall", "Date": "2010-12-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "England", "Title": "\u201cGreat hotel, why so low on the ratings????\u201d", "Author": "ceseria", "ReviewID": "UR62156658", "Content": "hotel middle berlin 2 minutes road appartment 14th floor hotel wonderful sights berlin appartment spaceous massive bathroom living kitchen wash stay due travel chaos caused volcanic staff breakfast wide meats cereals hot food juices drinks staying holiday inn express road hotel superior recommend underground 2 mins walk eatting minutes", "Date": "2010-04-22 00:00:00"}], "HotelInfo": {"Name": "Hotel BelAhr", "HotelURL": "/ShowUserReviews-g187323-d234500-Reviews-Hotel_BelAhr-Berlin.html", "Price": "$91 - $184*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Stresemannstrasse 97</span>, <span class=\"locality\"><span property=\"v:postal-code\">10963</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "234500", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/84/ec/84ecbdd4262b0240350e021ad6a63b116large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Wroclaw, Poland",
+      "Title": "\u201cGood place to explore berlin\u201d",
+      "Author": "Alexander W",
+      "ReviewID": "UR122988624",
+      "Content": "stay nights apartments hotel cas move stay family little outdated apartment kitchen breakfast facilities floor excellent breakfast wifi weak 9th floor",
+      "Date": "2012-01-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Peterborough, United Kingdom",
+      "Title": "\u201cFab location, views and breakfast.\u201d",
+      "Author": "hammerthief",
+      "ReviewID": "UR96764281",
+      "Content": "excellent location close potsdammer platz sony centre excellent clean warm condition nice furniture kitchen equiped breakfast superb range choice couldnt tempt amazed",
+      "Date": "2011-02-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "CYPRUS",
+      "Title": "\u201cLOVELY HOTEL IN THE CENTER OF BERLIN- GREAT VALUE FOR MONEY\u201d",
+      "Author": "ROULA-THANOS",
+      "ReviewID": "UR92177153",
+      "Content": "wife stayed 6 day xmas holiday hotel hotel covenient location 2 min foot plaz connection metro located nice lot shops cafe restaurants cinemas shopping mall short walk stayed section appartments comfort 3 hotelroom size bigger average size compare hotel germany variety cakes pastries offer start day winter warm central heating finally recoment hotel choice central location majority attraction value money",
+      "Date": "2011-01-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Pune, India",
+      "Title": "\u201cExcellant location for business trip, value for money!\u201d",
+      "Author": "gpoonam13",
+      "ReviewID": "UR90981212",
+      "Content": "berlin business trip august 2010 stayed apartment 11th floor 3 weeks apartment single person living bedroom kitchen bathroom wc store living window curtains scenery beautiful living tv german channels english channels sofa cupboard dining table 2 chairs ironing board iron kitchen equipped 4 burner stove refrigerator microwave oven dish washer toaster teacoffee maker required utensils cooking pans sized plates bowls glasses spoons wine glasses serving bowls serving spoons knives bedroom medium sized wooden cupboard occupied entire wall cupboard hangers hang clothes mirror packet needle threads kept cupboard double bed cozy 2 tables drawers lamp window curtains similar living bathroom bath tub shower cabin wc washbasin dustbin 4 towels soap hair gel kept shower cabin washbasin hot cold water store front door washing machine passage clothes stand drying clothes umbrella wifi internet complimentary faced major connection except twice cleaning alternate day opted daily breakfast cost 5 euros day lot options choose am vegetarian choose fresh fruits boiled scrambled eggs cakes 34 types bread 34 types jam butter 2 juices tea coffee machine milk corn flakes muesli etc breakfast spacious staff helpful reception complimentary railway map etc receptionists shift found polite helpful english hotel 2 lifts slow people wait lift mornings floor breakfast nearest railway station potsdamer platz walking distance lot bakeries restaurants nearby remains berlin wall walking distance 5min lot sightseeing brandenburger tor berliner dom tier garten memorial killed jews jewish museum walking distance 1520min potsdamer platz shopping mall",
+      "Date": "2010-12-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "England",
+      "Title": "\u201cGreat hotel, why so low on the ratings????\u201d",
+      "Author": "ceseria",
+      "ReviewID": "UR62156658",
+      "Content": "hotel middle berlin 2 minutes road appartment 14th floor hotel wonderful sights berlin appartment spaceous massive bathroom living kitchen wash stay due travel chaos caused volcanic staff breakfast wide meats cereals hot food juices drinks staying holiday inn express road hotel superior recommend underground 2 mins walk eatting minutes",
+      "Date": "2010-04-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel BelAhr",
+    "HotelURL": "/ShowUserReviews-g187323-d234500-Reviews-Hotel_BelAhr-Berlin.html",
+    "Price": "$91 - $184*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Stresemannstrasse 97</span>, <span class=\"locality\"><span property=\"v:postal-code\">10963</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "234500",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/84/ec/84ecbdd4262b0240350e021ad6a63b116large.jpg"
+  }
+}

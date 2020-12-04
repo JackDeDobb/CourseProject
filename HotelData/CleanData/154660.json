@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Bonney Lake, Washington", "Title": "\u201cStaff couldn't care at all!!!\u201d", "Author": "John L", "ReviewID": "UR125679932", "Content": "staff service cares days row restaurant mistake food club sandwich lettuce tomatoes times service restaurant left filling comment card front desk called wrong increased review score theyd call hour fruit tray explained front desk call restaurant ac broken 2 days complained hour call message fruit tray person eventually sent maintenance look ac below 25c set cool temp 20c aiming spent day set difference heated instead cooled realize im hotel mexico guest complaining english sign customer service send speaks english person staff communicate guest combined rest reasons dislike hotel id stick rest week werent street local people advised outside dark hotel staff didnt disagree assessment major thumbs", "Date": "2012-03-05 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Rio de Janeiro", "Title": "\u201cWorst Radisson I've been in (so far...)\u201d", "Author": "noguchif", "ReviewID": "UR124529052", "Content": "decadent hotel called flamingos radisson time ago bad service uncomfortable respects pillows mention located plus sign wont allow zero stars price literally pay", "Date": "2012-02-13 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 2.0}, "AuthorLocation": "Coatzacoalcos, Mexico", "Title": "\u201cGreat Rooms in a Modern Central Hotel\u201d", "Author": "TonyCardenas", "ReviewID": "UR123138704", "Content": "business hotel located zones mexico city family option airport hotel close international aiport minutes via terminals nicer half price aiport hotels service food nice bell personnel attentive warm reception personnel trained unfriendly spa restaurant business centeral nice modern parking underground safe recomend hotel business south city aiport lay overs arrive late night week traffic fluid ride 15 min", "Date": "2012-01-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "India", "Title": "\u201cGood value for money\u201d", "Author": "ady348", "ReviewID": "UR120865012", "Content": "hotel value money highly recommend location hotel service food hotel love inroom dining stay believe options feed ones hunger low door hear noise coming door corridoor heard lots noises low shower bad wait 10 minutes adjust water cold hot day burn skin", "Date": "2011-11-21 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Prague, Czech Republic", "Title": "\u201cA solid 4* experience\u201d", "Author": "Martinzz", "ReviewID": "UR108599423", "Content": "conveniently located airport western mexico city hotel expect radisson neighborhood write home nonexistent eating options save local eateries hotel provides free shuttle service nearest mall decent choice restaurants ok overwhelming lack facing hotel atrium outside view avoided requested convenience plus hotel ratio attractive", "Date": "2011-05-17 00:00:00"}], "HotelInfo": {"Name": "Radisson Hotel Flamingos", "HotelURL": "/ShowUserReviews-g150800-d154660-Reviews-Radisson_Hotel_Flamingos-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$70 - $121*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Avda Revolucion 333</span> | <span class=\"extended-address\">Col. Tacubaya</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">11870</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "154660", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/35/53/35531f85094d6445874eae8892bf578b6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Bonney Lake, Washington",
+      "Title": "\u201cStaff couldn't care at all!!!\u201d",
+      "Author": "John L",
+      "ReviewID": "UR125679932",
+      "Content": "staff service cares days row restaurant mistake food club sandwich lettuce tomatoes times service restaurant left filling comment card front desk called wrong increased review score theyd call hour fruit tray explained front desk call restaurant ac broken 2 days complained hour call message fruit tray person eventually sent maintenance look ac below 25c set cool temp 20c aiming spent day set difference heated instead cooled realize im hotel mexico guest complaining english sign customer service send speaks english person staff communicate guest combined rest reasons dislike hotel id stick rest week werent street local people advised outside dark hotel staff didnt disagree assessment major thumbs",
+      "Date": "2012-03-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Rio de Janeiro",
+      "Title": "\u201cWorst Radisson I've been in (so far...)\u201d",
+      "Author": "noguchif",
+      "ReviewID": "UR124529052",
+      "Content": "decadent hotel called flamingos radisson time ago bad service uncomfortable respects pillows mention located plus sign wont allow zero stars price literally pay",
+      "Date": "2012-02-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Coatzacoalcos, Mexico",
+      "Title": "\u201cGreat Rooms in a Modern Central Hotel\u201d",
+      "Author": "TonyCardenas",
+      "ReviewID": "UR123138704",
+      "Content": "business hotel located zones mexico city family option airport hotel close international aiport minutes via terminals nicer half price aiport hotels service food nice bell personnel attentive warm reception personnel trained unfriendly spa restaurant business centeral nice modern parking underground safe recomend hotel business south city aiport lay overs arrive late night week traffic fluid ride 15 min",
+      "Date": "2012-01-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "India",
+      "Title": "\u201cGood value for money\u201d",
+      "Author": "ady348",
+      "ReviewID": "UR120865012",
+      "Content": "hotel value money highly recommend location hotel service food hotel love inroom dining stay believe options feed ones hunger low door hear noise coming door corridoor heard lots noises low shower bad wait 10 minutes adjust water cold hot day burn skin",
+      "Date": "2011-11-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Prague, Czech Republic",
+      "Title": "\u201cA solid 4* experience\u201d",
+      "Author": "Martinzz",
+      "ReviewID": "UR108599423",
+      "Content": "conveniently located airport western mexico city hotel expect radisson neighborhood write home nonexistent eating options save local eateries hotel provides free shuttle service nearest mall decent choice restaurants ok overwhelming lack facing hotel atrium outside view avoided requested convenience plus hotel ratio attractive",
+      "Date": "2011-05-17 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Radisson Hotel Flamingos",
+    "HotelURL": "/ShowUserReviews-g150800-d154660-Reviews-Radisson_Hotel_Flamingos-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$70 - $121*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Avda Revolucion 333</span> | <span class=\"extended-address\">Col. Tacubaya</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">11870</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "154660",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/35/53/35531f85094d6445874eae8892bf578b6large.jpg"
+  }
+}

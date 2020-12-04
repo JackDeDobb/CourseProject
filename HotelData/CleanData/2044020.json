@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Shelby Township, Michigan", "Title": "\u201cIncredibly uneven experiences, but a good location in TST\u201d", "Author": "RickinShelby", "ReviewID": "UR122891824", "Content": "stayed hotel 4 5 times suites standard floors executive floors frankly stay executive floor segmented arrival upstairs nice deluxe roomssuites standard floors dark dingy contrast overall rating 3 executive floors rate solid 4 standard rate 2 executive floor top views harbour bit covered intercontinental former regent door mind location hotel feature pedestrian walk goes trainline crossing china easy likewise close star ferry tst offers", "Date": "2012-01-10 00:00:00"}], "HotelInfo": {"Name": "Renaissance Kowloon", "HotelURL": "/ShowUserReviews-g294217-d2044020-Reviews-Renaissance_Kowloon-Hong_Kong.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Salibury Road - Tsimshatsui, 22</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>", "HotelID": "2044020", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/c8/c1/06/standard-room-with-bigger.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Shelby Township, Michigan",
+      "Title": "\u201cIncredibly uneven experiences, but a good location in TST\u201d",
+      "Author": "RickinShelby",
+      "ReviewID": "UR122891824",
+      "Content": "stayed hotel 4 5 times suites standard floors executive floors frankly stay executive floor segmented arrival upstairs nice deluxe roomssuites standard floors dark dingy contrast overall rating 3 executive floors rate solid 4 standard rate 2 executive floor top views harbour bit covered intercontinental former regent door mind location hotel feature pedestrian walk goes trainline crossing china easy likewise close star ferry tst offers",
+      "Date": "2012-01-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Renaissance Kowloon",
+    "HotelURL": "/ShowUserReviews-g294217-d2044020-Reviews-Renaissance_Kowloon-Hong_Kong.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Salibury Road - Tsimshatsui, 22</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>",
+    "HotelID": "2044020",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/c8/c1/06/standard-room-with-bigger.jpg"
+  }
+}

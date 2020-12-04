@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "san francisco california", "Title": "\u201cIT WAS LIKE A GERMAN SAUSAGE (ONE OF THE WURST)\u201d", "Author": "duboce", "ReviewID": "UR121987391", "Content": "booked 4 nights line stayed 3 2 dogs paid 20 night extra 10 dog dogs guests staying hotel write page try somewhat brief okay try job cant horrible neighborhood especially night crack parking tight lot bumped guests car damage mental seen evening shadow boxing car car crap dont damage police request drug patrol report checked following morning apologies management guest regular stay patronized motel 6 properties horrible company people stay losers boozers drug addicts prostitutes name unless tough try allows dogs makes easy stay price pay dont mean dollars walk neighborhood morning youll bars san quentin prison res speaks laugh foreign visitors write complimentary reports standards europe pretty junky low", "Date": "2011-12-22 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Fairbanks, Alaska", "Title": "\u201cDon't even THINK of staying here...\u201d", "Author": "visualspatial", "ReviewID": "UR83734907", "Content": "adult son stayed night filthy including hallways carpet bedding walls price pass passed returning late night discovered electronic door lock 40 min running forth lobby prove clerk door lock clerk night slept dayold clothes luggage original toiletries forgo vital nighttime medications harry morning clerk refused comp stating comped duh couldnt charged alternate regardless possessions called motel 6s guest relations standing front filed complaint requesting cc company harry stood ground left guest checking told run similar family owned management dont budge inch", "Date": "2010-10-16 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Sonoma, California", "Title": "\u201cThis is nothing short of AWFUL!\u201d", "Author": "95476", "ReviewID": "UR81794898", "Content": "stayed dozen motel 6s happy absolute hellhole music pounding floor below below average bedspreads filthy etc am shocked motel 6 reputation value seedy hole wall am leaving sleep im afraid sleep noise reading reviews google wish read beforehand im afraid getting bed bugs yikes short awful", "Date": "2010-10-02 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "sacramento", "Title": "\u201cInside Job Burglar DONT STAY in this HOTEL.\u201d", "Author": "Carlint", "ReviewID": "UR70228320", "Content": "stayed ago forgetting write reviews bad hotel poeple mentioned staff rude dont customer service means tiring day return hotel door missing luggages including 2 laptops called police report people stole stuff camera manager unprofessional people jail sad lost total 5000 staying cheap hotel", "Date": "2010-07-09 00:00:00"}], "HotelInfo": {"Name": "Motel 6 Van Nuys", "HotelURL": "/ShowUserReviews-g32655-d82498-Reviews-Motel_6_Van_Nuys-Los_Angeles_California.html", "Price": "$78 - $92*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">6909 Sepulveda Boulevard</span>, <span class=\"extended-address\">I-405 San Diego Fwy at Victory Blvd Exit</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">91405</span></span> </span> </span> </address>", "HotelID": "82498", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/1c/fb/ef/pool.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "san francisco california",
+      "Title": "\u201cIT WAS LIKE A GERMAN SAUSAGE (ONE OF THE WURST)\u201d",
+      "Author": "duboce",
+      "ReviewID": "UR121987391",
+      "Content": "booked 4 nights line stayed 3 2 dogs paid 20 night extra 10 dog dogs guests staying hotel write page try somewhat brief okay try job cant horrible neighborhood especially night crack parking tight lot bumped guests car damage mental seen evening shadow boxing car car crap dont damage police request drug patrol report checked following morning apologies management guest regular stay patronized motel 6 properties horrible company people stay losers boozers drug addicts prostitutes name unless tough try allows dogs makes easy stay price pay dont mean dollars walk neighborhood morning youll bars san quentin prison res speaks laugh foreign visitors write complimentary reports standards europe pretty junky low",
+      "Date": "2011-12-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Fairbanks, Alaska",
+      "Title": "\u201cDon't even THINK of staying here...\u201d",
+      "Author": "visualspatial",
+      "ReviewID": "UR83734907",
+      "Content": "adult son stayed night filthy including hallways carpet bedding walls price pass passed returning late night discovered electronic door lock 40 min running forth lobby prove clerk door lock clerk night slept dayold clothes luggage original toiletries forgo vital nighttime medications harry morning clerk refused comp stating comped duh couldnt charged alternate regardless possessions called motel 6s guest relations standing front filed complaint requesting cc company harry stood ground left guest checking told run similar family owned management dont budge inch",
+      "Date": "2010-10-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Sonoma, California",
+      "Title": "\u201cThis is nothing short of AWFUL!\u201d",
+      "Author": "95476",
+      "ReviewID": "UR81794898",
+      "Content": "stayed dozen motel 6s happy absolute hellhole music pounding floor below below average bedspreads filthy etc am shocked motel 6 reputation value seedy hole wall am leaving sleep im afraid sleep noise reading reviews google wish read beforehand im afraid getting bed bugs yikes short awful",
+      "Date": "2010-10-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "sacramento",
+      "Title": "\u201cInside Job Burglar DONT STAY in this HOTEL.\u201d",
+      "Author": "Carlint",
+      "ReviewID": "UR70228320",
+      "Content": "stayed ago forgetting write reviews bad hotel poeple mentioned staff rude dont customer service means tiring day return hotel door missing luggages including 2 laptops called police report people stole stuff camera manager unprofessional people jail sad lost total 5000 staying cheap hotel",
+      "Date": "2010-07-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Motel 6 Van Nuys",
+    "HotelURL": "/ShowUserReviews-g32655-d82498-Reviews-Motel_6_Van_Nuys-Los_Angeles_California.html",
+    "Price": "$78 - $92*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">6909 Sepulveda Boulevard</span>, <span class=\"extended-address\">I-405 San Diego Fwy at Victory Blvd Exit</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">91405</span></span> </span> </span> </address>",
+    "HotelID": "82498",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/1c/fb/ef/pool.jpg"
+  }
+}

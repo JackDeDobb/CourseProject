@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "nashville", "Title": "\u201cFavorite motel!\u201d", "Author": "heartsocks", "ReviewID": "UR126052170", "Content": "family loves motel yearly owners nice clean nice love arent constantly waiting elevator drag stuff lobby kitchenette lunch breakfast fun walk pier food beach isnt crowded daytona nice recommend friends little dated cant beat value time", "Date": "2012-03-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Ontario", "Title": "\u201cJust Perfect!\u201d", "Author": "JNJOntario", "ReviewID": "UR59003369", "Content": "spent week minute arrived gracious host hostess feel welcome family time chat help spacious clean wifi microwave purchase internet card purchase microwave owners told ahead store return motel disappointed hotel personally checked booked advise else motel superb value oceanfront efficiency 5 corner units floor ceiling bay window provide excellent view lots light thank ellen hans wonderful stay", "Date": "2010-03-19 00:00:00"}], "HotelInfo": {"Name": "South Shore Motel", "HotelURL": "/ShowUserReviews-g34172-d571682-Reviews-South_Shore_Motel-Daytona_Beach_Florida.html", "Price": "$78 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3225 South Atlantic Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Daytona Beach</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">32118</span></span> </span></span></address>", "HotelID": "571682", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "nashville",
+      "Title": "\u201cFavorite motel!\u201d",
+      "Author": "heartsocks",
+      "ReviewID": "UR126052170",
+      "Content": "family loves motel yearly owners nice clean nice love arent constantly waiting elevator drag stuff lobby kitchenette lunch breakfast fun walk pier food beach isnt crowded daytona nice recommend friends little dated cant beat value time",
+      "Date": "2012-03-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ontario",
+      "Title": "\u201cJust Perfect!\u201d",
+      "Author": "JNJOntario",
+      "ReviewID": "UR59003369",
+      "Content": "spent week minute arrived gracious host hostess feel welcome family time chat help spacious clean wifi microwave purchase internet card purchase microwave owners told ahead store return motel disappointed hotel personally checked booked advise else motel superb value oceanfront efficiency 5 corner units floor ceiling bay window provide excellent view lots light thank ellen hans wonderful stay",
+      "Date": "2010-03-19 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "South Shore Motel",
+    "HotelURL": "/ShowUserReviews-g34172-d571682-Reviews-South_Shore_Motel-Daytona_Beach_Florida.html",
+    "Price": "$78 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3225 South Atlantic Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Daytona Beach</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">32118</span></span> </span></span></address>",
+    "HotelID": "571682",
+    "ImgURL": ""
+  }
+}

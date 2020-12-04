@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Springfield, Missouri, United States", "Title": "\u201cGreat Family Getaway! Great Pool!\u201d", "Author": "missouriguy_416", "ReviewID": "UR137299844", "Content": "enjoyed stay lodge families break budget price affordable similar lodging near branson conveniently located silver dollar city looking walking distance branson stay else outdoor pool nice clean stayed 2 bedroom aframe cabin beds nice comfy kitchen complaint mini fridge apartment size stove little counter space planning cooking day recommend spending little chalets offer owners extremely nice accommodating allowed checkin extra towels pillows offered extended checkout enjoyed stay definitely return", "Date": "2012-08-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Jackson, Wyoming", "Title": "\u201cThis is a great place for Young familys......\u201d", "Author": "fogsworld", "ReviewID": "UR133959477", "Content": "stayed sunday night dog lodge apart 100 mark heat supplied little frame lodge lovely cool surprisingly spacious bedding adults sized kitchen sized fridge necessaries pots pans plates various kitchen utensils swimming pool boat rental available swim dock dog loved stay affordable", "Date": "2012-07-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Galena, KS", "Title": "\u201cJust OK\u201d", "Author": "Jodi K", "ReviewID": "UR133622764", "Content": "maybe ive spoiled past resorts table rock resort acceptable wasnt wowed sense stayed 3 nights chalets appearance nice overall size 6 wouldnt kitchen stocked advertised items unusable cheap luckily brought huge skillet home cooking breakfast wouldnt happened tiny pan flimsy cookware coffee pot forever coffee dishwasher super super loud bed terribly uncomfortable sleep son night overall cut corners constructing stocking units owners nice helpful pool nicely kept grounds tight resort issues 2 cars getting inout parking spots allotted neighbors truck difficult walk dock learn walk extremely steep dock nice didnt wouldve liked walk overallit price fair probably wont", "Date": "2012-07-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Lawrence, Kansas", "Title": "\u201cwonderful lake cabins on gorgeous Table Rock lake\u201d", "Author": "jackie s", "ReviewID": "UR118948157", "Content": "home 4day stay time visitors loved staff amazingly friendly accommodating tho arrived 11pm day ahead actual reservation clean modern dishwashers cabins loved spooky creaking dock definitely return", "Date": "2011-10-04 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Long Beach, California", "Title": "\u201cVery Relaxing, quiet and great value\u201d", "Author": "Jpe717", "ReviewID": "UR79444492", "Content": "past weekend 3 nights special package 3 nights day lake pontoon 2 days silver dollar city sdc cooked spent nice time relaxing beauty extremely close sdc luxury furniture comfortable location beauty awesome little disappointed view cabin supposed lake view ours trees little lake view 7 walked 6 time view basic cabins owners friendly flexible special packages greatly appreciated overall relaxing", "Date": "2010-09-13 00:00:00"}], "HotelInfo": {"Name": "Alpine Lodge", "HotelURL": "/ShowUserReviews-g44160-d226630-Reviews-Alpine_Lodge-Branson_Missouri.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">434 Indian Creek Circle</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>", "HotelID": "226630", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/fa/ea/ed/low-road-there-is-one.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Springfield, Missouri, United States",
+      "Title": "\u201cGreat Family Getaway! Great Pool!\u201d",
+      "Author": "missouriguy_416",
+      "ReviewID": "UR137299844",
+      "Content": "enjoyed stay lodge families break budget price affordable similar lodging near branson conveniently located silver dollar city looking walking distance branson stay else outdoor pool nice clean stayed 2 bedroom aframe cabin beds nice comfy kitchen complaint mini fridge apartment size stove little counter space planning cooking day recommend spending little chalets offer owners extremely nice accommodating allowed checkin extra towels pillows offered extended checkout enjoyed stay definitely return",
+      "Date": "2012-08-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Jackson, Wyoming",
+      "Title": "\u201cThis is a great place for Young familys......\u201d",
+      "Author": "fogsworld",
+      "ReviewID": "UR133959477",
+      "Content": "stayed sunday night dog lodge apart 100 mark heat supplied little frame lodge lovely cool surprisingly spacious bedding adults sized kitchen sized fridge necessaries pots pans plates various kitchen utensils swimming pool boat rental available swim dock dog loved stay affordable",
+      "Date": "2012-07-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Galena, KS",
+      "Title": "\u201cJust OK\u201d",
+      "Author": "Jodi K",
+      "ReviewID": "UR133622764",
+      "Content": "maybe ive spoiled past resorts table rock resort acceptable wasnt wowed sense stayed 3 nights chalets appearance nice overall size 6 wouldnt kitchen stocked advertised items unusable cheap luckily brought huge skillet home cooking breakfast wouldnt happened tiny pan flimsy cookware coffee pot forever coffee dishwasher super super loud bed terribly uncomfortable sleep son night overall cut corners constructing stocking units owners nice helpful pool nicely kept grounds tight resort issues 2 cars getting inout parking spots allotted neighbors truck difficult walk dock learn walk extremely steep dock nice didnt wouldve liked walk overallit price fair probably wont",
+      "Date": "2012-07-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Lawrence, Kansas",
+      "Title": "\u201cwonderful lake cabins on gorgeous Table Rock lake\u201d",
+      "Author": "jackie s",
+      "ReviewID": "UR118948157",
+      "Content": "home 4day stay time visitors loved staff amazingly friendly accommodating tho arrived 11pm day ahead actual reservation clean modern dishwashers cabins loved spooky creaking dock definitely return",
+      "Date": "2011-10-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Long Beach, California",
+      "Title": "\u201cVery Relaxing, quiet and great value\u201d",
+      "Author": "Jpe717",
+      "ReviewID": "UR79444492",
+      "Content": "past weekend 3 nights special package 3 nights day lake pontoon 2 days silver dollar city sdc cooked spent nice time relaxing beauty extremely close sdc luxury furniture comfortable location beauty awesome little disappointed view cabin supposed lake view ours trees little lake view 7 walked 6 time view basic cabins owners friendly flexible special packages greatly appreciated overall relaxing",
+      "Date": "2010-09-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Alpine Lodge",
+    "HotelURL": "/ShowUserReviews-g44160-d226630-Reviews-Alpine_Lodge-Branson_Missouri.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">434 Indian Creek Circle</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>",
+    "HotelID": "226630",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/fa/ea/ed/low-road-there-is-one.jpg"
+  }
+}

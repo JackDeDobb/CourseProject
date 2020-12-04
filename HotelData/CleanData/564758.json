@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Edinburgh, UK", "Title": "\u201cGreat place for travellers on a budget\u201d", "Author": "alXpucu", "ReviewID": "UR125364652", "Content": "stayed hostel 3 nights summer frankly pleasantly surprised hostel especially price didnt expect requested party 3 guys 5 girls couldnt accommodated flat bathroom kitchen ourselves obviously share flat tourists experience pretty terms actual facilities basic towels provided additional charge basic toiletries bathroom simple breakfast biscuits croissants provided morning coffee facilities ability prepare own snacks kitchen plus remember difficulty locating buildings hostel name managed staff bit confusing double check phone youre meant flat block flats impression rented tourists little bit living residential didnt mind downside travellers looking meet people terms location excellent minutes walk termini station tube shops vicinity staff helpful polite average italy english proved useful fuse switch tripped troubles locating recommend ideal friends travellers looking budget accommodation heart rome", "Date": "2012-02-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "East Grinstead, United Kingdom", "Title": "\u201cHighly Recommended, good value too!\u201d", "Author": "BC20", "ReviewID": "UR120786248", "Content": "convenient location secure keys hostel clean lot cleaner upmarket hotels diana manager friendly helpful ok hotels learn heating road outside bit noisy double glazed window blanked noise breakfast normal italy issue value highly recommended", "Date": "2011-11-19 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Z\u00fcrich", "Title": "\u201cUnprofessional and liars\u201d", "Author": "alog1977", "ReviewID": "UR110117332", "Content": "booked cant rate stay couldnt told precise time evening kept ringing hours doors stay wasnt easy considering late upset couldnt refund owner hotel refused admit wasnt day called called answered phone call people unprofessional liars", "Date": "2011-05-27 00:00:00"}], "HotelInfo": {"Name": "B&T Rooms Trani", "HotelURL": "/ShowUserReviews-g187791-d564758-Reviews-B_T_Rooms_Trani-Rome_Lazio.html", "Price": "$79 - $145*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via dei Mille 9 Int.5</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "564758", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/3f/4d/3f4d17dd0a0768dab76ccf1da26d7c841large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Edinburgh, UK",
+      "Title": "\u201cGreat place for travellers on a budget\u201d",
+      "Author": "alXpucu",
+      "ReviewID": "UR125364652",
+      "Content": "stayed hostel 3 nights summer frankly pleasantly surprised hostel especially price didnt expect requested party 3 guys 5 girls couldnt accommodated flat bathroom kitchen ourselves obviously share flat tourists experience pretty terms actual facilities basic towels provided additional charge basic toiletries bathroom simple breakfast biscuits croissants provided morning coffee facilities ability prepare own snacks kitchen plus remember difficulty locating buildings hostel name managed staff bit confusing double check phone youre meant flat block flats impression rented tourists little bit living residential didnt mind downside travellers looking meet people terms location excellent minutes walk termini station tube shops vicinity staff helpful polite average italy english proved useful fuse switch tripped troubles locating recommend ideal friends travellers looking budget accommodation heart rome",
+      "Date": "2012-02-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "East Grinstead, United Kingdom",
+      "Title": "\u201cHighly Recommended, good value too!\u201d",
+      "Author": "BC20",
+      "ReviewID": "UR120786248",
+      "Content": "convenient location secure keys hostel clean lot cleaner upmarket hotels diana manager friendly helpful ok hotels learn heating road outside bit noisy double glazed window blanked noise breakfast normal italy issue value highly recommended",
+      "Date": "2011-11-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Z\u00fcrich",
+      "Title": "\u201cUnprofessional and liars\u201d",
+      "Author": "alog1977",
+      "ReviewID": "UR110117332",
+      "Content": "booked cant rate stay couldnt told precise time evening kept ringing hours doors stay wasnt easy considering late upset couldnt refund owner hotel refused admit wasnt day called called answered phone call people unprofessional liars",
+      "Date": "2011-05-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "B&T Rooms Trani",
+    "HotelURL": "/ShowUserReviews-g187791-d564758-Reviews-B_T_Rooms_Trani-Rome_Lazio.html",
+    "Price": "$79 - $145*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via dei Mille 9 Int.5</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "564758",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/3f/4d/3f4d17dd0a0768dab76ccf1da26d7c841large.jpg"
+  }
+}

@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Ploiesti, Romania", "Title": "\u201cExcellent position, very friendly staff\u201d", "Author": "Gabriel A", "ReviewID": "UR126824178", "Content": "situated near beyazit market beyazit mosque grand bazaar 15 minutes walk hippodrome st sophia museum blue mosque topkapi palace recent renovated hotel join conditions meet expectations tourists staff friendly useful special appreciation manager clean breakfast stay \u00e2\u20ac\u201c possibility transferred airport shuttle cheap price 10 euros person", "Date": "2012-03-28 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Berlin, Germany", "Title": "\u201cGood location\u201d", "Author": "PlatoBerlin", "ReviewID": "UR119055045", "Content": "stayed nine nights location 5 minutes walk suburb train reach sites city reach walking 10 minutes walk tram galata 10 minutes bazar 5 minutes hamam cad 127 quarter kumkapi offers shops tourist stuff restaurants 2 min reach overwhelming harbour kennedy cad fish restaurants 5 min distance hotel clean bf expect 3star turkish hotel staff friendly helpful tiny stow leave suitcase youre fine tv visiting istanbul fridge little cubic table walls isolating neighbours noises asleep lights bit dim especially wardrobe safe yes", "Date": "2011-10-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Banff National Park, Canada", "Title": "\u201cnice days nice value small room!!\u201d", "Author": "eslamandvicky", "ReviewID": "UR118698988", "Content": "spent wonderful time hotel staff friendly restaurant clean tv channels turkey calls wise nice clean nice grand bazaar kumkapi station", "Date": "2011-09-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Gdynia, Poland", "Title": "\u201cGreat hotel in real Istanbul\u201d", "Author": "VimVic", "ReviewID": "UR89345327", "Content": "liked hotel it\u00e2\u20ac\u2122s walking distance main attractions istanbul definitely tourist real istanbul it\u00e2\u20ac\u2122s hardworking people nearby streets it\u00e2\u20ac\u2122s close restaurants budget hotel spacious staff altitude exceptional bathroom recently renovated clean breakfasts buffet style request eggs turkish coffee tee prepared i\u00e2\u20ac\u2122d recommend hotel budget travellers mind experience real instanbul", "Date": "2010-12-08 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Sofia, Bulgaria", "Title": "\u201cAvoid this mistake:(\u201d", "Author": "3May5", "ReviewID": "UR78941694", "Content": "reading reviews decided disregard negative ones mistake positive hotel staff nice helpful welcome coffeetea offered arrival map told free charged 5 tl tourist info centre map free location pretty ok close public transport connections 5 min walk actually closest tram station 15 min aya sofia blue mosque biggest issue furniture repainted recently bathroom renovated recently mold tile filling shower cabin additionally fixed tap fixed sink moving time using toilet unclean bathroom badly maintained booked feedback 302 double bedroom 304 twin bedroom looking staircase 304 triple decent mattresses stains linens changed third day", "Date": "2010-09-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Bruxelles", "Title": "\u201cThe best service I have ever had\u201d", "Author": "acia83", "ReviewID": "UR67443257", "Content": "spent 4 fabulous days istanbul grand mark hotel hotel located walking distance grand bazaar sultanhamet main tourist attractions nice clean relation qualityprice breakfast strongest staff extremely ready assist friendly definitely customer service seen trips strongly recommended", "Date": "2010-06-14 00:00:00"}], "HotelInfo": {"Name": "Grand Mark Hotel", "HotelURL": "/ShowUserReviews-g293974-d946758-Reviews-Grand_Mark_Hotel-Istanbul.html", "Price": "$53 - $79*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Cifte Gelinler Cad. 16</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "946758", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a6/08/a60821288ed4aafe8ea686d605bbf22b1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ploiesti, Romania",
+      "Title": "\u201cExcellent position, very friendly staff\u201d",
+      "Author": "Gabriel A",
+      "ReviewID": "UR126824178",
+      "Content": "situated near beyazit market beyazit mosque grand bazaar 15 minutes walk hippodrome st sophia museum blue mosque topkapi palace recent renovated hotel join conditions meet expectations tourists staff friendly useful special appreciation manager clean breakfast stay \u00e2\u20ac\u201c possibility transferred airport shuttle cheap price 10 euros person",
+      "Date": "2012-03-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Berlin, Germany",
+      "Title": "\u201cGood location\u201d",
+      "Author": "PlatoBerlin",
+      "ReviewID": "UR119055045",
+      "Content": "stayed nine nights location 5 minutes walk suburb train reach sites city reach walking 10 minutes walk tram galata 10 minutes bazar 5 minutes hamam cad 127 quarter kumkapi offers shops tourist stuff restaurants 2 min reach overwhelming harbour kennedy cad fish restaurants 5 min distance hotel clean bf expect 3star turkish hotel staff friendly helpful tiny stow leave suitcase youre fine tv visiting istanbul fridge little cubic table walls isolating neighbours noises asleep lights bit dim especially wardrobe safe yes",
+      "Date": "2011-10-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Banff National Park, Canada",
+      "Title": "\u201cnice days nice value small room!!\u201d",
+      "Author": "eslamandvicky",
+      "ReviewID": "UR118698988",
+      "Content": "spent wonderful time hotel staff friendly restaurant clean tv channels turkey calls wise nice clean nice grand bazaar kumkapi station",
+      "Date": "2011-09-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Gdynia, Poland",
+      "Title": "\u201cGreat hotel in real Istanbul\u201d",
+      "Author": "VimVic",
+      "ReviewID": "UR89345327",
+      "Content": "liked hotel it\u00e2\u20ac\u2122s walking distance main attractions istanbul definitely tourist real istanbul it\u00e2\u20ac\u2122s hardworking people nearby streets it\u00e2\u20ac\u2122s close restaurants budget hotel spacious staff altitude exceptional bathroom recently renovated clean breakfasts buffet style request eggs turkish coffee tee prepared i\u00e2\u20ac\u2122d recommend hotel budget travellers mind experience real instanbul",
+      "Date": "2010-12-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Sofia, Bulgaria",
+      "Title": "\u201cAvoid this mistake:(\u201d",
+      "Author": "3May5",
+      "ReviewID": "UR78941694",
+      "Content": "reading reviews decided disregard negative ones mistake positive hotel staff nice helpful welcome coffeetea offered arrival map told free charged 5 tl tourist info centre map free location pretty ok close public transport connections 5 min walk actually closest tram station 15 min aya sofia blue mosque biggest issue furniture repainted recently bathroom renovated recently mold tile filling shower cabin additionally fixed tap fixed sink moving time using toilet unclean bathroom badly maintained booked feedback 302 double bedroom 304 twin bedroom looking staircase 304 triple decent mattresses stains linens changed third day",
+      "Date": "2010-09-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bruxelles",
+      "Title": "\u201cThe best service I have ever had\u201d",
+      "Author": "acia83",
+      "ReviewID": "UR67443257",
+      "Content": "spent 4 fabulous days istanbul grand mark hotel hotel located walking distance grand bazaar sultanhamet main tourist attractions nice clean relation qualityprice breakfast strongest staff extremely ready assist friendly definitely customer service seen trips strongly recommended",
+      "Date": "2010-06-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Grand Mark Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d946758-Reviews-Grand_Mark_Hotel-Istanbul.html",
+    "Price": "$53 - $79*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Cifte Gelinler Cad. 16</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "946758",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a6/08/a60821288ed4aafe8ea686d605bbf22b1large.jpg"
+  }
+}

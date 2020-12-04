@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Island of Malta, Malta", "Title": "\u201cGret experience!\u201d", "Author": "tessie_malta49", "ReviewID": "UR103012145", "Content": "hotel clean staff hotel friendly helpful hotel central near stazione termini enjoyed experience hotel recommend hope enjoy holiday hotel near future", "Date": "2011-04-06 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Skopje, Republic of Macedonia", "Title": "\u201cReally bad hotel\u201d", "Author": "NenadMKD", "ReviewID": "UR103000536", "Content": "stayed hotel 3 nights april 2011 hotel wife child 2 extensive experience hotels europe usa worst choices besides location unbelievably trolley child kept front corridor ridiculous tiny bathroom separated sliding wooden door privacy guess couple hotel fine doubt recommend people children staff formal unkind times stunned remembered reviews read concerning staff pleasant helpful price cheap 100 euros night city tax included price additional 12 euros 3 nights 3 people breakfast miserable coffee breakfast taking improvised corridor front figured belong hotel reception desk apart elevator takes tiny claustrophobic se expensive ridiculously ugly furniture italian stylish recommend maybe half price especially people children", "Date": "2011-04-06 00:00:00"}], "HotelInfo": {"Name": "Hollywood Hotel", "HotelURL": "/ShowUserReviews-g187791-d260773-Reviews-Hollywood_Hotel-Rome_Lazio.html", "Price": "$73 - $149*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Principe Amedeo 79/a</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "260773", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b1/0a/b10a00d06556d27a1f88c404d11a38f726large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Island of Malta, Malta",
+      "Title": "\u201cGret experience!\u201d",
+      "Author": "tessie_malta49",
+      "ReviewID": "UR103012145",
+      "Content": "hotel clean staff hotel friendly helpful hotel central near stazione termini enjoyed experience hotel recommend hope enjoy holiday hotel near future",
+      "Date": "2011-04-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Skopje, Republic of Macedonia",
+      "Title": "\u201cReally bad hotel\u201d",
+      "Author": "NenadMKD",
+      "ReviewID": "UR103000536",
+      "Content": "stayed hotel 3 nights april 2011 hotel wife child 2 extensive experience hotels europe usa worst choices besides location unbelievably trolley child kept front corridor ridiculous tiny bathroom separated sliding wooden door privacy guess couple hotel fine doubt recommend people children staff formal unkind times stunned remembered reviews read concerning staff pleasant helpful price cheap 100 euros night city tax included price additional 12 euros 3 nights 3 people breakfast miserable coffee breakfast taking improvised corridor front figured belong hotel reception desk apart elevator takes tiny claustrophobic se expensive ridiculously ugly furniture italian stylish recommend maybe half price especially people children",
+      "Date": "2011-04-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hollywood Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d260773-Reviews-Hollywood_Hotel-Rome_Lazio.html",
+    "Price": "$73 - $149*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Principe Amedeo 79/a</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "260773",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b1/0a/b10a00d06556d27a1f88c404d11a38f726large.jpg"
+  }
+}

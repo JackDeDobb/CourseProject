@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Helsinki", "Title": "\u201cOut of the ordinary\u201d", "Author": "Anu73", "ReviewID": "UR58910924", "Content": "loved atmosphere hotel sights trip breakfast breakfast awesome clean spacious windows welllighted bathroom elevator house hundred definitely", "Date": "2010-03-18 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Manchester", "Title": "\u201cA slice of Alt Berlin at this fabulous West Berlin Pension\u201d", "Author": "billyfisher", "ReviewID": "UR55945115", "Content": "travel alt berlin frau beautiful pension service pension tastefully decorated modern classical art pieces warm elegantly furnished beds comfy bathroom pension located strasse upmarket west berlin 12 minute walk savignyplatz bahn staying location enables berlin socially architecturally wouldnt reason stayed east berlinmitte definitely recommend", "Date": "2010-02-14 00:00:00"}], "HotelInfo": {"Name": "Hotel Pension Dittberner", "HotelURL": "/ShowUserReviews-g187323-d235639-Reviews-Hotel_Pension_Dittberner-Berlin.html", "Price": "$81 - $1,331*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Wielandstrasse 26</span>, <span class=\"locality\"><span property=\"v:postal-code\">10707</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "235639", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/97/c3/97c3affe58ee9c80d3e056ca2da2a5116large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Helsinki",
+      "Title": "\u201cOut of the ordinary\u201d",
+      "Author": "Anu73",
+      "ReviewID": "UR58910924",
+      "Content": "loved atmosphere hotel sights trip breakfast breakfast awesome clean spacious windows welllighted bathroom elevator house hundred definitely",
+      "Date": "2010-03-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Manchester",
+      "Title": "\u201cA slice of Alt Berlin at this fabulous West Berlin Pension\u201d",
+      "Author": "billyfisher",
+      "ReviewID": "UR55945115",
+      "Content": "travel alt berlin frau beautiful pension service pension tastefully decorated modern classical art pieces warm elegantly furnished beds comfy bathroom pension located strasse upmarket west berlin 12 minute walk savignyplatz bahn staying location enables berlin socially architecturally wouldnt reason stayed east berlinmitte definitely recommend",
+      "Date": "2010-02-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Pension Dittberner",
+    "HotelURL": "/ShowUserReviews-g187323-d235639-Reviews-Hotel_Pension_Dittberner-Berlin.html",
+    "Price": "$81 - $1,331*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Wielandstrasse 26</span>, <span class=\"locality\"><span property=\"v:postal-code\">10707</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "235639",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/97/c3/97c3affe58ee9c80d3e056ca2da2a5116large.jpg"
+  }
+}

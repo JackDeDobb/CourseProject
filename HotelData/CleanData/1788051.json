@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Indore, India", "Title": "\u201cGood for Conventions but on the wrong side for sightseeing !\u201d", "Author": "ISHANIKA", "ReviewID": "UR127715456", "Content": "stayed green park day reached ataturk airport forever reach asian turkey crossing bosphorus takes 12 hours hotel appointed tea coffee maker electronic safe etc house keeping staff speak milk powder sachets toilet roll phone days reception towels dayso written instructions hotel ideal conventions turkey sight seeing stay near taksim square european party", "Date": "2012-04-12 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Istanbul, Turkey", "Title": "\u201c2 days for my company's symposium\u201d", "Author": "neoxneox", "ReviewID": "UR126952887", "Content": "convention centre huge symposium ok hotel bars rich stuff excellent teh sea sight nicethe hotel close sea marmara sea islands frontside roomsif visit islands reach port boats islands 10 minutes travel", "Date": "2012-03-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Mumbai (Bombay), India", "Title": "\u201cWonderful Property\u201d", "Author": "Rajandani", "ReviewID": "UR126261235", "Content": "stayed 3 nights march 12 enjoyed bit stay property hotel strategically located facing sea marmara stayed sea facing bed nice comfortable cable connection internet speed appointed facing sea whereas regular size fittings bath quality service excellent hotel food equally variety lobby information displays ideal hotel conventions sabiha international airport 15 minutes drive nearest shopping 5 minutes drive hotel highly recommended", "Date": "2012-03-18 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Kuala Lumpur, Malaysia", "Title": "\u201cWhen the plane was suppose to land in UK,it had to de-tour in istanbul\u201d", "Author": "s2651990", "ReviewID": "UR104224428", "Content": "actually holidays aunts plane land uk snowing heavily landed istanbul people charge surprised awesome surroundings stayed 2 nights definitely day reminder wifi lobby sofas comfortable", "Date": "2011-04-16 00:00:00"}], "HotelInfo": {"Name": "The Green Park Pendik Hotel & Convention Center", "HotelURL": "/ShowUserReviews-g293974-d1788051-Reviews-The_Green_Park_Pendik_Hotel_Convention_Center-Istanbul.html", "Price": "$129 - $200*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Dogu Mah. Temenye Mevkii Eski Ankara Cad. No: 200</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34890</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "1788051", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a5/1e/a51ed2c72b1c9e10498d199639cdf1d44large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Indore, India",
+      "Title": "\u201cGood for Conventions but on the wrong side for sightseeing !\u201d",
+      "Author": "ISHANIKA",
+      "ReviewID": "UR127715456",
+      "Content": "stayed green park day reached ataturk airport forever reach asian turkey crossing bosphorus takes 12 hours hotel appointed tea coffee maker electronic safe etc house keeping staff speak milk powder sachets toilet roll phone days reception towels dayso written instructions hotel ideal conventions turkey sight seeing stay near taksim square european party",
+      "Date": "2012-04-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Istanbul, Turkey",
+      "Title": "\u201c2 days for my company's symposium\u201d",
+      "Author": "neoxneox",
+      "ReviewID": "UR126952887",
+      "Content": "convention centre huge symposium ok hotel bars rich stuff excellent teh sea sight nicethe hotel close sea marmara sea islands frontside roomsif visit islands reach port boats islands 10 minutes travel",
+      "Date": "2012-03-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Mumbai (Bombay), India",
+      "Title": "\u201cWonderful Property\u201d",
+      "Author": "Rajandani",
+      "ReviewID": "UR126261235",
+      "Content": "stayed 3 nights march 12 enjoyed bit stay property hotel strategically located facing sea marmara stayed sea facing bed nice comfortable cable connection internet speed appointed facing sea whereas regular size fittings bath quality service excellent hotel food equally variety lobby information displays ideal hotel conventions sabiha international airport 15 minutes drive nearest shopping 5 minutes drive hotel highly recommended",
+      "Date": "2012-03-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Kuala Lumpur, Malaysia",
+      "Title": "\u201cWhen the plane was suppose to land in UK,it had to de-tour in istanbul\u201d",
+      "Author": "s2651990",
+      "ReviewID": "UR104224428",
+      "Content": "actually holidays aunts plane land uk snowing heavily landed istanbul people charge surprised awesome surroundings stayed 2 nights definitely day reminder wifi lobby sofas comfortable",
+      "Date": "2011-04-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "The Green Park Pendik Hotel & Convention Center",
+    "HotelURL": "/ShowUserReviews-g293974-d1788051-Reviews-The_Green_Park_Pendik_Hotel_Convention_Center-Istanbul.html",
+    "Price": "$129 - $200*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Dogu Mah. Temenye Mevkii Eski Ankara Cad. No: 200</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34890</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "1788051",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a5/1e/a51ed2c72b1c9e10498d199639cdf1d44large.jpg"
+  }
+}

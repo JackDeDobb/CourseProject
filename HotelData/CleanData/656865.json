@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "", "Title": "\u201cGreat value for family\u201d", "Author": "mojo1107", "ReviewID": "UR126467259", "Content": "booked hotel 3 nights located reasonably priced sleep 2 adults 2 kids disappointed strange desk staff helpful parking spot promised clean little musty faint smell stale smoke location fantastic sbahn block subway 5 minutes restaurants shops means five star hotel looking priced comfortable crash day sightseeing regret staying", "Date": "2012-03-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Berlin, Germany", "Title": "\u201cGreat service and kind attitude\u201d", "Author": "Metayel35", "ReviewID": "UR97185009", "Content": "please thank staff hotel stay pleasure hotel located parking space staff feel welcome comfortable assisted logistics tourist information soon", "Date": "2011-02-19 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cBasic and worn, and very loud at night due to trains\u201d", "Author": "J0_mc", "ReviewID": "UR80436608", "Content": "1 hotel close eg transport attractions restaurants 2min walk train station 15min walk city restaurants nearby 15min train city 2 hotel safe yes 3 noise night loud train line maybe 15m night hear trains rumbling past courtyard local restaurant window hear staff emptying bins chatting thier mobiles morning 4 quality cleanliness hotel furniture fittings eg bed lockup safe shower basic furniture bit worn looking functional pillows uncomfortable safe toilet odd platform inside bowl using fairly unpleasant 5 hotel staff provide service eg competence attitude availability staff friendly lot basic requests staff odd pillow locate huge pillowcase lot searching 5 nights provided cover left cleaners staff laundromat nearby couldnt identify thier hotel washing machines laundry service 6 hotel amenities eg breakfast restaurant pool bar car parking none amenities available 7 extras eg minibar tv internet aircon tea facility fridge available tv air con 8 comments basic accommodation loud ok rough traveller", "Date": "2010-09-21 00:00:00"}], "HotelInfo": {"Name": "ApartHotel Vega", "HotelURL": "/ShowUserReviews-g187323-d656865-Reviews-ApartHotel_Vega-Berlin.html", "Price": "$64 - $197*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Uhlandstrasse 185/186</span> | <span class=\"extended-address\">Charlottenburg</span>, <span class=\"locality\"><span property=\"v:postal-code\">10623</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "656865", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/17/85/178580be0a7c8d7851a87406fd9a120c1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cGreat value for family\u201d",
+      "Author": "mojo1107",
+      "ReviewID": "UR126467259",
+      "Content": "booked hotel 3 nights located reasonably priced sleep 2 adults 2 kids disappointed strange desk staff helpful parking spot promised clean little musty faint smell stale smoke location fantastic sbahn block subway 5 minutes restaurants shops means five star hotel looking priced comfortable crash day sightseeing regret staying",
+      "Date": "2012-03-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Berlin, Germany",
+      "Title": "\u201cGreat service and kind attitude\u201d",
+      "Author": "Metayel35",
+      "ReviewID": "UR97185009",
+      "Content": "please thank staff hotel stay pleasure hotel located parking space staff feel welcome comfortable assisted logistics tourist information soon",
+      "Date": "2011-02-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cBasic and worn, and very loud at night due to trains\u201d",
+      "Author": "J0_mc",
+      "ReviewID": "UR80436608",
+      "Content": "1 hotel close eg transport attractions restaurants 2min walk train station 15min walk city restaurants nearby 15min train city 2 hotel safe yes 3 noise night loud train line maybe 15m night hear trains rumbling past courtyard local restaurant window hear staff emptying bins chatting thier mobiles morning 4 quality cleanliness hotel furniture fittings eg bed lockup safe shower basic furniture bit worn looking functional pillows uncomfortable safe toilet odd platform inside bowl using fairly unpleasant 5 hotel staff provide service eg competence attitude availability staff friendly lot basic requests staff odd pillow locate huge pillowcase lot searching 5 nights provided cover left cleaners staff laundromat nearby couldnt identify thier hotel washing machines laundry service 6 hotel amenities eg breakfast restaurant pool bar car parking none amenities available 7 extras eg minibar tv internet aircon tea facility fridge available tv air con 8 comments basic accommodation loud ok rough traveller",
+      "Date": "2010-09-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "ApartHotel Vega",
+    "HotelURL": "/ShowUserReviews-g187323-d656865-Reviews-ApartHotel_Vega-Berlin.html",
+    "Price": "$64 - $197*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Uhlandstrasse 185/186</span> | <span class=\"extended-address\">Charlottenburg</span>, <span class=\"locality\"><span property=\"v:postal-code\">10623</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "656865",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/17/85/178580be0a7c8d7851a87406fd9a120c1large.jpg"
+  }
+}

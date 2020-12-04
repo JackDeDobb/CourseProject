@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Tirana, Albania", "Title": "\u201cperfect location\u201d", "Author": "albenea", "ReviewID": "UR128460096", "Content": "hotel nice blue mosque sultanahmet mosque walking distance saint sophie topkapi palacethe staff friendly helpful family travelers complained wardrobe leave clothes suitcases bathroom spacious service cleaning breakfast fair", "Date": "2012-04-23 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Cairo, Egypt", "Title": "\u201cSo-So hotel\u201d", "Author": "amysanford", "ReviewID": "UR128000442", "Content": "staff clean cleaning service everyday absolutely tiny move literally entire half door bathroom blocked due bedside table doors paper kept nights due talking tv reception hotel location main drag extremely close main attractions dont mind shuffling furniture move unfortunately", "Date": "2012-04-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Savannah", "Title": "\u201cGreat Find\u201d", "Author": "isaacsmom714", "ReviewID": "UR126810335", "Content": "turkish friend helped hotel traveling 3 children hotel close tourist spots main street quiet breakfast plentiful staff extremely helpful nice clean cleaned daily ive lived istanbul traveled pleasant stay ive definitely recommend hotel", "Date": "2012-03-27 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Lyon, France", "Title": "\u201cGood location... at that's all\u201d", "Author": "Zara Y", "ReviewID": "UR126525816", "Content": "hotel indeed location close tourist destinations positive incredibly cells bathrooms size toilets aircrafts met country double prepared couple 3rd floor tiny tired scuffed walls awful view window morning changed 2nd floor picture view street noisy hear happening reception stairs pictures booking sites reflect real condition id recommend hotel transit travellers trips", "Date": "2012-03-23 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "San Marcos, Texas", "Title": "\u201cFar Better Than Expected\u201d", "Author": "John V", "ReviewID": "UR120349850", "Content": "stay istanbul holiday hotel wife retired definitely value seekers hotel perfect comfortable clean elevator close 5 min walk historical sites found excellent food restraints corner ergin staff care english spoken excellent negative excessive luggage cause lack internet accessibility bit inconvenient ergin help internet caf\u00e3\u00a9 close looking value clean walking distance historical sites served definitely book hotel time", "Date": "2011-11-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Trowbridge, United Kingdom", "Title": "\u201cWhen in (2nd) Rome stay here\u201d", "Author": "Geoffrey B", "ReviewID": "UR119897398", "Content": "arrived hotel 200 morning staff duty checked nights people probably arrived time disturbed hotel shadow blue mosque easy walk st hippodrome topkapi tram stop breakfast plenty chose helpful staff keen advice limits english turkish transport post etc cleaned serviced morning ive paid double worse hotels uk safe hanging space", "Date": "2011-10-30 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Prague, Czech Republic", "Title": "\u201cVery small room, perfect location\u201d", "Author": "Nikaot", "ReviewID": "UR65066929", "Content": "hotel perfectly located haghia sofia close monuments restaurants luggage floor bathroom else reach walls bed stay bed bit noisy nights people walked door clean breakfast bad staff fine view rook terrace", "Date": "2010-05-23 00:00:00"}], "HotelInfo": {"Name": "Istanbul holiday hotel", "HotelURL": "/ShowUserReviews-g293974-d1380457-Reviews-Istanbul_holiday_hotel-Istanbul.html", "Price": "$55 - $117*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kucuk Ayasofya Caddesi No 28</span> | <span class=\"extended-address\">Sultanahmet</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "1380457", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/df/17/df178de69684e988ed8c5ccfbf2c1c725large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Tirana, Albania",
+      "Title": "\u201cperfect location\u201d",
+      "Author": "albenea",
+      "ReviewID": "UR128460096",
+      "Content": "hotel nice blue mosque sultanahmet mosque walking distance saint sophie topkapi palacethe staff friendly helpful family travelers complained wardrobe leave clothes suitcases bathroom spacious service cleaning breakfast fair",
+      "Date": "2012-04-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Cairo, Egypt",
+      "Title": "\u201cSo-So hotel\u201d",
+      "Author": "amysanford",
+      "ReviewID": "UR128000442",
+      "Content": "staff clean cleaning service everyday absolutely tiny move literally entire half door bathroom blocked due bedside table doors paper kept nights due talking tv reception hotel location main drag extremely close main attractions dont mind shuffling furniture move unfortunately",
+      "Date": "2012-04-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Savannah",
+      "Title": "\u201cGreat Find\u201d",
+      "Author": "isaacsmom714",
+      "ReviewID": "UR126810335",
+      "Content": "turkish friend helped hotel traveling 3 children hotel close tourist spots main street quiet breakfast plentiful staff extremely helpful nice clean cleaned daily ive lived istanbul traveled pleasant stay ive definitely recommend hotel",
+      "Date": "2012-03-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Lyon, France",
+      "Title": "\u201cGood location... at that's all\u201d",
+      "Author": "Zara Y",
+      "ReviewID": "UR126525816",
+      "Content": "hotel indeed location close tourist destinations positive incredibly cells bathrooms size toilets aircrafts met country double prepared couple 3rd floor tiny tired scuffed walls awful view window morning changed 2nd floor picture view street noisy hear happening reception stairs pictures booking sites reflect real condition id recommend hotel transit travellers trips",
+      "Date": "2012-03-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "San Marcos, Texas",
+      "Title": "\u201cFar Better Than Expected\u201d",
+      "Author": "John V",
+      "ReviewID": "UR120349850",
+      "Content": "stay istanbul holiday hotel wife retired definitely value seekers hotel perfect comfortable clean elevator close 5 min walk historical sites found excellent food restraints corner ergin staff care english spoken excellent negative excessive luggage cause lack internet accessibility bit inconvenient ergin help internet caf\u00e3\u00a9 close looking value clean walking distance historical sites served definitely book hotel time",
+      "Date": "2011-11-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Trowbridge, United Kingdom",
+      "Title": "\u201cWhen in (2nd) Rome stay here\u201d",
+      "Author": "Geoffrey B",
+      "ReviewID": "UR119897398",
+      "Content": "arrived hotel 200 morning staff duty checked nights people probably arrived time disturbed hotel shadow blue mosque easy walk st hippodrome topkapi tram stop breakfast plenty chose helpful staff keen advice limits english turkish transport post etc cleaned serviced morning ive paid double worse hotels uk safe hanging space",
+      "Date": "2011-10-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Prague, Czech Republic",
+      "Title": "\u201cVery small room, perfect location\u201d",
+      "Author": "Nikaot",
+      "ReviewID": "UR65066929",
+      "Content": "hotel perfectly located haghia sofia close monuments restaurants luggage floor bathroom else reach walls bed stay bed bit noisy nights people walked door clean breakfast bad staff fine view rook terrace",
+      "Date": "2010-05-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Istanbul holiday hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d1380457-Reviews-Istanbul_holiday_hotel-Istanbul.html",
+    "Price": "$55 - $117*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kucuk Ayasofya Caddesi No 28</span> | <span class=\"extended-address\">Sultanahmet</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "1380457",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/df/17/df178de69684e988ed8c5ccfbf2c1c725large.jpg"
+  }
+}

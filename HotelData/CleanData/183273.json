@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "piombino", "Title": "\u201cgood price\u201d", "Author": "aidni", "ReviewID": "UR128274358", "Content": "middle bad prices compared services people free internet restaurant inside bad terrible oil olive oil nice renovate clean ok stay couple nights", "Date": "2012-04-21 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Toronto, Ontario Canada", "Title": "\u201cComfortable brief stay\u201d", "Author": "TLG444", "ReviewID": "UR125949577", "Content": "stayed week night business trip checked 10pm checked 9am nice clean pillows bed awesome home free wireless internet continental breakfast service arrived quickly included croissant muffin juice coffee melon wedge fresh tasty overall complaints expect stay located close office visit", "Date": "2012-03-11 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Montreal, Canada", "Title": "\u201cIn Anjou...east end hotel...residential area...not best location for tourists\u201d", "Author": "Pissedoffdad", "ReviewID": "UR123690695", "Content": "month found hotel choice clean staff friendly food crap honest pricey food elsewhere venture montreal abundance 2 levels parking rear upper floor secure floor locked extra security car charge extra call inquire low crime isnt unless close 1000 yards major shopping mall les galleries book fills quickly weekends", "Date": "2012-01-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Quebec City, Canada", "Title": "\u201cNice place\u201d", "Author": "SamuelChamplain", "ReviewID": "UR120236697", "Content": "stayed night business trip nice personnel friendly helpfull located highway humming noise passing cars access 5 minutes walk commercial streets nearby accessible car bathroom clean equiped identical comfort inn type maybe equiped major wireless internet connection continuously broke extremely slow", "Date": "2011-11-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Montreal, Canada", "Title": "\u201cONE WORD \"AWESOME\"\u201d", "Author": "Willy J", "ReviewID": "UR120161170", "Content": "landed location feel you\u00e2\u20ac\u2122re home home stayed quality hotel 3 days hours staff started calling name front desk staff goes beyond call duty day clean confortable travel alot gotta admit service makes difference love", "Date": "2011-11-04 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Halifax, Canada", "Title": "\u201cVery satisfied over all\u201d", "Author": "Cachouu", "ReviewID": "UR110234335", "Content": "hotel stands chains reputation spent weekend montreal visit family living eastern city recommended hotel nearest residency reservation internet confirmed phone afterwards check smooth staff front desk quiet friendlythe surprises neat bed pleasant scent bathroom shiny clean restaurant offered varied menu breakfast wich service bit slow weekend havent expect havent friendliness staff overall pay budget hotel", "Date": "2011-05-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Houston, Texas", "Title": "\u201cNice, but has a few drawbacks\u201d", "Author": "JimDavisHouston", "ReviewID": "UR88680363", "Content": "clean beds firm comfortable somewhat quiet nice site restaruant tv dont understand french issues 3 day stay love coffee morning looked coffee maker stagnant water didnt mentioned front desk water remained pot entire stay free internet slow disconnects 15 minutes live warm climate am cold snow control snowed day walkway front front door walkways parking lot covered layer snow solid ice walking car shoulder day constant slipping caused miserable neck backache nice stay dont outside", "Date": "2010-11-30 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Vermont", "Title": "\u201cFirst, Second and Third Hand Smoke... And did I mention Smoke?\u201d", "Author": "Shwami", "ReviewID": "UR58947762", "Content": "ive staying 11 time enjoy bit convenient job staying southwest upper 8th 9th floor provides decent view cool breeze mini drive size sliding window common chain sheets clean beds decently firm onsite restaurant offers decent fare parking abundant free bad virtually entire hotel reeks stale cigarettes especially elevators surprised learn hotel declared cancer hotspot un stay upper floors view shut ac smell french 90 proof cigarettes permeate left hanging bedside lamp shade talk smokin luggage lugged stairs doors enter main entrance handicap accessibility except front hotel parking located sparsely furnished fridge unless pay 5 day microwave tvs flat panel type tv look rosie volume levels rise fall based ambient sounds annoying feature constantly adjusting volume avoid furniture walls guests adjacent nearby apartment complexes wireless internet free slow times deep sexy hack smell camel youll love joint hand love life crisp clean canadian air visit nearby oil gasoline storage tanks connection quality hotel olympic parc tenuous admittedly located province quebec", "Date": "2010-03-19 00:00:00"}], "HotelInfo": {"Name": "Quality Hotel Montreal East / Olympic Parc", "HotelURL": "/ShowUserReviews-g155032-d183273-Reviews-Quality_Hotel_Montreal_East_Olympic_Parc-Montreal_Quebec.html", "Price": "$135 - $144*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">8100 Avenue Neuville</span> | <span class=\"extended-address\">Anjou</span>, <span class=\"locality\"><span property=\"v:locality\">Montreal</span>, <span property=\"v:region\">Quebec</span> <span property=\"v:postal-code\">H1J 2T2</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span></span></address>", "HotelID": "183273", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7b/96/7b966ef17366a94a9dd141bce12f14195large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "piombino",
+      "Title": "\u201cgood price\u201d",
+      "Author": "aidni",
+      "ReviewID": "UR128274358",
+      "Content": "middle bad prices compared services people free internet restaurant inside bad terrible oil olive oil nice renovate clean ok stay couple nights",
+      "Date": "2012-04-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Toronto, Ontario Canada",
+      "Title": "\u201cComfortable brief stay\u201d",
+      "Author": "TLG444",
+      "ReviewID": "UR125949577",
+      "Content": "stayed week night business trip checked 10pm checked 9am nice clean pillows bed awesome home free wireless internet continental breakfast service arrived quickly included croissant muffin juice coffee melon wedge fresh tasty overall complaints expect stay located close office visit",
+      "Date": "2012-03-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Montreal, Canada",
+      "Title": "\u201cIn Anjou...east end hotel...residential area...not best location for tourists\u201d",
+      "Author": "Pissedoffdad",
+      "ReviewID": "UR123690695",
+      "Content": "month found hotel choice clean staff friendly food crap honest pricey food elsewhere venture montreal abundance 2 levels parking rear upper floor secure floor locked extra security car charge extra call inquire low crime isnt unless close 1000 yards major shopping mall les galleries book fills quickly weekends",
+      "Date": "2012-01-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Quebec City, Canada",
+      "Title": "\u201cNice place\u201d",
+      "Author": "SamuelChamplain",
+      "ReviewID": "UR120236697",
+      "Content": "stayed night business trip nice personnel friendly helpfull located highway humming noise passing cars access 5 minutes walk commercial streets nearby accessible car bathroom clean equiped identical comfort inn type maybe equiped major wireless internet connection continuously broke extremely slow",
+      "Date": "2011-11-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Montreal, Canada",
+      "Title": "\u201cONE WORD \"AWESOME\"\u201d",
+      "Author": "Willy J",
+      "ReviewID": "UR120161170",
+      "Content": "landed location feel you\u00e2\u20ac\u2122re home home stayed quality hotel 3 days hours staff started calling name front desk staff goes beyond call duty day clean confortable travel alot gotta admit service makes difference love",
+      "Date": "2011-11-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Halifax, Canada",
+      "Title": "\u201cVery satisfied over all\u201d",
+      "Author": "Cachouu",
+      "ReviewID": "UR110234335",
+      "Content": "hotel stands chains reputation spent weekend montreal visit family living eastern city recommended hotel nearest residency reservation internet confirmed phone afterwards check smooth staff front desk quiet friendlythe surprises neat bed pleasant scent bathroom shiny clean restaurant offered varied menu breakfast wich service bit slow weekend havent expect havent friendliness staff overall pay budget hotel",
+      "Date": "2011-05-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Houston, Texas",
+      "Title": "\u201cNice, but has a few drawbacks\u201d",
+      "Author": "JimDavisHouston",
+      "ReviewID": "UR88680363",
+      "Content": "clean beds firm comfortable somewhat quiet nice site restaruant tv dont understand french issues 3 day stay love coffee morning looked coffee maker stagnant water didnt mentioned front desk water remained pot entire stay free internet slow disconnects 15 minutes live warm climate am cold snow control snowed day walkway front front door walkways parking lot covered layer snow solid ice walking car shoulder day constant slipping caused miserable neck backache nice stay dont outside",
+      "Date": "2010-11-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Vermont",
+      "Title": "\u201cFirst, Second and Third Hand Smoke... And did I mention Smoke?\u201d",
+      "Author": "Shwami",
+      "ReviewID": "UR58947762",
+      "Content": "ive staying 11 time enjoy bit convenient job staying southwest upper 8th 9th floor provides decent view cool breeze mini drive size sliding window common chain sheets clean beds decently firm onsite restaurant offers decent fare parking abundant free bad virtually entire hotel reeks stale cigarettes especially elevators surprised learn hotel declared cancer hotspot un stay upper floors view shut ac smell french 90 proof cigarettes permeate left hanging bedside lamp shade talk smokin luggage lugged stairs doors enter main entrance handicap accessibility except front hotel parking located sparsely furnished fridge unless pay 5 day microwave tvs flat panel type tv look rosie volume levels rise fall based ambient sounds annoying feature constantly adjusting volume avoid furniture walls guests adjacent nearby apartment complexes wireless internet free slow times deep sexy hack smell camel youll love joint hand love life crisp clean canadian air visit nearby oil gasoline storage tanks connection quality hotel olympic parc tenuous admittedly located province quebec",
+      "Date": "2010-03-19 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Quality Hotel Montreal East / Olympic Parc",
+    "HotelURL": "/ShowUserReviews-g155032-d183273-Reviews-Quality_Hotel_Montreal_East_Olympic_Parc-Montreal_Quebec.html",
+    "Price": "$135 - $144*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">8100 Avenue Neuville</span> | <span class=\"extended-address\">Anjou</span>, <span class=\"locality\"><span property=\"v:locality\">Montreal</span>, <span property=\"v:region\">Quebec</span> <span property=\"v:postal-code\">H1J 2T2</span></span>, <span class=\"country-name\" property=\"v:country-name\">Canada</span> </span></span></address>",
+    "HotelID": "183273",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7b/96/7b966ef17366a94a9dd141bce12f14195large.jpg"
+  }
+}

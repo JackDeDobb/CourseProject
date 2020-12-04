@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Mechanicsburg PA", "Title": "\u201cGood trip - decent place for the beach\u201d", "Author": "trudybob", "ReviewID": "UR138990017", "Content": "stayed friends time granted ive stayed oc md 4 5 star unless expensive privately owned condo mediocre establishments clean service friendly adequate", "Date": "2012-08-31 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Gaithersburg, Maryland", "Title": "\u201cThe Truth\u201d", "Author": "6familys", "ReviewID": "UR135710906", "Content": "ignored bad reviews aimed ones horrible choice unsatisfied start drawers fell pull beds alot weird stains bathroom dirty black specks pool okay days ton leaves pool hallway dirty carpet ripped teared smelly stains wondering didnt pictures website obviously look outside amazing bright colors wrong booked 3 beds 2 couch air conditioning perfect hot day close beach crossing streets overall disappointed wouldnt", "Date": "2012-07-29 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "York, Pennsylvania", "Title": "\u201cVERY UPSET MOTEL HAS GONE DOWNHILL\u201d", "Author": "tina h", "ReviewID": "UR135576267", "Content": "family worst looking people hanging balconys nite music blasting people partying till 3am couldnt sleep dirty shame nice family poorly manage", "Date": "2012-07-27 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "York, Pennsylvania", "Title": "\u201cPlace to sleep\u201d", "Author": "bawalker63", "ReviewID": "UR133945137", "Content": "stayed week friends classiest hotel cool sleep bigger hotels efficiency 2 beds pullout couch air conditioner cold wouldnt recommend families cold lie head night close beach", "Date": "2012-07-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Baltimore, MD", "Title": "\u201cReasonable and Respectful\u201d", "Author": "lisahackley", "ReviewID": "UR56469142", "Content": "stayed week august leaky roof reported management moved offered help carry belongings yes try clean affordable staff", "Date": "2010-02-19 00:00:00"}], "HotelInfo": {"Name": "Riviera Motel", "HotelURL": "/ShowUserReviews-g41298-d579963-Reviews-Riviera_Motel-Ocean_City_Maryland.html", "Price": "$55 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2510 Baltimore Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Ocean City</span>, <span property=\"v:region\">MD</span> <span property=\"v:postal-code\">21842</span></span> </span></span></address>", "HotelID": "579963", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/40/94/riviera-motel-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Mechanicsburg PA",
+      "Title": "\u201cGood trip - decent place for the beach\u201d",
+      "Author": "trudybob",
+      "ReviewID": "UR138990017",
+      "Content": "stayed friends time granted ive stayed oc md 4 5 star unless expensive privately owned condo mediocre establishments clean service friendly adequate",
+      "Date": "2012-08-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Gaithersburg, Maryland",
+      "Title": "\u201cThe Truth\u201d",
+      "Author": "6familys",
+      "ReviewID": "UR135710906",
+      "Content": "ignored bad reviews aimed ones horrible choice unsatisfied start drawers fell pull beds alot weird stains bathroom dirty black specks pool okay days ton leaves pool hallway dirty carpet ripped teared smelly stains wondering didnt pictures website obviously look outside amazing bright colors wrong booked 3 beds 2 couch air conditioning perfect hot day close beach crossing streets overall disappointed wouldnt",
+      "Date": "2012-07-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "York, Pennsylvania",
+      "Title": "\u201cVERY UPSET MOTEL HAS GONE DOWNHILL\u201d",
+      "Author": "tina h",
+      "ReviewID": "UR135576267",
+      "Content": "family worst looking people hanging balconys nite music blasting people partying till 3am couldnt sleep dirty shame nice family poorly manage",
+      "Date": "2012-07-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "York, Pennsylvania",
+      "Title": "\u201cPlace to sleep\u201d",
+      "Author": "bawalker63",
+      "ReviewID": "UR133945137",
+      "Content": "stayed week friends classiest hotel cool sleep bigger hotels efficiency 2 beds pullout couch air conditioner cold wouldnt recommend families cold lie head night close beach",
+      "Date": "2012-07-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Baltimore, MD",
+      "Title": "\u201cReasonable and Respectful\u201d",
+      "Author": "lisahackley",
+      "ReviewID": "UR56469142",
+      "Content": "stayed week august leaky roof reported management moved offered help carry belongings yes try clean affordable staff",
+      "Date": "2010-02-19 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Riviera Motel",
+    "HotelURL": "/ShowUserReviews-g41298-d579963-Reviews-Riviera_Motel-Ocean_City_Maryland.html",
+    "Price": "$55 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2510 Baltimore Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Ocean City</span>, <span property=\"v:region\">MD</span> <span property=\"v:postal-code\">21842</span></span> </span></span></address>",
+    "HotelID": "579963",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/40/94/riviera-motel-thumbnail.jpg"
+  }
+}

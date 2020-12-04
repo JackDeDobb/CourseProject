@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Paris, France", "Title": "\u201cAverage\u201d", "Author": "Greenroses", "ReviewID": "UR120031398", "Content": "location ubahn ten minute walk platz seen days decent restaurant sight lots kebab houses bathrooms breakfast average berlin hotel street slightly larger troubled traffic noise staff russian booking confirmed paid lost system sort", "Date": "2011-11-01 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Victoria", "Title": "\u201cGreat place to stay in Berlin\u201d", "Author": "busy-aussie-bee", "ReviewID": "UR72677431", "Content": "hotel simple nice breakfast ok walk easy cab ride sony centre checkpoint charlie town obvious road looking cheap convenient hotel berlin match downside bit hot summer didnt aircon window fan provided comfy", "Date": "2010-07-28 00:00:00"}], "HotelInfo": {"Name": "CCA Delta Hotel", "HotelURL": "/ShowUserReviews-g187323-d233869-Reviews-CCA_Delta_Hotel-Berlin.html", "Price": "$51 - $113*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Pohlstrasse 58</span>, <span class=\"locality\"><span property=\"v:postal-code\">10785</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "233869", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/74/a4/74a4b7b87b1a3c5026e2cef42699c7e64large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Paris, France",
+      "Title": "\u201cAverage\u201d",
+      "Author": "Greenroses",
+      "ReviewID": "UR120031398",
+      "Content": "location ubahn ten minute walk platz seen days decent restaurant sight lots kebab houses bathrooms breakfast average berlin hotel street slightly larger troubled traffic noise staff russian booking confirmed paid lost system sort",
+      "Date": "2011-11-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Victoria",
+      "Title": "\u201cGreat place to stay in Berlin\u201d",
+      "Author": "busy-aussie-bee",
+      "ReviewID": "UR72677431",
+      "Content": "hotel simple nice breakfast ok walk easy cab ride sony centre checkpoint charlie town obvious road looking cheap convenient hotel berlin match downside bit hot summer didnt aircon window fan provided comfy",
+      "Date": "2010-07-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "CCA Delta Hotel",
+    "HotelURL": "/ShowUserReviews-g187323-d233869-Reviews-CCA_Delta_Hotel-Berlin.html",
+    "Price": "$51 - $113*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Pohlstrasse 58</span>, <span class=\"locality\"><span property=\"v:postal-code\">10785</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "233869",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/74/a4/74a4b7b87b1a3c5026e2cef42699c7e64large.jpg"
+  }
+}

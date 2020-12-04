@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "wales", "Title": "\u201cPoor digs, expensive cost!\u201d", "Author": "pontypaulwales", "ReviewID": "UR121569081", "Content": "personaly hotel lot money supposed family single doubles available tiny dread windows cell breakfast farce parked car park blocked getting owner car front eventually ar reception 8 morning met guy sleeping counter help woken", "Date": "2011-12-09 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cHealth warning!\u201d", "Author": "clareyyvonne", "ReviewID": "UR118881190", "Content": "cheapness excuse clean star hotel filth shower broken little pressure tile missing dirt skirting board windows carpet strong smell urine carpet hidden rug discusting", "Date": "2011-10-03 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "st leonards on sea", "Title": "\u201cIT IS BEING REFURBISHED AND WAS QUITE COMFORTABLE\u201d", "Author": "janioStLeonardsOnSea", "ReviewID": "UR77119444", "Content": "apprehensive book hotel pleasantly refurbished corridors twin bed refurbished walls painted carpet twin beds super comfy perfect breakfast excellent", "Date": "2010-08-27 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "ireland", "Title": "\u201cSHOULD BE ADVERTISED WITH A HEALTH WARNING\u201d", "Author": "lizziewollen", "ReviewID": "UR70388868", "Content": "am mortified booked husband sister filthy hotel location suited prepared basic standards prepared dirt filthy floors filthy paintwork filthy windows filthy ensuites filthy mixture gas sewerage definitely worst experience accomodation fifty advertising carry health warning", "Date": "2010-07-10 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Aberdeen", "Title": "\u201cNever stay at this \"hotel\" - avoid at all costs\u201d", "Author": "Carol1265", "ReviewID": "UR67292662", "Content": "stayed hotel family believe hotel allowed arrived building looked terrible outside broken stair rail door greeted caged reception desk door shower hanging quick shower base fill flood floor smell words describe sewage smell closest penthouse top floor worse bring ourselves walk carpet dirty kept feet times wallpaper hanging window dirty handle close window handing night break sleep window showertoilet wallpaper hanging toilet handle hight head broken smell seeping door tried spray perfume pillows night cover continual smell continuous banging doors throughtout night little sleep 2 nights suggest stay unless dramatic changes", "Date": "2010-06-12 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Bristol", "Title": "\u201cJust an awful palce top stay\u201d", "Author": "johnsmithbristol", "ReviewID": "UR56743404", "Content": "arrival caged reception inadequate 4 bed people cold shower broken wc broken handle dull light filthy carpet night time continued twice periods 45 minute night bed 230 am experience reminded bates motel worse psycho truly awful experience car park tip avoid awful hotel", "Date": "2010-02-22 00:00:00"}], "HotelInfo": {"Name": "Cricklewood Lodge Hotel", "HotelURL": "/ShowUserReviews-g186338-d910783-Reviews-Cricklewood_Lodge_Hotel-London_England.html", "Price": "0", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1 Cricklewood Broadway</span> | <span class=\"extended-address\">Cricklewood</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">NW2 3JX</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>", "HotelID": "910783", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "wales",
+      "Title": "\u201cPoor digs, expensive cost!\u201d",
+      "Author": "pontypaulwales",
+      "ReviewID": "UR121569081",
+      "Content": "personaly hotel lot money supposed family single doubles available tiny dread windows cell breakfast farce parked car park blocked getting owner car front eventually ar reception 8 morning met guy sleeping counter help woken",
+      "Date": "2011-12-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cHealth warning!\u201d",
+      "Author": "clareyyvonne",
+      "ReviewID": "UR118881190",
+      "Content": "cheapness excuse clean star hotel filth shower broken little pressure tile missing dirt skirting board windows carpet strong smell urine carpet hidden rug discusting",
+      "Date": "2011-10-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "st leonards on sea",
+      "Title": "\u201cIT IS BEING REFURBISHED AND WAS QUITE COMFORTABLE\u201d",
+      "Author": "janioStLeonardsOnSea",
+      "ReviewID": "UR77119444",
+      "Content": "apprehensive book hotel pleasantly refurbished corridors twin bed refurbished walls painted carpet twin beds super comfy perfect breakfast excellent",
+      "Date": "2010-08-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "ireland",
+      "Title": "\u201cSHOULD BE ADVERTISED WITH A HEALTH WARNING\u201d",
+      "Author": "lizziewollen",
+      "ReviewID": "UR70388868",
+      "Content": "am mortified booked husband sister filthy hotel location suited prepared basic standards prepared dirt filthy floors filthy paintwork filthy windows filthy ensuites filthy mixture gas sewerage definitely worst experience accomodation fifty advertising carry health warning",
+      "Date": "2010-07-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Aberdeen",
+      "Title": "\u201cNever stay at this \"hotel\" - avoid at all costs\u201d",
+      "Author": "Carol1265",
+      "ReviewID": "UR67292662",
+      "Content": "stayed hotel family believe hotel allowed arrived building looked terrible outside broken stair rail door greeted caged reception desk door shower hanging quick shower base fill flood floor smell words describe sewage smell closest penthouse top floor worse bring ourselves walk carpet dirty kept feet times wallpaper hanging window dirty handle close window handing night break sleep window showertoilet wallpaper hanging toilet handle hight head broken smell seeping door tried spray perfume pillows night cover continual smell continuous banging doors throughtout night little sleep 2 nights suggest stay unless dramatic changes",
+      "Date": "2010-06-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bristol",
+      "Title": "\u201cJust an awful palce top stay\u201d",
+      "Author": "johnsmithbristol",
+      "ReviewID": "UR56743404",
+      "Content": "arrival caged reception inadequate 4 bed people cold shower broken wc broken handle dull light filthy carpet night time continued twice periods 45 minute night bed 230 am experience reminded bates motel worse psycho truly awful experience car park tip avoid awful hotel",
+      "Date": "2010-02-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Cricklewood Lodge Hotel",
+    "HotelURL": "/ShowUserReviews-g186338-d910783-Reviews-Cricklewood_Lodge_Hotel-London_England.html",
+    "Price": "0",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1 Cricklewood Broadway</span> | <span class=\"extended-address\">Cricklewood</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">NW2 3JX</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>",
+    "HotelID": "910783",
+    "ImgURL": ""
+  }
+}

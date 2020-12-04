@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Bucharest, Romania", "Title": "\u201cexcellent experience\u201d", "Author": "roxana r", "ReviewID": "UR125790463", "Content": "stayed husband daughter 2 bedroom standard apartment sister family 3 bedroom superior apartments standard apartment nice warm comfortable nice kitchen carpets curtains relief review read tripadvisor kitchen nice daily housekeeping service loved location hyde park street metro station bus services outside door value money lift didn\u2019t mind sisters superior 3 bedroom apartment refurbished nice furniture directly looking hyde park lake liked apartments time staying", "Date": "2012-03-08 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "London, England, United Kingdom", "Title": "\u201cpleasant experience\u201d", "Author": "Ruby K", "ReviewID": "UR125330059", "Content": "stay london reserved 3 bedroom apartment overlooking hyde downside lift major apartment nice comfortable facilites standard apartment floor overlooking hyde park fantastic view park lake master bedroom ensuite separate shower rooom sized kitchen equipped clean service included maid arrive daily clean apartment situated convenient location access bus routes underground opposite building overall pleasant stay apartment considering read negative reviews nice apartment enjoyed stay definitely staying time visit recommended family friends planning visit london", "Date": "2012-02-28 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Victoria, Canada", "Title": "\u201cShop around and don't stay here\u201d", "Author": "JayneE42", "ReviewID": "UR122793156", "Content": "priced stank smoke poor level cleanliness extremely bad customer service arrived staff didnt chairs greet 2 bedroom apartment rented elevator broken apartment stank badly smoke 8 cried didnt feel safe hair dryer sink drain remote control broken body hair sheets complained head cleaner defensive address problemsthe following day cleaners relax drama location convenient loud", "Date": "2012-01-08 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Aussie", "Title": "\u201cGood Location\u201d", "Author": "SpitzieAussie", "ReviewID": "UR70416386", "Content": "stay fountain house appears mirror reviews read traveling children 8yrs 4yrs location close park tube station size bathroom kitchen carpet burns dropped iron doing clothes curtains blinds broken couch lot stains understand expect apartment numerous people day covers couch cushions removed replaced sheets am guessing cleaned gone nearly days word lady actually check broken curtains noticed couch covers missing check heard cant service cleaning 5 nights experience appears mirror placed reviews trip advisor dont changing quickly recommend apartment previously", "Date": "2010-07-10 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Seattle", "Title": "\u201cGreat Location, decent value\u201d", "Author": "bluedog67", "ReviewID": "UR67007481", "Content": "apartment bad value price relative london hotelsapartments location convenient literally street hyde park lancaster gate tube stop kitchen bath nicely updated carpet couches poor condition couches literally threadbare disappointing considering told refurbished apartment service acceptable mind service apartment hotel example plumbing weekend attended monday housecleaning staff nice cooperative schedule", "Date": "2010-06-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "MUMBAI", "Title": "\u201cThe apartment was great, will visit again\u201d", "Author": "MUKESHKHETWANI", "ReviewID": "UR60962838", "Content": "family 4 mumbai india stayed pent house apartment fountain house grand clean staff provided services smile london stay view garden location main city noise enjoyed stay apartments stayed", "Date": "2010-04-11 00:00:00"}], "HotelInfo": {"Name": "Fountain House Apartments", "HotelURL": "/ShowUserReviews-g186338-d1460617-Reviews-Fountain_House_Apartments-London_England.html", "Price": "0", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1, Lancaster terrace</span>, <span class=\"locality\"><span property=\"v:locality\">London</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>", "HotelID": "1460617", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/4a/b4/80/fountain-house-hyde-park.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bucharest, Romania",
+      "Title": "\u201cexcellent experience\u201d",
+      "Author": "roxana r",
+      "ReviewID": "UR125790463",
+      "Content": "stayed husband daughter 2 bedroom standard apartment sister family 3 bedroom superior apartments standard apartment nice warm comfortable nice kitchen carpets curtains relief review read tripadvisor kitchen nice daily housekeeping service loved location hyde park street metro station bus services outside door value money lift didn\u2019t mind sisters superior 3 bedroom apartment refurbished nice furniture directly looking hyde park lake liked apartments time staying",
+      "Date": "2012-03-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London, England, United Kingdom",
+      "Title": "\u201cpleasant experience\u201d",
+      "Author": "Ruby K",
+      "ReviewID": "UR125330059",
+      "Content": "stay london reserved 3 bedroom apartment overlooking hyde downside lift major apartment nice comfortable facilites standard apartment floor overlooking hyde park fantastic view park lake master bedroom ensuite separate shower rooom sized kitchen equipped clean service included maid arrive daily clean apartment situated convenient location access bus routes underground opposite building overall pleasant stay apartment considering read negative reviews nice apartment enjoyed stay definitely staying time visit recommended family friends planning visit london",
+      "Date": "2012-02-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Victoria, Canada",
+      "Title": "\u201cShop around and don't stay here\u201d",
+      "Author": "JayneE42",
+      "ReviewID": "UR122793156",
+      "Content": "priced stank smoke poor level cleanliness extremely bad customer service arrived staff didnt chairs greet 2 bedroom apartment rented elevator broken apartment stank badly smoke 8 cried didnt feel safe hair dryer sink drain remote control broken body hair sheets complained head cleaner defensive address problemsthe following day cleaners relax drama location convenient loud",
+      "Date": "2012-01-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Aussie",
+      "Title": "\u201cGood Location\u201d",
+      "Author": "SpitzieAussie",
+      "ReviewID": "UR70416386",
+      "Content": "stay fountain house appears mirror reviews read traveling children 8yrs 4yrs location close park tube station size bathroom kitchen carpet burns dropped iron doing clothes curtains blinds broken couch lot stains understand expect apartment numerous people day covers couch cushions removed replaced sheets am guessing cleaned gone nearly days word lady actually check broken curtains noticed couch covers missing check heard cant service cleaning 5 nights experience appears mirror placed reviews trip advisor dont changing quickly recommend apartment previously",
+      "Date": "2010-07-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Seattle",
+      "Title": "\u201cGreat Location, decent value\u201d",
+      "Author": "bluedog67",
+      "ReviewID": "UR67007481",
+      "Content": "apartment bad value price relative london hotelsapartments location convenient literally street hyde park lancaster gate tube stop kitchen bath nicely updated carpet couches poor condition couches literally threadbare disappointing considering told refurbished apartment service acceptable mind service apartment hotel example plumbing weekend attended monday housecleaning staff nice cooperative schedule",
+      "Date": "2010-06-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "MUMBAI",
+      "Title": "\u201cThe apartment was great, will visit again\u201d",
+      "Author": "MUKESHKHETWANI",
+      "ReviewID": "UR60962838",
+      "Content": "family 4 mumbai india stayed pent house apartment fountain house grand clean staff provided services smile london stay view garden location main city noise enjoyed stay apartments stayed",
+      "Date": "2010-04-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Fountain House Apartments",
+    "HotelURL": "/ShowUserReviews-g186338-d1460617-Reviews-Fountain_House_Apartments-London_England.html",
+    "Price": "0",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1, Lancaster terrace</span>, <span class=\"locality\"><span property=\"v:locality\">London</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>",
+    "HotelID": "1460617",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/4a/b4/80/fountain-house-hyde-park.jpg"
+  }
+}

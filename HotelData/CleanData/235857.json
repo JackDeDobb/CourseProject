@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Kitchener, Ontario, Canada", "Title": "\u201cApartment\u201d", "Author": "Kelly S", "ReviewID": "UR128126933", "Content": "stayed apartment street location positives pretty value money clean spacious close walking distance nice square bakery coffee shop grocery store staff helpful friendly bring breakfast morning coffee croissants negatives beds comfortable note stay apartment staff apartment time storage front hallway please note friendly werent option disturb door annoyance", "Date": "2012-04-18 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Oxford", "Title": "\u201cThey over booked us!\u201d", "Author": "Ronim_lad", "ReviewID": "UR119179228", "Content": "told hot water doesnt daughter short 5 min walk available restaurant presumably friend apologetic lovely air con mini fridge tv nice bathroom lovely view canal cant comment doge didnt stay hotel morning breakfast peeked comfortable looking definately breakfast kitchenette experience sit food coffee mother apologetic booked hot water didnt charge additional tax paid nice liked look doge short stay location train station pleasant walk sights", "Date": "2011-10-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Firenze", "Title": "\u201cExcellent & Clean Family-Run Hotel on a Budget\u201d", "Author": "Linavoce", "ReviewID": "UR104006371", "Content": "venice expensive travelers hang value nofrills hotel speak language country items top travel list 1 cleanliness 2 quiet sleep decent beds 3 nontouristy found hotel doge space efficiently queensized bed wardrobe space hang clothing own bathroom incredibly clean recently remodeled bathroom fixtures shower pressure hot water family friendly helpful parents speak english eldest daughter continental breakfast included served added bonus 10 mins walk main trainbus station piazzale roma throngs tourists san marco sestiere relatively quiet 11 pm 7 am trattorias pizzerias nearby plus feels real neighborhood highly recommended", "Date": "2011-04-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Notts, UK", "Title": "\u201cReally welcoming staff\u201d", "Author": "farmerwadey", "ReviewID": "UR87685790", "Content": "stay hotels rare ones staff genuinely friendy welcoming aloof pompous hotels staff customers seek neither earth comfortable hotel near train station river bus connections fair enjoyable walk main sights hotel little quirky odd peices decorating adds charm breakfast delivered door day tray restaurant", "Date": "2010-11-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Chicago", "Title": "\u201cGreat location, affordable price\u201d", "Author": "igorek", "ReviewID": "UR64067396", "Content": "location 5min train station 1min vaporetto stop google location nice helpful staff receptionist person minuscule expected city breakfast served directly clean maintained recently remodeled paid double thru expediacom", "Date": "2010-05-13 00:00:00"}], "HotelInfo": {"Name": "Doge Hotel", "HotelURL": "/ShowUserReviews-g187870-d235857-Reviews-Doge_Hotel-Venice_Veneto.html", "Price": "$79 - $244*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Santa Croce, 1222</span>, <span class=\"locality\"><span property=\"v:postal-code\">30133</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "235857", "ImgURL": "http://www.venere.com/img/hotel/2/0/9/6/6902/6902.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Kitchener, Ontario, Canada",
+      "Title": "\u201cApartment\u201d",
+      "Author": "Kelly S",
+      "ReviewID": "UR128126933",
+      "Content": "stayed apartment street location positives pretty value money clean spacious close walking distance nice square bakery coffee shop grocery store staff helpful friendly bring breakfast morning coffee croissants negatives beds comfortable note stay apartment staff apartment time storage front hallway please note friendly werent option disturb door annoyance",
+      "Date": "2012-04-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Oxford",
+      "Title": "\u201cThey over booked us!\u201d",
+      "Author": "Ronim_lad",
+      "ReviewID": "UR119179228",
+      "Content": "told hot water doesnt daughter short 5 min walk available restaurant presumably friend apologetic lovely air con mini fridge tv nice bathroom lovely view canal cant comment doge didnt stay hotel morning breakfast peeked comfortable looking definately breakfast kitchenette experience sit food coffee mother apologetic booked hot water didnt charge additional tax paid nice liked look doge short stay location train station pleasant walk sights",
+      "Date": "2011-10-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Firenze",
+      "Title": "\u201cExcellent & Clean Family-Run Hotel on a Budget\u201d",
+      "Author": "Linavoce",
+      "ReviewID": "UR104006371",
+      "Content": "venice expensive travelers hang value nofrills hotel speak language country items top travel list 1 cleanliness 2 quiet sleep decent beds 3 nontouristy found hotel doge space efficiently queensized bed wardrobe space hang clothing own bathroom incredibly clean recently remodeled bathroom fixtures shower pressure hot water family friendly helpful parents speak english eldest daughter continental breakfast included served added bonus 10 mins walk main trainbus station piazzale roma throngs tourists san marco sestiere relatively quiet 11 pm 7 am trattorias pizzerias nearby plus feels real neighborhood highly recommended",
+      "Date": "2011-04-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Notts, UK",
+      "Title": "\u201cReally welcoming staff\u201d",
+      "Author": "farmerwadey",
+      "ReviewID": "UR87685790",
+      "Content": "stay hotels rare ones staff genuinely friendy welcoming aloof pompous hotels staff customers seek neither earth comfortable hotel near train station river bus connections fair enjoyable walk main sights hotel little quirky odd peices decorating adds charm breakfast delivered door day tray restaurant",
+      "Date": "2010-11-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Chicago",
+      "Title": "\u201cGreat location, affordable price\u201d",
+      "Author": "igorek",
+      "ReviewID": "UR64067396",
+      "Content": "location 5min train station 1min vaporetto stop google location nice helpful staff receptionist person minuscule expected city breakfast served directly clean maintained recently remodeled paid double thru expediacom",
+      "Date": "2010-05-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Doge Hotel",
+    "HotelURL": "/ShowUserReviews-g187870-d235857-Reviews-Doge_Hotel-Venice_Veneto.html",
+    "Price": "$79 - $244*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Santa Croce, 1222</span>, <span class=\"locality\"><span property=\"v:postal-code\">30133</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "235857",
+    "ImgURL": "http://www.venere.com/img/hotel/2/0/9/6/6902/6902.jpg"
+  }
+}

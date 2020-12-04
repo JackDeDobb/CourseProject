@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Glasgow, United Kingdom", "Title": "\u201cConfortable, clean and cheap\u201d", "Author": "tree1990", "ReviewID": "UR125354512", "Content": "booked octopus travel found bargain breakfast included clean comfortable hotel nice quiet serviced daily staff welcoming friendly breakfast standard german selection cold meats cereal eggs etc nice head breakfast hotel body eat minute five minute walk tube station lots local attractions nearby loved berlin staying visit", "Date": "2012-02-28 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Bratislava, Slovakia", "Title": "\u201cNice hotel, tacky location\u201d", "Author": "Tina K", "ReviewID": "UR122801655", "Content": "chose hotel base weekend celebration anniversary berlin main reason chose price location close tube station hotel nice repairs overall staying nice experience staff pleasant service hotel bar location grand city name couldnt situated tacky neigbourhood homeless people hotel enter feel completely world walk hotel tube thank god boyfriend scared walk dark thats issue pick hotel enjoy prices", "Date": "2012-01-09 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cDon't do it to yourself\u201d", "Author": "xxSophiaxx", "ReviewID": "UR120748008", "Content": "stayed september 2011 4 nightsthe hotel centre city 20 minute walk wrong metro station 10 minute walk couple tram stops train station probably ok youre single bit hefty suitcase carry youre 11 day trip hotel believes concept dont dont ok tray tea coffee kettle dirty cups service morning weird hotels 3rd floor 3rd floor lift walk flight narrow stairs remember dont dont offers help carry bag am princess am partial drama queen time time firm bed actually left hotel backache wrote letter manager didnt guess makes difference service smile little nope", "Date": "2011-11-18 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Copenhagen", "Title": "\u201cVerey good hotel for the price\u201d", "Author": "mabCopenhagen", "ReviewID": "UR120041247", "Content": "third stay hotel comming backthe bathroom spacious clean staff friendly learn 2 outside hotel 4 min walk str str stations 7 min acces berlin breakfast bit expensive round corner coffeshops cheap breakfast pick own time breakfast", "Date": "2011-11-01 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 1.0}, "AuthorLocation": "Rochford, United Kingdom", "Title": "\u201cVery Good Facilities,but not in Mitte\u201d", "Author": "Traveller1635509", "ReviewID": "UR85423677", "Content": "returned city break berlin hotel excellent staff helpful friendly food clean liked tea coffee kettle request cups tea coffee complaint hotel supposed berlin near 10 minute walk underground 15 minutes centre city", "Date": "2010-10-31 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Edinburgh", "Title": "\u201cRUBBISH location\u201d", "Author": "Jayestar", "ReviewID": "UR62525118", "Content": "hotel mitte title absolute lie near mitte takes half hour plus 15 minute walk sbahn youre day stay ie popping pack freshen dowdy bed oddly placed minibar removed smelly disused fridge tv church bells door ring 15 minutes morning 8am night berlin \u00a315 breakfast didnt bother spent time city love berlin wont", "Date": "2010-04-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Dublin", "Title": "\u201cClean, fiendly and good value for money\u201d", "Author": "notenoughtravelling", "ReviewID": "UR55445096", "Content": "value clean friendly helpfull staff centre berlin 10 minutes su taxi return city centre cost \u20ac10 short distance downside breakfast costing \u20ac18 advise holding grabbing bite elsewhere church bells 9am sound door", "Date": "2010-02-08 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "GB", "Title": "\u201cmisleading location\u201d", "Author": "GbTubs", "ReviewID": "UR55221452", "Content": "hotel whilest perfectly acceptable value money relation standard consider mitte centre berlin underground easy hotel situated distance nearest station surrounding hotel ideal hotel pleasant suprise clean comfortable bar shuts whatever time staff decide irrespective time displayed amount attendance barman front house staff persuade serve drinks arrived advertised closing time happened occasions stay consierge complain bank vending machines serve snacks extortionately priced drinks bottles etc service late travellers disappointed looking hotel reasonable rates basic service mind remote centre berlin hotel serve", "Date": "2010-02-05 00:00:00"}], "HotelInfo": {"Name": "BEST WESTERN Grand City Hotel Berlin Mitte", "HotelURL": "/ShowUserReviews-g187323-d1007015-Reviews-BEST_WESTERN_Grand_City_Hotel_Berlin_Mitte-Berlin.html", "Price": "$59 - $198*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Osloer Strasse 116a</span>, <span class=\"locality\"><span property=\"v:postal-code\">13359</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "1007015", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2e/8f/2e8fa66e8cee892ddfd6fce2fbb471fd24large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Glasgow, United Kingdom",
+      "Title": "\u201cConfortable, clean and cheap\u201d",
+      "Author": "tree1990",
+      "ReviewID": "UR125354512",
+      "Content": "booked octopus travel found bargain breakfast included clean comfortable hotel nice quiet serviced daily staff welcoming friendly breakfast standard german selection cold meats cereal eggs etc nice head breakfast hotel body eat minute five minute walk tube station lots local attractions nearby loved berlin staying visit",
+      "Date": "2012-02-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Bratislava, Slovakia",
+      "Title": "\u201cNice hotel, tacky location\u201d",
+      "Author": "Tina K",
+      "ReviewID": "UR122801655",
+      "Content": "chose hotel base weekend celebration anniversary berlin main reason chose price location close tube station hotel nice repairs overall staying nice experience staff pleasant service hotel bar location grand city name couldnt situated tacky neigbourhood homeless people hotel enter feel completely world walk hotel tube thank god boyfriend scared walk dark thats issue pick hotel enjoy prices",
+      "Date": "2012-01-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cDon't do it to yourself\u201d",
+      "Author": "xxSophiaxx",
+      "ReviewID": "UR120748008",
+      "Content": "stayed september 2011 4 nightsthe hotel centre city 20 minute walk wrong metro station 10 minute walk couple tram stops train station probably ok youre single bit hefty suitcase carry youre 11 day trip hotel believes concept dont dont ok tray tea coffee kettle dirty cups service morning weird hotels 3rd floor 3rd floor lift walk flight narrow stairs remember dont dont offers help carry bag am princess am partial drama queen time time firm bed actually left hotel backache wrote letter manager didnt guess makes difference service smile little nope",
+      "Date": "2011-11-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Copenhagen",
+      "Title": "\u201cVerey good hotel for the price\u201d",
+      "Author": "mabCopenhagen",
+      "ReviewID": "UR120041247",
+      "Content": "third stay hotel comming backthe bathroom spacious clean staff friendly learn 2 outside hotel 4 min walk str str stations 7 min acces berlin breakfast bit expensive round corner coffeshops cheap breakfast pick own time breakfast",
+      "Date": "2011-11-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Rochford, United Kingdom",
+      "Title": "\u201cVery Good Facilities,but not in Mitte\u201d",
+      "Author": "Traveller1635509",
+      "ReviewID": "UR85423677",
+      "Content": "returned city break berlin hotel excellent staff helpful friendly food clean liked tea coffee kettle request cups tea coffee complaint hotel supposed berlin near 10 minute walk underground 15 minutes centre city",
+      "Date": "2010-10-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Edinburgh",
+      "Title": "\u201cRUBBISH location\u201d",
+      "Author": "Jayestar",
+      "ReviewID": "UR62525118",
+      "Content": "hotel mitte title absolute lie near mitte takes half hour plus 15 minute walk sbahn youre day stay ie popping pack freshen dowdy bed oddly placed minibar removed smelly disused fridge tv church bells door ring 15 minutes morning 8am night berlin \u00a315 breakfast didnt bother spent time city love berlin wont",
+      "Date": "2010-04-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Dublin",
+      "Title": "\u201cClean, fiendly and good value for money\u201d",
+      "Author": "notenoughtravelling",
+      "ReviewID": "UR55445096",
+      "Content": "value clean friendly helpfull staff centre berlin 10 minutes su taxi return city centre cost \u20ac10 short distance downside breakfast costing \u20ac18 advise holding grabbing bite elsewhere church bells 9am sound door",
+      "Date": "2010-02-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "GB",
+      "Title": "\u201cmisleading location\u201d",
+      "Author": "GbTubs",
+      "ReviewID": "UR55221452",
+      "Content": "hotel whilest perfectly acceptable value money relation standard consider mitte centre berlin underground easy hotel situated distance nearest station surrounding hotel ideal hotel pleasant suprise clean comfortable bar shuts whatever time staff decide irrespective time displayed amount attendance barman front house staff persuade serve drinks arrived advertised closing time happened occasions stay consierge complain bank vending machines serve snacks extortionately priced drinks bottles etc service late travellers disappointed looking hotel reasonable rates basic service mind remote centre berlin hotel serve",
+      "Date": "2010-02-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "BEST WESTERN Grand City Hotel Berlin Mitte",
+    "HotelURL": "/ShowUserReviews-g187323-d1007015-Reviews-BEST_WESTERN_Grand_City_Hotel_Berlin_Mitte-Berlin.html",
+    "Price": "$59 - $198*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Osloer Strasse 116a</span>, <span class=\"locality\"><span property=\"v:postal-code\">13359</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "1007015",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2e/8f/2e8fa66e8cee892ddfd6fce2fbb471fd24large.jpg"
+  }
+}

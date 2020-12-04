@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Fareham, United Kingdom", "Title": "\u201cLovely\u201d", "Author": "SamLaw74", "ReviewID": "UR101315930", "Content": "takes 45 minutes hotel centre rome basically bus heading left hotel drive metro stop benefit quiet hotel breakfast selection bread stuffs cheese ham fruit cereals yoghurts sort cake theres juice tea coffee served 710am clean fortunate main hotel obviously redecorated lately ensuite shutters dark day time beds twins pushed topped foam couldnt tell separate beds comfortable fridge minibar prices expected theres store own stuff tv italian english channels hotel computer lobby free internet connection staff speak english restaurant attached hotel food service value money", "Date": "2011-03-23 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "Wellington, New Zealand", "Title": "\u201cOk\u201d", "Author": "reecepoutawera", "ReviewID": "UR89302545", "Content": "actually stayed september 2009 hotel ok noisy situated restaurant busy mission sights rome bus subway frequent clean service ok overall ok money time closer city", "Date": "2010-12-07 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Wigan, United Kingdom", "Title": "\u201cClean, basic & friendly. What more do you want!\u201d", "Author": "mini_rar", "ReviewID": "UR74937745", "Content": "recently stayed orto di roma hotel 10 days yearly holiday dissapointed start prior arriving hotel managed organise taxi airport 50 euros thankfully staff hotel speak level english alot reliable horror stories heard unlicensed taxi cabs rome didnt hotel automated shutters windows lower rise accordingly ours stuck days fix meaning couldnt look outside days defence arrived weekend maintenence guys look week fair suppose booked double basically single beds pushed weird staying hotel couple using base sleep fine cleaned hotel staff single day fresh towels etc shower lovely hot terms basic clean accomodation horror stories spotless morning provide complimentary european style buffet breakfast 7 am 10am meats cheeses croissants pastries fresh coffee possibly drink lovely cappuchino sun breakfast heading rome day travel rome bus stop literally outside hotel hotel reception sells bus tickets cost 1 euro valid 75 minutes bus journey metro journey bought 1 euro ticket hotel metro requiring trips day ticket machine buy 4 euro ticket valid day unlimited travel metro busses stand bus stop road hotel catch bus basillica san paulo metro blue line towards colloseum stop walk main features rome managed visit colloseum spanish steps trevi fountain pantheon etc metro line visit vatican st peters square slightest bit complicated sign posted alot people hotel city 25 minutes travel city day restaurant pizzeria connected restaurant top notch portion sizes seen believed thankfully set menus english try cater english people partner enjoyed beautifully cooked italian meal little expensive pizzeria money conscious worth visit genuinly didnt hotel incident shutter directly restaurant meant alot noise night time honest tired sight seeing day soon drifted reccomend hotel friend title basic clean accomodation top marks luxury inclusive frills probably stay rome inevitable threw coin trevi fountain", "Date": "2010-08-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Deva, Romania", "Title": "\u201c..feel like home\u201d", "Author": "Criss_7", "ReviewID": "UR74183921", "Content": "yes feeling hotel close center situated quiet roma connections public transportation bus subway bus 20 hotel subway san paolo liked rustic atmosphere hotel pure italian air staff nice welcoming romania baby crib installed elevator roomy allow access truck public transportations costs 1 euro buy reception nearby italian restaurant ate loved staff nice daughter occupying eat 4 days roma", "Date": "2010-08-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Katoomba, Australia", "Title": "\u201cGreat little homey hotel out of the way with helpful staff\u201d", "Author": "paolaedavide", "ReviewID": "UR62459819", "Content": "spent 3 nights welcome comfortable little easy directions friendly staff easily able bus metro city restaurant door fantastic breakfast lovely", "Date": "2010-04-26 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "russia", "Title": "\u201cVery good because of a great restaurant.\u201d", "Author": "zelenskya", "ReviewID": "UR55803660", "Content": "main attractive feature hotel restaurant locals menu english wonderful guess faced real italy location dormitory rome quiet looks safe takes 15 minutes bus metro basilica bus stop minutes hotel hotel special bad ok hot water shower thats staff ok visit rome planning live hotel", "Date": "2010-02-12 00:00:00"}], "HotelInfo": {"Name": "Orto di Roma", "HotelURL": "/ShowUserReviews-g187791-d291685-Reviews-Orto_di_Roma-Rome_Lazio.html", "Price": "$84 - $146*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via di Grotta Perfetta,551</span>, <span class=\"locality\"><span property=\"v:postal-code\">00142</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "291685", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/20/e5/3c/de-luxe-room.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Fareham, United Kingdom",
+      "Title": "\u201cLovely\u201d",
+      "Author": "SamLaw74",
+      "ReviewID": "UR101315930",
+      "Content": "takes 45 minutes hotel centre rome basically bus heading left hotel drive metro stop benefit quiet hotel breakfast selection bread stuffs cheese ham fruit cereals yoghurts sort cake theres juice tea coffee served 710am clean fortunate main hotel obviously redecorated lately ensuite shutters dark day time beds twins pushed topped foam couldnt tell separate beds comfortable fridge minibar prices expected theres store own stuff tv italian english channels hotel computer lobby free internet connection staff speak english restaurant attached hotel food service value money",
+      "Date": "2011-03-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Wellington, New Zealand",
+      "Title": "\u201cOk\u201d",
+      "Author": "reecepoutawera",
+      "ReviewID": "UR89302545",
+      "Content": "actually stayed september 2009 hotel ok noisy situated restaurant busy mission sights rome bus subway frequent clean service ok overall ok money time closer city",
+      "Date": "2010-12-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Wigan, United Kingdom",
+      "Title": "\u201cClean, basic & friendly. What more do you want!\u201d",
+      "Author": "mini_rar",
+      "ReviewID": "UR74937745",
+      "Content": "recently stayed orto di roma hotel 10 days yearly holiday dissapointed start prior arriving hotel managed organise taxi airport 50 euros thankfully staff hotel speak level english alot reliable horror stories heard unlicensed taxi cabs rome didnt hotel automated shutters windows lower rise accordingly ours stuck days fix meaning couldnt look outside days defence arrived weekend maintenence guys look week fair suppose booked double basically single beds pushed weird staying hotel couple using base sleep fine cleaned hotel staff single day fresh towels etc shower lovely hot terms basic clean accomodation horror stories spotless morning provide complimentary european style buffet breakfast 7 am 10am meats cheeses croissants pastries fresh coffee possibly drink lovely cappuchino sun breakfast heading rome day travel rome bus stop literally outside hotel hotel reception sells bus tickets cost 1 euro valid 75 minutes bus journey metro journey bought 1 euro ticket hotel metro requiring trips day ticket machine buy 4 euro ticket valid day unlimited travel metro busses stand bus stop road hotel catch bus basillica san paulo metro blue line towards colloseum stop walk main features rome managed visit colloseum spanish steps trevi fountain pantheon etc metro line visit vatican st peters square slightest bit complicated sign posted alot people hotel city 25 minutes travel city day restaurant pizzeria connected restaurant top notch portion sizes seen believed thankfully set menus english try cater english people partner enjoyed beautifully cooked italian meal little expensive pizzeria money conscious worth visit genuinly didnt hotel incident shutter directly restaurant meant alot noise night time honest tired sight seeing day soon drifted reccomend hotel friend title basic clean accomodation top marks luxury inclusive frills probably stay rome inevitable threw coin trevi fountain",
+      "Date": "2010-08-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Deva, Romania",
+      "Title": "\u201c..feel like home\u201d",
+      "Author": "Criss_7",
+      "ReviewID": "UR74183921",
+      "Content": "yes feeling hotel close center situated quiet roma connections public transportation bus subway bus 20 hotel subway san paolo liked rustic atmosphere hotel pure italian air staff nice welcoming romania baby crib installed elevator roomy allow access truck public transportations costs 1 euro buy reception nearby italian restaurant ate loved staff nice daughter occupying eat 4 days roma",
+      "Date": "2010-08-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Katoomba, Australia",
+      "Title": "\u201cGreat little homey hotel out of the way with helpful staff\u201d",
+      "Author": "paolaedavide",
+      "ReviewID": "UR62459819",
+      "Content": "spent 3 nights welcome comfortable little easy directions friendly staff easily able bus metro city restaurant door fantastic breakfast lovely",
+      "Date": "2010-04-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "russia",
+      "Title": "\u201cVery good because of a great restaurant.\u201d",
+      "Author": "zelenskya",
+      "ReviewID": "UR55803660",
+      "Content": "main attractive feature hotel restaurant locals menu english wonderful guess faced real italy location dormitory rome quiet looks safe takes 15 minutes bus metro basilica bus stop minutes hotel hotel special bad ok hot water shower thats staff ok visit rome planning live hotel",
+      "Date": "2010-02-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Orto di Roma",
+    "HotelURL": "/ShowUserReviews-g187791-d291685-Reviews-Orto_di_Roma-Rome_Lazio.html",
+    "Price": "$84 - $146*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via di Grotta Perfetta,551</span>, <span class=\"locality\"><span property=\"v:postal-code\">00142</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "291685",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/20/e5/3c/de-luxe-room.jpg"
+  }
+}

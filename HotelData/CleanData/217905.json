@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Aydin, Turkey", "Title": "\u201cGREAT LOCATION\u201d", "Author": "Posted by an Accorhotels.com traveler", "ReviewID": "UR120691078", "Content": "breakfast location 70 near ubahn cheap markets shooping centers near hotelrooms clean pillows thin speak turkish english wonderfull tegel airport hotel taxi\u2019s fee 30 euro 5 pax", "Date": "2011-11-17 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 4.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "berlin", "Title": "\u201ci would not recommand this hotel\u201d", "Author": "Posted by an Accorhotels.com traveler", "ReviewID": "UR119789207", "Content": "pillow blood stain smokers floor am smoke told checkout 12pm sharp aclub gold ship allows late checkout refuse 15 minutes 12pm internet free slow 9 euro 1 hour bad internet service", "Date": "2011-10-27 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 2.0}, "AuthorLocation": "Mansfield, United Kingdom", "Title": "\u201cGreat hotel - location...hmm\u201d", "Author": "misharmo", "ReviewID": "UR106007599", "Content": "hotel spacious clean designed overlooked street noise breakfast bar prices werent bad hotel besides underground little bit dodgy dark wouldnt walk night decent restaurants lots cheap shops pepper spray", "Date": "2011-04-28 00:00:00"}], "HotelInfo": {"Name": "Mercure Berlin Tempelhof Airport", "HotelURL": "/ShowUserReviews-g187323-d217905-Reviews-Mercure_Berlin_Tempelhof_Airport-Berlin.html", "Price": "$77 - $138*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Hermannstrasse 214-216</span> | <span class=\"extended-address\">Eingang Rollbergstrasse</span>, <span class=\"locality\"><span property=\"v:postal-code\">12049</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "217905", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/35/a3/35a3afa7d20f213b27bd712ca51ad2829large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Aydin, Turkey",
+      "Title": "\u201cGREAT LOCATION\u201d",
+      "Author": "Posted by an Accorhotels.com traveler",
+      "ReviewID": "UR120691078",
+      "Content": "breakfast location 70 near ubahn cheap markets shooping centers near hotelrooms clean pillows thin speak turkish english wonderfull tegel airport hotel taxi\u2019s fee 30 euro 5 pax",
+      "Date": "2011-11-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "berlin",
+      "Title": "\u201ci would not recommand this hotel\u201d",
+      "Author": "Posted by an Accorhotels.com traveler",
+      "ReviewID": "UR119789207",
+      "Content": "pillow blood stain smokers floor am smoke told checkout 12pm sharp aclub gold ship allows late checkout refuse 15 minutes 12pm internet free slow 9 euro 1 hour bad internet service",
+      "Date": "2011-10-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Mansfield, United Kingdom",
+      "Title": "\u201cGreat hotel - location...hmm\u201d",
+      "Author": "misharmo",
+      "ReviewID": "UR106007599",
+      "Content": "hotel spacious clean designed overlooked street noise breakfast bar prices werent bad hotel besides underground little bit dodgy dark wouldnt walk night decent restaurants lots cheap shops pepper spray",
+      "Date": "2011-04-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Mercure Berlin Tempelhof Airport",
+    "HotelURL": "/ShowUserReviews-g187323-d217905-Reviews-Mercure_Berlin_Tempelhof_Airport-Berlin.html",
+    "Price": "$77 - $138*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Hermannstrasse 214-216</span> | <span class=\"extended-address\">Eingang Rollbergstrasse</span>, <span class=\"locality\"><span property=\"v:postal-code\">12049</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "217905",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/35/a3/35a3afa7d20f213b27bd712ca51ad2829large.jpg"
+  }
+}

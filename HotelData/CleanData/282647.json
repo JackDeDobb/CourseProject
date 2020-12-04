@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Samara", "Title": "\u201can excellent hotel! in the center\u201d", "Author": "andyl2001", "ReviewID": "UR124436941", "Content": "excellent hotel center kurf\u00fcrstendamm 3 minutes slow pace nice neat clean frills level windows located quiet street 3 meters corner charming cafe breakfasts delicious dense halfday load expense hotel crowds search table staff solved quickly besides girls reception speak languages positive impression advise", "Date": "2012-02-11 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Vasteras, Sweden", "Title": "\u201cNice hotel with good breakfast\u201d", "Author": "AndreaPSweden", "ReviewID": "UR120583314", "Content": "stayed 3 nights 11 receptionists helpful information tips city leave bags passports safe checking plane left evening breakfast swedish standards served 710 modern clean bath ours friends shower free internet lobby restaurant hotel lies couple blocks kadewe closest ubahn street gay restaurants bars safe central complain elevator forever forgot cars sometimes woke", "Date": "2011-11-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Coventry, United Kingdom", "Title": "\u201cBerlin - Hotel Artim\u201d", "Author": "Navylad69", "ReviewID": "UR120170459", "Content": "stayed hotel 3 times couple recommended close friend hotel located 5 minute walk ubahn station da hotel quiet street middle gay gay hotel notice leather clad walks past lol breakfast beds comfortable personally fault hotel choice berlin cheaper location standards continue staff helpful speak english train times printed overall cant fault", "Date": "2011-11-04 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Ashbourne, United Kingdom", "Title": "\u201cnice hotel, good rooms\u201d", "Author": "doncha1", "ReviewID": "UR81073155", "Content": "hotel five minute walk bahn station square handy concert olympic stadium bahn line exploring city enjoy walking reach zoological gardens afield reichstag difficulty hotel situated quietish street near gay district hotel staff friendly spacious clean requested balcony extra charge breakfast buffet style choice offer recomend hotel stay berlin", "Date": "2010-09-26 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Monchengladbach, Germany", "Title": "\u201cLovely Street and good position,but some poor service\u201d", "Author": "dempster_lisa_j", "ReviewID": "UR65345071", "Content": "service desk staff particular act lack attention detail caused undue particularly concerning payment protocol removal personal baggage read own paper totally locked own booking sheet unacceptable move own mistake unacceptable shampoo staff close shampoo bottle moving unacceptable demanding payment phone call totally unacceptable lovely position excellent actions staff left sour taste travellers mouth", "Date": "2010-05-26 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "bolton", "Title": "\u201cOh My God What a DUMP, (4 Star never)\u201d", "Author": "xxxdarren", "ReviewID": "UR57897228", "Content": "stayed hotel coudnt design hotel normally stay hotel found reception staff unfriendly night staff training speak guests worm bath stank wee breakfast german standard british hotels internet free except hotel charge 2000 euro night expensive wasnt fast told reception reaction oh ok manager ans told time look told return thats fine 4 star hotel enjoy stay question hotel read guest feedback learn", "Date": "2010-03-06 00:00:00"}], "HotelInfo": {"Name": "Hotel Artim", "HotelURL": "/ShowUserReviews-g187323-d282647-Reviews-Hotel_Artim-Berlin.html", "Price": "$97 - $223*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Fuggerstrasse 20</span>, <span class=\"locality\"><span property=\"v:postal-code\">10777</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "282647", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/75/f1/75f14138ba8f43e48c4cd501fece0c4110large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Samara",
+      "Title": "\u201can excellent hotel! in the center\u201d",
+      "Author": "andyl2001",
+      "ReviewID": "UR124436941",
+      "Content": "excellent hotel center kurf\u00fcrstendamm 3 minutes slow pace nice neat clean frills level windows located quiet street 3 meters corner charming cafe breakfasts delicious dense halfday load expense hotel crowds search table staff solved quickly besides girls reception speak languages positive impression advise",
+      "Date": "2012-02-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Vasteras, Sweden",
+      "Title": "\u201cNice hotel with good breakfast\u201d",
+      "Author": "AndreaPSweden",
+      "ReviewID": "UR120583314",
+      "Content": "stayed 3 nights 11 receptionists helpful information tips city leave bags passports safe checking plane left evening breakfast swedish standards served 710 modern clean bath ours friends shower free internet lobby restaurant hotel lies couple blocks kadewe closest ubahn street gay restaurants bars safe central complain elevator forever forgot cars sometimes woke",
+      "Date": "2011-11-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Coventry, United Kingdom",
+      "Title": "\u201cBerlin - Hotel Artim\u201d",
+      "Author": "Navylad69",
+      "ReviewID": "UR120170459",
+      "Content": "stayed hotel 3 times couple recommended close friend hotel located 5 minute walk ubahn station da hotel quiet street middle gay gay hotel notice leather clad walks past lol breakfast beds comfortable personally fault hotel choice berlin cheaper location standards continue staff helpful speak english train times printed overall cant fault",
+      "Date": "2011-11-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Ashbourne, United Kingdom",
+      "Title": "\u201cnice hotel, good rooms\u201d",
+      "Author": "doncha1",
+      "ReviewID": "UR81073155",
+      "Content": "hotel five minute walk bahn station square handy concert olympic stadium bahn line exploring city enjoy walking reach zoological gardens afield reichstag difficulty hotel situated quietish street near gay district hotel staff friendly spacious clean requested balcony extra charge breakfast buffet style choice offer recomend hotel stay berlin",
+      "Date": "2010-09-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Monchengladbach, Germany",
+      "Title": "\u201cLovely Street and good position,but some poor service\u201d",
+      "Author": "dempster_lisa_j",
+      "ReviewID": "UR65345071",
+      "Content": "service desk staff particular act lack attention detail caused undue particularly concerning payment protocol removal personal baggage read own paper totally locked own booking sheet unacceptable move own mistake unacceptable shampoo staff close shampoo bottle moving unacceptable demanding payment phone call totally unacceptable lovely position excellent actions staff left sour taste travellers mouth",
+      "Date": "2010-05-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "bolton",
+      "Title": "\u201cOh My God What a DUMP, (4 Star never)\u201d",
+      "Author": "xxxdarren",
+      "ReviewID": "UR57897228",
+      "Content": "stayed hotel coudnt design hotel normally stay hotel found reception staff unfriendly night staff training speak guests worm bath stank wee breakfast german standard british hotels internet free except hotel charge 2000 euro night expensive wasnt fast told reception reaction oh ok manager ans told time look told return thats fine 4 star hotel enjoy stay question hotel read guest feedback learn",
+      "Date": "2010-03-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Artim",
+    "HotelURL": "/ShowUserReviews-g187323-d282647-Reviews-Hotel_Artim-Berlin.html",
+    "Price": "$97 - $223*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Fuggerstrasse 20</span>, <span class=\"locality\"><span property=\"v:postal-code\">10777</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "282647",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/75/f1/75f14138ba8f43e48c4cd501fece0c4110large.jpg"
+  }
+}

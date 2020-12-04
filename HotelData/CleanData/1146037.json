@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Dublin, Ireland", "Title": "\u201cExcellent\u201d", "Author": "brian-o-mac", "ReviewID": "UR137724060", "Content": "7 nights madrid staying grand via clean comfortable comes kitchen air con plus location excellent eastern grand via close staff spoke english issues none tips metro airport stop outside hotel line 10 plaza de espana recommend absolutely", "Date": "2012-08-20 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Miami", "Title": "\u201cGreat Location, great price!\u201d", "Author": "adrianal", "ReviewID": "UR137465867", "Content": "booked hotel christmas holiday 2010 hotel located heart madrid near main shops theaters hotel clean service size plus kitchenette save money snacks modern fancy hotel clean spacious location", "Date": "2012-08-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "New Delhi, India", "Title": "\u201cConvenience, Location, Good Price.\u201d", "Author": "thesharma", "ReviewID": "UR133733500", "Content": "stayed couple friends 2012 true online description intact positves excellent location walking distance kings palace madrid temple 5 minutes nearest metro station loads eateries grocery stores fast checkin clean fridge available positives free wifi homely decor polite staff loft facing tired property overall location reasonably priced madrid standards", "Date": "2012-07-08 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "chicago", "Title": "\u201cEnjoy the great location, adequate comfort and low price\u201d", "Author": "jengel56", "ReviewID": "UR131089617", "Content": "pleasantly surprised pay 60 euros expectations marriot pay 200 euros enjoy comfort plenty desk sofa tiny functional kitchen excellent bathroom hot shower close metro short walk plaza callao puerta del sol restaurants bars shopping abundance tapas bars starbucks door cinema dunkin donuts lots restaurants five minute walk 7th floor perfectly quiet breakfast included cares tapas bar store little breakfast 5 eurothe internet costs 6 euros day fast price five star", "Date": "2012-06-01 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Madrid", "Title": "\u201cI got eaten alive by bed bugs !\u201d", "Author": "fran15111", "ReviewID": "UR124767792", "Content": "stayed 10 nights recently positives location centre madrid negative legs red marks awaken scratching skin legs bedding extremely supermarket sprayed bedding didn\u00b4t security keys mentioned reviews fashioned left reception tell hotel key checking name questioning defect whatever key", "Date": "2012-02-18 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Bras\u00edlia", "Title": "\u201cGood location and adequate comfort\u201d", "Author": "FelipeRocha", "ReviewID": "UR122778415", "Content": "location positive aspect hotel near royal palace gran via metro station square ahead hotel despite looking luxury immaculate services positives comfort adequate bed pillows bigger average air condition double window closed due noise street closed hear streets kitchen helps lot buy supermarkets bathroom desk staff gentle despite little unprepared negatives breakfast included hotel snack bar recommend breakfast buy supermarkets eat recommend corte service adequate hotel little", "Date": "2012-01-08 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "New Delhi, India", "Title": "\u201cWarm, comfortable self sufficient stay at this aprtment hotel...\u201d", "Author": "Himjal", "ReviewID": "UR122097731", "Content": "staff hotel friendly warm helping self sufficient reqd amenitites wonderful time service staff speak english centraly located madrid metro station close bus stands nearby value money recomend definitely stay happen visit madrid", "Date": "2011-12-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Lisbon, Portugal", "Title": "\u201cGood Location, Friendly Hotel\u201d", "Author": "AnaMaria-Lisbon", "ReviewID": "UR83924165", "Content": "hotel located center madrid close gran via near royal palace stayed triple wich clean nice staff helpful barajas airport metro nuevos ministerios station line 8 station change metro line 10 puerta del sur exit plaza de espa\u00f1a station hotel metro station", "Date": "2010-10-18 00:00:00"}], "HotelInfo": {"Name": "Espahotel Plaza de Espana", "HotelURL": "/ShowUserReviews-g187514-d1146037-Reviews-Espahotel_Plaza_de_Espana-Madrid.html", "Price": "$64 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Plaza De Espana, 7</span>, <span class=\"locality\"><span property=\"v:postal-code\">28008</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "1146037", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0a/51/0a51dd9c6599dc912fdd2847da8010156large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dublin, Ireland",
+      "Title": "\u201cExcellent\u201d",
+      "Author": "brian-o-mac",
+      "ReviewID": "UR137724060",
+      "Content": "7 nights madrid staying grand via clean comfortable comes kitchen air con plus location excellent eastern grand via close staff spoke english issues none tips metro airport stop outside hotel line 10 plaza de espana recommend absolutely",
+      "Date": "2012-08-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Miami",
+      "Title": "\u201cGreat Location, great price!\u201d",
+      "Author": "adrianal",
+      "ReviewID": "UR137465867",
+      "Content": "booked hotel christmas holiday 2010 hotel located heart madrid near main shops theaters hotel clean service size plus kitchenette save money snacks modern fancy hotel clean spacious location",
+      "Date": "2012-08-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "New Delhi, India",
+      "Title": "\u201cConvenience, Location, Good Price.\u201d",
+      "Author": "thesharma",
+      "ReviewID": "UR133733500",
+      "Content": "stayed couple friends 2012 true online description intact positves excellent location walking distance kings palace madrid temple 5 minutes nearest metro station loads eateries grocery stores fast checkin clean fridge available positives free wifi homely decor polite staff loft facing tired property overall location reasonably priced madrid standards",
+      "Date": "2012-07-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "chicago",
+      "Title": "\u201cEnjoy the great location, adequate comfort and low price\u201d",
+      "Author": "jengel56",
+      "ReviewID": "UR131089617",
+      "Content": "pleasantly surprised pay 60 euros expectations marriot pay 200 euros enjoy comfort plenty desk sofa tiny functional kitchen excellent bathroom hot shower close metro short walk plaza callao puerta del sol restaurants bars shopping abundance tapas bars starbucks door cinema dunkin donuts lots restaurants five minute walk 7th floor perfectly quiet breakfast included cares tapas bar store little breakfast 5 eurothe internet costs 6 euros day fast price five star",
+      "Date": "2012-06-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Madrid",
+      "Title": "\u201cI got eaten alive by bed bugs !\u201d",
+      "Author": "fran15111",
+      "ReviewID": "UR124767792",
+      "Content": "stayed 10 nights recently positives location centre madrid negative legs red marks awaken scratching skin legs bedding extremely supermarket sprayed bedding didn\u00b4t security keys mentioned reviews fashioned left reception tell hotel key checking name questioning defect whatever key",
+      "Date": "2012-02-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bras\u00edlia",
+      "Title": "\u201cGood location and adequate comfort\u201d",
+      "Author": "FelipeRocha",
+      "ReviewID": "UR122778415",
+      "Content": "location positive aspect hotel near royal palace gran via metro station square ahead hotel despite looking luxury immaculate services positives comfort adequate bed pillows bigger average air condition double window closed due noise street closed hear streets kitchen helps lot buy supermarkets bathroom desk staff gentle despite little unprepared negatives breakfast included hotel snack bar recommend breakfast buy supermarkets eat recommend corte service adequate hotel little",
+      "Date": "2012-01-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "New Delhi, India",
+      "Title": "\u201cWarm, comfortable self sufficient stay at this aprtment hotel...\u201d",
+      "Author": "Himjal",
+      "ReviewID": "UR122097731",
+      "Content": "staff hotel friendly warm helping self sufficient reqd amenitites wonderful time service staff speak english centraly located madrid metro station close bus stands nearby value money recomend definitely stay happen visit madrid",
+      "Date": "2011-12-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Lisbon, Portugal",
+      "Title": "\u201cGood Location, Friendly Hotel\u201d",
+      "Author": "AnaMaria-Lisbon",
+      "ReviewID": "UR83924165",
+      "Content": "hotel located center madrid close gran via near royal palace stayed triple wich clean nice staff helpful barajas airport metro nuevos ministerios station line 8 station change metro line 10 puerta del sur exit plaza de espa\u00f1a station hotel metro station",
+      "Date": "2010-10-18 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Espahotel Plaza de Espana",
+    "HotelURL": "/ShowUserReviews-g187514-d1146037-Reviews-Espahotel_Plaza_de_Espana-Madrid.html",
+    "Price": "$64 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Plaza De Espana, 7</span>, <span class=\"locality\"><span property=\"v:postal-code\">28008</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "1146037",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0a/51/0a51dd9c6599dc912fdd2847da8010156large.jpg"
+  }
+}

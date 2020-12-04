@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Dublin", "Title": "\u201cExcellent hotel in great location\u201d", "Author": "MRTL", "ReviewID": "UR128222384", "Content": "stayed 50th birthday trip friends stayed apartment nearby arrived late host welcoming checked fuss hotel simple smart spotlessly clean comfortable main toilet separate shower bed comfortable day night buffet available suits independent traveller hotel excellent quiet location sights easy reach bright lights 10 mins walk lots lovely little dutch pubs nearby safe night pass door hour day night thoroughly recommend hotel looking clean simple hotel location provides flexible dining stairs canalside houses bit steep seen worse", "Date": "2012-04-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Cedar Knolls, New Jersey", "Title": "\u201cYou cannot find a better location at the price !\u201d", "Author": "gbzia", "ReviewID": "UR123989175", "Content": "location location near tram canal hermitage near tempo walking rijksmuseum tram ride anne frank haus canal house flight steep steps lift facing canal own bath breakfast adequate cold items host friendly cat private residence ground floor happen stay inexpensive parking nearby parked pr includes round trip tram ticket check info", "Date": "2012-02-01 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Takoma Park, Maryland", "Title": "\u201cLoved it, very quirky and charming\u201d", "Author": "kizzy85", "ReviewID": "UR85986997", "Content": "stayed hotel september 2 2010 bunch friends college thoroughly enjoyed 10 third floor remaining split 12 14 meaning upstairs fourth floor ourselves pretty cool convenient shower toilet fourth floor common separate easily business youve amount research amsterdam anticipate steep stairways buildings exception stairways narrow consideration youre planning bringing bulky luggage 24hour selfservice snacks lovely touch nice fill complimentary breakfast money day city manager nice knowledgeable sweet oldies tunes playing breakfast hours day left friends left camera manager call taxi driver warning allergies andor disdain friendly haired cats frequently found reception warning coming amsterdam party nonstop drugs signs posted hotel dont plan bringing fun home coffeeshops hotel excellent location easy town tram waterlooplein station nearby walking recommend travelers looking home base step hostel dont require frills upscale hotel cant wait visit amsterdam definitely stay", "Date": "2010-11-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Denver", "Title": "\u201cNice Hotel in charming canal house\u201d", "Author": "susch", "ReviewID": "UR81546472", "Content": "amsterdam times stay hotel definitely stay flight arrived morning able check 900am wait 200pm hotels nice treat nap day enjoy city feeling zombie triple clean nice separate bathrooms lovely view gardens window mentioned stairways definitely steep narrow challenge luggage snack center available clock nice plus location easy walk", "Date": "2010-09-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Portland, OR", "Title": "\u201cGreat find\u201d", "Author": "rachelanne_10", "ReviewID": "UR77401486", "Content": "living amsterdam month hotel nights stay searched online found hotel enormously pleased spacious people clean quiet breakfast bar cozy overall feel able leave extra bag venturing paris days planning nights easily able nights highly recommended", "Date": "2010-08-29 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Brisbane", "Title": "\u201cgreat little hotel... if only there weren't bed bugs\u201d", "Author": "KKE87", "ReviewID": "UR72752806", "Content": "stayed nights hotel front desk reasonably gruff unfriendly helpful snack bar downstairs biscuits fruit tea coffee juice bread salami cheese breakfast lunch near reviews mentioned stairs extremely steep struggle pack light carrying suitcases extremely frightening slept quiet partner woke bed bug bites 20 hope fixed sooner hotel overall decent bed bugs", "Date": "2010-07-28 00:00:00"}], "HotelInfo": {"Name": "Hotel Adolesce", "HotelURL": "/ShowUserReviews-g188590-d628404-Reviews-Hotel_Adolesce-Amsterdam_Noord_Holland.html", "Price": "$106 - $191*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Nieuwe Keizersgracht 26</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1018 DS</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>", "HotelID": "628404", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/1e/7e/1e7e2f0fd48e7df08ced1b54deb6ab0c6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dublin",
+      "Title": "\u201cExcellent hotel in great location\u201d",
+      "Author": "MRTL",
+      "ReviewID": "UR128222384",
+      "Content": "stayed 50th birthday trip friends stayed apartment nearby arrived late host welcoming checked fuss hotel simple smart spotlessly clean comfortable main toilet separate shower bed comfortable day night buffet available suits independent traveller hotel excellent quiet location sights easy reach bright lights 10 mins walk lots lovely little dutch pubs nearby safe night pass door hour day night thoroughly recommend hotel looking clean simple hotel location provides flexible dining stairs canalside houses bit steep seen worse",
+      "Date": "2012-04-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Cedar Knolls, New Jersey",
+      "Title": "\u201cYou cannot find a better location at the price !\u201d",
+      "Author": "gbzia",
+      "ReviewID": "UR123989175",
+      "Content": "location location near tram canal hermitage near tempo walking rijksmuseum tram ride anne frank haus canal house flight steep steps lift facing canal own bath breakfast adequate cold items host friendly cat private residence ground floor happen stay inexpensive parking nearby parked pr includes round trip tram ticket check info",
+      "Date": "2012-02-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Takoma Park, Maryland",
+      "Title": "\u201cLoved it, very quirky and charming\u201d",
+      "Author": "kizzy85",
+      "ReviewID": "UR85986997",
+      "Content": "stayed hotel september 2 2010 bunch friends college thoroughly enjoyed 10 third floor remaining split 12 14 meaning upstairs fourth floor ourselves pretty cool convenient shower toilet fourth floor common separate easily business youve amount research amsterdam anticipate steep stairways buildings exception stairways narrow consideration youre planning bringing bulky luggage 24hour selfservice snacks lovely touch nice fill complimentary breakfast money day city manager nice knowledgeable sweet oldies tunes playing breakfast hours day left friends left camera manager call taxi driver warning allergies andor disdain friendly haired cats frequently found reception warning coming amsterdam party nonstop drugs signs posted hotel dont plan bringing fun home coffeeshops hotel excellent location easy town tram waterlooplein station nearby walking recommend travelers looking home base step hostel dont require frills upscale hotel cant wait visit amsterdam definitely stay",
+      "Date": "2010-11-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Denver",
+      "Title": "\u201cNice Hotel in charming canal house\u201d",
+      "Author": "susch",
+      "ReviewID": "UR81546472",
+      "Content": "amsterdam times stay hotel definitely stay flight arrived morning able check 900am wait 200pm hotels nice treat nap day enjoy city feeling zombie triple clean nice separate bathrooms lovely view gardens window mentioned stairways definitely steep narrow challenge luggage snack center available clock nice plus location easy walk",
+      "Date": "2010-09-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Portland, OR",
+      "Title": "\u201cGreat find\u201d",
+      "Author": "rachelanne_10",
+      "ReviewID": "UR77401486",
+      "Content": "living amsterdam month hotel nights stay searched online found hotel enormously pleased spacious people clean quiet breakfast bar cozy overall feel able leave extra bag venturing paris days planning nights easily able nights highly recommended",
+      "Date": "2010-08-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Brisbane",
+      "Title": "\u201cgreat little hotel... if only there weren't bed bugs\u201d",
+      "Author": "KKE87",
+      "ReviewID": "UR72752806",
+      "Content": "stayed nights hotel front desk reasonably gruff unfriendly helpful snack bar downstairs biscuits fruit tea coffee juice bread salami cheese breakfast lunch near reviews mentioned stairs extremely steep struggle pack light carrying suitcases extremely frightening slept quiet partner woke bed bug bites 20 hope fixed sooner hotel overall decent bed bugs",
+      "Date": "2010-07-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Adolesce",
+    "HotelURL": "/ShowUserReviews-g188590-d628404-Reviews-Hotel_Adolesce-Amsterdam_Noord_Holland.html",
+    "Price": "$106 - $191*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Nieuwe Keizersgracht 26</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1018 DS</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>",
+    "HotelID": "628404",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/1e/7e/1e7e2f0fd48e7df08ced1b54deb6ab0c6large.jpg"
+  }
+}
