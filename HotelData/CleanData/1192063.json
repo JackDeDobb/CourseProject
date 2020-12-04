@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Brusque, SC", "Title": "\u201cWell located, clean and safe\u201d", "Author": "bigbenbr", "ReviewID": "UR120092201", "Content": "ive stayed hostal twice highly recommend convenient location price cleanliness friendly staff features theres breakfast nice breakfast 5 euros sanchez nice couple run youll feel home", "Date": "2011-11-02 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "UK", "Title": "\u201cVery clean, comfortable and safe hostal. Highly recommended.\u201d", "Author": "MeinenPeter", "ReviewID": "UR118356341", "Content": "arrived door hostal round judge book cover look round greeted extremely friendly hostess welcoming perfectly hostel ensuite immaculately clean cleaned day fresh towels wouldnt normally expect ac little balcony location easy walk metro lots little bars 5 minutes main shopping el corte ingles etc excellent value", "Date": "2011-09-20 00:00:00"}], "HotelInfo": {"Name": "Hostal del Pez Azul", "HotelURL": "/ShowUserReviews-g187514-d1192063-Reviews-Hostal_del_Pez_Azul-Madrid.html", "Price": "$46 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Pez, 9</span>, <span class=\"locality\"><span property=\"v:postal-code\">28004</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "1192063", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7e/c1/7ec15c41c06bf79aba3164cb1880805a5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Brusque, SC",
+      "Title": "\u201cWell located, clean and safe\u201d",
+      "Author": "bigbenbr",
+      "ReviewID": "UR120092201",
+      "Content": "ive stayed hostal twice highly recommend convenient location price cleanliness friendly staff features theres breakfast nice breakfast 5 euros sanchez nice couple run youll feel home",
+      "Date": "2011-11-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "UK",
+      "Title": "\u201cVery clean, comfortable and safe hostal. Highly recommended.\u201d",
+      "Author": "MeinenPeter",
+      "ReviewID": "UR118356341",
+      "Content": "arrived door hostal round judge book cover look round greeted extremely friendly hostess welcoming perfectly hostel ensuite immaculately clean cleaned day fresh towels wouldnt normally expect ac little balcony location easy walk metro lots little bars 5 minutes main shopping el corte ingles etc excellent value",
+      "Date": "2011-09-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hostal del Pez Azul",
+    "HotelURL": "/ShowUserReviews-g187514-d1192063-Reviews-Hostal_del_Pez_Azul-Madrid.html",
+    "Price": "$46 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Pez, 9</span>, <span class=\"locality\"><span property=\"v:postal-code\">28004</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "1192063",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7e/c1/7ec15c41c06bf79aba3164cb1880805a5large.jpg"
+  }
+}

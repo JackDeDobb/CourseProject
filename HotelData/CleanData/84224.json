@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Bangalore, India", "Title": "\u201cNever again...\u201d", "Author": "scorp2", "ReviewID": "UR125758340", "Content": "actually listen people snoring chance getting sleep listen tv own pathetic 10 crt based tv grainy picture quality walk floor feel listen ambience refurbished dull atmosphere charges 5 usd run laundry anyway", "Date": "2012-03-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Irvington, NJ", "Title": "\u201cnot bad for the price\u201d", "Author": "asabidavis", "ReviewID": "UR83968723", "Content": "stayed week la church clean service iron hot grade wish pots cooking price fine return davis", "Date": "2010-10-18 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Philadelphia, Pennsylvania, USA", "Title": "\u201cReally Really crappy room\u201d", "Author": "aaa201076", "ReviewID": "UR78061032", "Content": "lovely stay staybridge suites moved cheapest motel lighting terrible 5 lights 3 white 2 yellow picked hotel due kitchen utensils unclean sink clog drain dishwasher beds bad squeaky pulled covers reason box spring mattress looked picked garbage stains mattress threw 100 times carpet looked unclean told wife renovation sign hotel wall renovated tv drawer looked garage sale water bathroom sink stinky close lax airport 7 mins flat wouldnt recommend", "Date": "2010-09-02 00:00:00"}], "HotelInfo": {"Name": "Extended StayAmerica Los Angeles-LAX Airport", "HotelURL": "/ShowUserReviews-g32655-d84224-Reviews-Extended_StayAmerica_Los_Angeles_LAX_Airport-Los_Angeles_California.html", "Price": "$109 - $137*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">6531 South Sepulveda Boulevard</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">90045</span></span> </span> </span> </address>", "HotelID": "84224", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5c/ac/5cacf2185612b06995cd4a33fa67f1074large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Bangalore, India",
+      "Title": "\u201cNever again...\u201d",
+      "Author": "scorp2",
+      "ReviewID": "UR125758340",
+      "Content": "actually listen people snoring chance getting sleep listen tv own pathetic 10 crt based tv grainy picture quality walk floor feel listen ambience refurbished dull atmosphere charges 5 usd run laundry anyway",
+      "Date": "2012-03-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Irvington, NJ",
+      "Title": "\u201cnot bad for the price\u201d",
+      "Author": "asabidavis",
+      "ReviewID": "UR83968723",
+      "Content": "stayed week la church clean service iron hot grade wish pots cooking price fine return davis",
+      "Date": "2010-10-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Philadelphia, Pennsylvania, USA",
+      "Title": "\u201cReally Really crappy room\u201d",
+      "Author": "aaa201076",
+      "ReviewID": "UR78061032",
+      "Content": "lovely stay staybridge suites moved cheapest motel lighting terrible 5 lights 3 white 2 yellow picked hotel due kitchen utensils unclean sink clog drain dishwasher beds bad squeaky pulled covers reason box spring mattress looked picked garbage stains mattress threw 100 times carpet looked unclean told wife renovation sign hotel wall renovated tv drawer looked garage sale water bathroom sink stinky close lax airport 7 mins flat wouldnt recommend",
+      "Date": "2010-09-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Extended StayAmerica Los Angeles-LAX Airport",
+    "HotelURL": "/ShowUserReviews-g32655-d84224-Reviews-Extended_StayAmerica_Los_Angeles_LAX_Airport-Los_Angeles_California.html",
+    "Price": "$109 - $137*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">6531 South Sepulveda Boulevard</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">90045</span></span> </span> </span> </address>",
+    "HotelID": "84224",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5c/ac/5cacf2185612b06995cd4a33fa67f1074large.jpg"
+  }
+}

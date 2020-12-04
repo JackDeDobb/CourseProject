@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Vadodara, India", "Title": "\u201cAvoid this place.\u201d", "Author": "ambadkar", "ReviewID": "UR123796005", "Content": "caught dead hotel forced stay unusual tourist rush hotels overbooked beds horrible tv outdated 20 crt type bathrooms cramped stinking furniture broken clothes hangers pathetic iron breakfast horrible hotel sealed", "Date": "2012-01-29 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "bandar abbas", "Title": "\u201cpoor hotel but not so bad for budget\u201d", "Author": "BandarAbbasHamid", "ReviewID": "UR121188540", "Content": "location breakfast lunch iranian indian night club hotelits low restaurant families wait restaurant breakfast lunch offer singles freinds tripthe pool roof dirty water cant", "Date": "2011-11-29 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Shiraz", "Title": "\u201cWorst experience at hotel and is it a brothel?\u201d", "Author": "A D", "ReviewID": "UR120791956", "Content": "uncaring hotel dismissive staff filthy bitten overnight seek medical advice food appauling appeared rented hourly basis casual liaisons couples guest 17 son horrified solicited", "Date": "2011-11-19 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Philadelphia, Pennsylvania", "Title": "\u201cTerrible\u201d", "Author": "Morgan0000", "ReviewID": "UR88607046", "Content": "people registrar rude entire hotel terrible condition temperature warmer body toilets avery healthy person flush pump flush handle rapid time flush cleaning crew nice people tried help am people reception desk rude uncooperative dishonest noise called disco tech night food kitchen wil able eat terrible experince except meeting house keeping guys wonderful people am trying help situation beyound abilities fix", "Date": "2010-11-30 00:00:00"}], "HotelInfo": {"Name": "Semiramis Hotel", "HotelURL": "/ShowUserReviews-g295424-d536111-Reviews-Semiramis_Hotel-Dubai.html", "Price": "$61 - $121*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Al Rigga Rd</span> | <span class=\"extended-address\">PO Box 81282</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span> <span property=\"v:postal-code\">81282</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "536111", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/75/21/7521850f81bc130f14df37541ff5a6962large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Vadodara, India",
+      "Title": "\u201cAvoid this place.\u201d",
+      "Author": "ambadkar",
+      "ReviewID": "UR123796005",
+      "Content": "caught dead hotel forced stay unusual tourist rush hotels overbooked beds horrible tv outdated 20 crt type bathrooms cramped stinking furniture broken clothes hangers pathetic iron breakfast horrible hotel sealed",
+      "Date": "2012-01-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "bandar abbas",
+      "Title": "\u201cpoor hotel but not so bad for budget\u201d",
+      "Author": "BandarAbbasHamid",
+      "ReviewID": "UR121188540",
+      "Content": "location breakfast lunch iranian indian night club hotelits low restaurant families wait restaurant breakfast lunch offer singles freinds tripthe pool roof dirty water cant",
+      "Date": "2011-11-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Shiraz",
+      "Title": "\u201cWorst experience at hotel and is it a brothel?\u201d",
+      "Author": "A D",
+      "ReviewID": "UR120791956",
+      "Content": "uncaring hotel dismissive staff filthy bitten overnight seek medical advice food appauling appeared rented hourly basis casual liaisons couples guest 17 son horrified solicited",
+      "Date": "2011-11-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Philadelphia, Pennsylvania",
+      "Title": "\u201cTerrible\u201d",
+      "Author": "Morgan0000",
+      "ReviewID": "UR88607046",
+      "Content": "people registrar rude entire hotel terrible condition temperature warmer body toilets avery healthy person flush pump flush handle rapid time flush cleaning crew nice people tried help am people reception desk rude uncooperative dishonest noise called disco tech night food kitchen wil able eat terrible experince except meeting house keeping guys wonderful people am trying help situation beyound abilities fix",
+      "Date": "2010-11-30 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Semiramis Hotel",
+    "HotelURL": "/ShowUserReviews-g295424-d536111-Reviews-Semiramis_Hotel-Dubai.html",
+    "Price": "$61 - $121*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Al Rigga Rd</span> | <span class=\"extended-address\">PO Box 81282</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span> <span property=\"v:postal-code\">81282</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "536111",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/75/21/7521850f81bc130f14df37541ff5a6962large.jpg"
+  }
+}

@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Amsterdam, The Netherlands", "Title": "\u201cVery nice location and homely stay\u201d", "Author": "gekkie76", "ReviewID": "UR85203562", "Content": "pleasant stay hotel location chic neighbourhood historic building hotel located nice comfortable breakfast nice morning berlin time stay nice hotel", "Date": "2010-10-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "London Soho", "Title": "\u201cMy Berlin Pied-a terre\u201d", "Author": "peterzan", "ReviewID": "UR66409134", "Content": "staying nth time 23rd june home berlin stay 3 weeks summer asparagus time theatres holiday regular original flat lovely house ornamental courtyard architectural details wherever look breakfast huge table conversation usually flourishes privacy respected am completely home family rely own mobile messaging loads friends stayed recommendation savignyplatz station road kurfuerstendamm round corner ideal position", "Date": "2010-06-04 00:00:00"}], "HotelInfo": {"Name": "Hotel-Pension Waizenegger", "HotelURL": "/ShowUserReviews-g187323-d529506-Reviews-Hotel_Pension_Waizenegger-Berlin.html", "Price": "$42 - $95*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Mommsenstrasse 6</span>, <span class=\"locality\"><span property=\"v:postal-code\">10629</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "529506", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2d/15/2d1565ef04e7cc57f0f533db85f07b601large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Amsterdam, The Netherlands",
+      "Title": "\u201cVery nice location and homely stay\u201d",
+      "Author": "gekkie76",
+      "ReviewID": "UR85203562",
+      "Content": "pleasant stay hotel location chic neighbourhood historic building hotel located nice comfortable breakfast nice morning berlin time stay nice hotel",
+      "Date": "2010-10-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London Soho",
+      "Title": "\u201cMy Berlin Pied-a terre\u201d",
+      "Author": "peterzan",
+      "ReviewID": "UR66409134",
+      "Content": "staying nth time 23rd june home berlin stay 3 weeks summer asparagus time theatres holiday regular original flat lovely house ornamental courtyard architectural details wherever look breakfast huge table conversation usually flourishes privacy respected am completely home family rely own mobile messaging loads friends stayed recommendation savignyplatz station road kurfuerstendamm round corner ideal position",
+      "Date": "2010-06-04 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel-Pension Waizenegger",
+    "HotelURL": "/ShowUserReviews-g187323-d529506-Reviews-Hotel_Pension_Waizenegger-Berlin.html",
+    "Price": "$42 - $95*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Mommsenstrasse 6</span>, <span class=\"locality\"><span property=\"v:postal-code\">10629</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "529506",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2d/15/2d1565ef04e7cc57f0f533db85f07b601large.jpg"
+  }
+}

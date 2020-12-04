@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Nis, Serbia", "Title": "\u201cNice staff\u201d", "Author": "vichy003", "ReviewID": "UR100392275", "Content": "location hard car metro easy station metro anagnina central city main cant pass zebra quick terrible traffic friendly staff offer lift metro station nice lots informations sightseeing hotel nice inside yourself coffe morning includes fridges cooking device dont people woudnt stay residence gra 21", "Date": "2011-03-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 2.0}, "AuthorLocation": "Barcelos, Portugal", "Title": "\u201cResidence GRA 21\u201d", "Author": "jbrunopt", "ReviewID": "UR86806709", "Content": "stayed hotel june 2009 nice hotel pros air conditioner tv satellite staff cons location hard hotel foot try hotel follow busy road near anagnina metro station restaurant bar bad finding hotel contact hotel staff pick metro station friendly", "Date": "2010-11-12 00:00:00"}], "HotelInfo": {"Name": "Residence G.R.A. 21", "HotelURL": "/ShowUserReviews-g187791-d633115-Reviews-Residence_G_R_A_21-Rome_Lazio.html", "Price": "$66 - $132*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Anagnina 21</span> | <span class=\"extended-address\">Grande Raccordo Anulare</span>, <span class=\"locality\"><span property=\"v:postal-code\">00173</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "633115", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5a/65/5a65aa8cd3f25147b171bf2471222cac1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Nis, Serbia",
+      "Title": "\u201cNice staff\u201d",
+      "Author": "vichy003",
+      "ReviewID": "UR100392275",
+      "Content": "location hard car metro easy station metro anagnina central city main cant pass zebra quick terrible traffic friendly staff offer lift metro station nice lots informations sightseeing hotel nice inside yourself coffe morning includes fridges cooking device dont people woudnt stay residence gra 21",
+      "Date": "2011-03-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Barcelos, Portugal",
+      "Title": "\u201cResidence GRA 21\u201d",
+      "Author": "jbrunopt",
+      "ReviewID": "UR86806709",
+      "Content": "stayed hotel june 2009 nice hotel pros air conditioner tv satellite staff cons location hard hotel foot try hotel follow busy road near anagnina metro station restaurant bar bad finding hotel contact hotel staff pick metro station friendly",
+      "Date": "2010-11-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Residence G.R.A. 21",
+    "HotelURL": "/ShowUserReviews-g187791-d633115-Reviews-Residence_G_R_A_21-Rome_Lazio.html",
+    "Price": "$66 - $132*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Anagnina 21</span> | <span class=\"extended-address\">Grande Raccordo Anulare</span>, <span class=\"locality\"><span property=\"v:postal-code\">00173</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "633115",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/5a/65/5a65aa8cd3f25147b171bf2471222cac1large.jpg"
+  }
+}

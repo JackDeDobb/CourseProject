@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Puerto Rico", "Title": "\u201cClean, quiet and cheap.\u201d", "Author": "Mommyoftwins01", "ReviewID": "UR127334709", "Content": "husband 3 kids week easter weekend peaceful quiet metro peace found staff friendly cottage 1 nice clean kitchen fridge electric stove bedrooms 1 bed 2 twin beds 2 bathrooms tv plenty channels nice balcony table chairs theres barbecue pit outside cottage beach steps pools nice kids loved beach complaint wifi signal poor told sit playground reception wifi signal instead sit inside reception closest desk barely fair signal lot restaurants bakery loved", "Date": "2012-04-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Lunenburg, Canada", "Title": "\u201cClean and 5 steps to the feeling of sand between your toes!!\u201d", "Author": "inspector63", "ReviewID": "UR125718490", "Content": "stayed nights road trip porte del sol unit 31 closest beach obvioulsy carribean waters modest ground floor unit decorated 70s style clean cement porch unit vacant unit consisted 3 living kitchen fridge 4 burner stove provide pots utensils basicbut frozen ice ice cube trays treat cold refreshment day touring pull seat kitchen island bar stools sip wicker couch chair channel selection table chairs bedroom consisted clean sheets dresser closet single double bed window ac air conditioning bedroom bathroomthe shower ritz location phenomenal quiet set little sand beach wi fi main office dish soap books sun tan sun preference barbecue pit outside beside unit tables chairs outside cabana overall enjoyed stay staff friendly price provided options meals basic necessities recommend villa family couples friends kill pocket book walk kinds restaurants liquor stores supermarkets convenient", "Date": "2012-03-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "San Juan, Puerto Rico", "Title": "\u201cNot bad at all!!!\u201d", "Author": "Lici3", "ReviewID": "UR124924909", "Content": "afraid reading reviews paid advance choice cancel glad nice luxury clean kitchen balcony oceanfront beautiful sunset", "Date": "2012-02-20 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "puerto rico", "Title": "\u201cGreat location but no sleep\u201d", "Author": "monicacaguas", "ReviewID": "UR122895962", "Content": "location near restaurants jet ski rentals beautiful beach outdoors bad rustic okay intolerable noisy dont stay unless third floor isolated parking front dont exist dont book shame okay clean okay sleep cars parked front apartments alarms beeping people talking using stairs upper floor furniture etc administration care issues plan parking windows sounds carpets avoid furniture moving sounds", "Date": "2012-01-10 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Burlington, Vermont", "Title": "\u201cVery simple, don't expect much!\u201d", "Author": "cleeamon", "ReviewID": "UR122529921", "Content": "trick little town dont holidays town closed hotel door villa antonio happening definitely loud holiday inn restaurants rincon overall descent hotel bland little town", "Date": "2012-01-04 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Maryland", "Title": "\u201cBe Careful Which Room You Book\u201d", "Author": "Beachy722Maryland", "ReviewID": "UR57014967", "Content": "arrived hotel name parador sign villa antonio little confusing finding written review stayed hotel disappointing experience husband booked five nights hotel february expecting fancy left lot desired provided floor twostory building repeat hotel guests called cell block appeared guests friendly helpful hotel advertised bedroom apartment soon walked apartment mistake plain usually dont worry clean nicely appointed dont spend time bit claustrophobic guests expect amenities kitchen screened porch kitchen cabinets disrepair plates cups utensils kitchen air conditioned window unit stuck kitchen hot air blowing office explained happy hotel office staff nicer situation expect issue pay night cancel reservation remainder week offered bedroom apartment resort suite price paid suite basic nicer nice view ocean wonderful porch sit eat relax watching surf suite available night booked hotel door moved morning beach nice narrow washed front hotel sunsets location awesome", "Date": "2010-02-24 00:00:00"}], "HotelInfo": {"Name": "Parador Villa Antonio", "HotelURL": "/ShowUserReviews-g264369-d151971-Reviews-Parador_Villa_Antonio-Rincon_Puerto_Rico.html", "Price": "$92 - $157*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Road 115, Km 12.3</span>, <span class=\"locality\"><span property=\"v:locality\">Rincon</span> <span property=\"v:postal-code\">00677</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>", "HotelID": "151971", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/83/6e/836e4fda7d1c27e8ddefa01c90a80b334large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Puerto Rico",
+      "Title": "\u201cClean, quiet and cheap.\u201d",
+      "Author": "Mommyoftwins01",
+      "ReviewID": "UR127334709",
+      "Content": "husband 3 kids week easter weekend peaceful quiet metro peace found staff friendly cottage 1 nice clean kitchen fridge electric stove bedrooms 1 bed 2 twin beds 2 bathrooms tv plenty channels nice balcony table chairs theres barbecue pit outside cottage beach steps pools nice kids loved beach complaint wifi signal poor told sit playground reception wifi signal instead sit inside reception closest desk barely fair signal lot restaurants bakery loved",
+      "Date": "2012-04-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Lunenburg, Canada",
+      "Title": "\u201cClean and 5 steps to the feeling of sand between your toes!!\u201d",
+      "Author": "inspector63",
+      "ReviewID": "UR125718490",
+      "Content": "stayed nights road trip porte del sol unit 31 closest beach obvioulsy carribean waters modest ground floor unit decorated 70s style clean cement porch unit vacant unit consisted 3 living kitchen fridge 4 burner stove provide pots utensils basicbut frozen ice ice cube trays treat cold refreshment day touring pull seat kitchen island bar stools sip wicker couch chair channel selection table chairs bedroom consisted clean sheets dresser closet single double bed window ac air conditioning bedroom bathroomthe shower ritz location phenomenal quiet set little sand beach wi fi main office dish soap books sun tan sun preference barbecue pit outside beside unit tables chairs outside cabana overall enjoyed stay staff friendly price provided options meals basic necessities recommend villa family couples friends kill pocket book walk kinds restaurants liquor stores supermarkets convenient",
+      "Date": "2012-03-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "San Juan, Puerto Rico",
+      "Title": "\u201cNot bad at all!!!\u201d",
+      "Author": "Lici3",
+      "ReviewID": "UR124924909",
+      "Content": "afraid reading reviews paid advance choice cancel glad nice luxury clean kitchen balcony oceanfront beautiful sunset",
+      "Date": "2012-02-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "puerto rico",
+      "Title": "\u201cGreat location but no sleep\u201d",
+      "Author": "monicacaguas",
+      "ReviewID": "UR122895962",
+      "Content": "location near restaurants jet ski rentals beautiful beach outdoors bad rustic okay intolerable noisy dont stay unless third floor isolated parking front dont exist dont book shame okay clean okay sleep cars parked front apartments alarms beeping people talking using stairs upper floor furniture etc administration care issues plan parking windows sounds carpets avoid furniture moving sounds",
+      "Date": "2012-01-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Burlington, Vermont",
+      "Title": "\u201cVery simple, don't expect much!\u201d",
+      "Author": "cleeamon",
+      "ReviewID": "UR122529921",
+      "Content": "trick little town dont holidays town closed hotel door villa antonio happening definitely loud holiday inn restaurants rincon overall descent hotel bland little town",
+      "Date": "2012-01-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Maryland",
+      "Title": "\u201cBe Careful Which Room You Book\u201d",
+      "Author": "Beachy722Maryland",
+      "ReviewID": "UR57014967",
+      "Content": "arrived hotel name parador sign villa antonio little confusing finding written review stayed hotel disappointing experience husband booked five nights hotel february expecting fancy left lot desired provided floor twostory building repeat hotel guests called cell block appeared guests friendly helpful hotel advertised bedroom apartment soon walked apartment mistake plain usually dont worry clean nicely appointed dont spend time bit claustrophobic guests expect amenities kitchen screened porch kitchen cabinets disrepair plates cups utensils kitchen air conditioned window unit stuck kitchen hot air blowing office explained happy hotel office staff nicer situation expect issue pay night cancel reservation remainder week offered bedroom apartment resort suite price paid suite basic nicer nice view ocean wonderful porch sit eat relax watching surf suite available night booked hotel door moved morning beach nice narrow washed front hotel sunsets location awesome",
+      "Date": "2010-02-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Parador Villa Antonio",
+    "HotelURL": "/ShowUserReviews-g264369-d151971-Reviews-Parador_Villa_Antonio-Rincon_Puerto_Rico.html",
+    "Price": "$92 - $157*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Road 115, Km 12.3</span>, <span class=\"locality\"><span property=\"v:locality\">Rincon</span> <span property=\"v:postal-code\">00677</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>",
+    "HotelID": "151971",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/83/6e/836e4fda7d1c27e8ddefa01c90a80b334large.jpg"
+  }
+}

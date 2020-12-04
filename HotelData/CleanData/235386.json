@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Marysville, Ohio", "Title": "\u201cExtrodinary Service\u201d", "Author": "Pat1478", "ReviewID": "UR124490825", "Content": "stayed wheeler mansion january 2012 attention recieved time placed reservation stephanie time departed outstanding stephanie met checked house call cab dinner cab service able 30 minutes stephanie beyond drove downtown restaurant breakfast morning prompt pleasant spent time day sitting fire living reading setting wonderful reccomend mansion looking unique expirience staying chicago", "Date": "2012-02-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Hinsdale, Illinois", "Title": "\u201cJust one night stay but we will be back!\u201d", "Author": "hinsdalecouple", "ReviewID": "UR122418810", "Content": "dont start review saying yes stephanie doll beyond gals front desk helpful friendly husband didnt expect reviews online hit miss die cant believe hadnt heard stayed suite third floor private fireplace honestly evening getaway exactly beautifully decorated meticulous artwork wall spotless bathroom absolutely gorgeous hotel breathtaking clean breakfast delicious huge dinner highly recommended folks enjoy", "Date": "2012-01-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Aalter, Belgium", "Title": "\u201cExcellent and friendly staff!\u201d", "Author": "VeerleVds", "ReviewID": "UR120281834", "Content": "welcomed stephanie lu friendly offered excellent service nicest girl met helps questions arranges smile accommodated boutique hotel located walking distance mc unique experience", "Date": "2011-11-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Chicago, Illinois", "Title": "\u201cThis hotel is one of my favorites\u201d", "Author": "ShaiTown_10", "ReviewID": "UR72778955", "Content": "hotel beautiful botique hotel located walking distance mccormick museums michigan avenue shopping lake michigan spa bathroom appointed perfect romantic getaway business meeting mccormick impressed employees book dinner reservations stay hassle free beds fantastici staying private estate owned ralph lauren", "Date": "2010-07-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "NewYork, New York", "Title": "\u201celegant, charming, just the escape I/we needed\u201d", "Author": "customFITTtraining", "ReviewID": "UR55018724", "Content": "fitness sometimes simply peace quiet coupled elegance pampering didnt huge hotel atmosphere prefer scale establishment caters individual thats wheeler provided ideally located near mccormick commute stones throw beat breakfast delicious reminded trips europe ive referred friends wheeler hesitate stay time am town", "Date": "2010-02-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Los Angeles", "Title": "\u201cMy 2nd White Christmas at the Mansion!\u201d", "Author": "061210c", "ReviewID": "UR55009374", "Content": "wheeler mansion recommended 2 ago friend cozy maximum 10 special attention host holidays inside decorations rest welcome champagne glass pleased guests dinning talked happy guest return mansion", "Date": "2010-02-02 00:00:00"}], "HotelInfo": {"Name": "Wheeler Mansion", "HotelURL": "/ShowUserReviews-g35805-d235386-Reviews-Wheeler_Mansion-Chicago_Illinois.html", "Price": "$275 - $484*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2020 South Calumet Ave</span>, <span class=\"locality\"><span property=\"v:locality\">Chicago</span>, <span property=\"v:region\">IL</span> <span property=\"v:postal-code\">60616</span></span> </span> </span> </address>", "HotelID": "235386", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/48/85/ae/incredible-detail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Marysville, Ohio",
+      "Title": "\u201cExtrodinary Service\u201d",
+      "Author": "Pat1478",
+      "ReviewID": "UR124490825",
+      "Content": "stayed wheeler mansion january 2012 attention recieved time placed reservation stephanie time departed outstanding stephanie met checked house call cab dinner cab service able 30 minutes stephanie beyond drove downtown restaurant breakfast morning prompt pleasant spent time day sitting fire living reading setting wonderful reccomend mansion looking unique expirience staying chicago",
+      "Date": "2012-02-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Hinsdale, Illinois",
+      "Title": "\u201cJust one night stay but we will be back!\u201d",
+      "Author": "hinsdalecouple",
+      "ReviewID": "UR122418810",
+      "Content": "dont start review saying yes stephanie doll beyond gals front desk helpful friendly husband didnt expect reviews online hit miss die cant believe hadnt heard stayed suite third floor private fireplace honestly evening getaway exactly beautifully decorated meticulous artwork wall spotless bathroom absolutely gorgeous hotel breathtaking clean breakfast delicious huge dinner highly recommended folks enjoy",
+      "Date": "2012-01-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Aalter, Belgium",
+      "Title": "\u201cExcellent and friendly staff!\u201d",
+      "Author": "VeerleVds",
+      "ReviewID": "UR120281834",
+      "Content": "welcomed stephanie lu friendly offered excellent service nicest girl met helps questions arranges smile accommodated boutique hotel located walking distance mc unique experience",
+      "Date": "2011-11-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Chicago, Illinois",
+      "Title": "\u201cThis hotel is one of my favorites\u201d",
+      "Author": "ShaiTown_10",
+      "ReviewID": "UR72778955",
+      "Content": "hotel beautiful botique hotel located walking distance mccormick museums michigan avenue shopping lake michigan spa bathroom appointed perfect romantic getaway business meeting mccormick impressed employees book dinner reservations stay hassle free beds fantastici staying private estate owned ralph lauren",
+      "Date": "2010-07-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "NewYork, New York",
+      "Title": "\u201celegant, charming, just the escape I/we needed\u201d",
+      "Author": "customFITTtraining",
+      "ReviewID": "UR55018724",
+      "Content": "fitness sometimes simply peace quiet coupled elegance pampering didnt huge hotel atmosphere prefer scale establishment caters individual thats wheeler provided ideally located near mccormick commute stones throw beat breakfast delicious reminded trips europe ive referred friends wheeler hesitate stay time am town",
+      "Date": "2010-02-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Los Angeles",
+      "Title": "\u201cMy 2nd White Christmas at the Mansion!\u201d",
+      "Author": "061210c",
+      "ReviewID": "UR55009374",
+      "Content": "wheeler mansion recommended 2 ago friend cozy maximum 10 special attention host holidays inside decorations rest welcome champagne glass pleased guests dinning talked happy guest return mansion",
+      "Date": "2010-02-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Wheeler Mansion",
+    "HotelURL": "/ShowUserReviews-g35805-d235386-Reviews-Wheeler_Mansion-Chicago_Illinois.html",
+    "Price": "$275 - $484*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2020 South Calumet Ave</span>, <span class=\"locality\"><span property=\"v:locality\">Chicago</span>, <span property=\"v:region\">IL</span> <span property=\"v:postal-code\">60616</span></span> </span> </span> </address>",
+    "HotelID": "235386",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/48/85/ae/incredible-detail.jpg"
+  }
+}

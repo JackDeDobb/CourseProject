@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Dublin, Ireland", "Title": "\u201cExcellent service and location\u201d", "Author": "Gavin I", "ReviewID": "UR126632770", "Content": "recently stayed kingsway park hotel hotels ive stayed times london extremely impressed quality flat screen tv fridge designer style bathroom breakfast delicious located paddington station hotel jewel mixed bag hotel offerings nr neighbourhood hotels strength superior quality management offered kin consummate hotel professional excellent eye detail kin unfailingly polite diverse range customers pass busy central london establishment preoccupied listen feedback customers people london 1st time negatively influenced hotel stock expect historic buildings kingsway park space modern hotel chains staying superior guest house type kingsway actually enjoying bit london history kingsway offer charming friendly approach market crowded seedy unpersonal backstreet hotels management kingsway ahead competition strongly recommend kingsway park hotel offering friendly value welcome ideal location london", "Date": "2012-03-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Ryde, United Kingdom", "Title": "\u201cOvernight Stay\u201d", "Author": "William W", "ReviewID": "UR124804068", "Content": "staff greet pleasantly time london standards move ensuite location absolutely ideal near tube stations brisk 2 minute walk hyde park recommend hotel quick trip london theater visit sites", "Date": "2012-02-19 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Lancaster, United Kingdom", "Title": "\u201cEnjoyable stay\u201d", "Author": "JAFFA_56", "ReviewID": "UR120624146", "Content": "stayed kingsway night hesitation recommending hotel returning repeat visit manager offer sister hotel day preferred shown double happy night double bed exceptionally comfortable touches chocolates pillow welcomed bathroom reminded aeroplane cubicle shower adequate short stay shower lovely breakfast morning welcome surprise freshly cooked delicious size excellent wall mounted flatscreen tv liked balcony access pleasant staythe manager kin mannered obliging", "Date": "2011-11-15 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Rio de Janeiro, RJ", "Title": "\u201cSimply TERRIBLE!\u201d", "Author": "EduardoArraes", "ReviewID": "UR99507545", "Content": "worst hotel ive london summer broken ceiling fan couldnt sleep hot stayed beds fit walk luggages bed jump location close hyde park believe worth dont stay hotel ruin trip", "Date": "2011-03-09 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Golden Valley, Minnesota", "Title": "\u201cGood location but another hotel in the area would be a much better choice.\u201d", "Author": "trock001", "ReviewID": "UR86012287", "Content": "promised ground level assigned 3rd floor lift available stairs steep narrow telephone drawer connections shower pressure nonexistent mattress terrible manager refused description hotel wifi signal clerk suggested pirate signal door hotel manager technician wifi period 6 days signal nor indication technician coffee tea hot water pot similar priced hotels paddington suggest choice hotel recently painted flat screen tv signal ethnic restaurants reasonably priced london easy heathrow airport hotel via paddington station", "Date": "2010-11-04 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "perak", "Title": "\u201cUnpleasant stay only thing good is the location.\u201d", "Author": "cheahtravel", "ReviewID": "UR83287908", "Content": "stayed 2 nights theres lift hotel thankful groundfloor fair bit luggage cramped 2 double beds luggage parked whatever space hardly walking space 4 3 cups saucers tea tea coffee replenished day toilet burly person squeeze doorway sideways english breakfast mediocre staff unpleasant smiles greetings especially asian lady sulky aloof definitely hospitality service industry plus location near paddington station easily tube london", "Date": "2010-10-13 00:00:00"}], "HotelInfo": {"Name": "Kingsway Park Hotel", "HotelURL": "/ShowUserReviews-g186338-d192101-Reviews-Kingsway_Park_Hotel-London_England.html", "Price": "$123 - $1,58", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">139 Sussex Gardens</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">W2 2RX</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>", "HotelID": "2514256", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/78/dc/78dc4eac3fa4de048eb0f62f044f7d675large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dublin, Ireland",
+      "Title": "\u201cExcellent service and location\u201d",
+      "Author": "Gavin I",
+      "ReviewID": "UR126632770",
+      "Content": "recently stayed kingsway park hotel hotels ive stayed times london extremely impressed quality flat screen tv fridge designer style bathroom breakfast delicious located paddington station hotel jewel mixed bag hotel offerings nr neighbourhood hotels strength superior quality management offered kin consummate hotel professional excellent eye detail kin unfailingly polite diverse range customers pass busy central london establishment preoccupied listen feedback customers people london 1st time negatively influenced hotel stock expect historic buildings kingsway park space modern hotel chains staying superior guest house type kingsway actually enjoying bit london history kingsway offer charming friendly approach market crowded seedy unpersonal backstreet hotels management kingsway ahead competition strongly recommend kingsway park hotel offering friendly value welcome ideal location london",
+      "Date": "2012-03-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ryde, United Kingdom",
+      "Title": "\u201cOvernight Stay\u201d",
+      "Author": "William W",
+      "ReviewID": "UR124804068",
+      "Content": "staff greet pleasantly time london standards move ensuite location absolutely ideal near tube stations brisk 2 minute walk hyde park recommend hotel quick trip london theater visit sites",
+      "Date": "2012-02-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Lancaster, United Kingdom",
+      "Title": "\u201cEnjoyable stay\u201d",
+      "Author": "JAFFA_56",
+      "ReviewID": "UR120624146",
+      "Content": "stayed kingsway night hesitation recommending hotel returning repeat visit manager offer sister hotel day preferred shown double happy night double bed exceptionally comfortable touches chocolates pillow welcomed bathroom reminded aeroplane cubicle shower adequate short stay shower lovely breakfast morning welcome surprise freshly cooked delicious size excellent wall mounted flatscreen tv liked balcony access pleasant staythe manager kin mannered obliging",
+      "Date": "2011-11-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rio de Janeiro, RJ",
+      "Title": "\u201cSimply TERRIBLE!\u201d",
+      "Author": "EduardoArraes",
+      "ReviewID": "UR99507545",
+      "Content": "worst hotel ive london summer broken ceiling fan couldnt sleep hot stayed beds fit walk luggages bed jump location close hyde park believe worth dont stay hotel ruin trip",
+      "Date": "2011-03-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Golden Valley, Minnesota",
+      "Title": "\u201cGood location but another hotel in the area would be a much better choice.\u201d",
+      "Author": "trock001",
+      "ReviewID": "UR86012287",
+      "Content": "promised ground level assigned 3rd floor lift available stairs steep narrow telephone drawer connections shower pressure nonexistent mattress terrible manager refused description hotel wifi signal clerk suggested pirate signal door hotel manager technician wifi period 6 days signal nor indication technician coffee tea hot water pot similar priced hotels paddington suggest choice hotel recently painted flat screen tv signal ethnic restaurants reasonably priced london easy heathrow airport hotel via paddington station",
+      "Date": "2010-11-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "perak",
+      "Title": "\u201cUnpleasant stay only thing good is the location.\u201d",
+      "Author": "cheahtravel",
+      "ReviewID": "UR83287908",
+      "Content": "stayed 2 nights theres lift hotel thankful groundfloor fair bit luggage cramped 2 double beds luggage parked whatever space hardly walking space 4 3 cups saucers tea tea coffee replenished day toilet burly person squeeze doorway sideways english breakfast mediocre staff unpleasant smiles greetings especially asian lady sulky aloof definitely hospitality service industry plus location near paddington station easily tube london",
+      "Date": "2010-10-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Kingsway Park Hotel",
+    "HotelURL": "/ShowUserReviews-g186338-d192101-Reviews-Kingsway_Park_Hotel-London_England.html",
+    "Price": "$123 - $1,58",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">139 Sussex Gardens</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">W2 2RX</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>",
+    "HotelID": "2514256",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/78/dc/78dc4eac3fa4de048eb0f62f044f7d675large.jpg"
+  }
+}

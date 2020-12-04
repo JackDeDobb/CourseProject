@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Phoenix, Arizona", "Title": "\u201cSafe and central location, comfort, helpful owner\u201d", "Author": "Sil L", "ReviewID": "UR122875340", "Content": "family 4 2 adults stayed days dec 2528 happy close metro easy airport doubles private bathroom balconies facing street spacious clean comfortable jos\u00e9 wife friendly helpful questions regarding internet access directions time jos\u00e9 hadnt gotten wifi getting week dates dated computer able connect internet time negatives thin walls hear kids door elevators youll carry luggage flights stairs recommend value safe clean location", "Date": "2012-01-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Amsterdam, The Netherlands", "Title": "\u201cA friendly hotel, great location and greater prices!\u201d", "Author": "01brian01", "ReviewID": "UR106537249", "Content": "mention reasonable fault stay hotel staff friendly helpful hotel minutes tribunal metro easily walk onto gran via madrid single comfortable cleaned everyday friends balcony spacious computer personal 37 euros night youd daft stay else regrets whatsoever", "Date": "2011-05-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Rome, Italy", "Title": "\u201cperfect for urban travellers\u201d", "Author": "permanentvacationist", "ReviewID": "UR89579749", "Content": "ive stayed family run hostal night ive stayed 2 times week 3 renovation building finished looks hostal flats clean ive silent facing interior city madrid visit sleeping supposed facing reception desk bit noisy day time computers retro useful plug ethernet cable ethernet cable bring owns bed totally free internet service weve missed hotels price equivalent people warm shop downstairs nice restaurant 9 euro menus lunchs contemporary art building nice gallery museum street hostal chueca district shopping street close tribunal metro station 510 minutes gran via walking calle makes nice shops drawbacks elevator 2nd 3rd floor love sweet sound wooden stairs", "Date": "2010-12-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cBetter than any other hostals in Madrid\u201d", "Author": "SeeWhyZen", "ReviewID": "UR88787625", "Content": "girlfriend spain week stayed 3 nights hostal owners couple super friendly helpful location excellent metro stops tribunal alonso martinez equally close tribunal stop entire metro system 3 major train stations atocha principe pio chamartin direct train transfer airport hostel located 2nd 3rd fl equals 3rd 4th fl arrival tired course frustrated theres elevator building jose found upstairs luggage understood difficulty immediately speaking ran downstairs carried bags clean spacious bigger hotel stayed cities spain bathroom condition shortage thin walls stay loud guests third night perfect overall unbeatable value compared paid hotel spent double hotel barcelona length stay", "Date": "2010-12-01 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Valencia, Spain", "Title": "\u201cGreat value in a welcoming environment\u201d", "Author": "CFValencia", "ReviewID": "UR56850101", "Content": "spent weeks definitely recommend price owner fantastic accommodating ready answer questions five star hotel means pay location lots nightlife decent restaurants nearby", "Date": "2010-02-23 00:00:00"}], "HotelInfo": {"Name": "Hostal Benamar", "HotelURL": "/ShowUserReviews-g187514-d239430-Reviews-Hostal_Benamar-Madrid.html", "Price": "$73 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/San Mateo 20</span> | <span class=\"extended-address\">n&ordm; 20 2&ordm; y 3&ordm; Dcha.</span>, <span class=\"locality\"><span property=\"v:postal-code\">28004</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "239430", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/01/08/0f/recibidor.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Phoenix, Arizona",
+      "Title": "\u201cSafe and central location, comfort, helpful owner\u201d",
+      "Author": "Sil L",
+      "ReviewID": "UR122875340",
+      "Content": "family 4 2 adults stayed days dec 2528 happy close metro easy airport doubles private bathroom balconies facing street spacious clean comfortable jos\u00e9 wife friendly helpful questions regarding internet access directions time jos\u00e9 hadnt gotten wifi getting week dates dated computer able connect internet time negatives thin walls hear kids door elevators youll carry luggage flights stairs recommend value safe clean location",
+      "Date": "2012-01-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Amsterdam, The Netherlands",
+      "Title": "\u201cA friendly hotel, great location and greater prices!\u201d",
+      "Author": "01brian01",
+      "ReviewID": "UR106537249",
+      "Content": "mention reasonable fault stay hotel staff friendly helpful hotel minutes tribunal metro easily walk onto gran via madrid single comfortable cleaned everyday friends balcony spacious computer personal 37 euros night youd daft stay else regrets whatsoever",
+      "Date": "2011-05-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Rome, Italy",
+      "Title": "\u201cperfect for urban travellers\u201d",
+      "Author": "permanentvacationist",
+      "ReviewID": "UR89579749",
+      "Content": "ive stayed family run hostal night ive stayed 2 times week 3 renovation building finished looks hostal flats clean ive silent facing interior city madrid visit sleeping supposed facing reception desk bit noisy day time computers retro useful plug ethernet cable ethernet cable bring owns bed totally free internet service weve missed hotels price equivalent people warm shop downstairs nice restaurant 9 euro menus lunchs contemporary art building nice gallery museum street hostal chueca district shopping street close tribunal metro station 510 minutes gran via walking calle makes nice shops drawbacks elevator 2nd 3rd floor love sweet sound wooden stairs",
+      "Date": "2010-12-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cBetter than any other hostals in Madrid\u201d",
+      "Author": "SeeWhyZen",
+      "ReviewID": "UR88787625",
+      "Content": "girlfriend spain week stayed 3 nights hostal owners couple super friendly helpful location excellent metro stops tribunal alonso martinez equally close tribunal stop entire metro system 3 major train stations atocha principe pio chamartin direct train transfer airport hostel located 2nd 3rd fl equals 3rd 4th fl arrival tired course frustrated theres elevator building jose found upstairs luggage understood difficulty immediately speaking ran downstairs carried bags clean spacious bigger hotel stayed cities spain bathroom condition shortage thin walls stay loud guests third night perfect overall unbeatable value compared paid hotel spent double hotel barcelona length stay",
+      "Date": "2010-12-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Valencia, Spain",
+      "Title": "\u201cGreat value in a welcoming environment\u201d",
+      "Author": "CFValencia",
+      "ReviewID": "UR56850101",
+      "Content": "spent weeks definitely recommend price owner fantastic accommodating ready answer questions five star hotel means pay location lots nightlife decent restaurants nearby",
+      "Date": "2010-02-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hostal Benamar",
+    "HotelURL": "/ShowUserReviews-g187514-d239430-Reviews-Hostal_Benamar-Madrid.html",
+    "Price": "$73 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/San Mateo 20</span> | <span class=\"extended-address\">n&ordm; 20 2&ordm; y 3&ordm; Dcha.</span>, <span class=\"locality\"><span property=\"v:postal-code\">28004</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "239430",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/01/08/0f/recibidor.jpg"
+  }
+}

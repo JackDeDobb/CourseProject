@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Oxford, United Kingdom", "Title": "\u201cIf you don't want to sleep much go to M68\u201d", "Author": "Moonbabyxox", "ReviewID": "UR100202551", "Content": "chose hotel location stayed 34 nights clean bed broken light bulbs ceiling blinking annoyingly bathroom attached walk corridor clean chance sleep 7 am cos pub downstairs serve breakfast 7 am play music noise building heard door etc allow smoking bathroom downstairs smells hotel including pleasant staff isnt professional friendly", "Date": "2011-03-14 00:00:00"}], "HotelInfo": {"Name": "Hotel M68", "HotelURL": "/ShowUserReviews-g187323-d1222646-Reviews-Hotel_M68-Berlin.html", "Price": "$55 - $96*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Mauerstrase 68</span>, <span class=\"locality\"><span property=\"v:postal-code\">10117</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "1222646", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/33/77/337733d0f829a129afeeff16bf9eee755large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Oxford, United Kingdom",
+      "Title": "\u201cIf you don't want to sleep much go to M68\u201d",
+      "Author": "Moonbabyxox",
+      "ReviewID": "UR100202551",
+      "Content": "chose hotel location stayed 34 nights clean bed broken light bulbs ceiling blinking annoyingly bathroom attached walk corridor clean chance sleep 7 am cos pub downstairs serve breakfast 7 am play music noise building heard door etc allow smoking bathroom downstairs smells hotel including pleasant staff isnt professional friendly",
+      "Date": "2011-03-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel M68",
+    "HotelURL": "/ShowUserReviews-g187323-d1222646-Reviews-Hotel_M68-Berlin.html",
+    "Price": "$55 - $96*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Mauerstrase 68</span>, <span class=\"locality\"><span property=\"v:postal-code\">10117</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "1222646",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/33/77/337733d0f829a129afeeff16bf9eee755large.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "New York City", "Title": "\u201cAYOR- At Your Own Risk -Very Dangerous Area\u201d", "Author": "David L", "ReviewID": "UR128056756", "Content": "wonderful hotel nice upscale neighborhood santurce puerto rico san juans metropolitan ordinarily circumstances recommend hotel wholeheartedly past weeks criminal activity increased included countless armed robberies occur night day hotel security staff totally own current crime wave puerto rico local police force helpless possess tools andor financing properly patrol police streets count police hotel security staff protect please please please walk outside hotel avoid night entirely past weeks attacks escalated entire families held brazen robbers steal cellphones car keys hence cars wallets purses jewelry valuables", "Date": "2012-04-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Rostock, Germany", "Title": "\u201cFriendly and clean\u201d", "Author": "Fordie84", "ReviewID": "UR98377677", "Content": "simple clean lot space modest price balcony view sea portion car park view fridge table chairs eat tv plenty space clothes safe ours didn\u00e2\u00b4t airconditioning people reception friendly helpful quiet safe overall i\u00e2\u00b4d recommend you\u00e2\u00b4re looking cheap comfortable", "Date": "2011-02-28 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Dominican Republic", "Title": "\u201cThe best inexpensive choice in San Juan\u201d", "Author": "inasetec", "ReviewID": "UR69243055", "Content": "hotel medical visit friend recommend affordable priced hotel middle miramar san juan ponce ave fernandez ave transportation neighborhood service dont expect plus service resort nor jacuzzi gym travel budget clean sleep shower", "Date": "2010-06-30 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Isabela", "Title": "\u201cGreat hotel for a great value at a great spot!!\u201d", "Author": "Anaition", "ReviewID": "UR59075207", "Content": "stayed week price perfect location comfortable included microwave fridge theres supermarket walking distance theres movie theater pharmacies lots eat walking distance public transportation bus 50 cents couple minutes youre smack middle san juan lots taxies dont bus itll cost 12 hotel isnt modernlooking clean comfortable fridge microwave staff friendly price location parking affordable id recommend whos looking visit san juan price theres pool view isnt ive mentioned specially cuz youll hanging san juan day top hotel spectacular view el condado", "Date": "2010-03-20 00:00:00"}], "HotelInfo": {"Name": "Olimpo Court Hotel", "HotelURL": "/ShowUserReviews-g147320-d251394-Reviews-Olimpo_Court_Hotel-San_Juan_Puerto_Rico.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">603 Miramar Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">San Juan</span> <span property=\"v:postal-code\">00907</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>", "HotelID": "251394", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/0b/eb/56/olimpo-court-building.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "New York City",
+      "Title": "\u201cAYOR- At Your Own Risk -Very Dangerous Area\u201d",
+      "Author": "David L",
+      "ReviewID": "UR128056756",
+      "Content": "wonderful hotel nice upscale neighborhood santurce puerto rico san juans metropolitan ordinarily circumstances recommend hotel wholeheartedly past weeks criminal activity increased included countless armed robberies occur night day hotel security staff totally own current crime wave puerto rico local police force helpless possess tools andor financing properly patrol police streets count police hotel security staff protect please please please walk outside hotel avoid night entirely past weeks attacks escalated entire families held brazen robbers steal cellphones car keys hence cars wallets purses jewelry valuables",
+      "Date": "2012-04-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Rostock, Germany",
+      "Title": "\u201cFriendly and clean\u201d",
+      "Author": "Fordie84",
+      "ReviewID": "UR98377677",
+      "Content": "simple clean lot space modest price balcony view sea portion car park view fridge table chairs eat tv plenty space clothes safe ours didn\u00e2\u00b4t airconditioning people reception friendly helpful quiet safe overall i\u00e2\u00b4d recommend you\u00e2\u00b4re looking cheap comfortable",
+      "Date": "2011-02-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dominican Republic",
+      "Title": "\u201cThe best inexpensive choice in San Juan\u201d",
+      "Author": "inasetec",
+      "ReviewID": "UR69243055",
+      "Content": "hotel medical visit friend recommend affordable priced hotel middle miramar san juan ponce ave fernandez ave transportation neighborhood service dont expect plus service resort nor jacuzzi gym travel budget clean sleep shower",
+      "Date": "2010-06-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Isabela",
+      "Title": "\u201cGreat hotel for a great value at a great spot!!\u201d",
+      "Author": "Anaition",
+      "ReviewID": "UR59075207",
+      "Content": "stayed week price perfect location comfortable included microwave fridge theres supermarket walking distance theres movie theater pharmacies lots eat walking distance public transportation bus 50 cents couple minutes youre smack middle san juan lots taxies dont bus itll cost 12 hotel isnt modernlooking clean comfortable fridge microwave staff friendly price location parking affordable id recommend whos looking visit san juan price theres pool view isnt ive mentioned specially cuz youll hanging san juan day top hotel spectacular view el condado",
+      "Date": "2010-03-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Olimpo Court Hotel",
+    "HotelURL": "/ShowUserReviews-g147320-d251394-Reviews-Olimpo_Court_Hotel-San_Juan_Puerto_Rico.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">603 Miramar Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">San Juan</span> <span property=\"v:postal-code\">00907</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>",
+    "HotelID": "251394",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/0b/eb/56/olimpo-court-building.jpg"
+  }
+}

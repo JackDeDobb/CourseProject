@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Edinburgh, United Kingdom", "Title": "\u201cWorst Hotel ever\u201d", "Author": "Andrew H", "ReviewID": "UR121325877", "Content": "isnt hotel series apartments sex trade workers ground floor directly premises offering live gang bang sex surrounded similar premises sex shops looks sort charges hour curtains falling lights didnt carpets covered suspicious stains photos website look hotel arrived late night stay left following morning dispite paid 4 nights staff rude unhelpful wife upset arrived tears return airport loads dodgy people walking streets didnt feel safe staff refused refund company booked kindly offered vouchers proper hotels price location wish id pictures couldnt pay stay stay", "Date": "2011-12-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Perth, Australia", "Title": "\u201cDecent hotel in a good area\u201d", "Author": "missteeLondon", "ReviewID": "UR71063436", "Content": "ignored hotel peep am glad value beaten close main train station 2 blocks luis vuitton burberry starbucks etc stayed weekend heard peep downstairs 5th floor min 25c night aircon definitely minus fan internet floors abit dated price plenty bathroom stuff normally stay hotel ibis cupboards service girl reception checked friendly told reception 24 hours", "Date": "2010-07-15 00:00:00"}], "HotelInfo": {"Name": "Amadeus am Kurfuerstendamm", "HotelURL": "/ShowUserReviews-g187323-d623242-Reviews-Amadeus_am_Kurfuerstendamm-Berlin.html", "Price": "$55 - $130*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Sybel Strasse 14</span>, <span class=\"locality\"><span property=\"v:postal-code\">10629</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "623242", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/2d/b5/aa/vierbettzimmer.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Edinburgh, United Kingdom",
+      "Title": "\u201cWorst Hotel ever\u201d",
+      "Author": "Andrew H",
+      "ReviewID": "UR121325877",
+      "Content": "isnt hotel series apartments sex trade workers ground floor directly premises offering live gang bang sex surrounded similar premises sex shops looks sort charges hour curtains falling lights didnt carpets covered suspicious stains photos website look hotel arrived late night stay left following morning dispite paid 4 nights staff rude unhelpful wife upset arrived tears return airport loads dodgy people walking streets didnt feel safe staff refused refund company booked kindly offered vouchers proper hotels price location wish id pictures couldnt pay stay stay",
+      "Date": "2011-12-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Perth, Australia",
+      "Title": "\u201cDecent hotel in a good area\u201d",
+      "Author": "missteeLondon",
+      "ReviewID": "UR71063436",
+      "Content": "ignored hotel peep am glad value beaten close main train station 2 blocks luis vuitton burberry starbucks etc stayed weekend heard peep downstairs 5th floor min 25c night aircon definitely minus fan internet floors abit dated price plenty bathroom stuff normally stay hotel ibis cupboards service girl reception checked friendly told reception 24 hours",
+      "Date": "2010-07-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Amadeus am Kurfuerstendamm",
+    "HotelURL": "/ShowUserReviews-g187323-d623242-Reviews-Amadeus_am_Kurfuerstendamm-Berlin.html",
+    "Price": "$55 - $130*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Sybel Strasse 14</span>, <span class=\"locality\"><span property=\"v:postal-code\">10629</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "623242",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/2d/b5/aa/vierbettzimmer.jpg"
+  }
+}

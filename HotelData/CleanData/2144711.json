@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Bologna, Italy", "Title": "\u201cNo for 4 star hotel\u201d", "Author": "ivan u", "ReviewID": "UR126979696", "Content": "3 days hotel 03 dont change towels day hearing water fall near al lights main lamp lights lamps dont directly wasnt totally finished bide water shower pretty service bad reception buy roma pass didnt near tourist near underground colusseum recommend hotel sorry bad", "Date": "2012-03-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "london", "Title": "\u201cGood location\u201d", "Author": "tom228", "ReviewID": "UR126448441", "Content": "regret booking hotel location happy minor negatives summed below value money positives lovely modern bed furniture surprisingly spacious unexpectedly own private balcony modern bathroom awesome location staff reception breakfast faultless negatives bathroom shower head height shower attachment meaning hold shower head throughout shower breakfast wasnt unfair describe bad reviewer below fresh fruit overall pleased hotel", "Date": "2012-03-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "nottingham", "Title": "\u201cWould definitely go back.\u201d", "Author": "nottinghamsally", "ReviewID": "UR125541262", "Content": "thoroughly enjoyed stay hotel definitely return hotel clean smartly decorated perfect location centre rome little bit tight city centre hotel hadnt expecting spacious smartly decorated flat screen tv safe free wifi comfy bed breakfasts standard continental breakfast enjoyed ive seen reviews havent everybodys tastes chef cook huge plate bacon eggs set day time staff met spoke helpful friendly genuinly time experience hotel", "Date": "2012-03-03 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "wales", "Title": "\u201cDont go here\u201d", "Author": "dystrad1", "ReviewID": "UR125172413", "Content": "booked hotel via hotel club start vibes bad replied emails arrived transfered hotel told night hotel told booked duration stay rome dont shabby treatment happy lie", "Date": "2012-02-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Oxford, United Kingdom", "Title": "\u201cGreat hotel, not perfect but much better than most at price\u201d", "Author": "banana9181", "ReviewID": "UR124004659", "Content": "hotel clean nice sized refreshing decor free wifi nice bathroom convenient location near metro termini station stay lot hotels price italy id happily stay breakfast average special fine hence 4 rating 5 otherwise hotel price central rome", "Date": "2012-02-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Moscow", "Title": "\u201cBest hotel experience in Rome\u201d", "Author": "TOTHEALEX", "ReviewID": "UR120489698", "Content": "trip wife stayed 3 hotels rome altogether excellent location close train station main attractions wonderfully decorated inside free internet breakfast italian standards helpful polite service quiet excellent view roofs painted immaculate white comfortable topnotch hotel comparison 3star hotels stayed afterwards funny booked advance paying price hotel 3star counterparts please forget top floor roof people dont option view city nice wouldve 5 experience improved breakfast pastries little vegetables fruit", "Date": "2011-11-12 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Naples, Italy", "Title": "\u201cGreat up and coming hotel in central location\u201d", "Author": "Sophia C", "ReviewID": "UR118374055", "Content": "stayed nights hotel september spacious clean modern finish location superb five minutes forum bit collesseum cavour tube 1 minute walk super market 1 min wireless essential trip rome free super quick breakfast ordinary facilities lacking eg mini bar service management told introducing features hotel staff friendly helpful reccommend exploring streets cavour hotel restaurants etc fantastic", "Date": "2011-09-20 00:00:00"}], "HotelInfo": {"Name": "Hotel Koru Roma", "HotelURL": "/ShowUserReviews-g187791-d2144711-Reviews-Hotel_Koru_Roma-Rome_Lazio.html", "Price": "$170 - $339*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Cavour 185</span>, <span class=\"locality\"><span property=\"v:postal-code\">00184</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "2144711", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/62/4c/624c2dcc15e9359d7f6aeb67b9a42af22large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bologna, Italy",
+      "Title": "\u201cNo for 4 star hotel\u201d",
+      "Author": "ivan u",
+      "ReviewID": "UR126979696",
+      "Content": "3 days hotel 03 dont change towels day hearing water fall near al lights main lamp lights lamps dont directly wasnt totally finished bide water shower pretty service bad reception buy roma pass didnt near tourist near underground colusseum recommend hotel sorry bad",
+      "Date": "2012-03-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "london",
+      "Title": "\u201cGood location\u201d",
+      "Author": "tom228",
+      "ReviewID": "UR126448441",
+      "Content": "regret booking hotel location happy minor negatives summed below value money positives lovely modern bed furniture surprisingly spacious unexpectedly own private balcony modern bathroom awesome location staff reception breakfast faultless negatives bathroom shower head height shower attachment meaning hold shower head throughout shower breakfast wasnt unfair describe bad reviewer below fresh fruit overall pleased hotel",
+      "Date": "2012-03-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "nottingham",
+      "Title": "\u201cWould definitely go back.\u201d",
+      "Author": "nottinghamsally",
+      "ReviewID": "UR125541262",
+      "Content": "thoroughly enjoyed stay hotel definitely return hotel clean smartly decorated perfect location centre rome little bit tight city centre hotel hadnt expecting spacious smartly decorated flat screen tv safe free wifi comfy bed breakfasts standard continental breakfast enjoyed ive seen reviews havent everybodys tastes chef cook huge plate bacon eggs set day time staff met spoke helpful friendly genuinly time experience hotel",
+      "Date": "2012-03-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "wales",
+      "Title": "\u201cDont go here\u201d",
+      "Author": "dystrad1",
+      "ReviewID": "UR125172413",
+      "Content": "booked hotel via hotel club start vibes bad replied emails arrived transfered hotel told night hotel told booked duration stay rome dont shabby treatment happy lie",
+      "Date": "2012-02-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Oxford, United Kingdom",
+      "Title": "\u201cGreat hotel, not perfect but much better than most at price\u201d",
+      "Author": "banana9181",
+      "ReviewID": "UR124004659",
+      "Content": "hotel clean nice sized refreshing decor free wifi nice bathroom convenient location near metro termini station stay lot hotels price italy id happily stay breakfast average special fine hence 4 rating 5 otherwise hotel price central rome",
+      "Date": "2012-02-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Moscow",
+      "Title": "\u201cBest hotel experience in Rome\u201d",
+      "Author": "TOTHEALEX",
+      "ReviewID": "UR120489698",
+      "Content": "trip wife stayed 3 hotels rome altogether excellent location close train station main attractions wonderfully decorated inside free internet breakfast italian standards helpful polite service quiet excellent view roofs painted immaculate white comfortable topnotch hotel comparison 3star hotels stayed afterwards funny booked advance paying price hotel 3star counterparts please forget top floor roof people dont option view city nice wouldve 5 experience improved breakfast pastries little vegetables fruit",
+      "Date": "2011-11-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Naples, Italy",
+      "Title": "\u201cGreat up and coming hotel in central location\u201d",
+      "Author": "Sophia C",
+      "ReviewID": "UR118374055",
+      "Content": "stayed nights hotel september spacious clean modern finish location superb five minutes forum bit collesseum cavour tube 1 minute walk super market 1 min wireless essential trip rome free super quick breakfast ordinary facilities lacking eg mini bar service management told introducing features hotel staff friendly helpful reccommend exploring streets cavour hotel restaurants etc fantastic",
+      "Date": "2011-09-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Koru Roma",
+    "HotelURL": "/ShowUserReviews-g187791-d2144711-Reviews-Hotel_Koru_Roma-Rome_Lazio.html",
+    "Price": "$170 - $339*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Cavour 185</span>, <span class=\"locality\"><span property=\"v:postal-code\">00184</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "2144711",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/62/4c/624c2dcc15e9359d7f6aeb67b9a42af22large.jpg"
+  }
+}

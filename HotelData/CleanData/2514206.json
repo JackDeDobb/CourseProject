@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Portland, Oregon", "Title": "\u201c2 stars says enough!\u201d", "Author": "Kevin C", "ReviewID": "UR122985779", "Content": "hotel nice employees friendly reason 2 stars 4 people breakfast paid ridiculous 1100 glass orange juice oatmeal orange juice party extravegant dont prices breakfast menu piece advice dont eat hotel local cafe", "Date": "2012-01-12 00:00:00"}], "HotelInfo": {"Name": "The St. Regis Club at the Essex House, New York", "HotelURL": "/ShowUserReviews-g60763-d239836-Reviews-The_St_Regis_Club_at_the_Essex_House_New_York-New_York_City_New_York.html", "Price": "$319 - $649*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">170 Central Park South</span>, <span class=\"locality\"><span property=\"v:locality\">New York City</span>, <span property=\"v:region\">NY</span> <span property=\"v:postal-code\">10019</span></span> </span> </span> </address>", "HotelID": "2514206", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2d/8d/2d8d0dc655ea9dcd1feaa91cfc5b1ce51large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Portland, Oregon",
+      "Title": "\u201c2 stars says enough!\u201d",
+      "Author": "Kevin C",
+      "ReviewID": "UR122985779",
+      "Content": "hotel nice employees friendly reason 2 stars 4 people breakfast paid ridiculous 1100 glass orange juice oatmeal orange juice party extravegant dont prices breakfast menu piece advice dont eat hotel local cafe",
+      "Date": "2012-01-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "The St. Regis Club at the Essex House, New York",
+    "HotelURL": "/ShowUserReviews-g60763-d239836-Reviews-The_St_Regis_Club_at_the_Essex_House_New_York-New_York_City_New_York.html",
+    "Price": "$319 - $649*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">170 Central Park South</span>, <span class=\"locality\"><span property=\"v:locality\">New York City</span>, <span property=\"v:region\">NY</span> <span property=\"v:postal-code\">10019</span></span> </span> </span> </address>",
+    "HotelID": "2514206",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2d/8d/2d8d0dc655ea9dcd1feaa91cfc5b1ce51large.jpg"
+  }
+}

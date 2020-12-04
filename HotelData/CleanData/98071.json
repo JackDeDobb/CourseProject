@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "south yorkshire", "Title": "\u201cMemphis downtown\u201d", "Author": "illustratedmum33", "ReviewID": "UR124248807", "Content": "aware bad appears undesirables live motel vacation al night pacing doors etc looks bad advise walk night toilet blood bath plug meaning enjoy nice soak day plus cleaning ladies friendly bed size comfy overall advise stay choose motel motel 6 graceland betterwe chose saty downtown 1 night moved onto 6 graceland", "Date": "2012-02-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Sarnia, Ontario", "Title": "\u201cVERY no frills, friendly staff, reasonably priced and good location\u201d", "Author": "SunSeekerRon", "ReviewID": "UR110253334", "Content": "stayed 3 days late occupying ground floor motel 6 frills primarily hotels proximity downtown memphis approximately 35 kms frills means microwave fridge hair dryer shampoo iron able acquire iron blow dryer leaving 500 deposit clean bright hotel fenced probably discourage suspected drug dealers periodically lingered nearby bothered parking lit ample street japanese food reasonably priced walgreens king nearby walking distance day cjs recommended hotel staff breakfast destination food ok waitress terrible delivering meal definately wouldnt recommend restaurant hotel tornado warnings feel safe based concrete structure hotel hotel staff little help regards safety recommendations youre looking location value youre prepared frills await youll fine smart regards personal safety minimizing walking night particularly", "Date": "2011-05-28 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Athens, Georgia", "Title": "\u201cCheap but not scummy\u201d", "Author": "fvlb", "ReviewID": "UR91749664", "Content": "hubby stayed watch lose liberty bowl check easy nice stayed worse 50 price location 10 tip short cab ride beale street close didnt bed bugs type bugs stolen shower nice surprise pressure hair dryers fancy soaps motel 5 deposit rent hair dryer front desk real complaint stunk stale cigarettes bothered allergies am rarely exposed smoke benedryl feather pillows service continental breakfast hate cheap clean crash night suit wifi fee hbo free", "Date": "2011-01-04 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Los Angeles, California", "Title": "\u201cBED BUGS !!!!\u201d", "Author": "dinagl", "ReviewID": "UR79818319", "Content": "dont stay motel bed bugs sleep morning bites arm 29 bites am desperate road visit cousin florida ugly bites luggage possibility bugs suitcase reported via mail motel 6 answer isolate clothes wash hot water ha ha ha am thinking seriously la am afraid cousin home bed bugs mention smelling bad carpet stains dont", "Date": "2010-09-16 00:00:00"}], "HotelInfo": {"Name": "Motel 6 Memphis Downtown", "HotelURL": "/ShowUserReviews-g55197-d98071-Reviews-Motel_6_Memphis_Downtown-Memphis_Tennessee.html", "Price": "$46 - $66*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">210 South Pauline Street - I-240 at Union Avenue/Madison Avenue, Exit #30</span>, <span class=\"locality\"><span property=\"v:locality\">Memphis</span>, <span property=\"v:region\">TN</span> <span property=\"v:postal-code\">38104</span></span> (Formerly Red Roof Inn)</span> </span> </address>", "HotelID": "98071", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f6/ce/f6cec6bb037957ffff506ab759d5c2d01large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "south yorkshire",
+      "Title": "\u201cMemphis downtown\u201d",
+      "Author": "illustratedmum33",
+      "ReviewID": "UR124248807",
+      "Content": "aware bad appears undesirables live motel vacation al night pacing doors etc looks bad advise walk night toilet blood bath plug meaning enjoy nice soak day plus cleaning ladies friendly bed size comfy overall advise stay choose motel motel 6 graceland betterwe chose saty downtown 1 night moved onto 6 graceland",
+      "Date": "2012-02-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Sarnia, Ontario",
+      "Title": "\u201cVERY no frills, friendly staff, reasonably priced and good location\u201d",
+      "Author": "SunSeekerRon",
+      "ReviewID": "UR110253334",
+      "Content": "stayed 3 days late occupying ground floor motel 6 frills primarily hotels proximity downtown memphis approximately 35 kms frills means microwave fridge hair dryer shampoo iron able acquire iron blow dryer leaving 500 deposit clean bright hotel fenced probably discourage suspected drug dealers periodically lingered nearby bothered parking lit ample street japanese food reasonably priced walgreens king nearby walking distance day cjs recommended hotel staff breakfast destination food ok waitress terrible delivering meal definately wouldnt recommend restaurant hotel tornado warnings feel safe based concrete structure hotel hotel staff little help regards safety recommendations youre looking location value youre prepared frills await youll fine smart regards personal safety minimizing walking night particularly",
+      "Date": "2011-05-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Athens, Georgia",
+      "Title": "\u201cCheap but not scummy\u201d",
+      "Author": "fvlb",
+      "ReviewID": "UR91749664",
+      "Content": "hubby stayed watch lose liberty bowl check easy nice stayed worse 50 price location 10 tip short cab ride beale street close didnt bed bugs type bugs stolen shower nice surprise pressure hair dryers fancy soaps motel 5 deposit rent hair dryer front desk real complaint stunk stale cigarettes bothered allergies am rarely exposed smoke benedryl feather pillows service continental breakfast hate cheap clean crash night suit wifi fee hbo free",
+      "Date": "2011-01-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Los Angeles, California",
+      "Title": "\u201cBED BUGS !!!!\u201d",
+      "Author": "dinagl",
+      "ReviewID": "UR79818319",
+      "Content": "dont stay motel bed bugs sleep morning bites arm 29 bites am desperate road visit cousin florida ugly bites luggage possibility bugs suitcase reported via mail motel 6 answer isolate clothes wash hot water ha ha ha am thinking seriously la am afraid cousin home bed bugs mention smelling bad carpet stains dont",
+      "Date": "2010-09-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Motel 6 Memphis Downtown",
+    "HotelURL": "/ShowUserReviews-g55197-d98071-Reviews-Motel_6_Memphis_Downtown-Memphis_Tennessee.html",
+    "Price": "$46 - $66*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">210 South Pauline Street - I-240 at Union Avenue/Madison Avenue, Exit #30</span>, <span class=\"locality\"><span property=\"v:locality\">Memphis</span>, <span property=\"v:region\">TN</span> <span property=\"v:postal-code\">38104</span></span> (Formerly Red Roof Inn)</span> </span> </address>",
+    "HotelID": "98071",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f6/ce/f6cec6bb037957ffff506ab759d5c2d01large.jpg"
+  }
+}

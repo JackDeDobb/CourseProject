@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Baltimore, MD", "Title": "\u201cNice hotel in and Inconvenient Location\u201d", "Author": "BeachBumDE", "ReviewID": "UR120475544", "Content": "moved hotel virgin vacations option virgin cancel trip purchasing reason trip insurance original hotel located convenient desireable sultanhamet istanbul days prior departure hotel miles historic sights sultanhamet complaints story virgin vacations hotel lovelyclean modern friendly efficient staff especially recommend hammam gorgeous swimming pool im huge fan turkish massages unforgettable ones masseuse named vienna highly recommend arent staying downside located downscale commercial restaurants nearby tourist sights miles unfortunately feel especially safe walking night nearby tram station prepared taxi ride historic sultanhamet town loved dropped neighborhood", "Date": "2011-11-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "West Midlands", "Title": "\u201cComfortably 4 star\u201d", "Author": "artyone1", "ReviewID": "UR118963309", "Content": "stayed supposed 4 start turkey book hotel minute wasnt expecting pleasantly wrong comfortable equipped hotel 10 minutes walk grand maybe 15 mins blue mosque main sites sultanahmed cheap tram line 2 minutes aksaray placed hotel quiet hotel main road hearty hustle bustle street life istanbul street traders shops cafes restaurants reception staff speak english helpful free wifi breakfast decent set choices didnt wait 4 mornings stayed deifnitely stay return trip truly unforgettable city downside poor exchange rate reception probem shop money aware havent paid advance paying local currency", "Date": "2011-10-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "London", "Title": "\u201cA nice hotel in the heart of the town\u201d", "Author": "reply2tushar", "ReviewID": "UR107122777", "Content": "stayed 4 nights holiday arrived midnight told booking confirmed hotel start hotel reservation staff inform available arrived doorstep manager staff courteous helpful somehow managed extremely apologetic offered teacoffe prepared front desk staff friendly warm helpful particular reception called mehmet help hotel location 10 mins main attractions checked 3 am staff packed breakfast wife onward journey package include breakfast similar hotels town whats makes special friendly helpful staff", "Date": "2011-05-06 00:00:00"}], "HotelInfo": {"Name": "Amethyst Hotel Istanbul", "HotelURL": "/ShowUserReviews-g293974-d2100663-Reviews-Amethyst_Hotel_Istanbul-Istanbul.html", "Price": "$131 - $280*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Mesihpasa Mah., Aksaray Cad., No: 6</span> | <span class=\"extended-address\">Laleli, Fatih</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "2100663", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/e0/4a/9a/amethtyst-hotel.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Baltimore, MD",
+      "Title": "\u201cNice hotel in and Inconvenient Location\u201d",
+      "Author": "BeachBumDE",
+      "ReviewID": "UR120475544",
+      "Content": "moved hotel virgin vacations option virgin cancel trip purchasing reason trip insurance original hotel located convenient desireable sultanhamet istanbul days prior departure hotel miles historic sights sultanhamet complaints story virgin vacations hotel lovelyclean modern friendly efficient staff especially recommend hammam gorgeous swimming pool im huge fan turkish massages unforgettable ones masseuse named vienna highly recommend arent staying downside located downscale commercial restaurants nearby tourist sights miles unfortunately feel especially safe walking night nearby tram station prepared taxi ride historic sultanhamet town loved dropped neighborhood",
+      "Date": "2011-11-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "West Midlands",
+      "Title": "\u201cComfortably 4 star\u201d",
+      "Author": "artyone1",
+      "ReviewID": "UR118963309",
+      "Content": "stayed supposed 4 start turkey book hotel minute wasnt expecting pleasantly wrong comfortable equipped hotel 10 minutes walk grand maybe 15 mins blue mosque main sites sultanahmed cheap tram line 2 minutes aksaray placed hotel quiet hotel main road hearty hustle bustle street life istanbul street traders shops cafes restaurants reception staff speak english helpful free wifi breakfast decent set choices didnt wait 4 mornings stayed deifnitely stay return trip truly unforgettable city downside poor exchange rate reception probem shop money aware havent paid advance paying local currency",
+      "Date": "2011-10-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cA nice hotel in the heart of the town\u201d",
+      "Author": "reply2tushar",
+      "ReviewID": "UR107122777",
+      "Content": "stayed 4 nights holiday arrived midnight told booking confirmed hotel start hotel reservation staff inform available arrived doorstep manager staff courteous helpful somehow managed extremely apologetic offered teacoffe prepared front desk staff friendly warm helpful particular reception called mehmet help hotel location 10 mins main attractions checked 3 am staff packed breakfast wife onward journey package include breakfast similar hotels town whats makes special friendly helpful staff",
+      "Date": "2011-05-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Amethyst Hotel Istanbul",
+    "HotelURL": "/ShowUserReviews-g293974-d2100663-Reviews-Amethyst_Hotel_Istanbul-Istanbul.html",
+    "Price": "$131 - $280*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Mesihpasa Mah., Aksaray Cad., No: 6</span> | <span class=\"extended-address\">Laleli, Fatih</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "2100663",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/e0/4a/9a/amethtyst-hotel.jpg"
+  }
+}

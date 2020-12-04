@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Leicester, United Kingdom", "Title": "\u201cStay here if you want to get robbed!!!\u201d", "Author": "Ikbal M", "ReviewID": "UR128175157", "Content": "reading reviews site am travelling 15 lads simply bed crash hotel absolutely rubbish please please listen advice couple robbed witnessed hotel window pick pocketers immigrants arab black race stay couple entering hotel entrance boys suddenly trick bit legged race believe eyes fast thief mans iphone front jeans pocket thief walked casually walked iphone hotel situated heart red light district means girls 24 hours round clock \u2013 shift hotel staffs miserable people met life guy reception glasses graveyard shift poke eyes", "Date": "2012-04-19 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Portsmouth, UK", "Title": "\u201cNo Frills City Stop\u201d", "Author": "WillMcLaverty", "ReviewID": "UR127640830", "Content": "outset worth saying stayed hotel barbara whilst taking weekend barcelona friend mine mind looking cheap hotel close colour life central barcelona hotel barbara wise hotel extremely basic am unsure food options didnt attempt hotel essentially near centre town crash exploring beautiful vivid city hotel situated near la rambla reviews stated close mean frequented prostitutes lively outside doors complain noise filtering night verify reviews written people hotel yes prostitutes outside little persistent found deal greet barcelona experience trip hit allies european city eat breakfast little morning grab estrella sit steps life barcelona hotel basis prefer little comfortable bedroom town leave stuff grab rest hotel barbara yourself luxury hotel destination suited family hours hotel allows people city wanna sights rent bike ride day catch dinner la rambla little time spent hotel", "Date": "2012-04-11 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Bali, Indonesia", "Title": "\u201cGood location but noisy and prostitutes area\u201d", "Author": "Nia01", "ReviewID": "UR123786829", "Content": "hotel falling apart en suite broken window dont hotel falls winter spring chilly nite lock window properly prostitutes cheap hotel condition location easily foods hotel walking distance la rambla", "Date": "2012-01-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Cork,like", "Title": "\u201cnot as bad as others say\u201d", "Author": "the_bobster1981", "ReviewID": "UR119908026", "Content": "stayed night cost triple beds exactly front building dont deny reviews yes prostitues night corner outside hotel night noisy near bar rubbish bins collected ungodly hour morning served purpose cheap hotel mins las ramblas clean 2 staff met friendly", "Date": "2011-10-30 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cWhat you expect for the price.\u201d", "Author": "JenniferMelbourne_11", "ReviewID": "UR95947831", "Content": "arrived flight extremely tired happy girl reception polite smile bit ladies night outside arrived building secure people wandering hotel basic clean booked double twin fixed straight hotel location minutes walk las ramblas single female walking hotel dark hanging prostitutes husband sort added colour", "Date": "2011-02-08 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Sofia, Bulgaria", "Title": "\u201cBEWARE - ROOMS WITHOUT WINDOWS\u201d", "Author": "Nevenatas", "ReviewID": "UR83450097", "Content": "yes indeed cheap hotel location consider prostitutes time offered available hotel girl reception refused look shift afterwards surprise single window luckily walls thin outside raining properly dressed", "Date": "2010-10-14 00:00:00"}], "HotelInfo": {"Name": "Hotel Barbara", "HotelURL": "/ShowUserReviews-g187497-d282941-Reviews-Hotel_Barbara-Barcelona_Catalonia.html", "Price": "$116 - $171*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Marques de Barbara 22</span>, <span class=\"locality\"><span property=\"v:postal-code\">08001</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "282941", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/05/92/059243811bf131053d969504f7fc84ed1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Leicester, United Kingdom",
+      "Title": "\u201cStay here if you want to get robbed!!!\u201d",
+      "Author": "Ikbal M",
+      "ReviewID": "UR128175157",
+      "Content": "reading reviews site am travelling 15 lads simply bed crash hotel absolutely rubbish please please listen advice couple robbed witnessed hotel window pick pocketers immigrants arab black race stay couple entering hotel entrance boys suddenly trick bit legged race believe eyes fast thief mans iphone front jeans pocket thief walked casually walked iphone hotel situated heart red light district means girls 24 hours round clock \u2013 shift hotel staffs miserable people met life guy reception glasses graveyard shift poke eyes",
+      "Date": "2012-04-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Portsmouth, UK",
+      "Title": "\u201cNo Frills City Stop\u201d",
+      "Author": "WillMcLaverty",
+      "ReviewID": "UR127640830",
+      "Content": "outset worth saying stayed hotel barbara whilst taking weekend barcelona friend mine mind looking cheap hotel close colour life central barcelona hotel barbara wise hotel extremely basic am unsure food options didnt attempt hotel essentially near centre town crash exploring beautiful vivid city hotel situated near la rambla reviews stated close mean frequented prostitutes lively outside doors complain noise filtering night verify reviews written people hotel yes prostitutes outside little persistent found deal greet barcelona experience trip hit allies european city eat breakfast little morning grab estrella sit steps life barcelona hotel basis prefer little comfortable bedroom town leave stuff grab rest hotel barbara yourself luxury hotel destination suited family hours hotel allows people city wanna sights rent bike ride day catch dinner la rambla little time spent hotel",
+      "Date": "2012-04-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bali, Indonesia",
+      "Title": "\u201cGood location but noisy and prostitutes area\u201d",
+      "Author": "Nia01",
+      "ReviewID": "UR123786829",
+      "Content": "hotel falling apart en suite broken window dont hotel falls winter spring chilly nite lock window properly prostitutes cheap hotel condition location easily foods hotel walking distance la rambla",
+      "Date": "2012-01-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Cork,like",
+      "Title": "\u201cnot as bad as others say\u201d",
+      "Author": "the_bobster1981",
+      "ReviewID": "UR119908026",
+      "Content": "stayed night cost triple beds exactly front building dont deny reviews yes prostitues night corner outside hotel night noisy near bar rubbish bins collected ungodly hour morning served purpose cheap hotel mins las ramblas clean 2 staff met friendly",
+      "Date": "2011-10-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cWhat you expect for the price.\u201d",
+      "Author": "JenniferMelbourne_11",
+      "ReviewID": "UR95947831",
+      "Content": "arrived flight extremely tired happy girl reception polite smile bit ladies night outside arrived building secure people wandering hotel basic clean booked double twin fixed straight hotel location minutes walk las ramblas single female walking hotel dark hanging prostitutes husband sort added colour",
+      "Date": "2011-02-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sofia, Bulgaria",
+      "Title": "\u201cBEWARE - ROOMS WITHOUT WINDOWS\u201d",
+      "Author": "Nevenatas",
+      "ReviewID": "UR83450097",
+      "Content": "yes indeed cheap hotel location consider prostitutes time offered available hotel girl reception refused look shift afterwards surprise single window luckily walls thin outside raining properly dressed",
+      "Date": "2010-10-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Barbara",
+    "HotelURL": "/ShowUserReviews-g187497-d282941-Reviews-Hotel_Barbara-Barcelona_Catalonia.html",
+    "Price": "$116 - $171*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Marques de Barbara 22</span>, <span class=\"locality\"><span property=\"v:postal-code\">08001</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "282941",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/05/92/059243811bf131053d969504f7fc84ed1large.jpg"
+  }
+}

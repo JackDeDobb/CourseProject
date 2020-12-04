@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Stockholm, Sweden", "Title": "\u201cTerrible experience\u201d", "Author": "chiara s", "ReviewID": "UR122510467", "Content": "arrived evening december street told hotel closed police missing staff hotel enter kitchen time lowering shutter night impossible sleep noisy girl close receiving afternoon 2 amthe breakfast poor milk day hotel 7 pm cleaned 110 euros night double cleaning service included girl close noise decided staff hotel forced pay night protested cleaning noise hotel offered change promise clean day discussion accepted pay night stay scared customers closed hotel prostitute terrible experiencewe found hotel sultanhamet cheaper bigger beautiful clean moreover seal", "Date": "2012-01-04 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Paradise Beach SA", "Title": "\u201cNot quite as it should be\u201d", "Author": "fynbos", "ReviewID": "UR119548426", "Content": "stayed 4 nights night hotel overbooked happen informed credit card debit blocked signed told hotel downgrade size cost web blocked card difference offered straight fight reach agreement pay \u00e2\u201a\u00ac25 correctly upheaval involved pay night upgrade hotel day nice twin top floor balcony sea view comfortable mention owner balcony window altho warped installed correctly gap length window wind blew outside bathroom plug socket hanging wall heating altho outside couldnt aircon blow warm air warm blanket bedding beds comfortable internet hotel main entrace sealed closed official wire tab guests ushered door thru kitchen kitchen door kept closed blind blind close blind 2002 mentions guests feeling smuggled outnot expect night taxi shuttle drivers informed collected door breakfasts nice plenty fruit egg cheese ham turkish specialities staff pleasant helpful", "Date": "2011-10-21 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Dublin, Ireland", "Title": "\u201cUnexplained occurrences, poor service\u201d", "Author": "Eire2002", "ReviewID": "UR118920971", "Content": "spent 4 nights sultan palace hotel comfortable breakfast 1 night 3am staff entered immediately woke speak heard saying sorry quickly left wife woke rang reception entered mistake allegedly organising taxi sick kid 104 staying 401 sick kid story true cant understand mistaken floor decided enter using staff key knocking ringing needless wife terrified couldnt sleep properly worse night staff exactly door knocking giving notice wonder note guests staying hours staff comes knocking door offering plate fruit left assured bolt door 2 stay couldnt front door hotel staff insist leave hotel morning kitchen door hotel nonenglish review below day left walked corner 3 police cars 6 policemen standing door discussing staff explanation night staff sit sofa street keeping eye door reception kept darkness day managers speak english properly told front door locked building refurbished door wasnt collapse unsafe turkish authorities wouldnt front door didnt explanation nights moving guests facing front hotel kitchen regardless story true suspect leave door hotel smuggled hotel doesnt feel paying 109 euro day 3 booked sea view night floor struggle sea tiny glimpse bay day moved 4th floor actually proper seaview balcony bit careful definition seaview", "Date": "2011-10-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Delta, Canada", "Title": "\u201cEpitomy of Turkish hospitality!\u201d", "Author": "NeedToTravelOften", "ReviewID": "UR110439519", "Content": "wonderful hotel amazingly welcoming staff sultan palace hotel absolutely fantastic moment arrived entrance thru kitchen according front door soon ironing terms local turkish govt hotel located 50 meters entrance mehmet pasha mosque 5 15 min foot hippodrome blue mosque basilica cistern hagia sophia topkapi palace little tram stations cemberlitas sultan ahmet hotel clean comfortable sound proofed windows helps dont woken morning call prayers roof terrace views sea marmara unfortunately furniture breakfast excellent varied staff friendly helpful offered airport pick arrival via email unfortunately read hotel information queries tips istanbul turkey hotel 10pm night looking eat staff helped saray restaurant food delivered hotel tl food absolutely fantastic greatly appreciate staff helped book hotel late night trip selcuk offered laptops free free wifi arrange taxis airport prepared breakfast departure 7am staff epitomy turkish hospitality plan return istanbul future definitely stay sultan palace hotel", "Date": "2011-05-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Salmiyah, Kuwait", "Title": "\u201cfriendly and wonderfully located hotel\u201d", "Author": "HaniY", "ReviewID": "UR105309883", "Content": "visit istanbul turkish friend recommended hotel stay 5 nights spacious clean elegant view overlooking city marmara sea hotel 3 minutes walking distance sultanahmet blue mosque 5 minutes sultanahmet metro station addition helpful friendly staff stay experience", "Date": "2011-04-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cComfortable, lovely hotel\u201d", "Author": "Joseph019", "ReviewID": "UR102674399", "Content": "pleasure stay boutique hotel march vacation amazing experience location spacious decorated wonderfuly comfortable clean friendly attitude nice atmosphere hotel staff helpful kinds issues definately reccomend time istanbul stay pleasure", "Date": "2011-04-03 00:00:00"}], "HotelInfo": {"Name": "Sultan Palace Hotel", "HotelURL": "/ShowUserReviews-g293974-d2061198-Reviews-Sultan_Palace_Hotel-Istanbul.html", "Price": "$92 - $399*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Katip Sinan Camii Sokak No:38 Sultanahmet</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34122</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "2061198", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/cf/7e/c6/front-view.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Stockholm, Sweden",
+      "Title": "\u201cTerrible experience\u201d",
+      "Author": "chiara s",
+      "ReviewID": "UR122510467",
+      "Content": "arrived evening december street told hotel closed police missing staff hotel enter kitchen time lowering shutter night impossible sleep noisy girl close receiving afternoon 2 amthe breakfast poor milk day hotel 7 pm cleaned 110 euros night double cleaning service included girl close noise decided staff hotel forced pay night protested cleaning noise hotel offered change promise clean day discussion accepted pay night stay scared customers closed hotel prostitute terrible experiencewe found hotel sultanhamet cheaper bigger beautiful clean moreover seal",
+      "Date": "2012-01-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Paradise Beach SA",
+      "Title": "\u201cNot quite as it should be\u201d",
+      "Author": "fynbos",
+      "ReviewID": "UR119548426",
+      "Content": "stayed 4 nights night hotel overbooked happen informed credit card debit blocked signed told hotel downgrade size cost web blocked card difference offered straight fight reach agreement pay \u00e2\u201a\u00ac25 correctly upheaval involved pay night upgrade hotel day nice twin top floor balcony sea view comfortable mention owner balcony window altho warped installed correctly gap length window wind blew outside bathroom plug socket hanging wall heating altho outside couldnt aircon blow warm air warm blanket bedding beds comfortable internet hotel main entrace sealed closed official wire tab guests ushered door thru kitchen kitchen door kept closed blind blind close blind 2002 mentions guests feeling smuggled outnot expect night taxi shuttle drivers informed collected door breakfasts nice plenty fruit egg cheese ham turkish specialities staff pleasant helpful",
+      "Date": "2011-10-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Dublin, Ireland",
+      "Title": "\u201cUnexplained occurrences, poor service\u201d",
+      "Author": "Eire2002",
+      "ReviewID": "UR118920971",
+      "Content": "spent 4 nights sultan palace hotel comfortable breakfast 1 night 3am staff entered immediately woke speak heard saying sorry quickly left wife woke rang reception entered mistake allegedly organising taxi sick kid 104 staying 401 sick kid story true cant understand mistaken floor decided enter using staff key knocking ringing needless wife terrified couldnt sleep properly worse night staff exactly door knocking giving notice wonder note guests staying hours staff comes knocking door offering plate fruit left assured bolt door 2 stay couldnt front door hotel staff insist leave hotel morning kitchen door hotel nonenglish review below day left walked corner 3 police cars 6 policemen standing door discussing staff explanation night staff sit sofa street keeping eye door reception kept darkness day managers speak english properly told front door locked building refurbished door wasnt collapse unsafe turkish authorities wouldnt front door didnt explanation nights moving guests facing front hotel kitchen regardless story true suspect leave door hotel smuggled hotel doesnt feel paying 109 euro day 3 booked sea view night floor struggle sea tiny glimpse bay day moved 4th floor actually proper seaview balcony bit careful definition seaview",
+      "Date": "2011-10-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Delta, Canada",
+      "Title": "\u201cEpitomy of Turkish hospitality!\u201d",
+      "Author": "NeedToTravelOften",
+      "ReviewID": "UR110439519",
+      "Content": "wonderful hotel amazingly welcoming staff sultan palace hotel absolutely fantastic moment arrived entrance thru kitchen according front door soon ironing terms local turkish govt hotel located 50 meters entrance mehmet pasha mosque 5 15 min foot hippodrome blue mosque basilica cistern hagia sophia topkapi palace little tram stations cemberlitas sultan ahmet hotel clean comfortable sound proofed windows helps dont woken morning call prayers roof terrace views sea marmara unfortunately furniture breakfast excellent varied staff friendly helpful offered airport pick arrival via email unfortunately read hotel information queries tips istanbul turkey hotel 10pm night looking eat staff helped saray restaurant food delivered hotel tl food absolutely fantastic greatly appreciate staff helped book hotel late night trip selcuk offered laptops free free wifi arrange taxis airport prepared breakfast departure 7am staff epitomy turkish hospitality plan return istanbul future definitely stay sultan palace hotel",
+      "Date": "2011-05-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Salmiyah, Kuwait",
+      "Title": "\u201cfriendly and wonderfully located hotel\u201d",
+      "Author": "HaniY",
+      "ReviewID": "UR105309883",
+      "Content": "visit istanbul turkish friend recommended hotel stay 5 nights spacious clean elegant view overlooking city marmara sea hotel 3 minutes walking distance sultanahmet blue mosque 5 minutes sultanahmet metro station addition helpful friendly staff stay experience",
+      "Date": "2011-04-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cComfortable, lovely hotel\u201d",
+      "Author": "Joseph019",
+      "ReviewID": "UR102674399",
+      "Content": "pleasure stay boutique hotel march vacation amazing experience location spacious decorated wonderfuly comfortable clean friendly attitude nice atmosphere hotel staff helpful kinds issues definately reccomend time istanbul stay pleasure",
+      "Date": "2011-04-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Sultan Palace Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d2061198-Reviews-Sultan_Palace_Hotel-Istanbul.html",
+    "Price": "$92 - $399*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Katip Sinan Camii Sokak No:38 Sultanahmet</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34122</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "2061198",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/cf/7e/c6/front-view.jpg"
+  }
+}

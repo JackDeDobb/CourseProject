@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cPleasant cosy stay\u201d", "Author": "anggingyin", "ReviewID": "UR121679602", "Content": "stayed 3 nights academy hotel berlin gem stay memorable located berlins central major attractions accessible via bahn bahn nearest bahn station located 10 minutes walk academy hotel nestled quiet residential neighborhood reception staff friendly helpful hotel noticed little details cosy guests free chocolates reception nice cosy amenities mini fridge hair dryer hand soap bad budget hotel european standards definitely home instead hotel academy dont mind distance bit walking bahn station recommend academy hotel budget looking nice cosy stay berlin 8 10 academy", "Date": "2011-12-12 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Glasgow", "Title": "\u201cSmall, clean, comfortable and inexpensive hotel!\u201d", "Author": "AlanDCD", "ReviewID": "UR82404377", "Content": "academy hotel near ubahn stations 15 minute walk postdamer platz 5 minutes bus clean wardrobe space clothes 6 night stay breakfast additional cost total 54 euros night approx \u00a348 reasonable reception occupied 24 hours day 10pm secure entry building elevator floors didnt feel threatened uncomfortable ladies night plying trade motorists near entrance ubahn enjoyed time berlin hotel cetainly didnt dampen experience", "Date": "2010-10-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Gothenburg, Sweden", "Title": "\u201cGreat value for money - totally recommended!\u201d", "Author": "Crustlord", "ReviewID": "UR70008958", "Content": "dont usually write reviews hotels accommodation feel academy hotel deserves hope reader unbiased picture expect stay travelled sweden stayed 3 nights wife book hotel expect clean basic comforts dont friendly staff dont care frills bell boys getting licked hotel staff city inside hotel sleep shower leave bags duration stay academy hotel perfect staff welcoming friendly downtoearth exactly expected added extras minibar snacks clean towels sheets complimentary slippers little welcome chocolates bedside tables nice touch tidy clean bathroom powerful shower hairdrier gel supplied form refillable dove bottles attached wall convenient environment bedroom perfect size inc tv location access 2 ubahn stations overall couldnt expected price recommending friends stay thank academy hotel berlin job", "Date": "2010-07-07 00:00:00"}], "HotelInfo": {"Name": "Academy Hotel", "HotelURL": "/ShowUserReviews-g187323-d947079-Reviews-Academy_Hotel-Berlin.html", "Price": "$49 - $142*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Dennewitzstrasse 7</span>, <span class=\"locality\"><span property=\"v:postal-code\">10785</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> (Formerly the FG Hotel)</span></span></address>", "HotelID": "947079", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/97/86/9786209e087b3b056b37225cc64345b04large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cPleasant cosy stay\u201d",
+      "Author": "anggingyin",
+      "ReviewID": "UR121679602",
+      "Content": "stayed 3 nights academy hotel berlin gem stay memorable located berlins central major attractions accessible via bahn bahn nearest bahn station located 10 minutes walk academy hotel nestled quiet residential neighborhood reception staff friendly helpful hotel noticed little details cosy guests free chocolates reception nice cosy amenities mini fridge hair dryer hand soap bad budget hotel european standards definitely home instead hotel academy dont mind distance bit walking bahn station recommend academy hotel budget looking nice cosy stay berlin 8 10 academy",
+      "Date": "2011-12-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Glasgow",
+      "Title": "\u201cSmall, clean, comfortable and inexpensive hotel!\u201d",
+      "Author": "AlanDCD",
+      "ReviewID": "UR82404377",
+      "Content": "academy hotel near ubahn stations 15 minute walk postdamer platz 5 minutes bus clean wardrobe space clothes 6 night stay breakfast additional cost total 54 euros night approx \u00a348 reasonable reception occupied 24 hours day 10pm secure entry building elevator floors didnt feel threatened uncomfortable ladies night plying trade motorists near entrance ubahn enjoyed time berlin hotel cetainly didnt dampen experience",
+      "Date": "2010-10-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Gothenburg, Sweden",
+      "Title": "\u201cGreat value for money - totally recommended!\u201d",
+      "Author": "Crustlord",
+      "ReviewID": "UR70008958",
+      "Content": "dont usually write reviews hotels accommodation feel academy hotel deserves hope reader unbiased picture expect stay travelled sweden stayed 3 nights wife book hotel expect clean basic comforts dont friendly staff dont care frills bell boys getting licked hotel staff city inside hotel sleep shower leave bags duration stay academy hotel perfect staff welcoming friendly downtoearth exactly expected added extras minibar snacks clean towels sheets complimentary slippers little welcome chocolates bedside tables nice touch tidy clean bathroom powerful shower hairdrier gel supplied form refillable dove bottles attached wall convenient environment bedroom perfect size inc tv location access 2 ubahn stations overall couldnt expected price recommending friends stay thank academy hotel berlin job",
+      "Date": "2010-07-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Academy Hotel",
+    "HotelURL": "/ShowUserReviews-g187323-d947079-Reviews-Academy_Hotel-Berlin.html",
+    "Price": "$49 - $142*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Dennewitzstrasse 7</span>, <span class=\"locality\"><span property=\"v:postal-code\">10785</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> (Formerly the FG Hotel)</span></span></address>",
+    "HotelID": "947079",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/97/86/9786209e087b3b056b37225cc64345b04large.jpg"
+  }
+}

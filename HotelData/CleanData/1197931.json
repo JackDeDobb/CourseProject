@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Lurgan, United Kingdom", "Title": "\u201cExcellent base to see Barcelona and fantastic help from the land lady\u201d", "Author": "Sjaunt", "ReviewID": "UR118553473", "Content": "overwhelmed friendly land lady helped queries barcelona apartments managed locate 2 champions league tickets 3 hours football match started modern detail perfect extremely clean perfect size base accommodation visiting barcelona", "Date": "2011-09-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cFreestanza Barceloneta !!! Perfect !!!!\u201d", "Author": "Aussies68", "ReviewID": "UR84188701", "Content": "apartment size exactly looked photos website clean tidy hangers clothes kitchen essentials enjoyed stay location 15 min walk las ramblas 3 minute walk beach 2 minute walk port vella location apartment little hard taxi drive found food soo resturants main street near apartment pretty food amazing staff helpful everytime question texted apartment manager replied helpful answers noise noticed people wrote noisy quiet 4 days depends whats happening stay bus tour worth", "Date": "2010-10-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Leeds, United Kingdom", "Title": "\u201cGreat Apartment in Fantastic Location\u201d", "Author": "ReviewerWakefield", "ReviewID": "UR64913852", "Content": "highly recommend apartments stayed week barcelona spot sightseeing visit spanish gp apartment base exploring city close transport links 5 mins barceloneta metro station safe uncomfortable walking night city unintentionally wondered stayed duplex apartment 4 guys compact comfortable apartment clean maintained standard arrival barcelona airport phoned confirmed arrival met 20 mins apartment provided tour essential info local highly recommend hope visit soon", "Date": "2010-05-21 00:00:00"}], "HotelInfo": {"Name": "Freestanza Accommodation", "HotelURL": "/ShowUserReviews-g187497-d1197931-Reviews-Freestanza_Accommodation-Barcelona_Catalonia.html", "Price": "0", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C Sant Miquel 10</span>, <span class=\"locality\"><span property=\"v:postal-code\">08003</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "1197931", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Lurgan, United Kingdom",
+      "Title": "\u201cExcellent base to see Barcelona and fantastic help from the land lady\u201d",
+      "Author": "Sjaunt",
+      "ReviewID": "UR118553473",
+      "Content": "overwhelmed friendly land lady helped queries barcelona apartments managed locate 2 champions league tickets 3 hours football match started modern detail perfect extremely clean perfect size base accommodation visiting barcelona",
+      "Date": "2011-09-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cFreestanza Barceloneta !!! Perfect !!!!\u201d",
+      "Author": "Aussies68",
+      "ReviewID": "UR84188701",
+      "Content": "apartment size exactly looked photos website clean tidy hangers clothes kitchen essentials enjoyed stay location 15 min walk las ramblas 3 minute walk beach 2 minute walk port vella location apartment little hard taxi drive found food soo resturants main street near apartment pretty food amazing staff helpful everytime question texted apartment manager replied helpful answers noise noticed people wrote noisy quiet 4 days depends whats happening stay bus tour worth",
+      "Date": "2010-10-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Leeds, United Kingdom",
+      "Title": "\u201cGreat Apartment in Fantastic Location\u201d",
+      "Author": "ReviewerWakefield",
+      "ReviewID": "UR64913852",
+      "Content": "highly recommend apartments stayed week barcelona spot sightseeing visit spanish gp apartment base exploring city close transport links 5 mins barceloneta metro station safe uncomfortable walking night city unintentionally wondered stayed duplex apartment 4 guys compact comfortable apartment clean maintained standard arrival barcelona airport phoned confirmed arrival met 20 mins apartment provided tour essential info local highly recommend hope visit soon",
+      "Date": "2010-05-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Freestanza Accommodation",
+    "HotelURL": "/ShowUserReviews-g187497-d1197931-Reviews-Freestanza_Accommodation-Barcelona_Catalonia.html",
+    "Price": "0",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C Sant Miquel 10</span>, <span class=\"locality\"><span property=\"v:postal-code\">08003</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "1197931",
+    "ImgURL": ""
+  }
+}

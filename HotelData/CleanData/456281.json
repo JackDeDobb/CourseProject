@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Clinton, Indiana", "Title": "\u201cNew Owners Are Remodeling\u201d", "Author": "bguinn", "ReviewID": "UR137948153", "Content": "colonnade progress owner manager staff jack mike kathy vickie hours happen overnight previous owners left bad shape patient august unit employees son daughter extremely friendly courteous owners 1997 faith colonnade stronger visitors colonnade dont shot coffee coffeemaker lobby pool hot tub clean", "Date": "2012-08-21 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "missouri", "Title": "\u201cPoor Hotel\u201d", "Author": "abby2Missouri", "ReviewID": "UR121230292", "Content": "hotel complete update light night hard ws told thats owners iti stay carpet filthy sink looked cleaned lid toilet stool bath lay items oni sleep socks didnt night walk dirty floor sheet towels thin paper recommend hotel plus ws nice lady desk move nicer hotel", "Date": "2011-11-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Moore, Oklahoma", "Title": "\u201cBest place to stay in Branson\u201d", "Author": "kitiluv", "ReviewID": "UR99951513", "Content": "loved resort michele robin super friendly helpful gary travel guy knowledgeable branson money owner nice lots smiles unit stayed beautiful spacious 3 kids plenty pool closed season stayed rented movies redbox look stay branson stay super close favorite restaurants montana mikes charlies italian plaza view", "Date": "2011-03-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Plano, Texas", "Title": "\u201cVery nice place\u201d", "Author": "jkbdfw", "ReviewID": "UR81480409", "Content": "hotel recently updated spacious colonnade roads branson save lots time versus driving main drag people nice helpful declined timeshare offer colored routes branson save yourself hours driving train ride branson bust payne stewart golf course challenging beautiful golf course sort fungus chewed greens putting impossible closed course golfers terrible conditions advance play", "Date": "2010-09-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Norfolk, Nebraska", "Title": "\u201cLoved the resort and staff\u201d", "Author": "ocasionalshopper", "ReviewID": "UR75286183", "Content": "delighted centrally located resort staff wonderful condo beautiful pool bonus hot weather monday night entertainment 20 giving information branson chose attend pleased performances discounts elevators level parking love", "Date": "2010-08-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "San Diego", "Title": "\u201cGorgeous condos\u201d", "Author": "mystic11SanDiego", "ReviewID": "UR71292657", "Content": "colonnade past months definitely check condos ago werent impressed decided chance totally redone furniture equal 5 start condo stayed didnt hotel bottom floors condos free owners party monday night ive attended 20 branson entertainers perform food eat free breakfast included danish waffles fruit yogurt cereal juices etc", "Date": "2010-07-17 00:00:00"}], "HotelInfo": {"Name": "Colonnade Resort", "HotelURL": "/ShowUserReviews-g44160-d456281-Reviews-Colonnade_Resort-Branson_Missouri.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">245 Jess Jo</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>", "HotelID": "456281", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-f/01/d9/ba/92/colonnade-resort.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Clinton, Indiana",
+      "Title": "\u201cNew Owners Are Remodeling\u201d",
+      "Author": "bguinn",
+      "ReviewID": "UR137948153",
+      "Content": "colonnade progress owner manager staff jack mike kathy vickie hours happen overnight previous owners left bad shape patient august unit employees son daughter extremely friendly courteous owners 1997 faith colonnade stronger visitors colonnade dont shot coffee coffeemaker lobby pool hot tub clean",
+      "Date": "2012-08-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "missouri",
+      "Title": "\u201cPoor Hotel\u201d",
+      "Author": "abby2Missouri",
+      "ReviewID": "UR121230292",
+      "Content": "hotel complete update light night hard ws told thats owners iti stay carpet filthy sink looked cleaned lid toilet stool bath lay items oni sleep socks didnt night walk dirty floor sheet towels thin paper recommend hotel plus ws nice lady desk move nicer hotel",
+      "Date": "2011-11-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Moore, Oklahoma",
+      "Title": "\u201cBest place to stay in Branson\u201d",
+      "Author": "kitiluv",
+      "ReviewID": "UR99951513",
+      "Content": "loved resort michele robin super friendly helpful gary travel guy knowledgeable branson money owner nice lots smiles unit stayed beautiful spacious 3 kids plenty pool closed season stayed rented movies redbox look stay branson stay super close favorite restaurants montana mikes charlies italian plaza view",
+      "Date": "2011-03-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Plano, Texas",
+      "Title": "\u201cVery nice place\u201d",
+      "Author": "jkbdfw",
+      "ReviewID": "UR81480409",
+      "Content": "hotel recently updated spacious colonnade roads branson save lots time versus driving main drag people nice helpful declined timeshare offer colored routes branson save yourself hours driving train ride branson bust payne stewart golf course challenging beautiful golf course sort fungus chewed greens putting impossible closed course golfers terrible conditions advance play",
+      "Date": "2010-09-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Norfolk, Nebraska",
+      "Title": "\u201cLoved the resort and staff\u201d",
+      "Author": "ocasionalshopper",
+      "ReviewID": "UR75286183",
+      "Content": "delighted centrally located resort staff wonderful condo beautiful pool bonus hot weather monday night entertainment 20 giving information branson chose attend pleased performances discounts elevators level parking love",
+      "Date": "2010-08-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "San Diego",
+      "Title": "\u201cGorgeous condos\u201d",
+      "Author": "mystic11SanDiego",
+      "ReviewID": "UR71292657",
+      "Content": "colonnade past months definitely check condos ago werent impressed decided chance totally redone furniture equal 5 start condo stayed didnt hotel bottom floors condos free owners party monday night ive attended 20 branson entertainers perform food eat free breakfast included danish waffles fruit yogurt cereal juices etc",
+      "Date": "2010-07-17 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Colonnade Resort",
+    "HotelURL": "/ShowUserReviews-g44160-d456281-Reviews-Colonnade_Resort-Branson_Missouri.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">245 Jess Jo</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>",
+    "HotelID": "456281",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-f/01/d9/ba/92/colonnade-resort.jpg"
+  }
+}

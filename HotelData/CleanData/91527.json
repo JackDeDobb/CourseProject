@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "St. Joseph, MI", "Title": "\u201cPresidents' Day trip\u201d", "Author": "4OnTheFly", "ReviewID": "UR125864041", "Content": "hotel clean breakfast beyond continental breakfast main breakfast construction nice temporary set double fine clean stocked kitchen utensils extended period time negative pool common construction nice arriving suppose fair hold hotel responsible booked online advance stayed night presidents day weekend", "Date": "2012-03-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Chicago, Illinois", "Title": "\u201c\"Thank You Residence Inn Fishers\"\u201d", "Author": "kcetnar", "ReviewID": "UR124416539", "Content": "extremely surprised arrived hotel price maintained clean hotel stood staff soooo friendly helpful thank truly stay special management doing comes hotel highly recommend staying", "Date": "2012-02-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "New Berlin, Wisconsin", "Title": "\u201cthe staff are like close friends\u201d", "Author": "Alex B", "ReviewID": "UR122402324", "Content": "amenities residence inn plus staff cares guests soft bed quiet terrific free breakfast buffet neighborhood deciding hotel downtown residence inn tripadvisor reviewers rated fishers highly plus downtown easy drive fishers northwest indy enjoyed wonderful breakfasts hotels dining bought york strip steaks super walmart street grilled hotels gas grill enjoyed relaxing dinners sons dining table cooked stovetop evening buffet nice selection snacks internet connection easy speeds sofa sleeper comfortable pool little cool visited ben pizza video games love indy clean feels safe people friendly lots easy toured lucas oil stadium offered tuesday wednesday lap indy motor speedway tour bus 5 worth buy childrens museum ticket online day waiting line park downtown fine walkway system expect pay parking downtown indy auto major hassle bigger city auto iupui law school medical school dental school 23000 school low profile gps helped choose freeways local streets minor plumbing issue bathroom manager immediately apologized provided fishers ri getting renovations starting february 2012 disturbing guests manager fishers ri service scores staff friendly hard careful 96th street busy street odd lane markings", "Date": "2012-01-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "", "Title": "\u201cVery Comfortable Hotel, Nice Staff\u201d", "Author": "Japanesejockgirl", "ReviewID": "UR121860192", "Content": "business colleagues staying hotel convenient business fishers door cheeseburgers paradise breakfast happy hour snacks free internet access socializing bar", "Date": "2011-12-18 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Toronto", "Title": "\u201cGreat Hotel to Stay\u201d", "Author": "sgmkjsekar", "ReviewID": "UR120120354", "Content": "hotel stay am staying wife kid 1 br suite fishers suburbs indy suite spacious am busy business calls wife kid relax bedroom unlike studios worse food morning breakfast offer evening meal thrice week reduced thrice week recession 2 tvs watch spouse kid enjoy own am currently booked 5 nights deal 99 night", "Date": "2011-11-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Mumbai (Bombay), India", "Title": "\u201cSpacious clean well designed suites and most of all a good breakfast to start your day right\u201d", "Author": "amdu", "ReviewID": "UR81138162", "Content": "booked suite 2 nights hotel surpassed expectations clean spacious divided kitchen sleeping living dining kitchen amenities fridge gas dishwasher sink utensils cook daughter food allergies helped arrangements food suite cleaned daily staff reception desk helpful offer daily complimentary breakfast variety items unlike bagel cereal breakfast hotels offer comfortable stay rested day childrens musuem", "Date": "2010-09-27 00:00:00"}], "HotelInfo": {"Name": "Residence Inn Indianapolis Fishers", "HotelURL": "/ShowUserReviews-g37209-d91527-Reviews-Residence_Inn_Indianapolis_Fishers-Indianapolis_Indiana.html", "Price": "$104 - $151*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">9765 Crosspoint Boulevard</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46256</span></span> </span> </span> </address>", "HotelID": "91527", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/eb/9d/94/property-exterior.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "St. Joseph, MI",
+      "Title": "\u201cPresidents' Day trip\u201d",
+      "Author": "4OnTheFly",
+      "ReviewID": "UR125864041",
+      "Content": "hotel clean breakfast beyond continental breakfast main breakfast construction nice temporary set double fine clean stocked kitchen utensils extended period time negative pool common construction nice arriving suppose fair hold hotel responsible booked online advance stayed night presidents day weekend",
+      "Date": "2012-03-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Chicago, Illinois",
+      "Title": "\u201c\"Thank You Residence Inn Fishers\"\u201d",
+      "Author": "kcetnar",
+      "ReviewID": "UR124416539",
+      "Content": "extremely surprised arrived hotel price maintained clean hotel stood staff soooo friendly helpful thank truly stay special management doing comes hotel highly recommend staying",
+      "Date": "2012-02-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "New Berlin, Wisconsin",
+      "Title": "\u201cthe staff are like close friends\u201d",
+      "Author": "Alex B",
+      "ReviewID": "UR122402324",
+      "Content": "amenities residence inn plus staff cares guests soft bed quiet terrific free breakfast buffet neighborhood deciding hotel downtown residence inn tripadvisor reviewers rated fishers highly plus downtown easy drive fishers northwest indy enjoyed wonderful breakfasts hotels dining bought york strip steaks super walmart street grilled hotels gas grill enjoyed relaxing dinners sons dining table cooked stovetop evening buffet nice selection snacks internet connection easy speeds sofa sleeper comfortable pool little cool visited ben pizza video games love indy clean feels safe people friendly lots easy toured lucas oil stadium offered tuesday wednesday lap indy motor speedway tour bus 5 worth buy childrens museum ticket online day waiting line park downtown fine walkway system expect pay parking downtown indy auto major hassle bigger city auto iupui law school medical school dental school 23000 school low profile gps helped choose freeways local streets minor plumbing issue bathroom manager immediately apologized provided fishers ri getting renovations starting february 2012 disturbing guests manager fishers ri service scores staff friendly hard careful 96th street busy street odd lane markings",
+      "Date": "2012-01-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cVery Comfortable Hotel, Nice Staff\u201d",
+      "Author": "Japanesejockgirl",
+      "ReviewID": "UR121860192",
+      "Content": "business colleagues staying hotel convenient business fishers door cheeseburgers paradise breakfast happy hour snacks free internet access socializing bar",
+      "Date": "2011-12-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Toronto",
+      "Title": "\u201cGreat Hotel to Stay\u201d",
+      "Author": "sgmkjsekar",
+      "ReviewID": "UR120120354",
+      "Content": "hotel stay am staying wife kid 1 br suite fishers suburbs indy suite spacious am busy business calls wife kid relax bedroom unlike studios worse food morning breakfast offer evening meal thrice week reduced thrice week recession 2 tvs watch spouse kid enjoy own am currently booked 5 nights deal 99 night",
+      "Date": "2011-11-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Mumbai (Bombay), India",
+      "Title": "\u201cSpacious clean well designed suites and most of all a good breakfast to start your day right\u201d",
+      "Author": "amdu",
+      "ReviewID": "UR81138162",
+      "Content": "booked suite 2 nights hotel surpassed expectations clean spacious divided kitchen sleeping living dining kitchen amenities fridge gas dishwasher sink utensils cook daughter food allergies helped arrangements food suite cleaned daily staff reception desk helpful offer daily complimentary breakfast variety items unlike bagel cereal breakfast hotels offer comfortable stay rested day childrens musuem",
+      "Date": "2010-09-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Residence Inn Indianapolis Fishers",
+    "HotelURL": "/ShowUserReviews-g37209-d91527-Reviews-Residence_Inn_Indianapolis_Fishers-Indianapolis_Indiana.html",
+    "Price": "$104 - $151*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">9765 Crosspoint Boulevard</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46256</span></span> </span> </span> </address>",
+    "HotelID": "91527",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/eb/9d/94/property-exterior.jpg"
+  }
+}

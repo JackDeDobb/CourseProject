@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Stellenbosch, South Africa", "Title": "\u201cExcellent Location\u201d", "Author": "Jacques S", "ReviewID": "UR128534197", "Content": "stayed hotel nights location perfect meters st marco square easy walk water bus airport stop realto station walk 100 meters hotel bit tricky hotels venice confirming booking email trip owner send map directions typical venetian decor faced building fine meant disturbance street below clean neat serve breakfast bed space breakfast care breakfast anyway bought cheap food drinks nearby supermarket absolutely loved stay venice location hotel easy expect city miss hotel owner helped questions friendly recommend hotel stay close st marco square cheap nice central spot city", "Date": "2012-04-24 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Washington DC, District of Columbia", "Title": "\u201cExcellent Location but very mediocre hotel\u201d", "Author": "hbildahl", "ReviewID": "UR97423175", "Content": "location hotel perfect walking venice major sites arrival woman met tiny reception areaif call started explain italian dont speak italian neither boyfriend idea saying explained shower broken fixed day hotel stayed hotel noemi night steps nicer hotel wish stayed actually hotel told move ca del duca morning extremely aggravating pack stuff move ca del duca nice nearly elegant pictures dark bathroom tiny shower fixed squirt water floor wifi extremely frustrating isnt front desk people hotel 4 hours morning gone luck late afternoon boyfriend wifi password resorted previous hotel street wouldnt suggested machine prints password ourselves resort climbing front desk front door constantly unlocked form security camera ceiling im pretty fake feel unsafe breakfast fine delivered 5 minutes past time breakfast morning woman aggravated italian 2nd night stay people moved didnt care smoking smoked doors hallway woman hotel caught morning didnt care looking location 1 night venice dont plan spending lot time otherwise hotel customer service", "Date": "2011-02-21 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "hull", "Title": "\u201cIf you want good service dont stay here, want pretty room good location stay here\u201d", "Author": "wandererhull", "ReviewID": "UR90206424", "Content": "hotel fantastic location doorsteps saint marks square nice gold cream decor throughout giving real venetian feel bathrooms nice air con mini bar sky tv wifi tables chairs dont arrive enter hotel via front door 24 hours day tiny reception key name attached wifi main reasons booked staff day breakfast served tray means 2nd cup coffee available allowed departure armed police questioning staff 1 maid breakfast leave top street frog marched street armed police whatever reason ruin experience venice doubt hotel self lack staff support help time visitor venice information looking location nice book hote", "Date": "2010-12-19 00:00:00"}], "HotelInfo": {"Name": "Ca' del Duca", "HotelURL": "/ShowUserReviews-g187870-d571966-Reviews-Ca_del_Duca-Venice_Veneto.html", "Price": "$183 - $244*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">San Marco 916</span> | <span class=\"extended-address\">Calle dei Fabbri</span>, <span class=\"locality\"><span property=\"v:postal-code\">30100</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "571966", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/16/2f/162ff05cf10af1f8a18b8c8752ccc5ed2large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Stellenbosch, South Africa",
+      "Title": "\u201cExcellent Location\u201d",
+      "Author": "Jacques S",
+      "ReviewID": "UR128534197",
+      "Content": "stayed hotel nights location perfect meters st marco square easy walk water bus airport stop realto station walk 100 meters hotel bit tricky hotels venice confirming booking email trip owner send map directions typical venetian decor faced building fine meant disturbance street below clean neat serve breakfast bed space breakfast care breakfast anyway bought cheap food drinks nearby supermarket absolutely loved stay venice location hotel easy expect city miss hotel owner helped questions friendly recommend hotel stay close st marco square cheap nice central spot city",
+      "Date": "2012-04-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Washington DC, District of Columbia",
+      "Title": "\u201cExcellent Location but very mediocre hotel\u201d",
+      "Author": "hbildahl",
+      "ReviewID": "UR97423175",
+      "Content": "location hotel perfect walking venice major sites arrival woman met tiny reception areaif call started explain italian dont speak italian neither boyfriend idea saying explained shower broken fixed day hotel stayed hotel noemi night steps nicer hotel wish stayed actually hotel told move ca del duca morning extremely aggravating pack stuff move ca del duca nice nearly elegant pictures dark bathroom tiny shower fixed squirt water floor wifi extremely frustrating isnt front desk people hotel 4 hours morning gone luck late afternoon boyfriend wifi password resorted previous hotel street wouldnt suggested machine prints password ourselves resort climbing front desk front door constantly unlocked form security camera ceiling im pretty fake feel unsafe breakfast fine delivered 5 minutes past time breakfast morning woman aggravated italian 2nd night stay people moved didnt care smoking smoked doors hallway woman hotel caught morning didnt care looking location 1 night venice dont plan spending lot time otherwise hotel customer service",
+      "Date": "2011-02-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "hull",
+      "Title": "\u201cIf you want good service dont stay here, want pretty room good location stay here\u201d",
+      "Author": "wandererhull",
+      "ReviewID": "UR90206424",
+      "Content": "hotel fantastic location doorsteps saint marks square nice gold cream decor throughout giving real venetian feel bathrooms nice air con mini bar sky tv wifi tables chairs dont arrive enter hotel via front door 24 hours day tiny reception key name attached wifi main reasons booked staff day breakfast served tray means 2nd cup coffee available allowed departure armed police questioning staff 1 maid breakfast leave top street frog marched street armed police whatever reason ruin experience venice doubt hotel self lack staff support help time visitor venice information looking location nice book hote",
+      "Date": "2010-12-19 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Ca' del Duca",
+    "HotelURL": "/ShowUserReviews-g187870-d571966-Reviews-Ca_del_Duca-Venice_Veneto.html",
+    "Price": "$183 - $244*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">San Marco 916</span> | <span class=\"extended-address\">Calle dei Fabbri</span>, <span class=\"locality\"><span property=\"v:postal-code\">30100</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "571966",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/16/2f/162ff05cf10af1f8a18b8c8752ccc5ed2large.jpg"
+  }
+}

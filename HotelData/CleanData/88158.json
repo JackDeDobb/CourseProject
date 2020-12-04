@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Benton, IL", "Title": "\u201cWe ended up going to another hotel after one night..\u201d", "Author": "Mark B", "ReviewID": "UR123941965", "Content": "reviewers telling truth hotel currently renovation excuse website book photos shown hotel heyday checked expected check actual checkout supposed suite size fridge stove top microwave generic hotel none amenities front desk promised girl front housekeeping home day tomorrow pushed fridge medical reasons relocated 161 cramped microwave broken closed door started timer didnt matress 12 bed cigarette butts wrappers debris bed tired shower bathroom light vent fan broken nasty stuff hanging shower actual bathtub faucet secured 12 shower shot nailed shin actually black blue mark size 12 dollar promptly checked hotel stayed expensive worth actually try remodel lot info excercise defunct business center date 2 computers 14 crt screens slow pool ok age displayed picture ballrooms currently remodel look ok carpeting laying attached resturant bennigans seen days waitress nice food salty love salt", "Date": "2012-01-31 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Yukon, Oklahoma", "Title": "\u201cnice, friendly, great value!\u201d", "Author": "AndyL51", "ReviewID": "UR122441301", "Content": "stayed 8 dec thru 11 dec hotel renovated found staff friendly clean able internet conference comfortable cold hot tables touch restaurant stayi ate night food expected night appreciated shuttle service tofrom airport highly recommend extend suites business family travelers andy", "Date": "2012-01-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Germantown, Maryland", "Title": "\u201cNice accomodations with great customer service\u201d", "Author": "Cassimax", "ReviewID": "UR122421886", "Content": "stayed hotel business pleasantly surprised nice customer service excellent hotel staff friendly attentive liked extras hotel provided including free wifi shuttle service airport definitely stay travels bring indianapolis recommend business pleasure travelers", "Date": "2012-01-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Washington, District of Columbia, United States", "Title": "\u201cAmazing hotel with excellent customer service\u201d", "Author": "schuon1836", "ReviewID": "UR121716861", "Content": "stayed management hotel restaurant sexy name nice sit enjoy cold beer watch sport channels oh weekend dance floor yeah booze sport dance mention foods cant wrong owners friendly people cant opinion 49 59 night 4 star treatment highly recommend extend suite", "Date": "2011-12-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Washington, District of Columbia, United States", "Title": "\u201cFantastic place to stay\u201d", "Author": "JohnHemmis", "ReviewID": "UR121685322", "Content": "dc conference time property due numerous spacious conference able events thanks excellent home cooking restaurant bar named someones mother own recipes leave facility outside temperature stood friendly staff owners strived feel home experience outstanding highly recommend service hotel", "Date": "2011-12-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Green Bay, Wisconsin", "Title": "\u201cGreat Place To Stay - 5 Star Hospitality!\u201d", "Author": "Jim S", "ReviewID": "UR121662101", "Content": "hotel management despite incredible renovations nice price brand restaurant site pool sauna fitness center free wifi looks fantastic events 3 held site weekend stay loving hotel impressive hospitality staff incredibly pleasant helpful laundry staff conversational stay else food restaurant visiting indianapolis renovations completed hotel none outstanding value service", "Date": "2011-12-12 00:00:00"}], "HotelInfo": {"Name": "Extend a Suites Indianapolis", "HotelURL": "/ShowUserReviews-g37209-d88158-Reviews-Extend_a_Suites_Indianapolis-Indianapolis_Indiana.html", "Price": "$62 - $91*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">7701 E. 42nd Street</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46226</span></span> (Formerly Ramada Inn Indianapolis)</span> </span> </address>", "HotelID": "88158", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-f/02/36/9d/ae/getlstd-property-photo.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Benton, IL",
+      "Title": "\u201cWe ended up going to another hotel after one night..\u201d",
+      "Author": "Mark B",
+      "ReviewID": "UR123941965",
+      "Content": "reviewers telling truth hotel currently renovation excuse website book photos shown hotel heyday checked expected check actual checkout supposed suite size fridge stove top microwave generic hotel none amenities front desk promised girl front housekeeping home day tomorrow pushed fridge medical reasons relocated 161 cramped microwave broken closed door started timer didnt matress 12 bed cigarette butts wrappers debris bed tired shower bathroom light vent fan broken nasty stuff hanging shower actual bathtub faucet secured 12 shower shot nailed shin actually black blue mark size 12 dollar promptly checked hotel stayed expensive worth actually try remodel lot info excercise defunct business center date 2 computers 14 crt screens slow pool ok age displayed picture ballrooms currently remodel look ok carpeting laying attached resturant bennigans seen days waitress nice food salty love salt",
+      "Date": "2012-01-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Yukon, Oklahoma",
+      "Title": "\u201cnice, friendly, great value!\u201d",
+      "Author": "AndyL51",
+      "ReviewID": "UR122441301",
+      "Content": "stayed 8 dec thru 11 dec hotel renovated found staff friendly clean able internet conference comfortable cold hot tables touch restaurant stayi ate night food expected night appreciated shuttle service tofrom airport highly recommend extend suites business family travelers andy",
+      "Date": "2012-01-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Germantown, Maryland",
+      "Title": "\u201cNice accomodations with great customer service\u201d",
+      "Author": "Cassimax",
+      "ReviewID": "UR122421886",
+      "Content": "stayed hotel business pleasantly surprised nice customer service excellent hotel staff friendly attentive liked extras hotel provided including free wifi shuttle service airport definitely stay travels bring indianapolis recommend business pleasure travelers",
+      "Date": "2012-01-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Washington, District of Columbia, United States",
+      "Title": "\u201cAmazing hotel with excellent customer service\u201d",
+      "Author": "schuon1836",
+      "ReviewID": "UR121716861",
+      "Content": "stayed management hotel restaurant sexy name nice sit enjoy cold beer watch sport channels oh weekend dance floor yeah booze sport dance mention foods cant wrong owners friendly people cant opinion 49 59 night 4 star treatment highly recommend extend suite",
+      "Date": "2011-12-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Washington, District of Columbia, United States",
+      "Title": "\u201cFantastic place to stay\u201d",
+      "Author": "JohnHemmis",
+      "ReviewID": "UR121685322",
+      "Content": "dc conference time property due numerous spacious conference able events thanks excellent home cooking restaurant bar named someones mother own recipes leave facility outside temperature stood friendly staff owners strived feel home experience outstanding highly recommend service hotel",
+      "Date": "2011-12-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Green Bay, Wisconsin",
+      "Title": "\u201cGreat Place To Stay - 5 Star Hospitality!\u201d",
+      "Author": "Jim S",
+      "ReviewID": "UR121662101",
+      "Content": "hotel management despite incredible renovations nice price brand restaurant site pool sauna fitness center free wifi looks fantastic events 3 held site weekend stay loving hotel impressive hospitality staff incredibly pleasant helpful laundry staff conversational stay else food restaurant visiting indianapolis renovations completed hotel none outstanding value service",
+      "Date": "2011-12-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Extend a Suites Indianapolis",
+    "HotelURL": "/ShowUserReviews-g37209-d88158-Reviews-Extend_a_Suites_Indianapolis-Indianapolis_Indiana.html",
+    "Price": "$62 - $91*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">7701 E. 42nd Street</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46226</span></span> (Formerly Ramada Inn Indianapolis)</span> </span> </address>",
+    "HotelID": "88158",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-f/02/36/9d/ae/getlstd-property-photo.jpg"
+  }
+}

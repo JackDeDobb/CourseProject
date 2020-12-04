@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "California", "Title": "\u201cClean hotel, good breakfast, nice staff\u201d", "Author": "Pirringui", "ReviewID": "UR118577740", "Content": "found hotel accident visited rome staff friendly bathrooms spacious breakfast variety food location excellent close roma termini subway destinations rome train italy lastly lot restaurants convenient", "Date": "2011-09-25 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Landstuhl, Germany", "Title": "\u201cwill only here again stay as last resort!\u201d", "Author": "apatel89", "ReviewID": "UR98323012", "Content": "husband booked hotel madison hotel closer termini station prior arriving rome arrival told 250 kids hotel receptionist suggested move partner hotel didnt issue agreed forgotten write address tour wed booked receptionist code internetcomputer lobby handed prepaid card scratched taking word tried log computer wouldnt response sorry thats laptops refund impossible wed buy card computer lobby time desk answer sorry cant collegue care care simple telling water water decent bathrooms breakfast terrible food left overnight coffee disgusting overall experience hotel terrible wouldnt recommend hotel", "Date": "2011-02-28 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cWorst hotel in Rome!\u201d", "Author": "MTraveler28", "ReviewID": "UR79689069", "Content": "dark dingy dirty hotel regret rome included breakfast disgusting coffee bad italian coffee wrong bathrooms smelled sewer gas hallways pungent odor feel sleeping bat cave complete dirt smells book hotel close termini station spending 15 eur staying hotel sketch", "Date": "2010-09-15 00:00:00"}], "HotelInfo": {"Name": "Hotel Galles", "HotelURL": "/ShowUserReviews-g187791-d258985-Reviews-Hotel_Galles-Rome_Lazio.html", "Price": "$118 - $248*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Viale Castro Pretorio 66</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "258985", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0b/82/0b825ff135e384b5d949b0df985f35357large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "California",
+      "Title": "\u201cClean hotel, good breakfast, nice staff\u201d",
+      "Author": "Pirringui",
+      "ReviewID": "UR118577740",
+      "Content": "found hotel accident visited rome staff friendly bathrooms spacious breakfast variety food location excellent close roma termini subway destinations rome train italy lastly lot restaurants convenient",
+      "Date": "2011-09-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Landstuhl, Germany",
+      "Title": "\u201cwill only here again stay as last resort!\u201d",
+      "Author": "apatel89",
+      "ReviewID": "UR98323012",
+      "Content": "husband booked hotel madison hotel closer termini station prior arriving rome arrival told 250 kids hotel receptionist suggested move partner hotel didnt issue agreed forgotten write address tour wed booked receptionist code internetcomputer lobby handed prepaid card scratched taking word tried log computer wouldnt response sorry thats laptops refund impossible wed buy card computer lobby time desk answer sorry cant collegue care care simple telling water water decent bathrooms breakfast terrible food left overnight coffee disgusting overall experience hotel terrible wouldnt recommend hotel",
+      "Date": "2011-02-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cWorst hotel in Rome!\u201d",
+      "Author": "MTraveler28",
+      "ReviewID": "UR79689069",
+      "Content": "dark dingy dirty hotel regret rome included breakfast disgusting coffee bad italian coffee wrong bathrooms smelled sewer gas hallways pungent odor feel sleeping bat cave complete dirt smells book hotel close termini station spending 15 eur staying hotel sketch",
+      "Date": "2010-09-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Galles",
+    "HotelURL": "/ShowUserReviews-g187791-d258985-Reviews-Hotel_Galles-Rome_Lazio.html",
+    "Price": "$118 - $248*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Viale Castro Pretorio 66</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "258985",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0b/82/0b825ff135e384b5d949b0df985f35357large.jpg"
+  }
+}

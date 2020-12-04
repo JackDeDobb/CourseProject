@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Rio de Janeiro, RJ", "Title": "\u201cRecommended hotel\u201d", "Author": "unabelessa", "ReviewID": "UR126761162", "Content": "weve booked double superior advance guess price 390 euro 4 nights clean confortable spacious located floor restaurant heading via mario de fiori imagine summer time bit noisy due restaurants street winter time noise absolutely bathroom spacious shower breakfast ok excellent expresso staff helpful little weve booked taxi airport 10 min earlier", "Date": "2012-03-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Erie, Pennsylvania", "Title": "\u201cGreat location, OK accomodations\u201d", "Author": "billharley", "ReviewID": "UR124961067", "Content": "hotel located block spanish steps near perfect location 60 able walk tourist attractions rome vatican museums ancient sites outstanding churches elegant shopping via condotti via del corso corner hotel staff friendly helpful providing useful maps dining suggestions 108 deluxe superior featured modern bathroom bidet tub confining shower enclosure water pressure hot water ample tv english language program cnn extensive selection local channels hotel undergoing renovation added noise construction activity lobby breakfast modest adequate served tiny patio closed due cold weather recommend hotel hope return", "Date": "2012-02-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Washington, DC", "Title": "\u201cLovely Hotel; Amazing location!\u201d", "Author": "lisa k", "ReviewID": "UR121751719", "Content": "stayed week nights location absolutely amazing super close spanish steps walking distance entire city including forum vatican staff helpful maps directions restaurant suggestions internet access 104 comfortable clean overall experience lovely definitely", "Date": "2011-12-14 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Kettwig, Nordrhein-Westfalen, Germany", "Title": "\u201cLocation, Location, Location\u201d", "Author": "Verena E", "ReviewID": "UR120073561", "Content": "stones throw spanish steps heart upmarket shopping quad 1 dble bed 2 singles 4 overlooking busy street below atmosphere home beds midnight noise wasnt issue bathroom decent size bed pillows comfy shutters ensured total darkness little hotel wouldnt hesitate stay", "Date": "2011-11-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cWhat more could you really want for a fabulous location in Rome?!\u201d", "Author": "Talia1284", "ReviewID": "UR106810500", "Content": "agree start tripadvisor service easy book hotel location brilliant sounds positive read reviews telling stay flights rome booked extra month decent sounding hotel rome stay quarter exactly piazza di spagna taxi driver dropped rain pantheon told corner couldnt door collected hard raining friday night streets busy hotel piaza di spagna gorgeous cobbled street bustling restaurants ivy covered walls typical youd expect narrow street rome look staff fantastic couldnt helpful recommend local eateries helped directions booked taxi journey sweet traditional looking comfortable cares tad peeling wallpaper stain ruin stay bathroom bath jacuzzi jets perfect relaxing day bathroom shutters kept majority noise enabled night sleep comfy bed clean neat breakfast basic job selection cakes slices baguette cheese plate ham cereals fruit perfect continental combination sit kitchen 12 seats wasnt outside courtyard location walking distance fabulous boutiques locally wasnt disliked hotel wouldnt hesitate stay recommend friends reviews pinch salt worried silly little comments alter location service", "Date": "2011-05-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Sydney", "Title": "\u201ca charming boutique hotel walking distance to everything beautiful Rome has to offer\u201d", "Author": "JoyaSydney", "ReviewID": "UR71942214", "Content": "travelling 24 hours sydney immerse ourselves roman streets eat sleep charming welcoming hotel minutes piazza di spagna ive stayed couple times feel italian sheets feel italian relief close shutters gloriously dark quiet outside roman streets bustling stayed rome rome returning comfortable bed shower travelled 12 daughter loved staying watching italian tv game real insight quiet condusive compulsory reading bed late afternoon ventured gelato stroll eveningand stroll hotel close staff helpful ready suggest wonderful thank friend recommending hotel recently reprimanded writing review enjoy stayi backmaybe time romantic stay", "Date": "2010-07-22 00:00:00"}], "HotelInfo": {"Name": "Hotel Piazza di Spagna", "HotelURL": "/ShowUserReviews-g187791-d239212-Reviews-Hotel_Piazza_di_Spagna-Rome_Lazio.html", "Price": "$128 - $292*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Mario de' Fiori 61</span>, <span class=\"locality\"><span property=\"v:postal-code\">00187</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "239212", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/95/7a/957a5acfe79a257131a74bf1f1f6c54c1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rio de Janeiro, RJ",
+      "Title": "\u201cRecommended hotel\u201d",
+      "Author": "unabelessa",
+      "ReviewID": "UR126761162",
+      "Content": "weve booked double superior advance guess price 390 euro 4 nights clean confortable spacious located floor restaurant heading via mario de fiori imagine summer time bit noisy due restaurants street winter time noise absolutely bathroom spacious shower breakfast ok excellent expresso staff helpful little weve booked taxi airport 10 min earlier",
+      "Date": "2012-03-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Erie, Pennsylvania",
+      "Title": "\u201cGreat location, OK accomodations\u201d",
+      "Author": "billharley",
+      "ReviewID": "UR124961067",
+      "Content": "hotel located block spanish steps near perfect location 60 able walk tourist attractions rome vatican museums ancient sites outstanding churches elegant shopping via condotti via del corso corner hotel staff friendly helpful providing useful maps dining suggestions 108 deluxe superior featured modern bathroom bidet tub confining shower enclosure water pressure hot water ample tv english language program cnn extensive selection local channels hotel undergoing renovation added noise construction activity lobby breakfast modest adequate served tiny patio closed due cold weather recommend hotel hope return",
+      "Date": "2012-02-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Washington, DC",
+      "Title": "\u201cLovely Hotel; Amazing location!\u201d",
+      "Author": "lisa k",
+      "ReviewID": "UR121751719",
+      "Content": "stayed week nights location absolutely amazing super close spanish steps walking distance entire city including forum vatican staff helpful maps directions restaurant suggestions internet access 104 comfortable clean overall experience lovely definitely",
+      "Date": "2011-12-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Kettwig, Nordrhein-Westfalen, Germany",
+      "Title": "\u201cLocation, Location, Location\u201d",
+      "Author": "Verena E",
+      "ReviewID": "UR120073561",
+      "Content": "stones throw spanish steps heart upmarket shopping quad 1 dble bed 2 singles 4 overlooking busy street below atmosphere home beds midnight noise wasnt issue bathroom decent size bed pillows comfy shutters ensured total darkness little hotel wouldnt hesitate stay",
+      "Date": "2011-11-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cWhat more could you really want for a fabulous location in Rome?!\u201d",
+      "Author": "Talia1284",
+      "ReviewID": "UR106810500",
+      "Content": "agree start tripadvisor service easy book hotel location brilliant sounds positive read reviews telling stay flights rome booked extra month decent sounding hotel rome stay quarter exactly piazza di spagna taxi driver dropped rain pantheon told corner couldnt door collected hard raining friday night streets busy hotel piaza di spagna gorgeous cobbled street bustling restaurants ivy covered walls typical youd expect narrow street rome look staff fantastic couldnt helpful recommend local eateries helped directions booked taxi journey sweet traditional looking comfortable cares tad peeling wallpaper stain ruin stay bathroom bath jacuzzi jets perfect relaxing day bathroom shutters kept majority noise enabled night sleep comfy bed clean neat breakfast basic job selection cakes slices baguette cheese plate ham cereals fruit perfect continental combination sit kitchen 12 seats wasnt outside courtyard location walking distance fabulous boutiques locally wasnt disliked hotel wouldnt hesitate stay recommend friends reviews pinch salt worried silly little comments alter location service",
+      "Date": "2011-05-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Sydney",
+      "Title": "\u201ca charming boutique hotel walking distance to everything beautiful Rome has to offer\u201d",
+      "Author": "JoyaSydney",
+      "ReviewID": "UR71942214",
+      "Content": "travelling 24 hours sydney immerse ourselves roman streets eat sleep charming welcoming hotel minutes piazza di spagna ive stayed couple times feel italian sheets feel italian relief close shutters gloriously dark quiet outside roman streets bustling stayed rome rome returning comfortable bed shower travelled 12 daughter loved staying watching italian tv game real insight quiet condusive compulsory reading bed late afternoon ventured gelato stroll eveningand stroll hotel close staff helpful ready suggest wonderful thank friend recommending hotel recently reprimanded writing review enjoy stayi backmaybe time romantic stay",
+      "Date": "2010-07-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Piazza di Spagna",
+    "HotelURL": "/ShowUserReviews-g187791-d239212-Reviews-Hotel_Piazza_di_Spagna-Rome_Lazio.html",
+    "Price": "$128 - $292*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Mario de' Fiori 61</span>, <span class=\"locality\"><span property=\"v:postal-code\">00187</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "239212",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/95/7a/957a5acfe79a257131a74bf1f1f6c54c1large.jpg"
+  }
+}

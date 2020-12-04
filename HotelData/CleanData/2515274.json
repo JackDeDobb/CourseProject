@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cSome problems but customer service is good\u201d", "Author": "teaearlgreyhot", "ReviewID": "UR125800558", "Content": "hotel considered ideally located metro food options comprehensive customer service warm helpful parisian standards night available hotel nice unfortunately upgraded superior remainder stay couple niggles apparently air conditioner stops window rest stay hotel replenish free minibar charged refill shower weird intensely hot 5 warm 30 crazily hot 5 map probably hotel ive stayed paris price honest", "Date": "2012-03-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cAn Excellent Hotel in a Great Location.\u201d", "Author": "Marion053 Posted by an Accorhotels.com traveler", "ReviewID": "UR122270255", "Content": "hotel excellent staff friendly helpful clean extremely comfortable stayed superior huge paris standards assume standard size adequate value excellent deal booking internet am normal rate overall extremely clean appointed hotel consider staying", "Date": "2011-12-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "", "Title": "\u201cGreat for a city break in Paris\u201d", "Author": "Bigamee", "ReviewID": "UR121463379", "Content": "hotel ticked boxes city break paris location walkable metro easy links gare du nord train boutiquey didnt feel inpersonal excellent staff trained service focussed rarely found outside hotels paris recently refurbished looks worn tired reasonably sized bathrooms extremely furnished standard exactly hope rarely reasonable price issues breakfast euro 16 hotel visit local cafes macdonalds street", "Date": "2011-12-06 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "", "Title": "\u201cReview for Mercure Paris\u201d", "Author": "Posted by an Accorhotels.com traveler", "ReviewID": "UR120572347", "Content": "hotel renovated recently worth 145 euro day near metro near attraction dim", "Date": "2011-11-14 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cBusiness hotel - a bit random\u201d", "Author": "AxelR0695", "ReviewID": "UR118525871", "Content": "hotel refurbished mercure style modernlooking plastic furniture 2330 surprise wake woman door scared screamed scared anyway front desk twin called front desk explained paid double bed front desk finally double bed extremely unoccupied receptionist apologise role wireless properly desk sit sort table sat bed uncomfortable position bathroom clean overall wasnt service helpful clumsy id business else", "Date": "2011-09-24 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "vicenza", "Title": "\u201ca new clean and efficient hotel\u201d", "Author": "alessandroVI", "ReviewID": "UR96308777", "Content": "spent paris days stayed hotel hotel building ok organized watchout cause hotel rue richard le noir lost afraid hotel rue near voltaire metro stop meters entrance hotel", "Date": "2011-02-12 00:00:00"}], "HotelInfo": {"Name": "Mercure Paris Voltaire Quartier Bastille", "HotelURL": "/ShowUserReviews-g187147-d1950189-Reviews-Mercure_Paris_Voltaire_Quartier_Bastille-Paris_Ile_de_France.html", "Price": "$132 - $280*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">53 rue Richard Lenoir</span>, <span class=\"locality\"><span property=\"v:postal-code\">75011</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>", "HotelID": "2515274", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/ce/8a/73/mercure-paris-voltaire.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cSome problems but customer service is good\u201d",
+      "Author": "teaearlgreyhot",
+      "ReviewID": "UR125800558",
+      "Content": "hotel considered ideally located metro food options comprehensive customer service warm helpful parisian standards night available hotel nice unfortunately upgraded superior remainder stay couple niggles apparently air conditioner stops window rest stay hotel replenish free minibar charged refill shower weird intensely hot 5 warm 30 crazily hot 5 map probably hotel ive stayed paris price honest",
+      "Date": "2012-03-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cAn Excellent Hotel in a Great Location.\u201d",
+      "Author": "Marion053 Posted by an Accorhotels.com traveler",
+      "ReviewID": "UR122270255",
+      "Content": "hotel excellent staff friendly helpful clean extremely comfortable stayed superior huge paris standards assume standard size adequate value excellent deal booking internet am normal rate overall extremely clean appointed hotel consider staying",
+      "Date": "2011-12-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cGreat for a city break in Paris\u201d",
+      "Author": "Bigamee",
+      "ReviewID": "UR121463379",
+      "Content": "hotel ticked boxes city break paris location walkable metro easy links gare du nord train boutiquey didnt feel inpersonal excellent staff trained service focussed rarely found outside hotels paris recently refurbished looks worn tired reasonably sized bathrooms extremely furnished standard exactly hope rarely reasonable price issues breakfast euro 16 hotel visit local cafes macdonalds street",
+      "Date": "2011-12-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cReview for Mercure Paris\u201d",
+      "Author": "Posted by an Accorhotels.com traveler",
+      "ReviewID": "UR120572347",
+      "Content": "hotel renovated recently worth 145 euro day near metro near attraction dim",
+      "Date": "2011-11-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cBusiness hotel - a bit random\u201d",
+      "Author": "AxelR0695",
+      "ReviewID": "UR118525871",
+      "Content": "hotel refurbished mercure style modernlooking plastic furniture 2330 surprise wake woman door scared screamed scared anyway front desk twin called front desk explained paid double bed front desk finally double bed extremely unoccupied receptionist apologise role wireless properly desk sit sort table sat bed uncomfortable position bathroom clean overall wasnt service helpful clumsy id business else",
+      "Date": "2011-09-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "vicenza",
+      "Title": "\u201ca new clean and efficient hotel\u201d",
+      "Author": "alessandroVI",
+      "ReviewID": "UR96308777",
+      "Content": "spent paris days stayed hotel hotel building ok organized watchout cause hotel rue richard le noir lost afraid hotel rue near voltaire metro stop meters entrance hotel",
+      "Date": "2011-02-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Mercure Paris Voltaire Quartier Bastille",
+    "HotelURL": "/ShowUserReviews-g187147-d1950189-Reviews-Mercure_Paris_Voltaire_Quartier_Bastille-Paris_Ile_de_France.html",
+    "Price": "$132 - $280*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">53 rue Richard Lenoir</span>, <span class=\"locality\"><span property=\"v:postal-code\">75011</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>",
+    "HotelID": "2515274",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/ce/8a/73/mercure-paris-voltaire.jpg"
+  }
+}

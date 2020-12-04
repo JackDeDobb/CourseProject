@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Kuwait City, Kuwait", "Title": "\u201cPleasantly Suprised\u201d", "Author": "maryb8355", "ReviewID": "UR123676771", "Content": "hotel picked reasonably priced time dubai pleasantly surprised reading reviews trip advisor sites skeptical check fast efficient porter met cab tried luggage carry ons help declined pleasantly surprised cleanliness size king bed sofa plenty people manuever running top sheet bed called housekeeping provided immediately day nice blanket despite reviewers extra comforter closet bathroom huge hotel standards little dated fixtures repair tub shower huge sink provided type bath towels hand towels wash cloths hotels middle east provide wash cloths called housekeeping immediately brought hand towels provided daily afterwards water pressure horrible shower extended lacking pressure hot water lasted entire time shower restaurant site eat indian filipino food plenty walking distance city center mall short taxi ride paid 10 aed trip lot eat metro station close 5 minute walk goes city airport store minute hotel carries forgotten soda instant coffee etc etc 7th floor heard noise night club entire stay tell bad people dont stay overall okay hotel lost city luxury hotels little dated looking cheap stay heart city consider", "Date": "2012-01-26 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Brisbane, Australia", "Title": "\u201cJust Terrible\u201d", "Author": "potkan", "ReviewID": "UR123092212", "Content": "parents stayed hotel recently write review warn stay hotel spite poor reviews filthy bathroom spotted mould night clubs located lower hotel levels noise coming street luckily stayed night night waiting flight", "Date": "2012-01-15 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Kabul", "Title": "\u201cBoycott this hotel, stop the trade in human beings\u201d", "Author": "SteamyKabul", "ReviewID": "UR101692647", "Content": "lots reasons stay value money stay dubai spread transport stay taxis frequent numerous downsides hotel lack hot water hot tap supplied luke warm water reception fussed fix biggest night clubs lower floors auction south asian sex workers attend clubs bid girls course evening watching short distressing girls sit bench stage dance front course night bids girls leave stage drink permission girls club online booking agents policy checking hotels human decency hotel withdrawn websites", "Date": "2011-03-27 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "tehran", "Title": "\u201cJust do not go there, Terrible\u201d", "Author": "aminsmiley", "ReviewID": "UR88605088", "Content": "november 22 27 2010 airport forgot bags called country didnt care am left building bad service bags stolen dont", "Date": "2010-11-30 00:00:00"}], "HotelInfo": {"Name": "Orchid Hotel", "HotelURL": "/ShowUserReviews-g295424-d455104-Reviews-Orchid_Hotel-Dubai.html", "Price": "$68 - $121*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Al Rigga Street</span> | <span class=\"extended-address\">PO Box 14042, Deira</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span> <span property=\"v:postal-code\">14042</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "455104", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ae/f1/aef187b8f0e5a61adf29a00d940a9f695large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Kuwait City, Kuwait",
+      "Title": "\u201cPleasantly Suprised\u201d",
+      "Author": "maryb8355",
+      "ReviewID": "UR123676771",
+      "Content": "hotel picked reasonably priced time dubai pleasantly surprised reading reviews trip advisor sites skeptical check fast efficient porter met cab tried luggage carry ons help declined pleasantly surprised cleanliness size king bed sofa plenty people manuever running top sheet bed called housekeeping provided immediately day nice blanket despite reviewers extra comforter closet bathroom huge hotel standards little dated fixtures repair tub shower huge sink provided type bath towels hand towels wash cloths hotels middle east provide wash cloths called housekeeping immediately brought hand towels provided daily afterwards water pressure horrible shower extended lacking pressure hot water lasted entire time shower restaurant site eat indian filipino food plenty walking distance city center mall short taxi ride paid 10 aed trip lot eat metro station close 5 minute walk goes city airport store minute hotel carries forgotten soda instant coffee etc etc 7th floor heard noise night club entire stay tell bad people dont stay overall okay hotel lost city luxury hotels little dated looking cheap stay heart city consider",
+      "Date": "2012-01-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Brisbane, Australia",
+      "Title": "\u201cJust Terrible\u201d",
+      "Author": "potkan",
+      "ReviewID": "UR123092212",
+      "Content": "parents stayed hotel recently write review warn stay hotel spite poor reviews filthy bathroom spotted mould night clubs located lower hotel levels noise coming street luckily stayed night night waiting flight",
+      "Date": "2012-01-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Kabul",
+      "Title": "\u201cBoycott this hotel, stop the trade in human beings\u201d",
+      "Author": "SteamyKabul",
+      "ReviewID": "UR101692647",
+      "Content": "lots reasons stay value money stay dubai spread transport stay taxis frequent numerous downsides hotel lack hot water hot tap supplied luke warm water reception fussed fix biggest night clubs lower floors auction south asian sex workers attend clubs bid girls course evening watching short distressing girls sit bench stage dance front course night bids girls leave stage drink permission girls club online booking agents policy checking hotels human decency hotel withdrawn websites",
+      "Date": "2011-03-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "tehran",
+      "Title": "\u201cJust do not go there, Terrible\u201d",
+      "Author": "aminsmiley",
+      "ReviewID": "UR88605088",
+      "Content": "november 22 27 2010 airport forgot bags called country didnt care am left building bad service bags stolen dont",
+      "Date": "2010-11-30 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Orchid Hotel",
+    "HotelURL": "/ShowUserReviews-g295424-d455104-Reviews-Orchid_Hotel-Dubai.html",
+    "Price": "$68 - $121*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Al Rigga Street</span> | <span class=\"extended-address\">PO Box 14042, Deira</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span> <span property=\"v:postal-code\">14042</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "455104",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ae/f1/aef187b8f0e5a61adf29a00d940a9f695large.jpg"
+  }
+}

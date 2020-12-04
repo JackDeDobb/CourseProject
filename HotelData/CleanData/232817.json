@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Nelson", "Title": "\u201cShort Break In Madrid\u201d", "Author": "petermac68", "ReviewID": "UR125876759", "Content": "fourth nh hotel booked stayed lot conferences business travellers tourists expect flash discount sale 50 cancellation refund dissapointed paid price interior ths bit clean location adjacent playa santa 2030 minutes walk centre boisterous night paid upgrade superior huge bathroom breakfast adequate dont eggs bacon cook fresh dont isnt staff extremely helpful friendly airport booked shuttle aerocity 16 euros whereas taxi cost 40e airport tube lots steps negotiate wouldnt recommend peak times madrid spread traffic tube lot buy day pass included buses watchout pickpockets tube centre tried wifes bag twice lots prostitutes gran via sol distasteful operate broad daylight", "Date": "2012-03-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "North Berwick, United Kingdom", "Title": "\u201ctwixmas\u201d", "Author": "Yvonne D", "ReviewID": "UR125695848", "Content": "husband travelled christmas spent 3 nights hotel ideal walk pleasant walk centre sol 30 minutes little breakfast smoothie bar fab bagels crossiants etc road corner cheap hotel value money spacious en suite bath pubs metro station dont walk home center 10mins metro staff helpful friendly spoke english critisism looked central courtyard call dimly lit double bed 2 singles drifting apart hardly city definetly return hotel facing outside", "Date": "2012-03-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Boston, Massachusetts", "Title": "\u201cMy first visit to Madrid\u201d", "Author": "Lynda R", "ReviewID": "UR120497597", "Content": "chose hotel closest daughter staying studying madrid school pleasant surprised 2 stay sitting table 2 chairs padded bench sitting closet shelves clothing storage hanging 2 twin beds pushed bedroom deskchair 2 nightstands chest tv mini barfridge chest bathroom clean stay close metro walking distance eat eat hotel looking breakfast suggest finding vips eat vips travellers stock supply prepared foods groceries alcoholic beverages short distance hotel stay madrid", "Date": "2011-11-12 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Philadelphia", "Title": "\u201cNice location\u201d", "Author": "hughesef", "ReviewID": "UR77450439", "Content": "im little late writing review stayed friend september 2009 stayed 5 days nice experience location close metro easy walk clean spacious bathroom eat hotel nor help staff comment overall nice experience location staying worth", "Date": "2010-08-30 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Milano", "Title": "\u201cGood position and staying\u201d", "Author": "mynicknameMilano", "ReviewID": "UR75653671", "Content": "feature hotel position outside center quiet easily reach car town center walking distance 15 min reasonably clean spacious particular roller blinds dark curtains obvious spain negative aspect close building 5 meters cant sky outside view street breakfast included rich worth paying theres free wifi lobby perfectly performing 5 euro hour", "Date": "2010-08-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Wells, United Kingdom", "Title": "\u201cIdeal location; monster sized bathroom\u201d", "Author": "wellensian", "ReviewID": "UR66092696", "Content": "2 week business trip picked hotel location town alonso martinez metro station line 5 spent week nh balboa building vary enormously usual wise request exterior interior dingy complete quiet advised avoid hotel main road traffic junction urban noise bother fine polished wood floors usual nh furnishings supplemented hotel stained glass shields windows bathroom enormous bath largest walkin shower encountered condition little tired detract experience restaurant bar currently closed refurbishment breakfast served plenty fruit cold meats tortilla croissants etc spain strong coffee hotel suited purposes stay", "Date": "2010-06-01 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Rome, Italy", "Title": "\u201cGreat location, good value, excellent breakfast\u201d", "Author": "Romankiwi", "ReviewID": "UR63520310", "Content": "nh located meters alonso martinez metro stop means perfect visitors madrid metro airport change hotel 45 minutes grand price 2 euros check smooth ready clean housemaid left soap etc quick trip reception solved shampoo soap etc replaced facing hotel wall quiet breakfast buffet excellent cereals juices breads rolls sweet rolls bacon eggs chorizo cheeses tortilla ham fresh fruits yoghurts etc etc breakfast staff courteous willing sometimes overwhelmed wifi free lobby 30 minute intervals renewed expensive \u20ac5 30 minutes \u20ac10 24 hours continuous mini bar supermarket 2 blocks reception staff friendly helpful check smooth quick nh perfect stay madrid definitely stay hesitation recommending hotel visiting madrid tourism business", "Date": "2010-05-07 00:00:00"}], "HotelInfo": {"Name": "NH Embajada", "HotelURL": "/ShowUserReviews-g187514-d232817-Reviews-NH_Embajada-Madrid.html", "Price": "$79 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Santa Engracia 5</span>, <span class=\"locality\"><span property=\"v:postal-code\">28010</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "232817", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/cd/14/cd149242e5ee9fc005230654b953908f1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Nelson",
+      "Title": "\u201cShort Break In Madrid\u201d",
+      "Author": "petermac68",
+      "ReviewID": "UR125876759",
+      "Content": "fourth nh hotel booked stayed lot conferences business travellers tourists expect flash discount sale 50 cancellation refund dissapointed paid price interior ths bit clean location adjacent playa santa 2030 minutes walk centre boisterous night paid upgrade superior huge bathroom breakfast adequate dont eggs bacon cook fresh dont isnt staff extremely helpful friendly airport booked shuttle aerocity 16 euros whereas taxi cost 40e airport tube lots steps negotiate wouldnt recommend peak times madrid spread traffic tube lot buy day pass included buses watchout pickpockets tube centre tried wifes bag twice lots prostitutes gran via sol distasteful operate broad daylight",
+      "Date": "2012-03-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "North Berwick, United Kingdom",
+      "Title": "\u201ctwixmas\u201d",
+      "Author": "Yvonne D",
+      "ReviewID": "UR125695848",
+      "Content": "husband travelled christmas spent 3 nights hotel ideal walk pleasant walk centre sol 30 minutes little breakfast smoothie bar fab bagels crossiants etc road corner cheap hotel value money spacious en suite bath pubs metro station dont walk home center 10mins metro staff helpful friendly spoke english critisism looked central courtyard call dimly lit double bed 2 singles drifting apart hardly city definetly return hotel facing outside",
+      "Date": "2012-03-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Boston, Massachusetts",
+      "Title": "\u201cMy first visit to Madrid\u201d",
+      "Author": "Lynda R",
+      "ReviewID": "UR120497597",
+      "Content": "chose hotel closest daughter staying studying madrid school pleasant surprised 2 stay sitting table 2 chairs padded bench sitting closet shelves clothing storage hanging 2 twin beds pushed bedroom deskchair 2 nightstands chest tv mini barfridge chest bathroom clean stay close metro walking distance eat eat hotel looking breakfast suggest finding vips eat vips travellers stock supply prepared foods groceries alcoholic beverages short distance hotel stay madrid",
+      "Date": "2011-11-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Philadelphia",
+      "Title": "\u201cNice location\u201d",
+      "Author": "hughesef",
+      "ReviewID": "UR77450439",
+      "Content": "im little late writing review stayed friend september 2009 stayed 5 days nice experience location close metro easy walk clean spacious bathroom eat hotel nor help staff comment overall nice experience location staying worth",
+      "Date": "2010-08-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Milano",
+      "Title": "\u201cGood position and staying\u201d",
+      "Author": "mynicknameMilano",
+      "ReviewID": "UR75653671",
+      "Content": "feature hotel position outside center quiet easily reach car town center walking distance 15 min reasonably clean spacious particular roller blinds dark curtains obvious spain negative aspect close building 5 meters cant sky outside view street breakfast included rich worth paying theres free wifi lobby perfectly performing 5 euro hour",
+      "Date": "2010-08-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Wells, United Kingdom",
+      "Title": "\u201cIdeal location; monster sized bathroom\u201d",
+      "Author": "wellensian",
+      "ReviewID": "UR66092696",
+      "Content": "2 week business trip picked hotel location town alonso martinez metro station line 5 spent week nh balboa building vary enormously usual wise request exterior interior dingy complete quiet advised avoid hotel main road traffic junction urban noise bother fine polished wood floors usual nh furnishings supplemented hotel stained glass shields windows bathroom enormous bath largest walkin shower encountered condition little tired detract experience restaurant bar currently closed refurbishment breakfast served plenty fruit cold meats tortilla croissants etc spain strong coffee hotel suited purposes stay",
+      "Date": "2010-06-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rome, Italy",
+      "Title": "\u201cGreat location, good value, excellent breakfast\u201d",
+      "Author": "Romankiwi",
+      "ReviewID": "UR63520310",
+      "Content": "nh located meters alonso martinez metro stop means perfect visitors madrid metro airport change hotel 45 minutes grand price 2 euros check smooth ready clean housemaid left soap etc quick trip reception solved shampoo soap etc replaced facing hotel wall quiet breakfast buffet excellent cereals juices breads rolls sweet rolls bacon eggs chorizo cheeses tortilla ham fresh fruits yoghurts etc etc breakfast staff courteous willing sometimes overwhelmed wifi free lobby 30 minute intervals renewed expensive \u20ac5 30 minutes \u20ac10 24 hours continuous mini bar supermarket 2 blocks reception staff friendly helpful check smooth quick nh perfect stay madrid definitely stay hesitation recommending hotel visiting madrid tourism business",
+      "Date": "2010-05-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "NH Embajada",
+    "HotelURL": "/ShowUserReviews-g187514-d232817-Reviews-NH_Embajada-Madrid.html",
+    "Price": "$79 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Santa Engracia 5</span>, <span class=\"locality\"><span property=\"v:postal-code\">28010</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "232817",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/cd/14/cd149242e5ee9fc005230654b953908f1large.jpg"
+  }
+}

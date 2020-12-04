@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Australia", "Title": "\u201cSurprisingly good\u201d", "Author": "Aussietiourist", "ReviewID": "UR128208071", "Content": "motel surprising price location ar spacious appointed tele clean price desk service efficient questions surrounding services amenities unable answered world closes front door easy walk local rail services city centre suprisingly quiet motel close major roadway airport flight path stay future paid 134 night couple", "Date": "2012-04-20 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "", "Title": "\u201cHotel started off well until...\u201d", "Author": "Beckydu", "ReviewID": "UR127231652", "Content": "hotel appeared value money weve left realised expensive torch missing reason car stolen contacted hotel afternoon left search told dont claim hasnt found explanation stage stay disappointing", "Date": "2012-04-04 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Stirling, United Kingdom", "Title": "\u201cNot huge luxury but great value for money.\u201d", "Author": "frankiemac28", "ReviewID": "UR125918887", "Content": "garden lodge hotel superb value money 5 minute walk metro town 10 minutes wifi quality 5 bar fox sports channels free staff extremely pleasant helpful seen couple bland reviews online probably rich idiots obviously staying huge luxury hotels cost twice times cost quality hugely luxurious earlier mentioned positives hotel 89 10 sydney yes stay frankie mac", "Date": "2012-03-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Melbourne", "Title": "\u201cClean room. Friendly Staff.\u201d", "Author": "SilverProdigy", "ReviewID": "UR120805065", "Content": "selected hotel due proximity stadium based previous reviews spacious clean service daily annoyance shower doors meant whenever shower entire bathroom wet hotel washing machine dryer free guests impressed friendliness staff probably wont recommend tourists wishing main sites sydney eg opera house harbour bridge etc unless car nearby train station 10 minute walk similar price able obtain accomodation closer sydney cbd", "Date": "2011-11-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Vancouver, Canada", "Title": "\u201cLoved Our Stay With our 20 Months Old Daughter\u201d", "Author": "AnnyKhan", "ReviewID": "UR107034740", "Content": "booked loved 5 minutes walk train station recommend whenever sydney canada love stay manager nice deal customers happy stay lived week", "Date": "2011-05-05 00:00:00"}], "HotelInfo": {"Name": "Garden Lodge Sydney", "HotelURL": "/ShowUserReviews-g255060-d262572-Reviews-Garden_Lodge_Sydney-Sydney_New_South_Wales.html", "Price": "$102 - $176*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">17 Parramatta Rd</span> | <span class=\"extended-address\">Haberfield</span>, <span class=\"locality\"><span property=\"v:locality\">Sydney</span>, <span property=\"v:region\">New South Wales</span> <span property=\"v:postal-code\">2045</span></span>, <span class=\"country-name\" property=\"v:country-name\">Australia</span> </span></span></address>", "HotelID": "262572", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/82/da/82dad06bbf7d6d470feee630bdb758fc5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Australia",
+      "Title": "\u201cSurprisingly good\u201d",
+      "Author": "Aussietiourist",
+      "ReviewID": "UR128208071",
+      "Content": "motel surprising price location ar spacious appointed tele clean price desk service efficient questions surrounding services amenities unable answered world closes front door easy walk local rail services city centre suprisingly quiet motel close major roadway airport flight path stay future paid 134 night couple",
+      "Date": "2012-04-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cHotel started off well until...\u201d",
+      "Author": "Beckydu",
+      "ReviewID": "UR127231652",
+      "Content": "hotel appeared value money weve left realised expensive torch missing reason car stolen contacted hotel afternoon left search told dont claim hasnt found explanation stage stay disappointing",
+      "Date": "2012-04-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Stirling, United Kingdom",
+      "Title": "\u201cNot huge luxury but great value for money.\u201d",
+      "Author": "frankiemac28",
+      "ReviewID": "UR125918887",
+      "Content": "garden lodge hotel superb value money 5 minute walk metro town 10 minutes wifi quality 5 bar fox sports channels free staff extremely pleasant helpful seen couple bland reviews online probably rich idiots obviously staying huge luxury hotels cost twice times cost quality hugely luxurious earlier mentioned positives hotel 89 10 sydney yes stay frankie mac",
+      "Date": "2012-03-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Melbourne",
+      "Title": "\u201cClean room. Friendly Staff.\u201d",
+      "Author": "SilverProdigy",
+      "ReviewID": "UR120805065",
+      "Content": "selected hotel due proximity stadium based previous reviews spacious clean service daily annoyance shower doors meant whenever shower entire bathroom wet hotel washing machine dryer free guests impressed friendliness staff probably wont recommend tourists wishing main sites sydney eg opera house harbour bridge etc unless car nearby train station 10 minute walk similar price able obtain accomodation closer sydney cbd",
+      "Date": "2011-11-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Vancouver, Canada",
+      "Title": "\u201cLoved Our Stay With our 20 Months Old Daughter\u201d",
+      "Author": "AnnyKhan",
+      "ReviewID": "UR107034740",
+      "Content": "booked loved 5 minutes walk train station recommend whenever sydney canada love stay manager nice deal customers happy stay lived week",
+      "Date": "2011-05-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Garden Lodge Sydney",
+    "HotelURL": "/ShowUserReviews-g255060-d262572-Reviews-Garden_Lodge_Sydney-Sydney_New_South_Wales.html",
+    "Price": "$102 - $176*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">17 Parramatta Rd</span> | <span class=\"extended-address\">Haberfield</span>, <span class=\"locality\"><span property=\"v:locality\">Sydney</span>, <span property=\"v:region\">New South Wales</span> <span property=\"v:postal-code\">2045</span></span>, <span class=\"country-name\" property=\"v:country-name\">Australia</span> </span></span></address>",
+    "HotelID": "262572",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/82/da/82dad06bbf7d6d470feee630bdb758fc5large.jpg"
+  }
+}

@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Kuala Lumpur, Malaysia", "Title": "\u201clousy hotel....\u201d", "Author": "lulung20", "ReviewID": "UR125034874", "Content": "stayed hotel lousy family smelly kettle boiling water free unfriendly mcdonald opposite hotel kfc steps station nearby", "Date": "2012-02-22 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Harare", "Title": "\u201c50/50 construction going on outside a real eye sore\u201d", "Author": "Felistus", "ReviewID": "UR113419874", "Content": "prices dubai accomodation shower built water flows cubicle onto floor messy food standard breakfast front hotel rater eyesore due metro station construction am noisy aircon agreed move english channels limited tv", "Date": "2011-06-14 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "nigeria", "Title": "\u201cValue for Deira stay\u201d", "Author": "solo40Nigeria", "ReviewID": "UR105007343", "Content": "landmark ideal trader deira market walk choice eating golden fork kfc mac donalds vicinity hotel till 2am internet service", "Date": "2011-04-22 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Kl-ite in Malaysia", "Title": "\u201cI did not feel safe, hotel smells\u201d", "Author": "suetz", "ReviewID": "UR90083128", "Content": "transit kl milan stayed 1 night hote plaza dubai recommended emirates couldnt stand thick smell reception lift lobby floor call middle night reception knock door middle night hotel staff advised change meals buying water etc expecting classy restuarant shawarma outside cost 4 dirham 1 euro english reruns tv night crowded people", "Date": "2010-12-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Athens, Greece", "Title": "\u201cgreat value\u201d", "Author": "linda_NZTePuke", "ReviewID": "UR88958647", "Content": "stayed october weather hot walk gold spice souk 15 mins hotel easy taxis passing outside attractions square outside metro station bit noisy werent day finished clean staff friendly helpful checkin email breakfast plentiful everyones tastes reception book safari value hotel shape lots russians signs russian fur coats lots cheap shops vicinity dark pavements little restaurants eat cheap tasty style meals english menus try fresh juices juice bars juices menus juiced front coconut cheap loved dubai time dubai mall shopping expensive food hall book day ahead worlds tallest building 5 minute walk hotel creek boat youll cruise price gold spice souk hotel creek walk following road signs souks streets easy lost easy mosques lots local life hotel advertise 2 restaurants fine midday meal buffet lots choose economical", "Date": "2010-12-03 00:00:00"}], "HotelInfo": {"Name": "Landmark Plaza Hotel", "HotelURL": "/ShowUserReviews-g295424-d306729-Reviews-Landmark_Plaza_Hotel-Dubai.html", "Price": "$68 - $143*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Omar Bin Al Kattab Rd , Al Nasser Square</span> | <span class=\"extended-address\">PO Box 42222</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "306729", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/a5/40/d7/hotel-doble-room.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Kuala Lumpur, Malaysia",
+      "Title": "\u201clousy hotel....\u201d",
+      "Author": "lulung20",
+      "ReviewID": "UR125034874",
+      "Content": "stayed hotel lousy family smelly kettle boiling water free unfriendly mcdonald opposite hotel kfc steps station nearby",
+      "Date": "2012-02-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Harare",
+      "Title": "\u201c50/50 construction going on outside a real eye sore\u201d",
+      "Author": "Felistus",
+      "ReviewID": "UR113419874",
+      "Content": "prices dubai accomodation shower built water flows cubicle onto floor messy food standard breakfast front hotel rater eyesore due metro station construction am noisy aircon agreed move english channels limited tv",
+      "Date": "2011-06-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "nigeria",
+      "Title": "\u201cValue for Deira stay\u201d",
+      "Author": "solo40Nigeria",
+      "ReviewID": "UR105007343",
+      "Content": "landmark ideal trader deira market walk choice eating golden fork kfc mac donalds vicinity hotel till 2am internet service",
+      "Date": "2011-04-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Kl-ite in Malaysia",
+      "Title": "\u201cI did not feel safe, hotel smells\u201d",
+      "Author": "suetz",
+      "ReviewID": "UR90083128",
+      "Content": "transit kl milan stayed 1 night hote plaza dubai recommended emirates couldnt stand thick smell reception lift lobby floor call middle night reception knock door middle night hotel staff advised change meals buying water etc expecting classy restuarant shawarma outside cost 4 dirham 1 euro english reruns tv night crowded people",
+      "Date": "2010-12-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Athens, Greece",
+      "Title": "\u201cgreat value\u201d",
+      "Author": "linda_NZTePuke",
+      "ReviewID": "UR88958647",
+      "Content": "stayed october weather hot walk gold spice souk 15 mins hotel easy taxis passing outside attractions square outside metro station bit noisy werent day finished clean staff friendly helpful checkin email breakfast plentiful everyones tastes reception book safari value hotel shape lots russians signs russian fur coats lots cheap shops vicinity dark pavements little restaurants eat cheap tasty style meals english menus try fresh juices juice bars juices menus juiced front coconut cheap loved dubai time dubai mall shopping expensive food hall book day ahead worlds tallest building 5 minute walk hotel creek boat youll cruise price gold spice souk hotel creek walk following road signs souks streets easy lost easy mosques lots local life hotel advertise 2 restaurants fine midday meal buffet lots choose economical",
+      "Date": "2010-12-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Landmark Plaza Hotel",
+    "HotelURL": "/ShowUserReviews-g295424-d306729-Reviews-Landmark_Plaza_Hotel-Dubai.html",
+    "Price": "$68 - $143*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Omar Bin Al Kattab Rd , Al Nasser Square</span> | <span class=\"extended-address\">PO Box 42222</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "306729",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/a5/40/d7/hotel-doble-room.jpg"
+  }
+}

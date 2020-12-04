@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 5.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Bas-Vegas", "Title": "\u201cGood for couples on a budget.\u201d", "Author": "upsidedan", "ReviewID": "UR98270963", "Content": "hotel situated 3rd floor building located owned people run hotel mirage arrived luckily little italian whereabouts piano floor italian climbed stairs buzzed eventually greeted gentleman cozy warm noticed aircon unit tv buzzing noise selection tv speak italian course plenty storage time spent bathroon advertise condition hot water rare shared boiler building hotel particular partition time overall stay enjoyable easy 610 cons pros cons walls thin sadly family staying various children hall play ground staff helpful slightest noise 1230am care beds comfortable access lots stairs day walking rome lift looks unsafe aged free wifi pros 24hrs please daily cleaning via service mini bar drinks own bits returned items spar round corner brilliant snacks drink mediocre breakfast staff short reluctantly polite pro aircon excellent location plan metro due stones throw central station shops spar station shops coach pick close perfect people hotel sleep looking limit spending accommodation personally stay bit center walked evening beggars homeless feel tad paranoid im happy stayed comfortable helped time abroad enjoyable hope helps", "Date": "2011-02-27 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "San Diego, California", "Title": "\u201cworse than horrible\u201d", "Author": "drahiser", "ReviewID": "UR81837275", "Content": "hotels star rating joke zero star hotel time walked dirty grimy door walked flights dirty dark stairs feel shower manager street lobby getting requires buzzing buzz door poorly lit read bathroom drinking plastic hear water running pipes wall head bed lots noise outside toilet leaked loudly night icing cake door doors qtip sticking hole wait", "Date": "2010-10-02 00:00:00"}], "HotelInfo": {"Name": "Hotel Halifax", "HotelURL": "/ShowUserReviews-g187791-d529989-Reviews-Hotel_Halifax-Rome_Lazio.html", "Price": "$79 - $166*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Milazzo 4</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "529989", "ImgURL": "http://www.venere.com/img/hotel/1/1/4/8/198411/198411.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 5.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bas-Vegas",
+      "Title": "\u201cGood for couples on a budget.\u201d",
+      "Author": "upsidedan",
+      "ReviewID": "UR98270963",
+      "Content": "hotel situated 3rd floor building located owned people run hotel mirage arrived luckily little italian whereabouts piano floor italian climbed stairs buzzed eventually greeted gentleman cozy warm noticed aircon unit tv buzzing noise selection tv speak italian course plenty storage time spent bathroon advertise condition hot water rare shared boiler building hotel particular partition time overall stay enjoyable easy 610 cons pros cons walls thin sadly family staying various children hall play ground staff helpful slightest noise 1230am care beds comfortable access lots stairs day walking rome lift looks unsafe aged free wifi pros 24hrs please daily cleaning via service mini bar drinks own bits returned items spar round corner brilliant snacks drink mediocre breakfast staff short reluctantly polite pro aircon excellent location plan metro due stones throw central station shops spar station shops coach pick close perfect people hotel sleep looking limit spending accommodation personally stay bit center walked evening beggars homeless feel tad paranoid im happy stayed comfortable helped time abroad enjoyable hope helps",
+      "Date": "2011-02-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "San Diego, California",
+      "Title": "\u201cworse than horrible\u201d",
+      "Author": "drahiser",
+      "ReviewID": "UR81837275",
+      "Content": "hotels star rating joke zero star hotel time walked dirty grimy door walked flights dirty dark stairs feel shower manager street lobby getting requires buzzing buzz door poorly lit read bathroom drinking plastic hear water running pipes wall head bed lots noise outside toilet leaked loudly night icing cake door doors qtip sticking hole wait",
+      "Date": "2010-10-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Halifax",
+    "HotelURL": "/ShowUserReviews-g187791-d529989-Reviews-Hotel_Halifax-Rome_Lazio.html",
+    "Price": "$79 - $166*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Milazzo 4</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "529989",
+    "ImgURL": "http://www.venere.com/img/hotel/1/1/4/8/198411/198411.jpg"
+  }
+}

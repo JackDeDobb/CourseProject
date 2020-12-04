@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "rural hall, nc", "Title": "\u201cVRBO 202719 OR UNIT #241\u201d", "Author": "chrissyallen1", "ReviewID": "UR133352791", "Content": "renter beware pay price condo location beachpools size perfect private secluded locks pools onto beach pain key party perfect stayed condo arrived overwhelming smell bleach condo leave doors windows entire day eyes burning bad fumes smell clean bedroom floors discusting hair am assuming comet floors white powder swept condo probably 5 times walk shoes bought sponge mop pinesol clean floors scared toddler walk sight due chemicals sinks floor washing machine smelled mildew mold growing sheets dirty wash towels black hairs washed iron opener dvd player price disappointed cleanliness condo stay due dirt paid advance stayed seeing dirty kid friendly advertised positive note owners friendly responded check promptly", "Date": "2012-07-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Standish, Michigan", "Title": "\u201cJust plain relaxing\u201d", "Author": "sarah v", "ReviewID": "UR118733824", "Content": "family spent week beautiful checked front desk manager helpful deal husband retired vet clean maintained getting comfy desk wonderful lady told visit dinner times", "Date": "2011-09-29 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Pinconning, Michigan", "Title": "\u201cgreat bang for your buck\u201d", "Author": "bill b", "ReviewID": "UR118733797", "Content": "lovely grills cook 2 adult pools kiddie pool nice front desk manager krystal help lovely lady close race track main street joy stay", "Date": "2011-09-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Ohio", "Title": "\u201cperfect\u201d", "Author": "37countries", "ReviewID": "UR108380045", "Content": "stayed 3 months ocean jewels time travel believe people own condos live rent resort clean ocean view 2 pools lots grills convenient simply walk numerous fabulous restaurants shopping famous boardwalk main st bikers week walk cinema playing movies practically day picked sight unseen reasonable price especially search hopefully choices owners", "Date": "2011-05-15 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "syracuse", "Title": "\u201cmanager a scam artist\u201d", "Author": "jacquiegiles", "ReviewID": "UR62911784", "Content": "arrival ocean jewels tried code stephanie jones manager unit course didnt talking security guard told code gate beach couple phone calls managed nice unit baths toilet bath overflowed couldnt fill tank hand filled slowly called stephanie night answer course continued calling day answer sunday arrived friday eve called saying contact owner worried toilet top rim surprise called 10 minutes maintenence day till tuesday blamed broken toilet car towed didnt parking permit stephanie told move 2 people told bring blow beds 2 extras considering renting condo ocean jewels rent thru stephanie jones unless kinds hassles card charged 8500 broken toilet broken arrival ocean jewels nice beware manager rent thru", "Date": "2010-04-30 00:00:00"}], "HotelInfo": {"Name": "Ocean Jewels Resort", "HotelURL": "/ShowUserReviews-g34172-d88331-Reviews-Ocean_Jewels_Resort-Daytona_Beach_Florida.html", "Price": "$49 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">935 S. Atlantic Ave.</span>, <span class=\"locality\"><span property=\"v:locality\">Daytona Beach</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">32118</span></span> (Formerly Travelodge )</span></span></address>", "HotelID": "88331", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/3b/da/9a/travelodge-ocean-jewels.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "rural hall, nc",
+      "Title": "\u201cVRBO 202719 OR UNIT #241\u201d",
+      "Author": "chrissyallen1",
+      "ReviewID": "UR133352791",
+      "Content": "renter beware pay price condo location beachpools size perfect private secluded locks pools onto beach pain key party perfect stayed condo arrived overwhelming smell bleach condo leave doors windows entire day eyes burning bad fumes smell clean bedroom floors discusting hair am assuming comet floors white powder swept condo probably 5 times walk shoes bought sponge mop pinesol clean floors scared toddler walk sight due chemicals sinks floor washing machine smelled mildew mold growing sheets dirty wash towels black hairs washed iron opener dvd player price disappointed cleanliness condo stay due dirt paid advance stayed seeing dirty kid friendly advertised positive note owners friendly responded check promptly",
+      "Date": "2012-07-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Standish, Michigan",
+      "Title": "\u201cJust plain relaxing\u201d",
+      "Author": "sarah v",
+      "ReviewID": "UR118733824",
+      "Content": "family spent week beautiful checked front desk manager helpful deal husband retired vet clean maintained getting comfy desk wonderful lady told visit dinner times",
+      "Date": "2011-09-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Pinconning, Michigan",
+      "Title": "\u201cgreat bang for your buck\u201d",
+      "Author": "bill b",
+      "ReviewID": "UR118733797",
+      "Content": "lovely grills cook 2 adult pools kiddie pool nice front desk manager krystal help lovely lady close race track main street joy stay",
+      "Date": "2011-09-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ohio",
+      "Title": "\u201cperfect\u201d",
+      "Author": "37countries",
+      "ReviewID": "UR108380045",
+      "Content": "stayed 3 months ocean jewels time travel believe people own condos live rent resort clean ocean view 2 pools lots grills convenient simply walk numerous fabulous restaurants shopping famous boardwalk main st bikers week walk cinema playing movies practically day picked sight unseen reasonable price especially search hopefully choices owners",
+      "Date": "2011-05-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "syracuse",
+      "Title": "\u201cmanager a scam artist\u201d",
+      "Author": "jacquiegiles",
+      "ReviewID": "UR62911784",
+      "Content": "arrival ocean jewels tried code stephanie jones manager unit course didnt talking security guard told code gate beach couple phone calls managed nice unit baths toilet bath overflowed couldnt fill tank hand filled slowly called stephanie night answer course continued calling day answer sunday arrived friday eve called saying contact owner worried toilet top rim surprise called 10 minutes maintenence day till tuesday blamed broken toilet car towed didnt parking permit stephanie told move 2 people told bring blow beds 2 extras considering renting condo ocean jewels rent thru stephanie jones unless kinds hassles card charged 8500 broken toilet broken arrival ocean jewels nice beware manager rent thru",
+      "Date": "2010-04-30 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Ocean Jewels Resort",
+    "HotelURL": "/ShowUserReviews-g34172-d88331-Reviews-Ocean_Jewels_Resort-Daytona_Beach_Florida.html",
+    "Price": "$49 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">935 S. Atlantic Ave.</span>, <span class=\"locality\"><span property=\"v:locality\">Daytona Beach</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">32118</span></span> (Formerly Travelodge )</span></span></address>",
+    "HotelID": "88331",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/3b/da/9a/travelodge-ocean-jewels.jpg"
+  }
+}

@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Belgrade", "Title": "\u201cDisaster\u201d", "Author": "KFilip", "ReviewID": "UR120144783", "Content": "istanbul times believe finish sleeping hotel location hotel located walking distance aksaray walking distance grand bazar orientation hotel street located hotel grand bazar complex streets hotel quiet neighborhood street cargo company office start morning workers huge noise hotel window looks inside building basically fresh air walls wallpapers guests express inner artist wallpapers scrabbled bathroom properly organized bath 80 kg weight consider obese breakfast modest 2 types salami 3 types jam sausage borek pie milk rotten mention waiter ignored body language explain told fu staff noticed staff totally motivated exhausted 15 strait positions mess eager help issue bringing towels calling taxi giving directions speak english turkish russian languages choice overall definitely hotel overpriced service pool advertise web page", "Date": "2011-11-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "London", "Title": "\u201cNewly refurbished, nice rooms and excellent staff\u00e2\u20ac\ufffd\u201d", "Author": "Lily0008", "ReviewID": "UR101995239", "Content": "delighted hospitality attention staff atmosphere nice newly refurbished interior designed nice combination colors nice comfortable lobby wifi cozy comfortable decoration harmony definitely recommend visit istanbul", "Date": "2011-03-29 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Dubai", "Title": "\u201cDo not recommend this hotel\u201d", "Author": "Dubaian", "ReviewID": "UR79723472", "Content": "hotel located center tourist restaurants shop except restaurants close hotel tv set sucks ac friends wasnt cooling complained fine 1 socket plug charger etc toilet speaking toilet dont except amenities bring own except towel shower tub climb time finish shower floor wet barfridge empty hung cloths occupied bed sheets breakfast nice advise hotel taksim square worth lively nite", "Date": "2010-09-16 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "New Delhi, India", "Title": "\u201cPathetic.\u201d", "Author": "Noyanika", "ReviewID": "UR69842665", "Content": "absolutely horrible hotel facilities horrible bathrooms stupid television set service facilities basic restaurant nice locality unfriendly staff worst breakfast buffetit worst nice eat cheap hotel", "Date": "2010-07-06 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "BGW", "Title": "\u201cProbably the worst hotel in Istanbul\u201d", "Author": "nodiash", "ReviewID": "UR63489125", "Content": "7 days spouse wouldnt recommend hotel worst enemy service terrible staff rude helpful clean bathroom barely fit grown tv cell phone turkish channels internet available lobby breakfast absolutely terrible exactly 7 days probably bring yourself breakfast charge 5 bar closed expensive bumped actually terrace closed time housekeeping people trough pick trash thats awful ruined visit istanbul run hotel", "Date": "2010-05-07 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "poland", "Title": "\u201cVery disrespectful\u201d", "Author": "polishmaninistanbul", "ReviewID": "UR61961335", "Content": "nice hotel stayed third time time terrible rude behaviors disrespectful attitude cant welcome friend 5 minutes doing bad wont stay grand hotel brother hotels 1 2", "Date": "2010-04-20 00:00:00"}], "HotelInfo": {"Name": "Grand Emin Hotel", "HotelURL": "/ShowUserReviews-g293974-d502354-Reviews-Grand_Emin_Hotel-Istanbul.html", "Price": "$81 - $146*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Mustafa Kemal Pasa cad Fabrika sok 13</span> | <span class=\"extended-address\">Yenikapi</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "502354", "ImgURL": "http://www.venere.com/img/hotel/7/2/6/7/257627/257627.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Belgrade",
+      "Title": "\u201cDisaster\u201d",
+      "Author": "KFilip",
+      "ReviewID": "UR120144783",
+      "Content": "istanbul times believe finish sleeping hotel location hotel located walking distance aksaray walking distance grand bazar orientation hotel street located hotel grand bazar complex streets hotel quiet neighborhood street cargo company office start morning workers huge noise hotel window looks inside building basically fresh air walls wallpapers guests express inner artist wallpapers scrabbled bathroom properly organized bath 80 kg weight consider obese breakfast modest 2 types salami 3 types jam sausage borek pie milk rotten mention waiter ignored body language explain told fu staff noticed staff totally motivated exhausted 15 strait positions mess eager help issue bringing towels calling taxi giving directions speak english turkish russian languages choice overall definitely hotel overpriced service pool advertise web page",
+      "Date": "2011-11-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cNewly refurbished, nice rooms and excellent staff\u00e2\u20ac\ufffd\u201d",
+      "Author": "Lily0008",
+      "ReviewID": "UR101995239",
+      "Content": "delighted hospitality attention staff atmosphere nice newly refurbished interior designed nice combination colors nice comfortable lobby wifi cozy comfortable decoration harmony definitely recommend visit istanbul",
+      "Date": "2011-03-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Dubai",
+      "Title": "\u201cDo not recommend this hotel\u201d",
+      "Author": "Dubaian",
+      "ReviewID": "UR79723472",
+      "Content": "hotel located center tourist restaurants shop except restaurants close hotel tv set sucks ac friends wasnt cooling complained fine 1 socket plug charger etc toilet speaking toilet dont except amenities bring own except towel shower tub climb time finish shower floor wet barfridge empty hung cloths occupied bed sheets breakfast nice advise hotel taksim square worth lively nite",
+      "Date": "2010-09-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "New Delhi, India",
+      "Title": "\u201cPathetic.\u201d",
+      "Author": "Noyanika",
+      "ReviewID": "UR69842665",
+      "Content": "absolutely horrible hotel facilities horrible bathrooms stupid television set service facilities basic restaurant nice locality unfriendly staff worst breakfast buffetit worst nice eat cheap hotel",
+      "Date": "2010-07-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "BGW",
+      "Title": "\u201cProbably the worst hotel in Istanbul\u201d",
+      "Author": "nodiash",
+      "ReviewID": "UR63489125",
+      "Content": "7 days spouse wouldnt recommend hotel worst enemy service terrible staff rude helpful clean bathroom barely fit grown tv cell phone turkish channels internet available lobby breakfast absolutely terrible exactly 7 days probably bring yourself breakfast charge 5 bar closed expensive bumped actually terrace closed time housekeeping people trough pick trash thats awful ruined visit istanbul run hotel",
+      "Date": "2010-05-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "poland",
+      "Title": "\u201cVery disrespectful\u201d",
+      "Author": "polishmaninistanbul",
+      "ReviewID": "UR61961335",
+      "Content": "nice hotel stayed third time time terrible rude behaviors disrespectful attitude cant welcome friend 5 minutes doing bad wont stay grand hotel brother hotels 1 2",
+      "Date": "2010-04-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Grand Emin Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d502354-Reviews-Grand_Emin_Hotel-Istanbul.html",
+    "Price": "$81 - $146*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Mustafa Kemal Pasa cad Fabrika sok 13</span> | <span class=\"extended-address\">Yenikapi</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "502354",
+    "ImgURL": "http://www.venere.com/img/hotel/7/2/6/7/257627/257627.jpg"
+  }
+}

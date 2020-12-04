@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "new york", "Title": "\u201corale!!\u201d", "Author": "papinico", "ReviewID": "UR118740319", "Content": "hotel recently renovated frequent guess hotel notice changed tv phone bathroom phone system anyway internet service limited sites blocked pop money view sites stay", "Date": "2011-09-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Austin, Texas", "Title": "\u201cGreat Hotel, Great Location!\u201d", "Author": "AyeEat", "ReviewID": "UR100400270", "Content": "hotel perfect location chapultepec park museum huge restaurants course street food corner bank clean loved balcony relaxing bath night staff helpful booking expeditions nearby etc", "Date": "2011-03-16 00:00:00"}], "HotelInfo": {"Name": "Suites Del Angel", "HotelURL": "/ShowUserReviews-g150800-d248809-Reviews-Suites_Del_Angel-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$88 - $138*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Rio Lerma 162</span> | <span class=\"extended-address\">Col. Cuauhtemoc</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06500</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "248809", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8d/a6/8da6d10ca27573bdfd76659b34a167461large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "new york",
+      "Title": "\u201corale!!\u201d",
+      "Author": "papinico",
+      "ReviewID": "UR118740319",
+      "Content": "hotel recently renovated frequent guess hotel notice changed tv phone bathroom phone system anyway internet service limited sites blocked pop money view sites stay",
+      "Date": "2011-09-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Austin, Texas",
+      "Title": "\u201cGreat Hotel, Great Location!\u201d",
+      "Author": "AyeEat",
+      "ReviewID": "UR100400270",
+      "Content": "hotel perfect location chapultepec park museum huge restaurants course street food corner bank clean loved balcony relaxing bath night staff helpful booking expeditions nearby etc",
+      "Date": "2011-03-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Suites Del Angel",
+    "HotelURL": "/ShowUserReviews-g150800-d248809-Reviews-Suites_Del_Angel-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$88 - $138*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Rio Lerma 162</span> | <span class=\"extended-address\">Col. Cuauhtemoc</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06500</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "248809",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8d/a6/8da6d10ca27573bdfd76659b34a167461large.jpg"
+  }
+}

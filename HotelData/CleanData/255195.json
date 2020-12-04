@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cgood location, reasonably priced, clean and roomy\u201d", "Author": "Sian W", "ReviewID": "UR119849161", "Content": "close train station ten min walk city size aircon sized bathroom shower screen safe breakfast buffet incl meats cheeses free internet 12 hours browsing wifi connection cable zaza lunch expensive dinner queue 630 7pm food fast delicious total 2", "Date": "2011-10-29 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "South Carolina", "Title": "\u201cLocation and little else\u201d", "Author": "Dorkon22", "ReviewID": "UR118747582", "Content": "location else average below information received front desk wrong useless pay additional ac breakfast included worth lot basically frills bed night obtain enjoyment stay recommend hotel", "Date": "2011-09-29 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "UK", "Title": "\u201cclean cheap hotel in great location\u201d", "Author": "c3rabbits", "ReviewID": "UR105668902", "Content": "service fine basic polite stay clean comfortable functional en suite breakfast bread roll croisant toast cheese meat spreads jam honey etc fruit juice coffee tea cereal yogurt buffet location hotel excellent main bus route termini station walked 15 mins trolley stretch legs 5 minutes walk forum victor emanuel monument bit central location money charged value central location worst bit traffic noise intersection 2 main roads double glazing windows shut", "Date": "2011-04-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "England", "Title": "\u201cGreat value for money hotel\u201d", "Author": "lisadarran", "ReviewID": "UR102404006", "Content": "reading reviews worried staying hotel relief reviews completely wrong basic hotel offering comfortable fridge tv clean adequate short break breakfast basic choices food lovely coffee wonderful location hotel excellent walking distance colosseum trevi fountain etc bus route getting easy downfall road busy night able hear earplugs required looking value money hotel couldnt wrong", "Date": "2011-04-01 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Gold Coast Australia", "Title": "\u201cTwo stars is way over rated... do they have negative stars?\u201d", "Author": "misstiatokyo", "ReviewID": "UR86707969", "Content": "stayed 9 hotels 21 days price range europe expensive ones return send feel fair comment hotel similar standard compare dont stay reminded cheap backpacker hostel price paying staff friendly 31 floor reception heard arguments unhappy guests reception staff hear feel safe hotel door night husband left hotel moved prepaid stuck amenities except soap refill wall refilled days stayed mould shower easy clean cleaned mould toilet paper using shower sheets thread bare bedcover burnt cigarette stains breakfast nice breads cereal coffee breakfast staff housekeeping staff nice location actually walked train station plenty hotels try floor lino echo bad especially level reception stay reading review request floor reception wont sleep wink earplugs third nights beyond tired loved rome stars bad review am writing entire budget trip", "Date": "2010-11-11 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cNot fit for an animal\u201d", "Author": "michelle110660", "ReviewID": "UR83231984", "Content": "digusting hotel encountered entry hotel street elevator 3rd floor size shoe box arrival greeted unfriendly indian doing favour check inthe revolting bed hard rock hot water pressure shower remote able air con breakfast basic lucky table sit owner hotel greet morning hotel fiori rated stars hotel negative feel rome", "Date": "2010-10-12 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Adelaide, Australia", "Title": "\u201cBeautiful hotel with amazing rooms! Stay in room 34!\u201d", "Author": "goodthistimeofyear", "ReviewID": "UR56925596", "Content": "amazing size price close everythingwe walked staff bit strange internet little walk hotel trevi mins spanish mins train station 20mins nice little shop lane towards trevi fountain check amazing funny experience locked door middle night visitor accidental drunk lady door thinking fault locking door properly", "Date": "2010-02-23 00:00:00"}], "HotelInfo": {"Name": "Hotel Fiori", "HotelURL": "/ShowUserReviews-g187791-d255195-Reviews-Hotel_Fiori-Rome_Lazio.html", "Price": "$105 - $224*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Nazionale 163</span>, <span class=\"locality\"><span property=\"v:postal-code\">00184</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "255195", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/cd/3b/cd3bf886dc2bbf502b730803ac38389c20large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cgood location, reasonably priced, clean and roomy\u201d",
+      "Author": "Sian W",
+      "ReviewID": "UR119849161",
+      "Content": "close train station ten min walk city size aircon sized bathroom shower screen safe breakfast buffet incl meats cheeses free internet 12 hours browsing wifi connection cable zaza lunch expensive dinner queue 630 7pm food fast delicious total 2",
+      "Date": "2011-10-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "South Carolina",
+      "Title": "\u201cLocation and little else\u201d",
+      "Author": "Dorkon22",
+      "ReviewID": "UR118747582",
+      "Content": "location else average below information received front desk wrong useless pay additional ac breakfast included worth lot basically frills bed night obtain enjoyment stay recommend hotel",
+      "Date": "2011-09-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "UK",
+      "Title": "\u201cclean cheap hotel in great location\u201d",
+      "Author": "c3rabbits",
+      "ReviewID": "UR105668902",
+      "Content": "service fine basic polite stay clean comfortable functional en suite breakfast bread roll croisant toast cheese meat spreads jam honey etc fruit juice coffee tea cereal yogurt buffet location hotel excellent main bus route termini station walked 15 mins trolley stretch legs 5 minutes walk forum victor emanuel monument bit central location money charged value central location worst bit traffic noise intersection 2 main roads double glazing windows shut",
+      "Date": "2011-04-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "England",
+      "Title": "\u201cGreat value for money hotel\u201d",
+      "Author": "lisadarran",
+      "ReviewID": "UR102404006",
+      "Content": "reading reviews worried staying hotel relief reviews completely wrong basic hotel offering comfortable fridge tv clean adequate short break breakfast basic choices food lovely coffee wonderful location hotel excellent walking distance colosseum trevi fountain etc bus route getting easy downfall road busy night able hear earplugs required looking value money hotel couldnt wrong",
+      "Date": "2011-04-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Gold Coast Australia",
+      "Title": "\u201cTwo stars is way over rated... do they have negative stars?\u201d",
+      "Author": "misstiatokyo",
+      "ReviewID": "UR86707969",
+      "Content": "stayed 9 hotels 21 days price range europe expensive ones return send feel fair comment hotel similar standard compare dont stay reminded cheap backpacker hostel price paying staff friendly 31 floor reception heard arguments unhappy guests reception staff hear feel safe hotel door night husband left hotel moved prepaid stuck amenities except soap refill wall refilled days stayed mould shower easy clean cleaned mould toilet paper using shower sheets thread bare bedcover burnt cigarette stains breakfast nice breads cereal coffee breakfast staff housekeeping staff nice location actually walked train station plenty hotels try floor lino echo bad especially level reception stay reading review request floor reception wont sleep wink earplugs third nights beyond tired loved rome stars bad review am writing entire budget trip",
+      "Date": "2010-11-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cNot fit for an animal\u201d",
+      "Author": "michelle110660",
+      "ReviewID": "UR83231984",
+      "Content": "digusting hotel encountered entry hotel street elevator 3rd floor size shoe box arrival greeted unfriendly indian doing favour check inthe revolting bed hard rock hot water pressure shower remote able air con breakfast basic lucky table sit owner hotel greet morning hotel fiori rated stars hotel negative feel rome",
+      "Date": "2010-10-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Adelaide, Australia",
+      "Title": "\u201cBeautiful hotel with amazing rooms! Stay in room 34!\u201d",
+      "Author": "goodthistimeofyear",
+      "ReviewID": "UR56925596",
+      "Content": "amazing size price close everythingwe walked staff bit strange internet little walk hotel trevi mins spanish mins train station 20mins nice little shop lane towards trevi fountain check amazing funny experience locked door middle night visitor accidental drunk lady door thinking fault locking door properly",
+      "Date": "2010-02-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Fiori",
+    "HotelURL": "/ShowUserReviews-g187791-d255195-Reviews-Hotel_Fiori-Rome_Lazio.html",
+    "Price": "$105 - $224*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Nazionale 163</span>, <span class=\"locality\"><span property=\"v:postal-code\">00184</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "255195",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/cd/3b/cd3bf886dc2bbf502b730803ac38389c20large.jpg"
+  }
+}

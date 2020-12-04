@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "London, UK", "Title": "\u201cGood 3 star hotel in nice location\u201d", "Author": "Tazz13", "ReviewID": "UR136054028", "Content": "five stars based paid luxury hotel clean maintained staff polite efficient breakfast buffet 10 euros extra person hotel location tourists grand via 20 minutes walk metro station 5 minutes definitely recommend stay madrid conference centre hour probably option", "Date": "2012-08-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Dallas, Texas", "Title": "\u201cPerfect neighborhood, perfect hotel\u201d", "Author": "55711Spaingirl", "ReviewID": "UR134920398", "Content": "love hotel stylish cozy salamanca district close businesses stores restaurants lovely plazas treat professional clean breakfasts amazing nice elements comfortable little updating bathrooms terrific maintained", "Date": "2012-07-20 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Seville, Spain", "Title": "\u201cExcellent three-star hotel in the best area\u201d", "Author": "Franciscoar", "ReviewID": "UR133980241", "Content": "hotel threestar fourth services cleanliness location shopping madrid receptionists helpful actually provided sewing kit information events madrid bathroom spacious safe operated easily beds hotel", "Date": "2012-07-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "", "Title": "\u201cVery satisfied.\u201d", "Author": "Posted by a NH Hoteles traveler", "ReviewID": "UR128169133", "Content": "wife stayed nights found apart tea coffee facilities thats nitpicking immaculate day spent city quiet street short walk metro station restaurants cafes nearby late flight home helpful able leave luggage hotel spent afternoon finishing minibreak", "Date": "2012-04-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Liverpool, UK", "Title": "\u201cA very enjoyable stay!\u201d", "Author": "randomname", "ReviewID": "UR119979928", "Content": "arrived home 5 days madrid staying hesperia time attractive hotel location close metro stations class shopping pavement cafes arrival informed upgraded superior start spacious nice king size bed wardrobes safe quality hairdryer wife informs bathroom walk shower wc bidet clean cleaned standard day staff friendly spoke english spanish helpful slight downsides teacoffee facilities menu local pizza company avoid 36 hours recover dodgy pizza fab hotel nice staff clean spacious location definately recommend visit", "Date": "2011-10-31 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Washington DC", "Title": "\u201cExcellent Location and Staff; Comfortable but Basic Room\u201d", "Author": "DCTravelFan100", "ReviewID": "UR92598840", "Content": "excellent stay extremely located hotel staff gracious helpful stayed standard beds comfortable clean read reviews tripadvisor exactly expectations hotel bedroom somewhat tight airier due ceilings ceiling floor window nice desk flat screen tv closet nice sized safe closet store laptop bathroom fairly spacious toiletries somewhat limited example gel dispenser shower separate shampoo guest floor hotel facing street street noises noise sensitive travelers unduly bother noise sensitive probably floor overlook street previous reviewers noted slow wifi true business center consists computer desk near reception printer serviceable separate business center overall run hotel recommend stay hesitation", "Date": "2011-01-11 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Randolph, NJ", "Title": "\u201cBasically fine but...\u201d", "Author": "Anna_Sarah", "ReviewID": "UR88936567", "Content": "main reservation hotel lousy internet access wifi supposed ot free charge pay reliable free barely usable user name password front desk disclosed checked frustrating 30 minutes reception printed piece paper secret codes day internet barely takes forever connect kicked times password changed times nice clean convenient shopping business restaurant premisses nice ones near blocks restaurant niece tapas bar conveninet dont wait 9pm dinner time english menues request short walk metro front desk ladies helpful", "Date": "2010-12-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Wells, United Kingdom", "Title": "\u201cGreat location...signs of shoestring spending\u201d", "Author": "wellensian", "ReviewID": "UR86082459", "Content": "location superb corner location treelined street surrounded class shops salamanca district owned nh feel spacious light furnished cheaply usual nh floors sort laminate furniture veneer wood replacement light bulbs found hand bathrooms money spent excellent except provide shampoo wall dispenser usual nh toiletries staff staff encountered friendly helpful sparse consisting day single receptionist attempting handle checkouts answering telephone enquiries cleaners etc hotel perfectly satisfactory nh upgrade youth unemployment alltime spain benefit staff fourth star reflects location service accommodation 3 furniture", "Date": "2010-11-05 00:00:00"}], "HotelInfo": {"Name": "Hesperia Hermosilla", "HotelURL": "/ShowUserReviews-g187514-d585148-Reviews-Hesperia_Hermosilla-Madrid.html", "Price": "$105 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle de Hermosilla 23</span> | <span class=\"extended-address\">Esquina Hermosilla-Lagasca</span>, <span class=\"locality\"><span property=\"v:postal-code\">28006</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "585148", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/58/cf/58cfe57c12597031b6aa07b5e1a7ad431large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London, UK",
+      "Title": "\u201cGood 3 star hotel in nice location\u201d",
+      "Author": "Tazz13",
+      "ReviewID": "UR136054028",
+      "Content": "five stars based paid luxury hotel clean maintained staff polite efficient breakfast buffet 10 euros extra person hotel location tourists grand via 20 minutes walk metro station 5 minutes definitely recommend stay madrid conference centre hour probably option",
+      "Date": "2012-08-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dallas, Texas",
+      "Title": "\u201cPerfect neighborhood, perfect hotel\u201d",
+      "Author": "55711Spaingirl",
+      "ReviewID": "UR134920398",
+      "Content": "love hotel stylish cozy salamanca district close businesses stores restaurants lovely plazas treat professional clean breakfasts amazing nice elements comfortable little updating bathrooms terrific maintained",
+      "Date": "2012-07-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Seville, Spain",
+      "Title": "\u201cExcellent three-star hotel in the best area\u201d",
+      "Author": "Franciscoar",
+      "ReviewID": "UR133980241",
+      "Content": "hotel threestar fourth services cleanliness location shopping madrid receptionists helpful actually provided sewing kit information events madrid bathroom spacious safe operated easily beds hotel",
+      "Date": "2012-07-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cVery satisfied.\u201d",
+      "Author": "Posted by a NH Hoteles traveler",
+      "ReviewID": "UR128169133",
+      "Content": "wife stayed nights found apart tea coffee facilities thats nitpicking immaculate day spent city quiet street short walk metro station restaurants cafes nearby late flight home helpful able leave luggage hotel spent afternoon finishing minibreak",
+      "Date": "2012-04-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Liverpool, UK",
+      "Title": "\u201cA very enjoyable stay!\u201d",
+      "Author": "randomname",
+      "ReviewID": "UR119979928",
+      "Content": "arrived home 5 days madrid staying hesperia time attractive hotel location close metro stations class shopping pavement cafes arrival informed upgraded superior start spacious nice king size bed wardrobes safe quality hairdryer wife informs bathroom walk shower wc bidet clean cleaned standard day staff friendly spoke english spanish helpful slight downsides teacoffee facilities menu local pizza company avoid 36 hours recover dodgy pizza fab hotel nice staff clean spacious location definately recommend visit",
+      "Date": "2011-10-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Washington DC",
+      "Title": "\u201cExcellent Location and Staff; Comfortable but Basic Room\u201d",
+      "Author": "DCTravelFan100",
+      "ReviewID": "UR92598840",
+      "Content": "excellent stay extremely located hotel staff gracious helpful stayed standard beds comfortable clean read reviews tripadvisor exactly expectations hotel bedroom somewhat tight airier due ceilings ceiling floor window nice desk flat screen tv closet nice sized safe closet store laptop bathroom fairly spacious toiletries somewhat limited example gel dispenser shower separate shampoo guest floor hotel facing street street noises noise sensitive travelers unduly bother noise sensitive probably floor overlook street previous reviewers noted slow wifi true business center consists computer desk near reception printer serviceable separate business center overall run hotel recommend stay hesitation",
+      "Date": "2011-01-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Randolph, NJ",
+      "Title": "\u201cBasically fine but...\u201d",
+      "Author": "Anna_Sarah",
+      "ReviewID": "UR88936567",
+      "Content": "main reservation hotel lousy internet access wifi supposed ot free charge pay reliable free barely usable user name password front desk disclosed checked frustrating 30 minutes reception printed piece paper secret codes day internet barely takes forever connect kicked times password changed times nice clean convenient shopping business restaurant premisses nice ones near blocks restaurant niece tapas bar conveninet dont wait 9pm dinner time english menues request short walk metro front desk ladies helpful",
+      "Date": "2010-12-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Wells, United Kingdom",
+      "Title": "\u201cGreat location...signs of shoestring spending\u201d",
+      "Author": "wellensian",
+      "ReviewID": "UR86082459",
+      "Content": "location superb corner location treelined street surrounded class shops salamanca district owned nh feel spacious light furnished cheaply usual nh floors sort laminate furniture veneer wood replacement light bulbs found hand bathrooms money spent excellent except provide shampoo wall dispenser usual nh toiletries staff staff encountered friendly helpful sparse consisting day single receptionist attempting handle checkouts answering telephone enquiries cleaners etc hotel perfectly satisfactory nh upgrade youth unemployment alltime spain benefit staff fourth star reflects location service accommodation 3 furniture",
+      "Date": "2010-11-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hesperia Hermosilla",
+    "HotelURL": "/ShowUserReviews-g187514-d585148-Reviews-Hesperia_Hermosilla-Madrid.html",
+    "Price": "$105 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle de Hermosilla 23</span> | <span class=\"extended-address\">Esquina Hermosilla-Lagasca</span>, <span class=\"locality\"><span property=\"v:postal-code\">28006</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "585148",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/58/cf/58cfe57c12597031b6aa07b5e1a7ad431large.jpg"
+  }
+}

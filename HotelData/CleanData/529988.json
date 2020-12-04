@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Wellington, New Zealand", "Title": "\u201cPerfectly adequate - but paper thin walls\u201d", "Author": "tarynandcraig", "ReviewID": "UR91848791", "Content": "hostal martin spotlessly clean perfectly adequate tiny dont ive seen bathroom tvs free wifi biggest letdown paper thin walls hear absolutely door outside housekeeping staff noisy usually doesnt bother im heavy sleeper dont mind value money location close metro station", "Date": "2011-01-05 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Puerto Vallarta, Mexico", "Title": "\u201cPay in advance or be screamed at for not letting them scam you\u201d", "Author": "gehlor", "ReviewID": "UR84124385", "Content": "booked 3 nights extension 5 nights credit card guarantee promised arrived arrival paid 3 nights upfront cash rate quoted internet didnt single available double rate morning 3rd day office told stay 5 days thursday morning leaving wednesday morning funny pay rest days cash upfront hostel sunday office pay busy days person told cost 15euros night quoted paid 1st 3 nights told nor opportunity change neither single nor hostel wasnt prepared pay amount owner talk staff night try sort told \u201cthey told me\u201d sorry thats true woman office chair started screaming yelling scared im abused didnt left luckily meeting dinner hotel spanish agreed owner pay 100e taxes left morning fine owed e100 e8 telephone bill compromise according receipt internet tax included price extra 15e receipt photos cut story short morning office cash hand wasnt told pregnant bad im 58 yr woman lol refused accept deal call owner story goes \u00be hour left exhausted airport tried charge argue youd pay rate youd miss plane scam taxes 2 charges credit card telephone bill 10 euro idea bank cleaning lady that\u2019s story photo location hostel perfect own hotel 3 nearby advice hostel pay upfront cant", "Date": "2010-10-19 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Munich, Germany", "Title": "\u201cSkip this weird place - there are so many better Hostals in the area\u201d", "Author": "PetraQuilitz", "ReviewID": "UR76151638", "Content": "yes amongst cheapest madrid location location actually 3 4 hostals floor sharing reservations telling clients contracts hostals street chances wont reserved martin hostal floor else street hostals havent read ratings lead following situation arrived hostal despite reservation flustered front desk guy phoned guy partner hostals rushed forced scramble stairs heavy suitcase waiting entrance 10 minutes vain guy supposed pick hostal martin guy upstairs suddenly available building minor detail giving insight apparently guy front desk night shift night bright head lamps loud constant beep reminded lost 5 drive insane alarm system apparently minor detail free night despite reservation switch 12 night checkin procedure lasting 40 minutes business date tomorrow 8 shut madness call air condition bathtub nights 32 degrees regretted reply 6 hours freezing cold searching nonexistent switch ac box possibly ac prompt hostal owner remove setting mechanism 20 minutes admittedly functioning shower warm tv besides remote blocked entire surface table suitcase floor strange living entrance looked someones grandmother died huge messy pile dirty towels sideboard staid untouched 2 days creepy ruin belief mankind staying weird disorganized try hundreds hostals location absolute basic prices service recommend hostal cervantes hostal examples tip stayed", "Date": "2010-08-21 00:00:00"}], "HotelInfo": {"Name": "Hostal Martin", "HotelURL": "/ShowUserReviews-g187514-d529988-Reviews-Hostal_Martin-Madrid.html", "Price": "$56 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle Atocha 43</span>, <span class=\"locality\"><span property=\"v:postal-code\">28012</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "529988", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e5/fd/e5fd0a8cddcc3ec09ff8a0845077ef952large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Wellington, New Zealand",
+      "Title": "\u201cPerfectly adequate - but paper thin walls\u201d",
+      "Author": "tarynandcraig",
+      "ReviewID": "UR91848791",
+      "Content": "hostal martin spotlessly clean perfectly adequate tiny dont ive seen bathroom tvs free wifi biggest letdown paper thin walls hear absolutely door outside housekeeping staff noisy usually doesnt bother im heavy sleeper dont mind value money location close metro station",
+      "Date": "2011-01-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Puerto Vallarta, Mexico",
+      "Title": "\u201cPay in advance or be screamed at for not letting them scam you\u201d",
+      "Author": "gehlor",
+      "ReviewID": "UR84124385",
+      "Content": "booked 3 nights extension 5 nights credit card guarantee promised arrived arrival paid 3 nights upfront cash rate quoted internet didnt single available double rate morning 3rd day office told stay 5 days thursday morning leaving wednesday morning funny pay rest days cash upfront hostel sunday office pay busy days person told cost 15euros night quoted paid 1st 3 nights told nor opportunity change neither single nor hostel wasnt prepared pay amount owner talk staff night try sort told \u201cthey told me\u201d sorry thats true woman office chair started screaming yelling scared im abused didnt left luckily meeting dinner hotel spanish agreed owner pay 100e taxes left morning fine owed e100 e8 telephone bill compromise according receipt internet tax included price extra 15e receipt photos cut story short morning office cash hand wasnt told pregnant bad im 58 yr woman lol refused accept deal call owner story goes \u00be hour left exhausted airport tried charge argue youd pay rate youd miss plane scam taxes 2 charges credit card telephone bill 10 euro idea bank cleaning lady that\u2019s story photo location hostel perfect own hotel 3 nearby advice hostel pay upfront cant",
+      "Date": "2010-10-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Munich, Germany",
+      "Title": "\u201cSkip this weird place - there are so many better Hostals in the area\u201d",
+      "Author": "PetraQuilitz",
+      "ReviewID": "UR76151638",
+      "Content": "yes amongst cheapest madrid location location actually 3 4 hostals floor sharing reservations telling clients contracts hostals street chances wont reserved martin hostal floor else street hostals havent read ratings lead following situation arrived hostal despite reservation flustered front desk guy phoned guy partner hostals rushed forced scramble stairs heavy suitcase waiting entrance 10 minutes vain guy supposed pick hostal martin guy upstairs suddenly available building minor detail giving insight apparently guy front desk night shift night bright head lamps loud constant beep reminded lost 5 drive insane alarm system apparently minor detail free night despite reservation switch 12 night checkin procedure lasting 40 minutes business date tomorrow 8 shut madness call air condition bathtub nights 32 degrees regretted reply 6 hours freezing cold searching nonexistent switch ac box possibly ac prompt hostal owner remove setting mechanism 20 minutes admittedly functioning shower warm tv besides remote blocked entire surface table suitcase floor strange living entrance looked someones grandmother died huge messy pile dirty towels sideboard staid untouched 2 days creepy ruin belief mankind staying weird disorganized try hundreds hostals location absolute basic prices service recommend hostal cervantes hostal examples tip stayed",
+      "Date": "2010-08-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hostal Martin",
+    "HotelURL": "/ShowUserReviews-g187514-d529988-Reviews-Hostal_Martin-Madrid.html",
+    "Price": "$56 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle Atocha 43</span>, <span class=\"locality\"><span property=\"v:postal-code\">28012</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "529988",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e5/fd/e5fd0a8cddcc3ec09ff8a0845077ef952large.jpg"
+  }
+}

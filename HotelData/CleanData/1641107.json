@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Hagendorn, Schweiz", "Title": "\u201cQuiet, clean, friendly\u201d", "Author": "Holywood07", "ReviewID": "UR124231818", "Content": "7 months son looking 2 kitchen allows prepare baby food following found friendly competent staff clean hotel incl shower roomtoilet facilities nice spas rooftop sunloungers quality soapsshampoos hands compared lowcost stuff found nice beds nice mondern furnishing makes easy feel home filled mini bar incl variety drinks sweets nosh chips noodle soup cups pop corn situated upper 5th ave close shopping mile starts fifteen twenty minutes walk huge super markets ie mega wal mart 5 minutes walk beach twenty twentyfive minutes ado bus terminal 5th ave rent baby bed babys chair weeks pricing unreasonably 15 usd day means expensive youd buy offer items price buy own actually found items cheaper super markets normal cost found elsewhere usd 30 item week expected plus nowadays option tell cleaning staff leave towels changed single day green kitchen cabinets smell mildew source cooking plates expected microwave cook arrived water half holes shower head hole half amount easy clean deal windows closed crank handle windows openedclosed crank easy fix dishwashing detergent personal pain bed wife easily recommend hotel quiet clean friendly unpleasant dont weigh", "Date": "2012-02-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Salt Lake City, Utah", "Title": "\u201cLocation was great, CLEAN and friendly service.\u201d", "Author": "Tawanda1206", "ReviewID": "UR99951813", "Content": "husband stayed 5 days february ten anniversary 5th avenue main drag playa del carmen block makes price reasonable close walk walked walmart taxi bc stuff helpful staff advice night dinner plans didnt mention fabulous little italian owned couple rome busy hot tubs roof meant clean normal temp little cooler day im bed little stiff husband loved pool decoration purposes chose kitchenette included nice size fridge wifi access fast free able skype kids issues stay", "Date": "2011-03-12 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "", "Title": "\u201cGreat location and super comfortable\u201d", "Author": "joferto", "ReviewID": "UR91057968", "Content": "hotels ago location superb 5th avenue walk enjoy restaurant shop close beach spacious nice decoration linens nice bed comfortable blender stay night staying family friends minibar stocked microwave china glasses pool spend time hotel beach ocean close roof 3 jacuzzis attractive planning bar near future bad aware location 5th ave 40th opposite ferry perfect definetely", "Date": "2010-12-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cModern hotel, great location\u201d", "Author": "SaraAlice", "ReviewID": "UR73322114", "Content": "bambu suites location close beach main street 5th avenue hotel lovely comfotable beds huge kitchendining amazing value pool nice spas roof definately reccommend", "Date": "2010-08-01 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Norway", "Title": "\u201cAwsome designer hotel with great value\u201d", "Author": "arnfinnu", "ReviewID": "UR58102315", "Content": "girlfriend junior suite surprised nice kitchen shower flat screen wifi design appeals families staff friendly arrived late jacuzzi roof front care location close beach main street recommend", "Date": "2010-03-09 00:00:00"}], "HotelInfo": {"Name": "Hotel Bambu Suites", "HotelURL": "/ShowUserReviews-g150812-d1641107-Reviews-Hotel_Bambu_Suites-Playa_del_Carmen_Yucatan_Peninsula.html", "Price": "$63 - $130*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">40 esquina entre 5ta y 5ta bis</span>, <span class=\"locality\"><span property=\"v:locality\">Playa del Carmen</span> <span property=\"v:postal-code\">77710</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "1641107", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/b2/0c/e9/alberca.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Hagendorn, Schweiz",
+      "Title": "\u201cQuiet, clean, friendly\u201d",
+      "Author": "Holywood07",
+      "ReviewID": "UR124231818",
+      "Content": "7 months son looking 2 kitchen allows prepare baby food following found friendly competent staff clean hotel incl shower roomtoilet facilities nice spas rooftop sunloungers quality soapsshampoos hands compared lowcost stuff found nice beds nice mondern furnishing makes easy feel home filled mini bar incl variety drinks sweets nosh chips noodle soup cups pop corn situated upper 5th ave close shopping mile starts fifteen twenty minutes walk huge super markets ie mega wal mart 5 minutes walk beach twenty twentyfive minutes ado bus terminal 5th ave rent baby bed babys chair weeks pricing unreasonably 15 usd day means expensive youd buy offer items price buy own actually found items cheaper super markets normal cost found elsewhere usd 30 item week expected plus nowadays option tell cleaning staff leave towels changed single day green kitchen cabinets smell mildew source cooking plates expected microwave cook arrived water half holes shower head hole half amount easy clean deal windows closed crank handle windows openedclosed crank easy fix dishwashing detergent personal pain bed wife easily recommend hotel quiet clean friendly unpleasant dont weigh",
+      "Date": "2012-02-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Salt Lake City, Utah",
+      "Title": "\u201cLocation was great, CLEAN and friendly service.\u201d",
+      "Author": "Tawanda1206",
+      "ReviewID": "UR99951813",
+      "Content": "husband stayed 5 days february ten anniversary 5th avenue main drag playa del carmen block makes price reasonable close walk walked walmart taxi bc stuff helpful staff advice night dinner plans didnt mention fabulous little italian owned couple rome busy hot tubs roof meant clean normal temp little cooler day im bed little stiff husband loved pool decoration purposes chose kitchenette included nice size fridge wifi access fast free able skype kids issues stay",
+      "Date": "2011-03-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cGreat location and super comfortable\u201d",
+      "Author": "joferto",
+      "ReviewID": "UR91057968",
+      "Content": "hotels ago location superb 5th avenue walk enjoy restaurant shop close beach spacious nice decoration linens nice bed comfortable blender stay night staying family friends minibar stocked microwave china glasses pool spend time hotel beach ocean close roof 3 jacuzzis attractive planning bar near future bad aware location 5th ave 40th opposite ferry perfect definetely",
+      "Date": "2010-12-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cModern hotel, great location\u201d",
+      "Author": "SaraAlice",
+      "ReviewID": "UR73322114",
+      "Content": "bambu suites location close beach main street 5th avenue hotel lovely comfotable beds huge kitchendining amazing value pool nice spas roof definately reccommend",
+      "Date": "2010-08-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Norway",
+      "Title": "\u201cAwsome designer hotel with great value\u201d",
+      "Author": "arnfinnu",
+      "ReviewID": "UR58102315",
+      "Content": "girlfriend junior suite surprised nice kitchen shower flat screen wifi design appeals families staff friendly arrived late jacuzzi roof front care location close beach main street recommend",
+      "Date": "2010-03-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Bambu Suites",
+    "HotelURL": "/ShowUserReviews-g150812-d1641107-Reviews-Hotel_Bambu_Suites-Playa_del_Carmen_Yucatan_Peninsula.html",
+    "Price": "$63 - $130*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">40 esquina entre 5ta y 5ta bis</span>, <span class=\"locality\"><span property=\"v:locality\">Playa del Carmen</span> <span property=\"v:postal-code\">77710</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "1641107",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/b2/0c/e9/alberca.jpg"
+  }
+}

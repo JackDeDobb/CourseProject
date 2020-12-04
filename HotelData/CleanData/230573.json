@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Amsterdam", "Title": "\u201cSmall room, but comfortable and fantastic breakfast\u201d", "Author": "EllesP", "ReviewID": "UR126380325", "Content": "hotel perfect price vs comfort location downtown berlin tram front hotel quickly reached hot spots breakfast complaint noise facing street airco windows noise horrible sleep day moved hotel facing court yard thank god slept service food vietnamese restaurant si", "Date": "2012-03-20 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Aesch, Switzerland", "Title": "\u201cNice design and excellent staff, roomservice with room for improvement\u201d", "Author": "catiraPalma", "ReviewID": "UR126028827", "Content": "stayed trade itb march property main building 5th floor nice balcony facing cross street slept window traffic noise wasnt bad spacious queen bedded safe plug inside flatscreen tv minibar etc internet comes included rate staff met friendly front desk fb service bathroom real hairdryer super ones comment shower shower tubes tap loose painting mirror breakfast served patio negative cross parking lot coat umbrella 100 yards rain wet nice breakfast buffet option scrambled eggs variety cheese sausage breads jams muesli etc believe building elevator people getting luggage tried service negative incomplete plates covered aluminium usual placed wasnt hot anymore minestrone ok cesars salad disgusting salad leaves definitely fresh anymore sauce oily chicken minor quality weird taste visit definitely itb location public transports sbahn 1km walk takes forever central berlin fairgrounds alex brandenburger tor etc taxi id calculate 1015min", "Date": "2012-03-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "munich", "Title": "\u201cGeneral review\u201d", "Author": "pinme", "ReviewID": "UR123344361", "Content": "nice cosy romantic hotel reception extremely helpful smart nice presentation food reasonable price limited menu matress linens confortable tv superb cnn lights bit stronger romantic negative shower cleaning shoe cleaning kit available try bfast remember booking hotel east city requires quit taxi west", "Date": "2012-01-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Boras, Sweden", "Title": "\u201cOutstanding Hotel in former East Berlin\u201d", "Author": "Thorkild N", "ReviewID": "UR120493375", "Content": "visiting friend live flat former east berlin try hotel berlin reason choose hotel 100 meters flats belonging friends hotel huge surprise friendly informative information arrival hotel fresh stay service amazing terms perfect hotel rum excellent hotel distinct architecture little genuine nature breakfast doubt five stars furthermore berlin little restaurants hotel personal service extremely inexpensive city berlin persons dish meal water bottle vine 1 liter cost 25 30 euro altogether it\u2019s time hotel berlin hotel deserves five star doubt hotel restaurant tramp bus \u2013 walking reach practical berlin cost compared berlin", "Date": "2011-11-12 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Cairo, Egypt.", "Title": "\u201cNice New Berlin Hotel.\u201d", "Author": "Akramdash", "ReviewID": "UR100366919", "Content": "berlin hotel hotel 4 deserve hotel location central tram m5 m6 100 direct line alexander platz prefer lines 15 min walk allee station hotel self consists 2 buildings mediterranean med house spacious 404 equipped huge space king size bed nicely decorated bathroom tub tv normal classic lcd 35 channels german language mini bar safe existed closet free wi fi tea coffee facility breakfast ok selection food staff excellent nice ready extra mile serve hotel ac summer time recommend hotel bill boy service luggage luggage trolly 3 suitcases restaurant waiter help nice indeed reception staff ladies exceptional", "Date": "2011-03-16 00:00:00"}], "HotelInfo": {"Name": "New Berlin", "HotelURL": "/ShowUserReviews-g187323-d230573-Reviews-New_Berlin-Berlin.html", "Price": "$118 - $186*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Petersburger Strasse 24</span>, <span class=\"locality\"><span property=\"v:postal-code\">10249</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "230573", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/d9/a4/5e/aussenansicht.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Amsterdam",
+      "Title": "\u201cSmall room, but comfortable and fantastic breakfast\u201d",
+      "Author": "EllesP",
+      "ReviewID": "UR126380325",
+      "Content": "hotel perfect price vs comfort location downtown berlin tram front hotel quickly reached hot spots breakfast complaint noise facing street airco windows noise horrible sleep day moved hotel facing court yard thank god slept service food vietnamese restaurant si",
+      "Date": "2012-03-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Aesch, Switzerland",
+      "Title": "\u201cNice design and excellent staff, roomservice with room for improvement\u201d",
+      "Author": "catiraPalma",
+      "ReviewID": "UR126028827",
+      "Content": "stayed trade itb march property main building 5th floor nice balcony facing cross street slept window traffic noise wasnt bad spacious queen bedded safe plug inside flatscreen tv minibar etc internet comes included rate staff met friendly front desk fb service bathroom real hairdryer super ones comment shower shower tubes tap loose painting mirror breakfast served patio negative cross parking lot coat umbrella 100 yards rain wet nice breakfast buffet option scrambled eggs variety cheese sausage breads jams muesli etc believe building elevator people getting luggage tried service negative incomplete plates covered aluminium usual placed wasnt hot anymore minestrone ok cesars salad disgusting salad leaves definitely fresh anymore sauce oily chicken minor quality weird taste visit definitely itb location public transports sbahn 1km walk takes forever central berlin fairgrounds alex brandenburger tor etc taxi id calculate 1015min",
+      "Date": "2012-03-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "munich",
+      "Title": "\u201cGeneral review\u201d",
+      "Author": "pinme",
+      "ReviewID": "UR123344361",
+      "Content": "nice cosy romantic hotel reception extremely helpful smart nice presentation food reasonable price limited menu matress linens confortable tv superb cnn lights bit stronger romantic negative shower cleaning shoe cleaning kit available try bfast remember booking hotel east city requires quit taxi west",
+      "Date": "2012-01-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Boras, Sweden",
+      "Title": "\u201cOutstanding Hotel in former East Berlin\u201d",
+      "Author": "Thorkild N",
+      "ReviewID": "UR120493375",
+      "Content": "visiting friend live flat former east berlin try hotel berlin reason choose hotel 100 meters flats belonging friends hotel huge surprise friendly informative information arrival hotel fresh stay service amazing terms perfect hotel rum excellent hotel distinct architecture little genuine nature breakfast doubt five stars furthermore berlin little restaurants hotel personal service extremely inexpensive city berlin persons dish meal water bottle vine 1 liter cost 25 30 euro altogether it\u2019s time hotel berlin hotel deserves five star doubt hotel restaurant tramp bus \u2013 walking reach practical berlin cost compared berlin",
+      "Date": "2011-11-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Cairo, Egypt.",
+      "Title": "\u201cNice New Berlin Hotel.\u201d",
+      "Author": "Akramdash",
+      "ReviewID": "UR100366919",
+      "Content": "berlin hotel hotel 4 deserve hotel location central tram m5 m6 100 direct line alexander platz prefer lines 15 min walk allee station hotel self consists 2 buildings mediterranean med house spacious 404 equipped huge space king size bed nicely decorated bathroom tub tv normal classic lcd 35 channels german language mini bar safe existed closet free wi fi tea coffee facility breakfast ok selection food staff excellent nice ready extra mile serve hotel ac summer time recommend hotel bill boy service luggage luggage trolly 3 suitcases restaurant waiter help nice indeed reception staff ladies exceptional",
+      "Date": "2011-03-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "New Berlin",
+    "HotelURL": "/ShowUserReviews-g187323-d230573-Reviews-New_Berlin-Berlin.html",
+    "Price": "$118 - $186*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Petersburger Strasse 24</span>, <span class=\"locality\"><span property=\"v:postal-code\">10249</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "230573",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/d9/a4/5e/aussenansicht.jpg"
+  }
+}

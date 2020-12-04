@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Hot Springs, Arkansas, United States", "Title": "\u201cNever again\u201d", "Author": "Stormey L", "ReviewID": "UR126559057", "Content": "stayed laquinta relly experience set reservations spent 300 requested bottom floor vacationing 3 children including infant rented hotel yard poolspa receptionist failed tell construction door noise loud couldnt lay 1 nap day closed pool construction receptionist putting lift single worker requested repeatedly able finally day leave offered pool cleaned told money remaining day overall complimentary breakfast wifi decent house cleaning ladies towels swimming receptionist class hospitality", "Date": "2012-03-23 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Toluca Mex", "Title": "\u201cGood for the money\u201d", "Author": "Blur_78", "ReviewID": "UR124506136", "Content": "ive stayed la quinta business travels location easily drive hotel hotel noticed worn specially tub bathroom youve stayed la quinta expect didnt found disguising happy surprise", "Date": "2012-02-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Rochester, New York", "Title": "\u201cI will be coming back for sure\u201d", "Author": "Devlesa", "ReviewID": "UR97102751", "Content": "travel short notice dallas unfortunately goodbye grandmother dying arrived reservation reserved nonsmoking king nonsmoking king breathing smoking acceptable smelled smoke grandmother pretty upset desk care quickly bumped huge suite rate king entire stay beautiful sounds silly nice unwind pretty stressful days family cause dallas times visit family business ill reservations hotel thank guys unhappy trip little", "Date": "2011-02-18 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Lawrence, Kansas", "Title": "\u201cGreat Value\u201d", "Author": "frhays", "ReviewID": "UR86046597", "Content": "62 night represents value liked nonsmoking king bed ok microwave coffeemaker free wireless albeit bit slow continental breakfast complete waffles eggs fitness center basic cardio machines free parking looked real close property starting age represents value close cvs subway starbucks quiznos easy walking distance close major hotels attended westin central walking distance staff friendly outdoor pool hot tub hot tub stayed week stay", "Date": "2010-11-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Texas", "Title": "\u201cA flexible hotel, amazing!\u201d", "Author": "TexasLight", "ReviewID": "UR76237433", "Content": "la quinta perfectly acceptable nice price easy navigate lost paper bag able easily clean nice lobby outside pool looked inviting especially dallas august appreciated staffs ability change internet reservation spot reservation online reserved 1 king size bed stars aligned 2 teenagers able minute checked desk clerk reminded selection 2 beds pay 20 started 5500 wasnt tried similar hotel chain wouldnt reservation online la quinta stayed time due acceptable environment liberal cancellation policy nice price ability adapt life theyve friend", "Date": "2010-08-21 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Chennai", "Title": "\u201cLooks deserted..but neat rooms..good price\u201d", "Author": "ashtop", "ReviewID": "UR69105780", "Content": "dont location quality dallas looked industrial zone share cvs burger joints access basic night clean decent service wait counter attend time counter", "Date": "2010-06-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Austin, Texas", "Title": "\u201cBasic hotel at a great rate!\u201d", "Author": "Trekmom02", "ReviewID": "UR59786138", "Content": "stayed la quinta family town wedding shared 2 queen motherinlaw comfortable beds family 2 adults 2 children age 6 3 stayed king suites comfortable downside hoping separate bedroom wall bedroom living breakfast buffet substantial belgian waffle maker fitness center machines business center computer guests location convenient accessible cvs pharmacy parking lots city street paid rate definitely moneys worth", "Date": "2010-03-29 00:00:00"}], "HotelInfo": {"Name": "La Quinta Inn Dallas LBJ/Central", "HotelURL": "/ShowUserReviews-g55711-d611182-Reviews-La_Quinta_Inn_Dallas_LBJ_Central-Dallas_Texas.html", "Price": "$53 - $92*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">7815A LBJ Freeway</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75251</span></span> </span></span></address>", "HotelID": "611182", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b6/bf/b6bf62dfab8f17941b1efaafa03f3b955large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Hot Springs, Arkansas, United States",
+      "Title": "\u201cNever again\u201d",
+      "Author": "Stormey L",
+      "ReviewID": "UR126559057",
+      "Content": "stayed laquinta relly experience set reservations spent 300 requested bottom floor vacationing 3 children including infant rented hotel yard poolspa receptionist failed tell construction door noise loud couldnt lay 1 nap day closed pool construction receptionist putting lift single worker requested repeatedly able finally day leave offered pool cleaned told money remaining day overall complimentary breakfast wifi decent house cleaning ladies towels swimming receptionist class hospitality",
+      "Date": "2012-03-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Toluca Mex",
+      "Title": "\u201cGood for the money\u201d",
+      "Author": "Blur_78",
+      "ReviewID": "UR124506136",
+      "Content": "ive stayed la quinta business travels location easily drive hotel hotel noticed worn specially tub bathroom youve stayed la quinta expect didnt found disguising happy surprise",
+      "Date": "2012-02-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Rochester, New York",
+      "Title": "\u201cI will be coming back for sure\u201d",
+      "Author": "Devlesa",
+      "ReviewID": "UR97102751",
+      "Content": "travel short notice dallas unfortunately goodbye grandmother dying arrived reservation reserved nonsmoking king nonsmoking king breathing smoking acceptable smelled smoke grandmother pretty upset desk care quickly bumped huge suite rate king entire stay beautiful sounds silly nice unwind pretty stressful days family cause dallas times visit family business ill reservations hotel thank guys unhappy trip little",
+      "Date": "2011-02-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Lawrence, Kansas",
+      "Title": "\u201cGreat Value\u201d",
+      "Author": "frhays",
+      "ReviewID": "UR86046597",
+      "Content": "62 night represents value liked nonsmoking king bed ok microwave coffeemaker free wireless albeit bit slow continental breakfast complete waffles eggs fitness center basic cardio machines free parking looked real close property starting age represents value close cvs subway starbucks quiznos easy walking distance close major hotels attended westin central walking distance staff friendly outdoor pool hot tub hot tub stayed week stay",
+      "Date": "2010-11-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Texas",
+      "Title": "\u201cA flexible hotel, amazing!\u201d",
+      "Author": "TexasLight",
+      "ReviewID": "UR76237433",
+      "Content": "la quinta perfectly acceptable nice price easy navigate lost paper bag able easily clean nice lobby outside pool looked inviting especially dallas august appreciated staffs ability change internet reservation spot reservation online reserved 1 king size bed stars aligned 2 teenagers able minute checked desk clerk reminded selection 2 beds pay 20 started 5500 wasnt tried similar hotel chain wouldnt reservation online la quinta stayed time due acceptable environment liberal cancellation policy nice price ability adapt life theyve friend",
+      "Date": "2010-08-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Chennai",
+      "Title": "\u201cLooks deserted..but neat rooms..good price\u201d",
+      "Author": "ashtop",
+      "ReviewID": "UR69105780",
+      "Content": "dont location quality dallas looked industrial zone share cvs burger joints access basic night clean decent service wait counter attend time counter",
+      "Date": "2010-06-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Austin, Texas",
+      "Title": "\u201cBasic hotel at a great rate!\u201d",
+      "Author": "Trekmom02",
+      "ReviewID": "UR59786138",
+      "Content": "stayed la quinta family town wedding shared 2 queen motherinlaw comfortable beds family 2 adults 2 children age 6 3 stayed king suites comfortable downside hoping separate bedroom wall bedroom living breakfast buffet substantial belgian waffle maker fitness center machines business center computer guests location convenient accessible cvs pharmacy parking lots city street paid rate definitely moneys worth",
+      "Date": "2010-03-29 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "La Quinta Inn Dallas LBJ/Central",
+    "HotelURL": "/ShowUserReviews-g55711-d611182-Reviews-La_Quinta_Inn_Dallas_LBJ_Central-Dallas_Texas.html",
+    "Price": "$53 - $92*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">7815A LBJ Freeway</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75251</span></span> </span></span></address>",
+    "HotelID": "611182",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b6/bf/b6bf62dfab8f17941b1efaafa03f3b955large.jpg"
+  }
+}

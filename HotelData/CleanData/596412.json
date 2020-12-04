@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "houston", "Title": "\u201cBig Disappointment\u201d", "Author": "BIGBENITO", "ReviewID": "UR118637093", "Content": "unless traveling business immediate stay santa fe mexico citys charms riches business choices lover architecture looking forward staying unusual oval building checking soon realized lacks atmosphere style remote location guests feel captive management takes advantage price gouging internet access bottled water minibar inroom coffee outrageously overpriced hotel facilities services occupancy upgraded club floor charged privilege using lounge ordinary supposed stylish contemporary 5star hotel ugly commercial carpeting ikealike furniture clunky obsolete tvs inroom cd player removed replaced luckily tv system offered couple music channels demand movies basic hotel functions speaking hightech indicators hallway housekeeping guests tiny red green led lights housekeeper door knocking using buzzer apologize day returned hotel 4pm cleaned spend time 7th floor view loading roof convention center street pleasant stay", "Date": "2011-09-26 00:00:00"}], "HotelInfo": {"Name": "Fiesta Inn Santa Fe", "HotelURL": "/ShowUserReviews-g150800-d596412-Reviews-Fiesta_Inn_Santa_Fe-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$123 - $218*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle 3 no 55 Col. Lomas de Santa Fe</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">01219</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "596412", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/86/a7/86a71550639e0e9ca9ec3462ef352b4733large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "houston",
+      "Title": "\u201cBig Disappointment\u201d",
+      "Author": "BIGBENITO",
+      "ReviewID": "UR118637093",
+      "Content": "unless traveling business immediate stay santa fe mexico citys charms riches business choices lover architecture looking forward staying unusual oval building checking soon realized lacks atmosphere style remote location guests feel captive management takes advantage price gouging internet access bottled water minibar inroom coffee outrageously overpriced hotel facilities services occupancy upgraded club floor charged privilege using lounge ordinary supposed stylish contemporary 5star hotel ugly commercial carpeting ikealike furniture clunky obsolete tvs inroom cd player removed replaced luckily tv system offered couple music channels demand movies basic hotel functions speaking hightech indicators hallway housekeeping guests tiny red green led lights housekeeper door knocking using buzzer apologize day returned hotel 4pm cleaned spend time 7th floor view loading roof convention center street pleasant stay",
+      "Date": "2011-09-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Fiesta Inn Santa Fe",
+    "HotelURL": "/ShowUserReviews-g150800-d596412-Reviews-Fiesta_Inn_Santa_Fe-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$123 - $218*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle 3 no 55 Col. Lomas de Santa Fe</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">01219</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "596412",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/86/a7/86a71550639e0e9ca9ec3462ef352b4733large.jpg"
+  }
+}

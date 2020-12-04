@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cBeware!\u201d", "Author": "crissitoe", "ReviewID": "UR126250610", "Content": "mother recently stayed based positive reviews bookingcom extremely disappointed disappointed couple nights stay cancelled california instead stayed hotel sweet home building 2nd floor price charge definitely worth 1 broken elevator 4th floor 5 flights stairs usually wouldnt mind exercise walking rome day climb 5 flights stairs 2 phone directory couldnt call front desk 3 tv remote walk 5 flights stairs specifically request remote control 4 wireless inconsistent internet access night subsequent nights frustrating 5 table cloth bath towel texture bath towels provided 6 thin walls hear neighbors talking phone till 1am positives 1 clean 2 location advice stay close roma termini dont stay plenty hotels building eg hotel sweet home", "Date": "2012-03-17 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Boston , MA", "Title": "\u201cModern and Older Rooms Available. Easy Access to Main Termini Train Station\u201d", "Author": "bagjob", "ReviewID": "UR121801741", "Content": "stayed 6 times hotel located block main train bus station termini easiest location rome people little seedy cleaned considerably hotel process major rehab changed sleek contemporary hotel safe clean arrive termini leonardo express train airport minutes comes continental breakfast free internet lobby safe clean convenient affordable stay hotel california definetly fits bill", "Date": "2011-12-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Trinidad", "Title": "\u201cMust stay here when in Rome\u201d", "Author": "Del_Cuore", "ReviewID": "UR118836606", "Content": "hotel stones throw roma termini perfect location reasonably restaurants close main roman tourist attractions shopping fantastic staff helpful spoke spanish english addition italian leave bags lobby couple hours checkout comfortable clean available stay", "Date": "2011-10-02 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Brussels, Belgium", "Title": "\u201cAVOID this hotel!\u201d", "Author": "Kasia G", "ReviewID": "UR118644633", "Content": "avoid maid reservation via bookingcom 2 months advance arrived informed cancelled reservation credit card informing tel email credit card reservation 8 hotels italy trip offered else reservation supposed arrive day double price refused owner reception staff rude und unfriendly wouldnt city nice hotel street 2 minutes heard story offered price reservation via booking california wish stay rome stay hotel california", "Date": "2011-09-27 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "NY", "Title": "\u201cDon't Ever Stay Here\u201d", "Author": "Susie-Lous", "ReviewID": "UR88474018", "Content": "reception deceiving pass door run hallway elevator etc lead remote tv hot water bathe thin walls hear people door doors broken closet safe wires ripped safe towel thin bring own toiletries didnt dare try breakfast ran check quickly am night hell noise", "Date": "2010-11-28 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "na", "Title": "\u201cIt's a decent hotel\u201d", "Author": "blueberry090", "ReviewID": "UR65494774", "Content": "husband decided stay rome nights transit flight we\u2019ve rome chance finding hotel termini min reservation counter helped hotel pleasantly surprised hotel fashioned elevator \u2013 cool \u2013 course tiny clean spacious basic tv fridge safe staff friendly helpful hotel close termini main attractions restaurants rented scooter day 5 min walk hotel via cavour downside night hear noise street hotel restaurant road don\u2019t expect breakfast \u2013 consisted coffee juice yogurt pastries", "Date": "2010-05-27 00:00:00"}], "HotelInfo": {"Name": "California Hotel", "HotelURL": "/ShowUserReviews-g187791-d231285-Reviews-California_Hotel-Rome_Lazio.html", "Price": "$83 - $241*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">39 Via Principe Amedeo</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "231285", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e7/b7/e7b77979e4088f19d8cc0f3de47688273large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cBeware!\u201d",
+      "Author": "crissitoe",
+      "ReviewID": "UR126250610",
+      "Content": "mother recently stayed based positive reviews bookingcom extremely disappointed disappointed couple nights stay cancelled california instead stayed hotel sweet home building 2nd floor price charge definitely worth 1 broken elevator 4th floor 5 flights stairs usually wouldnt mind exercise walking rome day climb 5 flights stairs 2 phone directory couldnt call front desk 3 tv remote walk 5 flights stairs specifically request remote control 4 wireless inconsistent internet access night subsequent nights frustrating 5 table cloth bath towel texture bath towels provided 6 thin walls hear neighbors talking phone till 1am positives 1 clean 2 location advice stay close roma termini dont stay plenty hotels building eg hotel sweet home",
+      "Date": "2012-03-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Boston , MA",
+      "Title": "\u201cModern and Older Rooms Available. Easy Access to Main Termini Train Station\u201d",
+      "Author": "bagjob",
+      "ReviewID": "UR121801741",
+      "Content": "stayed 6 times hotel located block main train bus station termini easiest location rome people little seedy cleaned considerably hotel process major rehab changed sleek contemporary hotel safe clean arrive termini leonardo express train airport minutes comes continental breakfast free internet lobby safe clean convenient affordable stay hotel california definetly fits bill",
+      "Date": "2011-12-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Trinidad",
+      "Title": "\u201cMust stay here when in Rome\u201d",
+      "Author": "Del_Cuore",
+      "ReviewID": "UR118836606",
+      "Content": "hotel stones throw roma termini perfect location reasonably restaurants close main roman tourist attractions shopping fantastic staff helpful spoke spanish english addition italian leave bags lobby couple hours checkout comfortable clean available stay",
+      "Date": "2011-10-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Brussels, Belgium",
+      "Title": "\u201cAVOID this hotel!\u201d",
+      "Author": "Kasia G",
+      "ReviewID": "UR118644633",
+      "Content": "avoid maid reservation via bookingcom 2 months advance arrived informed cancelled reservation credit card informing tel email credit card reservation 8 hotels italy trip offered else reservation supposed arrive day double price refused owner reception staff rude und unfriendly wouldnt city nice hotel street 2 minutes heard story offered price reservation via booking california wish stay rome stay hotel california",
+      "Date": "2011-09-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "NY",
+      "Title": "\u201cDon't Ever Stay Here\u201d",
+      "Author": "Susie-Lous",
+      "ReviewID": "UR88474018",
+      "Content": "reception deceiving pass door run hallway elevator etc lead remote tv hot water bathe thin walls hear people door doors broken closet safe wires ripped safe towel thin bring own toiletries didnt dare try breakfast ran check quickly am night hell noise",
+      "Date": "2010-11-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "na",
+      "Title": "\u201cIt's a decent hotel\u201d",
+      "Author": "blueberry090",
+      "ReviewID": "UR65494774",
+      "Content": "husband decided stay rome nights transit flight we\u2019ve rome chance finding hotel termini min reservation counter helped hotel pleasantly surprised hotel fashioned elevator \u2013 cool \u2013 course tiny clean spacious basic tv fridge safe staff friendly helpful hotel close termini main attractions restaurants rented scooter day 5 min walk hotel via cavour downside night hear noise street hotel restaurant road don\u2019t expect breakfast \u2013 consisted coffee juice yogurt pastries",
+      "Date": "2010-05-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "California Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d231285-Reviews-California_Hotel-Rome_Lazio.html",
+    "Price": "$83 - $241*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">39 Via Principe Amedeo</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "231285",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e7/b7/e7b77979e4088f19d8cc0f3de47688273large.jpg"
+  }
+}

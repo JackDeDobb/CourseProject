@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 2.0}, "AuthorLocation": "Gilbert, Arizona", "Title": "\u201cNice place to lay over.\u201d", "Author": "joloughlin", "ReviewID": "UR126117035", "Content": "brand hotel miramar district stayed 1night waiting board cruise hotel walking distance restaurant 12 block wait opted pizza negative ill positives 711 type convenience store hotel stopped pick bottled water store door locked guessing speaks volumes character neighborhood graffiti bldg pluses receptionist friendly offered upgrade resident apartment 3 bedrooms 2 baths jacuzzi service kitchen apt lovely sparkling clean breakfast included rate location bit questionable recommend visit sj", "Date": "2012-03-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "St. Thomas", "Title": "\u201cWe didn't want to leave!\u201d", "Author": "Jadyn M", "ReviewID": "UR125896356", "Content": "excellent bigger 6 stayed bigger suites perfect setting maybe town water pressure overall worth price paid front desk friendly staff complimentary breakfast nicer breakfasts spots town didnt leave", "Date": "2012-03-10 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Caledonia, Michigan", "Title": "\u201cNot worth the money. At any price.\u201d", "Author": "Julie V", "ReviewID": "UR124711459", "Content": "recently returned wonderful cruise vacation starting puerto rico exception booked 3 bedroom condo night beginning cruise checked decided add dollars additional cost reservation stated cost based 2 reservation based 6 refused budge late night unable travel elsewhere advised people responsible property beach restaurant selection desirable neighborhood overlooked abandoned buildings trash appears pictures recently remodeled poor workmanship cancelled night stay moved holiday inn express condado 150 dollars cheaper happy holiday inn lodging close stores food beach street awesome stay holiday inn", "Date": "2012-02-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Milwaukee, Wisconsin", "Title": "\u201cVery Impressed\u201d", "Author": "Henry R", "ReviewID": "UR124670757", "Content": "wife stayed 2 nights cruise chose reviews online throught expedia com reviews helpful decision stay city stayed cheaper pay defintely stay clean spacious safe conveniently located nice amenities wonderfully decorated nice staff impressed", "Date": "2012-02-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "San Juan, Puerto Rico", "Title": "\u201cExcellent Stay and Staff\u201d", "Author": "jose l", "ReviewID": "UR121663786", "Content": "stay san juan pr opportunity staying suites 2 months hotel feel staying home parking lot safe hotels location safe shopping 5 minutes car extremely near popular restaurants hotel conveniently located 24 hour express shop priced emergency snacks drinks little hotels today\u2019s economy time please customers stay stay time pr return visit don\u2019t hesitate stay home suites experience fantastic", "Date": "2011-12-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Vancouver, Canada", "Title": "\u201cWe enjoyed our stay at Ciqala very much.Excellent service and staff.\u201d", "Author": "tanya a", "ReviewID": "UR121213722", "Content": "booked didnt pleasant surprisethe staff excellentit beyond 6 agreed veryvery goodwe stayed 1 nightwe check day left luggage till 3 pm recommend", "Date": "2011-11-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "SAINT MARTIN FWI", "Title": "\u201cGreat place and nice and very helpful staff .\u201d", "Author": "Janine H", "ReviewID": "UR120550305", "Content": "expectations satisfied staff manager easy baby crib mounted minutesthe absolutely beautiful clean enjoyed jacuzzi shopping experience happy hop cab rush confortable suite im planning trip soon", "Date": "2011-11-13 00:00:00"}], "HotelInfo": {"Name": "Ciqala Suites", "HotelURL": "/ShowUserReviews-g147320-d2179878-Reviews-Ciqala_Suites-San_Juan_Puerto_Rico.html", "Price": "$168 - $397*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">752 Fernandez Juncos Ave.</span> | <span class=\"extended-address\">Miramar</span>, <span class=\"locality\"><span property=\"v:locality\">San Juan</span> <span property=\"v:postal-code\">00907</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span> </span> </address>", "HotelID": "2179878", "ImgURL": "http://www.tripadvisor.com/http://media-cdn.tripadvisor.com/media/photo-s/01/ed/51/0a/master-room-with-king.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Gilbert, Arizona",
+      "Title": "\u201cNice place to lay over.\u201d",
+      "Author": "joloughlin",
+      "ReviewID": "UR126117035",
+      "Content": "brand hotel miramar district stayed 1night waiting board cruise hotel walking distance restaurant 12 block wait opted pizza negative ill positives 711 type convenience store hotel stopped pick bottled water store door locked guessing speaks volumes character neighborhood graffiti bldg pluses receptionist friendly offered upgrade resident apartment 3 bedrooms 2 baths jacuzzi service kitchen apt lovely sparkling clean breakfast included rate location bit questionable recommend visit sj",
+      "Date": "2012-03-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "St. Thomas",
+      "Title": "\u201cWe didn't want to leave!\u201d",
+      "Author": "Jadyn M",
+      "ReviewID": "UR125896356",
+      "Content": "excellent bigger 6 stayed bigger suites perfect setting maybe town water pressure overall worth price paid front desk friendly staff complimentary breakfast nicer breakfasts spots town didnt leave",
+      "Date": "2012-03-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Caledonia, Michigan",
+      "Title": "\u201cNot worth the money. At any price.\u201d",
+      "Author": "Julie V",
+      "ReviewID": "UR124711459",
+      "Content": "recently returned wonderful cruise vacation starting puerto rico exception booked 3 bedroom condo night beginning cruise checked decided add dollars additional cost reservation stated cost based 2 reservation based 6 refused budge late night unable travel elsewhere advised people responsible property beach restaurant selection desirable neighborhood overlooked abandoned buildings trash appears pictures recently remodeled poor workmanship cancelled night stay moved holiday inn express condado 150 dollars cheaper happy holiday inn lodging close stores food beach street awesome stay holiday inn",
+      "Date": "2012-02-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Milwaukee, Wisconsin",
+      "Title": "\u201cVery Impressed\u201d",
+      "Author": "Henry R",
+      "ReviewID": "UR124670757",
+      "Content": "wife stayed 2 nights cruise chose reviews online throught expedia com reviews helpful decision stay city stayed cheaper pay defintely stay clean spacious safe conveniently located nice amenities wonderfully decorated nice staff impressed",
+      "Date": "2012-02-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "San Juan, Puerto Rico",
+      "Title": "\u201cExcellent Stay and Staff\u201d",
+      "Author": "jose l",
+      "ReviewID": "UR121663786",
+      "Content": "stay san juan pr opportunity staying suites 2 months hotel feel staying home parking lot safe hotels location safe shopping 5 minutes car extremely near popular restaurants hotel conveniently located 24 hour express shop priced emergency snacks drinks little hotels today\u2019s economy time please customers stay stay time pr return visit don\u2019t hesitate stay home suites experience fantastic",
+      "Date": "2011-12-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Vancouver, Canada",
+      "Title": "\u201cWe enjoyed our stay at Ciqala very much.Excellent service and staff.\u201d",
+      "Author": "tanya a",
+      "ReviewID": "UR121213722",
+      "Content": "booked didnt pleasant surprisethe staff excellentit beyond 6 agreed veryvery goodwe stayed 1 nightwe check day left luggage till 3 pm recommend",
+      "Date": "2011-11-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "SAINT MARTIN FWI",
+      "Title": "\u201cGreat place and nice and very helpful staff .\u201d",
+      "Author": "Janine H",
+      "ReviewID": "UR120550305",
+      "Content": "expectations satisfied staff manager easy baby crib mounted minutesthe absolutely beautiful clean enjoyed jacuzzi shopping experience happy hop cab rush confortable suite im planning trip soon",
+      "Date": "2011-11-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Ciqala Suites",
+    "HotelURL": "/ShowUserReviews-g147320-d2179878-Reviews-Ciqala_Suites-San_Juan_Puerto_Rico.html",
+    "Price": "$168 - $397*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">752 Fernandez Juncos Ave.</span> | <span class=\"extended-address\">Miramar</span>, <span class=\"locality\"><span property=\"v:locality\">San Juan</span> <span property=\"v:postal-code\">00907</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span> </span> </address>",
+    "HotelID": "2179878",
+    "ImgURL": "http://www.tripadvisor.com/http://media-cdn.tripadvisor.com/media/photo-s/01/ed/51/0a/master-room-with-king.jpg"
+  }
+}

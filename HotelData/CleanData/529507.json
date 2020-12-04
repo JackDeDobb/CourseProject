@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Heidelberg, Germany", "Title": "\u201cGreat location... that's it\u201d", "Author": "Lei811", "ReviewID": "UR124024568", "Content": "location excellent close shopping dining 5minute walk train station hotel basic ideal looking spend night clean basic services offered breakfast morning cleaning service day hotel restaurant bar parking street hotels building floors creak walk oh bed possibly hardest bed slept", "Date": "2012-02-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Kongens Lyngby, Denmark", "Title": "\u201cCheap and friendly place\u201d", "Author": "Dovndyr", "ReviewID": "UR96075611", "Content": "stayed week 3 single 35 euros night aprox 45 dollars wich bit doubleroom plesent person bed doublebed everyhing ok clean friend stayed hotels junior suite huge nice balcony view berlin top tube hardly guess funny smell beginning day toilet broken key 4 bed door wich seemd ok ore friends berlin morning theres nice breakfast maybe ritz hey breakfast cost 35 euros pretty nice trying help", "Date": "2011-02-09 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Scarborough, United Kingdom", "Title": "\u201cClean, Quiet, and Friendly\u201d", "Author": "zooks", "ReviewID": "UR92817720", "Content": "stayed 7 nights christmas 2010 offered due smell smoke hotel overlooking garden couldnt fault friendliness helpfulness staff location superb walking 15 minutes centre berlin bear mind berlin city debatable centre actually convenient buses 2 mins trains 5 mins plenty food breakfast plenty hot water weather outside below freezing hotels heating system adequate jaded worth 3 rating lots eating close", "Date": "2011-01-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Enns, Austria", "Title": "\u201cGood value and location\u201d", "Author": "ikapl", "ReviewID": "UR91421226", "Content": "friendly helpful staff fast economical bus connection tegel location street kudamm convenient public transportation included 4 beds plus pullout couch charming balcony bathroom recently renovated furnishings shape thoroughly enjoyed stay hotel astrid", "Date": "2011-01-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "london", "Title": "\u201cOld-fashioned, cheap, quiet hotel in excellent location\u201d", "Author": "jeff22London", "ReviewID": "UR68731195", "Content": "adequate safe shower bit difficult access reasonable selection breakfast including boiled eggs youre late staff friendly particularly manageress spoke decent english entrance 1st floor staircase antiquated lift excellent location sbahn savignyplatz alexanderplatz wonderful overview city favourite restaurant hundred metres towards sbahn road hotel", "Date": "2010-06-26 00:00:00"}], "HotelInfo": {"Name": "Astrid Hotel am Kurfurstendamm", "HotelURL": "/ShowUserReviews-g187323-d529507-Reviews-Astrid_Hotel_am_Kurfurstendamm-Berlin.html", "Price": "$72 - $137*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Bleibtreustrasse 20</span>, <span class=\"locality\"><span property=\"v:postal-code\">10623</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "529507", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b4/90/b4903ec65ee90e69cebc2935772a21623large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Heidelberg, Germany",
+      "Title": "\u201cGreat location... that's it\u201d",
+      "Author": "Lei811",
+      "ReviewID": "UR124024568",
+      "Content": "location excellent close shopping dining 5minute walk train station hotel basic ideal looking spend night clean basic services offered breakfast morning cleaning service day hotel restaurant bar parking street hotels building floors creak walk oh bed possibly hardest bed slept",
+      "Date": "2012-02-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Kongens Lyngby, Denmark",
+      "Title": "\u201cCheap and friendly place\u201d",
+      "Author": "Dovndyr",
+      "ReviewID": "UR96075611",
+      "Content": "stayed week 3 single 35 euros night aprox 45 dollars wich bit doubleroom plesent person bed doublebed everyhing ok clean friend stayed hotels junior suite huge nice balcony view berlin top tube hardly guess funny smell beginning day toilet broken key 4 bed door wich seemd ok ore friends berlin morning theres nice breakfast maybe ritz hey breakfast cost 35 euros pretty nice trying help",
+      "Date": "2011-02-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Scarborough, United Kingdom",
+      "Title": "\u201cClean, Quiet, and Friendly\u201d",
+      "Author": "zooks",
+      "ReviewID": "UR92817720",
+      "Content": "stayed 7 nights christmas 2010 offered due smell smoke hotel overlooking garden couldnt fault friendliness helpfulness staff location superb walking 15 minutes centre berlin bear mind berlin city debatable centre actually convenient buses 2 mins trains 5 mins plenty food breakfast plenty hot water weather outside below freezing hotels heating system adequate jaded worth 3 rating lots eating close",
+      "Date": "2011-01-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Enns, Austria",
+      "Title": "\u201cGood value and location\u201d",
+      "Author": "ikapl",
+      "ReviewID": "UR91421226",
+      "Content": "friendly helpful staff fast economical bus connection tegel location street kudamm convenient public transportation included 4 beds plus pullout couch charming balcony bathroom recently renovated furnishings shape thoroughly enjoyed stay hotel astrid",
+      "Date": "2011-01-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "london",
+      "Title": "\u201cOld-fashioned, cheap, quiet hotel in excellent location\u201d",
+      "Author": "jeff22London",
+      "ReviewID": "UR68731195",
+      "Content": "adequate safe shower bit difficult access reasonable selection breakfast including boiled eggs youre late staff friendly particularly manageress spoke decent english entrance 1st floor staircase antiquated lift excellent location sbahn savignyplatz alexanderplatz wonderful overview city favourite restaurant hundred metres towards sbahn road hotel",
+      "Date": "2010-06-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Astrid Hotel am Kurfurstendamm",
+    "HotelURL": "/ShowUserReviews-g187323-d529507-Reviews-Astrid_Hotel_am_Kurfurstendamm-Berlin.html",
+    "Price": "$72 - $137*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Bleibtreustrasse 20</span>, <span class=\"locality\"><span property=\"v:postal-code\">10623</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "529507",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b4/90/b4903ec65ee90e69cebc2935772a21623large.jpg"
+  }
+}

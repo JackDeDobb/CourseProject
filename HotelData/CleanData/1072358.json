@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Ho Chi Minh City, null, Vietnam", "Title": "\u201cGood budget getaway hotel\u201d", "Author": "Brian H", "ReviewID": "UR123587005", "Content": "stay little india close cultural attractions easy mrt staff helpful available 24 hours nice hot water towels hair dryer service 24 hour convenience store", "Date": "2012-01-25 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Manila, Philippines", "Title": "\u201cGood enough budget hotel\u201d", "Author": "Trosete", "ReviewID": "UR120646542", "Content": "considering expensive singapore actually budget hotel clean basic necessities hot water towels dryer free wifi location front sim lim 10 mins walk bugis mrt station 10 mins youll passing shopping district bugis st bugis junction walk isnt bad probably book budget trips", "Date": "2011-11-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Los Angeles, California", "Title": "\u201cHorrible Value.\u201d", "Author": "EricF32655", "ReviewID": "UR107358203", "Content": "hotel 81 decent budget hogged doesnt charge budget prices disappointed 80 usd night requested windows windows guests extremely loud slamming doors hallways 1am bizarre hotel lacked furniture couldnt unpack housekeeping beds times proper sheets ones barely fit bed uncomfortable wifi seed booted minutes inactivity overall expect money 40 night decent deal", "Date": "2011-05-08 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Chennai (Madras), India", "Title": "\u201cBest Value for Money\u201d", "Author": "cabalaji97", "ReviewID": "UR106459663", "Content": "hotel value money complete peace walking distance market hotel stay short time 2 days manu restaurants food nearby lot variety hence food hotel makes difference hotel budget travellers", "Date": "2011-05-02 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Perth, Australia", "Title": "\u201cSo bad I'm still laughing\u201d", "Author": "Kiandora", "ReviewID": "UR65150915", "Content": "hotel 81 horrible extent couldnt help laugh step elevator sudden feeling stuck inside wonderland alice poorly decorated tiled hallways little hide floor slanted entering suddenly grown times size yes little tiny offer little tv dvd player apart decor below standard bed sleeping giant leather bound book uncomfortable slippery own bed sheets placed bed properly didnt fit bed bathroom worst shower consisted shower head protruding wall fashion actually sit toilet shower time actually convinced intended water soaking entire bathroom windows covered strange green sheet couldnt letting sunlight effect emerald city land oz strange hotel recommend nights sleep", "Date": "2010-05-24 00:00:00"}], "HotelInfo": {"Name": "Hotel 81 Rochor", "HotelURL": "/ShowUserReviews-g294265-d1072358-Reviews-Hotel_81_Rochor-Singapore.html", "Price": "$84 - $135*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Jalan Besar 5</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">208785</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>", "HotelID": "1072358", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/27/c3/27c3ec96fadf4155ca1e52ef01bf3d7c4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Ho Chi Minh City, null, Vietnam",
+      "Title": "\u201cGood budget getaway hotel\u201d",
+      "Author": "Brian H",
+      "ReviewID": "UR123587005",
+      "Content": "stay little india close cultural attractions easy mrt staff helpful available 24 hours nice hot water towels hair dryer service 24 hour convenience store",
+      "Date": "2012-01-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Manila, Philippines",
+      "Title": "\u201cGood enough budget hotel\u201d",
+      "Author": "Trosete",
+      "ReviewID": "UR120646542",
+      "Content": "considering expensive singapore actually budget hotel clean basic necessities hot water towels dryer free wifi location front sim lim 10 mins walk bugis mrt station 10 mins youll passing shopping district bugis st bugis junction walk isnt bad probably book budget trips",
+      "Date": "2011-11-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Los Angeles, California",
+      "Title": "\u201cHorrible Value.\u201d",
+      "Author": "EricF32655",
+      "ReviewID": "UR107358203",
+      "Content": "hotel 81 decent budget hogged doesnt charge budget prices disappointed 80 usd night requested windows windows guests extremely loud slamming doors hallways 1am bizarre hotel lacked furniture couldnt unpack housekeeping beds times proper sheets ones barely fit bed uncomfortable wifi seed booted minutes inactivity overall expect money 40 night decent deal",
+      "Date": "2011-05-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Chennai (Madras), India",
+      "Title": "\u201cBest Value for Money\u201d",
+      "Author": "cabalaji97",
+      "ReviewID": "UR106459663",
+      "Content": "hotel value money complete peace walking distance market hotel stay short time 2 days manu restaurants food nearby lot variety hence food hotel makes difference hotel budget travellers",
+      "Date": "2011-05-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Perth, Australia",
+      "Title": "\u201cSo bad I'm still laughing\u201d",
+      "Author": "Kiandora",
+      "ReviewID": "UR65150915",
+      "Content": "hotel 81 horrible extent couldnt help laugh step elevator sudden feeling stuck inside wonderland alice poorly decorated tiled hallways little hide floor slanted entering suddenly grown times size yes little tiny offer little tv dvd player apart decor below standard bed sleeping giant leather bound book uncomfortable slippery own bed sheets placed bed properly didnt fit bed bathroom worst shower consisted shower head protruding wall fashion actually sit toilet shower time actually convinced intended water soaking entire bathroom windows covered strange green sheet couldnt letting sunlight effect emerald city land oz strange hotel recommend nights sleep",
+      "Date": "2010-05-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel 81 Rochor",
+    "HotelURL": "/ShowUserReviews-g294265-d1072358-Reviews-Hotel_81_Rochor-Singapore.html",
+    "Price": "$84 - $135*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Jalan Besar 5</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">208785</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>",
+    "HotelID": "1072358",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/27/c3/27c3ec96fadf4155ca1e52ef01bf3d7c4large.jpg"
+  }
+}

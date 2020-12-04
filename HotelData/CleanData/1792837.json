@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "london", "Title": "\u201cnightmare\u201d", "Author": "vildan u", "ReviewID": "UR125617948", "Content": "daughter didnt allwe change 3 didint electricity heating wasnt forth floor impossible sleep noise coming happened 6 hours time 15 scared day money course werent helpfull move 5 star hotels areai recommend money bin getting", "Date": "2012-03-04 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Tuzla, Bosnia and Herzegovina", "Title": "\u201cperfect location, but small and dark rooms, all in all 3*, not 4*\u201d", "Author": "drecus", "ReviewID": "UR119957856", "Content": "location perfect location location location sells hotel close taxim square close istiklal street major shopping pedestrian zone lots restaurants cafes location easy city public transportation shopping city top floor restaurant enjoy perfect view bosphorus city recommend sunrise climb top floor restaurant closed time push glass door sneak inside restaurant enjoy watching beautiful cities world sunrise light bridge dont tell told location location istanbul sightseeing shopping people dark lighting awkwardly laid weak read careful lose step cellphone camera floor heard hotel sleepover breakfast time sightseeing shopping didnt try run inside purpose cleanliness ok size bit lighting completely insufficient wireless internet available free charge slow bathroom bit nicely decorated soaps replaced staff didnt obviously nudge cleaned bathroom replaced towels regularly breakfast turks excellent rich cuisine exception food quality freshness staff restaurant pleasant friendly efficient wouldnt recommend orange juice obviously diluted syrup coffee milk tea plain water instead cleanliness ok staff nice friendly professional top 4 5 sleep quality fine expected hotel location expect hotel located center city quiet forest alps exhausted tired night slept baby 3rd floor noise disco bother understand reviews noise music school annoying istanbul enjoy beautiful city stay day noise music school bother istanbul spend days sitting complaining noise size stayed home sleep quality beds ok pillows ok sheets ok cleanliness ok price hotel bit overpriced tend forget start appreciate excellent location ok service quality cleanliness food course recommend hotel visiting istanbul", "Date": "2011-10-31 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "London", "Title": "\u201cNice, but possibly the smallest room in the world!\u201d", "Author": "vitting", "ReviewID": "UR82779414", "Content": "nice clean hotel friendly staff nice decor breakfast stayed described world exaggeration roomier bit clever decorating eg hanging lamp ceiling instead putting shelf wall below tv instead using space table oh yes bell boy step amazing shower climb toilet door shower attached wrong anyway despite lovely hotel central location easy highly recommend people travelling business apparently hamam basement unfortunately didnt time try", "Date": "2010-10-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cGreat location, inspiring views, tops for its rating\u201d", "Author": "londoner62_10", "ReviewID": "UR81060748", "Content": "superb location walking taksim means restaurants heritage nightlife literally steps ok little location means noise night nearby clubs daytime practising students music school opposite accomplished chopin overall ambience hotel clean efficient staff helpful restaurant inspiring views breakfast hammam basement worth visit classification excellent base istanbul", "Date": "2010-09-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Athens, Greece", "Title": "\u201cNice hotel but has problems with noise...\u201d", "Author": "GeorgiaDR", "ReviewID": "UR79928574", "Content": "city center hotel nice hotel nice design friendly stuff speaks english smile serious noise checked recommended stay floor floor restaurant live music disturb avoided live music couldnt avoid noise nearest cafebar college performing arts door day rest students studying piano violin studying performing overall breakfast clean location perfect", "Date": "2010-09-17 00:00:00"}], "HotelInfo": {"Name": "City Center Hotel", "HotelURL": "/ShowUserReviews-g293974-d1792837-Reviews-City_Center_Hotel-Istanbul.html", "Price": "$118 - $268*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Katip Celebi Mahallesi Billurcu Sokak No:1 Siraselviler</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34421</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "1792837", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/f0/8d/ed/getlstd-property-photo.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "london",
+      "Title": "\u201cnightmare\u201d",
+      "Author": "vildan u",
+      "ReviewID": "UR125617948",
+      "Content": "daughter didnt allwe change 3 didint electricity heating wasnt forth floor impossible sleep noise coming happened 6 hours time 15 scared day money course werent helpfull move 5 star hotels areai recommend money bin getting",
+      "Date": "2012-03-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Tuzla, Bosnia and Herzegovina",
+      "Title": "\u201cperfect location, but small and dark rooms, all in all 3*, not 4*\u201d",
+      "Author": "drecus",
+      "ReviewID": "UR119957856",
+      "Content": "location perfect location location location sells hotel close taxim square close istiklal street major shopping pedestrian zone lots restaurants cafes location easy city public transportation shopping city top floor restaurant enjoy perfect view bosphorus city recommend sunrise climb top floor restaurant closed time push glass door sneak inside restaurant enjoy watching beautiful cities world sunrise light bridge dont tell told location location istanbul sightseeing shopping people dark lighting awkwardly laid weak read careful lose step cellphone camera floor heard hotel sleepover breakfast time sightseeing shopping didnt try run inside purpose cleanliness ok size bit lighting completely insufficient wireless internet available free charge slow bathroom bit nicely decorated soaps replaced staff didnt obviously nudge cleaned bathroom replaced towels regularly breakfast turks excellent rich cuisine exception food quality freshness staff restaurant pleasant friendly efficient wouldnt recommend orange juice obviously diluted syrup coffee milk tea plain water instead cleanliness ok staff nice friendly professional top 4 5 sleep quality fine expected hotel location expect hotel located center city quiet forest alps exhausted tired night slept baby 3rd floor noise disco bother understand reviews noise music school annoying istanbul enjoy beautiful city stay day noise music school bother istanbul spend days sitting complaining noise size stayed home sleep quality beds ok pillows ok sheets ok cleanliness ok price hotel bit overpriced tend forget start appreciate excellent location ok service quality cleanliness food course recommend hotel visiting istanbul",
+      "Date": "2011-10-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cNice, but possibly the smallest room in the world!\u201d",
+      "Author": "vitting",
+      "ReviewID": "UR82779414",
+      "Content": "nice clean hotel friendly staff nice decor breakfast stayed described world exaggeration roomier bit clever decorating eg hanging lamp ceiling instead putting shelf wall below tv instead using space table oh yes bell boy step amazing shower climb toilet door shower attached wrong anyway despite lovely hotel central location easy highly recommend people travelling business apparently hamam basement unfortunately didnt time try",
+      "Date": "2010-10-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cGreat location, inspiring views, tops for its rating\u201d",
+      "Author": "londoner62_10",
+      "ReviewID": "UR81060748",
+      "Content": "superb location walking taksim means restaurants heritage nightlife literally steps ok little location means noise night nearby clubs daytime practising students music school opposite accomplished chopin overall ambience hotel clean efficient staff helpful restaurant inspiring views breakfast hammam basement worth visit classification excellent base istanbul",
+      "Date": "2010-09-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Athens, Greece",
+      "Title": "\u201cNice hotel but has problems with noise...\u201d",
+      "Author": "GeorgiaDR",
+      "ReviewID": "UR79928574",
+      "Content": "city center hotel nice hotel nice design friendly stuff speaks english smile serious noise checked recommended stay floor floor restaurant live music disturb avoided live music couldnt avoid noise nearest cafebar college performing arts door day rest students studying piano violin studying performing overall breakfast clean location perfect",
+      "Date": "2010-09-17 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "City Center Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d1792837-Reviews-City_Center_Hotel-Istanbul.html",
+    "Price": "$118 - $268*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Katip Celebi Mahallesi Billurcu Sokak No:1 Siraselviler</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34421</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "1792837",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/f0/8d/ed/getlstd-property-photo.jpg"
+  }
+}

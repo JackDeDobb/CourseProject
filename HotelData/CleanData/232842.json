@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cVery Good\u201d", "Author": "Gcacace", "ReviewID": "UR101522188", "Content": "hotel nice clean wasnt excellent signs wear tear overall confortable wifi connection excellent breakfast staff friendly helpful shame centre rome bus punctual passes front hotel", "Date": "2011-03-25 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Dallas, Texas", "Title": "\u201cGood Budget Hotel but really really far from everything.\u201d", "Author": "VacaPrincess82", "ReviewID": "UR85856654", "Content": "hotel average price honestly damper rome vacation wish bit clean odor october airconditioner sleep window hear outside bed hard covers bit dirty bathroom fine hotel bit rundown breakfast ok write home concerned money hotel dont mind 40 minute commute nearest tourist", "Date": "2010-11-03 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Vancouver, Canada", "Title": "\u201cVery Good Servise, nice breakfast, but small bed/room.\u201d", "Author": "hilroy2010", "ReviewID": "UR72162226", "Content": "rome trip barcelona hotel stayed absolutely class 5 stared rome found hotel stay 4 stared wont bad inside hotel eyes dropped offence lobby tiny compare hotel stayed barcelona dissapointed front desk people replied friendly voice british english rare italy found fairly price affordable breakfast nice wish stay", "Date": "2010-07-24 00:00:00"}], "HotelInfo": {"Name": "Aldobrandeschi Hotel", "HotelURL": "/ShowUserReviews-g187791-d232842-Reviews-Aldobrandeschi_Hotel-Rome_Lazio.html", "Price": "$78 - $162*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via degli Aldobrandeschi 295</span>, <span class=\"locality\"><span property=\"v:postal-code\">00163</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "232842", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/bb/ee/bbeeaca7be64d5aadc582bc598da82796large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cVery Good\u201d",
+      "Author": "Gcacace",
+      "ReviewID": "UR101522188",
+      "Content": "hotel nice clean wasnt excellent signs wear tear overall confortable wifi connection excellent breakfast staff friendly helpful shame centre rome bus punctual passes front hotel",
+      "Date": "2011-03-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Dallas, Texas",
+      "Title": "\u201cGood Budget Hotel but really really far from everything.\u201d",
+      "Author": "VacaPrincess82",
+      "ReviewID": "UR85856654",
+      "Content": "hotel average price honestly damper rome vacation wish bit clean odor october airconditioner sleep window hear outside bed hard covers bit dirty bathroom fine hotel bit rundown breakfast ok write home concerned money hotel dont mind 40 minute commute nearest tourist",
+      "Date": "2010-11-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Vancouver, Canada",
+      "Title": "\u201cVery Good Servise, nice breakfast, but small bed/room.\u201d",
+      "Author": "hilroy2010",
+      "ReviewID": "UR72162226",
+      "Content": "rome trip barcelona hotel stayed absolutely class 5 stared rome found hotel stay 4 stared wont bad inside hotel eyes dropped offence lobby tiny compare hotel stayed barcelona dissapointed front desk people replied friendly voice british english rare italy found fairly price affordable breakfast nice wish stay",
+      "Date": "2010-07-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Aldobrandeschi Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d232842-Reviews-Aldobrandeschi_Hotel-Rome_Lazio.html",
+    "Price": "$78 - $162*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via degli Aldobrandeschi 295</span>, <span class=\"locality\"><span property=\"v:postal-code\">00163</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "232842",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/bb/ee/bbeeaca7be64d5aadc582bc598da82796large.jpg"
+  }
+}

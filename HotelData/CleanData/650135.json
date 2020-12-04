@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Savannah, GA", "Title": "\u201cGreat location\u201d", "Author": "tomatogal", "ReviewID": "UR65709329", "Content": "reasons liked location hotel husband train charles de gaulle airport chatelet les halles train station 8 euros hotel 2 blocks train station rolling suitcases trip cinch metro stop 1 block hotel rue montorgueil 2 blocks rue montorgueil abundance food stores famous patisseries dried fruit restaurants walking distance hotel hotel clean quiet elevator staff courteous helpful cost reasonable paris", "Date": "2010-05-29 00:00:00"}], "HotelInfo": {"Name": "Le Relais des Halles", "HotelURL": "/ShowUserReviews-g187147-d650135-Reviews-Le_Relais_des_Halles-Paris_Ile_de_France.html", "Price": "$106 - $185*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">26, rue Pierre Lescot</span>, <span class=\"locality\"><span property=\"v:postal-code\">75001</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> (Formerly Lescot)</span> </span> </address>", "HotelID": "650135", "ImgURL": "http://www.venere.com/img/hotel/1/2/9/3/283921/283921.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Savannah, GA",
+      "Title": "\u201cGreat location\u201d",
+      "Author": "tomatogal",
+      "ReviewID": "UR65709329",
+      "Content": "reasons liked location hotel husband train charles de gaulle airport chatelet les halles train station 8 euros hotel 2 blocks train station rolling suitcases trip cinch metro stop 1 block hotel rue montorgueil 2 blocks rue montorgueil abundance food stores famous patisseries dried fruit restaurants walking distance hotel hotel clean quiet elevator staff courteous helpful cost reasonable paris",
+      "Date": "2010-05-29 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Le Relais des Halles",
+    "HotelURL": "/ShowUserReviews-g187147-d650135-Reviews-Le_Relais_des_Halles-Paris_Ile_de_France.html",
+    "Price": "$106 - $185*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">26, rue Pierre Lescot</span>, <span class=\"locality\"><span property=\"v:postal-code\">75001</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> (Formerly Lescot)</span> </span> </address>",
+    "HotelID": "650135",
+    "ImgURL": "http://www.venere.com/img/hotel/1/2/9/3/283921/283921.jpg"
+  }
+}

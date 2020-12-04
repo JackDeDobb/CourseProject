@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Germany", "Title": "\u201can okay hotel in a good location\u201d", "Author": "BjuergenHH", "ReviewID": "UR127976845", "Content": "hotel location shops restaurants tramstop 5 min walk 3 stops town hotel okay friendly staff ensuite hear toilet flushing shower buffet breakfast busy restaurant mainly tables noisy staff hard cant numer guests tables clean nevertheless hotel okay price paid stay", "Date": "2012-04-16 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "La Coruna, Spain", "Title": "\u201cIf you are looking just for a bed to sleep\u201d", "Author": "donperico", "ReviewID": "UR126633862", "Content": "basic hotel recommend sleep stayed nights travel family booked facing street rated 4 star hotel opinion 3star basic 1 recepcion staff correct special 2 basic carpet look clean beds bathrooms ok disturbed noise street night silent reviews 3 breakfast morning arrived 945 breakfast 10 am tired previous night arrived airport late hotel 230 am morning waiters taking breakfast eat coffee boiled eggs left 15 minutes mornings normal hours breakfast enjoy food bread rolls delicious 4 location centric near tram stop arrive five minutes blue mosque santa sofia mosque budget looking acommodation sleep basic hotel expect luxury", "Date": "2012-03-25 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "london", "Title": "\u201cExcellent Location\u201d", "Author": "othmane", "ReviewID": "UR125696692", "Content": "istanbul stayed istanbul royal hotel location located laleli 2 minutes tram station grand bazaar beyazit stop bosphorus spice bazaar eminonu stop blue mosque aya sophia sultanahmed stop tram cheap 2 tl jeton size bathroom clean breakfast ok stay hotel located plenty restaurant choice near addition stands sell fried fish 5 tl portion", "Date": "2012-03-06 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "New York", "Title": "\u201cPoor Choice in a city of many\u201d", "Author": "Raesa1", "ReviewID": "UR124073066", "Content": "recent tour housed royal istanbul hotel environment dingy amenities poor choice hotels city location somewhat beaten track significant walk city nearby tram plus breakfast dated tables food adequate choose hotel unless tour", "Date": "2012-02-03 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Chester, United Kingdom", "Title": "\u201cbathroom disaster!\u201d", "Author": "ann-marie t", "ReviewID": "UR119925835", "Content": "staff nice hotel described recently refurbished stated rooftop terrace morning lining bath split bath excuses happy meal restaurant cold chips piece cardboard supposed steak realised quality customers return", "Date": "2011-10-31 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cA very nice stay\u201d", "Author": "Paul O", "ReviewID": "UR118521623", "Content": "location heart tourist blue mosque etc short trip tram short walk suleymaniye mosque walking distance main bazaar local restaurants limited ate cheap cheerful corner night edge major clothes shopping location 3 12 stars walk bit day owing easily reached hotel public transport ataturk airport hotel top aksaray station tram crowded arriving rush hour staff attentive courteous friendly spoke english blessing terrible turkish clean beds comfortable airconditioning remain slept earplugs anyway leave window cool adequately breakfast functional tables set pairs couples music everyones ie taste overall nice relax hectic day hectic city definitely stay", "Date": "2011-09-24 00:00:00"}], "HotelInfo": {"Name": "Istanbul Royal Hotel", "HotelURL": "/ShowUserReviews-g293974-d296435-Reviews-Istanbul_Royal_Hotel-Istanbul.html", "Price": "$105 - $397*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Aksaray Str. No. 16 Laleli</span> | <span class=\"extended-address\">Fatih</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34480</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "296435", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/e2/53/98/exterior-view.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Germany",
+      "Title": "\u201can okay hotel in a good location\u201d",
+      "Author": "BjuergenHH",
+      "ReviewID": "UR127976845",
+      "Content": "hotel location shops restaurants tramstop 5 min walk 3 stops town hotel okay friendly staff ensuite hear toilet flushing shower buffet breakfast busy restaurant mainly tables noisy staff hard cant numer guests tables clean nevertheless hotel okay price paid stay",
+      "Date": "2012-04-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "La Coruna, Spain",
+      "Title": "\u201cIf you are looking just for a bed to sleep\u201d",
+      "Author": "donperico",
+      "ReviewID": "UR126633862",
+      "Content": "basic hotel recommend sleep stayed nights travel family booked facing street rated 4 star hotel opinion 3star basic 1 recepcion staff correct special 2 basic carpet look clean beds bathrooms ok disturbed noise street night silent reviews 3 breakfast morning arrived 945 breakfast 10 am tired previous night arrived airport late hotel 230 am morning waiters taking breakfast eat coffee boiled eggs left 15 minutes mornings normal hours breakfast enjoy food bread rolls delicious 4 location centric near tram stop arrive five minutes blue mosque santa sofia mosque budget looking acommodation sleep basic hotel expect luxury",
+      "Date": "2012-03-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "london",
+      "Title": "\u201cExcellent Location\u201d",
+      "Author": "othmane",
+      "ReviewID": "UR125696692",
+      "Content": "istanbul stayed istanbul royal hotel location located laleli 2 minutes tram station grand bazaar beyazit stop bosphorus spice bazaar eminonu stop blue mosque aya sophia sultanahmed stop tram cheap 2 tl jeton size bathroom clean breakfast ok stay hotel located plenty restaurant choice near addition stands sell fried fish 5 tl portion",
+      "Date": "2012-03-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "New York",
+      "Title": "\u201cPoor Choice in a city of many\u201d",
+      "Author": "Raesa1",
+      "ReviewID": "UR124073066",
+      "Content": "recent tour housed royal istanbul hotel environment dingy amenities poor choice hotels city location somewhat beaten track significant walk city nearby tram plus breakfast dated tables food adequate choose hotel unless tour",
+      "Date": "2012-02-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Chester, United Kingdom",
+      "Title": "\u201cbathroom disaster!\u201d",
+      "Author": "ann-marie t",
+      "ReviewID": "UR119925835",
+      "Content": "staff nice hotel described recently refurbished stated rooftop terrace morning lining bath split bath excuses happy meal restaurant cold chips piece cardboard supposed steak realised quality customers return",
+      "Date": "2011-10-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cA very nice stay\u201d",
+      "Author": "Paul O",
+      "ReviewID": "UR118521623",
+      "Content": "location heart tourist blue mosque etc short trip tram short walk suleymaniye mosque walking distance main bazaar local restaurants limited ate cheap cheerful corner night edge major clothes shopping location 3 12 stars walk bit day owing easily reached hotel public transport ataturk airport hotel top aksaray station tram crowded arriving rush hour staff attentive courteous friendly spoke english blessing terrible turkish clean beds comfortable airconditioning remain slept earplugs anyway leave window cool adequately breakfast functional tables set pairs couples music everyones ie taste overall nice relax hectic day hectic city definitely stay",
+      "Date": "2011-09-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Istanbul Royal Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d296435-Reviews-Istanbul_Royal_Hotel-Istanbul.html",
+    "Price": "$105 - $397*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Aksaray Str. No. 16 Laleli</span> | <span class=\"extended-address\">Fatih</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34480</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "296435",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/e2/53/98/exterior-view.jpg"
+  }
+}

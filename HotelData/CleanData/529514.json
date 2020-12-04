@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Barcelona, Spain", "Title": "\u201cCozy Hotel & Friendly staff\u201d", "Author": "HerrChequer", "ReviewID": "UR94315354", "Content": "berlin look beautiful city visit friend 2 am travel day soon hotel roxy front desk friendly keys clean cozy surprised expected trouble check check times hotel time happy clean stuff bed excelent sleept breakfast stuff real german breakfast loved location nights found bit complicated public transportation impossible opinion expected pricei tell luxury 5 stars hotel trust im able qualify hotel hotel recommend hotel people whos looking low cost clean hotels staff friendly feel home short stay beautiful city", "Date": "2011-01-24 00:00:00"}], "HotelInfo": {"Name": "Fortuna", "HotelURL": "/ShowUserReviews-g187323-d529514-Reviews-Fortuna-Berlin.html", "Price": "$46 - $79*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Jacobsohnstrasse 20</span>, <span class=\"locality\"><span property=\"v:postal-code\">13086</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "529514", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0b/a5/0ba500719bffdf248c23915ad66bf97d5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Barcelona, Spain",
+      "Title": "\u201cCozy Hotel & Friendly staff\u201d",
+      "Author": "HerrChequer",
+      "ReviewID": "UR94315354",
+      "Content": "berlin look beautiful city visit friend 2 am travel day soon hotel roxy front desk friendly keys clean cozy surprised expected trouble check check times hotel time happy clean stuff bed excelent sleept breakfast stuff real german breakfast loved location nights found bit complicated public transportation impossible opinion expected pricei tell luxury 5 stars hotel trust im able qualify hotel hotel recommend hotel people whos looking low cost clean hotels staff friendly feel home short stay beautiful city",
+      "Date": "2011-01-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Fortuna",
+    "HotelURL": "/ShowUserReviews-g187323-d529514-Reviews-Fortuna-Berlin.html",
+    "Price": "$46 - $79*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Jacobsohnstrasse 20</span>, <span class=\"locality\"><span property=\"v:postal-code\">13086</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "529514",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0b/a5/0ba500719bffdf248c23915ad66bf97d5large.jpg"
+  }
+}

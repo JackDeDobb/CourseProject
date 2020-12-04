@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Istanbul", "Title": "\u201cAcceptable for budget travelers\u201d", "Author": "NeseBek", "ReviewID": "UR124115877", "Content": "landmark located near markets creek malls glitz glamour dubai thats youre looking stay dated clean loud morning news pretty breakfast spacious sparsely outfitted youre looking budget trade save money necessities life landmark", "Date": "2012-02-04 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "lusaka", "Title": "\u201cgood every time stayed there\u201d", "Author": "mahomed salim n", "ReviewID": "UR124100938", "Content": "staying landmark ten business trips times eight nights time nice sad advance bookings price price customers check booking price", "Date": "2012-02-04 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "KL", "Title": "\u201cWater leaking, but excellent location.\u201d", "Author": "FadzliKL", "ReviewID": "UR121969042", "Content": "bathroom inside main leaking everytime level flushed toilet disgusting luckily bathroom stopped bathroom location near shopping dubai metro foods book internet drop charges difference", "Date": "2011-12-22 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Mumbai (Bombay), India", "Title": "\u201cCentrally located\u201d", "Author": "SFarhan", "ReviewID": "UR119201384", "Content": "decent hotel centrally located al easy access water boat taxi service bus service opp mid nite snacks property star qualities comforatble business travelers people looking forward enjoying dubai budget", "Date": "2011-10-11 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Brisbane, Australia", "Title": "\u201cNo frills hotel in a handy location\u201d", "Author": "lird5", "ReviewID": "UR83565414", "Content": "hotel handy location exploring deira gold spice souks catching abra bur dubai metro square getting airport easy basic clean condition told switch flicking hot water breakfas comprehensive buffet catering cultures bit cool 7am", "Date": "2010-10-15 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Mumbai (Bombay), India", "Title": "\u201cExcellent Staff and Manager...Very Good Service\u201d", "Author": "HeavenlyAngel2219", "ReviewID": "UR76437391", "Content": "wife kids lunch landmark hotel found service staff cooperative understanding manager helped choice menu understanding requirements waiters prompt service wish hotel surely recommend hotel whenever visit dubai", "Date": "2010-08-23 00:00:00"}], "HotelInfo": {"Name": "Landmark Hotel", "HotelURL": "/ShowUserReviews-g295424-d641512-Reviews-Landmark_Hotel-Dubai.html", "Price": "$74 - $178*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Omar Bin Al Khattab Rd, Al Nasser Square</span> | <span class=\"extended-address\">PO Box 42222</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>", "HotelID": "641512", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/a5/08/b7/double-room.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Istanbul",
+      "Title": "\u201cAcceptable for budget travelers\u201d",
+      "Author": "NeseBek",
+      "ReviewID": "UR124115877",
+      "Content": "landmark located near markets creek malls glitz glamour dubai thats youre looking stay dated clean loud morning news pretty breakfast spacious sparsely outfitted youre looking budget trade save money necessities life landmark",
+      "Date": "2012-02-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "lusaka",
+      "Title": "\u201cgood every time stayed there\u201d",
+      "Author": "mahomed salim n",
+      "ReviewID": "UR124100938",
+      "Content": "staying landmark ten business trips times eight nights time nice sad advance bookings price price customers check booking price",
+      "Date": "2012-02-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "KL",
+      "Title": "\u201cWater leaking, but excellent location.\u201d",
+      "Author": "FadzliKL",
+      "ReviewID": "UR121969042",
+      "Content": "bathroom inside main leaking everytime level flushed toilet disgusting luckily bathroom stopped bathroom location near shopping dubai metro foods book internet drop charges difference",
+      "Date": "2011-12-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Mumbai (Bombay), India",
+      "Title": "\u201cCentrally located\u201d",
+      "Author": "SFarhan",
+      "ReviewID": "UR119201384",
+      "Content": "decent hotel centrally located al easy access water boat taxi service bus service opp mid nite snacks property star qualities comforatble business travelers people looking forward enjoying dubai budget",
+      "Date": "2011-10-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Brisbane, Australia",
+      "Title": "\u201cNo frills hotel in a handy location\u201d",
+      "Author": "lird5",
+      "ReviewID": "UR83565414",
+      "Content": "hotel handy location exploring deira gold spice souks catching abra bur dubai metro square getting airport easy basic clean condition told switch flicking hot water breakfas comprehensive buffet catering cultures bit cool 7am",
+      "Date": "2010-10-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Mumbai (Bombay), India",
+      "Title": "\u201cExcellent Staff and Manager...Very Good Service\u201d",
+      "Author": "HeavenlyAngel2219",
+      "ReviewID": "UR76437391",
+      "Content": "wife kids lunch landmark hotel found service staff cooperative understanding manager helped choice menu understanding requirements waiters prompt service wish hotel surely recommend hotel whenever visit dubai",
+      "Date": "2010-08-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Landmark Hotel",
+    "HotelURL": "/ShowUserReviews-g295424-d641512-Reviews-Landmark_Hotel-Dubai.html",
+    "Price": "$74 - $178*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Omar Bin Al Khattab Rd, Al Nasser Square</span> | <span class=\"extended-address\">PO Box 42222</span>, <span class=\"locality\"><span property=\"v:locality\">Dubai</span></span>, <span class=\"country-name\" property=\"v:country-name\">United Arab Emirates</span> </span> </span> </address>",
+    "HotelID": "641512",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/a5/08/b7/double-room.jpg"
+  }
+}

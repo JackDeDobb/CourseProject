@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Washington DC, District of Columbia", "Title": "\u201cRoom Clean but ???\u201d", "Author": "GordonFScott", "ReviewID": "UR121159152", "Content": "adequate sleeping watching little tv staff real helpful coffee 8am breakfast price 12 cheaper holiday inn street time stay holiday inn", "Date": "2011-11-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Los Angeles, California", "Title": "\u201cRoosevelt Inn was terrific. Will stay there the next time I'm in PA.\u201d", "Author": "SuzanneTravels", "ReviewID": "UR63945434", "Content": "women own easily shared staff welcoming courteous thoughtful near entrance parking lot didnt walk hallways automatically quiet bed scored excellent categories", "Date": "2010-05-12 00:00:00"}], "HotelInfo": {"Name": "Roosevelt Inn", "HotelURL": "/ShowUserReviews-g60795-d122335-Reviews-Roosevelt_Inn-Philadelphia_Pennsylvania.html", "Price": "$68 - $73*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">7600 Roosevelt Blvd</span>, <span class=\"locality\"><span property=\"v:locality\">Philadelphia</span>, <span property=\"v:region\">PA</span> <span property=\"v:postal-code\">19152</span></span> </span> </span> </address>", "HotelID": "122335", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/23/49/23490a4389f20f1e1c33b5bc962545974large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Washington DC, District of Columbia",
+      "Title": "\u201cRoom Clean but ???\u201d",
+      "Author": "GordonFScott",
+      "ReviewID": "UR121159152",
+      "Content": "adequate sleeping watching little tv staff real helpful coffee 8am breakfast price 12 cheaper holiday inn street time stay holiday inn",
+      "Date": "2011-11-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Los Angeles, California",
+      "Title": "\u201cRoosevelt Inn was terrific. Will stay there the next time I'm in PA.\u201d",
+      "Author": "SuzanneTravels",
+      "ReviewID": "UR63945434",
+      "Content": "women own easily shared staff welcoming courteous thoughtful near entrance parking lot didnt walk hallways automatically quiet bed scored excellent categories",
+      "Date": "2010-05-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Roosevelt Inn",
+    "HotelURL": "/ShowUserReviews-g60795-d122335-Reviews-Roosevelt_Inn-Philadelphia_Pennsylvania.html",
+    "Price": "$68 - $73*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">7600 Roosevelt Blvd</span>, <span class=\"locality\"><span property=\"v:locality\">Philadelphia</span>, <span property=\"v:region\">PA</span> <span property=\"v:postal-code\">19152</span></span> </span> </span> </address>",
+    "HotelID": "122335",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/23/49/23490a4389f20f1e1c33b5bc962545974large.jpg"
+  }
+}

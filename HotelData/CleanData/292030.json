@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cExcellent location, beautiful rustic style, super clean, but...\u201d", "Author": "Helenga666", "ReviewID": "UR126588244", "Content": "thrilled hotel online exactly stay trastevere price looked rustic definitely ticked boxes night 3 tiny read windows tiny basement vent tired bed breakfast choice continental brought feel pampered department desk staff super friendly gladly upstairs 2 nights 7 gorgeous little view slightly spacious beds hard hotel worn sightseeing wasnt didnt air con heat weather perfect shutters window sleep nice dark morning quiet night peace bathrooms tiny late addition hundred building clean spotless didnt matter strange towels bed sheets location truly little hotel restaurants enjoyed trattoria drink dine day stay hotel noise 67am staff start bustling staff repeatedly whistle loudly prepared continental breakfast trays heard alot dishes banging clattering loudly walls paper thin hear lady door snoring night hacking cough complaint tv quietly 9pm desperately sleep morning riser wont hotel excellent overall cant location looked hotels truly spot heard former house singer lucia dalla musician near viale trastevere super easy tram buses central rome visit nice claudio bar piccolo viale red nose wc fields fun hanging evening", "Date": "2012-03-24 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cSingle Room\u201d", "Author": "Karin B", "ReviewID": "UR121897706", "Content": "hotel location wouldnt call single value money window air conditioning played night clanging continue drip water splash report reception bothered tiny bathroom dont consider tall 5 6 knees touching wall front sat toilet squeeze past toilet access shower breakfast delivered eat apart sitting tray bed accommodation disappointing otherwise amazing city visit", "Date": "2011-12-19 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cGood location\u201d", "Author": "therewasthisonetime", "ReviewID": "UR121860540", "Content": "nice charming excellent locations easy eye downsides aircon loud effective book breakfast night bought morning maybe middle summer", "Date": "2011-12-18 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cAvoid this place at all costs!\u201d", "Author": "lenlab631", "ReviewID": "UR86914332", "Content": "original plans stay bb trastevere fell left walking backpack looking alternative accommodations reason availability low hours looking settled hotel borgo antico nightmare dark musty window little light passed phone didnt spoke person reception day phone wasnt provide breakfast paper front desk afternoonevening write breakfast preferences dont indicate call ahead time hard time morning stay broke piece bread army ants crawled breakfast tray returned tray promised breakfast waiting 30 minutes lost appetite told breakfast 3 nights spent didnt peaceful night sleep noise pipes toilet flushing loud neighbors everyday 4am mentioned person reception somewhat helpful wifi intermittent stay", "Date": "2010-11-13 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "North Falmouth, MA", "Title": "\u201cover priced\u201d", "Author": "sheatripoli", "ReviewID": "UR61002256", "Content": "ancient hotel corner trastevere location shower amenities ie towels clothes soap hotel sit trastevere noisy night close center lively night life hotel sits street forget hotel walls paper thin hear door biggest complaint overpriced wasalso included breakfast terrible dont believe read lonely planet", "Date": "2010-04-11 00:00:00"}], "HotelInfo": {"Name": "Hotel Antico Borgo di Trastevere", "HotelURL": "/ShowUserReviews-g187791-d292030-Reviews-Hotel_Antico_Borgo_di_Trastevere-Rome_Lazio.html", "Price": "$73 - $210*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Vicolo del Buco 7</span>, <span class=\"locality\"><span property=\"v:postal-code\">00153</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "292030", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/37/62/3762f0a53de603a4ecb597a2fabac97816large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cExcellent location, beautiful rustic style, super clean, but...\u201d",
+      "Author": "Helenga666",
+      "ReviewID": "UR126588244",
+      "Content": "thrilled hotel online exactly stay trastevere price looked rustic definitely ticked boxes night 3 tiny read windows tiny basement vent tired bed breakfast choice continental brought feel pampered department desk staff super friendly gladly upstairs 2 nights 7 gorgeous little view slightly spacious beds hard hotel worn sightseeing wasnt didnt air con heat weather perfect shutters window sleep nice dark morning quiet night peace bathrooms tiny late addition hundred building clean spotless didnt matter strange towels bed sheets location truly little hotel restaurants enjoyed trattoria drink dine day stay hotel noise 67am staff start bustling staff repeatedly whistle loudly prepared continental breakfast trays heard alot dishes banging clattering loudly walls paper thin hear lady door snoring night hacking cough complaint tv quietly 9pm desperately sleep morning riser wont hotel excellent overall cant location looked hotels truly spot heard former house singer lucia dalla musician near viale trastevere super easy tram buses central rome visit nice claudio bar piccolo viale red nose wc fields fun hanging evening",
+      "Date": "2012-03-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cSingle Room\u201d",
+      "Author": "Karin B",
+      "ReviewID": "UR121897706",
+      "Content": "hotel location wouldnt call single value money window air conditioning played night clanging continue drip water splash report reception bothered tiny bathroom dont consider tall 5 6 knees touching wall front sat toilet squeeze past toilet access shower breakfast delivered eat apart sitting tray bed accommodation disappointing otherwise amazing city visit",
+      "Date": "2011-12-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cGood location\u201d",
+      "Author": "therewasthisonetime",
+      "ReviewID": "UR121860540",
+      "Content": "nice charming excellent locations easy eye downsides aircon loud effective book breakfast night bought morning maybe middle summer",
+      "Date": "2011-12-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cAvoid this place at all costs!\u201d",
+      "Author": "lenlab631",
+      "ReviewID": "UR86914332",
+      "Content": "original plans stay bb trastevere fell left walking backpack looking alternative accommodations reason availability low hours looking settled hotel borgo antico nightmare dark musty window little light passed phone didnt spoke person reception day phone wasnt provide breakfast paper front desk afternoonevening write breakfast preferences dont indicate call ahead time hard time morning stay broke piece bread army ants crawled breakfast tray returned tray promised breakfast waiting 30 minutes lost appetite told breakfast 3 nights spent didnt peaceful night sleep noise pipes toilet flushing loud neighbors everyday 4am mentioned person reception somewhat helpful wifi intermittent stay",
+      "Date": "2010-11-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "North Falmouth, MA",
+      "Title": "\u201cover priced\u201d",
+      "Author": "sheatripoli",
+      "ReviewID": "UR61002256",
+      "Content": "ancient hotel corner trastevere location shower amenities ie towels clothes soap hotel sit trastevere noisy night close center lively night life hotel sits street forget hotel walls paper thin hear door biggest complaint overpriced wasalso included breakfast terrible dont believe read lonely planet",
+      "Date": "2010-04-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Antico Borgo di Trastevere",
+    "HotelURL": "/ShowUserReviews-g187791-d292030-Reviews-Hotel_Antico_Borgo_di_Trastevere-Rome_Lazio.html",
+    "Price": "$73 - $210*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Vicolo del Buco 7</span>, <span class=\"locality\"><span property=\"v:postal-code\">00153</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "292030",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/37/62/3762f0a53de603a4ecb597a2fabac97816large.jpg"
+  }
+}

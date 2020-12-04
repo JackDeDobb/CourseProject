@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Bucharest, Romania", "Title": "\u201cA very nice hotel\u201d", "Author": "Costin M", "ReviewID": "UR127227980", "Content": "staff giving informations city breakfast sensational summer breakfast served garden cats friendly qualityprice convenient tell negative hotel city main attractions pay public transport taxi bathroom little repairs", "Date": "2012-04-04 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Bucharest", "Title": "\u201cCozy and very pleasant!\u201d", "Author": "Liriodendron10", "ReviewID": "UR107949824", "Content": "ive return istanbul ive stay hotel found experience nice historical center sultanahmet anyway location beside famous byzantine church chora quiet heated clean nice decorated restored building wood breakfast healthy cheese eggs butter cofee tea honey istanbul choose hotel price vs quality parity 15 minutes bus center 17 tl bus ticket choose regret", "Date": "2011-05-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201ca quiet and charming hotel with fantastic restaurant serving unique & execllent Ottoman cuisine\u201d", "Author": "constantius888", "ReviewID": "UR104106436", "Content": "hotel situated bustle city gems byzantine world walking distance city walls view western golden horn quiet restful hotel exceptionally fine restaurant attached serving unique excellent ottoman cuisine ottoman recipe books spanning centuries", "Date": "2011-04-15 00:00:00"}], "HotelInfo": {"Name": "Kariye Hotel", "HotelURL": "/ShowUserReviews-g293974-d295491-Reviews-Kariye_Hotel-Istanbul.html", "Price": "$34 - $80*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">60 Piyer Loti Caddesi</span> | <span class=\"extended-address\">Kariye camii sk. No:18</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34490</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "295491", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/cf/15/cf1510d1c9f515ee1dd372590e8a879c1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Bucharest, Romania",
+      "Title": "\u201cA very nice hotel\u201d",
+      "Author": "Costin M",
+      "ReviewID": "UR127227980",
+      "Content": "staff giving informations city breakfast sensational summer breakfast served garden cats friendly qualityprice convenient tell negative hotel city main attractions pay public transport taxi bathroom little repairs",
+      "Date": "2012-04-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Bucharest",
+      "Title": "\u201cCozy and very pleasant!\u201d",
+      "Author": "Liriodendron10",
+      "ReviewID": "UR107949824",
+      "Content": "ive return istanbul ive stay hotel found experience nice historical center sultanahmet anyway location beside famous byzantine church chora quiet heated clean nice decorated restored building wood breakfast healthy cheese eggs butter cofee tea honey istanbul choose hotel price vs quality parity 15 minutes bus center 17 tl bus ticket choose regret",
+      "Date": "2011-05-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201ca quiet and charming hotel with fantastic restaurant serving unique & execllent Ottoman cuisine\u201d",
+      "Author": "constantius888",
+      "ReviewID": "UR104106436",
+      "Content": "hotel situated bustle city gems byzantine world walking distance city walls view western golden horn quiet restful hotel exceptionally fine restaurant attached serving unique excellent ottoman cuisine ottoman recipe books spanning centuries",
+      "Date": "2011-04-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Kariye Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d295491-Reviews-Kariye_Hotel-Istanbul.html",
+    "Price": "$34 - $80*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">60 Piyer Loti Caddesi</span> | <span class=\"extended-address\">Kariye camii sk. No:18</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34490</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "295491",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/cf/15/cf1510d1c9f515ee1dd372590e8a879c1large.jpg"
+  }
+}

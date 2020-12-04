@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Bucharest, Romania", "Title": "\u201cRome vacation\u201d", "Author": "Corina O", "ReviewID": "UR127293717", "Content": "boyfriend short trip rome stayed domus 4 nights standard trying connect wifi told free lounge pay barely walk bed tv bathroom ok towels clean received day clean towels shower gelshampoo etc restocked day inconvenient bathroom valve sink rusty hear people walking corridor breakfast pretty staff ok spoke english willing help info public transportation else hotel nice huge garden close metro station", "Date": "2012-04-05 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Crewe, United Kingdom", "Title": "\u201cThis was an awful place\u201d", "Author": "Anna G", "ReviewID": "UR127031275", "Content": "hotel coach parties soulless atmosphere dining canteen breakfast choice eat free food noisy staff attentive assistant manager pleasant overlooked awful courtyard filthy walls lift broke day fixed days dusty arrival unwelcoming beds hard hips ache pillows concrete booking star establishment level comfort expected none public basically fill floors stone noise dreadful echoing voices stomping feet hear flush toilets deposited party upper floor left 430 am hear avery word shower toilet slamming doors disappointed self favour miss", "Date": "2012-03-31 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Leicester, United Kingdom", "Title": "\u201cTop Class Hotel And Staff\u201d", "Author": "Ar151269", "ReviewID": "UR126703268", "Content": "wkend trip wil def bk arrived sat evening check 5 minutes cosy warm fridge drinks chargeable hairdryer shower powerful hot water time cleaning service top class complaints english speaking receptionists ur service 247 breakfast lots english lots dishes complaints enjoyed worth penny 4star hotels charge 3 euros night car hire fiat ride forget cds coz coming car type via aurelia tom tom hotel situated ur 300 yards till 5 euros meal metro tube 5 minutes tickets bought tobacco shop mcdonalds site machines station ipod rome sort barberini trevi de fountain rest close beware pick pocketing purse missing try carry handbag little purse front pocket carry handbag zipped drinks expensive restaurants paying 250 pepsi etickets prebooked online issue boarding pass ryan air mention 10 kg carry suitcase weighed size theres lots shop haggle near central expensive shop little managed central 3 am safe crowd totally awesome atmosphere overall trip days kinda boring buildings start looking id wud remember revisiting wont memory spark visit piece advice allowed carry food liquids sub kept till found eat esp late night ur return buy water coffeetea snacks immigration costs double duty situated boarding air cost pricey carry snacks chocolates ur bag", "Date": "2012-03-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Watford, United Kingdom", "Title": "\u201cGood value for money\u201d", "Author": "ma-and-na", "ReviewID": "UR126528994", "Content": "stayed 4 nights standard breakfast 2 ppl appears shown photos comfortable hear visitors walking corridor talking disturbing touch concerned fuse box inside night breakfast pretty staff pretty spoken hotel closer cornelia station short walk look mcdonalds lost surely consider hotel travel rome", "Date": "2012-03-23 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "mullingar", "Title": "\u201cFantastic Hotel\u201d", "Author": "vivienne m", "ReviewID": "UR125765642", "Content": "wow fiancee travelled rome short break february 2012 hotel lovely breakfast amazing beds comfy clean showers bathrooms staff friendly helpful queried close cornelia stop metro easy access central rome pizzeria close called pizza design recommend stop staying hotel def walls painted inside easily 5 star hotel", "Date": "2012-03-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Rotherham, United Kingdom", "Title": "\u201cPaula - looking forward to my return\u201d", "Author": "Paula U", "ReviewID": "UR125689648", "Content": "stayed march timeand found hotel staff excellent returning bringing newly son wife previously stated hotel minutes walk metro surrounded beautiful park shops markets bars restaurants nearby cheaper romes amazing sights attractions found clean comfortable equipped shower roomy hot matter time day breakfast fantastic suit everyonethe staff friendly helpful trouble cannt wait saturday", "Date": "2012-03-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Coleraine, United Kingdom", "Title": "\u201cgreat staff!\u201d", "Author": "megsni", "ReviewID": "UR125080166", "Content": "stayed family nights september wonderful time metro station cornelia corner buses day pass metro 4 euro staff check bit travelling 1am 20mins metro city building linea closing evening cab city cost 18 euro breakfast fruit eggs meat cereal tea coffee juicethe usual restaurant sit courtyard drinks food lateish night lovely friend name insisted drink outside closed didnt mind sitting inside friendly warm couldnt welcome nice wine nice fries beautiful buidling grand themselves fairly basicbut sleep perfectly comfortable fridge kettle happy grounds lovely theres market left driveway buy fresh bread cheese meats picnic park", "Date": "2012-02-23 00:00:00"}], "HotelInfo": {"Name": "Domus Mariae Palazzo Carpegna", "HotelURL": "/ShowUserReviews-g187791-d258995-Reviews-Domus_Mariae_Palazzo_Carpegna-Rome_Lazio.html", "Price": "$106 - $249*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Aurelia 481</span>, <span class=\"locality\"><span property=\"v:postal-code\">00165</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> (Formerly Grand Hotel Palazzo Carpegna)</span></span></address>", "HotelID": "258995", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/1a/fb/d0/hotel.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bucharest, Romania",
+      "Title": "\u201cRome vacation\u201d",
+      "Author": "Corina O",
+      "ReviewID": "UR127293717",
+      "Content": "boyfriend short trip rome stayed domus 4 nights standard trying connect wifi told free lounge pay barely walk bed tv bathroom ok towels clean received day clean towels shower gelshampoo etc restocked day inconvenient bathroom valve sink rusty hear people walking corridor breakfast pretty staff ok spoke english willing help info public transportation else hotel nice huge garden close metro station",
+      "Date": "2012-04-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Crewe, United Kingdom",
+      "Title": "\u201cThis was an awful place\u201d",
+      "Author": "Anna G",
+      "ReviewID": "UR127031275",
+      "Content": "hotel coach parties soulless atmosphere dining canteen breakfast choice eat free food noisy staff attentive assistant manager pleasant overlooked awful courtyard filthy walls lift broke day fixed days dusty arrival unwelcoming beds hard hips ache pillows concrete booking star establishment level comfort expected none public basically fill floors stone noise dreadful echoing voices stomping feet hear flush toilets deposited party upper floor left 430 am hear avery word shower toilet slamming doors disappointed self favour miss",
+      "Date": "2012-03-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Leicester, United Kingdom",
+      "Title": "\u201cTop Class Hotel And Staff\u201d",
+      "Author": "Ar151269",
+      "ReviewID": "UR126703268",
+      "Content": "wkend trip wil def bk arrived sat evening check 5 minutes cosy warm fridge drinks chargeable hairdryer shower powerful hot water time cleaning service top class complaints english speaking receptionists ur service 247 breakfast lots english lots dishes complaints enjoyed worth penny 4star hotels charge 3 euros night car hire fiat ride forget cds coz coming car type via aurelia tom tom hotel situated ur 300 yards till 5 euros meal metro tube 5 minutes tickets bought tobacco shop mcdonalds site machines station ipod rome sort barberini trevi de fountain rest close beware pick pocketing purse missing try carry handbag little purse front pocket carry handbag zipped drinks expensive restaurants paying 250 pepsi etickets prebooked online issue boarding pass ryan air mention 10 kg carry suitcase weighed size theres lots shop haggle near central expensive shop little managed central 3 am safe crowd totally awesome atmosphere overall trip days kinda boring buildings start looking id wud remember revisiting wont memory spark visit piece advice allowed carry food liquids sub kept till found eat esp late night ur return buy water coffeetea snacks immigration costs double duty situated boarding air cost pricey carry snacks chocolates ur bag",
+      "Date": "2012-03-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Watford, United Kingdom",
+      "Title": "\u201cGood value for money\u201d",
+      "Author": "ma-and-na",
+      "ReviewID": "UR126528994",
+      "Content": "stayed 4 nights standard breakfast 2 ppl appears shown photos comfortable hear visitors walking corridor talking disturbing touch concerned fuse box inside night breakfast pretty staff pretty spoken hotel closer cornelia station short walk look mcdonalds lost surely consider hotel travel rome",
+      "Date": "2012-03-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "mullingar",
+      "Title": "\u201cFantastic Hotel\u201d",
+      "Author": "vivienne m",
+      "ReviewID": "UR125765642",
+      "Content": "wow fiancee travelled rome short break february 2012 hotel lovely breakfast amazing beds comfy clean showers bathrooms staff friendly helpful queried close cornelia stop metro easy access central rome pizzeria close called pizza design recommend stop staying hotel def walls painted inside easily 5 star hotel",
+      "Date": "2012-03-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rotherham, United Kingdom",
+      "Title": "\u201cPaula - looking forward to my return\u201d",
+      "Author": "Paula U",
+      "ReviewID": "UR125689648",
+      "Content": "stayed march timeand found hotel staff excellent returning bringing newly son wife previously stated hotel minutes walk metro surrounded beautiful park shops markets bars restaurants nearby cheaper romes amazing sights attractions found clean comfortable equipped shower roomy hot matter time day breakfast fantastic suit everyonethe staff friendly helpful trouble cannt wait saturday",
+      "Date": "2012-03-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Coleraine, United Kingdom",
+      "Title": "\u201cgreat staff!\u201d",
+      "Author": "megsni",
+      "ReviewID": "UR125080166",
+      "Content": "stayed family nights september wonderful time metro station cornelia corner buses day pass metro 4 euro staff check bit travelling 1am 20mins metro city building linea closing evening cab city cost 18 euro breakfast fruit eggs meat cereal tea coffee juicethe usual restaurant sit courtyard drinks food lateish night lovely friend name insisted drink outside closed didnt mind sitting inside friendly warm couldnt welcome nice wine nice fries beautiful buidling grand themselves fairly basicbut sleep perfectly comfortable fridge kettle happy grounds lovely theres market left driveway buy fresh bread cheese meats picnic park",
+      "Date": "2012-02-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Domus Mariae Palazzo Carpegna",
+    "HotelURL": "/ShowUserReviews-g187791-d258995-Reviews-Domus_Mariae_Palazzo_Carpegna-Rome_Lazio.html",
+    "Price": "$106 - $249*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Aurelia 481</span>, <span class=\"locality\"><span property=\"v:postal-code\">00165</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> (Formerly Grand Hotel Palazzo Carpegna)</span></span></address>",
+    "HotelID": "258995",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/1a/fb/d0/hotel.jpg"
+  }
+}

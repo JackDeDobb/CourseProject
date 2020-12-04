@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Tauranga, New Zealand", "Title": "\u201cPerfect Hostel For Our Needs\u201d", "Author": "tdheritage", "ReviewID": "UR137629678", "Content": "booked hong kong hostel week august 2012 owner owns hostels block chungking mansions result actually garden hostel floor 16 hostel absolutely perfect immaculate cleaned daily friendly helpful staff plenty beds store etc bathroom perfectly equipped lovely hot shower air con perfectly size tv free wifi location price visitors expect neat cleanliness friendliness staff expectations weve spent time countless hostels zealand none close hostel cleanliness convenience comfort location perfect cant understand people chungking mansions bad press research expected hawkers polite trouble lifts etc etc surprises chungking mansions threatening people experienced environment check advance curry restaurants excellent cheapest snacks drinks hong kong ground floor definitely stay posting review hong kong hostel garden hostel 100 review", "Date": "2012-08-19 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Clifton, New Jersey", "Title": "\u201cPls no stay there!!!!\u201d", "Author": "JohaT19", "ReviewID": "UR107146418", "Content": "experience terrible options chance stay arrived midnight entrance people appearance bathroom unpleasant besides 3 guys sleeping floor pics internet real 1st time hk booked hostel advise booking avoid bad experiences", "Date": "2011-05-06 00:00:00"}], "HotelInfo": {"Name": "New Hong Kong Hostel", "HotelURL": "/ShowUserReviews-g294217-d1198896-Reviews-New_Hong_Kong_Hostel-Hong_Kong.html", "Price": "$44 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Flat C1,Floor 6,Block C,Chung King Mansion,Nathan Road 36-44,Kowloon</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>", "HotelID": "1198896", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/87/2c/c1/triple-room-1-double.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Tauranga, New Zealand",
+      "Title": "\u201cPerfect Hostel For Our Needs\u201d",
+      "Author": "tdheritage",
+      "ReviewID": "UR137629678",
+      "Content": "booked hong kong hostel week august 2012 owner owns hostels block chungking mansions result actually garden hostel floor 16 hostel absolutely perfect immaculate cleaned daily friendly helpful staff plenty beds store etc bathroom perfectly equipped lovely hot shower air con perfectly size tv free wifi location price visitors expect neat cleanliness friendliness staff expectations weve spent time countless hostels zealand none close hostel cleanliness convenience comfort location perfect cant understand people chungking mansions bad press research expected hawkers polite trouble lifts etc etc surprises chungking mansions threatening people experienced environment check advance curry restaurants excellent cheapest snacks drinks hong kong ground floor definitely stay posting review hong kong hostel garden hostel 100 review",
+      "Date": "2012-08-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Clifton, New Jersey",
+      "Title": "\u201cPls no stay there!!!!\u201d",
+      "Author": "JohaT19",
+      "ReviewID": "UR107146418",
+      "Content": "experience terrible options chance stay arrived midnight entrance people appearance bathroom unpleasant besides 3 guys sleeping floor pics internet real 1st time hk booked hostel advise booking avoid bad experiences",
+      "Date": "2011-05-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "New Hong Kong Hostel",
+    "HotelURL": "/ShowUserReviews-g294217-d1198896-Reviews-New_Hong_Kong_Hostel-Hong_Kong.html",
+    "Price": "$44 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Flat C1,Floor 6,Block C,Chung King Mansion,Nathan Road 36-44,Kowloon</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>",
+    "HotelID": "1198896",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/87/2c/c1/triple-room-1-double.jpg"
+  }
+}

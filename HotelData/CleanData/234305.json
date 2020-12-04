@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cVery good experience\u201d", "Author": "M_SHAH000", "ReviewID": "UR88128570", "Content": "fantastic hotel quality service staff helpful definitely recommend hotel visit madrid located city centre transportation service 1 minute hotel bus 162 takes 1520 minutes frequency 5 buses hour fom metro station trains city centre madrid amazed metro system madrid developed delays cancellations weekends london found madrid lively people friendly helpful language bit idea learn spanish words beforehand recommend visit", "Date": "2010-11-24 00:00:00"}], "HotelInfo": {"Name": "NH La Florida Aparthotel", "HotelURL": "/ShowUserReviews-g187514-d234305-Reviews-NH_La_Florida_Aparthotel-Madrid.html", "Price": "$59 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Procion 12</span>, <span class=\"locality\"><span property=\"v:postal-code\">28023</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "234305", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/91/4c/914cecb2622f590ffad71b09fe5049dd1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cVery good experience\u201d",
+      "Author": "M_SHAH000",
+      "ReviewID": "UR88128570",
+      "Content": "fantastic hotel quality service staff helpful definitely recommend hotel visit madrid located city centre transportation service 1 minute hotel bus 162 takes 1520 minutes frequency 5 buses hour fom metro station trains city centre madrid amazed metro system madrid developed delays cancellations weekends london found madrid lively people friendly helpful language bit idea learn spanish words beforehand recommend visit",
+      "Date": "2010-11-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "NH La Florida Aparthotel",
+    "HotelURL": "/ShowUserReviews-g187514-d234305-Reviews-NH_La_Florida_Aparthotel-Madrid.html",
+    "Price": "$59 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Procion 12</span>, <span class=\"locality\"><span property=\"v:postal-code\">28023</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "234305",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/91/4c/914cecb2622f590ffad71b09fe5049dd1large.jpg"
+  }
+}

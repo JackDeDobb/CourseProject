@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Jaca, Aragon, Spain", "Title": "\u201cVery friendly helpful management\u201d", "Author": "Kengele", "ReviewID": "UR127794283", "Content": "situated metres piazza campo de fiori daily market evening restaurants terraces excellent location ancient rome vatican near lots restaurants activity hotel lovely building tiny lift lounge mezzanine floor practical clean fairly spartan 3 beds bathrooms clean simple hotel management professional helpful hotel worth cost considering central location dont expect palace", "Date": "2012-04-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "chesterfield", "Title": "\u201cIts all about the location!!\u201d", "Author": "77OZZY", "ReviewID": "UR124664151", "Content": "found hotel 1 major plus location campo de fiori nice little market square bars restaurants corner pantheon walk little major sites 2 night stay nephew 6 nations match italy england fit walked sites morning circular route captured pantheon 2 roman forum palazzo del quirinale palatine circus maximus trevi fountain victor emmanuel ii monument etc morning walked past sites hanging taking thousand photos doing couple plus value money helpfulness staff 24 hour reception spoke english left phone reception saved don\u2019t wrong palace basic breakfast facilitys clean bathroom spacious twin staying february snowing kept warm central heating system slightly warm absolutely freezing didn\u2019t mind warmest rome negative smell entering bad plumbing soon dissipated fresh air ran shower recomend purely location day busy night atmosphere square snowing lot quieter normal apparently drunken ship lively 2200 giving plenty drinks offers can\u2019t remember offers lasted night unlike tip 1st time travellers rome \u2013 thousands traffic wardens booth street corner bad investment roads nuts dont laws red lights appear mean green looks 2 lane road suddenly 6 lane free taxi close eyes pay hear sound crunching metal seriously it\u2019s crazy", "Date": "2012-02-16 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Gibraltar", "Title": "\u201cVery good on price and position but .....\u201d", "Author": "peter_miles", "ReviewID": "UR118741535", "Content": "wish 3 days rome day decent hotel walking distance nearly reasonable compared nearby price enormous clean comfortable booking confusion caused booking direct 145 euros shower internet 90 euros possibly shower safe sorry booked direct transpired bookings internet actually shower luck draw preferred chance slot machine coffee cold drinks failed operate properly numerous cafes etc door nearby roof terrace indeed charming 2nd floor terrace incomprehensible machines likewise numerous american students german ramblers french families children tend bit noise 1100 pm despite notices requesting pay doubtless able explain youth america feels shout telephone 100 am trying themselves heard atlantic minor occasional false fire alarm detract sheer convenience price nearby hotels investigated started 350 euros night fine expenses am returning month despite cheap worth", "Date": "2011-09-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Miami", "Title": "\u201cGreat location and beautiful rooftop garden\u201d", "Author": "MiamiMusician", "ReviewID": "UR92122994", "Content": "third summer stayed albergo del sole rome music festival location tremendous minute walk campo di fiore buy breakfast air market 3 minute walk piazza navona beautiful gardens including roof garden amazing view rome hotel manager employees friendly helpful music festival restaurant located immediately leaving sole eggplant crepes lasagna wonderful lasagna available lunchtime sundays arrange schedule according", "Date": "2011-01-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Redmond", "Title": "\u201cGreat location, friendly staff, wonderful roof garden\u201d", "Author": "thomastravels5", "ReviewID": "UR81348922", "Content": "stayed hotel children ages 19 21 location perfect roof deck sit busy day look domes highly recommend hotel location friendly staff", "Date": "2010-09-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Romania", "Title": "\u201cA nice and good hotel in the historical center of Rome\u201d", "Author": "CFU_7", "ReviewID": "UR56076739", "Content": "luxury hotel positioned 1 min walking campo dei fiori hotel rome charm alittle clean nice view recomand hotel friends", "Date": "2010-02-15 00:00:00"}], "HotelInfo": {"Name": "Albergo Del Sole Al Biscione", "HotelURL": "/ShowUserReviews-g187791-d236136-Reviews-Albergo_Del_Sole_Al_Biscione-Rome_Lazio.html", "Price": "$84 - $186*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via del Biscione 76</span>, <span class=\"locality\"><span property=\"v:postal-code\">00186</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "236136", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/5e/c4/albergo-del-sole-al-biscione.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Jaca, Aragon, Spain",
+      "Title": "\u201cVery friendly helpful management\u201d",
+      "Author": "Kengele",
+      "ReviewID": "UR127794283",
+      "Content": "situated metres piazza campo de fiori daily market evening restaurants terraces excellent location ancient rome vatican near lots restaurants activity hotel lovely building tiny lift lounge mezzanine floor practical clean fairly spartan 3 beds bathrooms clean simple hotel management professional helpful hotel worth cost considering central location dont expect palace",
+      "Date": "2012-04-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "chesterfield",
+      "Title": "\u201cIts all about the location!!\u201d",
+      "Author": "77OZZY",
+      "ReviewID": "UR124664151",
+      "Content": "found hotel 1 major plus location campo de fiori nice little market square bars restaurants corner pantheon walk little major sites 2 night stay nephew 6 nations match italy england fit walked sites morning circular route captured pantheon 2 roman forum palazzo del quirinale palatine circus maximus trevi fountain victor emmanuel ii monument etc morning walked past sites hanging taking thousand photos doing couple plus value money helpfulness staff 24 hour reception spoke english left phone reception saved don\u2019t wrong palace basic breakfast facilitys clean bathroom spacious twin staying february snowing kept warm central heating system slightly warm absolutely freezing didn\u2019t mind warmest rome negative smell entering bad plumbing soon dissipated fresh air ran shower recomend purely location day busy night atmosphere square snowing lot quieter normal apparently drunken ship lively 2200 giving plenty drinks offers can\u2019t remember offers lasted night unlike tip 1st time travellers rome \u2013 thousands traffic wardens booth street corner bad investment roads nuts dont laws red lights appear mean green looks 2 lane road suddenly 6 lane free taxi close eyes pay hear sound crunching metal seriously it\u2019s crazy",
+      "Date": "2012-02-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Gibraltar",
+      "Title": "\u201cVery good on price and position but .....\u201d",
+      "Author": "peter_miles",
+      "ReviewID": "UR118741535",
+      "Content": "wish 3 days rome day decent hotel walking distance nearly reasonable compared nearby price enormous clean comfortable booking confusion caused booking direct 145 euros shower internet 90 euros possibly shower safe sorry booked direct transpired bookings internet actually shower luck draw preferred chance slot machine coffee cold drinks failed operate properly numerous cafes etc door nearby roof terrace indeed charming 2nd floor terrace incomprehensible machines likewise numerous american students german ramblers french families children tend bit noise 1100 pm despite notices requesting pay doubtless able explain youth america feels shout telephone 100 am trying themselves heard atlantic minor occasional false fire alarm detract sheer convenience price nearby hotels investigated started 350 euros night fine expenses am returning month despite cheap worth",
+      "Date": "2011-09-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Miami",
+      "Title": "\u201cGreat location and beautiful rooftop garden\u201d",
+      "Author": "MiamiMusician",
+      "ReviewID": "UR92122994",
+      "Content": "third summer stayed albergo del sole rome music festival location tremendous minute walk campo di fiore buy breakfast air market 3 minute walk piazza navona beautiful gardens including roof garden amazing view rome hotel manager employees friendly helpful music festival restaurant located immediately leaving sole eggplant crepes lasagna wonderful lasagna available lunchtime sundays arrange schedule according",
+      "Date": "2011-01-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Redmond",
+      "Title": "\u201cGreat location, friendly staff, wonderful roof garden\u201d",
+      "Author": "thomastravels5",
+      "ReviewID": "UR81348922",
+      "Content": "stayed hotel children ages 19 21 location perfect roof deck sit busy day look domes highly recommend hotel location friendly staff",
+      "Date": "2010-09-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Romania",
+      "Title": "\u201cA nice and good hotel in the historical center of Rome\u201d",
+      "Author": "CFU_7",
+      "ReviewID": "UR56076739",
+      "Content": "luxury hotel positioned 1 min walking campo dei fiori hotel rome charm alittle clean nice view recomand hotel friends",
+      "Date": "2010-02-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Albergo Del Sole Al Biscione",
+    "HotelURL": "/ShowUserReviews-g187791-d236136-Reviews-Albergo_Del_Sole_Al_Biscione-Rome_Lazio.html",
+    "Price": "$84 - $186*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via del Biscione 76</span>, <span class=\"locality\"><span property=\"v:postal-code\">00186</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "236136",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/5e/c4/albergo-del-sole-al-biscione.jpg"
+  }
+}

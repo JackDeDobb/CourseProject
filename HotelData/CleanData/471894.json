@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Bedford", "Title": "\u201cGood location, very helpful staff, but wherei s my reservation?\u201d", "Author": "Penguin66", "ReviewID": "UR119393685", "Content": "arrival trace reservation mistake error bookingcom weekend accomodate 1 2 nights quickly arrangements elsewhere 5 minutes reception called nights accomodation hotel 26 accross nice reviewed expensive pay difference excellent service location funky town lots bars eat berlin buses stop outside trams stop road ubahn minutes walk hotel ok price dont breakfast included single bathroom clean recepetion modern breakfastbar kept hotel looked bit fashioned clean kept real highlight staff helpful stay travelling double check direct booking confirmed travelling bit comfort look elsewhere", "Date": "2011-10-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Warsaw", "Title": "\u201cCheap but OK\u201d", "Author": "Vannegen", "ReviewID": "UR90722411", "Content": "pay 25 euro person single expect luxury indeed entire establishment accomodated located backyard called pension hotel upgraded basic sink shared facilities star spot standard adequate 25 euro obviously disappointing hoped stay real hotel price hotel unlimited coffee tee usage reception day told positive issue proximity ostbahnhof train station ubahn line 2 1 tram stops respectively recommandable short stays dont bed lay night", "Date": "2010-12-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Boston, Massachusetts", "Title": "\u201cGreat service and affordable\u201d", "Author": "muchomas", "ReviewID": "UR73765996", "Content": "stayed nights girlfriend pretty quaint couple minutes walk useful train stations pretty basic clean impressed friendliness helpfulness staff example found little hot night sort heat wave berlin trouble able nice fan night youre looking price range definitely mind", "Date": "2010-08-04 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Hamar, Norway", "Title": "\u201cFix the bed's and I'll be back\u201d", "Author": "Sualk99", "ReviewID": "UR70333505", "Content": "stayed nights july location clean friendly staff reasonable price didnt bother breakfast costs 8 euro extra night noice backyard surroundings beds hard uncomfortable fix beds choose", "Date": "2010-07-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Wellington", "Title": "\u201cGreat hotel, staff excellent\u201d", "Author": "Burmis", "ReviewID": "UR64661033", "Content": "stayed hotel 6 nights comfortable bathroom hall advised booking middle friedrichshain close underground trams sbahn found staff hugely helpful requested leave day earlier extremely cooperative hotel comfortable safe family owned feel solo female traveller", "Date": "2010-05-18 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Steiermark", "Title": "\u201cThree stars and a lot of hospitality\u201d", "Author": "Austriacus", "ReviewID": "UR62365075", "Content": "stay hotel impression pretty normal hotel double stayed solo traveller bath unattractive furniture fulfilled purpose condition couples dissatisfied single beds instead double bed whereas course irrelevant firm beds standards bed rigid appreciated hand desk equipped decent lamp rendered evening comfortable minor shortcomings stretching legs desk feet maze cables lying floor soap shampoo shower hotel directed inner court perfectly silent night morning hear birds twitter quietness adjacent empty guests staying produced virtually noise sound insulation building evening hear guest neighbouring snoring contrast hotels nowadays selfservice coffee tea cereals buffet breakfast instead plate meat cheese vegetables served butter jam honey kinds bread glass orange juice addition staff offers freshly boiled eggs yoghurt tries fulfil special characteristic hotel owners staff helpful friendly try stay convenient creates hospitable atmosphere hallmark hotel drawback mentioned bit pricey compared hotels similar standard situated neither pretty ugly according locals safety sometimes issue experience favourable feature wide variety bars restaurants particular furthermore hotel suited users public transport due connections available near ubahn sbahn station warschauer strasse", "Date": "2010-04-25 00:00:00"}], "HotelInfo": {"Name": "Juncker's Hotel Garni", "HotelURL": "/ShowUserReviews-g187323-d471894-Reviews-Juncker_s_Hotel_Garni-Berlin.html", "Price": "$46 - $102*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Grunberger Strasse 21</span>, <span class=\"locality\"><span property=\"v:postal-code\">10243</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "471894", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/41/ce/41ce7ee4029dc2740aa26a4d49f426565large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bedford",
+      "Title": "\u201cGood location, very helpful staff, but wherei s my reservation?\u201d",
+      "Author": "Penguin66",
+      "ReviewID": "UR119393685",
+      "Content": "arrival trace reservation mistake error bookingcom weekend accomodate 1 2 nights quickly arrangements elsewhere 5 minutes reception called nights accomodation hotel 26 accross nice reviewed expensive pay difference excellent service location funky town lots bars eat berlin buses stop outside trams stop road ubahn minutes walk hotel ok price dont breakfast included single bathroom clean recepetion modern breakfastbar kept hotel looked bit fashioned clean kept real highlight staff helpful stay travelling double check direct booking confirmed travelling bit comfort look elsewhere",
+      "Date": "2011-10-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Warsaw",
+      "Title": "\u201cCheap but OK\u201d",
+      "Author": "Vannegen",
+      "ReviewID": "UR90722411",
+      "Content": "pay 25 euro person single expect luxury indeed entire establishment accomodated located backyard called pension hotel upgraded basic sink shared facilities star spot standard adequate 25 euro obviously disappointing hoped stay real hotel price hotel unlimited coffee tee usage reception day told positive issue proximity ostbahnhof train station ubahn line 2 1 tram stops respectively recommandable short stays dont bed lay night",
+      "Date": "2010-12-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Boston, Massachusetts",
+      "Title": "\u201cGreat service and affordable\u201d",
+      "Author": "muchomas",
+      "ReviewID": "UR73765996",
+      "Content": "stayed nights girlfriend pretty quaint couple minutes walk useful train stations pretty basic clean impressed friendliness helpfulness staff example found little hot night sort heat wave berlin trouble able nice fan night youre looking price range definitely mind",
+      "Date": "2010-08-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Hamar, Norway",
+      "Title": "\u201cFix the bed's and I'll be back\u201d",
+      "Author": "Sualk99",
+      "ReviewID": "UR70333505",
+      "Content": "stayed nights july location clean friendly staff reasonable price didnt bother breakfast costs 8 euro extra night noice backyard surroundings beds hard uncomfortable fix beds choose",
+      "Date": "2010-07-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Wellington",
+      "Title": "\u201cGreat hotel, staff excellent\u201d",
+      "Author": "Burmis",
+      "ReviewID": "UR64661033",
+      "Content": "stayed hotel 6 nights comfortable bathroom hall advised booking middle friedrichshain close underground trams sbahn found staff hugely helpful requested leave day earlier extremely cooperative hotel comfortable safe family owned feel solo female traveller",
+      "Date": "2010-05-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Steiermark",
+      "Title": "\u201cThree stars and a lot of hospitality\u201d",
+      "Author": "Austriacus",
+      "ReviewID": "UR62365075",
+      "Content": "stay hotel impression pretty normal hotel double stayed solo traveller bath unattractive furniture fulfilled purpose condition couples dissatisfied single beds instead double bed whereas course irrelevant firm beds standards bed rigid appreciated hand desk equipped decent lamp rendered evening comfortable minor shortcomings stretching legs desk feet maze cables lying floor soap shampoo shower hotel directed inner court perfectly silent night morning hear birds twitter quietness adjacent empty guests staying produced virtually noise sound insulation building evening hear guest neighbouring snoring contrast hotels nowadays selfservice coffee tea cereals buffet breakfast instead plate meat cheese vegetables served butter jam honey kinds bread glass orange juice addition staff offers freshly boiled eggs yoghurt tries fulfil special characteristic hotel owners staff helpful friendly try stay convenient creates hospitable atmosphere hallmark hotel drawback mentioned bit pricey compared hotels similar standard situated neither pretty ugly according locals safety sometimes issue experience favourable feature wide variety bars restaurants particular furthermore hotel suited users public transport due connections available near ubahn sbahn station warschauer strasse",
+      "Date": "2010-04-25 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Juncker's Hotel Garni",
+    "HotelURL": "/ShowUserReviews-g187323-d471894-Reviews-Juncker_s_Hotel_Garni-Berlin.html",
+    "Price": "$46 - $102*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Grunberger Strasse 21</span>, <span class=\"locality\"><span property=\"v:postal-code\">10243</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "471894",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/41/ce/41ce7ee4029dc2740aa26a4d49f426565large.jpg"
+  }
+}

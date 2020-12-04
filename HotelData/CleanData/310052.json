@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Philadelphia, Pennsylvania", "Title": "\u201cLovely budget hotel in a nice location\u201d", "Author": "TheGetOutGirl", "ReviewID": "UR125316824", "Content": "crashed night playa del carmen heading allinclusive read reviews noise brought earplugs slept racket fan ac helped bed little hard springy adorable lovely chilly pool fun watch turtles fish cenote night desk clerk fantastically sweet helpful location daytime girl friendly time readywe 2 pm couldnt check sheets previous occupant floor balled waiting laundry outside door gone stepped hour theres food theres little seafood street corner shops restaurants calle 10 plus block beach fun bar called dirty martini cost quarter paid allinclusive definitely stay", "Date": "2012-02-27 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "San Francisco, California", "Title": "\u201cSo loud I checked out after 1 night\u201d", "Author": "Sam2900", "ReviewID": "UR100324316", "Content": "booked hotel holidays leave night music shook windows 5am worst night spent hotel sleep minute fighting expedia charged told hotel charged nice location staff stay holidays unless planning sleeping day", "Date": "2011-03-15 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cAmazing Staff\u201d", "Author": "RobyH", "ReviewID": "UR93764813", "Content": "staff staff tropical casablanca super friendly knowledgeable everyday undivided attention tips recommendations food shops especially thank emilia daniella day excellent advice english spanish staff goes beyond providing information natural cenote estuary hotel built beautiful filled wildlife perfect town night life touristy downtown beach found closer beach resorts travelled organized guided excursions rate praise hotel includes bar diving center certified hotel pool dives ocean", "Date": "2011-01-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 1.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "New York City", "Title": "\u201cIt was a wonderful stay even with the noise.\u201d", "Author": "WhereToNextt", "ReviewID": "UR92782578", "Content": "staff absolutely amazing owner nicola wonderful cant help fall love theyre location couldnt block beach block 5th avenue youve exactly restaurants shopping unfortunate hotel past couple dance clubs hear local government regulate noise level times eve couldnt youre light sleeper consider plan couple drinks hit sack earplugs fine id recommend noise thanks nicola staff", "Date": "2011-01-13 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cLoudest place you can ever imagine sleeping\u201d", "Author": "wrldtravelgirl", "ReviewID": "UR91902191", "Content": "loudest stayed live york city sleep sleeping bathroom loudest club imagine am 30s friends late night unbearable level noise stay plan sleep 7am overpriced quality positive clean", "Date": "2011-01-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Terrell, TX", "Title": "\u201cquaint and romantic, great feel of local culture and diving\u201d", "Author": "faithhopeandlove", "ReviewID": "UR90302837", "Content": "hotel sits hot spot 5th street shopping dining 1 blk diving abyss dive shop tropical casablanca amazing staff accomodating service smile luxury hotel experiencing local culture quaint romantic loud club nearby eye masks ear plugs couple beers glasses wine youll sleep bull sharks experience return doubt", "Date": "2010-12-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "brisbane, Australia", "Title": "\u201cgreat personal attention\u201d", "Author": "portis71", "ReviewID": "UR63610275", "Content": "stayed feb 2010 total nearly 2 moment arrived treated family nicola owners personally arrival offer assitance required coming days staff welcome sight keen ensure enjoying advise tours style running grounds kept extremely clean coffee morning lounge start day street beach street 5th avenida main tourist stretch town bar dirty martini reception perfect dive drink dinner atmosphere friendly staff attentive abyss dive shop door returned diving spell wake wander coffee head mulitple dive sites abyss team fantastic dave nick diana robert jason boat crew feel welcome start trouble drawback location hotel local nite clubs corner light sleeper suffer late night music fault hotel nicola involved challenges club owners local government kindly moved third nite larger quieter hotel alot nights noise issue aware beds hotels firm soft bring mattress topper similar concerns staff mention noise set wheels motion try solve problemthey hard stay pleasant tell thank nicola staff stay memorable hestitation returning hotel travel playa", "Date": "2010-05-09 00:00:00"}], "HotelInfo": {"Name": "Tropical Casablanca", "HotelURL": "/ShowUserReviews-g150812-d310052-Reviews-Tropical_Casablanca-Playa_del_Carmen_Yucatan_Peninsula.html", "Price": "$43 - $95*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Avenida Primera Entre Calle 10 Y 12</span> | <span class=\"extended-address\">1st Avenue between 10th and 12th street</span>, <span class=\"locality\"><span property=\"v:locality\">Playa del Carmen</span> <span property=\"v:postal-code\">77710</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "310052", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/92/14/92144ac19d9afb1f3ea4fac5f0e756ba1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Philadelphia, Pennsylvania",
+      "Title": "\u201cLovely budget hotel in a nice location\u201d",
+      "Author": "TheGetOutGirl",
+      "ReviewID": "UR125316824",
+      "Content": "crashed night playa del carmen heading allinclusive read reviews noise brought earplugs slept racket fan ac helped bed little hard springy adorable lovely chilly pool fun watch turtles fish cenote night desk clerk fantastically sweet helpful location daytime girl friendly time readywe 2 pm couldnt check sheets previous occupant floor balled waiting laundry outside door gone stepped hour theres food theres little seafood street corner shops restaurants calle 10 plus block beach fun bar called dirty martini cost quarter paid allinclusive definitely stay",
+      "Date": "2012-02-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "San Francisco, California",
+      "Title": "\u201cSo loud I checked out after 1 night\u201d",
+      "Author": "Sam2900",
+      "ReviewID": "UR100324316",
+      "Content": "booked hotel holidays leave night music shook windows 5am worst night spent hotel sleep minute fighting expedia charged told hotel charged nice location staff stay holidays unless planning sleeping day",
+      "Date": "2011-03-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cAmazing Staff\u201d",
+      "Author": "RobyH",
+      "ReviewID": "UR93764813",
+      "Content": "staff staff tropical casablanca super friendly knowledgeable everyday undivided attention tips recommendations food shops especially thank emilia daniella day excellent advice english spanish staff goes beyond providing information natural cenote estuary hotel built beautiful filled wildlife perfect town night life touristy downtown beach found closer beach resorts travelled organized guided excursions rate praise hotel includes bar diving center certified hotel pool dives ocean",
+      "Date": "2011-01-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "New York City",
+      "Title": "\u201cIt was a wonderful stay even with the noise.\u201d",
+      "Author": "WhereToNextt",
+      "ReviewID": "UR92782578",
+      "Content": "staff absolutely amazing owner nicola wonderful cant help fall love theyre location couldnt block beach block 5th avenue youve exactly restaurants shopping unfortunate hotel past couple dance clubs hear local government regulate noise level times eve couldnt youre light sleeper consider plan couple drinks hit sack earplugs fine id recommend noise thanks nicola staff",
+      "Date": "2011-01-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cLoudest place you can ever imagine sleeping\u201d",
+      "Author": "wrldtravelgirl",
+      "ReviewID": "UR91902191",
+      "Content": "loudest stayed live york city sleep sleeping bathroom loudest club imagine am 30s friends late night unbearable level noise stay plan sleep 7am overpriced quality positive clean",
+      "Date": "2011-01-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Terrell, TX",
+      "Title": "\u201cquaint and romantic, great feel of local culture and diving\u201d",
+      "Author": "faithhopeandlove",
+      "ReviewID": "UR90302837",
+      "Content": "hotel sits hot spot 5th street shopping dining 1 blk diving abyss dive shop tropical casablanca amazing staff accomodating service smile luxury hotel experiencing local culture quaint romantic loud club nearby eye masks ear plugs couple beers glasses wine youll sleep bull sharks experience return doubt",
+      "Date": "2010-12-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "brisbane, Australia",
+      "Title": "\u201cgreat personal attention\u201d",
+      "Author": "portis71",
+      "ReviewID": "UR63610275",
+      "Content": "stayed feb 2010 total nearly 2 moment arrived treated family nicola owners personally arrival offer assitance required coming days staff welcome sight keen ensure enjoying advise tours style running grounds kept extremely clean coffee morning lounge start day street beach street 5th avenida main tourist stretch town bar dirty martini reception perfect dive drink dinner atmosphere friendly staff attentive abyss dive shop door returned diving spell wake wander coffee head mulitple dive sites abyss team fantastic dave nick diana robert jason boat crew feel welcome start trouble drawback location hotel local nite clubs corner light sleeper suffer late night music fault hotel nicola involved challenges club owners local government kindly moved third nite larger quieter hotel alot nights noise issue aware beds hotels firm soft bring mattress topper similar concerns staff mention noise set wheels motion try solve problemthey hard stay pleasant tell thank nicola staff stay memorable hestitation returning hotel travel playa",
+      "Date": "2010-05-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Tropical Casablanca",
+    "HotelURL": "/ShowUserReviews-g150812-d310052-Reviews-Tropical_Casablanca-Playa_del_Carmen_Yucatan_Peninsula.html",
+    "Price": "$43 - $95*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Avenida Primera Entre Calle 10 Y 12</span> | <span class=\"extended-address\">1st Avenue between 10th and 12th street</span>, <span class=\"locality\"><span property=\"v:locality\">Playa del Carmen</span> <span property=\"v:postal-code\">77710</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "310052",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/92/14/92144ac19d9afb1f3ea4fac5f0e756ba1large.jpg"
+  }
+}

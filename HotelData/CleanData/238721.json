@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Beijing, China", "Title": "\u201cIf you want your credit card would be charged with no prior notification...\u201d", "Author": "Nat N", "ReviewID": "UR126138271", "Content": "hotel clean quiet value money choose visit barcelona country id following email afternoon charged 8900 \u20ac credit card night 1st february included invoice paid 31st january 8900 \u20ac remaining amount charged send invoice email answer email please invoice situation ready pay nights included invoice staffs mistake sooo surprised confronted advised credit card charged email hotel piece precious advice check carefully bills paid leaving hotel invoice paid btw maybe responsibility check thank guys impressed travelled lot experienced", "Date": "2012-03-15 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Trondheim, Norway", "Title": "\u201cNice hotel away from the busy center\u201d", "Author": "nordboer2010", "ReviewID": "UR120212370", "Content": "nice hotel polite helpful service minded staff lucky terrace table chairs sunbed dining table apartment day noisy building street evenings nights quiet bed lot storing space cupboards simple kitchen facilities clean sufficient minutes metro bus buses barcelona buy 10 ticket bus metro tram", "Date": "2011-11-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Tel Aviv, Israel", "Title": "\u201cA great experience at Aparthotel Bonanova\u201d", "Author": "zohar b", "ReviewID": "UR118408130", "Content": "stayed hotel 3 nights staying hotel city center similar price value money warm stay staff apartment clean convinient bathroom bed nice comfortable access city center easy short ride metro near smile reccomend", "Date": "2011-09-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Boston, Massachusetts", "Title": "\u201cVery clean rooms, Safe location, Courteous staff\u201d", "Author": "go_places_10", "ReviewID": "UR86406047", "Content": "stayed hotel 4 days clean professional courteous staff location safe upscale neighborhood groceries stores restaurants church banks minutes walking distance metro station el putxet blocks downtown 1520 minutes cons faced street little noisy due traffic airconditioning couple nights fan wasnt hot time 5 discount stay solid hotel affordable price", "Date": "2010-11-08 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Izu", "Title": "\u201cFeel like a resident in Barcelona\u201d", "Author": "Odoriko", "ReviewID": "UR70713793", "Content": "stayed times aparthotel short stay barcelona kept reception 24 hours arrive erratic hours cleaned daily including kitchen wiifi spanish newspapers breakfast emergency feel preparing advantage located residential maybe bit touristic action communicated metro bus short walk shops banks bakeries delicatessen supermarkets restaurants covered market real residents tourists buying real experience city pity self laundry wash dry nearby cover recommend experience life barcelona mere tourist", "Date": "2010-07-13 00:00:00"}], "HotelInfo": {"Name": "Aparthotel Bonanova", "HotelURL": "/ShowUserReviews-g187497-d238721-Reviews-Aparthotel_Bonanova-Barcelona_Catalonia.html", "Price": "$144 - $191*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Bisbe Sivilla, 7</span>, <span class=\"locality\"><span property=\"v:postal-code\">08022</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "238721", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/d3/57/77/aparthotel-bonanova.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Beijing, China",
+      "Title": "\u201cIf you want your credit card would be charged with no prior notification...\u201d",
+      "Author": "Nat N",
+      "ReviewID": "UR126138271",
+      "Content": "hotel clean quiet value money choose visit barcelona country id following email afternoon charged 8900 \u20ac credit card night 1st february included invoice paid 31st january 8900 \u20ac remaining amount charged send invoice email answer email please invoice situation ready pay nights included invoice staffs mistake sooo surprised confronted advised credit card charged email hotel piece precious advice check carefully bills paid leaving hotel invoice paid btw maybe responsibility check thank guys impressed travelled lot experienced",
+      "Date": "2012-03-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Trondheim, Norway",
+      "Title": "\u201cNice hotel away from the busy center\u201d",
+      "Author": "nordboer2010",
+      "ReviewID": "UR120212370",
+      "Content": "nice hotel polite helpful service minded staff lucky terrace table chairs sunbed dining table apartment day noisy building street evenings nights quiet bed lot storing space cupboards simple kitchen facilities clean sufficient minutes metro bus buses barcelona buy 10 ticket bus metro tram",
+      "Date": "2011-11-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Tel Aviv, Israel",
+      "Title": "\u201cA great experience at Aparthotel Bonanova\u201d",
+      "Author": "zohar b",
+      "ReviewID": "UR118408130",
+      "Content": "stayed hotel 3 nights staying hotel city center similar price value money warm stay staff apartment clean convinient bathroom bed nice comfortable access city center easy short ride metro near smile reccomend",
+      "Date": "2011-09-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Boston, Massachusetts",
+      "Title": "\u201cVery clean rooms, Safe location, Courteous staff\u201d",
+      "Author": "go_places_10",
+      "ReviewID": "UR86406047",
+      "Content": "stayed hotel 4 days clean professional courteous staff location safe upscale neighborhood groceries stores restaurants church banks minutes walking distance metro station el putxet blocks downtown 1520 minutes cons faced street little noisy due traffic airconditioning couple nights fan wasnt hot time 5 discount stay solid hotel affordable price",
+      "Date": "2010-11-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Izu",
+      "Title": "\u201cFeel like a resident in Barcelona\u201d",
+      "Author": "Odoriko",
+      "ReviewID": "UR70713793",
+      "Content": "stayed times aparthotel short stay barcelona kept reception 24 hours arrive erratic hours cleaned daily including kitchen wiifi spanish newspapers breakfast emergency feel preparing advantage located residential maybe bit touristic action communicated metro bus short walk shops banks bakeries delicatessen supermarkets restaurants covered market real residents tourists buying real experience city pity self laundry wash dry nearby cover recommend experience life barcelona mere tourist",
+      "Date": "2010-07-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Aparthotel Bonanova",
+    "HotelURL": "/ShowUserReviews-g187497-d238721-Reviews-Aparthotel_Bonanova-Barcelona_Catalonia.html",
+    "Price": "$144 - $191*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Bisbe Sivilla, 7</span>, <span class=\"locality\"><span property=\"v:postal-code\">08022</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "238721",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/d3/57/77/aparthotel-bonanova.jpg"
+  }
+}

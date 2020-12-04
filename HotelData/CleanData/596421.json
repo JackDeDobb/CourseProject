@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Chicago, Illinois", "Title": "\u201ci would never take my child there ever or family there ever or recomend this place to no one\u201d", "Author": "babyhuey1", "ReviewID": "UR125146082", "Content": "awoken floor 1015 cops floor worker name police lil girls roughly uncle floor found worker name josh master key walked womens asleep sleep found theft ring taking people stuff guest hotel heat didnt lil boys cold night phone tv broken hall nasty owner name terrible people hid matter girls call police matter grat real", "Date": "2012-02-24 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Chicago, Illinois", "Title": "\u201cCockroach\u201d", "Author": "dani_usa_2011", "ReviewID": "UR120419212", "Content": "terrible friends found bugs bed arrived 400am tell recepcionist didnt care commom left hour arrived trying refund talk thats worst experience hotels", "Date": "2011-11-10 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "sheridan, oregon", "Title": "\u201cDon't stay in this dunghole!\u201d", "Author": "accsucks", "ReviewID": "UR94441899", "Content": "husband found hotel travel site listed comfort inn picture imagine disgust address led time walked leave tired refused clothes shoes ready run didnt choice restroom closed door imagine wall dripping checked straight airport flight returned home called travel sight complained hotel site discount travel arrangements bad couldnt rate hotel negative", "Date": "2011-01-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Atlanta, Georgia", "Title": "\u201cThis motel had an accomodating staff and was in a convenient location.\u201d", "Author": "BuffaloGrl1", "ReviewID": "UR82786639", "Content": "arrived nearby airport called ride gentleman prompt courteous courtesy driver front desk manager provided quality service busy motel evening morning person provided misinformation private driver following day entered lobby told driver name", "Date": "2010-10-09 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Little Rock, Arkansas", "Title": "\u201cDon't stay here\u201d", "Author": "corunmila", "ReviewID": "UR81729563", "Content": "read lot reviews bad 4 12 stars figured reading bad ones pictures remodled motel looked ok amenities included free wifi free breakfast jaccuzi middle looked bad neighborhood thugs hanging corner outside motel looked run inside jsut bad rundown pre reserved cancelation policy stuck filthy carpets wore socks time afraid checked beds bugs checked sheets passed bathroom pics web granite tiles looked real nice rest bathroom crap hole actually wore socks shower cuz didnt bare foot tub cold outside night temp 55 degrees heat complained told building heat guess november froze night dressed poop waited gas station cuz sit public toilet toilet tried log internet couldnt signal front guy front computer signal carried laptop lost signal suppose free wifi looby free breakfast box cheerios couple peanut butter sandwiches sitting plate looby gallon jug milk 1 pint milk sitting counter tempature glad booked night stay", "Date": "2010-10-01 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 1.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Louisville, KY", "Title": "\u201cNot That Bad\u201d", "Author": "highlandsjeff", "ReviewID": "UR81434041", "Content": "chicago budget midway inn fit yes cleaner date didnt chicago sit hotel staff friendly helpful location short walk train bus downtown 15 20 min close airport unsafe read reviews price getting approached attitude nice time", "Date": "2010-09-29 00:00:00"}], "HotelInfo": {"Name": "Midway Inn", "HotelURL": "/ShowUserReviews-g35805-d596421-Reviews-Midway_Inn-Chicago_Illinois.html", "Price": "$69 - $71*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5335 S Pulaski Rd</span>, <span class=\"locality\"><span property=\"v:locality\">Chicago</span>, <span property=\"v:region\">IL</span> <span property=\"v:postal-code\">60632</span></span> </span> </span> </address>", "HotelID": "596421", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/23/83/2383f783e7a004faee81554acaf5d9314large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Chicago, Illinois",
+      "Title": "\u201ci would never take my child there ever or family there ever or recomend this place to no one\u201d",
+      "Author": "babyhuey1",
+      "ReviewID": "UR125146082",
+      "Content": "awoken floor 1015 cops floor worker name police lil girls roughly uncle floor found worker name josh master key walked womens asleep sleep found theft ring taking people stuff guest hotel heat didnt lil boys cold night phone tv broken hall nasty owner name terrible people hid matter girls call police matter grat real",
+      "Date": "2012-02-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Chicago, Illinois",
+      "Title": "\u201cCockroach\u201d",
+      "Author": "dani_usa_2011",
+      "ReviewID": "UR120419212",
+      "Content": "terrible friends found bugs bed arrived 400am tell recepcionist didnt care commom left hour arrived trying refund talk thats worst experience hotels",
+      "Date": "2011-11-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "sheridan, oregon",
+      "Title": "\u201cDon't stay in this dunghole!\u201d",
+      "Author": "accsucks",
+      "ReviewID": "UR94441899",
+      "Content": "husband found hotel travel site listed comfort inn picture imagine disgust address led time walked leave tired refused clothes shoes ready run didnt choice restroom closed door imagine wall dripping checked straight airport flight returned home called travel sight complained hotel site discount travel arrangements bad couldnt rate hotel negative",
+      "Date": "2011-01-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Atlanta, Georgia",
+      "Title": "\u201cThis motel had an accomodating staff and was in a convenient location.\u201d",
+      "Author": "BuffaloGrl1",
+      "ReviewID": "UR82786639",
+      "Content": "arrived nearby airport called ride gentleman prompt courteous courtesy driver front desk manager provided quality service busy motel evening morning person provided misinformation private driver following day entered lobby told driver name",
+      "Date": "2010-10-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Little Rock, Arkansas",
+      "Title": "\u201cDon't stay here\u201d",
+      "Author": "corunmila",
+      "ReviewID": "UR81729563",
+      "Content": "read lot reviews bad 4 12 stars figured reading bad ones pictures remodled motel looked ok amenities included free wifi free breakfast jaccuzi middle looked bad neighborhood thugs hanging corner outside motel looked run inside jsut bad rundown pre reserved cancelation policy stuck filthy carpets wore socks time afraid checked beds bugs checked sheets passed bathroom pics web granite tiles looked real nice rest bathroom crap hole actually wore socks shower cuz didnt bare foot tub cold outside night temp 55 degrees heat complained told building heat guess november froze night dressed poop waited gas station cuz sit public toilet toilet tried log internet couldnt signal front guy front computer signal carried laptop lost signal suppose free wifi looby free breakfast box cheerios couple peanut butter sandwiches sitting plate looby gallon jug milk 1 pint milk sitting counter tempature glad booked night stay",
+      "Date": "2010-10-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 1.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Louisville, KY",
+      "Title": "\u201cNot That Bad\u201d",
+      "Author": "highlandsjeff",
+      "ReviewID": "UR81434041",
+      "Content": "chicago budget midway inn fit yes cleaner date didnt chicago sit hotel staff friendly helpful location short walk train bus downtown 15 20 min close airport unsafe read reviews price getting approached attitude nice time",
+      "Date": "2010-09-29 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Midway Inn",
+    "HotelURL": "/ShowUserReviews-g35805-d596421-Reviews-Midway_Inn-Chicago_Illinois.html",
+    "Price": "$69 - $71*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5335 S Pulaski Rd</span>, <span class=\"locality\"><span property=\"v:locality\">Chicago</span>, <span property=\"v:region\">IL</span> <span property=\"v:postal-code\">60632</span></span> </span> </span> </address>",
+    "HotelID": "596421",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/23/83/2383f783e7a004faee81554acaf5d9314large.jpg"
+  }
+}

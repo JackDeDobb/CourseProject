@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Tel Aviv", "Title": "\u201cIt's like a hostel\u201d", "Author": "JonathanTelAviv", "ReviewID": "UR125516824", "Content": "5 bedroom apartment located center barcelona nice dated building looks exactly images arrival wait 30 minutes outside building payment cash advance period beds low quality closet space living stained tablecloth free wifi wasnt time real pain didnt free access city ok youre tight budget", "Date": "2012-03-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Australia", "Title": "\u201cVariable quality of apartments\u201d", "Author": "JaydubAustralia", "ReviewID": "UR122341175", "Content": "barcelona apartment stayed 6 nights photos found reality living comfortable expected lighting poor difficult read night light fittings broken globes spare bulbs locked cupboard access broom sweep floor cleaners stay floor dirty bathroom wear tear constant building location eccentric lift constant source fun staying apartment meant buy buy buy boqueria market pretend days actually live wonderful city apartment comfortable bit minimal maintenance", "Date": "2011-12-31 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Bournemouth, United Kingdom", "Title": "\u201cGood location, Great service, Great Value!\u201d", "Author": "J2uk", "ReviewID": "UR120058575", "Content": "bit worried reading reviews goes people moan loved staying value money booked apartment visit barcelona friends apartments stayed top apartment cleaned day don\u2019t wouldn\u2019t expect price fine simple effective intend spend time apartment 2 bathrooms wc breakfast equipped kitchen useful cafe downstairs wasnt particularly cheap sometimes quick breakfast left day location excellent 5 min walk nearest tube stop tetuan stop sagrada familia parking outside hotel moped rent barcelona bit noisy night road main ones barcelona easily solved ear plugs can\u2019t wait barcelona cool apartments", "Date": "2011-11-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Waterford, Ireland", "Title": "\u201cReally good place to stay\u201d", "Author": "MGer0000", "ReviewID": "UR119029580", "Content": "stayed 5 nights september location central convenient markets shops restaurants nearby ok traffic noisy close windows shutters night blocks theres fan kitchen spotless common hardly neighbours nor hear noise apartments spacious ceilings comfortable beds hotel dont expect hotel service sheets towels day upmarket hostel definitely stay recommend travelling barcelona people stayed august", "Date": "2011-10-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Warsaw, Poland", "Title": "\u201cLike at home\u201d", "Author": "Krzysiek23", "ReviewID": "UR87244444", "Content": "flat 6 kitchen 2 bathrooms feel home kitchen equipped stuff frinedly receive information sights barcelona hotel location close pl catalunya metro stations reception confirm reservation via phone", "Date": "2010-11-16 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Warsaw, Poland", "Title": "\u201cGood Experience!\u201d", "Author": "grzegorz_krol", "ReviewID": "UR87187801", "Content": "stayed apartments gran via 3 nights admit surprised convenient disadvantage bathroom taking consideration consists 6 2 bathroom guests cant avoid noise streets pairs windows help lot", "Date": "2010-11-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Toronto", "Title": "\u201cFunctional, great location!\u201d", "Author": "G123Toronto", "ReviewID": "UR82618869", "Content": "functional comfortable balcony hotel steps metro minutes las ramblas waterfront time exploring city staff pleasant helpful downside arrange takeaway breakfast accommodate departure airport hotels stayed trip arrangement oh theres coffee airport", "Date": "2010-10-08 00:00:00"}], "HotelInfo": {"Name": "Apartments Gran Via", "HotelURL": "/ShowUserReviews-g187497-d1204583-Reviews-Apartments_Gran_Via-Barcelona_Catalonia.html", "Price": "$73 - $133*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gran Via de les Corts Catalanes 686</span>, <span class=\"locality\"><span property=\"v:postal-code\">08010</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "1204583", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2e/20/2e20c48c8744df3cd70515936de2e2201large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Tel Aviv",
+      "Title": "\u201cIt's like a hostel\u201d",
+      "Author": "JonathanTelAviv",
+      "ReviewID": "UR125516824",
+      "Content": "5 bedroom apartment located center barcelona nice dated building looks exactly images arrival wait 30 minutes outside building payment cash advance period beds low quality closet space living stained tablecloth free wifi wasnt time real pain didnt free access city ok youre tight budget",
+      "Date": "2012-03-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Australia",
+      "Title": "\u201cVariable quality of apartments\u201d",
+      "Author": "JaydubAustralia",
+      "ReviewID": "UR122341175",
+      "Content": "barcelona apartment stayed 6 nights photos found reality living comfortable expected lighting poor difficult read night light fittings broken globes spare bulbs locked cupboard access broom sweep floor cleaners stay floor dirty bathroom wear tear constant building location eccentric lift constant source fun staying apartment meant buy buy buy boqueria market pretend days actually live wonderful city apartment comfortable bit minimal maintenance",
+      "Date": "2011-12-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bournemouth, United Kingdom",
+      "Title": "\u201cGood location, Great service, Great Value!\u201d",
+      "Author": "J2uk",
+      "ReviewID": "UR120058575",
+      "Content": "bit worried reading reviews goes people moan loved staying value money booked apartment visit barcelona friends apartments stayed top apartment cleaned day don\u2019t wouldn\u2019t expect price fine simple effective intend spend time apartment 2 bathrooms wc breakfast equipped kitchen useful cafe downstairs wasnt particularly cheap sometimes quick breakfast left day location excellent 5 min walk nearest tube stop tetuan stop sagrada familia parking outside hotel moped rent barcelona bit noisy night road main ones barcelona easily solved ear plugs can\u2019t wait barcelona cool apartments",
+      "Date": "2011-11-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Waterford, Ireland",
+      "Title": "\u201cReally good place to stay\u201d",
+      "Author": "MGer0000",
+      "ReviewID": "UR119029580",
+      "Content": "stayed 5 nights september location central convenient markets shops restaurants nearby ok traffic noisy close windows shutters night blocks theres fan kitchen spotless common hardly neighbours nor hear noise apartments spacious ceilings comfortable beds hotel dont expect hotel service sheets towels day upmarket hostel definitely stay recommend travelling barcelona people stayed august",
+      "Date": "2011-10-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Warsaw, Poland",
+      "Title": "\u201cLike at home\u201d",
+      "Author": "Krzysiek23",
+      "ReviewID": "UR87244444",
+      "Content": "flat 6 kitchen 2 bathrooms feel home kitchen equipped stuff frinedly receive information sights barcelona hotel location close pl catalunya metro stations reception confirm reservation via phone",
+      "Date": "2010-11-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Warsaw, Poland",
+      "Title": "\u201cGood Experience!\u201d",
+      "Author": "grzegorz_krol",
+      "ReviewID": "UR87187801",
+      "Content": "stayed apartments gran via 3 nights admit surprised convenient disadvantage bathroom taking consideration consists 6 2 bathroom guests cant avoid noise streets pairs windows help lot",
+      "Date": "2010-11-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Toronto",
+      "Title": "\u201cFunctional, great location!\u201d",
+      "Author": "G123Toronto",
+      "ReviewID": "UR82618869",
+      "Content": "functional comfortable balcony hotel steps metro minutes las ramblas waterfront time exploring city staff pleasant helpful downside arrange takeaway breakfast accommodate departure airport hotels stayed trip arrangement oh theres coffee airport",
+      "Date": "2010-10-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Apartments Gran Via",
+    "HotelURL": "/ShowUserReviews-g187497-d1204583-Reviews-Apartments_Gran_Via-Barcelona_Catalonia.html",
+    "Price": "$73 - $133*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gran Via de les Corts Catalanes 686</span>, <span class=\"locality\"><span property=\"v:postal-code\">08010</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "1204583",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/2e/20/2e20c48c8744df3cd70515936de2e2201large.jpg"
+  }
+}

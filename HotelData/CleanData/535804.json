@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Belgrade, Serbia", "Title": "\u201cNot so bad\u201d", "Author": "Nada D", "ReviewID": "UR127994922", "Content": "husband returned rome stayed hotel travel agency train station termini extremely noisy unless children spain italy night slamming door shouting weird smell maybe hotel location reach time metro street via nazionale five minutes walk enjoy rome breakfast average rome eat hotel didnt mind hotels rome worst night persons costs impression cheaper hotels locaton", "Date": "2012-04-16 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Auckland Central, New Zealand", "Title": "\u201cNot the best, not the worst\u201d", "Author": "Nes005", "ReviewID": "UR126585444", "Content": "stayed hotel contiki tour cleaning happened drop sweat shirt floor lobby 1st floor picked completely covered dust hadnt swept spacious bathroom handy heated towel rail considering winter issue bathroom shower tiny corner shower half entrance shower blocked corner sink squeeze sink step toilet shelves shower soap barely bend pick shampoo bottle floor location hotel road termini train station lots eat probably wouldnt recommend walking hotel poorly lit dodgy people loitering looked ghetto enjoyed church bells chiming 7am day hotel staff friendly apart waitress breakfast stand watch hawk uncomfortable dining bothered mate asleep corner corridor 3am stomping corridor straight door started jiggling door handle quickly left door didnt didnt try key thankfully remembered lock door", "Date": "2012-03-24 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Kuala Lumpur, Malaysia", "Title": "\u201cthis is the best place to make your life worse\u201d", "Author": "shienchii", "ReviewID": "UR98834080", "Content": "worst hotel service received 4 stars self proclaimed travels posh treatments cheapest backpacking lodge worst seen staffs ones responsible spoiling entire trip poorly greeted checked hotel flight arrived hour earlier check time rudely told return day concierge reply utmost disgust shown facial expression body language doesnt look eye converse doesnt genius realize poor courtesy strongly disrespected staffs filling water breakfast table waitress yelled emptying jug water inability understand italian yelled waitress shower bath partitions rest washroom definitely wet toilet shower tv set faulty capable receive satellite programs visit location", "Date": "2011-03-03 00:00:00"}], "HotelInfo": {"Name": "Siracusa", "HotelURL": "/ShowUserReviews-g187791-d535804-Reviews-Siracusa-Rome_Lazio.html", "Price": "$66 - $334*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Marsala 50</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "535804", "ImgURL": "http://www.orbitz.com//hotelimages/load_24/IT/ROM//ROMSIR11.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Belgrade, Serbia",
+      "Title": "\u201cNot so bad\u201d",
+      "Author": "Nada D",
+      "ReviewID": "UR127994922",
+      "Content": "husband returned rome stayed hotel travel agency train station termini extremely noisy unless children spain italy night slamming door shouting weird smell maybe hotel location reach time metro street via nazionale five minutes walk enjoy rome breakfast average rome eat hotel didnt mind hotels rome worst night persons costs impression cheaper hotels locaton",
+      "Date": "2012-04-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Auckland Central, New Zealand",
+      "Title": "\u201cNot the best, not the worst\u201d",
+      "Author": "Nes005",
+      "ReviewID": "UR126585444",
+      "Content": "stayed hotel contiki tour cleaning happened drop sweat shirt floor lobby 1st floor picked completely covered dust hadnt swept spacious bathroom handy heated towel rail considering winter issue bathroom shower tiny corner shower half entrance shower blocked corner sink squeeze sink step toilet shelves shower soap barely bend pick shampoo bottle floor location hotel road termini train station lots eat probably wouldnt recommend walking hotel poorly lit dodgy people loitering looked ghetto enjoyed church bells chiming 7am day hotel staff friendly apart waitress breakfast stand watch hawk uncomfortable dining bothered mate asleep corner corridor 3am stomping corridor straight door started jiggling door handle quickly left door didnt didnt try key thankfully remembered lock door",
+      "Date": "2012-03-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Kuala Lumpur, Malaysia",
+      "Title": "\u201cthis is the best place to make your life worse\u201d",
+      "Author": "shienchii",
+      "ReviewID": "UR98834080",
+      "Content": "worst hotel service received 4 stars self proclaimed travels posh treatments cheapest backpacking lodge worst seen staffs ones responsible spoiling entire trip poorly greeted checked hotel flight arrived hour earlier check time rudely told return day concierge reply utmost disgust shown facial expression body language doesnt look eye converse doesnt genius realize poor courtesy strongly disrespected staffs filling water breakfast table waitress yelled emptying jug water inability understand italian yelled waitress shower bath partitions rest washroom definitely wet toilet shower tv set faulty capable receive satellite programs visit location",
+      "Date": "2011-03-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Siracusa",
+    "HotelURL": "/ShowUserReviews-g187791-d535804-Reviews-Siracusa-Rome_Lazio.html",
+    "Price": "$66 - $334*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Marsala 50</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "535804",
+    "ImgURL": "http://www.orbitz.com//hotelimages/load_24/IT/ROM//ROMSIR11.jpg"
+  }
+}

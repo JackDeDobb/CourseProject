@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Stockholm, Sweden", "Title": "\u201cOne must bring airplugs.....\u201d", "Author": "Babu M", "ReviewID": "UR127529727", "Content": "bit city rome main airport fiumicino fairly nice takes 10 minutes walk commuter station 15 minutes commuter train termini central station roma fly ciampino airport night prepared noise landing taking offs train passes hotel personnels nice polite service minded raise voice change neat clean breakfast restaurant fair personnel restaurant nice", "Date": "2012-04-09 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cGood but don't forget your earplugs\u201d", "Author": "valevh", "ReviewID": "UR66308601", "Content": "value hotel rome noisy due aircraft noise nearby airport clean sheets bed comfortable breakfast italian style coffee cakes etc 2 breads bad cappuccino don\u2019t walking airport it\u2019s impossible 1015 minute walk ciampino rail station bus airport single ride wifi service ok bad luck league final night 50 noisy kids bus asian persons left 600am sleep noise plus hotel easily airport sleep romes noice wasnt choice", "Date": "2010-06-03 00:00:00"}], "HotelInfo": {"Name": "Ciampino Hotel", "HotelURL": "/ShowUserReviews-g187791-d1187419-Reviews-Ciampino_Hotel-Rome_Lazio.html", "Price": "$38 - $207*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via A. Grandi 2</span> | <span class=\"extended-address\">Ciampino</span>, <span class=\"locality\"><span property=\"v:postal-code\">43</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "1187419", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4c/29/4c294b87f63af8bb9b104ee81c79b88a1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Stockholm, Sweden",
+      "Title": "\u201cOne must bring airplugs.....\u201d",
+      "Author": "Babu M",
+      "ReviewID": "UR127529727",
+      "Content": "bit city rome main airport fiumicino fairly nice takes 10 minutes walk commuter station 15 minutes commuter train termini central station roma fly ciampino airport night prepared noise landing taking offs train passes hotel personnels nice polite service minded raise voice change neat clean breakfast restaurant fair personnel restaurant nice",
+      "Date": "2012-04-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cGood but don't forget your earplugs\u201d",
+      "Author": "valevh",
+      "ReviewID": "UR66308601",
+      "Content": "value hotel rome noisy due aircraft noise nearby airport clean sheets bed comfortable breakfast italian style coffee cakes etc 2 breads bad cappuccino don\u2019t walking airport it\u2019s impossible 1015 minute walk ciampino rail station bus airport single ride wifi service ok bad luck league final night 50 noisy kids bus asian persons left 600am sleep noise plus hotel easily airport sleep romes noice wasnt choice",
+      "Date": "2010-06-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Ciampino Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d1187419-Reviews-Ciampino_Hotel-Rome_Lazio.html",
+    "Price": "$38 - $207*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via A. Grandi 2</span> | <span class=\"extended-address\">Ciampino</span>, <span class=\"locality\"><span property=\"v:postal-code\">43</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "1187419",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4c/29/4c294b87f63af8bb9b104ee81c79b88a1large.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Glasgow, United Kingdom", "Title": "\u201cSan Diego is fantastic, but don't stay here\u201d", "Author": "KUrquie", "ReviewID": "UR126008866", "Content": "dirty feet filthy coming shower walking carpet blinds bed thick dust cooker didnt wouldnt safe ground floor facing onto main street lock didnt feel secure air conditioning fan told electrical appliance time found laughable staff werent particularly helpful didnt appear local advice tourist attractions leaflet map staff help completely unimpressed beach beach wasnt nice nicer beaches san diego loved san diego nights fab time despite nasty sleeping conditions recommendation stay elsewhere folks", "Date": "2012-03-12 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "dallas", "Title": "\u201cGreat location\u201d", "Author": "dianedallas", "ReviewID": "UR125242819", "Content": "stayed february 2012 motel fancy location perfect beach partial view ocean view ocean balcony outside door amazing clean basic refrigerator microwave coffeemaker extra coffee towels etc requested bed comfortable motel walking distance restaurants beach coffee bar block crystal pier parking definately parking spaces parking street fills fast especially weekend definately stay probably affordable stay beach", "Date": "2012-02-26 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Glasgow, United Kingdom", "Title": "\u201cOnce was more than enough!\u201d", "Author": "Gl0betr0tterAnnie", "ReviewID": "UR120086403", "Content": "stayed 2 nights girls usa roadtrip honestly worst stayed stayed bedroom suite ground floor reception pretty fair word filthy smelled mouldy dust inch thick window blinds wardrobes bedroom smelly mouldy needless bothered unpack outdoor untidy tables chairs dirty reception borrow iron covered burnt black stuff chosing wear clothed creased returned iron lady cheek look burnt stuff disgust location beach hotels guesthouses surrounding pacific view motel exactly bad", "Date": "2011-11-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Phoenix, Arizona", "Title": "\u201cBest Value, Best View, Best Vacation\u201d", "Author": "VCRRTraingal", "ReviewID": "UR74621469", "Content": "looking beach impressed hotel provide parking beach employees friendly attentive definitely beach please dont tear granted sparse cares heard ocean night walk front door beach sheets towels clean plenty bikes lot inexpensive restaurants totally comfortable stay else san diego", "Date": "2010-08-10 00:00:00"}], "HotelInfo": {"Name": "Pacific View Motel", "HotelURL": "/ShowUserReviews-g60750-d1451746-Reviews-Pacific_View_Motel-San_Diego_California.html", "Price": "0", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">610 Emerald St.</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span></span> </span> </span> </address>", "HotelID": "1451746", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/34/95/pacific-view-motel-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Glasgow, United Kingdom",
+      "Title": "\u201cSan Diego is fantastic, but don't stay here\u201d",
+      "Author": "KUrquie",
+      "ReviewID": "UR126008866",
+      "Content": "dirty feet filthy coming shower walking carpet blinds bed thick dust cooker didnt wouldnt safe ground floor facing onto main street lock didnt feel secure air conditioning fan told electrical appliance time found laughable staff werent particularly helpful didnt appear local advice tourist attractions leaflet map staff help completely unimpressed beach beach wasnt nice nicer beaches san diego loved san diego nights fab time despite nasty sleeping conditions recommendation stay elsewhere folks",
+      "Date": "2012-03-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "dallas",
+      "Title": "\u201cGreat location\u201d",
+      "Author": "dianedallas",
+      "ReviewID": "UR125242819",
+      "Content": "stayed february 2012 motel fancy location perfect beach partial view ocean view ocean balcony outside door amazing clean basic refrigerator microwave coffeemaker extra coffee towels etc requested bed comfortable motel walking distance restaurants beach coffee bar block crystal pier parking definately parking spaces parking street fills fast especially weekend definately stay probably affordable stay beach",
+      "Date": "2012-02-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Glasgow, United Kingdom",
+      "Title": "\u201cOnce was more than enough!\u201d",
+      "Author": "Gl0betr0tterAnnie",
+      "ReviewID": "UR120086403",
+      "Content": "stayed 2 nights girls usa roadtrip honestly worst stayed stayed bedroom suite ground floor reception pretty fair word filthy smelled mouldy dust inch thick window blinds wardrobes bedroom smelly mouldy needless bothered unpack outdoor untidy tables chairs dirty reception borrow iron covered burnt black stuff chosing wear clothed creased returned iron lady cheek look burnt stuff disgust location beach hotels guesthouses surrounding pacific view motel exactly bad",
+      "Date": "2011-11-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Phoenix, Arizona",
+      "Title": "\u201cBest Value, Best View, Best Vacation\u201d",
+      "Author": "VCRRTraingal",
+      "ReviewID": "UR74621469",
+      "Content": "looking beach impressed hotel provide parking beach employees friendly attentive definitely beach please dont tear granted sparse cares heard ocean night walk front door beach sheets towels clean plenty bikes lot inexpensive restaurants totally comfortable stay else san diego",
+      "Date": "2010-08-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Pacific View Motel",
+    "HotelURL": "/ShowUserReviews-g60750-d1451746-Reviews-Pacific_View_Motel-San_Diego_California.html",
+    "Price": "0",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">610 Emerald St.</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span></span> </span> </span> </address>",
+    "HotelID": "1451746",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/34/95/pacific-view-motel-thumbnail.jpg"
+  }
+}

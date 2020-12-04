@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Birmingham, United Kingdom", "Title": "\u201cvery poor\u201d", "Author": "danelle g", "ReviewID": "UR124354753", "Content": "arrived eve greeted nice explained helpful found poor decor clean found facilities terrible toilet roll told didnt toilet roll kept told tesco road unacceptable seen paid \u00a3130 night hostel", "Date": "2012-02-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "England", "Title": "\u201cGood little hotel, very comfortable\u201d", "Author": "PhilGlew", "ReviewID": "UR121914172", "Content": "arrived hotel night 845pm monday late checkin ring doorbell trouble greeted friendly swiftly explained checked explained booked double didnt triple instead fine size warm cosy decor hey paid \u00a339 court hotel night bathroom size whilst cracked tiles nice plenty hot water nice clean towels shampoo soap freebies normally seen ina budget hotels hotel situated close earls court tube station ten minute walk location commuters nights sleep comfortable bed soft cosy kettle teacoffee hairdryer tv freeview reception amount plug sockets able charge phones checking fine key reason havent hotel five stars mixed fridge whilst excellent feature integrated makes humming noise constantly doesnt disturb sleep whilst luxury feature bit annoying definitely stay money paid comfortable suitable lone business traveller friends visiting central london looking cheap nights", "Date": "2011-12-20 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Shannon, Ireland", "Title": "\u201cOk hotel but too much street noise\u201d", "Author": "alicec79", "ReviewID": "UR99749165", "Content": "wouldnt stay noise busy road front hotel didnt sleep 6 son 5am couldnt sleep noise aside staff helpful hotel nice parents double tiny didnt mind breakfast basic job", "Date": "2011-03-11 00:00:00"}], "HotelInfo": {"Name": "West Cromwell Hotel", "HotelURL": "/ShowUserReviews-g186338-d192110-Reviews-West_Cromwell_Hotel-London_England.html", "Price": "$93 - $284*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">66 West Cromwell Road</span> | <span class=\"extended-address\">Earls Court, Kensington &amp; Chelsea</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">SW5 9QS</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>", "HotelID": "192110", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/24/7a/247a4597a89d381b1eeb57ecf874dad71large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Birmingham, United Kingdom",
+      "Title": "\u201cvery poor\u201d",
+      "Author": "danelle g",
+      "ReviewID": "UR124354753",
+      "Content": "arrived eve greeted nice explained helpful found poor decor clean found facilities terrible toilet roll told didnt toilet roll kept told tesco road unacceptable seen paid \u00a3130 night hostel",
+      "Date": "2012-02-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "England",
+      "Title": "\u201cGood little hotel, very comfortable\u201d",
+      "Author": "PhilGlew",
+      "ReviewID": "UR121914172",
+      "Content": "arrived hotel night 845pm monday late checkin ring doorbell trouble greeted friendly swiftly explained checked explained booked double didnt triple instead fine size warm cosy decor hey paid \u00a339 court hotel night bathroom size whilst cracked tiles nice plenty hot water nice clean towels shampoo soap freebies normally seen ina budget hotels hotel situated close earls court tube station ten minute walk location commuters nights sleep comfortable bed soft cosy kettle teacoffee hairdryer tv freeview reception amount plug sockets able charge phones checking fine key reason havent hotel five stars mixed fridge whilst excellent feature integrated makes humming noise constantly doesnt disturb sleep whilst luxury feature bit annoying definitely stay money paid comfortable suitable lone business traveller friends visiting central london looking cheap nights",
+      "Date": "2011-12-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Shannon, Ireland",
+      "Title": "\u201cOk hotel but too much street noise\u201d",
+      "Author": "alicec79",
+      "ReviewID": "UR99749165",
+      "Content": "wouldnt stay noise busy road front hotel didnt sleep 6 son 5am couldnt sleep noise aside staff helpful hotel nice parents double tiny didnt mind breakfast basic job",
+      "Date": "2011-03-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "West Cromwell Hotel",
+    "HotelURL": "/ShowUserReviews-g186338-d192110-Reviews-West_Cromwell_Hotel-London_England.html",
+    "Price": "$93 - $284*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">66 West Cromwell Road</span> | <span class=\"extended-address\">Earls Court, Kensington &amp; Chelsea</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">SW5 9QS</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>",
+    "HotelID": "192110",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/24/7a/247a4597a89d381b1eeb57ecf874dad71large.jpg"
+  }
+}

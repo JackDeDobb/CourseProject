@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "milan", "Title": "\u201cCentral, clean and full breakfast\u201d", "Author": "orangetree76", "ReviewID": "UR127177273", "Content": "location easy reach historical peninsula taksim airport price low esp bathroom clean newly renovated breakfast nicerooms silent unlike hotels district happy stay definetely stay", "Date": "2012-04-03 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Sao Paulo", "Title": "\u201cPoor and old hotel\u201d", "Author": "fabiobrsp", "ReviewID": "UR121168837", "Content": "stayed night hotel paid airline company transit time connecting flight 14 hours guests appeared airline travelers ride airport passengers understanding word turkish hoping heard airline agent seasons unfortunately seasons simple hotel dated furniture tiny elevator tiny slow finding instructions dial front desk person wakeup call 630 am guy answered usually call 7 am insisted called 630 am wrote request form guess wakeup call 630 morning called 7 am included breakfast bad compared rest hotel probably ate available juice fresh artificial fruit powder bread available options folder available recall hotel appears due worn furniture carpet appliances except flat screen tv", "Date": "2011-11-28 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Dublin, Ireland", "Title": "\u201cAviodable\u201d", "Author": "sandyh2001in", "ReviewID": "UR88622109", "Content": "didnt reception staff boorish hospitality feel welcome junior staffs cleaners bell boys behaved location ok match sultanahmet actually quickly realized staying sultanahmet thats action istanbul air conditioning didnt middle unbearable afternoons repeated requests rude receptionist fell deaf ears avoid save holiday mood", "Date": "2010-11-30 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Istanbul, Turkey", "Title": "\u201cDo not stay here\u201d", "Author": "jsangiuliano", "ReviewID": "UR80811236", "Content": "hotel constantly overbooked staff absolutely unorganized extremely rude try tell internet air conditioning fine neither matter rude condescending wait lobby 5 hours exactly 1200 checkin saying available exactly time customers checking checking entire time lost reservation", "Date": "2010-09-24 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Los Angeles, California", "Title": "\u201cWorse than the ten plagues!! Far worse!!! Stay away from this hole!\u201d", "Author": "chaimdan", "ReviewID": "UR68001317", "Content": "am writing review seasons hotel arrived morning absolutely horrendous avoid costs sleeping park bench sleeping im kidding arriving tiny triple noticed airconditioning wasnt called front desk 3 times waited hour finally look fan apparently airconditioning doesnt day rests night kidding istanbul hot day ac hour try using washroom time water toilette doesnt flush sink shower dont call time people water hour seeing children hot sahara dessert offered bring drinking water provided brought bottle refilled tap water downstairs cap sealed water literally top cap pics run carpet hanging loose floor tv size computer monitor english channel bbc bathroom shower black stains transit istanbul turkish air free accommodations called hand type hotels offer 45 name hotels marriott figured horrible mistake booked courtyard airport travelled extensively expectations regardless bad ac clean bathroom im happy none tripadvisor remove top value logo property hardly value", "Date": "2010-06-19 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Amsterdam, The Netherlands", "Title": "\u201cThe worst horrible hotel of Istanbul\u201d", "Author": "Turkishdelight2010", "ReviewID": "UR64132154", "Content": "2010 stayed hotel 1 week 1 conclusion horrible hotel istanbul world enjoy stay istanbul please avoid 1 staff especially reception amateurs rude cursed left hotel 2 airco refuse save money 3 website describes insulated windows walls sound true hear traffic close windows cant sleep comfortably 4 view hotel horrible hotel front 5 website describes satellite tv 4 channels sound 6 accept airport transfer double price bus arrange taxi airport 7 activities sauna playroom etc pay additionally 8 website describes wifi time internet connection bad 9 reasons name please avoid hotel", "Date": "2010-05-14 00:00:00"}], "HotelInfo": {"Name": "All Seasons Hotel", "HotelURL": "/ShowUserReviews-g293974-d502347-Reviews-All_Seasons_Hotel-Istanbul.html", "Price": "$85 - $198*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Molla Gurani Cad. Emin Ali Yesim Sk.</span> | <span class=\"extended-address\">No:5 Findikzade</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34270</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "502347", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/39/f7/39f7feb0d9989540506f6e78fb0159318large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "milan",
+      "Title": "\u201cCentral, clean and full breakfast\u201d",
+      "Author": "orangetree76",
+      "ReviewID": "UR127177273",
+      "Content": "location easy reach historical peninsula taksim airport price low esp bathroom clean newly renovated breakfast nicerooms silent unlike hotels district happy stay definetely stay",
+      "Date": "2012-04-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sao Paulo",
+      "Title": "\u201cPoor and old hotel\u201d",
+      "Author": "fabiobrsp",
+      "ReviewID": "UR121168837",
+      "Content": "stayed night hotel paid airline company transit time connecting flight 14 hours guests appeared airline travelers ride airport passengers understanding word turkish hoping heard airline agent seasons unfortunately seasons simple hotel dated furniture tiny elevator tiny slow finding instructions dial front desk person wakeup call 630 am guy answered usually call 7 am insisted called 630 am wrote request form guess wakeup call 630 morning called 7 am included breakfast bad compared rest hotel probably ate available juice fresh artificial fruit powder bread available options folder available recall hotel appears due worn furniture carpet appliances except flat screen tv",
+      "Date": "2011-11-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Dublin, Ireland",
+      "Title": "\u201cAviodable\u201d",
+      "Author": "sandyh2001in",
+      "ReviewID": "UR88622109",
+      "Content": "didnt reception staff boorish hospitality feel welcome junior staffs cleaners bell boys behaved location ok match sultanahmet actually quickly realized staying sultanahmet thats action istanbul air conditioning didnt middle unbearable afternoons repeated requests rude receptionist fell deaf ears avoid save holiday mood",
+      "Date": "2010-11-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Istanbul, Turkey",
+      "Title": "\u201cDo not stay here\u201d",
+      "Author": "jsangiuliano",
+      "ReviewID": "UR80811236",
+      "Content": "hotel constantly overbooked staff absolutely unorganized extremely rude try tell internet air conditioning fine neither matter rude condescending wait lobby 5 hours exactly 1200 checkin saying available exactly time customers checking checking entire time lost reservation",
+      "Date": "2010-09-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Los Angeles, California",
+      "Title": "\u201cWorse than the ten plagues!! Far worse!!! Stay away from this hole!\u201d",
+      "Author": "chaimdan",
+      "ReviewID": "UR68001317",
+      "Content": "am writing review seasons hotel arrived morning absolutely horrendous avoid costs sleeping park bench sleeping im kidding arriving tiny triple noticed airconditioning wasnt called front desk 3 times waited hour finally look fan apparently airconditioning doesnt day rests night kidding istanbul hot day ac hour try using washroom time water toilette doesnt flush sink shower dont call time people water hour seeing children hot sahara dessert offered bring drinking water provided brought bottle refilled tap water downstairs cap sealed water literally top cap pics run carpet hanging loose floor tv size computer monitor english channel bbc bathroom shower black stains transit istanbul turkish air free accommodations called hand type hotels offer 45 name hotels marriott figured horrible mistake booked courtyard airport travelled extensively expectations regardless bad ac clean bathroom im happy none tripadvisor remove top value logo property hardly value",
+      "Date": "2010-06-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Amsterdam, The Netherlands",
+      "Title": "\u201cThe worst horrible hotel of Istanbul\u201d",
+      "Author": "Turkishdelight2010",
+      "ReviewID": "UR64132154",
+      "Content": "2010 stayed hotel 1 week 1 conclusion horrible hotel istanbul world enjoy stay istanbul please avoid 1 staff especially reception amateurs rude cursed left hotel 2 airco refuse save money 3 website describes insulated windows walls sound true hear traffic close windows cant sleep comfortably 4 view hotel horrible hotel front 5 website describes satellite tv 4 channels sound 6 accept airport transfer double price bus arrange taxi airport 7 activities sauna playroom etc pay additionally 8 website describes wifi time internet connection bad 9 reasons name please avoid hotel",
+      "Date": "2010-05-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "All Seasons Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d502347-Reviews-All_Seasons_Hotel-Istanbul.html",
+    "Price": "$85 - $198*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Molla Gurani Cad. Emin Ali Yesim Sk.</span> | <span class=\"extended-address\">No:5 Findikzade</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34270</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "502347",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/39/f7/39f7feb0d9989540506f6e78fb0159318large.jpg"
+  }
+}

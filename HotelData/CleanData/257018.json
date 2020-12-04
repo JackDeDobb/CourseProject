@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Coggiola, Italia", "Title": "\u201csimple but very good\u201d", "Author": "elybrera", "ReviewID": "UR118876861", "Content": "hotel located 5 minuts ubahn centre basic simple single shower sink toilet shared clean people breakfast perfect waitress girls reception cleaned day value money location service wil berlin choose hotel berlin wonderful city expected amazing stayed 2 days walkin walking walking seen whats", "Date": "2011-10-03 00:00:00"}], "HotelInfo": {"Name": "Hotel Graf Puckler", "HotelURL": "/ShowUserReviews-g187323-d257018-Reviews-Hotel_Graf_Puckler-Berlin.html", "Price": "$51 - $133*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Schonwalder Str. 21</span>, <span class=\"locality\"><span property=\"v:postal-code\">13347</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "257018", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/86/7c/867c63a0445f49d22e02baac75bb1c911large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Coggiola, Italia",
+      "Title": "\u201csimple but very good\u201d",
+      "Author": "elybrera",
+      "ReviewID": "UR118876861",
+      "Content": "hotel located 5 minuts ubahn centre basic simple single shower sink toilet shared clean people breakfast perfect waitress girls reception cleaned day value money location service wil berlin choose hotel berlin wonderful city expected amazing stayed 2 days walkin walking walking seen whats",
+      "Date": "2011-10-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Graf Puckler",
+    "HotelURL": "/ShowUserReviews-g187323-d257018-Reviews-Hotel_Graf_Puckler-Berlin.html",
+    "Price": "$51 - $133*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Schonwalder Str. 21</span>, <span class=\"locality\"><span property=\"v:postal-code\">13347</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "257018",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/86/7c/867c63a0445f49d22e02baac75bb1c911large.jpg"
+  }
+}

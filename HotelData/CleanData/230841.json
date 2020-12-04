@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "london", "Title": "\u201cGreat Hotel, Great service\u201d", "Author": "ludelmonte", "ReviewID": "UR137057284", "Content": "time tryp alcala hotel located 10 mins bus airport barajas 3 minutes walking distance metro city center 25 mins highly recommended clean swiming pool facilities altough available late service hotel special staff amazing friendly attentive feel welcome treat family we\u00b4ve met people thank", "Date": "2012-08-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Denver, Colorado, USA", "Title": "\u201cI wavered on the rating\u201d", "Author": "noogs1", "ReviewID": "UR125428268", "Content": "bit bad metro clean nice beds comfy holiday inn express breakfast nice outstanding avoids staff nice helpful maid excellent comfortable sleep wifi close access buses metro fine stay stay average 4", "Date": "2012-03-01 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Portsmouth", "Title": "\u201cValue for money\u201d", "Author": "Sibinsanks", "ReviewID": "UR118441837", "Content": "stayed hotel wife wouldnt class 4 upper 3 carpets attention neat clean 3 cheers hotel staff friendly helpful requested change double 2 separate single beds double bed outside late night hotel organised change changed luggage decent size swimming pool highlight massive breakfast feats breakfast endless sit eating variety day bit person remember sign mas card hotel system breakfast half price internet free otherwise charge internet \u00a32000 day metro station 5 minutes walk tickets granvia madrid central 150 euro journey 25 30 mins experience definitely", "Date": "2011-09-22 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "seattle", "Title": "\u201cGood place though not 4 star\u201d", "Author": "drtravels", "ReviewID": "UR98086219", "Content": "hotel via priceline essentially cost hotel website hoping hilton ive hilton superior hotel category prompt email response easy access via bus 200 airport close metro decent neighborhood local eat 30 minutes airport via staff friendly helpful internet 12 eurosday employee advised joined free hotel program free decent rates online bad average size quality intermittent tv internet reception wouldnt priceline mad airport hotels consider booking hotel directly id star level", "Date": "2011-02-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 2.0}, "AuthorLocation": "London, UK", "Title": "\u201cNice room, nice breakfast, nice pool!\u201d", "Author": "bizzykrizzy", "ReviewID": "UR88492677", "Content": "checkin friendly helpful receptionist size air conditioning facing busy street widows noisy bathroom hair dryer magnifying mirror plenty hot water time day nice samples toiletries clean bed excellent mattress soft tv adequate range bbc cnn channels day checkout kindly extended time 12 3pm convenient rate hotel real 4 star possibly lower 3 stars breakfast truly exceptional presentation taste offer wonderful range juices breads cheeses meats croissants thick creamy yogurt delicious cakes aug 2010 buffet cost 8\u20ac person worth pool huge adequate life guard duty free towels nice sun loungers enjoyed topping tan alternating refreshing dips pool recommend hotel relaxing comfortable stay city centre travelling forth wear nearest underground station called 5 min foot hotel line 5 goes straight heart town stop called callao 25 min trains frequent clean safe journey cost 1\u20ac deals booklet 10 tickets 1 2 day tickets trains run 130am immediate vicinity theres look facilities cafes real restaurant found supermarket buy bottles water etc served buses underground youre coming airport bus 204 terminal 4 200 frequent 101 frequent terminals 1 2 3 buses 10min quicker taking underground cost 1\u20ac day ticket zone return calle de alcala extremely road goes heart city centre recommend trying walk", "Date": "2010-11-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "zpeck@cox.net", "Title": "\u201cNice\u201d", "Author": "Tiayolanda", "ReviewID": "UR86112862", "Content": "madrid hotel close airport afford comfortable quiet nights alcala 611 hotel clean modern close airport reach barajas airport 10 min 20 euros bit pricey night flight dependable hotel deliver clean quiet front desk cab morning wake call youll little pricey internet internet cafe street cheapo", "Date": "2010-11-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "jena", "Title": "\u201cstandard hotel - close to airport\u201d", "Author": "peachy_marc", "ReviewID": "UR74744801", "Content": "wife booked tryp 611 priceline reasonable price hotel unfortunately doesn\u00b4t offer complimentary shuttle decided public bus wasn\u00b4t easy location alright hotel close metro station clean bathroom standard bathtub european 4 star hotel hotel doesn\u00b4t offer free complimentary wifi sucks bed mediocre 2 single beds pushed didn\u00b4t double beds nonsmoking ok experience service fair priceline price", "Date": "2010-08-11 00:00:00"}], "HotelInfo": {"Name": "Tryp Alcala 611", "HotelURL": "/ShowUserReviews-g187514-d230841-Reviews-Tryp_Alcala_611-Madrid.html", "Price": "$65 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle Alcala 611 - 613</span>, <span class=\"locality\"><span property=\"v:postal-code\">28022</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "230841", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/db/4b/db4bbe685344bec00683fc27f71a71e52large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "london",
+      "Title": "\u201cGreat Hotel, Great service\u201d",
+      "Author": "ludelmonte",
+      "ReviewID": "UR137057284",
+      "Content": "time tryp alcala hotel located 10 mins bus airport barajas 3 minutes walking distance metro city center 25 mins highly recommended clean swiming pool facilities altough available late service hotel special staff amazing friendly attentive feel welcome treat family we\u00b4ve met people thank",
+      "Date": "2012-08-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Denver, Colorado, USA",
+      "Title": "\u201cI wavered on the rating\u201d",
+      "Author": "noogs1",
+      "ReviewID": "UR125428268",
+      "Content": "bit bad metro clean nice beds comfy holiday inn express breakfast nice outstanding avoids staff nice helpful maid excellent comfortable sleep wifi close access buses metro fine stay stay average 4",
+      "Date": "2012-03-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Portsmouth",
+      "Title": "\u201cValue for money\u201d",
+      "Author": "Sibinsanks",
+      "ReviewID": "UR118441837",
+      "Content": "stayed hotel wife wouldnt class 4 upper 3 carpets attention neat clean 3 cheers hotel staff friendly helpful requested change double 2 separate single beds double bed outside late night hotel organised change changed luggage decent size swimming pool highlight massive breakfast feats breakfast endless sit eating variety day bit person remember sign mas card hotel system breakfast half price internet free otherwise charge internet \u00a32000 day metro station 5 minutes walk tickets granvia madrid central 150 euro journey 25 30 mins experience definitely",
+      "Date": "2011-09-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "seattle",
+      "Title": "\u201cGood place though not 4 star\u201d",
+      "Author": "drtravels",
+      "ReviewID": "UR98086219",
+      "Content": "hotel via priceline essentially cost hotel website hoping hilton ive hilton superior hotel category prompt email response easy access via bus 200 airport close metro decent neighborhood local eat 30 minutes airport via staff friendly helpful internet 12 eurosday employee advised joined free hotel program free decent rates online bad average size quality intermittent tv internet reception wouldnt priceline mad airport hotels consider booking hotel directly id star level",
+      "Date": "2011-02-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "London, UK",
+      "Title": "\u201cNice room, nice breakfast, nice pool!\u201d",
+      "Author": "bizzykrizzy",
+      "ReviewID": "UR88492677",
+      "Content": "checkin friendly helpful receptionist size air conditioning facing busy street widows noisy bathroom hair dryer magnifying mirror plenty hot water time day nice samples toiletries clean bed excellent mattress soft tv adequate range bbc cnn channels day checkout kindly extended time 12 3pm convenient rate hotel real 4 star possibly lower 3 stars breakfast truly exceptional presentation taste offer wonderful range juices breads cheeses meats croissants thick creamy yogurt delicious cakes aug 2010 buffet cost 8\u20ac person worth pool huge adequate life guard duty free towels nice sun loungers enjoyed topping tan alternating refreshing dips pool recommend hotel relaxing comfortable stay city centre travelling forth wear nearest underground station called 5 min foot hotel line 5 goes straight heart town stop called callao 25 min trains frequent clean safe journey cost 1\u20ac deals booklet 10 tickets 1 2 day tickets trains run 130am immediate vicinity theres look facilities cafes real restaurant found supermarket buy bottles water etc served buses underground youre coming airport bus 204 terminal 4 200 frequent 101 frequent terminals 1 2 3 buses 10min quicker taking underground cost 1\u20ac day ticket zone return calle de alcala extremely road goes heart city centre recommend trying walk",
+      "Date": "2010-11-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "zpeck@cox.net",
+      "Title": "\u201cNice\u201d",
+      "Author": "Tiayolanda",
+      "ReviewID": "UR86112862",
+      "Content": "madrid hotel close airport afford comfortable quiet nights alcala 611 hotel clean modern close airport reach barajas airport 10 min 20 euros bit pricey night flight dependable hotel deliver clean quiet front desk cab morning wake call youll little pricey internet internet cafe street cheapo",
+      "Date": "2010-11-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "jena",
+      "Title": "\u201cstandard hotel - close to airport\u201d",
+      "Author": "peachy_marc",
+      "ReviewID": "UR74744801",
+      "Content": "wife booked tryp 611 priceline reasonable price hotel unfortunately doesn\u00b4t offer complimentary shuttle decided public bus wasn\u00b4t easy location alright hotel close metro station clean bathroom standard bathtub european 4 star hotel hotel doesn\u00b4t offer free complimentary wifi sucks bed mediocre 2 single beds pushed didn\u00b4t double beds nonsmoking ok experience service fair priceline price",
+      "Date": "2010-08-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Tryp Alcala 611",
+    "HotelURL": "/ShowUserReviews-g187514-d230841-Reviews-Tryp_Alcala_611-Madrid.html",
+    "Price": "$65 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle Alcala 611 - 613</span>, <span class=\"locality\"><span property=\"v:postal-code\">28022</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "230841",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/db/4b/db4bbe685344bec00683fc27f71a71e52large.jpg"
+  }
+}

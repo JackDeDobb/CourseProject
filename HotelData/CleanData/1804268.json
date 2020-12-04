@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Warsaw, Poland", "Title": "\u201ccosy, well situated in between transit points and area full of affordable restaurants\u201d", "Author": "Agata H", "ReviewID": "UR122837181", "Content": "welllocated historical district easy access tram sbahn choice affordable pubs clubs restaurants nearby feel citys buzzling offer limited space luggage travel light hotel previously mentioned clean fresh spotless bedsheets facilities book admire beautiful horizon main disadvantages lack proper barpub inside lack hair instead offered 24hour free connection internet common problematic guests party spur moment lobby cater", "Date": "2012-01-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Gloucester, United Kingdom", "Title": "\u201cExcellent budget option\u201d", "Author": "chalk_11", "ReviewID": "UR121696954", "Content": "stayed 3 nights december cheap flighthotel deal modern clean mentioned aimed travellers frills towels provided compares favourably budget hotels terms cleanliness fittings beds little hard found comfortable internet available lobby pay wifi staff helpful spoke english didnt try breakfast looked decent terms restaurants immediate hotel located tram line minutes walk ubahn station 15 mins walk consider central berlin pretty safe dark overall option stay berlin budget spend time exploring city evening sleep pleasant comfortable stay", "Date": "2011-12-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Hamar, Norway", "Title": "\u201cGood - not perfect\u201d", "Author": "Sualk99", "ReviewID": "UR119684258", "Content": "hotel 4 youth am alternative look cheap hotel atmosphere relaxed bathrom breakfast 5 euro extra hotel building clean nice hotel litle bit noicy breakfast biggest concern beds hard uncomfortable fix beds wouldnt recommending hotel 4 youth am", "Date": "2011-10-24 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Hove, United Kingdom", "Title": "\u201chostel, not hotel\u201d", "Author": "likeanoilwell", "ReviewID": "UR118607139", "Content": "ok stayed berlin cant write comparative review indeed hostel hotel difference unless stay hotel plus location sightseeing amazing sunday market stadium north mitte superb doorstep zone surprisingly lacking stay simply hotel spotless provide bare minimum tv kettle cups added doors larger parties fine werent noise assuming friend hugely annoying staff im sorry contrary reviewers found grumpy unwilling acknowledge desk incapable fulfilling basic requests maybe bad time taxi booked night 11pm cups tea counter didnt drinking own jokingly oh sorry dont worry sighed shrugged shoulders proceeded tea pouring hot water cup grumpy teenager barcafe advertised 24 hour service thats expected accused breakfast staff didnt believe guest pretended cheeky chance staff believed practically demanded pay 40 euros 20 person steep stood ground air time indifference visitors werent welcomed processed didnt hello goodbye trip fine basic hostel doing disservice charges fair hotel rates calls boot", "Date": "2011-09-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Stoke-on-Trent, United Kingdom", "Title": "\u201cGreat hotel in a good location!!\u201d", "Author": "hoggy_167", "ReviewID": "UR92063899", "Content": "stayed girlfriend 201011 3 nights firstly staff helpfull pleasant willing help clean bright bar reception drinks snacks wish clean fresh ideal short break downside towels changed 4 days am request change 2 days issue strasse ubahn station 5min walk links straight alexanderplatz 3 stops 5mins hotel 5 mins walking distance restaraunts 510mins nice bars overall concerned location hotel arrived realise berlin directions central breakfast service stay", "Date": "2011-01-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Edinburgh, United Kingdom", "Title": "\u201cSuch a clean hotel in a great location\u201d", "Author": "Jennamac", "ReviewID": "UR79048475", "Content": "recently travelled berlin couple city break hotel 4 youth perfect affordable choice accommodation base exploring city day night hotel brand kept spotlessly clean warm double bathroom bath power shower lots hot water windows bar bustling atmosphere night nights underground 3 stops centre east berlin spent break centre taxis easy night cost 8 euros hotel streets 2 minute walk hotel amazing little bars restaurants continental breakfast especially baskets freshly baked rolls definately stay return berlin clean location nice mix people couples families children", "Date": "2010-09-10 00:00:00"}], "HotelInfo": {"Name": "Hotel 4 Youth am Mauerpark", "HotelURL": "/ShowUserReviews-g187323-d1804268-Reviews-Hotel_4_Youth_am_Mauerpark-Berlin.html", "Price": "$67 - $180*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Bernauer Strasse 45-46</span>, <span class=\"locality\"><span property=\"v:postal-code\">10435</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "1804268", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e7/a5/e7a5658f71488027db584eac91fb4cc96large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Warsaw, Poland",
+      "Title": "\u201ccosy, well situated in between transit points and area full of affordable restaurants\u201d",
+      "Author": "Agata H",
+      "ReviewID": "UR122837181",
+      "Content": "welllocated historical district easy access tram sbahn choice affordable pubs clubs restaurants nearby feel citys buzzling offer limited space luggage travel light hotel previously mentioned clean fresh spotless bedsheets facilities book admire beautiful horizon main disadvantages lack proper barpub inside lack hair instead offered 24hour free connection internet common problematic guests party spur moment lobby cater",
+      "Date": "2012-01-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Gloucester, United Kingdom",
+      "Title": "\u201cExcellent budget option\u201d",
+      "Author": "chalk_11",
+      "ReviewID": "UR121696954",
+      "Content": "stayed 3 nights december cheap flighthotel deal modern clean mentioned aimed travellers frills towels provided compares favourably budget hotels terms cleanliness fittings beds little hard found comfortable internet available lobby pay wifi staff helpful spoke english didnt try breakfast looked decent terms restaurants immediate hotel located tram line minutes walk ubahn station 15 mins walk consider central berlin pretty safe dark overall option stay berlin budget spend time exploring city evening sleep pleasant comfortable stay",
+      "Date": "2011-12-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Hamar, Norway",
+      "Title": "\u201cGood - not perfect\u201d",
+      "Author": "Sualk99",
+      "ReviewID": "UR119684258",
+      "Content": "hotel 4 youth am alternative look cheap hotel atmosphere relaxed bathrom breakfast 5 euro extra hotel building clean nice hotel litle bit noicy breakfast biggest concern beds hard uncomfortable fix beds wouldnt recommending hotel 4 youth am",
+      "Date": "2011-10-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Hove, United Kingdom",
+      "Title": "\u201chostel, not hotel\u201d",
+      "Author": "likeanoilwell",
+      "ReviewID": "UR118607139",
+      "Content": "ok stayed berlin cant write comparative review indeed hostel hotel difference unless stay hotel plus location sightseeing amazing sunday market stadium north mitte superb doorstep zone surprisingly lacking stay simply hotel spotless provide bare minimum tv kettle cups added doors larger parties fine werent noise assuming friend hugely annoying staff im sorry contrary reviewers found grumpy unwilling acknowledge desk incapable fulfilling basic requests maybe bad time taxi booked night 11pm cups tea counter didnt drinking own jokingly oh sorry dont worry sighed shrugged shoulders proceeded tea pouring hot water cup grumpy teenager barcafe advertised 24 hour service thats expected accused breakfast staff didnt believe guest pretended cheeky chance staff believed practically demanded pay 40 euros 20 person steep stood ground air time indifference visitors werent welcomed processed didnt hello goodbye trip fine basic hostel doing disservice charges fair hotel rates calls boot",
+      "Date": "2011-09-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Stoke-on-Trent, United Kingdom",
+      "Title": "\u201cGreat hotel in a good location!!\u201d",
+      "Author": "hoggy_167",
+      "ReviewID": "UR92063899",
+      "Content": "stayed girlfriend 201011 3 nights firstly staff helpfull pleasant willing help clean bright bar reception drinks snacks wish clean fresh ideal short break downside towels changed 4 days am request change 2 days issue strasse ubahn station 5min walk links straight alexanderplatz 3 stops 5mins hotel 5 mins walking distance restaraunts 510mins nice bars overall concerned location hotel arrived realise berlin directions central breakfast service stay",
+      "Date": "2011-01-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Edinburgh, United Kingdom",
+      "Title": "\u201cSuch a clean hotel in a great location\u201d",
+      "Author": "Jennamac",
+      "ReviewID": "UR79048475",
+      "Content": "recently travelled berlin couple city break hotel 4 youth perfect affordable choice accommodation base exploring city day night hotel brand kept spotlessly clean warm double bathroom bath power shower lots hot water windows bar bustling atmosphere night nights underground 3 stops centre east berlin spent break centre taxis easy night cost 8 euros hotel streets 2 minute walk hotel amazing little bars restaurants continental breakfast especially baskets freshly baked rolls definately stay return berlin clean location nice mix people couples families children",
+      "Date": "2010-09-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel 4 Youth am Mauerpark",
+    "HotelURL": "/ShowUserReviews-g187323-d1804268-Reviews-Hotel_4_Youth_am_Mauerpark-Berlin.html",
+    "Price": "$67 - $180*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Bernauer Strasse 45-46</span>, <span class=\"locality\"><span property=\"v:postal-code\">10435</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "1804268",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e7/a5/e7a5658f71488027db584eac91fb4cc96large.jpg"
+  }
+}

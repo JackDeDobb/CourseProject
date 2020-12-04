@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Greater Noida, India", "Title": "\u201cGood Location, Nice rooms\u201d", "Author": "PrashanthBP", "ReviewID": "UR124464886", "Content": "hotel ibis montparnasse 15 mins walk gare montparnasse workable pretty secure hotel buzzing activity staff pretty helpful help arranging taxi etc hotels wifi pretty fast hotel ibis located near alesia metro station alesia connected major locations paris especially shopping main attractions paris breakfast served hotel variety assorted breads cheese meat coffee etc hotel", "Date": "2012-02-12 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Trieste", "Title": "\u201cNot so good and too expensive\u201d", "Author": "YouBeeTs", "ReviewID": "UR123050245", "Content": "hotel common space hall nonexisting ok standard ibis clean refurbishing hotel plaster walls peels quality variety breakfast below ibis average nevertheless expensive average 100 euros night ibis alesia 500 meters spacious kept closer subway serves breakfast cheaper plus friendly staff free wifi slow", "Date": "2012-01-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Malta", "Title": "\u201cPleasant surprise\u201d", "Author": "NevilleCalleja", "ReviewID": "UR121704291", "Content": "hotel pleasant surprise comfortable staff courteous addition breakfast selection cheeses pastries etc youd typically expect ibis elsewhere addition free wifi lobby fifteen minutes locks theres competition stop logging", "Date": "2011-12-13 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "aix en provence", "Title": "\u201cYOU GET WHAT YOU PAY FOR....\u201d", "Author": "alx1234 Posted by an Accorhotels.com traveler", "ReviewID": "UR114954251", "Content": "hotel clean value 20 deal location nearest metro station impossible park hotel car park car otherwise round blocks hours finding space otherwise public car park mn price standard ibis size", "Date": "2011-07-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "manila", "Title": "\u201csmall but with the kindest and helpful reception staff I encoutered in Europe\u201d", "Author": "angeramos", "ReviewID": "UR87758758", "Content": "hotel indeed compared ibis hotels asia europe adequate 2 people rate euro night 2 night stay promo reason complain hotel free internet lobby breakfast 750 euros satisfying hotel efficiency reception staff particularly assigned evening nov 5 friend brought food eat 6 reception staff id eat breakfast pay whatever charge pay allow tables breakfast free offered plates utensils offered clean charging told leave table cleaned morning therethe following day check 700 breakfast scheduled breakfast time guy reception preparing stay breakfast coffee await start scheduled breakfast time agreed brought food accommodate 5 hotels paris experienced treatment thank muchi paris surely stay ibis paris maine montparnasse", "Date": "2010-11-21 00:00:00"}], "HotelInfo": {"Name": "Ibis Paris Maine Montparnasse 14eme", "HotelURL": "/ShowUserReviews-g187147-d259342-Reviews-Ibis_Paris_Maine_Montparnasse_14eme-Paris_Ile_de_France.html", "Price": "$119 - $147*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">160, rue de Chateau</span> | <span class=\"extended-address\">14th Arr.</span>, <span class=\"locality\"><span property=\"v:postal-code\">75014</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>", "HotelID": "259342", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fd/1c/fd1c9b87ccf9c319ee24377ae413f87a1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Greater Noida, India",
+      "Title": "\u201cGood Location, Nice rooms\u201d",
+      "Author": "PrashanthBP",
+      "ReviewID": "UR124464886",
+      "Content": "hotel ibis montparnasse 15 mins walk gare montparnasse workable pretty secure hotel buzzing activity staff pretty helpful help arranging taxi etc hotels wifi pretty fast hotel ibis located near alesia metro station alesia connected major locations paris especially shopping main attractions paris breakfast served hotel variety assorted breads cheese meat coffee etc hotel",
+      "Date": "2012-02-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Trieste",
+      "Title": "\u201cNot so good and too expensive\u201d",
+      "Author": "YouBeeTs",
+      "ReviewID": "UR123050245",
+      "Content": "hotel common space hall nonexisting ok standard ibis clean refurbishing hotel plaster walls peels quality variety breakfast below ibis average nevertheless expensive average 100 euros night ibis alesia 500 meters spacious kept closer subway serves breakfast cheaper plus friendly staff free wifi slow",
+      "Date": "2012-01-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Malta",
+      "Title": "\u201cPleasant surprise\u201d",
+      "Author": "NevilleCalleja",
+      "ReviewID": "UR121704291",
+      "Content": "hotel pleasant surprise comfortable staff courteous addition breakfast selection cheeses pastries etc youd typically expect ibis elsewhere addition free wifi lobby fifteen minutes locks theres competition stop logging",
+      "Date": "2011-12-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "aix en provence",
+      "Title": "\u201cYOU GET WHAT YOU PAY FOR....\u201d",
+      "Author": "alx1234 Posted by an Accorhotels.com traveler",
+      "ReviewID": "UR114954251",
+      "Content": "hotel clean value 20 deal location nearest metro station impossible park hotel car park car otherwise round blocks hours finding space otherwise public car park mn price standard ibis size",
+      "Date": "2011-07-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "manila",
+      "Title": "\u201csmall but with the kindest and helpful reception staff I encoutered in Europe\u201d",
+      "Author": "angeramos",
+      "ReviewID": "UR87758758",
+      "Content": "hotel indeed compared ibis hotels asia europe adequate 2 people rate euro night 2 night stay promo reason complain hotel free internet lobby breakfast 750 euros satisfying hotel efficiency reception staff particularly assigned evening nov 5 friend brought food eat 6 reception staff id eat breakfast pay whatever charge pay allow tables breakfast free offered plates utensils offered clean charging told leave table cleaned morning therethe following day check 700 breakfast scheduled breakfast time guy reception preparing stay breakfast coffee await start scheduled breakfast time agreed brought food accommodate 5 hotels paris experienced treatment thank muchi paris surely stay ibis paris maine montparnasse",
+      "Date": "2010-11-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Ibis Paris Maine Montparnasse 14eme",
+    "HotelURL": "/ShowUserReviews-g187147-d259342-Reviews-Ibis_Paris_Maine_Montparnasse_14eme-Paris_Ile_de_France.html",
+    "Price": "$119 - $147*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">160, rue de Chateau</span> | <span class=\"extended-address\">14th Arr.</span>, <span class=\"locality\"><span property=\"v:postal-code\">75014</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>",
+    "HotelID": "259342",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/fd/1c/fd1c9b87ccf9c319ee24377ae413f87a1large.jpg"
+  }
+}

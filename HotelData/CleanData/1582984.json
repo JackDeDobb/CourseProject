@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Dublin, Ireland", "Title": "\u201cGood value\u201d", "Author": "NorthsideCrew", "ReviewID": "UR87877605", "Content": "booked family consisted bed larger double bed single bed bath bath tub overall clean tidy nice feel carpet stained thats dont mind else clean double bed consisted single beds bit downer double bed constantly gap matter pushed beds bath tub shower curtains missing shower bath wet towels dry floor family converted 2 bed flat hotel didnt mind privacy hotel service staff friendly efficient location superb due train system outside hotel lee hotel chinese recommend 3 euro kebab corner left worth recommending plenty trains catch outside hotel head whatever restaurant proper dinner stayed 75 euro night definitely return future", "Date": "2010-11-22 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Thessaloniki", "Title": "\u201cGood choice\u201d", "Author": "DespoinaThessaloniki", "ReviewID": "UR77982397", "Content": "nice hotel metro station street alcoholics police feel safe close center hotel staff friendly direction information warm despite weather outside middle december clean", "Date": "2010-09-02 00:00:00"}], "HotelInfo": {"Name": "Hotel NOVA", "HotelURL": "/ShowUserReviews-g187323-d1582984-Reviews-Hotel_NOVA-Berlin.html", "Price": "$46 - $81*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Weitlingstrasse 15</span>, <span class=\"locality\"><span property=\"v:postal-code\">10317</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "1582984", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b0/09/b009f386db81c8b86fd1c33c25f532399large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dublin, Ireland",
+      "Title": "\u201cGood value\u201d",
+      "Author": "NorthsideCrew",
+      "ReviewID": "UR87877605",
+      "Content": "booked family consisted bed larger double bed single bed bath bath tub overall clean tidy nice feel carpet stained thats dont mind else clean double bed consisted single beds bit downer double bed constantly gap matter pushed beds bath tub shower curtains missing shower bath wet towels dry floor family converted 2 bed flat hotel didnt mind privacy hotel service staff friendly efficient location superb due train system outside hotel lee hotel chinese recommend 3 euro kebab corner left worth recommending plenty trains catch outside hotel head whatever restaurant proper dinner stayed 75 euro night definitely return future",
+      "Date": "2010-11-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Thessaloniki",
+      "Title": "\u201cGood choice\u201d",
+      "Author": "DespoinaThessaloniki",
+      "ReviewID": "UR77982397",
+      "Content": "nice hotel metro station street alcoholics police feel safe close center hotel staff friendly direction information warm despite weather outside middle december clean",
+      "Date": "2010-09-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel NOVA",
+    "HotelURL": "/ShowUserReviews-g187323-d1582984-Reviews-Hotel_NOVA-Berlin.html",
+    "Price": "$46 - $81*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Weitlingstrasse 15</span>, <span class=\"locality\"><span property=\"v:postal-code\">10317</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "1582984",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b0/09/b009f386db81c8b86fd1c33c25f532399large.jpg"
+  }
+}

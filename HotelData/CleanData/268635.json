@@ -1,1 +1,165 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Key West, FL", "Title": "\u201cNice!\u201d", "Author": "JM11traveler", "ReviewID": "UR136097934", "Content": "stayed quick overnight visit friend daytona beach hotel recently renovated features courtyard lobby guest nice comfortable flat screen tv clean front desk friendly personality guy bistro watching olympics helping guests found food bistro poor quality chips stale left days food item served exception drinks plain microwaved food hotel wouldnt mind staying", "Date": "2012-08-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "North DeKalb, Georgia, United States", "Title": "\u201cSuper Hotel We didnt want to leave!\u201d", "Author": "Ace P", "ReviewID": "UR127641614", "Content": "staying courtyard experience bathrooms perfect memory foam beds top cleaning customer service staff hip lobby restaurant starbucks awesome gym pool location nice guest nicer probably happy hotel stay courtyard marriott nice didnt care beach near mall hope future stays location location job", "Date": "2012-04-11 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Fort lauderdale, FL", "Title": "\u201cgreat location for attending a race!\u201d", "Author": "lablack", "ReviewID": "UR124958786", "Content": "stayed courtyard attending race daytona intl speedway queen suite roomy concerned close proximity airport heard noise shuttle runs hotel residence inn road helpful getting track definately stay clean staff friendly", "Date": "2012-02-21 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "CA", "Title": "\u201caverage courtyard\u201d", "Author": "birdieca", "ReviewID": "UR123460714", "Content": "courtyard near track hear noise track expected expected hear noise king 2 queens strange hotel hardly occupied night carpet spot", "Date": "2012-01-22 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Cornelius, North Carolina", "Title": "\u201cmodern hotel and amazing value\u201d", "Author": "tigermark82", "ReviewID": "UR122199190", "Content": "stayed visitng family christmas rate incredibly low busy time stayed times past renovated entire hotel stayed looks staff friendly clean rare sometimes dont care staying beach wouldnt staying else", "Date": "2011-12-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Lakeland, Florida, United States", "Title": "\u201cGreat Stay!\u201d", "Author": "Kathy S", "ReviewID": "UR121061257", "Content": "stayed night attending turkey rod run thanksgiving stay staff friendly helpful cleanest hotel pleasure staying elses bed send edge creeped beds clean slept baby thanks courtyard doing job", "Date": "2011-11-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Chicago, Illinois", "Title": "\u201cVery good indeed\u201d", "Author": "Pat A", "ReviewID": "UR119145596", "Content": "clean attractive crisp look service attentive pleasant food definitely choose recommend difficulty getting boarding passes print computers lobby enjoyable stay thanks marriott", "Date": "2011-10-10 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Auburn, Alabama", "Title": "\u201cOkay hotel - but not close to the beach\u201d", "Author": "keb1234", "ReviewID": "UR102280037", "Content": "stayed 3 nights hotel airport hear planes sometimes day didnt bother night able sleep fine able pool weather crappy time looks decent recently updated furniture hotel convenient daytona motor speedway 6 miles beach typical courtyards 5 star bottom barrel fitness center left desired cardio machines multifunction weight machine free weights tv parking free", "Date": "2011-03-31 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Goose Creek, South Carolina", "Title": "\u201cVery convenient location with decent amenities.\u201d", "Author": "EddieInIndy", "ReviewID": "UR62897103", "Content": "hotel literally daytona beach airport beach takes 5 short minutes car worlds husband particularly enjoyed bar hotel dont usually limited service hotel restaurant serve hot breakfast morning didnt partake dont nice pool hot tub outdoors benefit updates overall nice hotel relaxing weekend vacation", "Date": "2010-04-30 00:00:00"}], "HotelInfo": {"Name": "Courtyard by Marriott Daytona Beach", "HotelURL": "/ShowUserReviews-g34172-d268635-Reviews-Courtyard_by_Marriott_Daytona_Beach-Daytona_Beach_Florida.html", "Price": "$80 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1605 Richard Petty Blvd.</span>, <span class=\"locality\"><span property=\"v:locality\">Daytona Beach</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">32114</span></span> </span></span></address>", "HotelID": "268635", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/45/3c/453c17ae06ac7003dc55af96184028418large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Key West, FL",
+      "Title": "\u201cNice!\u201d",
+      "Author": "JM11traveler",
+      "ReviewID": "UR136097934",
+      "Content": "stayed quick overnight visit friend daytona beach hotel recently renovated features courtyard lobby guest nice comfortable flat screen tv clean front desk friendly personality guy bistro watching olympics helping guests found food bistro poor quality chips stale left days food item served exception drinks plain microwaved food hotel wouldnt mind staying",
+      "Date": "2012-08-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "North DeKalb, Georgia, United States",
+      "Title": "\u201cSuper Hotel We didnt want to leave!\u201d",
+      "Author": "Ace P",
+      "ReviewID": "UR127641614",
+      "Content": "staying courtyard experience bathrooms perfect memory foam beds top cleaning customer service staff hip lobby restaurant starbucks awesome gym pool location nice guest nicer probably happy hotel stay courtyard marriott nice didnt care beach near mall hope future stays location location job",
+      "Date": "2012-04-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Fort lauderdale, FL",
+      "Title": "\u201cgreat location for attending a race!\u201d",
+      "Author": "lablack",
+      "ReviewID": "UR124958786",
+      "Content": "stayed courtyard attending race daytona intl speedway queen suite roomy concerned close proximity airport heard noise shuttle runs hotel residence inn road helpful getting track definately stay clean staff friendly",
+      "Date": "2012-02-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "CA",
+      "Title": "\u201caverage courtyard\u201d",
+      "Author": "birdieca",
+      "ReviewID": "UR123460714",
+      "Content": "courtyard near track hear noise track expected expected hear noise king 2 queens strange hotel hardly occupied night carpet spot",
+      "Date": "2012-01-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Cornelius, North Carolina",
+      "Title": "\u201cmodern hotel and amazing value\u201d",
+      "Author": "tigermark82",
+      "ReviewID": "UR122199190",
+      "Content": "stayed visitng family christmas rate incredibly low busy time stayed times past renovated entire hotel stayed looks staff friendly clean rare sometimes dont care staying beach wouldnt staying else",
+      "Date": "2011-12-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Lakeland, Florida, United States",
+      "Title": "\u201cGreat Stay!\u201d",
+      "Author": "Kathy S",
+      "ReviewID": "UR121061257",
+      "Content": "stayed night attending turkey rod run thanksgiving stay staff friendly helpful cleanest hotel pleasure staying elses bed send edge creeped beds clean slept baby thanks courtyard doing job",
+      "Date": "2011-11-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Chicago, Illinois",
+      "Title": "\u201cVery good indeed\u201d",
+      "Author": "Pat A",
+      "ReviewID": "UR119145596",
+      "Content": "clean attractive crisp look service attentive pleasant food definitely choose recommend difficulty getting boarding passes print computers lobby enjoyable stay thanks marriott",
+      "Date": "2011-10-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Auburn, Alabama",
+      "Title": "\u201cOkay hotel - but not close to the beach\u201d",
+      "Author": "keb1234",
+      "ReviewID": "UR102280037",
+      "Content": "stayed 3 nights hotel airport hear planes sometimes day didnt bother night able sleep fine able pool weather crappy time looks decent recently updated furniture hotel convenient daytona motor speedway 6 miles beach typical courtyards 5 star bottom barrel fitness center left desired cardio machines multifunction weight machine free weights tv parking free",
+      "Date": "2011-03-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Goose Creek, South Carolina",
+      "Title": "\u201cVery convenient location with decent amenities.\u201d",
+      "Author": "EddieInIndy",
+      "ReviewID": "UR62897103",
+      "Content": "hotel literally daytona beach airport beach takes 5 short minutes car worlds husband particularly enjoyed bar hotel dont usually limited service hotel restaurant serve hot breakfast morning didnt partake dont nice pool hot tub outdoors benefit updates overall nice hotel relaxing weekend vacation",
+      "Date": "2010-04-30 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Courtyard by Marriott Daytona Beach",
+    "HotelURL": "/ShowUserReviews-g34172-d268635-Reviews-Courtyard_by_Marriott_Daytona_Beach-Daytona_Beach_Florida.html",
+    "Price": "$80 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1605 Richard Petty Blvd.</span>, <span class=\"locality\"><span property=\"v:locality\">Daytona Beach</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">32114</span></span> </span></span></address>",
+    "HotelID": "268635",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/45/3c/453c17ae06ac7003dc55af96184028418large.jpg"
+  }
+}

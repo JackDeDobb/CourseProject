@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Monchengladbach, Germany", "Title": "\u201cDiscount service for discount price\u201d", "Author": "HecBarca", "ReviewID": "UR122653300", "Content": "stayed total 5 days nh la clean hotel comfy lack drawers cupboards located outskirts barcelona takes ten minute stroll subway half hour las ramblas red line morning liked theres shopping mall hotel caters apparel food entertainment fortunately price stay trigger choose nh la unfortunately friendliness service wasnt worth neither 3 nor hostel ranking broken flush restroom wasnt appropriately fixed twice day left town announcing evening solved reception exactly plumber staff fixed day fixed wasnt arguing departure eg free breakfast functioning restroom basic necessity free drink hotel bar late checkout half hour discussion notice staff duty offended didnt seriously werent regular customers motto cust err employee advice dont breakfast overpriced instead shopping center dont necessarily hotel parking park street free 1h wlan codes reception front view concrete walls exit ramps", "Date": "2012-01-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 1.0}, "AuthorLocation": "Seattle, Washington", "Title": "\u201cMay be good for business, but not great for tourists\u201d", "Author": "fruitfly85", "ReviewID": "UR66356850", "Content": "friend barcelona madrid trip didnt luck airport discover planned hotel 80 km barcelona quickly else late notice nh minute couldnt rate 170 euros night terrible pay cancellation fee hotel wasnt fault lied online location front desk staff friendly helpful food hotel wasnt terrible simply private check email werent travelling laptops computer internet available front desk nice extended try mothers send money pay arent glad arent recent college graduate anymore location hotel ideal tourists 9 stops fast efficient metro city center 9 stops lot youre trying sangria night neighborhood feel little sketchy real danger read couple reviews mentioned wasnt safe women am woman fine barcelona extremely courteous women snarky sometimes absolute rudeness huge mall hotel makes lot teenagers running nearby convenient buy conditioner hotels spain wont provide excellent restaurants walking distance explore streets spacious nice view tower mile beds comfortable air conditioner wonderfully tv british programming found throughout spanish travels tell weeks television couldnt understand maybe 100 words little cnn coverage welcome unfortunately allergic cleaning products air fresheners sleeping cold marble floor bathroom sound uncomfortable actually slept pretty considering circumstances bathroom nice tub soak bidet quiet toilet time look closer lastminute acceptable", "Date": "2010-06-03 00:00:00"}], "HotelInfo": {"Name": "NH La Maquinista", "HotelURL": "/ShowUserReviews-g187497-d446865-Reviews-NH_La_Maquinista-Barcelona_Catalonia.html", "Price": "$79 - $140*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Carrer De Sao Paulo, De 33-3</span>, <span class=\"locality\"><span property=\"v:postal-code\">08030</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "446865", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/04/10/04101b107fb94c652f972b4c4206f7b29large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Monchengladbach, Germany",
+      "Title": "\u201cDiscount service for discount price\u201d",
+      "Author": "HecBarca",
+      "ReviewID": "UR122653300",
+      "Content": "stayed total 5 days nh la clean hotel comfy lack drawers cupboards located outskirts barcelona takes ten minute stroll subway half hour las ramblas red line morning liked theres shopping mall hotel caters apparel food entertainment fortunately price stay trigger choose nh la unfortunately friendliness service wasnt worth neither 3 nor hostel ranking broken flush restroom wasnt appropriately fixed twice day left town announcing evening solved reception exactly plumber staff fixed day fixed wasnt arguing departure eg free breakfast functioning restroom basic necessity free drink hotel bar late checkout half hour discussion notice staff duty offended didnt seriously werent regular customers motto cust err employee advice dont breakfast overpriced instead shopping center dont necessarily hotel parking park street free 1h wlan codes reception front view concrete walls exit ramps",
+      "Date": "2012-01-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Seattle, Washington",
+      "Title": "\u201cMay be good for business, but not great for tourists\u201d",
+      "Author": "fruitfly85",
+      "ReviewID": "UR66356850",
+      "Content": "friend barcelona madrid trip didnt luck airport discover planned hotel 80 km barcelona quickly else late notice nh minute couldnt rate 170 euros night terrible pay cancellation fee hotel wasnt fault lied online location front desk staff friendly helpful food hotel wasnt terrible simply private check email werent travelling laptops computer internet available front desk nice extended try mothers send money pay arent glad arent recent college graduate anymore location hotel ideal tourists 9 stops fast efficient metro city center 9 stops lot youre trying sangria night neighborhood feel little sketchy real danger read couple reviews mentioned wasnt safe women am woman fine barcelona extremely courteous women snarky sometimes absolute rudeness huge mall hotel makes lot teenagers running nearby convenient buy conditioner hotels spain wont provide excellent restaurants walking distance explore streets spacious nice view tower mile beds comfortable air conditioner wonderfully tv british programming found throughout spanish travels tell weeks television couldnt understand maybe 100 words little cnn coverage welcome unfortunately allergic cleaning products air fresheners sleeping cold marble floor bathroom sound uncomfortable actually slept pretty considering circumstances bathroom nice tub soak bidet quiet toilet time look closer lastminute acceptable",
+      "Date": "2010-06-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "NH La Maquinista",
+    "HotelURL": "/ShowUserReviews-g187497-d446865-Reviews-NH_La_Maquinista-Barcelona_Catalonia.html",
+    "Price": "$79 - $140*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Carrer De Sao Paulo, De 33-3</span>, <span class=\"locality\"><span property=\"v:postal-code\">08030</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "446865",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/04/10/04101b107fb94c652f972b4c4206f7b29large.jpg"
+  }
+}

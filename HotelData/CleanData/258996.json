@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Montreal", "Title": "\u201cA decent stay\u201d", "Author": "Jeroen_K", "ReviewID": "UR127950553", "Content": "recently stayed hotel student tour hotels tour exterior lobby nicer nevertheless past quirky decor colours pastel breath mints clean comfortable bathroom particular recent renovation desk staff extremely friendly helpful colourful breakfast provided adequate coffee excellent pergola basic accommodation", "Date": "2012-04-15 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Israel", "Title": "\u201cclean hotel in residential area, friendly staff\u201d", "Author": "MichalM12", "ReviewID": "UR119213623", "Content": "city hotel residential rome spacious loo close shower am 52 hotel doing construction garden reserve staff incredibly friendly quieter construction begins 700 pack returned found moved larger indeed quieter shower bathtub bathroom spacious theres wifi reception breakfast italian pastry selection cereals machines provide coffee beware orange juice regular oranges blood oranges orange drink doubt seen real oranges busses centre termini train station corner lovely restaurant road offers pizza grille meat dont miss", "Date": "2011-10-12 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Lancaster, Pennsylvania", "Title": "\u201cweek in rome\u201d", "Author": "aaron1963", "ReviewID": "UR108267628", "Content": "stayed wife la pergola hotel 5 nights stay rome staff friendly helpful reviewers commented european size clean linen changed regularly towels changed daily nice breakfast breakfast morning varied plentiful cereals yoghurts fruit masses cakes croissants staff friendly helpful free conner lobby free wi fi restaurant opposite road hotel 1520 minutes depending time day travel bus centre rome bus 80 express line piazza venezia 38 main station enjoyed stay la pergola hotel definitely", "Date": "2011-05-15 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "Edm", "Title": "\u201cNot recommend\u201d", "Author": "ynu", "ReviewID": "UR68309644", "Content": "45 minutes bus termini breakfast sick half day hear talking shuttle service hotel provided charged airport taxi charged tips driving 200 seat belt crazy customer service ok pay", "Date": "2010-06-22 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "Petawawa", "Title": "\u201cJust okay, very functional hotel.\u201d", "Author": "travelbugPetawawa", "ReviewID": "UR60479504", "Content": "hotel 12 euro cab ride town hour bus rush hour functional atmosphere accustomed internet available lobby hours limited 1030 pm check concierge noise breakfast hours etc beds pretty hard bathroom functional clean hairdryer bathroom breakfast fresh plain bread buns danishes butter jam juice coffee staff breakfast rarely look talked grocery store selection cheap expensive restaurants nearby grocery store neat adventure products including pastas oils wines fruits etc bakery coffee shop street tot alive evening locals hotel lovely little garden sheltered busy main street checked online pool couldnt clean hote friendly desk staff okay breakfast nice spot fairly quiet night spite main street", "Date": "2010-04-05 00:00:00"}], "HotelInfo": {"Name": "Hotel La Pergola", "HotelURL": "/ShowUserReviews-g187791-d258996-Reviews-Hotel_La_Pergola-Rome_Lazio.html", "Price": "$113 - $198*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Pratti Fiscali 55</span>, <span class=\"locality\"><span property=\"v:postal-code\">00141</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "258996", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/72/40/72400391f5316905652bf371333085ec1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Montreal",
+      "Title": "\u201cA decent stay\u201d",
+      "Author": "Jeroen_K",
+      "ReviewID": "UR127950553",
+      "Content": "recently stayed hotel student tour hotels tour exterior lobby nicer nevertheless past quirky decor colours pastel breath mints clean comfortable bathroom particular recent renovation desk staff extremely friendly helpful colourful breakfast provided adequate coffee excellent pergola basic accommodation",
+      "Date": "2012-04-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Israel",
+      "Title": "\u201cclean hotel in residential area, friendly staff\u201d",
+      "Author": "MichalM12",
+      "ReviewID": "UR119213623",
+      "Content": "city hotel residential rome spacious loo close shower am 52 hotel doing construction garden reserve staff incredibly friendly quieter construction begins 700 pack returned found moved larger indeed quieter shower bathtub bathroom spacious theres wifi reception breakfast italian pastry selection cereals machines provide coffee beware orange juice regular oranges blood oranges orange drink doubt seen real oranges busses centre termini train station corner lovely restaurant road offers pizza grille meat dont miss",
+      "Date": "2011-10-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Lancaster, Pennsylvania",
+      "Title": "\u201cweek in rome\u201d",
+      "Author": "aaron1963",
+      "ReviewID": "UR108267628",
+      "Content": "stayed wife la pergola hotel 5 nights stay rome staff friendly helpful reviewers commented european size clean linen changed regularly towels changed daily nice breakfast breakfast morning varied plentiful cereals yoghurts fruit masses cakes croissants staff friendly helpful free conner lobby free wi fi restaurant opposite road hotel 1520 minutes depending time day travel bus centre rome bus 80 express line piazza venezia 38 main station enjoyed stay la pergola hotel definitely",
+      "Date": "2011-05-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Edm",
+      "Title": "\u201cNot recommend\u201d",
+      "Author": "ynu",
+      "ReviewID": "UR68309644",
+      "Content": "45 minutes bus termini breakfast sick half day hear talking shuttle service hotel provided charged airport taxi charged tips driving 200 seat belt crazy customer service ok pay",
+      "Date": "2010-06-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Petawawa",
+      "Title": "\u201cJust okay, very functional hotel.\u201d",
+      "Author": "travelbugPetawawa",
+      "ReviewID": "UR60479504",
+      "Content": "hotel 12 euro cab ride town hour bus rush hour functional atmosphere accustomed internet available lobby hours limited 1030 pm check concierge noise breakfast hours etc beds pretty hard bathroom functional clean hairdryer bathroom breakfast fresh plain bread buns danishes butter jam juice coffee staff breakfast rarely look talked grocery store selection cheap expensive restaurants nearby grocery store neat adventure products including pastas oils wines fruits etc bakery coffee shop street tot alive evening locals hotel lovely little garden sheltered busy main street checked online pool couldnt clean hote friendly desk staff okay breakfast nice spot fairly quiet night spite main street",
+      "Date": "2010-04-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel La Pergola",
+    "HotelURL": "/ShowUserReviews-g187791-d258996-Reviews-Hotel_La_Pergola-Rome_Lazio.html",
+    "Price": "$113 - $198*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Pratti Fiscali 55</span>, <span class=\"locality\"><span property=\"v:postal-code\">00141</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "258996",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/72/40/72400391f5316905652bf371333085ec1large.jpg"
+  }
+}

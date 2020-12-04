@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Manchester, United Kingdom", "Title": "\u201cWell worth it!\u201d", "Author": "Christian S", "ReviewID": "UR127469003", "Content": "reading reviews wasnt expect wasnt dissapointed airport quoted 40 euros taxi hotel bus whopping 2 euros hotel main road ok arrival staff polite friendly spoke english reception clean tidy spacious bathroom nice clean free mini bar restocked daily bonus previous review money stolen answer safe deposit box reception free kept reception private didnt eat breakfast hotel decided eat road tapa tapa 2 breakfast usually tenner hotel 5 minute walk metro station advantage service superb 10 trip ticket 9 euros 3 stops la rambla stayed 4 nights bang centre town public transport makes easy cheap hassle", "Date": "2012-04-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Walnut Creek, California", "Title": "\u201cEasy Access from the airport\u201d", "Author": "HavingFunAbroad", "ReviewID": "UR126803646", "Content": "stayed night cruise found hotel nice staff spoke english greatly appreciated plus hotel close drop airport bus airport bus 3 drop offs front door hotel locked night hotel secure bad neighborhood staff accommodating held luggage day toured city clean hotels city king size bednot twins pushed finally appreciative free nonalcoholic drinks parched flying drank lot soda water", "Date": "2012-03-27 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Shropshire", "Title": "\u201cNot keen\u201d", "Author": "Shropshire_sun", "ReviewID": "UR123684564", "Content": "treated city break 30th stayed cant comment costs didnt pay impression wasnt priced budget hotel noises foyer hotels bathroom impressive huge walk wet quality fittings bathroom bedroom mattress existent didnt decent nights sleep break breakfast ok honest decent guest house attempt breakfast special location location location little whilst walked didnt rely taxis times thick wasnt graffiti street outside fair barcelona covered graffiti wouldnt recommend stay travelling barcelona wouldnt try booked", "Date": "2012-01-27 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433", "Title": "\u201c\u0423\u043a\u0440\u0430\u043b\u0438 \u0434\u0435\u043d\u044c\u0433\u0438! Money were stolen!\u201d", "Author": "Ekaterina-tolstaya", "ReviewID": "UR121634645", "Content": "money stolen wait till day simply cant help moment service told didnt reception paper write complaint manager call 3 days course called havent seen cynical unconcerned attitude", "Date": "2011-12-11 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Budapest, Hungary", "Title": "\u201cGreat hotel to stay at\u201d", "Author": "Patricia D", "ReviewID": "UR121355252", "Content": "travelled recently business barcelona selected hotel due convenient location fair visited close fair grounds airport takes max 30 min bus placa espagna downtown university placa catalunya reached foot 15 min 3 stops subway cafes pastry shops stone throw life easier spend 15 euros breakfast hotel staff nice minibar complimentary floor bedroom wooden nice loud slippers clean perfect person road summer warm weather sleep windows due noise feature free internet lobbybar visit barcelona fair stay", "Date": "2011-12-03 00:00:00"}], "HotelInfo": {"Name": "Hotel Vilamari", "HotelURL": "/ShowUserReviews-g187497-d265742-Reviews-Hotel_Vilamari-Barcelona_Catalonia.html", "Price": "$96 - $222*", "Address": "<div class=\"amenFloat\">", "HotelID": "265742", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b1/54/b154a5127c85631cedaf1649ee63d6a15large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Manchester, United Kingdom",
+      "Title": "\u201cWell worth it!\u201d",
+      "Author": "Christian S",
+      "ReviewID": "UR127469003",
+      "Content": "reading reviews wasnt expect wasnt dissapointed airport quoted 40 euros taxi hotel bus whopping 2 euros hotel main road ok arrival staff polite friendly spoke english reception clean tidy spacious bathroom nice clean free mini bar restocked daily bonus previous review money stolen answer safe deposit box reception free kept reception private didnt eat breakfast hotel decided eat road tapa tapa 2 breakfast usually tenner hotel 5 minute walk metro station advantage service superb 10 trip ticket 9 euros 3 stops la rambla stayed 4 nights bang centre town public transport makes easy cheap hassle",
+      "Date": "2012-04-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Walnut Creek, California",
+      "Title": "\u201cEasy Access from the airport\u201d",
+      "Author": "HavingFunAbroad",
+      "ReviewID": "UR126803646",
+      "Content": "stayed night cruise found hotel nice staff spoke english greatly appreciated plus hotel close drop airport bus airport bus 3 drop offs front door hotel locked night hotel secure bad neighborhood staff accommodating held luggage day toured city clean hotels city king size bednot twins pushed finally appreciative free nonalcoholic drinks parched flying drank lot soda water",
+      "Date": "2012-03-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Shropshire",
+      "Title": "\u201cNot keen\u201d",
+      "Author": "Shropshire_sun",
+      "ReviewID": "UR123684564",
+      "Content": "treated city break 30th stayed cant comment costs didnt pay impression wasnt priced budget hotel noises foyer hotels bathroom impressive huge walk wet quality fittings bathroom bedroom mattress existent didnt decent nights sleep break breakfast ok honest decent guest house attempt breakfast special location location location little whilst walked didnt rely taxis times thick wasnt graffiti street outside fair barcelona covered graffiti wouldnt recommend stay travelling barcelona wouldnt try booked",
+      "Date": "2012-01-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+      "Title": "\u201c\u0423\u043a\u0440\u0430\u043b\u0438 \u0434\u0435\u043d\u044c\u0433\u0438! Money were stolen!\u201d",
+      "Author": "Ekaterina-tolstaya",
+      "ReviewID": "UR121634645",
+      "Content": "money stolen wait till day simply cant help moment service told didnt reception paper write complaint manager call 3 days course called havent seen cynical unconcerned attitude",
+      "Date": "2011-12-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Budapest, Hungary",
+      "Title": "\u201cGreat hotel to stay at\u201d",
+      "Author": "Patricia D",
+      "ReviewID": "UR121355252",
+      "Content": "travelled recently business barcelona selected hotel due convenient location fair visited close fair grounds airport takes max 30 min bus placa espagna downtown university placa catalunya reached foot 15 min 3 stops subway cafes pastry shops stone throw life easier spend 15 euros breakfast hotel staff nice minibar complimentary floor bedroom wooden nice loud slippers clean perfect person road summer warm weather sleep windows due noise feature free internet lobbybar visit barcelona fair stay",
+      "Date": "2011-12-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Vilamari",
+    "HotelURL": "/ShowUserReviews-g187497-d265742-Reviews-Hotel_Vilamari-Barcelona_Catalonia.html",
+    "Price": "$96 - $222*",
+    "Address": "<div class=\"amenFloat\">",
+    "HotelID": "265742",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b1/54/b154a5127c85631cedaf1649ee63d6a15large.jpg"
+  }
+}

@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Moscow", "Title": "\u201cExcellent location\u201d", "Author": "Posted by an Easytobook.com traveler", "ReviewID": "UR128039016", "Content": "location hotel main advantage it\u2019s 100 supermarket 500 metro republica restaurant door main poi 30 min walking close via nazionale quiet i\u2019d recommend whos looking kitchen center rome", "Date": "2012-04-17 00:00:00"}], "HotelInfo": {"Name": "Soggiorno Europa", "HotelURL": "/ShowUserReviews-g187791-d633769-Reviews-Soggiorno_Europa-Rome_Lazio.html", "Price": "$92 - $223*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Genova 24</span>, <span class=\"locality\"><span property=\"v:postal-code\">00184</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "633769", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7a/00/7a00af366050eef0ed28e35ea8d10fc49large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Moscow",
+      "Title": "\u201cExcellent location\u201d",
+      "Author": "Posted by an Easytobook.com traveler",
+      "ReviewID": "UR128039016",
+      "Content": "location hotel main advantage it\u2019s 100 supermarket 500 metro republica restaurant door main poi 30 min walking close via nazionale quiet i\u2019d recommend whos looking kitchen center rome",
+      "Date": "2012-04-17 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Soggiorno Europa",
+    "HotelURL": "/ShowUserReviews-g187791-d633769-Reviews-Soggiorno_Europa-Rome_Lazio.html",
+    "Price": "$92 - $223*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Genova 24</span>, <span class=\"locality\"><span property=\"v:postal-code\">00184</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "633769",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7a/00/7a00af366050eef0ed28e35ea8d10fc49large.jpg"
+  }
+}

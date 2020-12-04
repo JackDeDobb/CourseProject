@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Nashport, Ohio, USA", "Title": "\u201cVery nice hotel for the price\u201d", "Author": "Posted by a La Quinta traveler", "ReviewID": "UR125754073", "Content": "stayed laquinta indianapolis near airport nice clean attractive liked granite sink window sill service desk person freindly helpful eat breakfast coffee liked otherwise nice hotel", "Date": "2012-03-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Kokomo, Indiana", "Title": "\u201cGreat for the price\u201d", "Author": "Rob2159", "ReviewID": "UR125737620", "Content": "nice motel reasonable price reason didnt 5 star pool hot tub doesnt matter consider property nice flat screen tvs clean bed furnishings free breakfest service location hard town check maps", "Date": "2012-03-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "naples,fl", "Title": "\u201cVery clean, great price\u201d", "Author": "merkins", "ReviewID": "UR121058253", "Content": "stayed 2 days weekend surroundings neat clean price weekend restaurant adjacent hotel meal library restaurant street friday night friends poor experience saturday night", "Date": "2011-11-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Shelbyville, Illinois", "Title": "\u201cWe stay here every time we fly!\u201d", "Author": "ALKite", "ReviewID": "UR112102930", "Content": "originally found la quinta park sleep fly website flying cruise loved weve 3 times staff friendly knowledgeable shuttle airport organized clean nice breakfast try restaurant door key discount", "Date": "2011-06-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "San Diego, California", "Title": "\u201cGreat for short stays\u201d", "Author": "kmrosenkoetter", "ReviewID": "UR96614938", "Content": "daughter flight arrive late decided stay indianapolis heading north price 39 night airport location wonderful hotel located business park okay restaurants markets lobby special common hallways pretty beat nice aveda bathroom products travelled week hotels hotel pillows hot shower water pressure free breakfast nice lots serve yourself choices stay bring food", "Date": "2011-02-14 00:00:00"}], "HotelInfo": {"Name": "La Quinta Inn Indianapolis Airport Executive Drive", "HotelURL": "/ShowUserReviews-g37209-d224793-Reviews-La_Quinta_Inn_Indianapolis_Airport_Executive_Drive-Indianapolis_Indiana.html", "Price": "$53 - $95*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2650 Executive Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46241 </span></span> </span> </span> </address>", "HotelID": "224793", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e3/90/e3907919503840d5bef35a133daf3f895large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Nashport, Ohio, USA",
+      "Title": "\u201cVery nice hotel for the price\u201d",
+      "Author": "Posted by a La Quinta traveler",
+      "ReviewID": "UR125754073",
+      "Content": "stayed laquinta indianapolis near airport nice clean attractive liked granite sink window sill service desk person freindly helpful eat breakfast coffee liked otherwise nice hotel",
+      "Date": "2012-03-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Kokomo, Indiana",
+      "Title": "\u201cGreat for the price\u201d",
+      "Author": "Rob2159",
+      "ReviewID": "UR125737620",
+      "Content": "nice motel reasonable price reason didnt 5 star pool hot tub doesnt matter consider property nice flat screen tvs clean bed furnishings free breakfest service location hard town check maps",
+      "Date": "2012-03-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "naples,fl",
+      "Title": "\u201cVery clean, great price\u201d",
+      "Author": "merkins",
+      "ReviewID": "UR121058253",
+      "Content": "stayed 2 days weekend surroundings neat clean price weekend restaurant adjacent hotel meal library restaurant street friday night friends poor experience saturday night",
+      "Date": "2011-11-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Shelbyville, Illinois",
+      "Title": "\u201cWe stay here every time we fly!\u201d",
+      "Author": "ALKite",
+      "ReviewID": "UR112102930",
+      "Content": "originally found la quinta park sleep fly website flying cruise loved weve 3 times staff friendly knowledgeable shuttle airport organized clean nice breakfast try restaurant door key discount",
+      "Date": "2011-06-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "San Diego, California",
+      "Title": "\u201cGreat for short stays\u201d",
+      "Author": "kmrosenkoetter",
+      "ReviewID": "UR96614938",
+      "Content": "daughter flight arrive late decided stay indianapolis heading north price 39 night airport location wonderful hotel located business park okay restaurants markets lobby special common hallways pretty beat nice aveda bathroom products travelled week hotels hotel pillows hot shower water pressure free breakfast nice lots serve yourself choices stay bring food",
+      "Date": "2011-02-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "La Quinta Inn Indianapolis Airport Executive Drive",
+    "HotelURL": "/ShowUserReviews-g37209-d224793-Reviews-La_Quinta_Inn_Indianapolis_Airport_Executive_Drive-Indianapolis_Indiana.html",
+    "Price": "$53 - $95*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2650 Executive Drive</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46241 </span></span> </span> </span> </address>",
+    "HotelID": "224793",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e3/90/e3907919503840d5bef35a133daf3f895large.jpg"
+  }
+}

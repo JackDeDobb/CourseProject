@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Dublin, Ireland", "Title": "\u201cNot bad for a hotel in Rome city centre\u201d", "Author": "scorpiomma", "ReviewID": "UR119528567", "Content": "stayed hotel 2 nights located conveniently close train station dont walk luggage time city centre sightseeing attractions walkable distance entrance hotel bit dodgy confusing hotels building floor hotel clean didnt special view window inside courtyard ok strange sink bathroom bit unusual bathroom toilet shower breakfast included price hotel served hotel ticket hotel breakfast cafe street croissant pastry drink special youd pay separately espresso local nearby", "Date": "2011-10-20 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Aviano, Italy", "Title": "\u201cWorst HOTEL ever\u201d", "Author": "juskicknit36", "ReviewID": "UR100816068", "Content": "hotel horriable soon asian lady workers rude broke bottle cologne finger tips bought bottle rude morning woke bathroom leaked nasty pi smelling water recommend hotel live italy time rome hotels cheaper price service hotel eat site wont", "Date": "2011-03-20 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cTERRIBLE in fact the WORST hotel that I HAVE ever stayed in my entire life!\u201d", "Author": "Winstonng", "ReviewID": "UR100258806", "Content": "hotel lights dim encountered transfered hotel blu wrong toilets leaking hotel blu wasnt loud knocking hotel middle night peep holes didnt dare doors wasnt safe night found bed bugs bed toilet sucked time wasnt clean sink located near de bed wasnt clean breakfast served cafe opposite road allowed serving wasnt staff reception times location terrible hotel note visiting rome", "Date": "2011-03-15 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Providenciales", "Title": "\u201cHealth Hazard\u201d", "Author": "rogmurf", "ReviewID": "UR83291874", "Content": "location perfect short walk central station hotel fleapit literally found bugs sheets daughter caught bedbugs fumigate home return cupboards sagging warping doors close mildew bathroom beds lumpy stars am angry misrepresentation star rating italian control facilities roger turks caicos islands", "Date": "2010-10-13 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "tomintoul", "Title": "\u201cthe worst hotel on the planet\u201d", "Author": "goidellick", "ReviewID": "UR72446026", "Content": "brief arrival told return 4 hours family wish hadnt returned broken air con 4 beds crawling bed bugs moved night double theyd crammed 4 beds inflatable bed camp bed unable cupboards doors jammed shut beds stack luggage walking beds travelled africa asia america budget hotels worst", "Date": "2010-07-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Brisbane, Australia", "Title": "\u201cPretty good budget stay\u201d", "Author": "superjamielol", "ReviewID": "UR62907350", "Content": "twostar hotel actually expecting alot worse swap bulbs bedside lamp blown screwdriver stop showerhead falling wall otherwise clean comfortable stay thin walls carry noise guests rowdy forget sleeping 9am thanks romes traffic wifi 5th floor hotel 2nd floor signal 5 euros 5 hours pretty spot block termini central station getting lots cheap dodgy eats walk train station quality restaurants improves immensely close internet cafes watch blocks northeast potentially unsafe stick regular tourist zones checkin staff accommodating little abrupt housekeepers friendly helpful despite stay", "Date": "2010-04-30 00:00:00"}], "HotelInfo": {"Name": "Rubino", "HotelURL": "/ShowUserReviews-g187791-d205136-Reviews-Rubino-Rome_Lazio.html", "Price": "$69 - $179*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Milazzo, 3</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "205136", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/23/73/2373c030b492b66d4812a8643582d6891large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Dublin, Ireland",
+      "Title": "\u201cNot bad for a hotel in Rome city centre\u201d",
+      "Author": "scorpiomma",
+      "ReviewID": "UR119528567",
+      "Content": "stayed hotel 2 nights located conveniently close train station dont walk luggage time city centre sightseeing attractions walkable distance entrance hotel bit dodgy confusing hotels building floor hotel clean didnt special view window inside courtyard ok strange sink bathroom bit unusual bathroom toilet shower breakfast included price hotel served hotel ticket hotel breakfast cafe street croissant pastry drink special youd pay separately espresso local nearby",
+      "Date": "2011-10-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Aviano, Italy",
+      "Title": "\u201cWorst HOTEL ever\u201d",
+      "Author": "juskicknit36",
+      "ReviewID": "UR100816068",
+      "Content": "hotel horriable soon asian lady workers rude broke bottle cologne finger tips bought bottle rude morning woke bathroom leaked nasty pi smelling water recommend hotel live italy time rome hotels cheaper price service hotel eat site wont",
+      "Date": "2011-03-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cTERRIBLE in fact the WORST hotel that I HAVE ever stayed in my entire life!\u201d",
+      "Author": "Winstonng",
+      "ReviewID": "UR100258806",
+      "Content": "hotel lights dim encountered transfered hotel blu wrong toilets leaking hotel blu wasnt loud knocking hotel middle night peep holes didnt dare doors wasnt safe night found bed bugs bed toilet sucked time wasnt clean sink located near de bed wasnt clean breakfast served cafe opposite road allowed serving wasnt staff reception times location terrible hotel note visiting rome",
+      "Date": "2011-03-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Providenciales",
+      "Title": "\u201cHealth Hazard\u201d",
+      "Author": "rogmurf",
+      "ReviewID": "UR83291874",
+      "Content": "location perfect short walk central station hotel fleapit literally found bugs sheets daughter caught bedbugs fumigate home return cupboards sagging warping doors close mildew bathroom beds lumpy stars am angry misrepresentation star rating italian control facilities roger turks caicos islands",
+      "Date": "2010-10-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "tomintoul",
+      "Title": "\u201cthe worst hotel on the planet\u201d",
+      "Author": "goidellick",
+      "ReviewID": "UR72446026",
+      "Content": "brief arrival told return 4 hours family wish hadnt returned broken air con 4 beds crawling bed bugs moved night double theyd crammed 4 beds inflatable bed camp bed unable cupboards doors jammed shut beds stack luggage walking beds travelled africa asia america budget hotels worst",
+      "Date": "2010-07-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Brisbane, Australia",
+      "Title": "\u201cPretty good budget stay\u201d",
+      "Author": "superjamielol",
+      "ReviewID": "UR62907350",
+      "Content": "twostar hotel actually expecting alot worse swap bulbs bedside lamp blown screwdriver stop showerhead falling wall otherwise clean comfortable stay thin walls carry noise guests rowdy forget sleeping 9am thanks romes traffic wifi 5th floor hotel 2nd floor signal 5 euros 5 hours pretty spot block termini central station getting lots cheap dodgy eats walk train station quality restaurants improves immensely close internet cafes watch blocks northeast potentially unsafe stick regular tourist zones checkin staff accommodating little abrupt housekeepers friendly helpful despite stay",
+      "Date": "2010-04-30 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Rubino",
+    "HotelURL": "/ShowUserReviews-g187791-d205136-Reviews-Rubino-Rome_Lazio.html",
+    "Price": "$69 - $179*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Milazzo, 3</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "205136",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/23/73/2373c030b492b66d4812a8643582d6891large.jpg"
+  }
+}

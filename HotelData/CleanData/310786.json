@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Pretoria", "Title": "\u201cCentrally located\u201d", "Author": "Jjaymoh", "ReviewID": "UR124051875", "Content": "hotel centrally located istanbul walk famous attraction catch tram close proximity basic hotel lux hang day staff friendly helpful tell shopping apply own checks balances kitchen staff friendly pay extra requesting black tea breakfast food runs quickly arrive late time construction train station nearby noise level bit expect completed low explore", "Date": "2012-02-03 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cNot Great\u201d", "Author": "rc33", "ReviewID": "UR120399206", "Content": "stayed hotel geckos tour impressions arrived 1130am waited understood checkin time perturbed realised tour arrived started getting ready 15 minutes bag dirty told wait 10 waiting 15 told wait 5 45 minutes waiting time arrived finally left bag told apparently lost add insult injury key lost meant time escort door master key okay expecting budget hotel double bed bathroom tiny bathtub shower breakfast okay selection scrambled eggs available expecting didnt im hotels", "Date": "2011-11-09 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Munic", "Title": "\u201cYes, poor!\u201d", "Author": "494Henry_s", "ReviewID": "UR119695002", "Content": "nice unless hardcore techno freak volumes 130 db stay sort ventilation system running backyard night day frequently reaches volume drill believe 5 am feels airplane landing head", "Date": "2011-10-25 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cPlease do not stay at Askoc\u201d", "Author": "Bunikul", "ReviewID": "UR106683697", "Content": "recently stayed hotel experience wasnt booking read reviews lot understand 1 hotel location convenient location close public tram ferry handy wish travel asian 15min walk blue mosque touristic sultanahmet lot restaurants bars souvenirs shop sweet shops downside hotel entrance outside train station building train extension tunnel link european asian surroundings rains mud pools water entrance nice view stayed 307 2 booked internet included 5 days stayed access internet fro 3 days event random times told lot issues provider happens lot solution lounge pc pay 2 tl 30 min 3 service disgrace impolite unfriendly staff helpful seeking charging 4 cleanliness ok size decor expect furniture beds uncomfortable toiletbathroom dirt outdated refurbishment hoovered dust wiped stay change towels everyday 5 breakfast poor selection food appetising pieces cheese bread cheese plates else recommendation search hotels lot", "Date": "2011-05-03 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Moscow, Russia", "Title": "\u201cOk\u201d", "Author": "Katique", "ReviewID": "UR81493393", "Content": "hotel ok location close touristic attractions tram station terrible sleep quality windows facing train station loud tourist tired notice id ok money", "Date": "2010-09-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Chorley, United Kingdom", "Title": "\u201cCouldn't believe the fabulous view\u201d", "Author": "JanetW49", "ReviewID": "UR71694579", "Content": "staff wonderful friendly helpful sorted lost suitcase keys lucky sixth floor amazing views difficult leave sightseeing breakfast bit bleak english tastes english guests shouldnt complain takeaways city value taste try fish waterfront theres little restaurant corner local speciality stew sealed pot welcome public transport easy airport flight", "Date": "2010-07-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Getafe, Spain", "Title": "\u201cVery good hotel with a very good location!\u201d", "Author": "mikivoyageur", "ReviewID": "UR58983592", "Content": "hotel nice actually excellent location forget wonderfull views balcony bosphorus galata tower romantic train station orient express ejoyed wonderful concert armenian turkish folk music ah spacious clean", "Date": "2010-03-19 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Bucharest, Romania", "Title": "\u201cNever again\u201d", "Author": "Amalyaa", "ReviewID": "UR56692838", "Content": "allthey seriously updating webpage photos shown reality furniture hallway looked unclean probably wasi doubts lucky stay 1 night cant hotel staff reason skipped breakfast wont miss judging overall quality funny reception looks nice guess mess hotel", "Date": "2010-02-21 00:00:00"}], "HotelInfo": {"Name": "Askoc Hotel", "HotelURL": "/ShowUserReviews-g293974-d310786-Reviews-Askoc_Hotel-Istanbul.html", "Price": "$197 - $263*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">15 Istasyon Arka Sk. Sirkeci</span> | <span class=\"extended-address\">Sirkeci</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34420</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "310786", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/66/75/667547cf4a4ed91b6acfbaca7a89d03c3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Pretoria",
+      "Title": "\u201cCentrally located\u201d",
+      "Author": "Jjaymoh",
+      "ReviewID": "UR124051875",
+      "Content": "hotel centrally located istanbul walk famous attraction catch tram close proximity basic hotel lux hang day staff friendly helpful tell shopping apply own checks balances kitchen staff friendly pay extra requesting black tea breakfast food runs quickly arrive late time construction train station nearby noise level bit expect completed low explore",
+      "Date": "2012-02-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cNot Great\u201d",
+      "Author": "rc33",
+      "ReviewID": "UR120399206",
+      "Content": "stayed hotel geckos tour impressions arrived 1130am waited understood checkin time perturbed realised tour arrived started getting ready 15 minutes bag dirty told wait 10 waiting 15 told wait 5 45 minutes waiting time arrived finally left bag told apparently lost add insult injury key lost meant time escort door master key okay expecting budget hotel double bed bathroom tiny bathtub shower breakfast okay selection scrambled eggs available expecting didnt im hotels",
+      "Date": "2011-11-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Munic",
+      "Title": "\u201cYes, poor!\u201d",
+      "Author": "494Henry_s",
+      "ReviewID": "UR119695002",
+      "Content": "nice unless hardcore techno freak volumes 130 db stay sort ventilation system running backyard night day frequently reaches volume drill believe 5 am feels airplane landing head",
+      "Date": "2011-10-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cPlease do not stay at Askoc\u201d",
+      "Author": "Bunikul",
+      "ReviewID": "UR106683697",
+      "Content": "recently stayed hotel experience wasnt booking read reviews lot understand 1 hotel location convenient location close public tram ferry handy wish travel asian 15min walk blue mosque touristic sultanahmet lot restaurants bars souvenirs shop sweet shops downside hotel entrance outside train station building train extension tunnel link european asian surroundings rains mud pools water entrance nice view stayed 307 2 booked internet included 5 days stayed access internet fro 3 days event random times told lot issues provider happens lot solution lounge pc pay 2 tl 30 min 3 service disgrace impolite unfriendly staff helpful seeking charging 4 cleanliness ok size decor expect furniture beds uncomfortable toiletbathroom dirt outdated refurbishment hoovered dust wiped stay change towels everyday 5 breakfast poor selection food appetising pieces cheese bread cheese plates else recommendation search hotels lot",
+      "Date": "2011-05-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Moscow, Russia",
+      "Title": "\u201cOk\u201d",
+      "Author": "Katique",
+      "ReviewID": "UR81493393",
+      "Content": "hotel ok location close touristic attractions tram station terrible sleep quality windows facing train station loud tourist tired notice id ok money",
+      "Date": "2010-09-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Chorley, United Kingdom",
+      "Title": "\u201cCouldn't believe the fabulous view\u201d",
+      "Author": "JanetW49",
+      "ReviewID": "UR71694579",
+      "Content": "staff wonderful friendly helpful sorted lost suitcase keys lucky sixth floor amazing views difficult leave sightseeing breakfast bit bleak english tastes english guests shouldnt complain takeaways city value taste try fish waterfront theres little restaurant corner local speciality stew sealed pot welcome public transport easy airport flight",
+      "Date": "2010-07-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Getafe, Spain",
+      "Title": "\u201cVery good hotel with a very good location!\u201d",
+      "Author": "mikivoyageur",
+      "ReviewID": "UR58983592",
+      "Content": "hotel nice actually excellent location forget wonderfull views balcony bosphorus galata tower romantic train station orient express ejoyed wonderful concert armenian turkish folk music ah spacious clean",
+      "Date": "2010-03-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Bucharest, Romania",
+      "Title": "\u201cNever again\u201d",
+      "Author": "Amalyaa",
+      "ReviewID": "UR56692838",
+      "Content": "allthey seriously updating webpage photos shown reality furniture hallway looked unclean probably wasi doubts lucky stay 1 night cant hotel staff reason skipped breakfast wont miss judging overall quality funny reception looks nice guess mess hotel",
+      "Date": "2010-02-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Askoc Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d310786-Reviews-Askoc_Hotel-Istanbul.html",
+    "Price": "$197 - $263*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">15 Istasyon Arka Sk. Sirkeci</span> | <span class=\"extended-address\">Sirkeci</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34420</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "310786",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/66/75/667547cf4a4ed91b6acfbaca7a89d03c3large.jpg"
+  }
+}

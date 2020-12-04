@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "San Jose, Costa Rica", "Title": "\u201cNice Room and Location\u201d", "Author": "acarballop", "ReviewID": "UR137466001", "Content": "nice hotel staff helpful location fine little bit madrid downtown metro station close hotel takes 10 minutes heart madrid breakfast buffet option dont pay closer downtown", "Date": "2012-08-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cGood hotel, close the airport\u201d", "Author": "April M", "ReviewID": "UR134663999", "Content": "stayed hotel night europe wonderful trip hotel close airport short walking distance metro hotel staff friendly helped deal directions clean beds fine job laugh la carte pillow pamphlet faced parking lot fine main purpose hotel sleep free internet access available lobby overall pleasantly surprised price paid stay madrid hotel stayed dive malaga paid price recommend madrid hotel", "Date": "2012-07-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Seattle, Washington", "Title": "\u201cGreat value and service\u201d", "Author": "Julie U", "ReviewID": "UR130178616", "Content": "stayed madrid marathon experience willingness hotel staff information city cleanliness proximity metro chose hotel price surprised comparison weve paid similar amounts amenities recommend hotel value isnt afraid using metro walking town heart town liked absolutely free airport shuttle weve found hotels advertise airport shuttle charge fee service", "Date": "2012-05-18 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Malaga, Spain", "Title": "\u201cGreat place to stay if you are flying from Madrid\u201d", "Author": "MCB21", "ReviewID": "UR122882962", "Content": "hotel appointed quiet clean spacious bedrooms shower 143 jacuzzi bath free wireless internet easy connect breakfast buffet catered taste offered wide range options little overpriced 15 euros didnt try channels tv surprised wasnt flat screen advantage free shuttle bus madrid barajas airport 1520 minutes definitely stay recommend", "Date": "2012-01-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Rijeka, Croatia", "Title": "\u201cVery good hotel\u201d", "Author": "Marko-Caco", "ReviewID": "UR119700660", "Content": "hotel huge located 2025 minutes direct metro line city center plaza espana callao etc breakfast excellent course coffee sucks bar door quiet comfortable clean tv flat screen offer wider range tv channels europe rest world internet shower hotels shampoo shower gel inspiring arrive late evening shoprestaurant door 1 am", "Date": "2011-10-25 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Brussels, Belgium", "Title": "\u201cPerfect hotel for business trip\u201d", "Author": "maridomi", "ReviewID": "UR92317830", "Content": "stayed hotel 20 times 8 business reasons hotel disappointed meets business traveller choose hotel family touristic trip madrid positive modern hotel spacious service excellent restaurant nice bar quiet 15 min airport improved impersonal breakfast city center metro close internet connection easy recently installed wireless connections stay", "Date": "2011-01-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Breda", "Title": "\u201cGood hotel, bit far from the centre\u201d", "Author": "SpacemanSpiff77", "ReviewID": "UR80409261", "Content": "stayed business training teh nice bathroom bed breakfast cafe cheap basic okay huge breakfast expensive latter lots offered service staff helpful cafe nice friendly staff basic food okay lunches offered training bit 20 30 min metro centre safe feeling", "Date": "2010-09-21 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Grenoble, France", "Title": "\u201chotel dangereux\u201d", "Author": "wzzhao", "ReviewID": "UR73695288", "Content": "security hotel july 04 2010 robbed hall hotel front tens people claimed police station san astonished danger met hall i\u2019ll hotel", "Date": "2010-08-04 00:00:00"}], "HotelInfo": {"Name": "Velada Madrid Hotel", "HotelURL": "/ShowUserReviews-g187514-d282741-Reviews-Velada_Madrid_Hotel-Madrid.html", "Price": "$61 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/ Alcala 476</span>, <span class=\"locality\"><span property=\"v:postal-code\">28027</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "282741", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/3a/94/1f/habitacion-estandar.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "San Jose, Costa Rica",
+      "Title": "\u201cNice Room and Location\u201d",
+      "Author": "acarballop",
+      "ReviewID": "UR137466001",
+      "Content": "nice hotel staff helpful location fine little bit madrid downtown metro station close hotel takes 10 minutes heart madrid breakfast buffet option dont pay closer downtown",
+      "Date": "2012-08-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cGood hotel, close the airport\u201d",
+      "Author": "April M",
+      "ReviewID": "UR134663999",
+      "Content": "stayed hotel night europe wonderful trip hotel close airport short walking distance metro hotel staff friendly helped deal directions clean beds fine job laugh la carte pillow pamphlet faced parking lot fine main purpose hotel sleep free internet access available lobby overall pleasantly surprised price paid stay madrid hotel stayed dive malaga paid price recommend madrid hotel",
+      "Date": "2012-07-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Seattle, Washington",
+      "Title": "\u201cGreat value and service\u201d",
+      "Author": "Julie U",
+      "ReviewID": "UR130178616",
+      "Content": "stayed madrid marathon experience willingness hotel staff information city cleanliness proximity metro chose hotel price surprised comparison weve paid similar amounts amenities recommend hotel value isnt afraid using metro walking town heart town liked absolutely free airport shuttle weve found hotels advertise airport shuttle charge fee service",
+      "Date": "2012-05-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Malaga, Spain",
+      "Title": "\u201cGreat place to stay if you are flying from Madrid\u201d",
+      "Author": "MCB21",
+      "ReviewID": "UR122882962",
+      "Content": "hotel appointed quiet clean spacious bedrooms shower 143 jacuzzi bath free wireless internet easy connect breakfast buffet catered taste offered wide range options little overpriced 15 euros didnt try channels tv surprised wasnt flat screen advantage free shuttle bus madrid barajas airport 1520 minutes definitely stay recommend",
+      "Date": "2012-01-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Rijeka, Croatia",
+      "Title": "\u201cVery good hotel\u201d",
+      "Author": "Marko-Caco",
+      "ReviewID": "UR119700660",
+      "Content": "hotel huge located 2025 minutes direct metro line city center plaza espana callao etc breakfast excellent course coffee sucks bar door quiet comfortable clean tv flat screen offer wider range tv channels europe rest world internet shower hotels shampoo shower gel inspiring arrive late evening shoprestaurant door 1 am",
+      "Date": "2011-10-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Brussels, Belgium",
+      "Title": "\u201cPerfect hotel for business trip\u201d",
+      "Author": "maridomi",
+      "ReviewID": "UR92317830",
+      "Content": "stayed hotel 20 times 8 business reasons hotel disappointed meets business traveller choose hotel family touristic trip madrid positive modern hotel spacious service excellent restaurant nice bar quiet 15 min airport improved impersonal breakfast city center metro close internet connection easy recently installed wireless connections stay",
+      "Date": "2011-01-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Breda",
+      "Title": "\u201cGood hotel, bit far from the centre\u201d",
+      "Author": "SpacemanSpiff77",
+      "ReviewID": "UR80409261",
+      "Content": "stayed business training teh nice bathroom bed breakfast cafe cheap basic okay huge breakfast expensive latter lots offered service staff helpful cafe nice friendly staff basic food okay lunches offered training bit 20 30 min metro centre safe feeling",
+      "Date": "2010-09-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Grenoble, France",
+      "Title": "\u201chotel dangereux\u201d",
+      "Author": "wzzhao",
+      "ReviewID": "UR73695288",
+      "Content": "security hotel july 04 2010 robbed hall hotel front tens people claimed police station san astonished danger met hall i\u2019ll hotel",
+      "Date": "2010-08-04 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Velada Madrid Hotel",
+    "HotelURL": "/ShowUserReviews-g187514-d282741-Reviews-Velada_Madrid_Hotel-Madrid.html",
+    "Price": "$61 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/ Alcala 476</span>, <span class=\"locality\"><span property=\"v:postal-code\">28027</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "282741",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/3a/94/1f/habitacion-estandar.jpg"
+  }
+}

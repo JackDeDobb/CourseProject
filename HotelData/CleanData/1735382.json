@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Brooklyn, New York", "Title": "\u201cI don't like my corners cut...\u201d", "Author": "faisal69", "ReviewID": "UR127568706", "Content": "stayed hotels trip turkey visit travelling companion bit trouble maneuvering space bathroom particularly shower issues night staying hotel discovered wrapper air conditioning unit bunch hair stuck shower hotel notepad loves circles lacked disturb sign price list minibar corners cut preparing guests bed comfortable walls blocked sound reception bit hot cold bellhops night crew warmer spectrum bellhops particularly chipper pleasant day crew reception desk hand gruff busy short impression requests queries probably biggest issue hotel feel welcome burden location ok close local transportation bit jaunt sultanahmet travelers prefer separated tourist hub biggest asset hotel breakfast provided basement rooftop breakfast hotels impressive spread seen hotel visited plethora options labeled am willing experiment foods provided options little familiar", "Date": "2012-04-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Belgrade", "Title": "\u201cGreat,little hotel\u201d", "Author": "MishaBelgrade", "ReviewID": "UR124019570", "Content": "little hotel location visit grand bazaar hagia sophia blue line near lot shops hotel source buying necessities istanbuls named laleli near dozens curtain clothes shops hotel nice clean bathrooms little beat doesnt matter cos staff friendly polite maybe foreign languages kindness breakfast plenty food turkish dishes tourist curiosity turkish coffee bar try turkish delight coffee course strong tasteful enjoy vacation istanbul", "Date": "2012-02-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Moscow, Russia", "Title": "\u201cPerfect hotel for economy stay, nothing to say bad about!\u201d", "Author": "Tatiana_2010", "ReviewID": "UR63814792", "Content": "perfect 3 days hotel nice staff helpful thank arrival welcome drink turkish delights welcoming bottle wine fruit waiting breakfast ok plus buffet omlet totally free destination close aksaray train station comfortable airport metro city center 2 tram station istambul grand bazaar comfortable hotel city center nice sleep turist walking distance sightseing choose hotel situated cute spa hotel nice experience turkish peeling foam massage lady recommended experience woud advice choose hotel explore wonderfull city istambul ready public transport comfortable nice shopping shops hotel center city", "Date": "2010-05-11 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "San Diego, California", "Title": "\u201cDecent all the way around\u201d", "Author": "vagabond04", "ReviewID": "UR60958666", "Content": "facilities breakfast service excellent try help staff spoke little english limited abilities communicate employees answer questions little outdated overall clean cozy restaraunt menu consisted bar drinks kitchen closed tried dinner location relatively able walk major sites hidden little street little distance grand bazaar sultanhamet hagia sophia blue mosque topkapi palace 1 km walk hotel", "Date": "2010-04-11 00:00:00"}], "HotelInfo": {"Name": "Mirilayon Hotel", "HotelURL": "/ShowUserReviews-g293974-d1735382-Reviews-Mirilayon_Hotel-Istanbul.html", "Price": "$92 - $172*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kemalpasa Mh. Gencturk Cad. Yesiltulumba sokak No:36/44</span> | <span class=\"extended-address\">Laleli</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34134</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "1735382", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/96/0d/960ddc005e34b9f33af901577393d1e81large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Brooklyn, New York",
+      "Title": "\u201cI don't like my corners cut...\u201d",
+      "Author": "faisal69",
+      "ReviewID": "UR127568706",
+      "Content": "stayed hotels trip turkey visit travelling companion bit trouble maneuvering space bathroom particularly shower issues night staying hotel discovered wrapper air conditioning unit bunch hair stuck shower hotel notepad loves circles lacked disturb sign price list minibar corners cut preparing guests bed comfortable walls blocked sound reception bit hot cold bellhops night crew warmer spectrum bellhops particularly chipper pleasant day crew reception desk hand gruff busy short impression requests queries probably biggest issue hotel feel welcome burden location ok close local transportation bit jaunt sultanahmet travelers prefer separated tourist hub biggest asset hotel breakfast provided basement rooftop breakfast hotels impressive spread seen hotel visited plethora options labeled am willing experiment foods provided options little familiar",
+      "Date": "2012-04-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Belgrade",
+      "Title": "\u201cGreat,little hotel\u201d",
+      "Author": "MishaBelgrade",
+      "ReviewID": "UR124019570",
+      "Content": "little hotel location visit grand bazaar hagia sophia blue line near lot shops hotel source buying necessities istanbuls named laleli near dozens curtain clothes shops hotel nice clean bathrooms little beat doesnt matter cos staff friendly polite maybe foreign languages kindness breakfast plenty food turkish dishes tourist curiosity turkish coffee bar try turkish delight coffee course strong tasteful enjoy vacation istanbul",
+      "Date": "2012-02-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Moscow, Russia",
+      "Title": "\u201cPerfect hotel for economy stay, nothing to say bad about!\u201d",
+      "Author": "Tatiana_2010",
+      "ReviewID": "UR63814792",
+      "Content": "perfect 3 days hotel nice staff helpful thank arrival welcome drink turkish delights welcoming bottle wine fruit waiting breakfast ok plus buffet omlet totally free destination close aksaray train station comfortable airport metro city center 2 tram station istambul grand bazaar comfortable hotel city center nice sleep turist walking distance sightseing choose hotel situated cute spa hotel nice experience turkish peeling foam massage lady recommended experience woud advice choose hotel explore wonderfull city istambul ready public transport comfortable nice shopping shops hotel center city",
+      "Date": "2010-05-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "San Diego, California",
+      "Title": "\u201cDecent all the way around\u201d",
+      "Author": "vagabond04",
+      "ReviewID": "UR60958666",
+      "Content": "facilities breakfast service excellent try help staff spoke little english limited abilities communicate employees answer questions little outdated overall clean cozy restaraunt menu consisted bar drinks kitchen closed tried dinner location relatively able walk major sites hidden little street little distance grand bazaar sultanhamet hagia sophia blue mosque topkapi palace 1 km walk hotel",
+      "Date": "2010-04-11 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Mirilayon Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d1735382-Reviews-Mirilayon_Hotel-Istanbul.html",
+    "Price": "$92 - $172*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Kemalpasa Mh. Gencturk Cad. Yesiltulumba sokak No:36/44</span> | <span class=\"extended-address\">Laleli</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34134</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "1735382",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/96/0d/960ddc005e34b9f33af901577393d1e81large.jpg"
+  }
+}

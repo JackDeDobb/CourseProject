@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Philadelphia, Pennsylvania", "Title": "\u201cAdequate\u201d", "Author": "pocahontas0101", "ReviewID": "UR120826946", "Content": "despite name establishment hotel setting yourself diappointment par econolodge motel 8 checked cheap 20yearold looking furnishings ie pressed plywood closets desk overtly unclean didnt feel look sanitary actually switched heating system dealt cold moved wreaked mold hotel staff told available endure stench filled entire bathroom walls cracked holes actually showered cloth slippers didnt contract stepping shower floor bare foot oh speaking shower shower wall flimsy piece plastic fell apart pressure showerheads water hitting positives proximity ciampino airport restaurant site serves descent food 1 night rome stay near airport chances stay suggest staying city youll accomodations similar rates direct public transportation airport city cabs expensive sit bus rome directly airport 6 euro runs 30 minutes subway stop stop red line cab airport 4 km metro stop", "Date": "2011-11-20 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Galway, Ireland", "Title": "\u201cnot bad for an airport hotel\u201d", "Author": "shaz1980", "ReviewID": "UR118747770", "Content": "stayed friends night flight home rome basic expecting anyway reception staff nice helpful hotel close airport else 45 minutes rome shuttle bus airport cost \u20ac250 person isnt expensive hotel offered free people personal opinion", "Date": "2011-09-29 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Liverpool, England", "Title": "\u201cTypical Airport Hotel\u201d", "Author": "Marph", "ReviewID": "UR118417499", "Content": "stayed night getting flight home week amalfi coast expected basic hotel near airport clean ac noisy shower base didnt drain length shower base spilling evening meal eaten elsewhere breakfast selection including fresh fruit meats cheeses fresh croissants including custard inside hmm", "Date": "2011-09-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Edinburgh", "Title": "\u201cGreat airport hotel\u201d", "Author": "GordonMackie", "ReviewID": "UR104260167", "Content": "stayed fourth fifth time spotless hotel perfect morning flight 5 minute drive food restaurant service usual time couple tour hopefully definitely stay", "Date": "2011-04-16 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Washington DC, District of Columbia", "Title": "\u201cYou Can Sleep Here, but That's About It\u201d", "Author": "SightsAndSoul", "ReviewID": "UR55948518", "Content": "hotel motel type property close ciampino airport shuttle costs 8 euro person train central rome told call arrival pickup indeed shuttle soon arrived charge getting hotel pay 8 euro somewhat trapped especially property isolated walking distance adequate job airport hotel dont needwant else service restaurant mediocre food service wine serve worst clean inexpensively furnished start serving breakfast 7 leave flight coffee service wifi internet hotel expensive worth", "Date": "2010-02-14 00:00:00"}], "HotelInfo": {"Name": "Palacavicchi Hotel", "HotelURL": "/ShowUserReviews-g187791-d483508-Reviews-Palacavicchi_Hotel-Rome_Lazio.html", "Price": "$59 - $135*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via di Ciampino 70</span>, <span class=\"locality\"><span property=\"v:postal-code\">00178</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "483508", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4e/82/4e82fe6996d174c9a591826bde6e84db5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Philadelphia, Pennsylvania",
+      "Title": "\u201cAdequate\u201d",
+      "Author": "pocahontas0101",
+      "ReviewID": "UR120826946",
+      "Content": "despite name establishment hotel setting yourself diappointment par econolodge motel 8 checked cheap 20yearold looking furnishings ie pressed plywood closets desk overtly unclean didnt feel look sanitary actually switched heating system dealt cold moved wreaked mold hotel staff told available endure stench filled entire bathroom walls cracked holes actually showered cloth slippers didnt contract stepping shower floor bare foot oh speaking shower shower wall flimsy piece plastic fell apart pressure showerheads water hitting positives proximity ciampino airport restaurant site serves descent food 1 night rome stay near airport chances stay suggest staying city youll accomodations similar rates direct public transportation airport city cabs expensive sit bus rome directly airport 6 euro runs 30 minutes subway stop stop red line cab airport 4 km metro stop",
+      "Date": "2011-11-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Galway, Ireland",
+      "Title": "\u201cnot bad for an airport hotel\u201d",
+      "Author": "shaz1980",
+      "ReviewID": "UR118747770",
+      "Content": "stayed friends night flight home rome basic expecting anyway reception staff nice helpful hotel close airport else 45 minutes rome shuttle bus airport cost \u20ac250 person isnt expensive hotel offered free people personal opinion",
+      "Date": "2011-09-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Liverpool, England",
+      "Title": "\u201cTypical Airport Hotel\u201d",
+      "Author": "Marph",
+      "ReviewID": "UR118417499",
+      "Content": "stayed night getting flight home week amalfi coast expected basic hotel near airport clean ac noisy shower base didnt drain length shower base spilling evening meal eaten elsewhere breakfast selection including fresh fruit meats cheeses fresh croissants including custard inside hmm",
+      "Date": "2011-09-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Edinburgh",
+      "Title": "\u201cGreat airport hotel\u201d",
+      "Author": "GordonMackie",
+      "ReviewID": "UR104260167",
+      "Content": "stayed fourth fifth time spotless hotel perfect morning flight 5 minute drive food restaurant service usual time couple tour hopefully definitely stay",
+      "Date": "2011-04-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Washington DC, District of Columbia",
+      "Title": "\u201cYou Can Sleep Here, but That's About It\u201d",
+      "Author": "SightsAndSoul",
+      "ReviewID": "UR55948518",
+      "Content": "hotel motel type property close ciampino airport shuttle costs 8 euro person train central rome told call arrival pickup indeed shuttle soon arrived charge getting hotel pay 8 euro somewhat trapped especially property isolated walking distance adequate job airport hotel dont needwant else service restaurant mediocre food service wine serve worst clean inexpensively furnished start serving breakfast 7 leave flight coffee service wifi internet hotel expensive worth",
+      "Date": "2010-02-14 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Palacavicchi Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d483508-Reviews-Palacavicchi_Hotel-Rome_Lazio.html",
+    "Price": "$59 - $135*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via di Ciampino 70</span>, <span class=\"locality\"><span property=\"v:postal-code\">00178</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "483508",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4e/82/4e82fe6996d174c9a591826bde6e84db5large.jpg"
+  }
+}

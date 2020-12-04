@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "", "Title": "\u201cGreat hotel!\u201d", "Author": "SAniahmylove", "ReviewID": "UR130651158", "Content": "husband stayed 8 days 2012 absolutely recommend hotel loved 5 star hotel dont complain pay time madrid hotel timers staff desk soooooooooo helpful tours extra pillows willing assist help anyway return hotel 30 minutes 30 euro learned train immediately save money taxis expensive station nearest alvarado walk daytime safe night hotel near taxis street waiting metro close bus closer major avenues shops supermarket main eat corner hotel nice kitchen prepare meal refrigerator freezer bring dishwasher fluid sponge wash dishesthe air conditioner perfectly bed little hard ive worse extra pillow comfortable minutes bring own iron wait borrow theirs wait low quality iron job housekeepers wonderful service available wifi service 20 euros 8 days happy skyped 3 yr home frequently walls extremely thin youre light sleeper issue neighbors noise extremely safe safe wasnt airport safe locks luggage sufficient loved stay absolutely stay recommend hotel family friends checkout breeze", "Date": "2012-05-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Jaen, Spain", "Title": "\u201cVery nice, but\u201d", "Author": "Pachocha", "ReviewID": "UR124333379", "Content": "stayed hotel overnight chose near nuevos ministerios arrived noticed near nuevos ministerios train station wouldnt dare walk station 530 morning train woman recommend else decided taxi hotel airport fixed price 30 euros receptionists attentive friendly apartments nice spacious comfortable bathroom clean renovation theres smell apartment pleasant wardrobes smell funny curry smell dont reason people apartment night cooked curry cleaned allowing client kitchen nice cook theres free internet access", "Date": "2012-02-09 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Coventry, United Kingdom", "Title": "\u201cAll Very Tacky.\u201d", "Author": "Veritas70", "ReviewID": "UR123490067", "Content": "stayed apartment hotelfirst impressions entering reception apartment glance appeared okit clean closer inspection appear apparent regular staff charge hotelthere 3 loose electrical wall sockets rotated hand degrees actually hanging wall bare potentially dangerous fatal table lamps faulty decided suited potentially fatal heating system temperature regulation originally broken noise blown air heating noisy scarcely normal leaving heating impossible due noisethe bathroom door faulty catches wouldnt close properlythe door peeling hairdryer bathroom hose split rendering air reached business shower head didnt properly leaked water instead apartment ripping hotel chain charging people money criminal completely faults management whilst therebut theyll anybodys worst hotel ive stayed inand ive paid lot", "Date": "2012-01-23 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Israel", "Title": "\u201cGood location but poor sound insulation\u201d", "Author": "hankn", "ReviewID": "UR54984326", "Content": "hotel spacious bathroom towels soaps shampoos apartment hotel safe doesnt paid kitchen fridge 2 burner hob dishes glasses silverware missing microwave importantly hot water urn cup coffee morning unless pot remember kettle heat water pot carefully pour glass 10euro easily added hot water kettle nonsmoking designated nonsmoking recommendation ashtray stank smoke switch street windows living double paned glass window bedroom single pane glass figure living road noise penetrates windows light sleeper street facing wireless internet access available rate speed lousy multiple disconnects system using", "Date": "2010-02-02 00:00:00"}], "HotelInfo": {"Name": "Espahotel Plaza Basilica", "HotelURL": "/ShowUserReviews-g187514-d234308-Reviews-Espahotel_Plaza_Basilica-Madrid.html", "Price": "$62 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/ Comandante Zorita 27</span>, <span class=\"locality\"><span property=\"v:postal-code\">28020</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "234308", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/51/e8/51e8c7554321ea9a1e46cdc2081889b77large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cGreat hotel!\u201d",
+      "Author": "SAniahmylove",
+      "ReviewID": "UR130651158",
+      "Content": "husband stayed 8 days 2012 absolutely recommend hotel loved 5 star hotel dont complain pay time madrid hotel timers staff desk soooooooooo helpful tours extra pillows willing assist help anyway return hotel 30 minutes 30 euro learned train immediately save money taxis expensive station nearest alvarado walk daytime safe night hotel near taxis street waiting metro close bus closer major avenues shops supermarket main eat corner hotel nice kitchen prepare meal refrigerator freezer bring dishwasher fluid sponge wash dishesthe air conditioner perfectly bed little hard ive worse extra pillow comfortable minutes bring own iron wait borrow theirs wait low quality iron job housekeepers wonderful service available wifi service 20 euros 8 days happy skyped 3 yr home frequently walls extremely thin youre light sleeper issue neighbors noise extremely safe safe wasnt airport safe locks luggage sufficient loved stay absolutely stay recommend hotel family friends checkout breeze",
+      "Date": "2012-05-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Jaen, Spain",
+      "Title": "\u201cVery nice, but\u201d",
+      "Author": "Pachocha",
+      "ReviewID": "UR124333379",
+      "Content": "stayed hotel overnight chose near nuevos ministerios arrived noticed near nuevos ministerios train station wouldnt dare walk station 530 morning train woman recommend else decided taxi hotel airport fixed price 30 euros receptionists attentive friendly apartments nice spacious comfortable bathroom clean renovation theres smell apartment pleasant wardrobes smell funny curry smell dont reason people apartment night cooked curry cleaned allowing client kitchen nice cook theres free internet access",
+      "Date": "2012-02-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Coventry, United Kingdom",
+      "Title": "\u201cAll Very Tacky.\u201d",
+      "Author": "Veritas70",
+      "ReviewID": "UR123490067",
+      "Content": "stayed apartment hotelfirst impressions entering reception apartment glance appeared okit clean closer inspection appear apparent regular staff charge hotelthere 3 loose electrical wall sockets rotated hand degrees actually hanging wall bare potentially dangerous fatal table lamps faulty decided suited potentially fatal heating system temperature regulation originally broken noise blown air heating noisy scarcely normal leaving heating impossible due noisethe bathroom door faulty catches wouldnt close properlythe door peeling hairdryer bathroom hose split rendering air reached business shower head didnt properly leaked water instead apartment ripping hotel chain charging people money criminal completely faults management whilst therebut theyll anybodys worst hotel ive stayed inand ive paid lot",
+      "Date": "2012-01-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Israel",
+      "Title": "\u201cGood location but poor sound insulation\u201d",
+      "Author": "hankn",
+      "ReviewID": "UR54984326",
+      "Content": "hotel spacious bathroom towels soaps shampoos apartment hotel safe doesnt paid kitchen fridge 2 burner hob dishes glasses silverware missing microwave importantly hot water urn cup coffee morning unless pot remember kettle heat water pot carefully pour glass 10euro easily added hot water kettle nonsmoking designated nonsmoking recommendation ashtray stank smoke switch street windows living double paned glass window bedroom single pane glass figure living road noise penetrates windows light sleeper street facing wireless internet access available rate speed lousy multiple disconnects system using",
+      "Date": "2010-02-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Espahotel Plaza Basilica",
+    "HotelURL": "/ShowUserReviews-g187514-d234308-Reviews-Espahotel_Plaza_Basilica-Madrid.html",
+    "Price": "$62 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/ Comandante Zorita 27</span>, <span class=\"locality\"><span property=\"v:postal-code\">28020</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "234308",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/51/e8/51e8c7554321ea9a1e46cdc2081889b77large.jpg"
+  }
+}

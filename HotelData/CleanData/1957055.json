@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 1.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cNot really in Rome, but a nice place to stay\u201d", "Author": "mazystar", "ReviewID": "UR121636765", "Content": "hotel rome worth staying dont car stay metro line impossible stay past 7 8pm wouldnt able hotel getting expensive cab hotel fairly nice suburban nice rome hotel staff friendly clean breakfast pretty", "Date": "2011-12-11 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "Tauranga, New Zealand", "Title": "\u201cNice but hard to find\u201d", "Author": "Kylee181", "ReviewID": "UR118417980", "Content": "nice clean nice friendly staff breakfast consists yoghurts meat crossiants pastries juices coffee etc using public transport dont bother nightmare extremely centre rome directions book easy catch bus bus supposed catch hard doesnt palace stayed nights palace times 4 hours hotel staff explained staff bus trip appear incorrect advice comment trouble finding taxis hard pricey luck attempt via public transport map reason luck help friendly locals bus drivers heard street palace located", "Date": "2011-09-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "New Orleans, Louisiana", "Title": "\u201cLight years\u201d", "Author": "roger d", "ReviewID": "UR118389666", "Content": "light ahead establishment visited rome terms service value bad light establishment visited rome yeah light exaggeration reasonably close romes commuter rail lines links romes metro lines adds journey walk hotel bus stop bus station ride metro metro tourist destination ex colosseum youre tolerant tourist rewards situated squarely middleclass touristfriendly enclave romes beltway road youll catch glimpse contemporary italian life rome values food supplies nicest earth unsafe time rome downside remote location getting home rome especially railways stop running 11 pm whenever taxi home taxi driver via bet tell bus stop ride costs 20 euro bad taxi drivers bit miffed drive city drive fast aggressively rome standards kissing pavement finally arrive safely destination youre junkie aspect hotel plus hotel nice tad light acoustic insulation nosmoking policy importantly staff 100 topnotch serious job stay comfortable enjoyable seen dedicated service twice ive stayed lot hotels yes theyre ac heat satellite tv didnt extremely posh bathroom breakfast delicious easily cost 10 euros cafe understand logistics hotels location highly highly recommend", "Date": "2011-09-20 00:00:00"}], "HotelInfo": {"Name": "Hotel Palace Nardo", "HotelURL": "/ShowUserReviews-g187791-d1957055-Reviews-Hotel_Palace_Nardo-Rome_Lazio.html", "Price": "$53 - $103*", "Address": "<div class=\"amenFloat\">", "HotelID": "1957055", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/b9/94/ba/hotel-palace-nardo.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cNot really in Rome, but a nice place to stay\u201d",
+      "Author": "mazystar",
+      "ReviewID": "UR121636765",
+      "Content": "hotel rome worth staying dont car stay metro line impossible stay past 7 8pm wouldnt able hotel getting expensive cab hotel fairly nice suburban nice rome hotel staff friendly clean breakfast pretty",
+      "Date": "2011-12-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Tauranga, New Zealand",
+      "Title": "\u201cNice but hard to find\u201d",
+      "Author": "Kylee181",
+      "ReviewID": "UR118417980",
+      "Content": "nice clean nice friendly staff breakfast consists yoghurts meat crossiants pastries juices coffee etc using public transport dont bother nightmare extremely centre rome directions book easy catch bus bus supposed catch hard doesnt palace stayed nights palace times 4 hours hotel staff explained staff bus trip appear incorrect advice comment trouble finding taxis hard pricey luck attempt via public transport map reason luck help friendly locals bus drivers heard street palace located",
+      "Date": "2011-09-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "New Orleans, Louisiana",
+      "Title": "\u201cLight years\u201d",
+      "Author": "roger d",
+      "ReviewID": "UR118389666",
+      "Content": "light ahead establishment visited rome terms service value bad light establishment visited rome yeah light exaggeration reasonably close romes commuter rail lines links romes metro lines adds journey walk hotel bus stop bus station ride metro metro tourist destination ex colosseum youre tolerant tourist rewards situated squarely middleclass touristfriendly enclave romes beltway road youll catch glimpse contemporary italian life rome values food supplies nicest earth unsafe time rome downside remote location getting home rome especially railways stop running 11 pm whenever taxi home taxi driver via bet tell bus stop ride costs 20 euro bad taxi drivers bit miffed drive city drive fast aggressively rome standards kissing pavement finally arrive safely destination youre junkie aspect hotel plus hotel nice tad light acoustic insulation nosmoking policy importantly staff 100 topnotch serious job stay comfortable enjoyable seen dedicated service twice ive stayed lot hotels yes theyre ac heat satellite tv didnt extremely posh bathroom breakfast delicious easily cost 10 euros cafe understand logistics hotels location highly highly recommend",
+      "Date": "2011-09-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Palace Nardo",
+    "HotelURL": "/ShowUserReviews-g187791-d1957055-Reviews-Hotel_Palace_Nardo-Rome_Lazio.html",
+    "Price": "$53 - $103*",
+    "Address": "<div class=\"amenFloat\">",
+    "HotelID": "1957055",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/b9/94/ba/hotel-palace-nardo.jpg"
+  }
+}

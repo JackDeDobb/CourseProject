@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 2.0}, "AuthorLocation": "Cincinnati, Ohio", "Title": "\u201cCourtyard by Marriott, Phoenix West/Avondale\u201d", "Author": "bootsykaren", "ReviewID": "UR127066957", "Content": "stayed week 60 people complaints service staff nice hotel clean nice pool courtyard nice fitness center 24 hrs complaint lounge 5 10 pm hotel sits middle van shuttle 3 pm dont drive strip mall walking distance reccomend hotel", "Date": "2012-04-01 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Springboro, Ohio, United States", "Title": "\u201cAverage for Courtyard\u201d", "Author": "David H", "ReviewID": "UR125321096", "Content": "stayed business trip courtyard relatively clean organized internet unusually slow based performance time periods guess dsl bathtub nice standing shower liked makes sense bathes anymore unless traveling kids wish courtyard replace elevators slowest hotel chains marriott properties ones overall id recommend staying clean convenient safe amenities expect marriott property im giving average rating", "Date": "2012-02-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Las Vegas, Nevada", "Title": "\u201cGreat Hotel\u201d", "Author": "Christopher M", "ReviewID": "UR121399726", "Content": "decided stay courtyard annual golf trip mind stay couple days closer scottsdale golf courses tournament located days decided stay despite fourty minutes drive day hotel people hotel stay hard judge hotel overnight stay ten nights honest review spacious clean designed modern priced rare combination amenities bed confortable proximity restaurants movie theatre shopping plus definitly staff maria mike restaurant breakfast polite smiling helpful pleasure lady bar pleasant knowledgeable gentleman front desk called restaurants check thanksgiving nice touch thank stay memorable july 2012 golf tournament", "Date": "2011-12-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 2.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Toronto, Canada", "Title": "\u201cClean, new, all amenities worked well, but $$ for the area.\u201d", "Author": "neco136", "ReviewID": "UR99294847", "Content": "4day business trip phoenix commute downtown airport 20min lobby clean perfect casual business meetings day liked bar limited meal service evenings local theres outdoor retail mall 20min walk plus movie theatres 34 chain restaurants usual fare red robin chipotle couple decent burger joints sushi chain cheap golf decent muni courses 50 round 20min drive popular eateries nightlife glendale 10min drive scottsdale upscale restaurants nightlife 35min drive clean carpet firm comfortable mattress duvet silent central heatac lighting ok pullout couch coffee table balcony view lot highway bit cramped crowded 2 32 flat screen tv cable local hd stations hd free wifi hitch laptop iphone log whenever 30min mini fridge coffeemaker inroom bathtub shower shower head amenities outdoor pool decent clean excercise hot tub wasnt hot day fixed reporting front desk breakfast extra charge impressed nightly rate comparable 4star airport shuttle transit option car parking free casual business centre lobby browsing printing faxing handy overall stay book ahead rate", "Date": "2011-03-07 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Aspen, Colorado", "Title": "\u201cAt least it's clean.\u201d", "Author": "vwjou", "ReviewID": "UR77108781", "Content": "phoenix fairly regularly help parents lately ive stay hotels getting fun special track home central terrible unless youre spring training service fine hohum special clean expect chain location awful crowded tv dresser half im chain hotels partially own fault personality isnt predictable sterile navigate hotels outskirts phoenix look mini hospitals blech", "Date": "2010-08-27 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Melbourne", "Title": "\u201cNeat & tidy\u201d", "Author": "VictorG", "ReviewID": "UR75907691", "Content": "looks outskirts phoenix stayed business trip overnight nice fantastic nice beds pillows comfortable gym pool pool heated pick location east facing overlooks car park views tea coffee facilities available counter nice cookies meals reasonably priced restaurant breakfast usual fare omelettes wasnt told waitress", "Date": "2010-08-19 00:00:00"}], "HotelInfo": {"Name": "Courtyard by Marriott Phoenix West/Avondale", "HotelURL": "/ShowUserReviews-g31310-d677854-Reviews-Courtyard_by_Marriott_Phoenix_West_Avondale-Phoenix_Arizona.html", "Price": "$89 - $192*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1650 North 95th Lane</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85037</span></span> </span></span></address>", "HotelID": "677854", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/84/e1/90/business-center.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Cincinnati, Ohio",
+      "Title": "\u201cCourtyard by Marriott, Phoenix West/Avondale\u201d",
+      "Author": "bootsykaren",
+      "ReviewID": "UR127066957",
+      "Content": "stayed week 60 people complaints service staff nice hotel clean nice pool courtyard nice fitness center 24 hrs complaint lounge 5 10 pm hotel sits middle van shuttle 3 pm dont drive strip mall walking distance reccomend hotel",
+      "Date": "2012-04-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Springboro, Ohio, United States",
+      "Title": "\u201cAverage for Courtyard\u201d",
+      "Author": "David H",
+      "ReviewID": "UR125321096",
+      "Content": "stayed business trip courtyard relatively clean organized internet unusually slow based performance time periods guess dsl bathtub nice standing shower liked makes sense bathes anymore unless traveling kids wish courtyard replace elevators slowest hotel chains marriott properties ones overall id recommend staying clean convenient safe amenities expect marriott property im giving average rating",
+      "Date": "2012-02-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Las Vegas, Nevada",
+      "Title": "\u201cGreat Hotel\u201d",
+      "Author": "Christopher M",
+      "ReviewID": "UR121399726",
+      "Content": "decided stay courtyard annual golf trip mind stay couple days closer scottsdale golf courses tournament located days decided stay despite fourty minutes drive day hotel people hotel stay hard judge hotel overnight stay ten nights honest review spacious clean designed modern priced rare combination amenities bed confortable proximity restaurants movie theatre shopping plus definitly staff maria mike restaurant breakfast polite smiling helpful pleasure lady bar pleasant knowledgeable gentleman front desk called restaurants check thanksgiving nice touch thank stay memorable july 2012 golf tournament",
+      "Date": "2011-12-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 2.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Toronto, Canada",
+      "Title": "\u201cClean, new, all amenities worked well, but $$ for the area.\u201d",
+      "Author": "neco136",
+      "ReviewID": "UR99294847",
+      "Content": "4day business trip phoenix commute downtown airport 20min lobby clean perfect casual business meetings day liked bar limited meal service evenings local theres outdoor retail mall 20min walk plus movie theatres 34 chain restaurants usual fare red robin chipotle couple decent burger joints sushi chain cheap golf decent muni courses 50 round 20min drive popular eateries nightlife glendale 10min drive scottsdale upscale restaurants nightlife 35min drive clean carpet firm comfortable mattress duvet silent central heatac lighting ok pullout couch coffee table balcony view lot highway bit cramped crowded 2 32 flat screen tv cable local hd stations hd free wifi hitch laptop iphone log whenever 30min mini fridge coffeemaker inroom bathtub shower shower head amenities outdoor pool decent clean excercise hot tub wasnt hot day fixed reporting front desk breakfast extra charge impressed nightly rate comparable 4star airport shuttle transit option car parking free casual business centre lobby browsing printing faxing handy overall stay book ahead rate",
+      "Date": "2011-03-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Aspen, Colorado",
+      "Title": "\u201cAt least it's clean.\u201d",
+      "Author": "vwjou",
+      "ReviewID": "UR77108781",
+      "Content": "phoenix fairly regularly help parents lately ive stay hotels getting fun special track home central terrible unless youre spring training service fine hohum special clean expect chain location awful crowded tv dresser half im chain hotels partially own fault personality isnt predictable sterile navigate hotels outskirts phoenix look mini hospitals blech",
+      "Date": "2010-08-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Melbourne",
+      "Title": "\u201cNeat & tidy\u201d",
+      "Author": "VictorG",
+      "ReviewID": "UR75907691",
+      "Content": "looks outskirts phoenix stayed business trip overnight nice fantastic nice beds pillows comfortable gym pool pool heated pick location east facing overlooks car park views tea coffee facilities available counter nice cookies meals reasonably priced restaurant breakfast usual fare omelettes wasnt told waitress",
+      "Date": "2010-08-19 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Courtyard by Marriott Phoenix West/Avondale",
+    "HotelURL": "/ShowUserReviews-g31310-d677854-Reviews-Courtyard_by_Marriott_Phoenix_West_Avondale-Phoenix_Arizona.html",
+    "Price": "$89 - $192*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1650 North 95th Lane</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85037</span></span> </span></span></address>",
+    "HotelID": "677854",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/84/e1/90/business-center.jpg"
+  }
+}

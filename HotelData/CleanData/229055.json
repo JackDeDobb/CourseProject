@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Reading", "Title": "\u201cA Great Place\u201d", "Author": "TrailsurferUK", "ReviewID": "UR127621925", "Content": "stayed rome marathon weekend bargain price nicely kept balcony guy front desk friendly hardly reason interact roughly id doing left people harp staff rome spend time cooked hotel moaning staff breakfast continental ones ive accross waitress friendly chatting runners noticed bad smells except sweaty runners race", "Date": "2012-04-10 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Saint Louis, Missouri", "Title": "\u201cAverage Hotel, Below Average Staff\u201d", "Author": "Kaypo23", "ReviewID": "UR127428873", "Content": "hotel okay clean basic special location okay staff friendliest knowledgeable didnt care bad references restaurants walking distance bad advice hoponhopoff tour didnt advantage breakfast cant comment internet slow kept kicking", "Date": "2012-04-07 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Farmville, North Carolina", "Title": "\u201cSmells Horrible, Unfriendly Staff\u201d", "Author": "Harrison B", "ReviewID": "UR123982739", "Content": "smell coming drain bidet horrible sleep glass leave door shut everyday leave glass drain bathroom door shut everyday cleaning lady removed glass bathroom door ac window smell hot sewage permeated bed clothes constant renovation ongoing throughout 4night stay actually patching walls looked fallen worse collapsed front desk care staying friendly helpful", "Date": "2012-02-01 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Warrington, United Kingdom", "Title": "\u201cValue for money\u201d", "Author": "tut1", "ReviewID": "UR108059166", "Content": "wasnt expect reading reviews lovely stay rome hotel clean tidy couldnt faulted breakfast cold buffet normally europe plentiful fresh id recommend hotel bled walking distance coloseum near tram metro stops else word warning check bill tourist tax 4 euros night", "Date": "2011-05-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Chicago, Illinois", "Title": "\u201cWe had a wonderful experience at Hotel Bled\u201d", "Author": "Sadielady1", "ReviewID": "UR97553015", "Content": "reading negative reviews include positive loved hotel bled service outstanding rome season arrived original hotel booked told misplaced papers reservation luckily dear friends live rome hotel bled recommended actually clean beds comfortable garden location rome walk colloseum coliseum wonderful delis cafes street extra towelspillows spot experience price", "Date": "2011-02-22 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Washington, DC", "Title": "\u201cStay away\u201d", "Author": "JKDC", "ReviewID": "UR87844482", "Content": "simply reason stay hotel except maybe price similarly priced hotels entered smelled musty days leaving window improved bathroom smelled mildew bed extremely uncomfortable leave hotel below staff friendly particularly helpful breakfast acceptable special location terrible hotel 1520 minutes walk colloseum 5 minute walk metro stop stayed hotel else paying bad left nights paid own else bad note hotel multiple buildings explain disparity reviews", "Date": "2010-11-22 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Cleveland, Tennessee", "Title": "\u201cBad experience, Hotel is below standard\u201d", "Author": "donna54946", "ReviewID": "UR72585362", "Content": "moved hotel nicer hotel booked stayed 2 people broken door dirty smelly bathroom bed ants bathroom ants complained move allowed stay door hotel daughter share family bled hotel smelly bathroom dirty air conditioning front staff overall hotel dumpy reccomend stay sleep train station bathrooms cleaner", "Date": "2010-07-27 00:00:00"}], "HotelInfo": {"Name": "Hotel Bled", "HotelURL": "/ShowUserReviews-g187791-d229055-Reviews-Hotel_Bled-Rome_Lazio.html", "Price": "$77 - $218*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Santa Groce in Gerusalemme 40</span> | <span class=\"extended-address\">San Giovanni</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "229055", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8f/12/8f12197d2ae338c61b38d5d6f46245d05large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Reading",
+      "Title": "\u201cA Great Place\u201d",
+      "Author": "TrailsurferUK",
+      "ReviewID": "UR127621925",
+      "Content": "stayed rome marathon weekend bargain price nicely kept balcony guy front desk friendly hardly reason interact roughly id doing left people harp staff rome spend time cooked hotel moaning staff breakfast continental ones ive accross waitress friendly chatting runners noticed bad smells except sweaty runners race",
+      "Date": "2012-04-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Saint Louis, Missouri",
+      "Title": "\u201cAverage Hotel, Below Average Staff\u201d",
+      "Author": "Kaypo23",
+      "ReviewID": "UR127428873",
+      "Content": "hotel okay clean basic special location okay staff friendliest knowledgeable didnt care bad references restaurants walking distance bad advice hoponhopoff tour didnt advantage breakfast cant comment internet slow kept kicking",
+      "Date": "2012-04-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Farmville, North Carolina",
+      "Title": "\u201cSmells Horrible, Unfriendly Staff\u201d",
+      "Author": "Harrison B",
+      "ReviewID": "UR123982739",
+      "Content": "smell coming drain bidet horrible sleep glass leave door shut everyday leave glass drain bathroom door shut everyday cleaning lady removed glass bathroom door ac window smell hot sewage permeated bed clothes constant renovation ongoing throughout 4night stay actually patching walls looked fallen worse collapsed front desk care staying friendly helpful",
+      "Date": "2012-02-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Warrington, United Kingdom",
+      "Title": "\u201cValue for money\u201d",
+      "Author": "tut1",
+      "ReviewID": "UR108059166",
+      "Content": "wasnt expect reading reviews lovely stay rome hotel clean tidy couldnt faulted breakfast cold buffet normally europe plentiful fresh id recommend hotel bled walking distance coloseum near tram metro stops else word warning check bill tourist tax 4 euros night",
+      "Date": "2011-05-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Chicago, Illinois",
+      "Title": "\u201cWe had a wonderful experience at Hotel Bled\u201d",
+      "Author": "Sadielady1",
+      "ReviewID": "UR97553015",
+      "Content": "reading negative reviews include positive loved hotel bled service outstanding rome season arrived original hotel booked told misplaced papers reservation luckily dear friends live rome hotel bled recommended actually clean beds comfortable garden location rome walk colloseum coliseum wonderful delis cafes street extra towelspillows spot experience price",
+      "Date": "2011-02-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Washington, DC",
+      "Title": "\u201cStay away\u201d",
+      "Author": "JKDC",
+      "ReviewID": "UR87844482",
+      "Content": "simply reason stay hotel except maybe price similarly priced hotels entered smelled musty days leaving window improved bathroom smelled mildew bed extremely uncomfortable leave hotel below staff friendly particularly helpful breakfast acceptable special location terrible hotel 1520 minutes walk colloseum 5 minute walk metro stop stayed hotel else paying bad left nights paid own else bad note hotel multiple buildings explain disparity reviews",
+      "Date": "2010-11-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Cleveland, Tennessee",
+      "Title": "\u201cBad experience, Hotel is below standard\u201d",
+      "Author": "donna54946",
+      "ReviewID": "UR72585362",
+      "Content": "moved hotel nicer hotel booked stayed 2 people broken door dirty smelly bathroom bed ants bathroom ants complained move allowed stay door hotel daughter share family bled hotel smelly bathroom dirty air conditioning front staff overall hotel dumpy reccomend stay sleep train station bathrooms cleaner",
+      "Date": "2010-07-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Bled",
+    "HotelURL": "/ShowUserReviews-g187791-d229055-Reviews-Hotel_Bled-Rome_Lazio.html",
+    "Price": "$77 - $218*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Santa Groce in Gerusalemme 40</span> | <span class=\"extended-address\">San Giovanni</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "229055",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8f/12/8f12197d2ae338c61b38d5d6f46245d05large.jpg"
+  }
+}

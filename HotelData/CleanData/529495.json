@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Beirut, Lebanon", "Title": "\u201cSerenity in the Middle of the City\u201d", "Author": "Eddychahine", "ReviewID": "UR128423294", "Content": "feel home homemade breakfast internet free enjoyed lot stay specially main key entrance key home home", "Date": "2012-04-23 00:00:00"}], "HotelInfo": {"Name": "Al Vita City Pension", "HotelURL": "/ShowUserReviews-g187323-d529495-Reviews-Al_Vita_City_Pension-Berlin.html", "Price": "$63 - $104*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Niebuhrstrasse 4</span>, <span class=\"locality\"><span property=\"v:postal-code\">10629</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "529495", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c5/3a/c53af8d5f929c4382fa864afb8a7939e1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Beirut, Lebanon",
+      "Title": "\u201cSerenity in the Middle of the City\u201d",
+      "Author": "Eddychahine",
+      "ReviewID": "UR128423294",
+      "Content": "feel home homemade breakfast internet free enjoyed lot stay specially main key entrance key home home",
+      "Date": "2012-04-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Al Vita City Pension",
+    "HotelURL": "/ShowUserReviews-g187323-d529495-Reviews-Al_Vita_City_Pension-Berlin.html",
+    "Price": "$63 - $104*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Niebuhrstrasse 4</span>, <span class=\"locality\"><span property=\"v:postal-code\">10629</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "529495",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/c5/3a/c53af8d5f929c4382fa864afb8a7939e1large.jpg"
+  }
+}

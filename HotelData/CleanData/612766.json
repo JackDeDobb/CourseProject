@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Nottingham, United Kingdom", "Title": "\u201cLastminute.com error\u201d", "Author": "Fairypants", "ReviewID": "UR125123754", "Content": "booked hotel via lastminutecom images shown website didnt match hotel impression booking grounds pool couldnt wrong stuck resevation wish hadnt grim wall paper peeling walls type single bed didnt precious space doors road nicer stayed", "Date": "2012-02-24 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Cape Town", "Title": "\u201cGreat Value for money!!!!\u201d", "Author": "RayneCapeTown", "ReviewID": "UR82956007", "Content": "read reviews wonder exactly peoples expectations considering paid paid 50 euros night bed breakfast hotel huge bargain colleague stayed nights perfectly clean bathrooms adequate considering bathroom meant time staff friendly helpful minutes walk station etc etc wish people consider paid unfair compare bicycle porsche", "Date": "2010-10-11 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Edinburgh", "Title": "\u201cThis place is a kennel\u201d", "Author": "Consultant4", "ReviewID": "UR82289273", "Content": "day arrive dump hugely half price hotel expensive kennel description pokey shower horrible tv lights soon morning stay", "Date": "2010-10-06 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Aarhus, Denmark", "Title": "\u201cIt is simply not worth the money you pay for it\u201d", "Author": "sch2010", "ReviewID": "UR70190812", "Content": "booked hotel marked stars actual rating 1 stars cry maintenance redecoration pictures web misleading compared details worn wallpaper coming dripping water taps drain properly dirty bathrooms extremely minimalistic equipped putting towels floor mean changed towels week complain reception postive eveningnight receptionists helpful", "Date": "2010-07-08 00:00:00"}], "HotelInfo": {"Name": "Pacific Hotel", "HotelURL": "/ShowUserReviews-g186338-d612766-Reviews-Pacific_Hotel-London_England.html", "Price": "$121 - $406*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">108 Sussex Gardens</span> | <span class=\"extended-address\">Hyde Park</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">W2 1UA</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>", "HotelID": "612766", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/59/09/59090c29ce67d3a2b7744160394da97b5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Nottingham, United Kingdom",
+      "Title": "\u201cLastminute.com error\u201d",
+      "Author": "Fairypants",
+      "ReviewID": "UR125123754",
+      "Content": "booked hotel via lastminutecom images shown website didnt match hotel impression booking grounds pool couldnt wrong stuck resevation wish hadnt grim wall paper peeling walls type single bed didnt precious space doors road nicer stayed",
+      "Date": "2012-02-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Cape Town",
+      "Title": "\u201cGreat Value for money!!!!\u201d",
+      "Author": "RayneCapeTown",
+      "ReviewID": "UR82956007",
+      "Content": "read reviews wonder exactly peoples expectations considering paid paid 50 euros night bed breakfast hotel huge bargain colleague stayed nights perfectly clean bathrooms adequate considering bathroom meant time staff friendly helpful minutes walk station etc etc wish people consider paid unfair compare bicycle porsche",
+      "Date": "2010-10-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Edinburgh",
+      "Title": "\u201cThis place is a kennel\u201d",
+      "Author": "Consultant4",
+      "ReviewID": "UR82289273",
+      "Content": "day arrive dump hugely half price hotel expensive kennel description pokey shower horrible tv lights soon morning stay",
+      "Date": "2010-10-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Aarhus, Denmark",
+      "Title": "\u201cIt is simply not worth the money you pay for it\u201d",
+      "Author": "sch2010",
+      "ReviewID": "UR70190812",
+      "Content": "booked hotel marked stars actual rating 1 stars cry maintenance redecoration pictures web misleading compared details worn wallpaper coming dripping water taps drain properly dirty bathrooms extremely minimalistic equipped putting towels floor mean changed towels week complain reception postive eveningnight receptionists helpful",
+      "Date": "2010-07-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Pacific Hotel",
+    "HotelURL": "/ShowUserReviews-g186338-d612766-Reviews-Pacific_Hotel-London_England.html",
+    "Price": "$121 - $406*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">108 Sussex Gardens</span> | <span class=\"extended-address\">Hyde Park</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">W2 1UA</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>",
+    "HotelID": "612766",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/59/09/59090c29ce67d3a2b7744160394da97b5large.jpg"
+  }
+}

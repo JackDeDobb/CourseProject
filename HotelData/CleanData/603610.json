@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Boston", "Title": "\u201cNothing to get excited about\u201d", "Author": "pacman74", "ReviewID": "UR123062817", "Content": "pros concierge service comfortable beds location obviously downtown 90 minutes traffic food restaurants pretty bit overpriced cons ads feature pool hotel doesnt actually pool converted ballroom 1 3 treadmills gym regular basis hotel taxi service extremely overpriced relative safe taxis hospital hotel internet service horribly overpriced considering slow cuts frequently front desk service questionable english helpful", "Date": "2012-01-14 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Barcelona", "Title": "\u201cIt hasl all it has to have\u201d", "Author": "Carlos_Barcelona", "ReviewID": "UR119287177", "Content": "stayed business trip beds comfortable breakfast ai location bad reasonable close center airport considering lousy traffic df shame internet included rate watch continental breakfast included rate offered croissant surprisingly implies french fries morning stuffed croissant ham cheese increasing bill", "Date": "2011-10-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Whistler, Canada", "Title": "\u201cAwesome Service! Great & Very Clean Rooms. Good Food\u201d", "Author": "Pablo_Contreras_R", "ReviewID": "UR118343218", "Content": "choose hotel door hospital family choose seen reviews overall looking forward amazing surprise moment arrived greeted honest smile front desk staff extremely courteous ensured assigned line reservation requests travel kids additional towels checking usually takes 20 30 minutes receive lucky moment walked found housekeeper placing additional quick efficient service contact staff kept else immediate action extremely clean hospitallike clean comfortable cozy food service surprisingly served exactly requested temperature brought promptly friendly staff yes food expensive soda pay convenience closest restaurant 1 mile complain prices available choice worthy convenient family location car tourist previous horrible experience nh hotel mexico city strongly recommend camino real perfect relax enjoy clean outstanding service", "Date": "2011-09-19 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Cambridge, MA", "Title": "\u201cUnclean rooms and incomplete service\u201d", "Author": "erger78", "ReviewID": "UR75075314", "Content": "stayed hotel trip sponsored government hotel dirty food smudges wall looked blood dark matter smudged bathroom light switch spills stains floor bathroom sink water stains suggested cleaned contrary reviews found service friendly bit inconsistent times services signs indications pool advertised website restaurants prices ridiculous 35 breakfast isnt waldorf astoria charge 15 riffraff expense account hotel extremely completely isolated automobile town lucky driver dont youll spending lots money cabs drive 30 minutes nearest spot de las frogs hosts obviously stay safe traded safety closer major sites complaint internet speeds connectivity atrocious paid 1295day internet front desk password day lose connection regularly refund id bet equivalent connection positive rating beds comfortable slept guess thats matters", "Date": "2010-08-13 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Acapulco, Mexico", "Title": "\u201cBig disappointment...never again.\u201d", "Author": "archibalda", "ReviewID": "UR65103847", "Content": "stayed camino real hotels found time spent 1 night price 140 3 pax expedia rate posted reception 400 claim 5 star hotel truth star half stains carpet immediately impression dirt hotel widely angeles hospital door stains bathroom hand towel paid 40 surcharge daughter share beds bedding alaska december main complaint ac ac quickly issue called reception help send maintenance waited waited eventually fell asleep driven 5 hours daughter 14 hour flight none slept sweated night courtesy coffee cost 35 astonished checking charged 10 service charge coffee ourselves refused pay principle called duty manager complain ac completely bothered apologise constant mexico customer needless stay hotel hotel south city radisson", "Date": "2010-05-23 00:00:00"}], "HotelInfo": {"Name": "Camino Real Pedregal", "HotelURL": "/ShowUserReviews-g150800-d603610-Reviews-Camino_Real_Pedregal-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$104 - $138*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Periferico Sur 3647, Col Heroes De Padierna</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">10700</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "603610", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/22/2e/222eaa45a53f9585a2ff0fe94d6c2b513large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Boston",
+      "Title": "\u201cNothing to get excited about\u201d",
+      "Author": "pacman74",
+      "ReviewID": "UR123062817",
+      "Content": "pros concierge service comfortable beds location obviously downtown 90 minutes traffic food restaurants pretty bit overpriced cons ads feature pool hotel doesnt actually pool converted ballroom 1 3 treadmills gym regular basis hotel taxi service extremely overpriced relative safe taxis hospital hotel internet service horribly overpriced considering slow cuts frequently front desk service questionable english helpful",
+      "Date": "2012-01-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Barcelona",
+      "Title": "\u201cIt hasl all it has to have\u201d",
+      "Author": "Carlos_Barcelona",
+      "ReviewID": "UR119287177",
+      "Content": "stayed business trip beds comfortable breakfast ai location bad reasonable close center airport considering lousy traffic df shame internet included rate watch continental breakfast included rate offered croissant surprisingly implies french fries morning stuffed croissant ham cheese increasing bill",
+      "Date": "2011-10-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Whistler, Canada",
+      "Title": "\u201cAwesome Service! Great & Very Clean Rooms. Good Food\u201d",
+      "Author": "Pablo_Contreras_R",
+      "ReviewID": "UR118343218",
+      "Content": "choose hotel door hospital family choose seen reviews overall looking forward amazing surprise moment arrived greeted honest smile front desk staff extremely courteous ensured assigned line reservation requests travel kids additional towels checking usually takes 20 30 minutes receive lucky moment walked found housekeeper placing additional quick efficient service contact staff kept else immediate action extremely clean hospitallike clean comfortable cozy food service surprisingly served exactly requested temperature brought promptly friendly staff yes food expensive soda pay convenience closest restaurant 1 mile complain prices available choice worthy convenient family location car tourist previous horrible experience nh hotel mexico city strongly recommend camino real perfect relax enjoy clean outstanding service",
+      "Date": "2011-09-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Cambridge, MA",
+      "Title": "\u201cUnclean rooms and incomplete service\u201d",
+      "Author": "erger78",
+      "ReviewID": "UR75075314",
+      "Content": "stayed hotel trip sponsored government hotel dirty food smudges wall looked blood dark matter smudged bathroom light switch spills stains floor bathroom sink water stains suggested cleaned contrary reviews found service friendly bit inconsistent times services signs indications pool advertised website restaurants prices ridiculous 35 breakfast isnt waldorf astoria charge 15 riffraff expense account hotel extremely completely isolated automobile town lucky driver dont youll spending lots money cabs drive 30 minutes nearest spot de las frogs hosts obviously stay safe traded safety closer major sites complaint internet speeds connectivity atrocious paid 1295day internet front desk password day lose connection regularly refund id bet equivalent connection positive rating beds comfortable slept guess thats matters",
+      "Date": "2010-08-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Acapulco, Mexico",
+      "Title": "\u201cBig disappointment...never again.\u201d",
+      "Author": "archibalda",
+      "ReviewID": "UR65103847",
+      "Content": "stayed camino real hotels found time spent 1 night price 140 3 pax expedia rate posted reception 400 claim 5 star hotel truth star half stains carpet immediately impression dirt hotel widely angeles hospital door stains bathroom hand towel paid 40 surcharge daughter share beds bedding alaska december main complaint ac ac quickly issue called reception help send maintenance waited waited eventually fell asleep driven 5 hours daughter 14 hour flight none slept sweated night courtesy coffee cost 35 astonished checking charged 10 service charge coffee ourselves refused pay principle called duty manager complain ac completely bothered apologise constant mexico customer needless stay hotel hotel south city radisson",
+      "Date": "2010-05-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Camino Real Pedregal",
+    "HotelURL": "/ShowUserReviews-g150800-d603610-Reviews-Camino_Real_Pedregal-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$104 - $138*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Periferico Sur 3647, Col Heroes De Padierna</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">10700</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "603610",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/22/2e/222eaa45a53f9585a2ff0fe94d6c2b513large.jpg"
+  }
+}

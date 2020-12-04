@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Eindhoven, The Netherlands", "Title": "\u201cCheap but a long distance from the centre\u201d", "Author": "ArnoJa", "ReviewID": "UR121283914", "Content": "clean prices relatively low breakfast included standard ham bread coffee etc eg warm stuff bacon eggs etc types comfort wifi costs bit ac minibar hotel bar normally closed safety deposit box 15 20 minutes walking str restaurant distance str opposite direction crossing str restaurant that\u2019s action action tram followed metro town center", "Date": "2011-12-01 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Tilburg, The Netherlands", "Title": "\u201cQuiet hotel with easy access\u201d", "Author": "andrelot", "ReviewID": "UR120976704", "Content": "hotel remarkably quiet spot residential northern outskirts berlin found easily car middle night arrived staff helpful managed assist getting environmental sticker drive car downtown berlin quiet clean negative remarks jurassic tv set evokes former east germany wornout entrance parking garage narrow curvy requires bit attention extra car suv difficulties quiet insulated street passes front stayed lowest flower didnt hear car accelerating breakfast impressive price range worth extra cost wide selection bread cheese appetizers", "Date": "2011-11-23 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Barcelona, Spain", "Title": "\u201cGood hotel at very affordable prices\u201d", "Author": "rogerinbcn", "ReviewID": "UR120221578", "Content": "hotel hotel affordable prices tram station night bus stops steps doorway convenient centrally located basic practical breakfast super affordable price totally recomendable budget travellers", "Date": "2011-11-06 00:00:00"}], "HotelInfo": {"Name": "Businesshotel Berlin", "HotelURL": "/ShowUserReviews-g187323-d202652-Reviews-Businesshotel_Berlin-Berlin.html", "Price": "$42 - $66*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Pasewalker Strasse 97</span>, <span class=\"locality\"><span property=\"v:postal-code\">13127</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "202652", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/2a/fe/2d/businesshotel-berlin.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Eindhoven, The Netherlands",
+      "Title": "\u201cCheap but a long distance from the centre\u201d",
+      "Author": "ArnoJa",
+      "ReviewID": "UR121283914",
+      "Content": "clean prices relatively low breakfast included standard ham bread coffee etc eg warm stuff bacon eggs etc types comfort wifi costs bit ac minibar hotel bar normally closed safety deposit box 15 20 minutes walking str restaurant distance str opposite direction crossing str restaurant that\u2019s action action tram followed metro town center",
+      "Date": "2011-12-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Tilburg, The Netherlands",
+      "Title": "\u201cQuiet hotel with easy access\u201d",
+      "Author": "andrelot",
+      "ReviewID": "UR120976704",
+      "Content": "hotel remarkably quiet spot residential northern outskirts berlin found easily car middle night arrived staff helpful managed assist getting environmental sticker drive car downtown berlin quiet clean negative remarks jurassic tv set evokes former east germany wornout entrance parking garage narrow curvy requires bit attention extra car suv difficulties quiet insulated street passes front stayed lowest flower didnt hear car accelerating breakfast impressive price range worth extra cost wide selection bread cheese appetizers",
+      "Date": "2011-11-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Barcelona, Spain",
+      "Title": "\u201cGood hotel at very affordable prices\u201d",
+      "Author": "rogerinbcn",
+      "ReviewID": "UR120221578",
+      "Content": "hotel hotel affordable prices tram station night bus stops steps doorway convenient centrally located basic practical breakfast super affordable price totally recomendable budget travellers",
+      "Date": "2011-11-06 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Businesshotel Berlin",
+    "HotelURL": "/ShowUserReviews-g187323-d202652-Reviews-Businesshotel_Berlin-Berlin.html",
+    "Price": "$42 - $66*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Pasewalker Strasse 97</span>, <span class=\"locality\"><span property=\"v:postal-code\">13127</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "202652",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/2a/fe/2d/businesshotel-berlin.jpg"
+  }
+}

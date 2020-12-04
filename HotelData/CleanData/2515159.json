@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Palo Alto, California", "Title": "\u201cW must stand for Wow\u201d", "Author": "Dicksan", "ReviewID": "UR127358777", "Content": "weve day impressions terrific building town share building apple store staff incredibly helpful friendly ours smallish typical europe appointed decorating hotel nice quirkiness fun inroom amenities charging station evey mobile phone imaginable nice audiovideo equiptment", "Date": "2012-04-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cMagnifique!\u201d", "Author": "australiantripper_10", "ReviewID": "UR126999342", "Content": "true form beautiful quirky touches manages incorporate french chic booked wonderful paris standards designed little mini bar bathroom nice hang towels basin spout looked cool splashed water straight onto front beds comfortable pillows disappear overnight staff lovely gorgeous helpful breakfast espresso hotel located corner metro station blocks vendome tuileries louvre etc block department stores beautiful building enter lifts straight ahead reception left barlounge disjointed dont impression lacks usual ambience hotel shame", "Date": "2012-03-31 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cWonderful W\u201d", "Author": "jetsetter741", "ReviewID": "UR126143904", "Content": "paris central location heart town short walk galleries lafayette printemps stunning view opera hotel filled chic women fur coats staggeringly heels people watching park yourself nikki hilton hotel bar booked standard wonderful found decent size hotel paris modern amenities expected iphone chargers etc seriously chocolate mini bar breakfast pricey 45 euro wasnt included standard rate worth experiencing service hot soup freshest croissants eggs styles poached egg salmon arrived topped fish roe super yummy hotel restaurant excellent chef helm served tapas worth trying book ahead closed private event night night hotel bathrooms glass nearly frosted traveling business associate warned hang towels inside shower getting wet hotel wow location cool factor worth checking paris", "Date": "2012-03-15 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cVery disappointing\u201d", "Author": "310MrG", "ReviewID": "UR125944360", "Content": "wife celebrate birthday location building superb sadly thats stopped impressed hotel days looked dated staff process trained whilst friendly service slow comfortable bed accommodation cramped strange bathroom set tiny toilet bath door allied external sounds woken hotel 5am heard music bar late night youd expect 5 star hotel returned day paris hadnt personally poor value money", "Date": "2012-03-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Barcelona, Spain", "Title": "\u201cGreat experience\u201d", "Author": "Javier A", "ReviewID": "UR125659026", "Content": "week wife hotel paris excellent experience highlight aspects service concerned stay comfortable bed superb third aspect restaurant proposal excellent whit doubt", "Date": "2012-03-05 00:00:00"}], "HotelInfo": {"Name": "W Paris Opera", "HotelURL": "/ShowUserReviews-g187147-d2322662-Reviews-W_Paris_Opera-Paris_Ile_de_France.html", "Price": "$356 - $798*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4 Rue Meyerbeer</span>, <span class=\"locality\"><span property=\"v:postal-code\">75009</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>", "HotelID": "2515159", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ae/a2/aea2be07f517adf8c4d2bfdad9d0bce53large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Palo Alto, California",
+      "Title": "\u201cW must stand for Wow\u201d",
+      "Author": "Dicksan",
+      "ReviewID": "UR127358777",
+      "Content": "weve day impressions terrific building town share building apple store staff incredibly helpful friendly ours smallish typical europe appointed decorating hotel nice quirkiness fun inroom amenities charging station evey mobile phone imaginable nice audiovideo equiptment",
+      "Date": "2012-04-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cMagnifique!\u201d",
+      "Author": "australiantripper_10",
+      "ReviewID": "UR126999342",
+      "Content": "true form beautiful quirky touches manages incorporate french chic booked wonderful paris standards designed little mini bar bathroom nice hang towels basin spout looked cool splashed water straight onto front beds comfortable pillows disappear overnight staff lovely gorgeous helpful breakfast espresso hotel located corner metro station blocks vendome tuileries louvre etc block department stores beautiful building enter lifts straight ahead reception left barlounge disjointed dont impression lacks usual ambience hotel shame",
+      "Date": "2012-03-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cWonderful W\u201d",
+      "Author": "jetsetter741",
+      "ReviewID": "UR126143904",
+      "Content": "paris central location heart town short walk galleries lafayette printemps stunning view opera hotel filled chic women fur coats staggeringly heels people watching park yourself nikki hilton hotel bar booked standard wonderful found decent size hotel paris modern amenities expected iphone chargers etc seriously chocolate mini bar breakfast pricey 45 euro wasnt included standard rate worth experiencing service hot soup freshest croissants eggs styles poached egg salmon arrived topped fish roe super yummy hotel restaurant excellent chef helm served tapas worth trying book ahead closed private event night night hotel bathrooms glass nearly frosted traveling business associate warned hang towels inside shower getting wet hotel wow location cool factor worth checking paris",
+      "Date": "2012-03-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cVery disappointing\u201d",
+      "Author": "310MrG",
+      "ReviewID": "UR125944360",
+      "Content": "wife celebrate birthday location building superb sadly thats stopped impressed hotel days looked dated staff process trained whilst friendly service slow comfortable bed accommodation cramped strange bathroom set tiny toilet bath door allied external sounds woken hotel 5am heard music bar late night youd expect 5 star hotel returned day paris hadnt personally poor value money",
+      "Date": "2012-03-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Barcelona, Spain",
+      "Title": "\u201cGreat experience\u201d",
+      "Author": "Javier A",
+      "ReviewID": "UR125659026",
+      "Content": "week wife hotel paris excellent experience highlight aspects service concerned stay comfortable bed superb third aspect restaurant proposal excellent whit doubt",
+      "Date": "2012-03-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "W Paris Opera",
+    "HotelURL": "/ShowUserReviews-g187147-d2322662-Reviews-W_Paris_Opera-Paris_Ile_de_France.html",
+    "Price": "$356 - $798*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4 Rue Meyerbeer</span>, <span class=\"locality\"><span property=\"v:postal-code\">75009</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>",
+    "HotelID": "2515159",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ae/a2/aea2be07f517adf8c4d2bfdad9d0bce53large.jpg"
+  }
+}

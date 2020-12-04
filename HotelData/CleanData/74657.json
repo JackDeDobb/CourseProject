@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Grand Rapids, Michigan", "Title": "\u201cNew Management Makes a Difference\u201d", "Author": "Bab C", "ReviewID": "UR126048928", "Content": "read negative reviews concerned tenday stay booked wife property prior checking acceptably clean comfortable suited management own initiative based earlier comments visit days earlier purchased mattress pad bed result responsiveness courteousness stay ten days planned considering staying month instead renting condo 50 night booked directly website king sized bed executive suite value simply adjust expectations align price pay 250 night", "Date": "2012-03-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Palm Springs, California", "Title": "\u201c2 years time; How did it get this bad?\u201d", "Author": "TheRenovator", "ReviewID": "UR123329848", "Content": "review 2 ago raving time disappointed shocked gone parallel version fair trying upgrade improve outdoor pool balconies improvements putting guests substandard partner booked stay priceline time wonder reason bad hotels tend dislike getting direct bookings priceline prepaid reservation hotels depend filing paperwork retrieve share rate original 166 2 standard beds kitchenette sitting mattress covered protector bags oversized drooping floor sheets beds inside poorly bed wrinkled pulled blankets bed mattress protectors hanging sheets onto floor covered looked dried body fluids mucus blood unmentionable filth ac unit sounded 50 harley davidson toilet rim seat clean streaked smeared hinges toilet lid crusted brown substance add insult injury grabbed hand towel stiff dryer burned black kinky hairs stuck fibers checked 115pm running errands putting luggage didnt observe 7pm getting ready bed due huge move middle called front desk told discoveries 20 minutes validity complaint documented paper immediately please moved 168 repainted fixed cleaner 166 style furnishings painted walls bathrooms substandard lighting incident bulb ones fixture starting fire maintenance mans comment lens light tiny bit light cfl bulb units 1216 watts lot light 100 watts worth incandescent lighting sadly disappointed sad nice stayed time 2010 hope sake pulled cleaner customer friendly", "Date": "2012-01-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Phoenix, Arizona", "Title": "\u201cGo for it\u201d", "Author": "cate g", "ReviewID": "UR121370107", "Content": "husband sold az stay awhile tell cold weather changes north extended stay pleased decided stop check metro center extended stay staff friendly helpful nice extended stays look hotel staff allowed look choice options decided oh price excellent sofa instead chair hate sit bed lack else sit read bad reviews staying hotel can\u2019t speak experience guest tell ours stay", "Date": "2011-12-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Palm Springs, California", "Title": "\u201cNew Management, Great Service, BEST location for valley business...\u201d", "Author": "TheRenovator", "ReviewID": "UR65731638", "Content": "manager kevin butler staff attentive dishwasher ac etc management price month stay looked purchased home city phoenix location restaurants cajun cuisine tgi friday luxury clean adequate temporary living space staying period time kitchenettes functional fridge ice maker dishwasher 2 burner stove top", "Date": "2010-05-29 00:00:00"}], "HotelInfo": {"Name": "Extended StayAmerica Phoenix - Metro Center", "HotelURL": "/ShowUserReviews-g31310-d74657-Reviews-Extended_StayAmerica_Phoenix_Metro_Center-Phoenix_Arizona.html", "Price": "$45 - $55*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">11211 North Black Canyon Highway</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85029</span></span> </span></span></address>", "HotelID": "74657", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/07/26/0726e119a1dd29c8695256aaadf4051f4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Grand Rapids, Michigan",
+      "Title": "\u201cNew Management Makes a Difference\u201d",
+      "Author": "Bab C",
+      "ReviewID": "UR126048928",
+      "Content": "read negative reviews concerned tenday stay booked wife property prior checking acceptably clean comfortable suited management own initiative based earlier comments visit days earlier purchased mattress pad bed result responsiveness courteousness stay ten days planned considering staying month instead renting condo 50 night booked directly website king sized bed executive suite value simply adjust expectations align price pay 250 night",
+      "Date": "2012-03-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Palm Springs, California",
+      "Title": "\u201c2 years time; How did it get this bad?\u201d",
+      "Author": "TheRenovator",
+      "ReviewID": "UR123329848",
+      "Content": "review 2 ago raving time disappointed shocked gone parallel version fair trying upgrade improve outdoor pool balconies improvements putting guests substandard partner booked stay priceline time wonder reason bad hotels tend dislike getting direct bookings priceline prepaid reservation hotels depend filing paperwork retrieve share rate original 166 2 standard beds kitchenette sitting mattress covered protector bags oversized drooping floor sheets beds inside poorly bed wrinkled pulled blankets bed mattress protectors hanging sheets onto floor covered looked dried body fluids mucus blood unmentionable filth ac unit sounded 50 harley davidson toilet rim seat clean streaked smeared hinges toilet lid crusted brown substance add insult injury grabbed hand towel stiff dryer burned black kinky hairs stuck fibers checked 115pm running errands putting luggage didnt observe 7pm getting ready bed due huge move middle called front desk told discoveries 20 minutes validity complaint documented paper immediately please moved 168 repainted fixed cleaner 166 style furnishings painted walls bathrooms substandard lighting incident bulb ones fixture starting fire maintenance mans comment lens light tiny bit light cfl bulb units 1216 watts lot light 100 watts worth incandescent lighting sadly disappointed sad nice stayed time 2010 hope sake pulled cleaner customer friendly",
+      "Date": "2012-01-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Phoenix, Arizona",
+      "Title": "\u201cGo for it\u201d",
+      "Author": "cate g",
+      "ReviewID": "UR121370107",
+      "Content": "husband sold az stay awhile tell cold weather changes north extended stay pleased decided stop check metro center extended stay staff friendly helpful nice extended stays look hotel staff allowed look choice options decided oh price excellent sofa instead chair hate sit bed lack else sit read bad reviews staying hotel can\u2019t speak experience guest tell ours stay",
+      "Date": "2011-12-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Palm Springs, California",
+      "Title": "\u201cNew Management, Great Service, BEST location for valley business...\u201d",
+      "Author": "TheRenovator",
+      "ReviewID": "UR65731638",
+      "Content": "manager kevin butler staff attentive dishwasher ac etc management price month stay looked purchased home city phoenix location restaurants cajun cuisine tgi friday luxury clean adequate temporary living space staying period time kitchenettes functional fridge ice maker dishwasher 2 burner stove top",
+      "Date": "2010-05-29 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Extended StayAmerica Phoenix - Metro Center",
+    "HotelURL": "/ShowUserReviews-g31310-d74657-Reviews-Extended_StayAmerica_Phoenix_Metro_Center-Phoenix_Arizona.html",
+    "Price": "$45 - $55*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">11211 North Black Canyon Highway</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85029</span></span> </span></span></address>",
+    "HotelID": "74657",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/07/26/0726e119a1dd29c8695256aaadf4051f4large.jpg"
+  }
+}

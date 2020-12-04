@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Udine, Italy", "Title": "\u201cAverage\u201d", "Author": "Rutt0", "ReviewID": "UR125336724", "Content": "spent time hotel business trips location price options hotel bad major issues minority absolutely avoid internal windows breath facing main street highway noisy heating conditioning system poor set temperature cooked die cold restaurant doesnt worth visit overall ok position corporate rates lower", "Date": "2012-02-28 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "Bristol, United Kingdom", "Title": "\u201cDifficult to rate\u201d", "Author": "Liz_nz", "ReviewID": "UR123553932", "Content": "hotel industrial asian istanbul 6 8 lane highway appear industrial premises female travelling limited staying hotel taxis reception relatively plain restaurant left hand service quickly checked porter whisked bag time tv minibar bathroom leaving unpack wasnt impressed hotel taxi pulled fine lovely clean spotless white sheets stocked complementary toiletries shoe polish needle kit etc supplied slippers replaced day service menu available 24 hours day found food wasnt turkey chose service night restaurant women sight menu service menu service fine food ok couldnt pepper steak fries rice odd expected traditional steak coated cracked pepper received steak dianne braised steak covered mushroom sauce grilled peppers despite expected didnt taste bad biggest complaint highway noise lights curtains thin lights traffic flashed night bed firm hard darker noise im id slept fine free wifi couldnt internet connection iphone notebook request highway", "Date": "2012-01-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 2.0}, "AuthorLocation": "Telford, United Kingdom", "Title": "\u201cLovely hotel, shame about the location\u201d", "Author": "zogiteno1", "ReviewID": "UR90925546", "Content": "hotel couple nights flight home cancelled due snow lovely hotel comfortable spacious spotlessly clean lot facilities didnt time staff polite friendly couldnt help breakfast enormous array image hot cold except bacon course airline paying set evening meal drawback location middle industrial estate asian istanbul fine youre looking stopover sabiha gokcen airport 30 mins hour local bus ferry european", "Date": "2010-12-28 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Antwerp, Belgium", "Title": "\u201cOK business hotel - but beware of location\u201d", "Author": "MrLoo", "ReviewID": "UR85329482", "Content": "positive pleasant adequate breakfast wifi ok business recommendations map website hides bit location taxidrivers check location suburb vs downtown hotel information closest ferry 3km downtown istanbul seaport downtown istanbul 10km restaurant limited food selection actually food free time easy tourist attractions downtown istanbul arrival ataturk 25hours", "Date": "2010-10-30 00:00:00"}], "HotelInfo": {"Name": "Bostanci Prenses Hotel", "HotelURL": "/ShowUserReviews-g293974-d630209-Reviews-Bostanci_Prenses_Hotel-Istanbul.html", "Price": "$98 - $125*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">BostancI Degirmenyolu Cad.No:24</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34752</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "630209", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/93/fa/93fa62010a6f2773788c2e7b9e40d1b11large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Udine, Italy",
+      "Title": "\u201cAverage\u201d",
+      "Author": "Rutt0",
+      "ReviewID": "UR125336724",
+      "Content": "spent time hotel business trips location price options hotel bad major issues minority absolutely avoid internal windows breath facing main street highway noisy heating conditioning system poor set temperature cooked die cold restaurant doesnt worth visit overall ok position corporate rates lower",
+      "Date": "2012-02-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Bristol, United Kingdom",
+      "Title": "\u201cDifficult to rate\u201d",
+      "Author": "Liz_nz",
+      "ReviewID": "UR123553932",
+      "Content": "hotel industrial asian istanbul 6 8 lane highway appear industrial premises female travelling limited staying hotel taxis reception relatively plain restaurant left hand service quickly checked porter whisked bag time tv minibar bathroom leaving unpack wasnt impressed hotel taxi pulled fine lovely clean spotless white sheets stocked complementary toiletries shoe polish needle kit etc supplied slippers replaced day service menu available 24 hours day found food wasnt turkey chose service night restaurant women sight menu service menu service fine food ok couldnt pepper steak fries rice odd expected traditional steak coated cracked pepper received steak dianne braised steak covered mushroom sauce grilled peppers despite expected didnt taste bad biggest complaint highway noise lights curtains thin lights traffic flashed night bed firm hard darker noise im id slept fine free wifi couldnt internet connection iphone notebook request highway",
+      "Date": "2012-01-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Telford, United Kingdom",
+      "Title": "\u201cLovely hotel, shame about the location\u201d",
+      "Author": "zogiteno1",
+      "ReviewID": "UR90925546",
+      "Content": "hotel couple nights flight home cancelled due snow lovely hotel comfortable spacious spotlessly clean lot facilities didnt time staff polite friendly couldnt help breakfast enormous array image hot cold except bacon course airline paying set evening meal drawback location middle industrial estate asian istanbul fine youre looking stopover sabiha gokcen airport 30 mins hour local bus ferry european",
+      "Date": "2010-12-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Antwerp, Belgium",
+      "Title": "\u201cOK business hotel - but beware of location\u201d",
+      "Author": "MrLoo",
+      "ReviewID": "UR85329482",
+      "Content": "positive pleasant adequate breakfast wifi ok business recommendations map website hides bit location taxidrivers check location suburb vs downtown hotel information closest ferry 3km downtown istanbul seaport downtown istanbul 10km restaurant limited food selection actually food free time easy tourist attractions downtown istanbul arrival ataturk 25hours",
+      "Date": "2010-10-30 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Bostanci Prenses Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d630209-Reviews-Bostanci_Prenses_Hotel-Istanbul.html",
+    "Price": "$98 - $125*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">BostancI Degirmenyolu Cad.No:24</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34752</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "630209",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/93/fa/93fa62010a6f2773788c2e7b9e40d1b11large.jpg"
+  }
+}

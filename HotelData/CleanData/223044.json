@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Oakland, California", "Title": "\u201cDon't let the sunny picture fool you!\u201d", "Author": "yw4me", "ReviewID": "UR94313268", "Content": "10900 night day ripoff looked picture reservations looked okay supershuttle dropped friend street social security office mental heath clinic seedy la checked toilet overflowing called front desk check changed telephone didnt told front desk guy phone didnt call bad neighborhood im thinking 911 isnt realm possibility yes am phone door phone door looked kicked previous stay prop chair doorknob sleep frontdesk staff friendly heaven forbid", "Date": "2011-01-24 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Calgary", "Title": "\u201cWasn't too bad...\u201d", "Author": "thekittenlady", "ReviewID": "UR64544080", "Content": "pretty basic frills accommodation thankfully encounter vermin past guests wasnt special clean bit sketchy walk dark drove concern close touristy stuff hollywood chose low price werent disappointed based experience recommend budget conscious traveler youre expecting ritz extremely unhappy", "Date": "2010-05-18 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "california", "Title": "\u201cthe location is pathetic\u201d", "Author": "lunsford619", "ReviewID": "UR59066552", "Content": "checked hotel looked staff entered smelly bugs trip supposed romantic nightmare lot prostitutes moving hotel frequently wife insecure noisy walls thin listen person", "Date": "2010-03-20 00:00:00"}], "HotelInfo": {"Name": "Vagabond Inn Executive", "HotelURL": "/ShowUserReviews-g32655-d223044-Reviews-Vagabond_Inn_Executive-Los_Angeles_California.html", "Price": "$76 - $135*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1133 Vine St</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">90038</span></span> </span> </span> </address>", "HotelID": "223044", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4e/ae/4eae89176eef8060e51d8a9e8deee5d86large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Oakland, California",
+      "Title": "\u201cDon't let the sunny picture fool you!\u201d",
+      "Author": "yw4me",
+      "ReviewID": "UR94313268",
+      "Content": "10900 night day ripoff looked picture reservations looked okay supershuttle dropped friend street social security office mental heath clinic seedy la checked toilet overflowing called front desk check changed telephone didnt told front desk guy phone didnt call bad neighborhood im thinking 911 isnt realm possibility yes am phone door phone door looked kicked previous stay prop chair doorknob sleep frontdesk staff friendly heaven forbid",
+      "Date": "2011-01-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Calgary",
+      "Title": "\u201cWasn't too bad...\u201d",
+      "Author": "thekittenlady",
+      "ReviewID": "UR64544080",
+      "Content": "pretty basic frills accommodation thankfully encounter vermin past guests wasnt special clean bit sketchy walk dark drove concern close touristy stuff hollywood chose low price werent disappointed based experience recommend budget conscious traveler youre expecting ritz extremely unhappy",
+      "Date": "2010-05-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "california",
+      "Title": "\u201cthe location is pathetic\u201d",
+      "Author": "lunsford619",
+      "ReviewID": "UR59066552",
+      "Content": "checked hotel looked staff entered smelly bugs trip supposed romantic nightmare lot prostitutes moving hotel frequently wife insecure noisy walls thin listen person",
+      "Date": "2010-03-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Vagabond Inn Executive",
+    "HotelURL": "/ShowUserReviews-g32655-d223044-Reviews-Vagabond_Inn_Executive-Los_Angeles_California.html",
+    "Price": "$76 - $135*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1133 Vine St</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">90038</span></span> </span> </span> </address>",
+    "HotelID": "223044",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/4e/ae/4eae89176eef8060e51d8a9e8deee5d86large.jpg"
+  }
+}

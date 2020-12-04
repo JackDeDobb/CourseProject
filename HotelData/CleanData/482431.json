@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Arizona", "Title": "\u201cDon't go there.\u201d", "Author": "sukar", "ReviewID": "UR127312107", "Content": "booked 2 months advance arrived moved hotel street hotel terrible ants door constantly stuck carry luggage thin flight stairs friends didnt toilet seat shower curtain security elderly lady pajamas wake tv airconditioner phone hang questionable people breakfast street deli allowed cup coffee sweet roll wasnt worth near price charged close train", "Date": "2012-04-05 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "San Francisco, Ca", "Title": "\u201cA few Steps from All the Action!\u201d", "Author": "Centella9", "ReviewID": "UR122799273", "Content": "hotel clean beds comfortable air conditioning handy flat screen tv reception stayed family suite bothered quiet probably loudest floor maid change towels everyday rude accommodations tv air conditioning unit telephone safe view street front nice rome lit night pretty romantic price worth accommodations cheapest block main terminal catch train little time", "Date": "2012-01-09 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Shumen, Bulgaria", "Title": "\u201cGood hotel\u201d", "Author": "BoykoShumen_Bulgaria", "ReviewID": "UR121555343", "Content": "hotel travellers hotel sleep prefer time sightseeingshopping meals termini station connections city center airport included price near bythe hotel worth money roma", "Date": "2011-12-09 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Brisbane, Australia", "Title": "\u201cNOT RECOMMENDED\u201d", "Author": "ki_lih", "ReviewID": "UR91377317", "Content": "booked stay hotel blu via magenta prior leaving australia prior seeing arrived hotel blu goes pretty reviews 1 pay arrival seeing 2 moved hotel round corner hotel 3 placed beside reception 4 bathroom unclean mould tiles shower hold shower mould im unsure hadnt cleaned 5 ensuite bathroom shower sink toilet own toilet hallway happy reviews breakfast consisted pastry coffee tasty held cafe road sheets clean tv safe advertised dodgy dodgy establishment recommended stay hotels owned management runs hotel", "Date": "2011-01-02 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Cincinnati, Ohio", "Title": "\u201cNEVER EVER BOOK a ROOM in this DUMP!\u201d", "Author": "toothumbsup", "ReviewID": "UR74242600", "Content": "worst hotel stayed life happened negative reviews happened move hotel dump dirty mold bathroom am talking hotels wish read reviews booking move night bags tiny elevator 3 trips rain walk block 3 trips elevator complained avail day told blu booked manager planet told try fix maid manager 30 minutes ok move manager apologetic bait switch seen inside blu wrong rude listen complaints instead huff walked mold bathroom walls affected daughters breathing night slept bathroom door shut shower terrible blu little 2 star maybe 0 star stretch complaining feel stay dump sorry unhappy trip rome reason disliked rome hotel trip florence venice fantastic rome sucked book blu stay planet owned people", "Date": "2010-08-08 00:00:00"}], "HotelInfo": {"Name": "Hotel Soggiorno Blu", "HotelURL": "/ShowUserReviews-g187791-d482431-Reviews-Hotel_Soggiorno_Blu-Rome_Lazio.html", "Price": "$66 - $160*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Magenta, 39</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "482431", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a2/00/a200746f4524e39fde20bcfa3183762e3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Arizona",
+      "Title": "\u201cDon't go there.\u201d",
+      "Author": "sukar",
+      "ReviewID": "UR127312107",
+      "Content": "booked 2 months advance arrived moved hotel street hotel terrible ants door constantly stuck carry luggage thin flight stairs friends didnt toilet seat shower curtain security elderly lady pajamas wake tv airconditioner phone hang questionable people breakfast street deli allowed cup coffee sweet roll wasnt worth near price charged close train",
+      "Date": "2012-04-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "San Francisco, Ca",
+      "Title": "\u201cA few Steps from All the Action!\u201d",
+      "Author": "Centella9",
+      "ReviewID": "UR122799273",
+      "Content": "hotel clean beds comfortable air conditioning handy flat screen tv reception stayed family suite bothered quiet probably loudest floor maid change towels everyday rude accommodations tv air conditioning unit telephone safe view street front nice rome lit night pretty romantic price worth accommodations cheapest block main terminal catch train little time",
+      "Date": "2012-01-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Shumen, Bulgaria",
+      "Title": "\u201cGood hotel\u201d",
+      "Author": "BoykoShumen_Bulgaria",
+      "ReviewID": "UR121555343",
+      "Content": "hotel travellers hotel sleep prefer time sightseeingshopping meals termini station connections city center airport included price near bythe hotel worth money roma",
+      "Date": "2011-12-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Brisbane, Australia",
+      "Title": "\u201cNOT RECOMMENDED\u201d",
+      "Author": "ki_lih",
+      "ReviewID": "UR91377317",
+      "Content": "booked stay hotel blu via magenta prior leaving australia prior seeing arrived hotel blu goes pretty reviews 1 pay arrival seeing 2 moved hotel round corner hotel 3 placed beside reception 4 bathroom unclean mould tiles shower hold shower mould im unsure hadnt cleaned 5 ensuite bathroom shower sink toilet own toilet hallway happy reviews breakfast consisted pastry coffee tasty held cafe road sheets clean tv safe advertised dodgy dodgy establishment recommended stay hotels owned management runs hotel",
+      "Date": "2011-01-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Cincinnati, Ohio",
+      "Title": "\u201cNEVER EVER BOOK a ROOM in this DUMP!\u201d",
+      "Author": "toothumbsup",
+      "ReviewID": "UR74242600",
+      "Content": "worst hotel stayed life happened negative reviews happened move hotel dump dirty mold bathroom am talking hotels wish read reviews booking move night bags tiny elevator 3 trips rain walk block 3 trips elevator complained avail day told blu booked manager planet told try fix maid manager 30 minutes ok move manager apologetic bait switch seen inside blu wrong rude listen complaints instead huff walked mold bathroom walls affected daughters breathing night slept bathroom door shut shower terrible blu little 2 star maybe 0 star stretch complaining feel stay dump sorry unhappy trip rome reason disliked rome hotel trip florence venice fantastic rome sucked book blu stay planet owned people",
+      "Date": "2010-08-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Soggiorno Blu",
+    "HotelURL": "/ShowUserReviews-g187791-d482431-Reviews-Hotel_Soggiorno_Blu-Rome_Lazio.html",
+    "Price": "$66 - $160*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Magenta, 39</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "482431",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a2/00/a200746f4524e39fde20bcfa3183762e3large.jpg"
+  }
+}

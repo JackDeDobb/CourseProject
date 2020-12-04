@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Hong Kong, China", "Title": "\u201cworst hotel!\u201d", "Author": "jude6_12", "ReviewID": "UR125215033", "Content": "dont company hated booking hotel month achieved hell stay hong kong stay barely broken doors floors moldy comfort insufficient toiletries busted outlets utilities nonenglish speaking receptionist dusty stinky matresses sheets falling curtains provision laundry services poor treat", "Date": "2012-02-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cmy first time staying in aberdeen\u201d", "Author": "yandao87", "ReviewID": "UR122696929", "Content": "hotel super super super clean bed super single clean toilets inside soap conditioner cups toothbrush location bus terminal bus mtr hk island strongly recommend definitely choose", "Date": "2012-01-07 00:00:00"}], "HotelInfo": {"Name": "Bridal Tea House Hotel (Aberdeen)", "HotelURL": "/ShowUserReviews-g294217-d1213966-Reviews-Bridal_Tea_House_Hotel_Aberdeen-Hong_Kong.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.150 Aberdeen Main Road, Aberdeen, Hong Kong Island</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>", "HotelID": "1213966", "ImgURL": "http://img.travel.rakuten.co.jp/share/HOTEL/109340/109340.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Hong Kong, China",
+      "Title": "\u201cworst hotel!\u201d",
+      "Author": "jude6_12",
+      "ReviewID": "UR125215033",
+      "Content": "dont company hated booking hotel month achieved hell stay hong kong stay barely broken doors floors moldy comfort insufficient toiletries busted outlets utilities nonenglish speaking receptionist dusty stinky matresses sheets falling curtains provision laundry services poor treat",
+      "Date": "2012-02-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cmy first time staying in aberdeen\u201d",
+      "Author": "yandao87",
+      "ReviewID": "UR122696929",
+      "Content": "hotel super super super clean bed super single clean toilets inside soap conditioner cups toothbrush location bus terminal bus mtr hk island strongly recommend definitely choose",
+      "Date": "2012-01-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Bridal Tea House Hotel (Aberdeen)",
+    "HotelURL": "/ShowUserReviews-g294217-d1213966-Reviews-Bridal_Tea_House_Hotel_Aberdeen-Hong_Kong.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.150 Aberdeen Main Road, Aberdeen, Hong Kong Island</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>",
+    "HotelID": "1213966",
+    "ImgURL": "http://img.travel.rakuten.co.jp/share/HOTEL/109340/109340.jpg"
+  }
+}

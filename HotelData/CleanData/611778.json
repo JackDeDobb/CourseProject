@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Providence, Rhode Island", "Title": "\u201cGreat inexpesive way to stay in Rome with the family\u201d", "Author": "dinabm", "ReviewID": "UR120234159", "Content": "week rome visited daughter studying semester housed residence doro able rent 3 apartment week rates reasonable extra discout daughter 3 apartment husband 13 son sisterinlaw apartment clean comfortable plenty space kitchenette meals apartment complaint allow smoking previous tenant chain smoker couple days windows smell location little tourist track convenient cipro metro station 5 minute walk metro easy easy 15 minute walk vatican staff nice helpful lent outlet converter arranged car airport left definitely recomend alternative expensive hotel cheaper alot space", "Date": "2011-11-06 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Cambridge, Massachusetts", "Title": "\u201cOnly stay here if you are in College\u201d", "Author": "AmericanNerd", "ReviewID": "UR89592320", "Content": "apartmenthotel business time internet exceedingly noisy quantity apartments occupied study abroad college students internet situation told wifi failure normal students system overloaded essentially living college dorm wifi fine staying short student planning time rome avoid arrived cookware filthy caked food cleaned pubic hairs bed stayed twice time late july late july students internet slow usable experience stay", "Date": "2010-12-11 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Pittsburgh", "Title": "\u201cNice apartments, good location near Cipro station, market\u201d", "Author": "RayBuck007", "ReviewID": "UR71057330", "Content": "stayed doro 6 weeks apartment airconditioned dont expect linens towels changed regularly cleaning staff nice mainly speak italian residence secure locked 1030pm reception location near cipro metro station bus stops quietest night lots american students stay study abroad programs", "Date": "2010-07-15 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Atlanta, Georgia", "Title": "\u201cExcellent value for long-term stays\u201d", "Author": "dstewart1", "ReviewID": "UR66836401", "Content": "stayed students study abroad residence wonderful apartments spacious clean wellappointed thorough cleaning service day except sunday linens towels changed weekly usual italy staff friendly helpful courteous apartments located nice residential neighborhood lots shops restaurants short walk cipro metro station fifteen minute walk st peters overall excellent stay honestly little sad leave residence accommodations program", "Date": "2010-06-08 00:00:00"}], "HotelInfo": {"Name": "Medaglie d'Oro", "HotelURL": "/ShowUserReviews-g187791-d611778-Reviews-Medaglie_d_Oro-Rome_Lazio.html", "Price": "$71 - $158*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Gualtiero Serafino 8</span> | <span class=\"extended-address\">Viale Medaglie d'oro 73</span>, <span class=\"locality\"><span property=\"v:postal-code\">00136</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "611778", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ab/7d/ab7d59cfdd83e4267ac6db5eece470e21large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Providence, Rhode Island",
+      "Title": "\u201cGreat inexpesive way to stay in Rome with the family\u201d",
+      "Author": "dinabm",
+      "ReviewID": "UR120234159",
+      "Content": "week rome visited daughter studying semester housed residence doro able rent 3 apartment week rates reasonable extra discout daughter 3 apartment husband 13 son sisterinlaw apartment clean comfortable plenty space kitchenette meals apartment complaint allow smoking previous tenant chain smoker couple days windows smell location little tourist track convenient cipro metro station 5 minute walk metro easy easy 15 minute walk vatican staff nice helpful lent outlet converter arranged car airport left definitely recomend alternative expensive hotel cheaper alot space",
+      "Date": "2011-11-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Cambridge, Massachusetts",
+      "Title": "\u201cOnly stay here if you are in College\u201d",
+      "Author": "AmericanNerd",
+      "ReviewID": "UR89592320",
+      "Content": "apartmenthotel business time internet exceedingly noisy quantity apartments occupied study abroad college students internet situation told wifi failure normal students system overloaded essentially living college dorm wifi fine staying short student planning time rome avoid arrived cookware filthy caked food cleaned pubic hairs bed stayed twice time late july late july students internet slow usable experience stay",
+      "Date": "2010-12-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Pittsburgh",
+      "Title": "\u201cNice apartments, good location near Cipro station, market\u201d",
+      "Author": "RayBuck007",
+      "ReviewID": "UR71057330",
+      "Content": "stayed doro 6 weeks apartment airconditioned dont expect linens towels changed regularly cleaning staff nice mainly speak italian residence secure locked 1030pm reception location near cipro metro station bus stops quietest night lots american students stay study abroad programs",
+      "Date": "2010-07-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Atlanta, Georgia",
+      "Title": "\u201cExcellent value for long-term stays\u201d",
+      "Author": "dstewart1",
+      "ReviewID": "UR66836401",
+      "Content": "stayed students study abroad residence wonderful apartments spacious clean wellappointed thorough cleaning service day except sunday linens towels changed weekly usual italy staff friendly helpful courteous apartments located nice residential neighborhood lots shops restaurants short walk cipro metro station fifteen minute walk st peters overall excellent stay honestly little sad leave residence accommodations program",
+      "Date": "2010-06-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Medaglie d'Oro",
+    "HotelURL": "/ShowUserReviews-g187791-d611778-Reviews-Medaglie_d_Oro-Rome_Lazio.html",
+    "Price": "$71 - $158*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Gualtiero Serafino 8</span> | <span class=\"extended-address\">Viale Medaglie d'oro 73</span>, <span class=\"locality\"><span property=\"v:postal-code\">00136</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "611778",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ab/7d/ab7d59cfdd83e4267ac6db5eece470e21large.jpg"
+  }
+}

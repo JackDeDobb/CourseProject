@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Cairo, Egypt", "Title": "\u201cPoor quality service\u201d", "Author": "m_badran80", "ReviewID": "UR124899826", "Content": "stayed hotel period 11th february 2011 13th feb 2011 choosed hotel price location front bahn station type transport inside cities berlin hotel lies inside commercial centers berlin beside malls lot restaurants location price coming food buffet people reception unfriendly insisting speak german time help city people street beside hotel cold relation weather period windows tried help body helped try hotel", "Date": "2012-02-20 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cGood budget hotel\u201d", "Author": "Marina K", "ReviewID": "UR119018907", "Content": "spent nights single floor american floor amenities ensuite wardrobe store luggage television channels tea coffee facilities starting look little dated exceptionally clean bathroom excellent condition selection breakfast foods extensive lift building reason stops half floors able carry luggage flight stairs stay half flight lift half flight floor wifi free simply password reception hotel excellent location opposite charlottenburg station trains run regularly easy arrived berlin 11pm safe hotel train walking station late hour reception staffed 24 hours found worst hotel pillow mine feather filling offered absolutely support woke day sore neck contemplated hunting ikea buy own pillow instead", "Date": "2011-10-06 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "NRW", "Title": "\u201cNice location but\u201d", "Author": "kadda2", "ReviewID": "UR85256747", "Content": "hotel nice location directly station charlottenburg easily sightseeing berlin furthermore icc congress center bus station 5 minutes minutes plus directly sbahn station supermarket especially late additional water beer eat prices ok staff friendly 1 breakfast bad bread cheese etc 2 luck nice sleep directly lift ie look bed lift 3 dirty black hairs dirty walls dirty beds summary ok weekend stay congress stay option", "Date": "2010-10-29 00:00:00"}], "HotelInfo": {"Name": "Hotel Abendstern", "HotelURL": "/ShowUserReviews-g187323-d320650-Reviews-Hotel_Abendstern-Berlin.html", "Price": "$51 - $144*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Stuttgarter Platz 8</span>, <span class=\"locality\"><span property=\"v:postal-code\">10627</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "320650", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/28/7d/287daaa46140ed8631c4ca5c33d11f145large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Cairo, Egypt",
+      "Title": "\u201cPoor quality service\u201d",
+      "Author": "m_badran80",
+      "ReviewID": "UR124899826",
+      "Content": "stayed hotel period 11th february 2011 13th feb 2011 choosed hotel price location front bahn station type transport inside cities berlin hotel lies inside commercial centers berlin beside malls lot restaurants location price coming food buffet people reception unfriendly insisting speak german time help city people street beside hotel cold relation weather period windows tried help body helped try hotel",
+      "Date": "2012-02-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cGood budget hotel\u201d",
+      "Author": "Marina K",
+      "ReviewID": "UR119018907",
+      "Content": "spent nights single floor american floor amenities ensuite wardrobe store luggage television channels tea coffee facilities starting look little dated exceptionally clean bathroom excellent condition selection breakfast foods extensive lift building reason stops half floors able carry luggage flight stairs stay half flight lift half flight floor wifi free simply password reception hotel excellent location opposite charlottenburg station trains run regularly easy arrived berlin 11pm safe hotel train walking station late hour reception staffed 24 hours found worst hotel pillow mine feather filling offered absolutely support woke day sore neck contemplated hunting ikea buy own pillow instead",
+      "Date": "2011-10-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "NRW",
+      "Title": "\u201cNice location but\u201d",
+      "Author": "kadda2",
+      "ReviewID": "UR85256747",
+      "Content": "hotel nice location directly station charlottenburg easily sightseeing berlin furthermore icc congress center bus station 5 minutes minutes plus directly sbahn station supermarket especially late additional water beer eat prices ok staff friendly 1 breakfast bad bread cheese etc 2 luck nice sleep directly lift ie look bed lift 3 dirty black hairs dirty walls dirty beds summary ok weekend stay congress stay option",
+      "Date": "2010-10-29 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Abendstern",
+    "HotelURL": "/ShowUserReviews-g187323-d320650-Reviews-Hotel_Abendstern-Berlin.html",
+    "Price": "$51 - $144*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Stuttgarter Platz 8</span>, <span class=\"locality\"><span property=\"v:postal-code\">10627</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "320650",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/28/7d/287daaa46140ed8631c4ca5c33d11f145large.jpg"
+  }
+}

@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "new york", "Title": "\u201cA parisian dollhouse\u201d", "Author": "melibee", "ReviewID": "UR127299402", "Content": "soon enter charming boutique hotel staff instantly makes feel welcome sixth floor lovely view paris rooftops sun flooded world feel location central shopping nice restaurants complaint bed comfortable overall fantastic hotel worth visiting", "Date": "2012-04-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Yokohama, Japan", "Title": "\u201cVery charming atmosphare, friendly and efficient service\u201d", "Author": "Fabio3030", "ReviewID": "UR122756705", "Content": "time stay hotel march 2011 stayed nights fanciest hotel paris bristol ritz crillon appreciate charming luxuary accomodations friendly highly efficient staff day arrived late night relaxed soon thanks delicious service meals available 24 hours breakfast delicious pastries bread prominent boutique sweets paris moreover remarkable clealiness cleaned twice day careful highend hotel tokyo realize hotel travel paris", "Date": "2012-01-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cCharming Hotel\u201d", "Author": "Olie079", "ReviewID": "UR109268583", "Content": "stayed hotel daniel 3 nights following cruise clean staff lovely helpful friendly arrived morning grateful decor charming detail lace edged liners cupboards breakfast included bonus cappuccinos lounge short walk champs elysees hotel drivers pick airport dropoff reliable courteous wouldnt hesitate recommending lovely hotel", "Date": "2011-05-22 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Zurich, Switzerland", "Title": "\u201cNice hotel, but a bit expensive\u201d", "Author": "combas", "ReviewID": "UR90073918", "Content": "cant negative hotel rates bit steep compared hotels price category hotel located quiet road steps touristic attractions nice restaurants bistros 2 star michelin restaurant located corner staff helpful served excellent continental breakfast liked especially mixed bread basket hotel 815 type hotel decoration inspired art special taste lot discover hotel unfortunately tiny persons unusual paris 350 euro cheapest classic twin bed expected bit nice handpainted style wallpaper", "Date": "2010-12-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 2.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Jackson, Mississippi", "Title": "\u201cluxurious but small room\u201d", "Author": "havefun71", "ReviewID": "UR67840982", "Content": "hotel daniel lovely clean comfortable staff courteous helpful food wonderful location safe street commercial champselysees expensive example breakfast omelet set 30 wouldnt mind staying dont plan mainly location", "Date": "2010-06-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Sydney, Australia", "Title": "\u201cParis has faded but remains expensive\u201d", "Author": "PFoggSydney", "ReviewID": "UR67437899", "Content": "suite hotel daniel nights website gorgeous hotel bit jaded faded staff strong feeling hotel seen days suite comfortable nice balcony showerthe continental breakfast fine limited typically french fashion mind cost hotel daniel provided travel asia nevertheless excessive fair maybe daniel costs five star asia star hotel daniel suffers comparison pluses location close touristy sufficiently feel genuinely parisian hotel somehow keeping nature paris manager efficient resourceful sorted quickly lot worse paris guess lot money probably cest la vie", "Date": "2010-06-14 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Hong Kong", "Title": "\u201cPerfection.\u201d", "Author": "JWJL", "ReviewID": "UR56627988", "Content": "everythings perfect little hotel reviews true service ambiance perfection impressed manager madame effort feel home looked warmth running 3room bed breakfast tucked tranquil countryside actually tried boutique hotel 2nd day stay paris comparable checked 4th day hotel daniel weve stayed wonderful cozy blue single offered prepared junior suite daniel suite location taxi drivers locating tiny street drop main street rue wasnt hotel entrance 10 steps crossroad", "Date": "2010-02-21 00:00:00"}], "HotelInfo": {"Name": "Hotel Daniel", "HotelURL": "/ShowUserReviews-g187147-d197542-Reviews-Hotel_Daniel-Paris_Ile_de_France.html", "Price": "$387 - $600*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">8 Rue Frederic Bastiat</span> | <span class=\"extended-address\">entre les Champs Elysees et la rue du Faubourg Saint Honor&eacute;</span>, <span class=\"locality\"><span property=\"v:postal-code\">75008</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>", "HotelID": "2514939", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/40/0a/400a7a8c380c444b156d4add3a049a751large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "new york",
+      "Title": "\u201cA parisian dollhouse\u201d",
+      "Author": "melibee",
+      "ReviewID": "UR127299402",
+      "Content": "soon enter charming boutique hotel staff instantly makes feel welcome sixth floor lovely view paris rooftops sun flooded world feel location central shopping nice restaurants complaint bed comfortable overall fantastic hotel worth visiting",
+      "Date": "2012-04-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Yokohama, Japan",
+      "Title": "\u201cVery charming atmosphare, friendly and efficient service\u201d",
+      "Author": "Fabio3030",
+      "ReviewID": "UR122756705",
+      "Content": "time stay hotel march 2011 stayed nights fanciest hotel paris bristol ritz crillon appreciate charming luxuary accomodations friendly highly efficient staff day arrived late night relaxed soon thanks delicious service meals available 24 hours breakfast delicious pastries bread prominent boutique sweets paris moreover remarkable clealiness cleaned twice day careful highend hotel tokyo realize hotel travel paris",
+      "Date": "2012-01-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cCharming Hotel\u201d",
+      "Author": "Olie079",
+      "ReviewID": "UR109268583",
+      "Content": "stayed hotel daniel 3 nights following cruise clean staff lovely helpful friendly arrived morning grateful decor charming detail lace edged liners cupboards breakfast included bonus cappuccinos lounge short walk champs elysees hotel drivers pick airport dropoff reliable courteous wouldnt hesitate recommending lovely hotel",
+      "Date": "2011-05-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Zurich, Switzerland",
+      "Title": "\u201cNice hotel, but a bit expensive\u201d",
+      "Author": "combas",
+      "ReviewID": "UR90073918",
+      "Content": "cant negative hotel rates bit steep compared hotels price category hotel located quiet road steps touristic attractions nice restaurants bistros 2 star michelin restaurant located corner staff helpful served excellent continental breakfast liked especially mixed bread basket hotel 815 type hotel decoration inspired art special taste lot discover hotel unfortunately tiny persons unusual paris 350 euro cheapest classic twin bed expected bit nice handpainted style wallpaper",
+      "Date": "2010-12-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 2.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Jackson, Mississippi",
+      "Title": "\u201cluxurious but small room\u201d",
+      "Author": "havefun71",
+      "ReviewID": "UR67840982",
+      "Content": "hotel daniel lovely clean comfortable staff courteous helpful food wonderful location safe street commercial champselysees expensive example breakfast omelet set 30 wouldnt mind staying dont plan mainly location",
+      "Date": "2010-06-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Sydney, Australia",
+      "Title": "\u201cParis has faded but remains expensive\u201d",
+      "Author": "PFoggSydney",
+      "ReviewID": "UR67437899",
+      "Content": "suite hotel daniel nights website gorgeous hotel bit jaded faded staff strong feeling hotel seen days suite comfortable nice balcony showerthe continental breakfast fine limited typically french fashion mind cost hotel daniel provided travel asia nevertheless excessive fair maybe daniel costs five star asia star hotel daniel suffers comparison pluses location close touristy sufficiently feel genuinely parisian hotel somehow keeping nature paris manager efficient resourceful sorted quickly lot worse paris guess lot money probably cest la vie",
+      "Date": "2010-06-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Hong Kong",
+      "Title": "\u201cPerfection.\u201d",
+      "Author": "JWJL",
+      "ReviewID": "UR56627988",
+      "Content": "everythings perfect little hotel reviews true service ambiance perfection impressed manager madame effort feel home looked warmth running 3room bed breakfast tucked tranquil countryside actually tried boutique hotel 2nd day stay paris comparable checked 4th day hotel daniel weve stayed wonderful cozy blue single offered prepared junior suite daniel suite location taxi drivers locating tiny street drop main street rue wasnt hotel entrance 10 steps crossroad",
+      "Date": "2010-02-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Daniel",
+    "HotelURL": "/ShowUserReviews-g187147-d197542-Reviews-Hotel_Daniel-Paris_Ile_de_France.html",
+    "Price": "$387 - $600*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">8 Rue Frederic Bastiat</span> | <span class=\"extended-address\">entre les Champs Elysees et la rue du Faubourg Saint Honor&eacute;</span>, <span class=\"locality\"><span property=\"v:postal-code\">75008</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>",
+    "HotelID": "2514939",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/40/0a/400a7a8c380c444b156d4add3a049a751large.jpg"
+  }
+}

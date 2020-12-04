@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "Dublin, Ireland", "Title": "\u201cFire Hazard !!!\u201d", "Author": "andrewflanagan", "ReviewID": "UR126190466", "Content": "begin current climate im formally report cowboys businesses feeling pinch hell am gonna forum hotel fire hazard nuff own mind running water mattresses extremely uncomfortable hear tripadvisor bed bugs credit card fraud par course laugh checking explained cynical manager counter running water response told probably fault guess youve warned", "Date": "2012-03-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Streator,Illinois", "Title": "\u201cGreat Place to stay!!\u201d", "Author": "rocmanil", "ReviewID": "UR121565095", "Content": "staying hotel uk business returned london staying hotel 30 days found staff hotel extremely friendly eager stay positive clean comfortable toilet shower outside cleaned throughly everyday spotless comments bedbugs groundless bedbugs spread quickly entire hotel found location hotel superb getting london served picadilly district underground lines entrance meters hotel warning located warwick road busy building noise bother", "Date": "2011-12-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Helsinki, Finland", "Title": "\u201cBasic place for a short stay\u201d", "Author": "wille_w", "ReviewID": "UR118457864", "Content": "hotel close underground station earls court easy reception pretty allowed leave luggage day collect airport separate luggage staff friendly free wifi service warwick road pretty heavily trafficked noise easily heard night ears plugged single pretty ok stay bed night breakfast cosy coffee served instant depending shower standards vary neat clean tidy bad stay budget travelling transaction device bit oldfashioned sign instead securing pay pin stay time ok stay tv didnt downside glimpse news hitting pillow nice", "Date": "2011-09-22 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Basel, Switzerland", "Title": "\u201cI should have read more reviews before going to this \"hotel\"\u201d", "Author": "dermeister", "ReviewID": "UR82413884", "Content": "review write maybe helps picking valuable receptionist friendly indian boss unfriendly official invoice business trip usually dont answer wasnt booked company name paying creditcard automatically charged home currency worse exchange rate checked sign receipt saying understood chance paying gbp home currency didnt tell receipt sign told cancel transaction gbp friendly didnt hairs bedlinen floor filthy towards street loud didnt enter brakfast cellar hotel dirty expect breakfast outside pay decent quality stay close earls court hotel location definitely advise pick someting else stayed easyhotel close cleaner pricevalue", "Date": "2010-10-07 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "ireland", "Title": "\u201cEarls court hotel is a bin!\u201d", "Author": "willimandala", "ReviewID": "UR56655079", "Content": "arrived earls court hotel 1300hrs 18th feb meet fellow friends tears hallway stayed night polite friends night realised bad situation relation hotel staying walked beside receptionist desk met door huge rat shuffled passed feet ran street girlfriend horrifed stench massive gaps walls pictures post caused infestation rats hotelthere droppings carpet maybe 3 4 rats stage girlfriend nearly sick fear friends hallway seething knowing slept suitable matter price human spoke receptionist phone call hotel night stay hotel infestation rats cancel reservation stage friends hall physically sick partner near tears booking fee stay hotel provide stage nasty hotel manager told canceled staying pay night hotels expected stay infested rats value money human day age pay stay rats remember 1 clock day arrived stage plane tired settle told pay stay apart givin near 12 hours stage money principle expected stay rats rats droppings told pay clock day beyond reasoning day hire poor unfortunate soul returning london soon wonderful time matter lie agree pay dont pay stay rats gladly lie outside bins free hang people bad stories time happened hotel safe stay night report health safety board accommodations pictures appalling earls court hotel refund stay experienced manager premises pure foul mouthed abuse", "Date": "2010-02-21 00:00:00"}], "HotelInfo": {"Name": "Hotel Earls Court", "HotelURL": "/ShowUserReviews-g186338-d195390-Reviews-Hotel_Earls_Court-London_England.html", "Price": "$75 - $127*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">28 Warwick Road</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">SW5 9UD</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>", "HotelID": "195390", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a4/92/a492ac3f18b585319d9a77d4cb4fb6791large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dublin, Ireland",
+      "Title": "\u201cFire Hazard !!!\u201d",
+      "Author": "andrewflanagan",
+      "ReviewID": "UR126190466",
+      "Content": "begin current climate im formally report cowboys businesses feeling pinch hell am gonna forum hotel fire hazard nuff own mind running water mattresses extremely uncomfortable hear tripadvisor bed bugs credit card fraud par course laugh checking explained cynical manager counter running water response told probably fault guess youve warned",
+      "Date": "2012-03-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Streator,Illinois",
+      "Title": "\u201cGreat Place to stay!!\u201d",
+      "Author": "rocmanil",
+      "ReviewID": "UR121565095",
+      "Content": "staying hotel uk business returned london staying hotel 30 days found staff hotel extremely friendly eager stay positive clean comfortable toilet shower outside cleaned throughly everyday spotless comments bedbugs groundless bedbugs spread quickly entire hotel found location hotel superb getting london served picadilly district underground lines entrance meters hotel warning located warwick road busy building noise bother",
+      "Date": "2011-12-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Helsinki, Finland",
+      "Title": "\u201cBasic place for a short stay\u201d",
+      "Author": "wille_w",
+      "ReviewID": "UR118457864",
+      "Content": "hotel close underground station earls court easy reception pretty allowed leave luggage day collect airport separate luggage staff friendly free wifi service warwick road pretty heavily trafficked noise easily heard night ears plugged single pretty ok stay bed night breakfast cosy coffee served instant depending shower standards vary neat clean tidy bad stay budget travelling transaction device bit oldfashioned sign instead securing pay pin stay time ok stay tv didnt downside glimpse news hitting pillow nice",
+      "Date": "2011-09-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Basel, Switzerland",
+      "Title": "\u201cI should have read more reviews before going to this \"hotel\"\u201d",
+      "Author": "dermeister",
+      "ReviewID": "UR82413884",
+      "Content": "review write maybe helps picking valuable receptionist friendly indian boss unfriendly official invoice business trip usually dont answer wasnt booked company name paying creditcard automatically charged home currency worse exchange rate checked sign receipt saying understood chance paying gbp home currency didnt tell receipt sign told cancel transaction gbp friendly didnt hairs bedlinen floor filthy towards street loud didnt enter brakfast cellar hotel dirty expect breakfast outside pay decent quality stay close earls court hotel location definitely advise pick someting else stayed easyhotel close cleaner pricevalue",
+      "Date": "2010-10-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "ireland",
+      "Title": "\u201cEarls court hotel is a bin!\u201d",
+      "Author": "willimandala",
+      "ReviewID": "UR56655079",
+      "Content": "arrived earls court hotel 1300hrs 18th feb meet fellow friends tears hallway stayed night polite friends night realised bad situation relation hotel staying walked beside receptionist desk met door huge rat shuffled passed feet ran street girlfriend horrifed stench massive gaps walls pictures post caused infestation rats hotelthere droppings carpet maybe 3 4 rats stage girlfriend nearly sick fear friends hallway seething knowing slept suitable matter price human spoke receptionist phone call hotel night stay hotel infestation rats cancel reservation stage friends hall physically sick partner near tears booking fee stay hotel provide stage nasty hotel manager told canceled staying pay night hotels expected stay infested rats value money human day age pay stay rats remember 1 clock day arrived stage plane tired settle told pay stay apart givin near 12 hours stage money principle expected stay rats rats droppings told pay clock day beyond reasoning day hire poor unfortunate soul returning london soon wonderful time matter lie agree pay dont pay stay rats gladly lie outside bins free hang people bad stories time happened hotel safe stay night report health safety board accommodations pictures appalling earls court hotel refund stay experienced manager premises pure foul mouthed abuse",
+      "Date": "2010-02-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Earls Court",
+    "HotelURL": "/ShowUserReviews-g186338-d195390-Reviews-Hotel_Earls_Court-London_England.html",
+    "Price": "$75 - $127*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">28 Warwick Road</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">SW5 9UD</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>",
+    "HotelID": "195390",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a4/92/a492ac3f18b585319d9a77d4cb4fb6791large.jpg"
+  }
+}

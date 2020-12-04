@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Salt Lake City, Utah", "Title": "\u201cPerfect home away from home\u201d", "Author": "James B", "ReviewID": "UR126576241", "Content": "linda staff helpful considerate experienced single smile attitude smile dealing unpleasant customers staying hilton size tworoom suites means virtually miniapartment bathroom reasonably priced extended stay facility business whatever deal town company plan housing months longterm lease plan save fortune", "Date": "2012-03-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Las Vegas, Nevada", "Title": "\u201chome away from home\u201d", "Author": "louH123", "ReviewID": "UR126208507", "Content": "ive guest extended stay 3 staff helpful im elderly whos little bit help time time couldnt grateful surrounded helpful staff", "Date": "2012-03-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Colorado USA", "Title": "\u201cFantastic in every way!\u201d", "Author": "rtfax", "ReviewID": "UR121133216", "Content": "unbelievable price super clean close strip nice staff cant deal vegas kitchen living tvs ill tell friends road rio bellagio", "Date": "2011-11-28 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Los Angeles", "Title": "\u201cGreat - If You're a Smoker\u201d", "Author": "Sabenna", "ReviewID": "UR96793755", "Content": "travel business mean lot stayed share hotels expensive expensive bad definitely bottom 2 guess fine youre smoker dont mind carpeting drapes towels furniture bedding smell ashtray close breathing foul smell night sleep head sheets im sorry worst waking coughing 5 times throughout endless night waking eyes idea hotel stay aside smoke found cigarette holes bedspread rips sheet dont supply hangers dishwashing liquid paper towels eventhough meant call home home dont imagine brown gooey substance inside windows looked clean overall feels dirty checked nonsmoking told booked month", "Date": "2011-02-15 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Dallas, Texas", "Title": "\u201cSooooo close to being great....\u201d", "Author": "jeffari-al-texani", "ReviewID": "UR95576875", "Content": "checked trepidation due previous reviewers arrived late thursday lady office friendly care five checking missing remote control tv roommate goes covers bed hairs check thats little disconcerting tired day bed spreads slept top evening office clean bed linens office couldnt apologized thatthe actually pretty nice bath tub stains top tile tub clean clean sheets bed comfortable particular esh actually living roomkitchen combo bedroom actually burner stove top size refrigeratorfreezer microwave walk palms gold strip plenty entertainment hair bed bad staff guy looks sleep uniform rude pretty damn else plenty friendly takes bad apple ruin id recommend", "Date": "2011-02-05 00:00:00"}], "HotelInfo": {"Name": "Extended StayAmerica Las Vegas - Valley View", "HotelURL": "/ShowUserReviews-g45963-d91813-Reviews-Extended_StayAmerica_Las_Vegas_Valley_View-Las_Vegas_Nevada.html", "Price": "$64 - $77*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4270 South Valley View Blvd.</span>, <span class=\"locality\"><span property=\"v:locality\">Las Vegas</span>, <span property=\"v:region\">NV</span> <span property=\"v:postal-code\">89103</span></span> </span> </span> </address>", "HotelID": "91813", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b6/a6/b6a64c4d93e7188133c55ecbdaeac1ca5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Salt Lake City, Utah",
+      "Title": "\u201cPerfect home away from home\u201d",
+      "Author": "James B",
+      "ReviewID": "UR126576241",
+      "Content": "linda staff helpful considerate experienced single smile attitude smile dealing unpleasant customers staying hilton size tworoom suites means virtually miniapartment bathroom reasonably priced extended stay facility business whatever deal town company plan housing months longterm lease plan save fortune",
+      "Date": "2012-03-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Las Vegas, Nevada",
+      "Title": "\u201chome away from home\u201d",
+      "Author": "louH123",
+      "ReviewID": "UR126208507",
+      "Content": "ive guest extended stay 3 staff helpful im elderly whos little bit help time time couldnt grateful surrounded helpful staff",
+      "Date": "2012-03-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Colorado USA",
+      "Title": "\u201cFantastic in every way!\u201d",
+      "Author": "rtfax",
+      "ReviewID": "UR121133216",
+      "Content": "unbelievable price super clean close strip nice staff cant deal vegas kitchen living tvs ill tell friends road rio bellagio",
+      "Date": "2011-11-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Los Angeles",
+      "Title": "\u201cGreat - If You're a Smoker\u201d",
+      "Author": "Sabenna",
+      "ReviewID": "UR96793755",
+      "Content": "travel business mean lot stayed share hotels expensive expensive bad definitely bottom 2 guess fine youre smoker dont mind carpeting drapes towels furniture bedding smell ashtray close breathing foul smell night sleep head sheets im sorry worst waking coughing 5 times throughout endless night waking eyes idea hotel stay aside smoke found cigarette holes bedspread rips sheet dont supply hangers dishwashing liquid paper towels eventhough meant call home home dont imagine brown gooey substance inside windows looked clean overall feels dirty checked nonsmoking told booked month",
+      "Date": "2011-02-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Dallas, Texas",
+      "Title": "\u201cSooooo close to being great....\u201d",
+      "Author": "jeffari-al-texani",
+      "ReviewID": "UR95576875",
+      "Content": "checked trepidation due previous reviewers arrived late thursday lady office friendly care five checking missing remote control tv roommate goes covers bed hairs check thats little disconcerting tired day bed spreads slept top evening office clean bed linens office couldnt apologized thatthe actually pretty nice bath tub stains top tile tub clean clean sheets bed comfortable particular esh actually living roomkitchen combo bedroom actually burner stove top size refrigeratorfreezer microwave walk palms gold strip plenty entertainment hair bed bad staff guy looks sleep uniform rude pretty damn else plenty friendly takes bad apple ruin id recommend",
+      "Date": "2011-02-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Extended StayAmerica Las Vegas - Valley View",
+    "HotelURL": "/ShowUserReviews-g45963-d91813-Reviews-Extended_StayAmerica_Las_Vegas_Valley_View-Las_Vegas_Nevada.html",
+    "Price": "$64 - $77*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4270 South Valley View Blvd.</span>, <span class=\"locality\"><span property=\"v:locality\">Las Vegas</span>, <span property=\"v:region\">NV</span> <span property=\"v:postal-code\">89103</span></span> </span> </span> </address>",
+    "HotelID": "91813",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b6/a6/b6a64c4d93e7188133c55ecbdaeac1ca5large.jpg"
+  }
+}

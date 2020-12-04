@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Canada", "Title": "\u201cStay somewhere else\u201d", "Author": "Rman B", "ReviewID": "UR126053843", "Content": "family friend booked hotel didnt expect im pretty easy guy airport taxi driver staying told proceeded vietnamese girls hotel questionable hotel 81 apparently located singapores biggest red light district geylang rd opinion singapores red light district pretty tame north american standards loud bars restaurants wee hours night difficult sleep top people kept throughout night slamming door difficult sleep reviews mentioned prostitues frequent hotel maybe thats taxi driver getting tolerable travelling windows mine cant bed alright bit ants frustrated sheets dirty bathroom shower adequate kettle tea provided staff rude helpful lot cheap halal restaurants nearby markets shopping plus nearest mrt station paya lebar 15 min walk staying hotel recommended choice mine", "Date": "2012-03-13 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "moscow", "Title": "\u201cThe worst hotel I\u2019ve ever been\u201d", "Author": "vilen", "ReviewID": "UR125734810", "Content": "absolutely garbage stay staff absolutely rude firstly charged card twice refused refund instead 500 changed 1000 forced call bank cancel transaction poor condition condition leaking", "Date": "2012-03-07 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Kuala Lumpur, Malaysia", "Title": "\u201caverage\u201d", "Author": "Aizah", "ReviewID": "UR121341091", "Content": "singapore twice dec 2010 2nd time recently stayed hotel 3days choice 81 booked time looking bigger budget cost recommended 81 family compared 81 joo halal food muslim nearest lrt paya 15mins walking distance actually suitable stay intend travel train kids service ok bed ok suggesting hotel nearby orchard road shopping heaven compared", "Date": "2011-12-03 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "buckingamshire in england", "Title": "\u201cterrible night sleep\u201d", "Author": "maryjo47", "ReviewID": "UR67801814", "Content": "left cruiser costa sent hotal 81 information service cruise ok car drop weekend dropped told wont ready 8pm day hoping night hard rock sleep floorwe tired left kindly kept service poor", "Date": "2010-06-17 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "India", "Title": "\u201cToo Small Rooms\u201d", "Author": "rswaika", "ReviewID": "UR61648797", "Content": "size difficult move moreover location hotel odd taxi board bus train walk 15 min near red light preferable stay hotel", "Date": "2010-04-16 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "India", "Title": "\u201cMatch Box Rooms\u201d", "Author": "DeadCigar", "ReviewID": "UR60895088", "Content": "hotel cleanthe size move bed takes spacethe corridors floors staff little helpfulthe hotel located deep road walk 15mins nearest stationthe red light geylang comes spot pimps daylight", "Date": "2010-04-10 00:00:00"}], "HotelInfo": {"Name": "Hotel 81 - Joo Chiat", "HotelURL": "/ShowUserReviews-g294265-d504891-Reviews-Hotel_81_Joo_Chiat-Singapore.html", "Price": "$58 - $92*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">305 Joo Chiat Road</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">427556</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>", "HotelID": "504891", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/01/e4/01e4e899d98977f64a9962fb6408febf4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Canada",
+      "Title": "\u201cStay somewhere else\u201d",
+      "Author": "Rman B",
+      "ReviewID": "UR126053843",
+      "Content": "family friend booked hotel didnt expect im pretty easy guy airport taxi driver staying told proceeded vietnamese girls hotel questionable hotel 81 apparently located singapores biggest red light district geylang rd opinion singapores red light district pretty tame north american standards loud bars restaurants wee hours night difficult sleep top people kept throughout night slamming door difficult sleep reviews mentioned prostitues frequent hotel maybe thats taxi driver getting tolerable travelling windows mine cant bed alright bit ants frustrated sheets dirty bathroom shower adequate kettle tea provided staff rude helpful lot cheap halal restaurants nearby markets shopping plus nearest mrt station paya lebar 15 min walk staying hotel recommended choice mine",
+      "Date": "2012-03-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "moscow",
+      "Title": "\u201cThe worst hotel I\u2019ve ever been\u201d",
+      "Author": "vilen",
+      "ReviewID": "UR125734810",
+      "Content": "absolutely garbage stay staff absolutely rude firstly charged card twice refused refund instead 500 changed 1000 forced call bank cancel transaction poor condition condition leaking",
+      "Date": "2012-03-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Kuala Lumpur, Malaysia",
+      "Title": "\u201caverage\u201d",
+      "Author": "Aizah",
+      "ReviewID": "UR121341091",
+      "Content": "singapore twice dec 2010 2nd time recently stayed hotel 3days choice 81 booked time looking bigger budget cost recommended 81 family compared 81 joo halal food muslim nearest lrt paya 15mins walking distance actually suitable stay intend travel train kids service ok bed ok suggesting hotel nearby orchard road shopping heaven compared",
+      "Date": "2011-12-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "buckingamshire in england",
+      "Title": "\u201cterrible night sleep\u201d",
+      "Author": "maryjo47",
+      "ReviewID": "UR67801814",
+      "Content": "left cruiser costa sent hotal 81 information service cruise ok car drop weekend dropped told wont ready 8pm day hoping night hard rock sleep floorwe tired left kindly kept service poor",
+      "Date": "2010-06-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "India",
+      "Title": "\u201cToo Small Rooms\u201d",
+      "Author": "rswaika",
+      "ReviewID": "UR61648797",
+      "Content": "size difficult move moreover location hotel odd taxi board bus train walk 15 min near red light preferable stay hotel",
+      "Date": "2010-04-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "India",
+      "Title": "\u201cMatch Box Rooms\u201d",
+      "Author": "DeadCigar",
+      "ReviewID": "UR60895088",
+      "Content": "hotel cleanthe size move bed takes spacethe corridors floors staff little helpfulthe hotel located deep road walk 15mins nearest stationthe red light geylang comes spot pimps daylight",
+      "Date": "2010-04-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel 81 - Joo Chiat",
+    "HotelURL": "/ShowUserReviews-g294265-d504891-Reviews-Hotel_81_Joo_Chiat-Singapore.html",
+    "Price": "$58 - $92*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">305 Joo Chiat Road</span>, <span class=\"locality\"><span property=\"v:locality\">Singapore</span> <span property=\"v:postal-code\">427556</span></span>, <span class=\"country-name\" property=\"v:country-name\">Singapore</span> </span></span></address>",
+    "HotelID": "504891",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/01/e4/01e4e899d98977f64a9962fb6408febf4large.jpg"
+  }
+}

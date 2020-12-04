@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "dallas,texas", "Title": "\u201cFeels like home!\u201d", "Author": "leslie V", "ReviewID": "UR128541305", "Content": "staff walked welcomed especially front desk believe name friendly helpful experience fantastic hotel clean updated definatley recommend hotel family friends", "Date": "2012-04-24 00:00:00"}], "HotelInfo": {"Name": "Extended StayAmerica San Diego-Mission Valley", "HotelURL": "/ShowUserReviews-g60750-d247027-Reviews-Extended_StayAmerica_San_Diego_Mission_Valley-San_Diego_California.html", "Price": "$92 - $109*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3860 Murphy Canyon Rd</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92123</span></span> </span> </span> </address>", "HotelID": "2515751", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/25/ef/25eff9d8a30e7ff729801bdcaf89e3714large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "dallas,texas",
+      "Title": "\u201cFeels like home!\u201d",
+      "Author": "leslie V",
+      "ReviewID": "UR128541305",
+      "Content": "staff walked welcomed especially front desk believe name friendly helpful experience fantastic hotel clean updated definatley recommend hotel family friends",
+      "Date": "2012-04-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Extended StayAmerica San Diego-Mission Valley",
+    "HotelURL": "/ShowUserReviews-g60750-d247027-Reviews-Extended_StayAmerica_San_Diego_Mission_Valley-San_Diego_California.html",
+    "Price": "$92 - $109*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3860 Murphy Canyon Rd</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92123</span></span> </span> </span> </address>",
+    "HotelID": "2515751",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/25/ef/25eff9d8a30e7ff729801bdcaf89e3714large.jpg"
+  }
+}

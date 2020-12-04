@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Cuernavaca, Mexico", "Title": "\u201cIncredibly Cheap but Perfectly Good\u201d", "Author": "David I", "ReviewID": "UR58650898", "Content": "hotel juarez hotel thats little beaten path close hop action located lshaped alley 5 de mayo bed pretty comfortable pillows bit thin overall affordable hotel 200 pesos night located center city", "Date": "2010-03-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Baltimore, MD", "Title": "\u201cGreat location, nice hotel for the price\u201d", "Author": "jesmorgan", "ReviewID": "UR55353717", "Content": "stayed hotel juarez january 3 2010 location perfect quiet street close proximity centro historico zocalo close metro stops restaurants conveniences paid 200 pesos night 15 price cant beat hotel historic building street fountain little courtyard basic clean outside unit floor ceiling doorwindow charming allowed views ventilation interior window people especially spent little time front desk staff friendly exception person accommodating heres fault hotel alley hotel private residence proceeded blast techno music nightclub levels 4am 8am am exaggerating music coming residence louder play own house car wore earplugs music loud sounded coming front desk informed 3 months hotel called police written various government agencies move interior escape noise moved nights hotel hear music door overall hotel clean basic stay close reasonable price recommend hotel doesnt solution neighbors wouldnt recommend unfortunate hotel control", "Date": "2010-02-07 00:00:00"}], "HotelInfo": {"Name": "Hotel Juarez", "HotelURL": "/ShowUserReviews-g150800-d646013-Reviews-Hotel_Juarez-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "0", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1A Cjon De Cinco de Mayo No. 17</span> | <span class=\"extended-address\">Col. Centro</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06000</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "646013", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/7a/01/hotel-juarez-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Cuernavaca, Mexico",
+      "Title": "\u201cIncredibly Cheap but Perfectly Good\u201d",
+      "Author": "David I",
+      "ReviewID": "UR58650898",
+      "Content": "hotel juarez hotel thats little beaten path close hop action located lshaped alley 5 de mayo bed pretty comfortable pillows bit thin overall affordable hotel 200 pesos night located center city",
+      "Date": "2010-03-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Baltimore, MD",
+      "Title": "\u201cGreat location, nice hotel for the price\u201d",
+      "Author": "jesmorgan",
+      "ReviewID": "UR55353717",
+      "Content": "stayed hotel juarez january 3 2010 location perfect quiet street close proximity centro historico zocalo close metro stops restaurants conveniences paid 200 pesos night 15 price cant beat hotel historic building street fountain little courtyard basic clean outside unit floor ceiling doorwindow charming allowed views ventilation interior window people especially spent little time front desk staff friendly exception person accommodating heres fault hotel alley hotel private residence proceeded blast techno music nightclub levels 4am 8am am exaggerating music coming residence louder play own house car wore earplugs music loud sounded coming front desk informed 3 months hotel called police written various government agencies move interior escape noise moved nights hotel hear music door overall hotel clean basic stay close reasonable price recommend hotel doesnt solution neighbors wouldnt recommend unfortunate hotel control",
+      "Date": "2010-02-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Juarez",
+    "HotelURL": "/ShowUserReviews-g150800-d646013-Reviews-Hotel_Juarez-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "0",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1A Cjon De Cinco de Mayo No. 17</span> | <span class=\"extended-address\">Col. Centro</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06000</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "646013",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/7a/01/hotel-juarez-thumbnail.jpg"
+  }
+}

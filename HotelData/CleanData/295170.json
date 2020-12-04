@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Jeddah, Makkah, Saudi Arabia", "Title": "\u201cGood value for money.\u201d", "Author": "George G", "ReviewID": "UR128163333", "Content": "wife stayed package comfortable clean staff friendly helpful location close tram line takes blue mosque hagia sofia walking distance grand bazar location", "Date": "2012-04-19 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Tehran, Iran", "Title": "\u201cwow\u201d", "Author": "hassan r", "ReviewID": "UR122820345", "Content": "choose cause hotel 3 star clean nice especially warm crow standing help bugs air condition warm water daily cleaning money luggage finally happy choose till 305 manager trust hotel", "Date": "2012-01-09 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Belgrade, Serbia", "Title": "\u201cGood value hotel\u201d", "Author": "Satellite779", "ReviewID": "UR122707008", "Content": "stayed maya hotel 2011 f1 grand prix weekend hotel pretty basic value money traveled double bed extra charge staff helpful questions istanbul racetrack free pickup airport booked 5 days free dropoff airport managed airport using metro 10 minute walk hotel bit wasnt single imagine crowded traveling staying walls bit thin wasnt except night japanese neighbors decided loud conversation 1am knocks wall solved breakfast nice im picky comes food location fine hotel 5min walk 2 3 stops tram historical sites taksim bit easily reachable public transport andor walk aqueduct nearby couple mosques istanbul probably try closer taksim square found taksim choice cheap restaurants cafes restaurants cafes close maya found bit overpriced summarize doubt hotel money paid hotels located service cost maya hotel compromise factors", "Date": "2012-01-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Melbourne", "Title": "\u201cClean and Basic\u201d", "Author": "casspb", "ReviewID": "UR109263405", "Content": "stayed package istanbul f1 grand prix basic 3 star hotel clean staff lovely english readily spoken breakfast provided european breakfast expect bacon eggs cheese bread salad etc usually 1 hot dish didnt walk bazaar probably 15 20 minutes close restaurants taxis plentiful didnt appear upstair bar sitting hotel quiet drink", "Date": "2011-05-22 00:00:00"}], "HotelInfo": {"Name": "Maya Hotel", "HotelURL": "/ShowUserReviews-g293974-d295170-Reviews-Maya_Hotel-Istanbul.html", "Price": "$70 - $100*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5 Fevziye Caddesi</span> | <span class=\"extended-address\">Sehzadebasi</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34470</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "295170", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7f/a4/7fa47df727f58533284e2c41f29af5ba1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Jeddah, Makkah, Saudi Arabia",
+      "Title": "\u201cGood value for money.\u201d",
+      "Author": "George G",
+      "ReviewID": "UR128163333",
+      "Content": "wife stayed package comfortable clean staff friendly helpful location close tram line takes blue mosque hagia sofia walking distance grand bazar location",
+      "Date": "2012-04-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Tehran, Iran",
+      "Title": "\u201cwow\u201d",
+      "Author": "hassan r",
+      "ReviewID": "UR122820345",
+      "Content": "choose cause hotel 3 star clean nice especially warm crow standing help bugs air condition warm water daily cleaning money luggage finally happy choose till 305 manager trust hotel",
+      "Date": "2012-01-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Belgrade, Serbia",
+      "Title": "\u201cGood value hotel\u201d",
+      "Author": "Satellite779",
+      "ReviewID": "UR122707008",
+      "Content": "stayed maya hotel 2011 f1 grand prix weekend hotel pretty basic value money traveled double bed extra charge staff helpful questions istanbul racetrack free pickup airport booked 5 days free dropoff airport managed airport using metro 10 minute walk hotel bit wasnt single imagine crowded traveling staying walls bit thin wasnt except night japanese neighbors decided loud conversation 1am knocks wall solved breakfast nice im picky comes food location fine hotel 5min walk 2 3 stops tram historical sites taksim bit easily reachable public transport andor walk aqueduct nearby couple mosques istanbul probably try closer taksim square found taksim choice cheap restaurants cafes restaurants cafes close maya found bit overpriced summarize doubt hotel money paid hotels located service cost maya hotel compromise factors",
+      "Date": "2012-01-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Melbourne",
+      "Title": "\u201cClean and Basic\u201d",
+      "Author": "casspb",
+      "ReviewID": "UR109263405",
+      "Content": "stayed package istanbul f1 grand prix basic 3 star hotel clean staff lovely english readily spoken breakfast provided european breakfast expect bacon eggs cheese bread salad etc usually 1 hot dish didnt walk bazaar probably 15 20 minutes close restaurants taxis plentiful didnt appear upstair bar sitting hotel quiet drink",
+      "Date": "2011-05-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Maya Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d295170-Reviews-Maya_Hotel-Istanbul.html",
+    "Price": "$70 - $100*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5 Fevziye Caddesi</span> | <span class=\"extended-address\">Sehzadebasi</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34470</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "295170",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7f/a4/7fa47df727f58533284e2c41f29af5ba1large.jpg"
+  }
+}

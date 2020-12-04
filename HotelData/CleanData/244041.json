@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Paris", "Title": "\u201cVery good location\u201d", "Author": "jerome347", "ReviewID": "UR119432336", "Content": "spend night late flight supposed directly olympia landing night night meeting day value money", "Date": "2011-10-18 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cGood value for money, but too out of town.\u201d", "Author": "Kateofthedead", "ReviewID": "UR110579690", "Content": "sister travelled america month save cash hotels petrol food 18 visited stayed 13 motel 6s firstly hotel easy trip using simple google map directions location motel 6 ideal hotel located 3 minutes seattle tac airport arrived 8pm 14 hour journey stop london heathrow tired suffering 8 hour time difference hotel arrival average car park motel looking exterior whilst checking found receptionist desk little rude exhausted service cultural difference actual rudeness basic clean expect cooking facilities kettle motel 6 basic coffee served 1030am reception theyre vending machines motel service coke roughly 1 bathroom little dirty floor mat hung bathroom door appeared dripping brown substance damp stayed motel 6s month whilst travelling america motel 6s seattle wasnt stayed motel little updating youre cheap budget plan sleep whilst visiting recommend hotel location airport ideal hire vehicle plan visiting downtown sparce strip motel located id advise park near hotel entrance exits hire vehicle hit hit run incident evening reception manned 24 hours motel 6s security site vehicle parked floor roof window front reception police informed morning hours sister actually damage shunted vehicle gather reception staff responsibility accidents incidents inform police reports accident told staff hotel guests incident apparently extremely loud cctv watch carpark office", "Date": "2011-05-30 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Longview, Washington", "Title": "\u201cAbsolutley Cleanest Rooms In Seattle\u201d", "Author": "B00GY101", "ReviewID": "UR95235025", "Content": "originally seattle business stayed la hacienda 70 night okay havent remodeled stayed smelled cig smoke bad bad stained article clothing suitcase am smoker bothered decided try hotel wee bit hopes conditions decided try skeptical considering charged 50 bucks 2 people paid 1 night impressed frills hotel remodeled tastfully cleani actually tried dirt found none totally safe staff cordial tended budget clean quiet nights heard airplanes beds pillows kick butt", "Date": "2011-02-01 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Chicago, Illinois", "Title": "\u201ccheap, clean, convenient\u201d", "Author": "whomever", "ReviewID": "UR75906622", "Content": "stayed night access airport short drive return rental car fine clean quiet requested quiet upstairs rear facing traffic easy checkin interior halls noisy wasnt stay advertise expanded cable usual 20 channels overall typical motel6 value", "Date": "2010-08-19 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "manhattan, ks", "Title": "\u201cEconomical and quick stay\u201d", "Author": "sodakjc", "ReviewID": "UR69347572", "Content": "motel affordable close airport tram six blocks access downtown clean nice price accordance expect motel 6 reasonable prices frills solid quality followed advice desk clerk stayed towards motel quiet peaceful worth price motel smell squirts air freshner care extra 3 dollars internet worth", "Date": "2010-07-01 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Portland, Oregon", "Title": "\u201cMet My Expectations of for a $45 a night motel.\u201d", "Author": "cjsmith45", "ReviewID": "UR62079971", "Content": "drove portland seattle afternoon mariners game decided stay night explore seattle location bit south reservations id read reviews location bit leery checkin clerk suggested quieter view parklike picnic table below garbage enclosed garbage cans expectations clean adequate price bit smell couple spray fan bit grey noise overnight spray bed comfortable nice basically youre expecting luxury 100 night motel dont stay cheap spend night stay", "Date": "2010-04-21 00:00:00"}], "HotelInfo": {"Name": "Motel 6 Seattle Airport", "HotelURL": "/ShowUserReviews-g60878-d244041-Reviews-Motel_6_Seattle_Airport-Seattle_Washington.html", "Price": "$46 - $68*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">16500 Pacific Hwy S</span>, <span class=\"locality\"><span property=\"v:locality\">Seattle</span>, <span property=\"v:region\">WA</span> <span property=\"v:postal-code\">98188</span></span> </span> </span> </address>", "HotelID": "244041", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6f/50/6f5033143ddbde54d6c2d137be0c931d4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Paris",
+      "Title": "\u201cVery good location\u201d",
+      "Author": "jerome347",
+      "ReviewID": "UR119432336",
+      "Content": "spend night late flight supposed directly olympia landing night night meeting day value money",
+      "Date": "2011-10-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cGood value for money, but too out of town.\u201d",
+      "Author": "Kateofthedead",
+      "ReviewID": "UR110579690",
+      "Content": "sister travelled america month save cash hotels petrol food 18 visited stayed 13 motel 6s firstly hotel easy trip using simple google map directions location motel 6 ideal hotel located 3 minutes seattle tac airport arrived 8pm 14 hour journey stop london heathrow tired suffering 8 hour time difference hotel arrival average car park motel looking exterior whilst checking found receptionist desk little rude exhausted service cultural difference actual rudeness basic clean expect cooking facilities kettle motel 6 basic coffee served 1030am reception theyre vending machines motel service coke roughly 1 bathroom little dirty floor mat hung bathroom door appeared dripping brown substance damp stayed motel 6s month whilst travelling america motel 6s seattle wasnt stayed motel little updating youre cheap budget plan sleep whilst visiting recommend hotel location airport ideal hire vehicle plan visiting downtown sparce strip motel located id advise park near hotel entrance exits hire vehicle hit hit run incident evening reception manned 24 hours motel 6s security site vehicle parked floor roof window front reception police informed morning hours sister actually damage shunted vehicle gather reception staff responsibility accidents incidents inform police reports accident told staff hotel guests incident apparently extremely loud cctv watch carpark office",
+      "Date": "2011-05-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Longview, Washington",
+      "Title": "\u201cAbsolutley Cleanest Rooms In Seattle\u201d",
+      "Author": "B00GY101",
+      "ReviewID": "UR95235025",
+      "Content": "originally seattle business stayed la hacienda 70 night okay havent remodeled stayed smelled cig smoke bad bad stained article clothing suitcase am smoker bothered decided try hotel wee bit hopes conditions decided try skeptical considering charged 50 bucks 2 people paid 1 night impressed frills hotel remodeled tastfully cleani actually tried dirt found none totally safe staff cordial tended budget clean quiet nights heard airplanes beds pillows kick butt",
+      "Date": "2011-02-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Chicago, Illinois",
+      "Title": "\u201ccheap, clean, convenient\u201d",
+      "Author": "whomever",
+      "ReviewID": "UR75906622",
+      "Content": "stayed night access airport short drive return rental car fine clean quiet requested quiet upstairs rear facing traffic easy checkin interior halls noisy wasnt stay advertise expanded cable usual 20 channels overall typical motel6 value",
+      "Date": "2010-08-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "manhattan, ks",
+      "Title": "\u201cEconomical and quick stay\u201d",
+      "Author": "sodakjc",
+      "ReviewID": "UR69347572",
+      "Content": "motel affordable close airport tram six blocks access downtown clean nice price accordance expect motel 6 reasonable prices frills solid quality followed advice desk clerk stayed towards motel quiet peaceful worth price motel smell squirts air freshner care extra 3 dollars internet worth",
+      "Date": "2010-07-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Portland, Oregon",
+      "Title": "\u201cMet My Expectations of for a $45 a night motel.\u201d",
+      "Author": "cjsmith45",
+      "ReviewID": "UR62079971",
+      "Content": "drove portland seattle afternoon mariners game decided stay night explore seattle location bit south reservations id read reviews location bit leery checkin clerk suggested quieter view parklike picnic table below garbage enclosed garbage cans expectations clean adequate price bit smell couple spray fan bit grey noise overnight spray bed comfortable nice basically youre expecting luxury 100 night motel dont stay cheap spend night stay",
+      "Date": "2010-04-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Motel 6 Seattle Airport",
+    "HotelURL": "/ShowUserReviews-g60878-d244041-Reviews-Motel_6_Seattle_Airport-Seattle_Washington.html",
+    "Price": "$46 - $68*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">16500 Pacific Hwy S</span>, <span class=\"locality\"><span property=\"v:locality\">Seattle</span>, <span property=\"v:region\">WA</span> <span property=\"v:postal-code\">98188</span></span> </span> </span> </address>",
+    "HotelID": "244041",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/6f/50/6f5033143ddbde54d6c2d137be0c931d4large.jpg"
+  }
+}

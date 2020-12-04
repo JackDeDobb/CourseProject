@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Daly City, California", "Title": "\u201csmall but affordable, comfy and safe\u201d", "Author": "fostermamabear88", "ReviewID": "UR125123685", "Content": "singapore night cant wait complement staff hotel chain front desk receptionist lend change bus fare stated clean 4th flr windows pool view house staff accomodating 1 extra pillow midnight bus stop step novena toa mrt stations food court nearby hotel prices steep singapore glad clean affordable safe budget hotels", "Date": "2012-02-24 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Great Western, Australia", "Title": "\u201cA good budgeted hotel\u201d", "Author": "LilDev88", "ReviewID": "UR124249536", "Content": "clean worry choosing hotel location youll 10minutes bus closest train station hotel train station youll walk 10min bus stop busy road catch bus train station easier hotel walking waiting probably gonna approx 25min", "Date": "2012-02-07 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Jakarta, Indonesia", "Title": "\u201cVery Low Budget\u201d", "Author": "toscamarie", "ReviewID": "UR122212493", "Content": "hotel singapore expensive due stop night spend hotel decided star low budget hotel location perfect matter cleanliness comfort star rated hotel shower attached closely toilet shower wet staff nice attentive help value money bit expensive pay doubted served breakfast found hotel dont stay hotel", "Date": "2011-12-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Cebu, Philippines", "Title": "\u201ca very budget hotel!\u201d", "Author": "Blue T", "ReviewID": "UR119783229", "Content": "expensive hotel staying fragrance hotel oasis 2008 cramped mum sister brother shared imagine booked october 2011 accustomed stay mum sister staying handle ive checkedin behalf family told stay hotel fragrance classic aircon repair assisted transfer guy receptionist informed lady employee wearing tight shirt help help push 1 luggage bag hmmm towels seeing feel hundred guests using free access internet wifi 2011 people dawn internet duh clean late", "Date": "2011-10-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Jakarta", "Title": "\u201cSmall and simple space but very clean and tidy\u201d", "Author": "mschan07", "ReviewID": "UR98315729", "Content": "stayed hotel september parents brother 20 minutes changi airport balestier road taxi hotel easily located main street 2 floor bathroom limited space sleep shower inside hotel cleanliness friendly staff leave morning dirty messy night clean time checkin sleep quality staff helpful time singapore street food visit explained patiently smile near hotel 711 balestier plaza balestier food market buy cheap food taste 35 sgd 24 hours dont forget eat stay hotel mrt station bus station outside hotel easy access singapore", "Date": "2011-02-28 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "Warsaw, Poland", "Title": "\u201cnew and clean\u201d", "Author": "ania-o", "ReviewID": "UR90675120", "Content": "clean hotel \u2013 cleanness extremely bathroom city hotel \u2013 breakfast food corner hotel internet metro station disadvantage", "Date": "2010-12-25 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Helsinki", "Title": "\u201cBudget stay in clean and tiny room.\u201d", "Author": "FamilyTravellerFIN", "ReviewID": "UR77246790", "Content": "tiny location bit mrt 5min bus ride bus leaves front hotel expensive wifi photos internet similar tidy staff speak english 24h food court door indian food cheap ok novena shopping centre nearest mrt lots shops free wifi taxi airport 20 novena 6", "Date": "2010-08-28 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Manila, Philippines", "Title": "\u201cAvoid this Hotel at all Costs!\u201d", "Author": "kmabello", "ReviewID": "UR76639563", "Content": "fragrance hotel reservation details arrived hassle fix person reception unwilling help allow access wireless connection lobby check email laptop instead internet cafe street reservation details printed welcome singapore recommend fragrance hotel oasis fragrance hotel outlets travelers hotels people twohour leave spend time pay extra stay hotel", "Date": "2010-08-24 00:00:00"}], "HotelInfo": {"Name": "Fragrance Hotel - Oasis", "HotelURL": "/ShowUserReviews-g294265-d1015610-Reviews-Fragrance_Hotel_Oasis-Singapore.html", "Price": "$63 - $86*", "Address": "<div class=\"amenFloat\">", "HotelID": "1015610", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/06/9e/069efbea672c54750e42e8335919d4b15large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Daly City, California",
+      "Title": "\u201csmall but affordable, comfy and safe\u201d",
+      "Author": "fostermamabear88",
+      "ReviewID": "UR125123685",
+      "Content": "singapore night cant wait complement staff hotel chain front desk receptionist lend change bus fare stated clean 4th flr windows pool view house staff accomodating 1 extra pillow midnight bus stop step novena toa mrt stations food court nearby hotel prices steep singapore glad clean affordable safe budget hotels",
+      "Date": "2012-02-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Great Western, Australia",
+      "Title": "\u201cA good budgeted hotel\u201d",
+      "Author": "LilDev88",
+      "ReviewID": "UR124249536",
+      "Content": "clean worry choosing hotel location youll 10minutes bus closest train station hotel train station youll walk 10min bus stop busy road catch bus train station easier hotel walking waiting probably gonna approx 25min",
+      "Date": "2012-02-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Jakarta, Indonesia",
+      "Title": "\u201cVery Low Budget\u201d",
+      "Author": "toscamarie",
+      "ReviewID": "UR122212493",
+      "Content": "hotel singapore expensive due stop night spend hotel decided star low budget hotel location perfect matter cleanliness comfort star rated hotel shower attached closely toilet shower wet staff nice attentive help value money bit expensive pay doubted served breakfast found hotel dont stay hotel",
+      "Date": "2011-12-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Cebu, Philippines",
+      "Title": "\u201ca very budget hotel!\u201d",
+      "Author": "Blue T",
+      "ReviewID": "UR119783229",
+      "Content": "expensive hotel staying fragrance hotel oasis 2008 cramped mum sister brother shared imagine booked october 2011 accustomed stay mum sister staying handle ive checkedin behalf family told stay hotel fragrance classic aircon repair assisted transfer guy receptionist informed lady employee wearing tight shirt help help push 1 luggage bag hmmm towels seeing feel hundred guests using free access internet wifi 2011 people dawn internet duh clean late",
+      "Date": "2011-10-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Jakarta",
+      "Title": "\u201cSmall and simple space but very clean and tidy\u201d",
+      "Author": "mschan07",
+      "ReviewID": "UR98315729",
+      "Content": "stayed hotel september parents brother 20 minutes changi airport balestier road taxi hotel easily located main street 2 floor bathroom limited space sleep shower inside hotel cleanliness friendly staff leave morning dirty messy night clean time checkin sleep quality staff helpful time singapore street food visit explained patiently smile near hotel 711 balestier plaza balestier food market buy cheap food taste 35 sgd 24 hours dont forget eat stay hotel mrt station bus station outside hotel easy access singapore",
+      "Date": "2011-02-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Warsaw, Poland",
+      "Title": "\u201cnew and clean\u201d",
+      "Author": "ania-o",
+      "ReviewID": "UR90675120",
+      "Content": "clean hotel \u2013 cleanness extremely bathroom city hotel \u2013 breakfast food corner hotel internet metro station disadvantage",
+      "Date": "2010-12-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Helsinki",
+      "Title": "\u201cBudget stay in clean and tiny room.\u201d",
+      "Author": "FamilyTravellerFIN",
+      "ReviewID": "UR77246790",
+      "Content": "tiny location bit mrt 5min bus ride bus leaves front hotel expensive wifi photos internet similar tidy staff speak english 24h food court door indian food cheap ok novena shopping centre nearest mrt lots shops free wifi taxi airport 20 novena 6",
+      "Date": "2010-08-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Manila, Philippines",
+      "Title": "\u201cAvoid this Hotel at all Costs!\u201d",
+      "Author": "kmabello",
+      "ReviewID": "UR76639563",
+      "Content": "fragrance hotel reservation details arrived hassle fix person reception unwilling help allow access wireless connection lobby check email laptop instead internet cafe street reservation details printed welcome singapore recommend fragrance hotel oasis fragrance hotel outlets travelers hotels people twohour leave spend time pay extra stay hotel",
+      "Date": "2010-08-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Fragrance Hotel - Oasis",
+    "HotelURL": "/ShowUserReviews-g294265-d1015610-Reviews-Fragrance_Hotel_Oasis-Singapore.html",
+    "Price": "$63 - $86*",
+    "Address": "<div class=\"amenFloat\">",
+    "HotelID": "1015610",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/06/9e/069efbea672c54750e42e8335919d4b15large.jpg"
+  }
+}

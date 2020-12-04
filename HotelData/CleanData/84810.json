@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "NJ", "Title": "\u201cAwesome!!!!!!!!!\u201d", "Author": "sungal21", "ReviewID": "UR128234215", "Content": "family trip fun enjoyed hotel staff extremely helpful mean type people booked 2 queens upgraded king included sofa microwave pool kids occupied hours fun thats matters clean comfy beds noise hbo location cant wrong", "Date": "2012-04-20 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Denmark", "Title": "\u201cBring earplugs\u201d", "Author": "Soren K Posted by an Easytobook.com traveler", "ReviewID": "UR127449392", "Content": "8 huge buildings 160 total hard bed breakfast seating 12 people breakfast walls literally hear footstep outside unclean boot doesnt sound theres price pros cheap location theres nice street town nights fine bring earplugs youll set", "Date": "2012-04-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Rochester NY", "Title": "\u201cMuch better than I expected\u201d", "Author": "barbarawwarren", "ReviewID": "UR122160824", "Content": "inexpensive hotel motor home broke parkside clean odors bugs helpful management extras tvs little bottles shampoo continental breakfast wi fi hbo swimming pool clean familyrun business care", "Date": "2011-12-27 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Baton Rouge, Louisiana", "Title": "\u201cOne night was one night too much!\u201d", "Author": "devon4", "ReviewID": "UR81108185", "Content": "clean sheets sleep 12hour car ride couldnt key am supposed receive continental breakfast food own ice machine broken inroom refrigerator wasnt plugged thanks signs posted stated charge inroom refrigerator disinfecting wipes touched pool looked clean didnt time try night heading onto wdw property week stayed elsewhere wished wed gone value pay", "Date": "2010-09-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Schenectady, New York", "Title": "\u201cYou get what you pay for...good thing you aren't paying much\u201d", "Author": "BSMinNY", "ReviewID": "UR78250031", "Content": "wife trying cheap decided try rate 27night pay serious updating badly fresh coat paint dresser drawers didnt mold bathroom ceiling overall relatively clean front desk staff pleasant beware southwest airlines passengers front desk staff idea talking print boarding passes thankfully people guest services disney hollywood studios printed free location hotel relatively convenient 10 minutes disney 20 minutes universal dont stay try 35night hotels irlo bronson future terrible experience brag", "Date": "2010-09-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "NJ", "Title": "\u201cClean, comfy, Brilliant - great value for money!\u201d", "Author": "sungal21", "ReviewID": "UR66908624", "Content": "reviews trip adviser onto websites found reviews compare weigh bad ahead booked 1 week absolutely loved comfortable parking door wifi person eventually booked friend experience family clean house keeping comes everyday yes dated breakfast little didnt bother im paying complimentary loved swings little animals front adds little staff nice responsive extremely knowledgeable helped transportation sold discount tickets parks overall liked hotel enjoyed stay definitely recommend friends family 2 days stay bath tap leaking fixed day reported", "Date": "2010-06-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Orlando, Florida", "Title": "\u201cClean, Quite and Safe!\u201d", "Author": "twforl", "ReviewID": "UR64085409", "Content": "amazed couple reviews read record parkside inn kissimmee clean motel usually stay town seen single bug smelled fresh clean security issue lock car park feet nice pool reviews read complained water warm florida pool warm water family owned staff makes am happy ensure internet connection comfortable price motels quality little store street plenty spots eat disney miles west palm trees swings chairs property orange orchid", "Date": "2010-05-13 00:00:00"}], "HotelInfo": {"Name": "Record Parkside Inn and Suites", "HotelURL": "/ShowUserReviews-g34352-d84810-Reviews-Record_Parkside_Inn_and_Suites-Kissimmee_Florida.html", "Price": "$30 - $37*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4651 West Irlo Bronson Highway (Us 192)</span>, <span class=\"locality\"><span property=\"v:locality\">Kissimmee</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">34746</span></span> </span></span></address>", "HotelID": "84810", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e8/ed/e8ed5c29c780b28c7c0956db69a3b7325large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "NJ",
+      "Title": "\u201cAwesome!!!!!!!!!\u201d",
+      "Author": "sungal21",
+      "ReviewID": "UR128234215",
+      "Content": "family trip fun enjoyed hotel staff extremely helpful mean type people booked 2 queens upgraded king included sofa microwave pool kids occupied hours fun thats matters clean comfy beds noise hbo location cant wrong",
+      "Date": "2012-04-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Denmark",
+      "Title": "\u201cBring earplugs\u201d",
+      "Author": "Soren K Posted by an Easytobook.com traveler",
+      "ReviewID": "UR127449392",
+      "Content": "8 huge buildings 160 total hard bed breakfast seating 12 people breakfast walls literally hear footstep outside unclean boot doesnt sound theres price pros cheap location theres nice street town nights fine bring earplugs youll set",
+      "Date": "2012-04-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Rochester NY",
+      "Title": "\u201cMuch better than I expected\u201d",
+      "Author": "barbarawwarren",
+      "ReviewID": "UR122160824",
+      "Content": "inexpensive hotel motor home broke parkside clean odors bugs helpful management extras tvs little bottles shampoo continental breakfast wi fi hbo swimming pool clean familyrun business care",
+      "Date": "2011-12-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Baton Rouge, Louisiana",
+      "Title": "\u201cOne night was one night too much!\u201d",
+      "Author": "devon4",
+      "ReviewID": "UR81108185",
+      "Content": "clean sheets sleep 12hour car ride couldnt key am supposed receive continental breakfast food own ice machine broken inroom refrigerator wasnt plugged thanks signs posted stated charge inroom refrigerator disinfecting wipes touched pool looked clean didnt time try night heading onto wdw property week stayed elsewhere wished wed gone value pay",
+      "Date": "2010-09-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Schenectady, New York",
+      "Title": "\u201cYou get what you pay for...good thing you aren't paying much\u201d",
+      "Author": "BSMinNY",
+      "ReviewID": "UR78250031",
+      "Content": "wife trying cheap decided try rate 27night pay serious updating badly fresh coat paint dresser drawers didnt mold bathroom ceiling overall relatively clean front desk staff pleasant beware southwest airlines passengers front desk staff idea talking print boarding passes thankfully people guest services disney hollywood studios printed free location hotel relatively convenient 10 minutes disney 20 minutes universal dont stay try 35night hotels irlo bronson future terrible experience brag",
+      "Date": "2010-09-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "NJ",
+      "Title": "\u201cClean, comfy, Brilliant - great value for money!\u201d",
+      "Author": "sungal21",
+      "ReviewID": "UR66908624",
+      "Content": "reviews trip adviser onto websites found reviews compare weigh bad ahead booked 1 week absolutely loved comfortable parking door wifi person eventually booked friend experience family clean house keeping comes everyday yes dated breakfast little didnt bother im paying complimentary loved swings little animals front adds little staff nice responsive extremely knowledgeable helped transportation sold discount tickets parks overall liked hotel enjoyed stay definitely recommend friends family 2 days stay bath tap leaking fixed day reported",
+      "Date": "2010-06-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Orlando, Florida",
+      "Title": "\u201cClean, Quite and Safe!\u201d",
+      "Author": "twforl",
+      "ReviewID": "UR64085409",
+      "Content": "amazed couple reviews read record parkside inn kissimmee clean motel usually stay town seen single bug smelled fresh clean security issue lock car park feet nice pool reviews read complained water warm florida pool warm water family owned staff makes am happy ensure internet connection comfortable price motels quality little store street plenty spots eat disney miles west palm trees swings chairs property orange orchid",
+      "Date": "2010-05-13 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Record Parkside Inn and Suites",
+    "HotelURL": "/ShowUserReviews-g34352-d84810-Reviews-Record_Parkside_Inn_and_Suites-Kissimmee_Florida.html",
+    "Price": "$30 - $37*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">4651 West Irlo Bronson Highway (Us 192)</span>, <span class=\"locality\"><span property=\"v:locality\">Kissimmee</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">34746</span></span> </span></span></address>",
+    "HotelID": "84810",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e8/ed/e8ed5c29c780b28c7c0956db69a3b7325large.jpg"
+  }
+}

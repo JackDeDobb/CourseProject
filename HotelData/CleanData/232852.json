@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Kingsport, Tennessee", "Title": "\u201cRUN AWAY FAST!!\u201d", "Author": "Hnharmon", "ReviewID": "UR120207969", "Content": "worst stayed entire trip service air conditioning clean mysterious stains wall showers dont burn freeze death exactly receptionist lazy eyes acts stupid dont expect fan hot unless tell people line waiting check probably leave hotel seriously dont stay dont terrible", "Date": "2011-11-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cFriendly Staff and Reasonably Comfortable Stay\u201d", "Author": "independencecity", "ReviewID": "UR103108303", "Content": "friend hotel unexpectedly hotel booked moved excuse electrical initially unhappy location convenient hotel didnt nice booked kept drainage shower fixed informed staff pretty value paid pleasant stay staff initially unhappy circumstance positive staff friendly helpful informative accommodating facilities average staff bumped rating stay", "Date": "2011-04-06 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Antwerp, Belgium", "Title": "\u201cBudget Hotel - Decent Location\u201d", "Author": "TomJacobs", "ReviewID": "UR72307947", "Content": "hotel 20 minutes main train station questionable safe rome reception staff exuberant amount arrogance bordering downright hotel tlc overall found basic clean unlike streets rome dirty airco july gift rome 1015 minutes water somewhat heat nice refreshing shower breakfast decent price pay shouldnt complain", "Date": "2010-07-25 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Brooklyn, NY", "Title": "\u201cOld School European Budget Hotel\u201d", "Author": "whytelightnin2", "ReviewID": "UR63065518", "Content": "stayed nights stranded due icelandic volcano couldnt reservation hotel rome stayed previously expect european budget hotel building seen days dark dreary questionable plumbing wasnt bad drab decor creepy rockhard bed paper thin pillows serviceable shortstaffed cleaning department dead cockroach hallway checked days checked bothered water smelled sulphur stench permeated bathroom time shower dispensed scalding freezing water internet access hotel guests tv channels english normally wouldnt bother stranded updated volcano situation fortunately understand french able tune swiss news channel hotel location near manzoni stop metro twenty minute walk termini bad restaurants paid 80 euro night stay price rome avoid", "Date": "2010-05-02 00:00:00"}], "HotelInfo": {"Name": "Hotel Daniela", "HotelURL": "/ShowUserReviews-g187791-d232852-Reviews-Hotel_Daniela-Rome_Lazio.html", "Price": "$79 - $208*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Luzzatti 31</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "232852", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b1/42/b142da008235123f3bd01cb97bfa17bc8large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Kingsport, Tennessee",
+      "Title": "\u201cRUN AWAY FAST!!\u201d",
+      "Author": "Hnharmon",
+      "ReviewID": "UR120207969",
+      "Content": "worst stayed entire trip service air conditioning clean mysterious stains wall showers dont burn freeze death exactly receptionist lazy eyes acts stupid dont expect fan hot unless tell people line waiting check probably leave hotel seriously dont stay dont terrible",
+      "Date": "2011-11-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cFriendly Staff and Reasonably Comfortable Stay\u201d",
+      "Author": "independencecity",
+      "ReviewID": "UR103108303",
+      "Content": "friend hotel unexpectedly hotel booked moved excuse electrical initially unhappy location convenient hotel didnt nice booked kept drainage shower fixed informed staff pretty value paid pleasant stay staff initially unhappy circumstance positive staff friendly helpful informative accommodating facilities average staff bumped rating stay",
+      "Date": "2011-04-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Antwerp, Belgium",
+      "Title": "\u201cBudget Hotel - Decent Location\u201d",
+      "Author": "TomJacobs",
+      "ReviewID": "UR72307947",
+      "Content": "hotel 20 minutes main train station questionable safe rome reception staff exuberant amount arrogance bordering downright hotel tlc overall found basic clean unlike streets rome dirty airco july gift rome 1015 minutes water somewhat heat nice refreshing shower breakfast decent price pay shouldnt complain",
+      "Date": "2010-07-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Brooklyn, NY",
+      "Title": "\u201cOld School European Budget Hotel\u201d",
+      "Author": "whytelightnin2",
+      "ReviewID": "UR63065518",
+      "Content": "stayed nights stranded due icelandic volcano couldnt reservation hotel rome stayed previously expect european budget hotel building seen days dark dreary questionable plumbing wasnt bad drab decor creepy rockhard bed paper thin pillows serviceable shortstaffed cleaning department dead cockroach hallway checked days checked bothered water smelled sulphur stench permeated bathroom time shower dispensed scalding freezing water internet access hotel guests tv channels english normally wouldnt bother stranded updated volcano situation fortunately understand french able tune swiss news channel hotel location near manzoni stop metro twenty minute walk termini bad restaurants paid 80 euro night stay price rome avoid",
+      "Date": "2010-05-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Daniela",
+    "HotelURL": "/ShowUserReviews-g187791-d232852-Reviews-Hotel_Daniela-Rome_Lazio.html",
+    "Price": "$79 - $208*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Luzzatti 31</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "232852",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b1/42/b142da008235123f3bd01cb97bfa17bc8large.jpg"
+  }
+}

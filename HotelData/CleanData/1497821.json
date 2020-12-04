@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Singapore", "Title": "\u201cExcellent value for money\u201d", "Author": "cryolite", "ReviewID": "UR118964986", "Content": "stayed 2 locations 6th avenue annex lexington avenue fantastic location reasonably clean preferred 6th avenue location closer subway station food annex 2 complaints 1 elevator 4th 3rd storey 2 locations respectively makes luggage carrying challenging workout 2 shower annex overlooked value", "Date": "2011-10-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Tokyo", "Title": "\u201cWould definately use this place again!!!\u201d", "Author": "hielo55", "ReviewID": "UR65291178", "Content": "accomodation york bit pricy especially youre planning stay period time found id try location theres subway station near using bus option plenty eat grocery stores neighborhood kitchen cant stoveoven microwave cooking bathroom shower booth bit stayed february experienced snow storm cold warm inside nice coming warm youre hoping hotel class experience experience york stay else shower sleep youre enjoying city time enjoyed nightly conversation visitors cant stayed hotel", "Date": "2010-05-25 00:00:00"}], "HotelInfo": {"Name": "NY Oyado", "HotelURL": "/ShowUserReviews-g60763-d1497821-Reviews-NY_Oyado-New_York_City_New_York.html", "Price": "0", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">823 6th Ave</span>, <span class=\"locality\"><span property=\"v:locality\">New York City</span>, <span property=\"v:region\">NY</span></span> </span> </span> </address>", "HotelID": "1497821", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Singapore",
+      "Title": "\u201cExcellent value for money\u201d",
+      "Author": "cryolite",
+      "ReviewID": "UR118964986",
+      "Content": "stayed 2 locations 6th avenue annex lexington avenue fantastic location reasonably clean preferred 6th avenue location closer subway station food annex 2 complaints 1 elevator 4th 3rd storey 2 locations respectively makes luggage carrying challenging workout 2 shower annex overlooked value",
+      "Date": "2011-10-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Tokyo",
+      "Title": "\u201cWould definately use this place again!!!\u201d",
+      "Author": "hielo55",
+      "ReviewID": "UR65291178",
+      "Content": "accomodation york bit pricy especially youre planning stay period time found id try location theres subway station near using bus option plenty eat grocery stores neighborhood kitchen cant stoveoven microwave cooking bathroom shower booth bit stayed february experienced snow storm cold warm inside nice coming warm youre hoping hotel class experience experience york stay else shower sleep youre enjoying city time enjoyed nightly conversation visitors cant stayed hotel",
+      "Date": "2010-05-25 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "NY Oyado",
+    "HotelURL": "/ShowUserReviews-g60763-d1497821-Reviews-NY_Oyado-New_York_City_New_York.html",
+    "Price": "0",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">823 6th Ave</span>, <span class=\"locality\"><span property=\"v:locality\">New York City</span>, <span property=\"v:region\">NY</span></span> </span> </span> </address>",
+    "HotelID": "1497821",
+    "ImgURL": ""
+  }
+}

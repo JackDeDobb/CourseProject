@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Regensburg", "Title": "\u201cGreat value for money\u201d", "Author": "TineRgbg", "ReviewID": "UR128534101", "Content": "booked 5 nights clean breakfast wish 5 hotel hotel perfect look hotel perfect location sightseeing istanbul dont spend money", "Date": "2012-04-24 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Birmingham, United Kingdom", "Title": "\u201cIt might be alright - but beware!\u201d", "Author": "ClurrrBee", "ReviewID": "UR83790346", "Content": "partner arrived hotel double ready instead triple night day enquired shown else eventually afternoon lift hotel managed fit bags hotel staff stairs rest stay trapped space kept clothes bags windows inwards bottom bed tv unstable stand foreign channels tv didnt purpose bed linen bed bottom sheet didnt fit matress everyday woke sleeping stained matress bathroom wet everytime shower remove toilet paper window forever dry air conditioner wasnt october imagine summer story hotel hairdryer reception told broken real issue thick hair takes time dry naturally plus walls solid brick couldnt hear people maids changed towels bin replenished shower gel daily hotel offered continental breakfast 8 930am computer reception internet cafe door location hotel close blue mosque spice bazaar close tram line probably wouldnt return hotel due space constraints lack hairdryer issue mentioned issue recommend hotel", "Date": "2010-10-17 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 5.0}, "AuthorLocation": "East Midlands, UK", "Title": "\u201cLilliput\u201d", "Author": "zwaard", "ReviewID": "UR79932685", "Content": "let\u00e2\u20ac\u2122s start positives it\u00e2\u20ac\u2122s clean it\u00e2\u20ac\u2122s close railway station ferries eminonu stroll topkapi bed comfortable hot water flowed else negative main size squeezed double bed single walk door tiny showertoilet wet beyond sleeping double bed fitted snugly ie touching touching third bed space length bed 90 cm wide 18 square metres limited storage facilities occupied space that\u00e2\u20ac\u2122s people dressed space time promised air conditioning exist fan travel light flying carryon bags managed stow bags managed cant imagine toilet sit sideways swivel round breadth wc wall opposite breakfast adequate bread butter olives boiled egg pieces tomato cucumber jam tea instant coffee reception bar tacky fake black leather chairs return hotel maybe paid lot", "Date": "2010-09-17 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Paris", "Title": "\u201cClean and good location\u201d", "Author": "gouigouicito", "ReviewID": "UR76062647", "Content": "paid 32 euros single ac august idea ac wait 45 minutes breakfast morning enjoy time morning wait 45 minutes hotel clean real location istanbul", "Date": "2010-08-20 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Sofia", "Title": "\u201cGood location and hostability\u201d", "Author": "nkostov", "ReviewID": "UR70370521", "Content": "stayed days positively surprised attitude host staff advised city location hotel near harbour famous buildings hagia bazaar spice market hotel luxury offers including beatiful view roof", "Date": "2010-07-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Dearborn, Michigan", "Title": "\u201cGood Hotel for the Price\u201d", "Author": "DearbornTravelMom", "ReviewID": "UR68563437", "Content": "stayed hotel 4 nights traveled 2 children 5 7 clean staff nice alittle closet space shower seperate rest bathroom westerners drawback location hotel ideal seeing istanbul close tram stop fairly close ferry docks hotel rest spent 90 time exploring city hotel price location staff helpful told eat budget local turkish people eat", "Date": "2010-06-24 00:00:00"}], "HotelInfo": {"Name": "Hotel Samil", "HotelURL": "/ShowUserReviews-g293974-d1803654-Reviews-Hotel_Samil-Istanbul.html", "Price": "$53 - $79*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Hudavendigar Cad. Serdar Sk. No:3</span> | <span class=\"extended-address\">Sirkeci</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34110</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "1803654", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/8f/81/fc/single-room-all-rooms.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Regensburg",
+      "Title": "\u201cGreat value for money\u201d",
+      "Author": "TineRgbg",
+      "ReviewID": "UR128534101",
+      "Content": "booked 5 nights clean breakfast wish 5 hotel hotel perfect look hotel perfect location sightseeing istanbul dont spend money",
+      "Date": "2012-04-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Birmingham, United Kingdom",
+      "Title": "\u201cIt might be alright - but beware!\u201d",
+      "Author": "ClurrrBee",
+      "ReviewID": "UR83790346",
+      "Content": "partner arrived hotel double ready instead triple night day enquired shown else eventually afternoon lift hotel managed fit bags hotel staff stairs rest stay trapped space kept clothes bags windows inwards bottom bed tv unstable stand foreign channels tv didnt purpose bed linen bed bottom sheet didnt fit matress everyday woke sleeping stained matress bathroom wet everytime shower remove toilet paper window forever dry air conditioner wasnt october imagine summer story hotel hairdryer reception told broken real issue thick hair takes time dry naturally plus walls solid brick couldnt hear people maids changed towels bin replenished shower gel daily hotel offered continental breakfast 8 930am computer reception internet cafe door location hotel close blue mosque spice bazaar close tram line probably wouldnt return hotel due space constraints lack hairdryer issue mentioned issue recommend hotel",
+      "Date": "2010-10-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "East Midlands, UK",
+      "Title": "\u201cLilliput\u201d",
+      "Author": "zwaard",
+      "ReviewID": "UR79932685",
+      "Content": "let\u00e2\u20ac\u2122s start positives it\u00e2\u20ac\u2122s clean it\u00e2\u20ac\u2122s close railway station ferries eminonu stroll topkapi bed comfortable hot water flowed else negative main size squeezed double bed single walk door tiny showertoilet wet beyond sleeping double bed fitted snugly ie touching touching third bed space length bed 90 cm wide 18 square metres limited storage facilities occupied space that\u00e2\u20ac\u2122s people dressed space time promised air conditioning exist fan travel light flying carryon bags managed stow bags managed cant imagine toilet sit sideways swivel round breadth wc wall opposite breakfast adequate bread butter olives boiled egg pieces tomato cucumber jam tea instant coffee reception bar tacky fake black leather chairs return hotel maybe paid lot",
+      "Date": "2010-09-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Paris",
+      "Title": "\u201cClean and good location\u201d",
+      "Author": "gouigouicito",
+      "ReviewID": "UR76062647",
+      "Content": "paid 32 euros single ac august idea ac wait 45 minutes breakfast morning enjoy time morning wait 45 minutes hotel clean real location istanbul",
+      "Date": "2010-08-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Sofia",
+      "Title": "\u201cGood location and hostability\u201d",
+      "Author": "nkostov",
+      "ReviewID": "UR70370521",
+      "Content": "stayed days positively surprised attitude host staff advised city location hotel near harbour famous buildings hagia bazaar spice market hotel luxury offers including beatiful view roof",
+      "Date": "2010-07-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dearborn, Michigan",
+      "Title": "\u201cGood Hotel for the Price\u201d",
+      "Author": "DearbornTravelMom",
+      "ReviewID": "UR68563437",
+      "Content": "stayed hotel 4 nights traveled 2 children 5 7 clean staff nice alittle closet space shower seperate rest bathroom westerners drawback location hotel ideal seeing istanbul close tram stop fairly close ferry docks hotel rest spent 90 time exploring city hotel price location staff helpful told eat budget local turkish people eat",
+      "Date": "2010-06-24 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Samil",
+    "HotelURL": "/ShowUserReviews-g293974-d1803654-Reviews-Hotel_Samil-Istanbul.html",
+    "Price": "$53 - $79*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Hudavendigar Cad. Serdar Sk. No:3</span> | <span class=\"extended-address\">Sirkeci</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34110</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "1803654",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/8f/81/fc/single-room-all-rooms.jpg"
+  }
+}

@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Berlin", "Title": "\u201cDon't believe the web site\u201d", "Author": "Andy_jm55", "ReviewID": "UR68398501", "Content": "web site free wifi ok yes free afer numerous complaints shrugged shoulders worth taking own towels supply towels noisey traffic night people moving upstairs people climbing stairs late night banging doors alarm clock door", "Date": "2010-06-23 00:00:00"}], "HotelInfo": {"Name": "Hotel-Pension Adamshof", "HotelURL": "/ShowUserReviews-g187323-d614160-Reviews-Hotel_Pension_Adamshof-Berlin.html", "Price": "$33 - $72*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Emanuelstrasse 3</span>, <span class=\"locality\"><span property=\"v:postal-code\">10317</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "614160", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f4/d2/f4d2f1c12d4a48853059d228cbf04f191large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Berlin",
+      "Title": "\u201cDon't believe the web site\u201d",
+      "Author": "Andy_jm55",
+      "ReviewID": "UR68398501",
+      "Content": "web site free wifi ok yes free afer numerous complaints shrugged shoulders worth taking own towels supply towels noisey traffic night people moving upstairs people climbing stairs late night banging doors alarm clock door",
+      "Date": "2010-06-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel-Pension Adamshof",
+    "HotelURL": "/ShowUserReviews-g187323-d614160-Reviews-Hotel_Pension_Adamshof-Berlin.html",
+    "Price": "$33 - $72*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Emanuelstrasse 3</span>, <span class=\"locality\"><span property=\"v:postal-code\">10317</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "614160",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f4/d2/f4d2f1c12d4a48853059d228cbf04f191large.jpg"
+  }
+}

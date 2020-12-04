@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Savannah, Georgia", "Title": "\u201cBudget weekend trip friendly\u201d", "Author": "TeadaCailin", "ReviewID": "UR124997242", "Content": "cheap reason staff friendly building couldve renovations theres elevator pack light unless haul suitcase multiple flights stairs private double roomit twin beds pushed desk tv wash basin mirror hot cold water ladies bathroom showers floor mens bathroom little annoying middle night privacy shower youre mercy thin blue shower curtain prepared overall hotel reminded aging european student dormitory location gorgeous corner little cafes tree lined streets look parisian hotel street sbahn little platz ubahn station takes 3045 minutes east berlins popular neighborhoods trains run regularly bad amazing restaurants walking distance sneezing distance hotel skip \u20ac7 hotel breakfast tastier cheaper corner cheap sleep shower cute run bohemian", "Date": "2012-02-21 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Jette, Belgium", "Title": "\u201cGood location, friendly staff, some renovations needed\u201d", "Author": "RReds", "ReviewID": "UR120451224", "Content": "location perfect city trip staff friendly stayed double private bathroom renovations bed bit uncomfortable bathroom renewed cleaned regularly towels included free internet rich breakfast included price otherwise breakfast costs 10 euros person value money", "Date": "2011-11-11 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Prague, Czech Republic", "Title": "\u201cOK for a short trip\u201d", "Author": "SaraVal", "ReviewID": "UR85523926", "Content": "location outside sbahn station twenty minutes walk main bus station quiet couldnt hear trains hear neighbours coming walls paper thin stayed th floor elevator cant imagine climbing stairs larger suitcase womens toilet showers floor ok staying season strange smell hand travelling budget choice", "Date": "2010-11-01 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Canberra, Australia", "Title": "\u201cAffordable, not too loud and in a reasonable location\u201d", "Author": "Dandy33", "ReviewID": "UR67243197", "Content": "reading reviews mentioned noise hotelhostel little worried able sleep despite road train station twin third floor quiet clean windows double glazing helped didnt people staying floor communal bathroom wifi weak third floor near reception breakfast hot days due warm weather time hostel provided fan helped included basin hot cold water surprised hostel sbahn trains centre run frequently past stop 5 minutes day trip alexanderplatz 20 minutes bad pleasantly surprised underground sbahn trains run night fridays saturdays handy", "Date": "2010-06-12 00:00:00"}], "HotelInfo": {"Name": "Hotel-Pension Berolina Charlottenburg", "HotelURL": "/ShowUserReviews-g187323-d234931-Reviews-Hotel_Pension_Berolina_Charlottenburg-Berlin.html", "Price": "$49 - $74*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Stuttgarter Platz 17</span> | <span class=\"extended-address\">Charlottenburg</span>, <span class=\"locality\"><span property=\"v:postal-code\">10627</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "234931", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7b/61/7b6196e91f6c64c8548b98828d32a72e19large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Savannah, Georgia",
+      "Title": "\u201cBudget weekend trip friendly\u201d",
+      "Author": "TeadaCailin",
+      "ReviewID": "UR124997242",
+      "Content": "cheap reason staff friendly building couldve renovations theres elevator pack light unless haul suitcase multiple flights stairs private double roomit twin beds pushed desk tv wash basin mirror hot cold water ladies bathroom showers floor mens bathroom little annoying middle night privacy shower youre mercy thin blue shower curtain prepared overall hotel reminded aging european student dormitory location gorgeous corner little cafes tree lined streets look parisian hotel street sbahn little platz ubahn station takes 3045 minutes east berlins popular neighborhoods trains run regularly bad amazing restaurants walking distance sneezing distance hotel skip \u20ac7 hotel breakfast tastier cheaper corner cheap sleep shower cute run bohemian",
+      "Date": "2012-02-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Jette, Belgium",
+      "Title": "\u201cGood location, friendly staff, some renovations needed\u201d",
+      "Author": "RReds",
+      "ReviewID": "UR120451224",
+      "Content": "location perfect city trip staff friendly stayed double private bathroom renovations bed bit uncomfortable bathroom renewed cleaned regularly towels included free internet rich breakfast included price otherwise breakfast costs 10 euros person value money",
+      "Date": "2011-11-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Prague, Czech Republic",
+      "Title": "\u201cOK for a short trip\u201d",
+      "Author": "SaraVal",
+      "ReviewID": "UR85523926",
+      "Content": "location outside sbahn station twenty minutes walk main bus station quiet couldnt hear trains hear neighbours coming walls paper thin stayed th floor elevator cant imagine climbing stairs larger suitcase womens toilet showers floor ok staying season strange smell hand travelling budget choice",
+      "Date": "2010-11-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Canberra, Australia",
+      "Title": "\u201cAffordable, not too loud and in a reasonable location\u201d",
+      "Author": "Dandy33",
+      "ReviewID": "UR67243197",
+      "Content": "reading reviews mentioned noise hotelhostel little worried able sleep despite road train station twin third floor quiet clean windows double glazing helped didnt people staying floor communal bathroom wifi weak third floor near reception breakfast hot days due warm weather time hostel provided fan helped included basin hot cold water surprised hostel sbahn trains centre run frequently past stop 5 minutes day trip alexanderplatz 20 minutes bad pleasantly surprised underground sbahn trains run night fridays saturdays handy",
+      "Date": "2010-06-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel-Pension Berolina Charlottenburg",
+    "HotelURL": "/ShowUserReviews-g187323-d234931-Reviews-Hotel_Pension_Berolina_Charlottenburg-Berlin.html",
+    "Price": "$49 - $74*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Stuttgarter Platz 17</span> | <span class=\"extended-address\">Charlottenburg</span>, <span class=\"locality\"><span property=\"v:postal-code\">10627</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "234931",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7b/61/7b6196e91f6c64c8548b98828d32a72e19large.jpg"
+  }
+}

@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Anderson, Indiana", "Title": "\u201cHorrible\u201d", "Author": "jbea1973", "ReviewID": "UR111989681", "Content": "late night checked wake calls clock didnt worst trash garbage piled foot tall night stand stay night complained money plus road hotel dark", "Date": "2011-06-07 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Saint Louis, Missouri", "Title": "\u201cGood stay, great value\u201d", "Author": "JMLMississippi", "ReviewID": "UR103022096", "Content": "loved suite extended stay nights booked online reading ta reviews found extended stay economical regular motels love convienence kitchen clean bathroom clean bed comfortable downside pillows soft liking cracker barrel restaurant front walking distance perk traveling timers short stays remember extended stay own apartment pick yourself day hang towels dry desk ones yourself own bed own dishes offer dish soap provide own shampoo cleaning folks week stay pay enjoy lodging nice sometimes leave shoes socks dropped day kidding", "Date": "2011-04-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "myrtle beach sc", "Title": "\u201cRelocating, Needed pampered\u201d", "Author": "tcaptainron60", "ReviewID": "UR59618430", "Content": "husband relocating indianapolis south carolina found extended stay deluxe close job transferred tell stress moving impose family pampered extended stay deluxe staff check wonderful maid comes takes care coffee breakfast leave", "Date": "2010-03-26 00:00:00"}], "HotelInfo": {"Name": "Extended Stay Deluxe Indianapolis - Northwest - I-465", "HotelURL": "/ShowUserReviews-g37209-d224830-Reviews-Extended_Stay_Deluxe_Indianapolis_Northwest_I_465-Indianapolis_Indiana.html", "Price": "$61 - $75*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">9370 Waldemar Road</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46268</span></span> </span> </span> </address>", "HotelID": "224830", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f6/0a/f60a336c5476da9675a99b48c511100d3large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Anderson, Indiana",
+      "Title": "\u201cHorrible\u201d",
+      "Author": "jbea1973",
+      "ReviewID": "UR111989681",
+      "Content": "late night checked wake calls clock didnt worst trash garbage piled foot tall night stand stay night complained money plus road hotel dark",
+      "Date": "2011-06-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Saint Louis, Missouri",
+      "Title": "\u201cGood stay, great value\u201d",
+      "Author": "JMLMississippi",
+      "ReviewID": "UR103022096",
+      "Content": "loved suite extended stay nights booked online reading ta reviews found extended stay economical regular motels love convienence kitchen clean bathroom clean bed comfortable downside pillows soft liking cracker barrel restaurant front walking distance perk traveling timers short stays remember extended stay own apartment pick yourself day hang towels dry desk ones yourself own bed own dishes offer dish soap provide own shampoo cleaning folks week stay pay enjoy lodging nice sometimes leave shoes socks dropped day kidding",
+      "Date": "2011-04-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "myrtle beach sc",
+      "Title": "\u201cRelocating, Needed pampered\u201d",
+      "Author": "tcaptainron60",
+      "ReviewID": "UR59618430",
+      "Content": "husband relocating indianapolis south carolina found extended stay deluxe close job transferred tell stress moving impose family pampered extended stay deluxe staff check wonderful maid comes takes care coffee breakfast leave",
+      "Date": "2010-03-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Extended Stay Deluxe Indianapolis - Northwest - I-465",
+    "HotelURL": "/ShowUserReviews-g37209-d224830-Reviews-Extended_Stay_Deluxe_Indianapolis_Northwest_I_465-Indianapolis_Indiana.html",
+    "Price": "$61 - $75*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">9370 Waldemar Road</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46268</span></span> </span> </span> </address>",
+    "HotelID": "224830",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f6/0a/f60a336c5476da9675a99b48c511100d3large.jpg"
+  }
+}

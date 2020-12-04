@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Dufur, OR", "Title": "\u201cNice hotel employees, but lousy neighbors above us\u201d", "Author": "JCab29", "ReviewID": "UR123874080", "Content": "asleep people started party upstairs late night loud woke louder kept complaining front desk lady look quieter finally sleep 3 am party loud police leave ones staying rude", "Date": "2012-01-30 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Monona, Wisconsin, United States", "Title": "\u201cUnreal, horrible stay that seems like a nightmare\u201d", "Author": "Virginia K", "ReviewID": "UR121226651", "Content": "started confusion reservation 3 traveled wisconsin annual football game trip arriving late called ahead time late arrival approval arrived 1045 pm checked started unpacking van taking 10 women own bags 2 coolers food stay weekend football game elevator luggage rack course noise 1015 minutes employees woman nice courteous holding door bring inside little easier driver van notice male employee time little annoyed told male employee inappropriate comments lot assumptions settled gathered talk drive unwind alcoholic drinks discussed plan day bed little loud calmed 1015 minutes getting situated belongings talked amongst ourselves hour people started sleep night women smoker stepped outside told stairs male employee snide comments talking amongst decided 1130 am bed hear loud noise ladies door talking quietly getting ready bed ready lay heard light knock door male employee named jeff door stating door getting complaints stated bed soon believe bed shortly 2 women staying 20 minutes ready bed night stated else shortly knock door jeff stated friends leave police door remained bed friend door misunderstanding bed told stuff leave hotel believe unreal brought stairs quickly repacked van hope hotel stay night rest weekend lucky 3 available 10 women trully grateful accomadations elevators luggage racks extra noise avoided friend receipts paperwork jeff hotel regarding stay beginning nightmare friend booked tried call morning talk manager horrible experience employee jeff express wrongly leave hotel transferred housekeeping twice finally told repeat phone calls 930 am called continued run mess solved easily friend found extra charges credit card days inn friend called corporate days inn answers complete nightmare highly recommend staying hotel especially check late night am staying days inn", "Date": "2011-11-29 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Baraboo", "Title": "\u201cWORST STAY EVER !!!!\u201d", "Author": "Tonya K", "ReviewID": "UR120866898", "Content": "checked hotel late called prior late arrived horrible experience started immediately night audit employee discrimination comments entered 230 am woken police stating leave hotel due noise complaints cops front desk question noisy hear yes arrived hotel adjusted met talked drank beers couple hours time cops called own sleeping fun woken told leave hotel arrived late 10 minutes noise unload carry 2nd floor dont elevator trips stairs 10 people control recommended bad choice stay needless cops surprised", "Date": "2011-11-21 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Lyndon Station, Wisconsin", "Title": "\u201cHorrendous Hotel...Horrendous Staff\u201d", "Author": "badger_girl11", "ReviewID": "UR120858456", "Content": "reserved 3 online site discounted rates called hotel double check reservation week scheduled arrive answer ther 2 days called times day nervous called 800 days found reserved 1 simply wouldnt cancelled called directly hotel againthis time 3 times calling answer phone finally reservations correct called late arrival checkin lady checked nice gentleman shift shortly jeff thompson rude condescending bringing suitcases 2nd floor elevator luggage racks snide remarks pregnant trip friends arrived 11pm sleeping 1520 minutes 2am police knocking doors waking telling leave apparently complaints loud person paid 3 name name contacted complaints 10 talking apparently loud gone own police officers didnt opinions couldnt themthey tell wouldnt stay thereat 230 am weekend playing illinois forced 1 3 hotel 2 hours hotel hotel positive experience deal found hotel cleaner nicer staff outstanding amazing didnt charge night checked 4am forced leave rush items left called saturday morning speak manager happened jeff rude unwilling type paperwork transferred housekeeping called transferred called finally spoke woman call 930 called 950 told manager wasnt called 3pm told manager chicago items front desk left called credit card company options found charged price 3 2 nights charged additional individual charges 3 1 night sunday stopped hotel left messages manager call received copies bills items front desk lady tell rented leave remarks jeff night shift hear manager lady spoke sunday package left jeff manager called days inn corporate 28th resolution mean time credit card charged 900 3 crappy 3 hours highly recommend staying particular hotel experience absolutely horrible", "Date": "2011-11-21 00:00:00"}], "HotelInfo": {"Name": "Days Inn Champaign", "HotelURL": "/ShowUserReviews-g35790-d87552-Reviews-Days_Inn_Champaign-Champaign_Illinois.html", "Price": "$60 - $72*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1019 Bloomington Rd.</span>, <span class=\"extended-address\">I-74 exit 181 South</span>, <span class=\"locality\"><span property=\"v:locality\">Champaign</span>, <span property=\"v:region\">IL</span> <span property=\"v:postal-code\">61821</span></span> </span> </span> </address>", "HotelID": "87552", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ff/08/ff085ad6fff69357010fe9d80e3c42a63large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Dufur, OR",
+      "Title": "\u201cNice hotel employees, but lousy neighbors above us\u201d",
+      "Author": "JCab29",
+      "ReviewID": "UR123874080",
+      "Content": "asleep people started party upstairs late night loud woke louder kept complaining front desk lady look quieter finally sleep 3 am party loud police leave ones staying rude",
+      "Date": "2012-01-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Monona, Wisconsin, United States",
+      "Title": "\u201cUnreal, horrible stay that seems like a nightmare\u201d",
+      "Author": "Virginia K",
+      "ReviewID": "UR121226651",
+      "Content": "started confusion reservation 3 traveled wisconsin annual football game trip arriving late called ahead time late arrival approval arrived 1045 pm checked started unpacking van taking 10 women own bags 2 coolers food stay weekend football game elevator luggage rack course noise 1015 minutes employees woman nice courteous holding door bring inside little easier driver van notice male employee time little annoyed told male employee inappropriate comments lot assumptions settled gathered talk drive unwind alcoholic drinks discussed plan day bed little loud calmed 1015 minutes getting situated belongings talked amongst ourselves hour people started sleep night women smoker stepped outside told stairs male employee snide comments talking amongst decided 1130 am bed hear loud noise ladies door talking quietly getting ready bed ready lay heard light knock door male employee named jeff door stating door getting complaints stated bed soon believe bed shortly 2 women staying 20 minutes ready bed night stated else shortly knock door jeff stated friends leave police door remained bed friend door misunderstanding bed told stuff leave hotel believe unreal brought stairs quickly repacked van hope hotel stay night rest weekend lucky 3 available 10 women trully grateful accomadations elevators luggage racks extra noise avoided friend receipts paperwork jeff hotel regarding stay beginning nightmare friend booked tried call morning talk manager horrible experience employee jeff express wrongly leave hotel transferred housekeeping twice finally told repeat phone calls 930 am called continued run mess solved easily friend found extra charges credit card days inn friend called corporate days inn answers complete nightmare highly recommend staying hotel especially check late night am staying days inn",
+      "Date": "2011-11-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Baraboo",
+      "Title": "\u201cWORST STAY EVER !!!!\u201d",
+      "Author": "Tonya K",
+      "ReviewID": "UR120866898",
+      "Content": "checked hotel late called prior late arrived horrible experience started immediately night audit employee discrimination comments entered 230 am woken police stating leave hotel due noise complaints cops front desk question noisy hear yes arrived hotel adjusted met talked drank beers couple hours time cops called own sleeping fun woken told leave hotel arrived late 10 minutes noise unload carry 2nd floor dont elevator trips stairs 10 people control recommended bad choice stay needless cops surprised",
+      "Date": "2011-11-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Lyndon Station, Wisconsin",
+      "Title": "\u201cHorrendous Hotel...Horrendous Staff\u201d",
+      "Author": "badger_girl11",
+      "ReviewID": "UR120858456",
+      "Content": "reserved 3 online site discounted rates called hotel double check reservation week scheduled arrive answer ther 2 days called times day nervous called 800 days found reserved 1 simply wouldnt cancelled called directly hotel againthis time 3 times calling answer phone finally reservations correct called late arrival checkin lady checked nice gentleman shift shortly jeff thompson rude condescending bringing suitcases 2nd floor elevator luggage racks snide remarks pregnant trip friends arrived 11pm sleeping 1520 minutes 2am police knocking doors waking telling leave apparently complaints loud person paid 3 name name contacted complaints 10 talking apparently loud gone own police officers didnt opinions couldnt themthey tell wouldnt stay thereat 230 am weekend playing illinois forced 1 3 hotel 2 hours hotel hotel positive experience deal found hotel cleaner nicer staff outstanding amazing didnt charge night checked 4am forced leave rush items left called saturday morning speak manager happened jeff rude unwilling type paperwork transferred housekeeping called transferred called finally spoke woman call 930 called 950 told manager wasnt called 3pm told manager chicago items front desk left called credit card company options found charged price 3 2 nights charged additional individual charges 3 1 night sunday stopped hotel left messages manager call received copies bills items front desk lady tell rented leave remarks jeff night shift hear manager lady spoke sunday package left jeff manager called days inn corporate 28th resolution mean time credit card charged 900 3 crappy 3 hours highly recommend staying particular hotel experience absolutely horrible",
+      "Date": "2011-11-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Days Inn Champaign",
+    "HotelURL": "/ShowUserReviews-g35790-d87552-Reviews-Days_Inn_Champaign-Champaign_Illinois.html",
+    "Price": "$60 - $72*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1019 Bloomington Rd.</span>, <span class=\"extended-address\">I-74 exit 181 South</span>, <span class=\"locality\"><span property=\"v:locality\">Champaign</span>, <span property=\"v:region\">IL</span> <span property=\"v:postal-code\">61821</span></span> </span> </span> </address>",
+    "HotelID": "87552",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/ff/08/ff085ad6fff69357010fe9d80e3c42a63large.jpg"
+  }
+}

@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Portland, Oregon", "Title": "\u201cGreat Option on a budget/Fab Location\u201d", "Author": "IntlSpy", "ReviewID": "UR119383766", "Content": "spent nights hotel weekend found accommodations clean located safe staff incredibly helpful 50 caf\u00e9s restaurants bars 5 min foot st georges pigalle metro stations street dont red light district booking youre blocks square hotel local feel 15 min walk gare du nord boulangerie door street", "Date": "2011-10-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Dungannon, United Kingdom", "Title": "\u201cBasic but functional\u201d", "Author": "Barbara140557", "ReviewID": "UR88677278", "Content": "sent hotel due booked orginal choice villa opera hotel impressions little dingy tired fed time cold light day found hotel basic clean staff friendly breakfast adequate central location reasonable value money nice kettle cup tea access satellite watching screen tv wasnt stations local dont speak french", "Date": "2010-11-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Castelnaudary, France", "Title": "\u201cSuper Surprise\u201d", "Author": "Roadfish11", "ReviewID": "UR80797315", "Content": "surprise booked bargain hotel arrival found plumbing arranged substitute hotel plumbing god send greeted graciously charming desk person source information aid choice suggested 6th floor eaves romantic view paris rooftops perfect clean modest breakfast fine usual foods person handling breakfast accommodating pleasant entire staff gracious real plus hotel easy walking distance location metro stations pigalle st george nice bistro type restaurants hotel minimarkets mus\u00e9e du museum romantic life short walk hotel real winner budget conscience charming hotel charming staff charming", "Date": "2010-09-24 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Paris", "Title": "\u201cFriendly, affordable & a pleasant surprise\u201d", "Author": "AOakeshott", "ReviewID": "UR70575453", "Content": "booked hotel parents struggling affordable appealing paris genuinely surprised warm welcoming approach staff equally surprised larger usual budget hotels excellent budget choice simple spacious clean windows properly air top floor tiny balconies look city furthermore hotel perfect location north paris steps montmartre chic growing hotel leafy little square fills evening people dinner drinks staff smoke reception effect nor dining happy choice particularly impressed genuine kindness staff", "Date": "2010-07-12 00:00:00"}], "HotelInfo": {"Name": "Hotel Monnier", "HotelURL": "/ShowUserReviews-g187147-d635418-Reviews-Hotel_Monnier-Paris_Ile_de_France.html", "Price": "$132 - $199*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">14 rue Henri Monnier</span> | <span class=\"extended-address\">9th Arr.</span>, <span class=\"locality\"><span property=\"v:postal-code\">75009</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>", "HotelID": "635418", "ImgURL": "http://static.booking.com/images/hotel/250x200/332/3327984.jpg?TAAuthorName=BookingsOrgThumbnailsFree"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Portland, Oregon",
+      "Title": "\u201cGreat Option on a budget/Fab Location\u201d",
+      "Author": "IntlSpy",
+      "ReviewID": "UR119383766",
+      "Content": "spent nights hotel weekend found accommodations clean located safe staff incredibly helpful 50 caf\u00e9s restaurants bars 5 min foot st georges pigalle metro stations street dont red light district booking youre blocks square hotel local feel 15 min walk gare du nord boulangerie door street",
+      "Date": "2011-10-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Dungannon, United Kingdom",
+      "Title": "\u201cBasic but functional\u201d",
+      "Author": "Barbara140557",
+      "ReviewID": "UR88677278",
+      "Content": "sent hotel due booked orginal choice villa opera hotel impressions little dingy tired fed time cold light day found hotel basic clean staff friendly breakfast adequate central location reasonable value money nice kettle cup tea access satellite watching screen tv wasnt stations local dont speak french",
+      "Date": "2010-11-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Castelnaudary, France",
+      "Title": "\u201cSuper Surprise\u201d",
+      "Author": "Roadfish11",
+      "ReviewID": "UR80797315",
+      "Content": "surprise booked bargain hotel arrival found plumbing arranged substitute hotel plumbing god send greeted graciously charming desk person source information aid choice suggested 6th floor eaves romantic view paris rooftops perfect clean modest breakfast fine usual foods person handling breakfast accommodating pleasant entire staff gracious real plus hotel easy walking distance location metro stations pigalle st george nice bistro type restaurants hotel minimarkets mus\u00e9e du museum romantic life short walk hotel real winner budget conscience charming hotel charming staff charming",
+      "Date": "2010-09-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Paris",
+      "Title": "\u201cFriendly, affordable & a pleasant surprise\u201d",
+      "Author": "AOakeshott",
+      "ReviewID": "UR70575453",
+      "Content": "booked hotel parents struggling affordable appealing paris genuinely surprised warm welcoming approach staff equally surprised larger usual budget hotels excellent budget choice simple spacious clean windows properly air top floor tiny balconies look city furthermore hotel perfect location north paris steps montmartre chic growing hotel leafy little square fills evening people dinner drinks staff smoke reception effect nor dining happy choice particularly impressed genuine kindness staff",
+      "Date": "2010-07-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Monnier",
+    "HotelURL": "/ShowUserReviews-g187147-d635418-Reviews-Hotel_Monnier-Paris_Ile_de_France.html",
+    "Price": "$132 - $199*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">14 rue Henri Monnier</span> | <span class=\"extended-address\">9th Arr.</span>, <span class=\"locality\"><span property=\"v:postal-code\">75009</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>",
+    "HotelID": "635418",
+    "ImgURL": "http://static.booking.com/images/hotel/250x200/332/3327984.jpg?TAAuthorName=BookingsOrgThumbnailsFree"
+  }
+}

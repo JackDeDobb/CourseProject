@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "London", "Title": "\u201cVery reasonable no-frills rooms in monastery\u201d", "Author": "bf99", "ReviewID": "UR120452743", "Content": "located monastery little sign monks ambience closer modern budget hotel offers comfortable nofrills accommodation eg modern bathrooms tv kettles breakfast helpful reception staff reasonably priced building features eg modern spiral staircase conveniently located close attractive zattere waterfront accademia bridge pleasant artistic slightly main tourist trail", "Date": "2011-11-11 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Grand Canyon National Park, Arizona", "Title": "\u201cMonestary a surprise\u201d", "Author": "Patricia T", "ReviewID": "UR118491273", "Content": "husband expected musty establishment pleasantly surprised monestary modernized sterility clean ac beautifully elevator fine tv reception friendly helpful breakfast bit spartan fruit eggs meat dorsoduro district short walk grand canal accademia vaporetto boat stop bridge art gallery steps waterfront restaurants canale della giudecca", "Date": "2011-09-23 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Vienna, Austria", "Title": "\u201cexcellent location\u201d", "Author": "cyborys", "ReviewID": "UR97736595", "Content": "location accademia zattere vapporetto stops offer options cover major spots sights eateries nearby including branch pizzeria range choices campo santa margherita zattere choices leisurely coffee ice cream da nico indulgences jogging walking fresh air views giudecca clean staff welcoming helpful peaceful setting", "Date": "2011-02-23 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Blue Mountains NSW", "Title": "\u201cExcellent position, great breakfast, go to Accademia ferry stop.\u201d", "Author": "AninaBlueMountains", "ReviewID": "UR96519094", "Content": "stayed visited deserves ratings travel tip travelling time dont zattere vaporetto stop unless happy carry bridge 20 steps instead vaporetto grand canal accademia flat walk 3 minutes maximum steps summer air conditioned screened windows otherwise venetian mosquitos drive crazy", "Date": "2011-02-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Rancho Palos Verdes, California", "Title": "\u201cLARGE AND CLEAN\u201d", "Author": "flzerounian", "ReviewID": "UR82884305", "Content": "hotel spacous hotel clean bathrooms shining floors hallways peaceful quiet staff helpful professional breakfast adequate tasteful location venice walking distance zattere accademia stops quick vaporetto walk hotel surrounding streets hotel spacious safe peaceful night looking night sleep close piazza san marco attractions hotel stay rate hotel 5 star affordable", "Date": "2010-10-10 00:00:00"}], "HotelInfo": {"Name": "Centro Culturale Don Orione Artigianelli", "HotelURL": "/ShowUserReviews-g187870-d571673-Reviews-Centro_Culturale_Don_Orione_Artigianelli-Venice_Veneto.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Zattere Dorsoduro 909/A</span>, <span class=\"locality\"><span property=\"v:postal-code\">30123</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "571673", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/00/17/70/4c/triple-room.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cVery reasonable no-frills rooms in monastery\u201d",
+      "Author": "bf99",
+      "ReviewID": "UR120452743",
+      "Content": "located monastery little sign monks ambience closer modern budget hotel offers comfortable nofrills accommodation eg modern bathrooms tv kettles breakfast helpful reception staff reasonably priced building features eg modern spiral staircase conveniently located close attractive zattere waterfront accademia bridge pleasant artistic slightly main tourist trail",
+      "Date": "2011-11-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Grand Canyon National Park, Arizona",
+      "Title": "\u201cMonestary a surprise\u201d",
+      "Author": "Patricia T",
+      "ReviewID": "UR118491273",
+      "Content": "husband expected musty establishment pleasantly surprised monestary modernized sterility clean ac beautifully elevator fine tv reception friendly helpful breakfast bit spartan fruit eggs meat dorsoduro district short walk grand canal accademia vaporetto boat stop bridge art gallery steps waterfront restaurants canale della giudecca",
+      "Date": "2011-09-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Vienna, Austria",
+      "Title": "\u201cexcellent location\u201d",
+      "Author": "cyborys",
+      "ReviewID": "UR97736595",
+      "Content": "location accademia zattere vapporetto stops offer options cover major spots sights eateries nearby including branch pizzeria range choices campo santa margherita zattere choices leisurely coffee ice cream da nico indulgences jogging walking fresh air views giudecca clean staff welcoming helpful peaceful setting",
+      "Date": "2011-02-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Blue Mountains NSW",
+      "Title": "\u201cExcellent position, great breakfast, go to Accademia ferry stop.\u201d",
+      "Author": "AninaBlueMountains",
+      "ReviewID": "UR96519094",
+      "Content": "stayed visited deserves ratings travel tip travelling time dont zattere vaporetto stop unless happy carry bridge 20 steps instead vaporetto grand canal accademia flat walk 3 minutes maximum steps summer air conditioned screened windows otherwise venetian mosquitos drive crazy",
+      "Date": "2011-02-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rancho Palos Verdes, California",
+      "Title": "\u201cLARGE AND CLEAN\u201d",
+      "Author": "flzerounian",
+      "ReviewID": "UR82884305",
+      "Content": "hotel spacous hotel clean bathrooms shining floors hallways peaceful quiet staff helpful professional breakfast adequate tasteful location venice walking distance zattere accademia stops quick vaporetto walk hotel surrounding streets hotel spacious safe peaceful night looking night sleep close piazza san marco attractions hotel stay rate hotel 5 star affordable",
+      "Date": "2010-10-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Centro Culturale Don Orione Artigianelli",
+    "HotelURL": "/ShowUserReviews-g187870-d571673-Reviews-Centro_Culturale_Don_Orione_Artigianelli-Venice_Veneto.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Zattere Dorsoduro 909/A</span>, <span class=\"locality\"><span property=\"v:postal-code\">30123</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "571673",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/00/17/70/4c/triple-room.jpg"
+  }
+}

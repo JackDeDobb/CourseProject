@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Kildare", "Title": "\u201cClose to the airport\u201d", "Author": "Mick W", "ReviewID": "UR138333306", "Content": "stayed 2 nights found hotel little skimpy finer details priced similar range locations madrid facilities bars restaurants difficult iron kept tripping electricity exciting event shower completely dark decorated minimal expense bathroom floor green laminated timber climb bidet enter shower staff pleasant spoke english hotel bar limited location positioned couple lively spots offering traditional spanish food drink word advice getting hotel \u2013 beware taxi drivers companions charged drivers keen euro\u2019s extra party overall comfortable quiet easy access centre madrid business base city visitors recommend stay business pleasure", "Date": "2012-08-25 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Reading, United Kingdom", "Title": "\u201cBudget hotel near Madrid airport\u201d", "Author": "John S", "ReviewID": "UR131341898", "Content": "budget hotel near barajas airport madrid reasonably priced clean comfortable free shuttle bus airport useful hotel near metro station takes direct puerta del sol wifi lobby free faster wifi pay stayed weeks january reservation", "Date": "2012-06-05 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Hanoi, Vietnam", "Title": "\u201cStandard airport hotel fare\u201d", "Author": "ACF2010", "ReviewID": "UR131233043", "Content": "clean modern lacked amenities razor plug bathtub minibar coffeetea apparatus pay eur 10 24 hours internet appalling especially targets travellers looking convenience bed comfy noise surrounding neighbourhood range neighbourhood dining options hotel hotel shuttle useful especially hotel airport complicated vice versa requires prebooking appointed time hotel 30 minutes", "Date": "2012-06-03 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Ponte Vedra, Fl", "Title": "\u201cClose to aiport, inexpensive, clean\u201d", "Author": "Posted by a NH Hoteles traveler", "ReviewID": "UR127721420", "Content": "nice hotel close airport clean appointed tv bit 22 inch chose hotel location affiliation nh hotels positive experience pay expensive parking rate park street hotel", "Date": "2012-04-12 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "Martinez, Argentina", "Title": "\u201cGood for short stay\u201d", "Author": "Marcelo R", "ReviewID": "UR125247565", "Content": "stayed 4 days decided stay close airport fly 7am close metro station takes 20 minutes downtown else walking distance except metro park triple life breakfast included inout transfers included convenient", "Date": "2012-02-26 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Lisbon, Portugal", "Title": "\u201cGood Location outside Madrid w/ Metro nearby, Quiet Neighborhood\u201d", "Author": "Kalax-ta", "ReviewID": "UR85465694", "Content": "breakfast comfortable bed 100m el metro station 30min centre madrid change lines quiet safe neighborhood car park else free near airport didnt airport free shuttle near shopping center highway heated chance lower temperature heating hotel separate buildings chance crossing avoiding bad weather rain wind", "Date": "2010-10-31 00:00:00"}], "HotelInfo": {"Name": "NH Barajas", "HotelURL": "/ShowUserReviews-g187514-d206994-Reviews-NH_Barajas-Madrid.html", "Price": "$56 and up*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle de Catamaran 1</span>, <span class=\"locality\"><span property=\"v:postal-code\">28042</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> (Formerly NH Express Barajas)</span></span></address>", "HotelID": "206994", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f3/70/f3701b03723b0dbc638caad6f5661bc96large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Kildare",
+      "Title": "\u201cClose to the airport\u201d",
+      "Author": "Mick W",
+      "ReviewID": "UR138333306",
+      "Content": "stayed 2 nights found hotel little skimpy finer details priced similar range locations madrid facilities bars restaurants difficult iron kept tripping electricity exciting event shower completely dark decorated minimal expense bathroom floor green laminated timber climb bidet enter shower staff pleasant spoke english hotel bar limited location positioned couple lively spots offering traditional spanish food drink word advice getting hotel \u2013 beware taxi drivers companions charged drivers keen euro\u2019s extra party overall comfortable quiet easy access centre madrid business base city visitors recommend stay business pleasure",
+      "Date": "2012-08-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Reading, United Kingdom",
+      "Title": "\u201cBudget hotel near Madrid airport\u201d",
+      "Author": "John S",
+      "ReviewID": "UR131341898",
+      "Content": "budget hotel near barajas airport madrid reasonably priced clean comfortable free shuttle bus airport useful hotel near metro station takes direct puerta del sol wifi lobby free faster wifi pay stayed weeks january reservation",
+      "Date": "2012-06-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Hanoi, Vietnam",
+      "Title": "\u201cStandard airport hotel fare\u201d",
+      "Author": "ACF2010",
+      "ReviewID": "UR131233043",
+      "Content": "clean modern lacked amenities razor plug bathtub minibar coffeetea apparatus pay eur 10 24 hours internet appalling especially targets travellers looking convenience bed comfy noise surrounding neighbourhood range neighbourhood dining options hotel hotel shuttle useful especially hotel airport complicated vice versa requires prebooking appointed time hotel 30 minutes",
+      "Date": "2012-06-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ponte Vedra, Fl",
+      "Title": "\u201cClose to aiport, inexpensive, clean\u201d",
+      "Author": "Posted by a NH Hoteles traveler",
+      "ReviewID": "UR127721420",
+      "Content": "nice hotel close airport clean appointed tv bit 22 inch chose hotel location affiliation nh hotels positive experience pay expensive parking rate park street hotel",
+      "Date": "2012-04-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Martinez, Argentina",
+      "Title": "\u201cGood for short stay\u201d",
+      "Author": "Marcelo R",
+      "ReviewID": "UR125247565",
+      "Content": "stayed 4 days decided stay close airport fly 7am close metro station takes 20 minutes downtown else walking distance except metro park triple life breakfast included inout transfers included convenient",
+      "Date": "2012-02-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Lisbon, Portugal",
+      "Title": "\u201cGood Location outside Madrid w/ Metro nearby, Quiet Neighborhood\u201d",
+      "Author": "Kalax-ta",
+      "ReviewID": "UR85465694",
+      "Content": "breakfast comfortable bed 100m el metro station 30min centre madrid change lines quiet safe neighborhood car park else free near airport didnt airport free shuttle near shopping center highway heated chance lower temperature heating hotel separate buildings chance crossing avoiding bad weather rain wind",
+      "Date": "2010-10-31 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "NH Barajas",
+    "HotelURL": "/ShowUserReviews-g187514-d206994-Reviews-NH_Barajas-Madrid.html",
+    "Price": "$56 and up*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle de Catamaran 1</span>, <span class=\"locality\"><span property=\"v:postal-code\">28042</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> (Formerly NH Express Barajas)</span></span></address>",
+    "HotelID": "206994",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f3/70/f3701b03723b0dbc638caad6f5661bc96large.jpg"
+  }
+}

@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Hastings, United Kingdom", "Title": "\u201cWell there is just no pleasing some people! We thought it was excellent!\u201d", "Author": "FenellaHellyer", "ReviewID": "UR121417927", "Content": "booked hotel looking reviews convinced wasted money trip blighted poor hotel thankfully arrived excellent hotel impeccable service lovely polite staff spoke english stay enjoyable stay pay sparkling wine mini bar dont complain clean beautifully decorated bathroom spacious marble clad affair outside decor told regal story meagre \u00e2\u00a3150 paid night stay price including return flights london hotel money breakfast lovely start day served encountered hotels believe 0730 1030 giving plenty time little lie followed delicious coffee gorgeous continental pastries wide selection breakfast usual continental breakfast stuff cheeses sliced meats fresh breads fresh fruit cereal croissants stuffed apricot preserve sugar lunch delicious smile plus cleaned day hotel offers breakfast bed declined dining sister hotel served particularly pretty sit affordable service laundry dry cleaning service safe extra charge plus stocked mini bar view window practically giving morning evening im gripe ca priuli excellent affordable base explore beautiful city cant comment hot air conditioning visited november reason im giving stars five central heating somewhat airless nights complaint tv 6 channels goodness sake goes venice watch tv dont switched ours found la fenice citys beautiful sights entertaining idiot box six channels indeed alter ditch tvs extend selection gorgeous prosecco mini bar paid enormous amounts hotel travel agent feel charged travel agent look deal hotel staff wonderful missed", "Date": "2011-12-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Scottsdale, Arizona", "Title": "\u201cGreat location, great breakfast, wonderful staff.\u201d", "Author": "OldTownFavorites", "ReviewID": "UR99340164", "Content": "stayed couple nights 18th anniversary trip italy staff delightful accommodations charming breakfast trip coffee staff multilingual speaking french english italian remember hearing little german hotel computer hall near reception counter internet email skyping location 100 yards st marks square outside tourist local shops selling food nice junk found near tourist center water pressure bathroom clean location quiet fat tuesday preceeding carnival recommend hotel thumbs", "Date": "2011-03-08 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Boston", "Title": "\u201cWonderful Experience\u201d", "Author": "Jle-loves2travel", "ReviewID": "UR77257325", "Content": "searched time deciding hotel venice somewhat expect stay near st marks square crowded instead looking located major sites tucked little quiet nice return home busy day sightseeing ca priuli close st marks square rialto bridge short walk starting investigate quieter spots venice truly hotel easy reach airport water taxi spot corner hotel couldnt easier taxi cost 120 euros 5 people 25 minutes money spent hotel nice charming property ca priuli doors main hotel walk main building breakfast wasnt bad located canal walk pretty breakfast lovely ham salami cheeses pastries juices coffee tea fruit etc nice negative elevator building stayed walk flight stairs bags porter care hotel tremendous value compared hotels venice mention people front desk helpful reservations information etc highly recommend hotel plan staying venice", "Date": "2010-08-28 00:00:00"}], "HotelInfo": {"Name": "Ca' Priuli", "HotelURL": "/ShowUserReviews-g187870-d584935-Reviews-Ca_Priuli-Venice_Veneto.html", "Price": "$191 - $319*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Castello 4998</span>, <span class=\"locality\"><span property=\"v:postal-code\">30122</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "584935", "ImgURL": "http://images.octopustravel.com/HH/Images/I/VCEIth/VCEI-CAP-1.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Hastings, United Kingdom",
+      "Title": "\u201cWell there is just no pleasing some people! We thought it was excellent!\u201d",
+      "Author": "FenellaHellyer",
+      "ReviewID": "UR121417927",
+      "Content": "booked hotel looking reviews convinced wasted money trip blighted poor hotel thankfully arrived excellent hotel impeccable service lovely polite staff spoke english stay enjoyable stay pay sparkling wine mini bar dont complain clean beautifully decorated bathroom spacious marble clad affair outside decor told regal story meagre \u00e2\u00a3150 paid night stay price including return flights london hotel money breakfast lovely start day served encountered hotels believe 0730 1030 giving plenty time little lie followed delicious coffee gorgeous continental pastries wide selection breakfast usual continental breakfast stuff cheeses sliced meats fresh breads fresh fruit cereal croissants stuffed apricot preserve sugar lunch delicious smile plus cleaned day hotel offers breakfast bed declined dining sister hotel served particularly pretty sit affordable service laundry dry cleaning service safe extra charge plus stocked mini bar view window practically giving morning evening im gripe ca priuli excellent affordable base explore beautiful city cant comment hot air conditioning visited november reason im giving stars five central heating somewhat airless nights complaint tv 6 channels goodness sake goes venice watch tv dont switched ours found la fenice citys beautiful sights entertaining idiot box six channels indeed alter ditch tvs extend selection gorgeous prosecco mini bar paid enormous amounts hotel travel agent feel charged travel agent look deal hotel staff wonderful missed",
+      "Date": "2011-12-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Scottsdale, Arizona",
+      "Title": "\u201cGreat location, great breakfast, wonderful staff.\u201d",
+      "Author": "OldTownFavorites",
+      "ReviewID": "UR99340164",
+      "Content": "stayed couple nights 18th anniversary trip italy staff delightful accommodations charming breakfast trip coffee staff multilingual speaking french english italian remember hearing little german hotel computer hall near reception counter internet email skyping location 100 yards st marks square outside tourist local shops selling food nice junk found near tourist center water pressure bathroom clean location quiet fat tuesday preceeding carnival recommend hotel thumbs",
+      "Date": "2011-03-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Boston",
+      "Title": "\u201cWonderful Experience\u201d",
+      "Author": "Jle-loves2travel",
+      "ReviewID": "UR77257325",
+      "Content": "searched time deciding hotel venice somewhat expect stay near st marks square crowded instead looking located major sites tucked little quiet nice return home busy day sightseeing ca priuli close st marks square rialto bridge short walk starting investigate quieter spots venice truly hotel easy reach airport water taxi spot corner hotel couldnt easier taxi cost 120 euros 5 people 25 minutes money spent hotel nice charming property ca priuli doors main hotel walk main building breakfast wasnt bad located canal walk pretty breakfast lovely ham salami cheeses pastries juices coffee tea fruit etc nice negative elevator building stayed walk flight stairs bags porter care hotel tremendous value compared hotels venice mention people front desk helpful reservations information etc highly recommend hotel plan staying venice",
+      "Date": "2010-08-28 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Ca' Priuli",
+    "HotelURL": "/ShowUserReviews-g187870-d584935-Reviews-Ca_Priuli-Venice_Veneto.html",
+    "Price": "$191 - $319*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Castello 4998</span>, <span class=\"locality\"><span property=\"v:postal-code\">30122</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "584935",
+    "ImgURL": "http://images.octopustravel.com/HH/Images/I/VCEIth/VCEI-CAP-1.jpg"
+  }
+}

@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cUsed to be a good business hotel - now in decline\u201d", "Author": "KEH2011", "ReviewID": "UR121206283", "Content": "impressions grand hotel spanish theme realise financial downturn standards facilities staff friendly hotel clean pleasant environment following questionable tv channels stating programs spanish international available \u2013 spanish programs available signs wear tear bits missing ie switches discoloured curtains \u2013 service limited choice breakfast looks impressive labels explaining food hot plate appetising milk warm coffee questionable busy tables signs previous slow tables restaurant \u2013 limited expensive attended internet coverage hit miss summary \u2013 hotel grand initial appearance day decline regards quality lacks attention detail service", "Date": "2011-11-29 00:00:00"}], "HotelInfo": {"Name": "Foxa M-30 Suites & Resort", "HotelURL": "/ShowUserReviews-g187514-d228616-Reviews-Foxa_M_30_Suites_Resort-Madrid.html", "Price": "$63 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/ Serrano Galvache 14</span>, <span class=\"locality\"><span property=\"v:postal-code\">28033</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "228616", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/54/3a/543a9e37e627caf866d442ad0e50e5a88large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cUsed to be a good business hotel - now in decline\u201d",
+      "Author": "KEH2011",
+      "ReviewID": "UR121206283",
+      "Content": "impressions grand hotel spanish theme realise financial downturn standards facilities staff friendly hotel clean pleasant environment following questionable tv channels stating programs spanish international available \u2013 spanish programs available signs wear tear bits missing ie switches discoloured curtains \u2013 service limited choice breakfast looks impressive labels explaining food hot plate appetising milk warm coffee questionable busy tables signs previous slow tables restaurant \u2013 limited expensive attended internet coverage hit miss summary \u2013 hotel grand initial appearance day decline regards quality lacks attention detail service",
+      "Date": "2011-11-29 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Foxa M-30 Suites & Resort",
+    "HotelURL": "/ShowUserReviews-g187514-d228616-Reviews-Foxa_M_30_Suites_Resort-Madrid.html",
+    "Price": "$63 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/ Serrano Galvache 14</span>, <span class=\"locality\"><span property=\"v:postal-code\">28033</span> <span property=\"v:locality\">Madrid</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "228616",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/54/3a/543a9e37e627caf866d442ad0e50e5a88large.jpg"
+  }
+}

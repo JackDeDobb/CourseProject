@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "Berlin, Germany", "Title": "\u201cOK hotel, poor location\u201d", "Author": "HicketyJim", "ReviewID": "UR86389322", "Content": "hotel fine average friendly helpful staff downside immediate location run explore vicinity turkish takeaways apart else public transport connections close main park 20 minute walk reichstag cant help feeling gotten price happening", "Date": "2010-11-08 00:00:00"}], "HotelInfo": {"Name": "Golden Tulip Park Consul Hotel", "HotelURL": "/ShowUserReviews-g187323-d199357-Reviews-Golden_Tulip_Park_Consul_Hotel-Berlin.html", "Price": "$83 - $184*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Alt Moabit 86A</span>, <span class=\"locality\"><span property=\"v:postal-code\">10555</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "199357", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/05/d8/05d8687d28acfb054404a7f9b17f63503large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Berlin, Germany",
+      "Title": "\u201cOK hotel, poor location\u201d",
+      "Author": "HicketyJim",
+      "ReviewID": "UR86389322",
+      "Content": "hotel fine average friendly helpful staff downside immediate location run explore vicinity turkish takeaways apart else public transport connections close main park 20 minute walk reichstag cant help feeling gotten price happening",
+      "Date": "2010-11-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Golden Tulip Park Consul Hotel",
+    "HotelURL": "/ShowUserReviews-g187323-d199357-Reviews-Golden_Tulip_Park_Consul_Hotel-Berlin.html",
+    "Price": "$83 - $184*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Alt Moabit 86A</span>, <span class=\"locality\"><span property=\"v:postal-code\">10555</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "199357",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/05/d8/05d8687d28acfb054404a7f9b17f63503large.jpg"
+  }
+}

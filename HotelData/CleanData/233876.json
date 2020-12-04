@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "New York City", "Title": "\u201cQuite a nice little find\u201d", "Author": "mozart15", "ReviewID": "UR84960933", "Content": "booked people hotel potsdamer strasse isnt street se bus front stops directly brandenberg gate location short 10 minute walk directly potsdamer platz main train station nice clean 3rd floor elevator fine hostess lovely friendly breakfast typical european style liked overall low cost stay gem", "Date": "2010-10-26 00:00:00"}], "HotelInfo": {"Name": "Villa Amadeus Hotel", "HotelURL": "/ShowUserReviews-g187323-d233876-Reviews-Villa_Amadeus_Hotel-Berlin.html", "Price": "$66 - $122*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Potsdamer Strasse 91</span>, <span class=\"locality\"><span property=\"v:postal-code\">10785</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "233876", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d7/50/d7505163d81f5c0ac4212e054d2910311large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "New York City",
+      "Title": "\u201cQuite a nice little find\u201d",
+      "Author": "mozart15",
+      "ReviewID": "UR84960933",
+      "Content": "booked people hotel potsdamer strasse isnt street se bus front stops directly brandenberg gate location short 10 minute walk directly potsdamer platz main train station nice clean 3rd floor elevator fine hostess lovely friendly breakfast typical european style liked overall low cost stay gem",
+      "Date": "2010-10-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Villa Amadeus Hotel",
+    "HotelURL": "/ShowUserReviews-g187323-d233876-Reviews-Villa_Amadeus_Hotel-Berlin.html",
+    "Price": "$66 - $122*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Potsdamer Strasse 91</span>, <span class=\"locality\"><span property=\"v:postal-code\">10785</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "233876",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d7/50/d7505163d81f5c0ac4212e054d2910311large.jpg"
+  }
+}

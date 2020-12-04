@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Hyderabad, India", "Title": "\u201cNice, sober and cool place\u201d", "Author": "Dina009", "ReviewID": "UR101375064", "Content": "booked hotel 2 months stay business tip san diego california hotel offers comforts ideal match proximity office surprised service hotel provides menu breakfast awesome offering wide variety choose staff friendly ready help luxurious opted bedroom suite decent size kitchen kitchen priority am strict vegetarian prefer cooking own food 2 lcd tvs mini dining table sofa set complete set acoustics sound pleasing addition itthe hotel offered additional social hour sacks beer days week hotel ample parking facility recommend hotel", "Date": "2011-03-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Chicago, Illinois", "Title": "\u201cExcellent Service\u201d", "Author": "ScarfGirl85", "ReviewID": "UR86227194", "Content": "midlevel hotel staying san diego stayed 60 nights hotel service impeccable gentleman takes care evening buffet extremely pleasant helpful cares patrons terrific attitude front desk extremely professional terms cons hotel hallways smell internet excruciatingly slow peak hours housekeeping proximity yogurtland plus", "Date": "2010-11-07 00:00:00"}], "HotelInfo": {"Name": "Residence Inn San Diego Sorrento Mesa/Sorrento Valley", "HotelURL": "/ShowUserReviews-g60750-d83958-Reviews-Residence_Inn_San_Diego_Sorrento_Mesa_Sorrento_Valley-San_Diego_California.html", "Price": "$169 - $293*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5995 Pacific Mesa Court</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92121</span></span> </span> </span> </address>", "HotelID": "83958", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/47/21/4721c492a407af8510fb10bbc7ae88d17large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Hyderabad, India",
+      "Title": "\u201cNice, sober and cool place\u201d",
+      "Author": "Dina009",
+      "ReviewID": "UR101375064",
+      "Content": "booked hotel 2 months stay business tip san diego california hotel offers comforts ideal match proximity office surprised service hotel provides menu breakfast awesome offering wide variety choose staff friendly ready help luxurious opted bedroom suite decent size kitchen kitchen priority am strict vegetarian prefer cooking own food 2 lcd tvs mini dining table sofa set complete set acoustics sound pleasing addition itthe hotel offered additional social hour sacks beer days week hotel ample parking facility recommend hotel",
+      "Date": "2011-03-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Chicago, Illinois",
+      "Title": "\u201cExcellent Service\u201d",
+      "Author": "ScarfGirl85",
+      "ReviewID": "UR86227194",
+      "Content": "midlevel hotel staying san diego stayed 60 nights hotel service impeccable gentleman takes care evening buffet extremely pleasant helpful cares patrons terrific attitude front desk extremely professional terms cons hotel hallways smell internet excruciatingly slow peak hours housekeeping proximity yogurtland plus",
+      "Date": "2010-11-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Residence Inn San Diego Sorrento Mesa/Sorrento Valley",
+    "HotelURL": "/ShowUserReviews-g60750-d83958-Reviews-Residence_Inn_San_Diego_Sorrento_Mesa_Sorrento_Valley-San_Diego_California.html",
+    "Price": "$169 - $293*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5995 Pacific Mesa Court</span>, <span class=\"locality\"><span property=\"v:locality\">San Diego</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">92121</span></span> </span> </span> </address>",
+    "HotelID": "83958",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/47/21/4721c492a407af8510fb10bbc7ae88d17large.jpg"
+  }
+}

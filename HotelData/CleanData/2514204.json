@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "", "Title": "\u201cvalue for money\u201d", "Author": "Le Ing O Posted by an Easytobook.com traveler", "ReviewID": "UR127106769", "Content": "hotel china town cleanest safest night hotel walking distance wall street world trade center subways added bonus asian buns breakfast tea cheap asian food", "Date": "2012-04-02 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Miami", "Title": "\u201cI have a rash on my face\u201d", "Author": "V R Posted by an Easytobook.com traveler", "ReviewID": "UR126426052", "Content": "hotel motel mattress box spring blanket sleeping table sheets noise train station front hotel 24 hours heating rash backache omg", "Date": "2012-03-21 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Cape Town", "Title": "\u201cGood value for money\u201d", "Author": "catloversCapeTown", "ReviewID": "UR123207740", "Content": "bit cautious quality beds hotel reading reviews found beds adequate definitely hard indicated hotel caters chinese community clean lady tidying hau efficient honest found article lying bed left bed servicing found front desk staff friendly helpful breakfast expect according western standards filling hotel close subway located chinese community close canal street noisy due double glazed windows hotel plumbing system toilet blocked day hotel quickly solved", "Date": "2012-01-17 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "MA", "Title": "\u201cSkip the Mayor Hotel in NYC - spend $50 more per night and rest easy\u201d", "Author": "skiv", "ReviewID": "UR81227187", "Content": "hotel location experience tough grab cab wouldnt feel comfortable walking neighborhood night hotel cheap nyc pay bed sleeping box spring mattress hotel noisy heard lot people coming constant bing elevator staff 1 barely arrived hotel midnight door ad front desk walked street stay", "Date": "2010-09-27 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Stavanger, Norway", "Title": "\u201cNot as bad, as people say.\u201d", "Author": "Dodoinge", "ReviewID": "UR66496625", "Content": "yes train passing hotel city sleep te day city sleeps beautiful city tired nice sleep people front desk polite helpfull night time housekeepers towel loved hotel", "Date": "2010-06-05 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 1.0}, "AuthorLocation": "Philadelphia, Pennsylvania", "Title": "\u201cCheap place to crash. Bad for light sleepers...\u201d", "Author": "hipsfan", "ReviewID": "UR64222098", "Content": "read negative reviews stayed hotel decided try anyway save money town night band hotel recently updated decent shape hotel staff friendly bathroom decent size beds arent bad people stated means main hotel trains constantly run loud awoken repeatedly sounds feels earthquake am normally little sound im guess stay night budget trying relaxing time consider afford extra bucks stay train commotion", "Date": "2010-05-15 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 4.0, "Location": 1.0}, "AuthorLocation": "Somerset", "Title": "\u201cDo Not Stay Here - Please Listen!\u201d", "Author": "FatRUby2", "ReviewID": "UR60906877", "Content": "deal booked 5 nights 525 arrived added 15 tax ny tax 6 couldnt card machine cash 0130 fire alarm night guard strong words ripped alarm wall stop noise write 3 days fire alarm wall called breakfast breakfast closet basement boxes stale bread coffee machine sit ok size clean bed dont mind bit noise outside hotel main rail line trains passing 2 minutes actually window rattle runway china town hotel located dirty dodgy takes 10 minutes walking metro hope review prevents staying crumby hotel hope stay mid manhattan pay dollars experience cheers", "Date": "2010-04-10 00:00:00"}], "HotelInfo": {"Name": "America's Best Value Inn Mayor Hotel", "HotelURL": "/ShowUserReviews-g60763-d1448670-Reviews-America_s_Best_Value_Inn_Mayor_Hotel-New_York_City_New_York.html", "Price": "$161 - $197*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">79 Division Street</span>, <span class=\"locality\"><span property=\"v:locality\">New York City</span>, <span property=\"v:region\">NY</span> <span property=\"v:postal-code\">10002</span></span> </span> </span> </address>", "HotelID": "2514204", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/26/5f/265f82d00f10a845a672cc954b783ebb8large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cvalue for money\u201d",
+      "Author": "Le Ing O Posted by an Easytobook.com traveler",
+      "ReviewID": "UR127106769",
+      "Content": "hotel china town cleanest safest night hotel walking distance wall street world trade center subways added bonus asian buns breakfast tea cheap asian food",
+      "Date": "2012-04-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Miami",
+      "Title": "\u201cI have a rash on my face\u201d",
+      "Author": "V R Posted by an Easytobook.com traveler",
+      "ReviewID": "UR126426052",
+      "Content": "hotel motel mattress box spring blanket sleeping table sheets noise train station front hotel 24 hours heating rash backache omg",
+      "Date": "2012-03-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Cape Town",
+      "Title": "\u201cGood value for money\u201d",
+      "Author": "catloversCapeTown",
+      "ReviewID": "UR123207740",
+      "Content": "bit cautious quality beds hotel reading reviews found beds adequate definitely hard indicated hotel caters chinese community clean lady tidying hau efficient honest found article lying bed left bed servicing found front desk staff friendly helpful breakfast expect according western standards filling hotel close subway located chinese community close canal street noisy due double glazed windows hotel plumbing system toilet blocked day hotel quickly solved",
+      "Date": "2012-01-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "MA",
+      "Title": "\u201cSkip the Mayor Hotel in NYC - spend $50 more per night and rest easy\u201d",
+      "Author": "skiv",
+      "ReviewID": "UR81227187",
+      "Content": "hotel location experience tough grab cab wouldnt feel comfortable walking neighborhood night hotel cheap nyc pay bed sleeping box spring mattress hotel noisy heard lot people coming constant bing elevator staff 1 barely arrived hotel midnight door ad front desk walked street stay",
+      "Date": "2010-09-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Stavanger, Norway",
+      "Title": "\u201cNot as bad, as people say.\u201d",
+      "Author": "Dodoinge",
+      "ReviewID": "UR66496625",
+      "Content": "yes train passing hotel city sleep te day city sleeps beautiful city tired nice sleep people front desk polite helpfull night time housekeepers towel loved hotel",
+      "Date": "2010-06-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Philadelphia, Pennsylvania",
+      "Title": "\u201cCheap place to crash. Bad for light sleepers...\u201d",
+      "Author": "hipsfan",
+      "ReviewID": "UR64222098",
+      "Content": "read negative reviews stayed hotel decided try anyway save money town night band hotel recently updated decent shape hotel staff friendly bathroom decent size beds arent bad people stated means main hotel trains constantly run loud awoken repeatedly sounds feels earthquake am normally little sound im guess stay night budget trying relaxing time consider afford extra bucks stay train commotion",
+      "Date": "2010-05-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 4.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Somerset",
+      "Title": "\u201cDo Not Stay Here - Please Listen!\u201d",
+      "Author": "FatRUby2",
+      "ReviewID": "UR60906877",
+      "Content": "deal booked 5 nights 525 arrived added 15 tax ny tax 6 couldnt card machine cash 0130 fire alarm night guard strong words ripped alarm wall stop noise write 3 days fire alarm wall called breakfast breakfast closet basement boxes stale bread coffee machine sit ok size clean bed dont mind bit noise outside hotel main rail line trains passing 2 minutes actually window rattle runway china town hotel located dirty dodgy takes 10 minutes walking metro hope review prevents staying crumby hotel hope stay mid manhattan pay dollars experience cheers",
+      "Date": "2010-04-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "America's Best Value Inn Mayor Hotel",
+    "HotelURL": "/ShowUserReviews-g60763-d1448670-Reviews-America_s_Best_Value_Inn_Mayor_Hotel-New_York_City_New_York.html",
+    "Price": "$161 - $197*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">79 Division Street</span>, <span class=\"locality\"><span property=\"v:locality\">New York City</span>, <span property=\"v:region\">NY</span> <span property=\"v:postal-code\">10002</span></span> </span> </span> </address>",
+    "HotelID": "2514204",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/26/5f/265f82d00f10a845a672cc954b783ebb8large.jpg"
+  }
+}

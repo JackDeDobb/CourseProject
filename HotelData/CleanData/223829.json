@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Naperville, Illinois", "Title": "\u201cUpdated Property. Clean and Comfortabel\u201d", "Author": "loimln", "ReviewID": "UR124977426", "Content": "fairfield inn close clients office outskirts indy restaurants supermarket located street property updated nice workout pool doesnt windows looking clean comfortable front desk staff helpful", "Date": "2012-02-21 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "indianapolis", "Title": "\u201cCustomer Service Horrible\u201d", "Author": "woofer824", "ReviewID": "UR123190841", "Content": "planning getting surgery indy door called booked reservation 3 weeks advance day surgery told overbooked set sister min hotel 500 feet surgery instead drive 20 min unhappy lack communication", "Date": "2012-01-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Dayton, Ohio", "Title": "\u201cGood experience\u201d", "Author": "RetiredTravelerOhio", "ReviewID": "UR120674243", "Content": "impromptu reunion looked close stay stayed various locations indianapolis location closes house hotel looked maintained staff friendly clean breakfast little usual fairfield inn ncaa swim meet weekend teams staying staff miss beat keeping breakfast stocked overall stay excellent", "Date": "2011-11-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Loudon, Tennessee", "Title": "\u201cGreat Fairfield Inn\u201d", "Author": "NoelD37", "ReviewID": "UR120159598", "Content": "stay short notice travelling encountered major storm marriot central reservations recommended fairfield inn closest location available pleasently surprised stayed fairfield inns outstanding excellent staff helpful comfortable quiet convenient rate highly recommend youre definitely stay", "Date": "2011-11-04 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Boston, MA", "Title": "\u201cTypical Fairfield Inn. Front desk not as friendly as others\u201d", "Author": "WorldTraverler73", "ReviewID": "UR85906892", "Content": "im currently week business location outside city ton close eat shop entertain beds comfortable clean stayed entire stay breakfast tons compared stayed nice bring breakfast 10 tables front desk maybe spoiled recent stays fairfield inns exceptional front desk people greeting werent guest wishing night day left sitting corner didnt acknowledge issue didnt affect stay stick 4 star rating", "Date": "2010-11-03 00:00:00"}], "HotelInfo": {"Name": "Fairfield Inn Indianapolis Northwest", "HotelURL": "/ShowUserReviews-g37209-d223829-Reviews-Fairfield_Inn_Indianapolis_Northwest-Indianapolis_Indiana.html", "Price": "$104 - $128*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5905 W 86th Street</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46278</span></span> </span> </span> </address>", "HotelID": "223829", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/69/32/6932d4fa3a8e3a2368d4ca4515bb836d6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Naperville, Illinois",
+      "Title": "\u201cUpdated Property. Clean and Comfortabel\u201d",
+      "Author": "loimln",
+      "ReviewID": "UR124977426",
+      "Content": "fairfield inn close clients office outskirts indy restaurants supermarket located street property updated nice workout pool doesnt windows looking clean comfortable front desk staff helpful",
+      "Date": "2012-02-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "indianapolis",
+      "Title": "\u201cCustomer Service Horrible\u201d",
+      "Author": "woofer824",
+      "ReviewID": "UR123190841",
+      "Content": "planning getting surgery indy door called booked reservation 3 weeks advance day surgery told overbooked set sister min hotel 500 feet surgery instead drive 20 min unhappy lack communication",
+      "Date": "2012-01-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dayton, Ohio",
+      "Title": "\u201cGood experience\u201d",
+      "Author": "RetiredTravelerOhio",
+      "ReviewID": "UR120674243",
+      "Content": "impromptu reunion looked close stay stayed various locations indianapolis location closes house hotel looked maintained staff friendly clean breakfast little usual fairfield inn ncaa swim meet weekend teams staying staff miss beat keeping breakfast stocked overall stay excellent",
+      "Date": "2011-11-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Loudon, Tennessee",
+      "Title": "\u201cGreat Fairfield Inn\u201d",
+      "Author": "NoelD37",
+      "ReviewID": "UR120159598",
+      "Content": "stay short notice travelling encountered major storm marriot central reservations recommended fairfield inn closest location available pleasently surprised stayed fairfield inns outstanding excellent staff helpful comfortable quiet convenient rate highly recommend youre definitely stay",
+      "Date": "2011-11-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Boston, MA",
+      "Title": "\u201cTypical Fairfield Inn. Front desk not as friendly as others\u201d",
+      "Author": "WorldTraverler73",
+      "ReviewID": "UR85906892",
+      "Content": "im currently week business location outside city ton close eat shop entertain beds comfortable clean stayed entire stay breakfast tons compared stayed nice bring breakfast 10 tables front desk maybe spoiled recent stays fairfield inns exceptional front desk people greeting werent guest wishing night day left sitting corner didnt acknowledge issue didnt affect stay stick 4 star rating",
+      "Date": "2010-11-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Fairfield Inn Indianapolis Northwest",
+    "HotelURL": "/ShowUserReviews-g37209-d223829-Reviews-Fairfield_Inn_Indianapolis_Northwest-Indianapolis_Indiana.html",
+    "Price": "$104 - $128*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5905 W 86th Street</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46278</span></span> </span> </span> </address>",
+    "HotelID": "223829",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/69/32/6932d4fa3a8e3a2368d4ca4515bb836d6large.jpg"
+  }
+}

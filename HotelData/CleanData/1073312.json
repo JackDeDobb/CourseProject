@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Johannesburg, South Africa", "Title": "\u201cLocation location!\u201d", "Author": "Lashley88", "ReviewID": "UR127014174", "Content": "hotel value money proximity termini station rome subways running perpendicular close station means close else clean bathroom fantastic hotel offers breakfast tickets restaurant street staff helpful friendly knowledgable tourist attractions beat spots local market street below bit grimey hey experience stay", "Date": "2012-03-31 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Canberra, Australia", "Title": "\u201cAverage stay\u201d", "Author": "scottydz", "ReviewID": "UR124461890", "Content": "hotel conveniently located near termini station attractive stay clean simple customer service lacked charm friendly helpfulness found europe breakfast little noisy 600am look else return rome", "Date": "2012-02-12 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Perugia, Italy", "Title": "\u201cImpossible to recommend it\u201d", "Author": "oparinamelosa", "ReviewID": "UR96697117", "Content": "im person writes bad reviews hotels hotel cheap relatively clean consider resides staff friends rome looking lastminute reservation beginning owner wouldnt share friends arrived started rude arrival started complain disturbing due offensive", "Date": "2011-02-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Prague", "Title": "\u201cVery satisfied\u201d", "Author": "marketickaa", "ReviewID": "UR81760319", "Content": "18 sister 21 mother staying rome nights guess lucky hotel bcoz closeness termini city center easy walk subway vatican hotel floor elevator stayed wasnt spacious people emphasise bathroom clean receptionists nice friendly complain markets morning except sunday bit anoying hand windows soundproof close window ok markets rome center breakfast little coffee found breakfasts hotels rome reason staying hotel stay hotel dinner ristorante street 2 min walking cook excellente house wine white service nice polite prices", "Date": "2010-10-01 00:00:00"}], "HotelInfo": {"Name": "Dama Hotel", "HotelURL": "/ShowUserReviews-g187791-d1073312-Reviews-Dama_Hotel-Rome_Lazio.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Milazzo,42</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "1073312", "ImgURL": "http://www.orbitz.com//hotelimages/823/98823/687515901/TBNL0-20110608-015142-031.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Johannesburg, South Africa",
+      "Title": "\u201cLocation location!\u201d",
+      "Author": "Lashley88",
+      "ReviewID": "UR127014174",
+      "Content": "hotel value money proximity termini station rome subways running perpendicular close station means close else clean bathroom fantastic hotel offers breakfast tickets restaurant street staff helpful friendly knowledgable tourist attractions beat spots local market street below bit grimey hey experience stay",
+      "Date": "2012-03-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Canberra, Australia",
+      "Title": "\u201cAverage stay\u201d",
+      "Author": "scottydz",
+      "ReviewID": "UR124461890",
+      "Content": "hotel conveniently located near termini station attractive stay clean simple customer service lacked charm friendly helpfulness found europe breakfast little noisy 600am look else return rome",
+      "Date": "2012-02-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Perugia, Italy",
+      "Title": "\u201cImpossible to recommend it\u201d",
+      "Author": "oparinamelosa",
+      "ReviewID": "UR96697117",
+      "Content": "im person writes bad reviews hotels hotel cheap relatively clean consider resides staff friends rome looking lastminute reservation beginning owner wouldnt share friends arrived started rude arrival started complain disturbing due offensive",
+      "Date": "2011-02-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Prague",
+      "Title": "\u201cVery satisfied\u201d",
+      "Author": "marketickaa",
+      "ReviewID": "UR81760319",
+      "Content": "18 sister 21 mother staying rome nights guess lucky hotel bcoz closeness termini city center easy walk subway vatican hotel floor elevator stayed wasnt spacious people emphasise bathroom clean receptionists nice friendly complain markets morning except sunday bit anoying hand windows soundproof close window ok markets rome center breakfast little coffee found breakfasts hotels rome reason staying hotel stay hotel dinner ristorante street 2 min walking cook excellente house wine white service nice polite prices",
+      "Date": "2010-10-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Dama Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d1073312-Reviews-Dama_Hotel-Rome_Lazio.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Milazzo,42</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "1073312",
+    "ImgURL": "http://www.orbitz.com//hotelimages/823/98823/687515901/TBNL0-20110608-015142-031.jpg"
+  }
+}

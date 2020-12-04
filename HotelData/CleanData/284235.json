@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cWhat a spectacular DUMP!!!!\u201d", "Author": "D B", "ReviewID": "UR121410288", "Content": "worst experience life managed ladder type stairway doom gloom look walked toilet near building disgusting shower cubicle stairwell sliding plastic door privacy obviously toilet sink mirror stay remotely pleasant classed vagrants closed worst accommodation seen money lost charge night night pay stay elsewhere booking accommodation rated star hotel average rating feedback 7 scent truly sickening", "Date": "2011-12-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Moscow, Russia", "Title": "\u201cNo serious complaints\u201d", "Author": "Wind41", "ReviewID": "UR118522327", "Content": "staff friendly round help excellent money paid toilet shower shared 2 else hotel easy situated 10 minutes train station walk road dam square near red light district overall impressed definitely", "Date": "2011-09-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Manchester, United Kingdom", "Title": "\u201cPerfect for what we needed\u201d", "Author": "indierocklad", "ReviewID": "UR102022497", "Content": "cheap basic hotel heart amsterdam minutes famous cafe grasshopper staff friendly helpful recommend hotel people looking quiet night goes amsterdam stays 1 hotel lot negative reviews people booked cheap option properly considering implications youre looking crash friends whilst experiencing amsterdam offer definitely recommend am intending dam months looking book", "Date": "2011-03-29 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Birmingham, United Kingdom", "Title": "\u201cBetter value elsewhere; accessible but rowdy location and polite staff\u201d", "Author": "jasdev_sekhon", "ReviewID": "UR70766429", "Content": "hotel de friendly hospitable hotel inbetween centraal station red light district top streets rld mentioned staff polite odd aloof politeness noticed dutch staff luggage main building checking inout pc reception slow hell daily breakfast nice food drink getting train station tram terminus perfect accessible location stayed 10 climb increasingly steep narrow flights stairs youre climbing bit annoying spend day dont notice inebriated id advise caution clean tv sink mirror couple bedside tables single chair smell cannabis arrive easy latch window whilst youre fresh course fresh cannabis smoke coming coffeeshops residences neighbouring girlfriend suffered pain days mattresses incredibly soft difficult onoff cramped top building floors below ours cramped beds yay able watch bbc dutch channel veronica american half simpsons sink share hotels shower toilets occupied feel kinda whilst shower drain begin clog night shower failure mention staff probably unclogged housekeeping hours location hotel huge advantage sightseeing entertainment annoying youre centre nightlife noisy window shut arrived weeklong heatwave summer sleeping window shut impossible window hot move werent exactly getting bed 7 am id wake shouting matches street days im actually looking forward decent night kip im home overall people fine hotels setbacks price night person feel space quieter location ensuite toilet bathroom airconditioning combination thereof recommend travellers stick hostel theres book dormitory yourselves couples advised someplace outside red light district wish id tripadvisor booked imply bad amenities price ps bath towels review mentioned", "Date": "2010-07-13 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Cardiff/London", "Title": "\u201cIt'll do....\u201d", "Author": "littlemissomlette", "ReviewID": "UR62379097", "Content": "stayed epic overland journey required stop amsterdam waited ferry uk found served purpose cheap stopover perfectly quad own bathroom location central station located easy access coffee shops gay district red light district sleazy red light district dont stay grandma despite main street nightlife found relatively quiet hotel guests didnt noise bass argentinian restaurant downstairs stopped midnight cleanliness shabby decor smelt stale allow smoking ie sheets towels bathroom fairly clean bar fag burns bath hotels fault shabby tiger blankets carpet looked quick onceover hoover tv signal bbc 1 receptionist helpful giving map recommending acitivities staff encountered helpful polite spoke english people amsterdam breakfast buffet couldve proper fryup toaster extensive eat", "Date": "2010-04-25 00:00:00"}], "HotelInfo": {"Name": "Hotel De Mallemoolen", "HotelURL": "/ShowUserReviews-g188590-d284235-Reviews-Hotel_De_Mallemoolen-Amsterdam_Noord_Holland.html", "Price": "$82 - $177*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Warmoesstraat 7</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1012 HT </span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>", "HotelID": "284235", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/32/a0/32a01e1698149d041719b946998384b56large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cWhat a spectacular DUMP!!!!\u201d",
+      "Author": "D B",
+      "ReviewID": "UR121410288",
+      "Content": "worst experience life managed ladder type stairway doom gloom look walked toilet near building disgusting shower cubicle stairwell sliding plastic door privacy obviously toilet sink mirror stay remotely pleasant classed vagrants closed worst accommodation seen money lost charge night night pay stay elsewhere booking accommodation rated star hotel average rating feedback 7 scent truly sickening",
+      "Date": "2011-12-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Moscow, Russia",
+      "Title": "\u201cNo serious complaints\u201d",
+      "Author": "Wind41",
+      "ReviewID": "UR118522327",
+      "Content": "staff friendly round help excellent money paid toilet shower shared 2 else hotel easy situated 10 minutes train station walk road dam square near red light district overall impressed definitely",
+      "Date": "2011-09-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Manchester, United Kingdom",
+      "Title": "\u201cPerfect for what we needed\u201d",
+      "Author": "indierocklad",
+      "ReviewID": "UR102022497",
+      "Content": "cheap basic hotel heart amsterdam minutes famous cafe grasshopper staff friendly helpful recommend hotel people looking quiet night goes amsterdam stays 1 hotel lot negative reviews people booked cheap option properly considering implications youre looking crash friends whilst experiencing amsterdam offer definitely recommend am intending dam months looking book",
+      "Date": "2011-03-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Birmingham, United Kingdom",
+      "Title": "\u201cBetter value elsewhere; accessible but rowdy location and polite staff\u201d",
+      "Author": "jasdev_sekhon",
+      "ReviewID": "UR70766429",
+      "Content": "hotel de friendly hospitable hotel inbetween centraal station red light district top streets rld mentioned staff polite odd aloof politeness noticed dutch staff luggage main building checking inout pc reception slow hell daily breakfast nice food drink getting train station tram terminus perfect accessible location stayed 10 climb increasingly steep narrow flights stairs youre climbing bit annoying spend day dont notice inebriated id advise caution clean tv sink mirror couple bedside tables single chair smell cannabis arrive easy latch window whilst youre fresh course fresh cannabis smoke coming coffeeshops residences neighbouring girlfriend suffered pain days mattresses incredibly soft difficult onoff cramped top building floors below ours cramped beds yay able watch bbc dutch channel veronica american half simpsons sink share hotels shower toilets occupied feel kinda whilst shower drain begin clog night shower failure mention staff probably unclogged housekeeping hours location hotel huge advantage sightseeing entertainment annoying youre centre nightlife noisy window shut arrived weeklong heatwave summer sleeping window shut impossible window hot move werent exactly getting bed 7 am id wake shouting matches street days im actually looking forward decent night kip im home overall people fine hotels setbacks price night person feel space quieter location ensuite toilet bathroom airconditioning combination thereof recommend travellers stick hostel theres book dormitory yourselves couples advised someplace outside red light district wish id tripadvisor booked imply bad amenities price ps bath towels review mentioned",
+      "Date": "2010-07-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Cardiff/London",
+      "Title": "\u201cIt'll do....\u201d",
+      "Author": "littlemissomlette",
+      "ReviewID": "UR62379097",
+      "Content": "stayed epic overland journey required stop amsterdam waited ferry uk found served purpose cheap stopover perfectly quad own bathroom location central station located easy access coffee shops gay district red light district sleazy red light district dont stay grandma despite main street nightlife found relatively quiet hotel guests didnt noise bass argentinian restaurant downstairs stopped midnight cleanliness shabby decor smelt stale allow smoking ie sheets towels bathroom fairly clean bar fag burns bath hotels fault shabby tiger blankets carpet looked quick onceover hoover tv signal bbc 1 receptionist helpful giving map recommending acitivities staff encountered helpful polite spoke english people amsterdam breakfast buffet couldve proper fryup toaster extensive eat",
+      "Date": "2010-04-25 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel De Mallemoolen",
+    "HotelURL": "/ShowUserReviews-g188590-d284235-Reviews-Hotel_De_Mallemoolen-Amsterdam_Noord_Holland.html",
+    "Price": "$82 - $177*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Warmoesstraat 7</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">1012 HT </span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>",
+    "HotelID": "284235",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/32/a0/32a01e1698149d041719b946998384b56large.jpg"
+  }
+}

@@ -1,1 +1,131 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "Cairo, Egypt", "Title": "\u201cvery poor hotel\u201d", "Author": "tamerads", "ReviewID": "UR128135538", "Content": "visit istanbul awful hotel experience abroad loacation terrible mid textile shops location air condition waas complained happened worst roon clean trapped elevator happened wife advise reserve directly erboy hotel hotels", "Date": "2012-04-18 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "LA", "Title": "\u201cReal Review\u201d", "Author": "Niall M", "ReviewID": "UR127723837", "Content": "manager offered free transfer airport included anyway booking 4 nights return nice review tripadvisor poorly insulated badly run noisy hotel doors wouldnt shut lock loud slam construction outside door 9am saturday sunday monday mornings lovely", "Date": "2012-04-12 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Leeds, United Kingdom", "Title": "\u201cGood value tourist hotel\u201d", "Author": "kgisborne", "ReviewID": "UR120225112", "Content": "stayed 4 nights october 2011 booked 4 star hotel expedia overall absolutely fine familiar american british star ratings 3 star hotel standards example pool roof fine wet cool swim visit istanbul flight arriving midnight public transport closed hotel arrange shuttle collect 20 euro helpful ok 6th floor fine sized bathroom definitely bedroom space average london tourist hotel nice touch wrapped plate fruit waiting arrival breakfast buffet ok cold meats cheese bread fruit salad items hot items absolutely fine fuel days sightseeing hotel free wifi barely connected 6th floor bring netbook lobby online minor inconvenience whilst main tourist sites doorstep grand bazaar 810 minutes walk sultanahmet 810 minutes easy walking distance weather addition aksaray laleli university tram stops 5 minutes direction 2tl roughly uk 120 sultanahmet eminonu ferries bosphorus cruises continue golden horn karakoy galata tower walking busy istiklal st line dolmabahce palace value lot walking couple days started using tram day 3 easier except rush hour trams crammed getting ataturk airport tram aksaray change metro youll 2tl jeton 2 journey alternatively walk hotel main road left hill past aksaray tram station crossroads keeping hand busy road walk 075 km following hand bend road youll reach aksaray metrounderground station metro airport 2tl changes required istanbul fascinating bustling vibrant city visit history wonderful architecture mosques particular magnificent brilliant sit park blue mosque hagia sophia dusk wait darkness fall mosques lit istanbul definitely worth visit yourself time enjoy prestige hotel whilst modest absolutely fine found clean staff friendly size fine clean fridge air conditioning couldnt reasonable price drawback closer main tourist comfortable walking distance close tram lines found location price absolutely fine recommend ill stay revisit istanbul", "Date": "2011-11-06 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "london", "Title": "\u201cGood value hotel\u201d", "Author": "carlpoll", "ReviewID": "UR119704249", "Content": "tripadvisor reviews bit uncertain prestige hotel suited spent nights near tram stop easily walking distance bazaar sultanahmet main sites convenient value connecting ourselves teenagers bathrooms clean breakfast comprehensive selection sunny october days wasnt temperature midsummer dont air conditioning street noisy windows night watch children restrict swing wasnt bad 600 am call prayers mosque road experience spend lot time hotel youd expect 4star uk understand niggles tripadvisor reviews youre day decent sleep eat breakfast staff pleasant pool roof wasnt bad reviewers suggest clean roof run hadnt cold wind kids straight water", "Date": "2011-10-25 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cIt does the trick\u201d", "Author": "velazquinho", "ReviewID": "UR119479366", "Content": "location clean average breakfast decent service wouldnt consider 4 star hotel price pay reasonable value satellite tv probably worse ive seen hotel signal poor bring book else", "Date": "2011-10-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Toms River, New Jersey", "Title": "\u201cThe Prestige Hotel was great for our needs\u201d", "Author": "RevGunner359", "ReviewID": "UR106010949", "Content": "spent 2 days own istanbul completion tour close 1 tram line convenient sites tour missed staff helpful advising tram subway system recommending local restaurant helping reservations night splurge", "Date": "2011-04-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Gothenburg, Sweden", "Title": "\u201cNice Family own hotel\u201d", "Author": "nicclaz", "ReviewID": "UR84304237", "Content": "located hotel walking distant historical istanbul hotel friendly family owned service breakfast generous scandinavian clean equipments sweden", "Date": "2010-10-21 00:00:00"}], "HotelInfo": {"Name": "Prestige Hotel", "HotelURL": "/ShowUserReviews-g293974-d305640-Reviews-Prestige_Hotel-Istanbul.html", "Price": "$79 - $228*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Koska Cad No 8</span> | <span class=\"extended-address\">Laleli</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34480</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>", "HotelID": "305640", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/20/dc/2b/prestige-hotel.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Cairo, Egypt",
+      "Title": "\u201cvery poor hotel\u201d",
+      "Author": "tamerads",
+      "ReviewID": "UR128135538",
+      "Content": "visit istanbul awful hotel experience abroad loacation terrible mid textile shops location air condition waas complained happened worst roon clean trapped elevator happened wife advise reserve directly erboy hotel hotels",
+      "Date": "2012-04-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "LA",
+      "Title": "\u201cReal Review\u201d",
+      "Author": "Niall M",
+      "ReviewID": "UR127723837",
+      "Content": "manager offered free transfer airport included anyway booking 4 nights return nice review tripadvisor poorly insulated badly run noisy hotel doors wouldnt shut lock loud slam construction outside door 9am saturday sunday monday mornings lovely",
+      "Date": "2012-04-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Leeds, United Kingdom",
+      "Title": "\u201cGood value tourist hotel\u201d",
+      "Author": "kgisborne",
+      "ReviewID": "UR120225112",
+      "Content": "stayed 4 nights october 2011 booked 4 star hotel expedia overall absolutely fine familiar american british star ratings 3 star hotel standards example pool roof fine wet cool swim visit istanbul flight arriving midnight public transport closed hotel arrange shuttle collect 20 euro helpful ok 6th floor fine sized bathroom definitely bedroom space average london tourist hotel nice touch wrapped plate fruit waiting arrival breakfast buffet ok cold meats cheese bread fruit salad items hot items absolutely fine fuel days sightseeing hotel free wifi barely connected 6th floor bring netbook lobby online minor inconvenience whilst main tourist sites doorstep grand bazaar 810 minutes walk sultanahmet 810 minutes easy walking distance weather addition aksaray laleli university tram stops 5 minutes direction 2tl roughly uk 120 sultanahmet eminonu ferries bosphorus cruises continue golden horn karakoy galata tower walking busy istiklal st line dolmabahce palace value lot walking couple days started using tram day 3 easier except rush hour trams crammed getting ataturk airport tram aksaray change metro youll 2tl jeton 2 journey alternatively walk hotel main road left hill past aksaray tram station crossroads keeping hand busy road walk 075 km following hand bend road youll reach aksaray metrounderground station metro airport 2tl changes required istanbul fascinating bustling vibrant city visit history wonderful architecture mosques particular magnificent brilliant sit park blue mosque hagia sophia dusk wait darkness fall mosques lit istanbul definitely worth visit yourself time enjoy prestige hotel whilst modest absolutely fine found clean staff friendly size fine clean fridge air conditioning couldnt reasonable price drawback closer main tourist comfortable walking distance close tram lines found location price absolutely fine recommend ill stay revisit istanbul",
+      "Date": "2011-11-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "london",
+      "Title": "\u201cGood value hotel\u201d",
+      "Author": "carlpoll",
+      "ReviewID": "UR119704249",
+      "Content": "tripadvisor reviews bit uncertain prestige hotel suited spent nights near tram stop easily walking distance bazaar sultanahmet main sites convenient value connecting ourselves teenagers bathrooms clean breakfast comprehensive selection sunny october days wasnt temperature midsummer dont air conditioning street noisy windows night watch children restrict swing wasnt bad 600 am call prayers mosque road experience spend lot time hotel youd expect 4star uk understand niggles tripadvisor reviews youre day decent sleep eat breakfast staff pleasant pool roof wasnt bad reviewers suggest clean roof run hadnt cold wind kids straight water",
+      "Date": "2011-10-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cIt does the trick\u201d",
+      "Author": "velazquinho",
+      "ReviewID": "UR119479366",
+      "Content": "location clean average breakfast decent service wouldnt consider 4 star hotel price pay reasonable value satellite tv probably worse ive seen hotel signal poor bring book else",
+      "Date": "2011-10-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Toms River, New Jersey",
+      "Title": "\u201cThe Prestige Hotel was great for our needs\u201d",
+      "Author": "RevGunner359",
+      "ReviewID": "UR106010949",
+      "Content": "spent 2 days own istanbul completion tour close 1 tram line convenient sites tour missed staff helpful advising tram subway system recommending local restaurant helping reservations night splurge",
+      "Date": "2011-04-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Gothenburg, Sweden",
+      "Title": "\u201cNice Family own hotel\u201d",
+      "Author": "nicclaz",
+      "ReviewID": "UR84304237",
+      "Content": "located hotel walking distant historical istanbul hotel friendly family owned service breakfast generous scandinavian clean equipments sweden",
+      "Date": "2010-10-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Prestige Hotel",
+    "HotelURL": "/ShowUserReviews-g293974-d305640-Reviews-Prestige_Hotel-Istanbul.html",
+    "Price": "$79 - $228*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Koska Cad No 8</span> | <span class=\"extended-address\">Laleli</span>, <span class=\"locality\"><span property=\"v:locality\">Istanbul</span> <span property=\"v:postal-code\">34480</span></span>, <span class=\"country-name\" property=\"v:country-name\">Turkey</span> </span></span></address>",
+    "HotelID": "305640",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/20/dc/2b/prestige-hotel.jpg"
+  }
+}

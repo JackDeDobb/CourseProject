@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Washington State", "Title": "\u201cWell furnished, quiet and good value\u201d", "Author": "Dtlusty", "ReviewID": "UR121672820", "Content": "stayed night found furnished condition located street laurel canyon quiet night blessing la fridge coffee maker wifi ethernet connection breakfast offered donuts bagels coffee juice satisfactory minimal staff friendly decent rate hotel wellmaintained central location prefer stay am los angeles", "Date": "2011-12-12 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Las Vegas, Nevada", "Title": "\u201cPleasantly surprised.\u201d", "Author": "Tamrasto217", "ReviewID": "UR120562168", "Content": "stayed quick drive universal studios grounds parking lot clean litter debris office spotless awards quality super 8 corporate hanging wall front desk check quick easy floor heard little noise upstairs quiet 10 pm maybe corner plenty suitcases hanging items 10 run circles cartwheels lol door secure deadbolt chain lock carpet bedding looked beds comfortable firm sagging clean sheets fresh signs bedbugs mattresses surrounding refridgerator microwave coffee maker included standard clean towels soft smelled fresh tubshower combo toilet bathroom seperate vanity outside bathroom hair dryer vanity adequate shampoo hand soap body soap coffee etc ice machine actually able fill cooler left stayed actually charged ice perk breakfast plentiful supply fresh doughnuts bagels butter available juice coffee etc cream cheese cereal milk doughnuts delicious leaving check able look floor cleaning probably airing cool day updated clean king bed instead queens garden tub opposed tubshower combo overall enjoyed stay return recommend location price range", "Date": "2011-11-14 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Orem, Utah", "Title": "\u201cBlood on my sheets\u201d", "Author": "Ricardo_Utah", "ReviewID": "UR90645879", "Content": "checked hotel dec 24th 2010 wrote review fiance cut costs stay students utah simply dont money satisfied appearance location slept bed pulled sheets noticed massive stain sheets appeared blood pulled sheet discover blood stain pad below sheet immediately front desk sheets replaced office brought sheet replace sheet ourselves additional sheet realized hair bed previous tenant hesitant bring eventually brought door attempted complain corporate office closed unfortunately realized front office help brought sheet care attempted book hotel couldnt availability accept reservation time christmas recommend staying super 8 north hollywood california ca", "Date": "2010-12-25 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Evanston, IL", "Title": "\u201cVery Nice, but I can see some of the points others have made...\u201d", "Author": "Cubdukat", "ReviewID": "UR77285238", "Content": "real fairly else north hollywood public transit options practically nonexistent midnight couple mentioned reviewsthe strong antiseptic odor lobby pretty strong experience jacuzzi bed ive slept front desk friendly definitely coming itll rental car", "Date": "2010-08-28 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "Sacramento, California", "Title": "\u201cAdequate, but I'll spend more for something nicer next time.\u201d", "Author": "rwreyes", "ReviewID": "UR68830461", "Content": "hotel expect super 8 motel bed looked pretty clean ours strongly smelled urine manager nice stuck urine location little sketchy hotel doors inward little worried cars spot front walls thin loud guests didnt sleep night youre looking cheap youll remember youre getting pay", "Date": "2010-06-27 00:00:00"}], "HotelInfo": {"Name": "Super 8 North Hollywood", "HotelURL": "/ShowUserReviews-g32655-d275366-Reviews-Super_8_North_Hollywood-Los_Angeles_California.html", "Price": "$63 - $80*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">07541 Laurel Canyon Blvd</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">91605</span></span> </span></span></address>", "HotelID": "2516137", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/05/6c/056ca001a0015d56b2629534a83e05084large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Washington State",
+      "Title": "\u201cWell furnished, quiet and good value\u201d",
+      "Author": "Dtlusty",
+      "ReviewID": "UR121672820",
+      "Content": "stayed night found furnished condition located street laurel canyon quiet night blessing la fridge coffee maker wifi ethernet connection breakfast offered donuts bagels coffee juice satisfactory minimal staff friendly decent rate hotel wellmaintained central location prefer stay am los angeles",
+      "Date": "2011-12-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Las Vegas, Nevada",
+      "Title": "\u201cPleasantly surprised.\u201d",
+      "Author": "Tamrasto217",
+      "ReviewID": "UR120562168",
+      "Content": "stayed quick drive universal studios grounds parking lot clean litter debris office spotless awards quality super 8 corporate hanging wall front desk check quick easy floor heard little noise upstairs quiet 10 pm maybe corner plenty suitcases hanging items 10 run circles cartwheels lol door secure deadbolt chain lock carpet bedding looked beds comfortable firm sagging clean sheets fresh signs bedbugs mattresses surrounding refridgerator microwave coffee maker included standard clean towels soft smelled fresh tubshower combo toilet bathroom seperate vanity outside bathroom hair dryer vanity adequate shampoo hand soap body soap coffee etc ice machine actually able fill cooler left stayed actually charged ice perk breakfast plentiful supply fresh doughnuts bagels butter available juice coffee etc cream cheese cereal milk doughnuts delicious leaving check able look floor cleaning probably airing cool day updated clean king bed instead queens garden tub opposed tubshower combo overall enjoyed stay return recommend location price range",
+      "Date": "2011-11-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Orem, Utah",
+      "Title": "\u201cBlood on my sheets\u201d",
+      "Author": "Ricardo_Utah",
+      "ReviewID": "UR90645879",
+      "Content": "checked hotel dec 24th 2010 wrote review fiance cut costs stay students utah simply dont money satisfied appearance location slept bed pulled sheets noticed massive stain sheets appeared blood pulled sheet discover blood stain pad below sheet immediately front desk sheets replaced office brought sheet replace sheet ourselves additional sheet realized hair bed previous tenant hesitant bring eventually brought door attempted complain corporate office closed unfortunately realized front office help brought sheet care attempted book hotel couldnt availability accept reservation time christmas recommend staying super 8 north hollywood california ca",
+      "Date": "2010-12-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Evanston, IL",
+      "Title": "\u201cVery Nice, but I can see some of the points others have made...\u201d",
+      "Author": "Cubdukat",
+      "ReviewID": "UR77285238",
+      "Content": "real fairly else north hollywood public transit options practically nonexistent midnight couple mentioned reviewsthe strong antiseptic odor lobby pretty strong experience jacuzzi bed ive slept front desk friendly definitely coming itll rental car",
+      "Date": "2010-08-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Sacramento, California",
+      "Title": "\u201cAdequate, but I'll spend more for something nicer next time.\u201d",
+      "Author": "rwreyes",
+      "ReviewID": "UR68830461",
+      "Content": "hotel expect super 8 motel bed looked pretty clean ours strongly smelled urine manager nice stuck urine location little sketchy hotel doors inward little worried cars spot front walls thin loud guests didnt sleep night youre looking cheap youll remember youre getting pay",
+      "Date": "2010-06-27 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Super 8 North Hollywood",
+    "HotelURL": "/ShowUserReviews-g32655-d275366-Reviews-Super_8_North_Hollywood-Los_Angeles_California.html",
+    "Price": "$63 - $80*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">07541 Laurel Canyon Blvd</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">91605</span></span> </span></span></address>",
+    "HotelID": "2516137",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/05/6c/056ca001a0015d56b2629534a83e05084large.jpg"
+  }
+}

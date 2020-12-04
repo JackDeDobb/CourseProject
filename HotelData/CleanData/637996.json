@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Norwich, United Kingdom", "Title": "\u201cCheap, cheerful and delivers what it promises!\u201d", "Author": "James666_12", "ReviewID": "UR126154986", "Content": "girlfriends dad booked stay hotel night short weekend trip amsterdam firstly budget looking luxury sleep stay heart amsterdam basic clean comfortable hotel perfect amsterdam days sight sitting hotel watching tv booking aware literally red light district noisy periods short bursts constant noise red light district starts busy night six morning didnt matter day travelling sight seeing able sleep scenarios common sense realise red light district whinge noise straight forward check process walked bar key paid time leave hand key bar maid request arrival simple isnt fantastic pay beds low bit futon comfy suprised found wasnt shared bathroom shower facilities key own bathroom literally steps corridor steep stairs disabled mobility hotel overall disadvantages didnt bother slightest depends person circumstances similar trip amsterdam wouldnt hesitate stay", "Date": "2012-03-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cAn absolute bargain in the heart of Amsterdam!\u201d", "Author": "PascalS22", "ReviewID": "UR121458327", "Content": "hotel ideally located visiting amsterdam whilst basic hotel looked exactly picture website reviews stating otherwise stayed single maybe variations exist doubles staff reception pub friendly helpful reviewers i\u00e2\u20ac\u2122m security request keys particular whoever bar hands staff verify giving key person short walk heart red light district canals restaurants close arrived main train station walked hotel 10 \u00e2\u20ac\u201c 15 minutes whilst lot noise action outside hotel hardly hear steps narrow huge issue require careful attention carrying size luggage consider location tidiness friendliness staff price charged hotel absolute bargain amsterdam", "Date": "2011-12-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Leicester", "Title": "\u201cNice hotel, great location\u201d", "Author": "VodkaQueenLeicester", "ReviewID": "UR120277066", "Content": "brilliant location hotel red light district basic price website slightly misleading provided shower toilet shared facilities leave 20 euro deposit remote control tv didnt watch tv didnt bother steps extremely steep bear mind trouble stairs didnt breakfast cant comment looking nice clean comfy basic price look", "Date": "2011-11-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "west yorkshire", "Title": "\u201cDisappointing room (misleading website photos) - Good location\u201d", "Author": "sarah01shop", "ReviewID": "UR100059484", "Content": "easy hotel heart red light district looking forward 70s inspired seen website unfortunately didnt meet expectations basic decorated photos overlooked main street noisy hours wasnt added atmosphere expensive \u00e2\u00a375 breakfast recommend research opting hotel", "Date": "2011-03-13 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Bamberg, Germany", "Title": "\u201cBar with a hotel\u201d", "Author": "oicelemmij", "ReviewID": "UR93599772", "Content": "bar eleven hotel upstairs reviews correct check lady bar nice helpful steep steps luggage person handrail safe single bed tiny standards huge tokyo standards basic sleep accommodation euro type low sitting bed bare desk hotel lamp clock wound clothes closet bathroom vent loud water pressure hot water comfortably heated regulated window barred window ugly view roofs window bars probably idea climb window roof im middle rld expected city sounds expected ones none unexpected thank goodness sirens woman street church bells ringing distant car horns street sounds etc leave key bar time leave quiet morning street hotel construction ongoing paid 55 euro sunday night stay spend hotel possibly amsterdam city im ready stay city", "Date": "2011-01-18 00:00:00"}], "HotelInfo": {"Name": "Royal Taste Hotel Amsterdam", "HotelURL": "/ShowUserReviews-g188590-d637996-Reviews-Royal_Taste_Hotel_Amsterdam-Amsterdam_Noord_Holland.html", "Price": "$63 - $120*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Oudezijds Achterburgwal 47</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">6443 CE</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>", "HotelID": "637996", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/60/91/6091b989412efc8d4e48c49e165c2a4f4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Norwich, United Kingdom",
+      "Title": "\u201cCheap, cheerful and delivers what it promises!\u201d",
+      "Author": "James666_12",
+      "ReviewID": "UR126154986",
+      "Content": "girlfriends dad booked stay hotel night short weekend trip amsterdam firstly budget looking luxury sleep stay heart amsterdam basic clean comfortable hotel perfect amsterdam days sight sitting hotel watching tv booking aware literally red light district noisy periods short bursts constant noise red light district starts busy night six morning didnt matter day travelling sight seeing able sleep scenarios common sense realise red light district whinge noise straight forward check process walked bar key paid time leave hand key bar maid request arrival simple isnt fantastic pay beds low bit futon comfy suprised found wasnt shared bathroom shower facilities key own bathroom literally steps corridor steep stairs disabled mobility hotel overall disadvantages didnt bother slightest depends person circumstances similar trip amsterdam wouldnt hesitate stay",
+      "Date": "2012-03-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cAn absolute bargain in the heart of Amsterdam!\u201d",
+      "Author": "PascalS22",
+      "ReviewID": "UR121458327",
+      "Content": "hotel ideally located visiting amsterdam whilst basic hotel looked exactly picture website reviews stating otherwise stayed single maybe variations exist doubles staff reception pub friendly helpful reviewers i\u00e2\u20ac\u2122m security request keys particular whoever bar hands staff verify giving key person short walk heart red light district canals restaurants close arrived main train station walked hotel 10 \u00e2\u20ac\u201c 15 minutes whilst lot noise action outside hotel hardly hear steps narrow huge issue require careful attention carrying size luggage consider location tidiness friendliness staff price charged hotel absolute bargain amsterdam",
+      "Date": "2011-12-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Leicester",
+      "Title": "\u201cNice hotel, great location\u201d",
+      "Author": "VodkaQueenLeicester",
+      "ReviewID": "UR120277066",
+      "Content": "brilliant location hotel red light district basic price website slightly misleading provided shower toilet shared facilities leave 20 euro deposit remote control tv didnt watch tv didnt bother steps extremely steep bear mind trouble stairs didnt breakfast cant comment looking nice clean comfy basic price look",
+      "Date": "2011-11-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "west yorkshire",
+      "Title": "\u201cDisappointing room (misleading website photos) - Good location\u201d",
+      "Author": "sarah01shop",
+      "ReviewID": "UR100059484",
+      "Content": "easy hotel heart red light district looking forward 70s inspired seen website unfortunately didnt meet expectations basic decorated photos overlooked main street noisy hours wasnt added atmosphere expensive \u00e2\u00a375 breakfast recommend research opting hotel",
+      "Date": "2011-03-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bamberg, Germany",
+      "Title": "\u201cBar with a hotel\u201d",
+      "Author": "oicelemmij",
+      "ReviewID": "UR93599772",
+      "Content": "bar eleven hotel upstairs reviews correct check lady bar nice helpful steep steps luggage person handrail safe single bed tiny standards huge tokyo standards basic sleep accommodation euro type low sitting bed bare desk hotel lamp clock wound clothes closet bathroom vent loud water pressure hot water comfortably heated regulated window barred window ugly view roofs window bars probably idea climb window roof im middle rld expected city sounds expected ones none unexpected thank goodness sirens woman street church bells ringing distant car horns street sounds etc leave key bar time leave quiet morning street hotel construction ongoing paid 55 euro sunday night stay spend hotel possibly amsterdam city im ready stay city",
+      "Date": "2011-01-18 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Royal Taste Hotel Amsterdam",
+    "HotelURL": "/ShowUserReviews-g188590-d637996-Reviews-Royal_Taste_Hotel_Amsterdam-Amsterdam_Noord_Holland.html",
+    "Price": "$63 - $120*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Oudezijds Achterburgwal 47</span>, <span class=\"locality\"><span property=\"v:locality\">Amsterdam</span> <span property=\"v:postal-code\">6443 CE</span></span>, <span class=\"country-name\" property=\"v:country-name\">The Netherlands</span> </span></span></address>",
+    "HotelID": "637996",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/60/91/6091b989412efc8d4e48c49e165c2a4f4large.jpg"
+  }
+}

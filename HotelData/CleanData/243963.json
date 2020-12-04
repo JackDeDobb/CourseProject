@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "El Dorado Springs, Missouri", "Title": "\u201cAwesome stay! We'll be back next time we're in Branson.\u201d", "Author": "Mike M", "ReviewID": "UR139594722", "Content": "loved stay brick house branson mo rate location perfect close 76 strip colored routes branson miss traffic peggy manager main reason brick house spend labor day vacation peggy friendly helpful warm personality makes feel staying family family clean kept spacious outdoor pool private steet trip branson", "Date": "2012-09-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Bakersfield, CAlifornia, USA", "Title": "\u201cExcellent Value, Excellent Comfort, Excellent Service\u201d", "Author": "Sara s", "ReviewID": "UR139506884", "Content": "booked hotel reviews photos pool disappointed matter expected photos justice simple comfortable clean looked looked flaw none sound proof stayed door nice family kids couldnt hear indoor hallways newly carpeted painted smelled fresh beds comfortable cited bedding homey hotel flat screen television selection wifi fast requested refrigerator microwave delivered friendly staff minutes literally overly busy front desk associate polite knowledgable explained owners managers opportunity build business couple months trust secret waiting list hotelvery", "Date": "2012-09-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Nashville, Arkansas", "Title": "\u201cWonderful\u201d", "Author": "Shelly R", "ReviewID": "UR139421133", "Content": "stayed 5 nights august stay peggy rod staff friendly knowledgable clean biscuts gravy morning price service trip branson definitely spent brick house", "Date": "2012-09-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Saint Louis, Missouri", "Title": "\u201cVery accommodating\u201d", "Author": "suezp", "ReviewID": "UR139380236", "Content": "brick house nice change average hotel spent night impressed warm welcome reception updating nice newly installed carpet pet pet 1st floor level pet fee 25 clean including bathroom pet smells furniture nice beds comfortable hear people neighboring upscale geared comfort practical continental breakfast donuts cereal fresh fruit coffee juice hot gravy biscuits waffle maker waffles biscuits gravy werent donuts tasted pretty selection main traffic ease plenty eat tanger outlet easy miles definitely stay pet", "Date": "2012-09-04 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Waynesville, Missouri", "Title": "\u201cHidden jewel\u201d", "Author": "Fred P", "ReviewID": "UR134441966", "Content": "hotel little 76 strip delight family spent nights clean neat beds soft comfortablethe halls lit smelled fresh morning breakfast biscuits gravy waffles fresh fruit cereal oatmeal pool maintained water perfect heat afternoon ironing boards iron hair dryer provided quickly requested front desk looking quiet relax day", "Date": "2012-07-15 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Gardner, Kansas, United States", "Title": "\u201cSuperior Place to stay in Branson\u201d", "Author": "Marjorie D", "ReviewID": "UR133959238", "Content": "truly impressed drove brick house hotel welcomed friendly lady peggy visited comfortable definitely clean remodeling bother explained clean oh bed comfortable branson stay knowing ill nights rest greeted manager peggy husband blessing didnt mention trip safe secure staying believe ones brick house hotel own self wont sorry thanks peggy enjoyed visits", "Date": "2012-07-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Hartford", "Title": "\u201cWonderful experience!\u201d", "Author": "Debbie C", "ReviewID": "UR133038394", "Content": "recently stayed brick house hotel couldnt happier experience staff friendly welcoming efficient clean roomy bed amazingly comfortable absolutely loved pillows pool times clean inviting provides wonderful view comfortable brick house hotel reservations november", "Date": "2012-06-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Paragould, Arkansas", "Title": "\u201cGreat Experience - Great Location\u201d", "Author": "Familyof123_12", "ReviewID": "UR131825493", "Content": "reservations arriving branson motel looked nice clean outside patty greeted immediately commented nice lobby looked told recently changed ownership management renovating spacious clean opinion beds pillows comfortable hairdryer ironironing board called front desk couple breakfast spacious breakfast foods choose gravy waffles cereal bagels fruit juice milk coffee pool clean looked inviting location quiet shepherd hills parkway located near valley drive easy access blue red routes definitely try stay", "Date": "2012-06-12 00:00:00"}], "HotelInfo": {"Name": "The Brick House Hotel", "HotelURL": "/ShowUserReviews-g44160-d243963-Reviews-The_Brick_House_Hotel-Branson_Missouri.html", "Price": "$62 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2651 Shepherd of the Hills Expy</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> (Formerly Welcome Inn)</span></span></address>", "HotelID": "243963", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/81/16/2a/standard-room-queen-beds.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "El Dorado Springs, Missouri",
+      "Title": "\u201cAwesome stay! We'll be back next time we're in Branson.\u201d",
+      "Author": "Mike M",
+      "ReviewID": "UR139594722",
+      "Content": "loved stay brick house branson mo rate location perfect close 76 strip colored routes branson miss traffic peggy manager main reason brick house spend labor day vacation peggy friendly helpful warm personality makes feel staying family family clean kept spacious outdoor pool private steet trip branson",
+      "Date": "2012-09-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bakersfield, CAlifornia, USA",
+      "Title": "\u201cExcellent Value, Excellent Comfort, Excellent Service\u201d",
+      "Author": "Sara s",
+      "ReviewID": "UR139506884",
+      "Content": "booked hotel reviews photos pool disappointed matter expected photos justice simple comfortable clean looked looked flaw none sound proof stayed door nice family kids couldnt hear indoor hallways newly carpeted painted smelled fresh beds comfortable cited bedding homey hotel flat screen television selection wifi fast requested refrigerator microwave delivered friendly staff minutes literally overly busy front desk associate polite knowledgable explained owners managers opportunity build business couple months trust secret waiting list hotelvery",
+      "Date": "2012-09-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Nashville, Arkansas",
+      "Title": "\u201cWonderful\u201d",
+      "Author": "Shelly R",
+      "ReviewID": "UR139421133",
+      "Content": "stayed 5 nights august stay peggy rod staff friendly knowledgable clean biscuts gravy morning price service trip branson definitely spent brick house",
+      "Date": "2012-09-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Saint Louis, Missouri",
+      "Title": "\u201cVery accommodating\u201d",
+      "Author": "suezp",
+      "ReviewID": "UR139380236",
+      "Content": "brick house nice change average hotel spent night impressed warm welcome reception updating nice newly installed carpet pet pet 1st floor level pet fee 25 clean including bathroom pet smells furniture nice beds comfortable hear people neighboring upscale geared comfort practical continental breakfast donuts cereal fresh fruit coffee juice hot gravy biscuits waffle maker waffles biscuits gravy werent donuts tasted pretty selection main traffic ease plenty eat tanger outlet easy miles definitely stay pet",
+      "Date": "2012-09-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Waynesville, Missouri",
+      "Title": "\u201cHidden jewel\u201d",
+      "Author": "Fred P",
+      "ReviewID": "UR134441966",
+      "Content": "hotel little 76 strip delight family spent nights clean neat beds soft comfortablethe halls lit smelled fresh morning breakfast biscuits gravy waffles fresh fruit cereal oatmeal pool maintained water perfect heat afternoon ironing boards iron hair dryer provided quickly requested front desk looking quiet relax day",
+      "Date": "2012-07-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Gardner, Kansas, United States",
+      "Title": "\u201cSuperior Place to stay in Branson\u201d",
+      "Author": "Marjorie D",
+      "ReviewID": "UR133959238",
+      "Content": "truly impressed drove brick house hotel welcomed friendly lady peggy visited comfortable definitely clean remodeling bother explained clean oh bed comfortable branson stay knowing ill nights rest greeted manager peggy husband blessing didnt mention trip safe secure staying believe ones brick house hotel own self wont sorry thanks peggy enjoyed visits",
+      "Date": "2012-07-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Hartford",
+      "Title": "\u201cWonderful experience!\u201d",
+      "Author": "Debbie C",
+      "ReviewID": "UR133038394",
+      "Content": "recently stayed brick house hotel couldnt happier experience staff friendly welcoming efficient clean roomy bed amazingly comfortable absolutely loved pillows pool times clean inviting provides wonderful view comfortable brick house hotel reservations november",
+      "Date": "2012-06-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Paragould, Arkansas",
+      "Title": "\u201cGreat Experience - Great Location\u201d",
+      "Author": "Familyof123_12",
+      "ReviewID": "UR131825493",
+      "Content": "reservations arriving branson motel looked nice clean outside patty greeted immediately commented nice lobby looked told recently changed ownership management renovating spacious clean opinion beds pillows comfortable hairdryer ironironing board called front desk couple breakfast spacious breakfast foods choose gravy waffles cereal bagels fruit juice milk coffee pool clean looked inviting location quiet shepherd hills parkway located near valley drive easy access blue red routes definitely try stay",
+      "Date": "2012-06-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "The Brick House Hotel",
+    "HotelURL": "/ShowUserReviews-g44160-d243963-Reviews-The_Brick_House_Hotel-Branson_Missouri.html",
+    "Price": "$62 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2651 Shepherd of the Hills Expy</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> (Formerly Welcome Inn)</span></span></address>",
+    "HotelID": "243963",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/81/16/2a/standard-room-queen-beds.jpg"
+  }
+}

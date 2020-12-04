@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Largo, Florida", "Title": "\u201cBelieve All Reviews and Avoid\u201d", "Author": "KeithB05", "ReviewID": "UR124602413", "Content": "read reviews we\u00e2\u20ac\u2122ve traveled world stayed lots sketchy pretty towns figured couldn\u00e2\u20ac\u2122t bad vicinity close relatives unfortunately week christmas booked broke decided ok isn\u00e2\u20ac\u2122t horrible sad isn\u00e2\u20ac\u2122t cheap probably pretty nice 1970 unfortunately doesn\u00e2\u20ac\u2122t look horrible staff person means people abandoned stayed san juan fajardo driven forth learn mistake", "Date": "2012-02-15 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Arizona", "Title": "\u201cLook before you leap\u201d", "Author": "infoispower", "ReviewID": "UR64328669", "Content": "cleaning files internet research rio grande plantation 2000 empty except husband worst mildew walls filthy toilet etc office speak owner pretended speak english fortunately am fluent spanish complained money advance reservations believing web site refused leave fine drive san juan ill tourist agency happened cleaner mildew upper floor ground level huge pool looked ok household size device cleaning circled decided risk pool due fear infection day visit else checked food service hotel winding road dark night eat returned evening astonished review top notch facility grounds beautiful remote natural hesitate children health fend yourself concern frankly surprised business planning stay theres reservations credit card information determine money worry change mind hotels main road stay", "Date": "2010-05-16 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Harbor Springs, Michigan", "Title": "\u201cBeautiful gem in rainforest, will bring the kids next time.\u201d", "Author": "sparky6915", "ReviewID": "UR57075056", "Content": "loved staying 4 kids hidden gem rainforest former sugar cane plantation located rushing mountain river stream footbridge pavillions skirted tables suitable entertaining carriages tours acres plantation humidity creates perfect environment moss beautiful ferns tall floor flowering trees vines dont owners walked pretty clean pool unused judge impression slight breeze shower nuts leaves fell pool onto walk pool clean sweep constantly resort stepping time environment expected rainforest loved hearing tiny coqui frogs evening surprised sleep night stayed 4 5 start resorts art ago refreshing experience charming phone booth lights glowing pool phone booths anymore tv didnt lobby comfortable couches puerto rico watch tv anyway books advance outdoor restaurant suffered economy beautiful covered silver serving dishes sit unused buffet met chef checking job told owner family lives onsite bought hot dinner deli ralphs food warehouse named nearby grocery store highway 3 brought fruit breakfast hotel bottled water pop beer fee lobby owners night cooler locked refrigerator microwave coffee maker pouch puerto rican coffee shower hot beds comfortable sound rushing river delight safe automatic gate entrance grounds remote leisure cell reception spotty mountains left evening call kids please tell friends widow son afford repairs grounds buildings jewel created vision deserves preserved ate breakfast don pepes hwy 3 highly recommend el yunque national rainforest close drove following day beautiful waterfalls", "Date": "2010-02-25 00:00:00"}], "HotelInfo": {"Name": "Rio Grande Plantation Eco Resort", "HotelURL": "/ShowUserReviews-g1006845-d224878-Reviews-Rio_Grande_Plantation_Eco_Resort-Rio_Grande_Puerto_Rico.html", "Price": "$150 - $175*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Road No 956, Guzman Abajo, Km. 4, Hm 2</span>, <span class=\"locality\"><span property=\"v:locality\">Rio Grande</span> <span property=\"v:postal-code\">00745</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>", "HotelID": "224878", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Largo, Florida",
+      "Title": "\u201cBelieve All Reviews and Avoid\u201d",
+      "Author": "KeithB05",
+      "ReviewID": "UR124602413",
+      "Content": "read reviews we\u00e2\u20ac\u2122ve traveled world stayed lots sketchy pretty towns figured couldn\u00e2\u20ac\u2122t bad vicinity close relatives unfortunately week christmas booked broke decided ok isn\u00e2\u20ac\u2122t horrible sad isn\u00e2\u20ac\u2122t cheap probably pretty nice 1970 unfortunately doesn\u00e2\u20ac\u2122t look horrible staff person means people abandoned stayed san juan fajardo driven forth learn mistake",
+      "Date": "2012-02-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Arizona",
+      "Title": "\u201cLook before you leap\u201d",
+      "Author": "infoispower",
+      "ReviewID": "UR64328669",
+      "Content": "cleaning files internet research rio grande plantation 2000 empty except husband worst mildew walls filthy toilet etc office speak owner pretended speak english fortunately am fluent spanish complained money advance reservations believing web site refused leave fine drive san juan ill tourist agency happened cleaner mildew upper floor ground level huge pool looked ok household size device cleaning circled decided risk pool due fear infection day visit else checked food service hotel winding road dark night eat returned evening astonished review top notch facility grounds beautiful remote natural hesitate children health fend yourself concern frankly surprised business planning stay theres reservations credit card information determine money worry change mind hotels main road stay",
+      "Date": "2010-05-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Harbor Springs, Michigan",
+      "Title": "\u201cBeautiful gem in rainforest, will bring the kids next time.\u201d",
+      "Author": "sparky6915",
+      "ReviewID": "UR57075056",
+      "Content": "loved staying 4 kids hidden gem rainforest former sugar cane plantation located rushing mountain river stream footbridge pavillions skirted tables suitable entertaining carriages tours acres plantation humidity creates perfect environment moss beautiful ferns tall floor flowering trees vines dont owners walked pretty clean pool unused judge impression slight breeze shower nuts leaves fell pool onto walk pool clean sweep constantly resort stepping time environment expected rainforest loved hearing tiny coqui frogs evening surprised sleep night stayed 4 5 start resorts art ago refreshing experience charming phone booth lights glowing pool phone booths anymore tv didnt lobby comfortable couches puerto rico watch tv anyway books advance outdoor restaurant suffered economy beautiful covered silver serving dishes sit unused buffet met chef checking job told owner family lives onsite bought hot dinner deli ralphs food warehouse named nearby grocery store highway 3 brought fruit breakfast hotel bottled water pop beer fee lobby owners night cooler locked refrigerator microwave coffee maker pouch puerto rican coffee shower hot beds comfortable sound rushing river delight safe automatic gate entrance grounds remote leisure cell reception spotty mountains left evening call kids please tell friends widow son afford repairs grounds buildings jewel created vision deserves preserved ate breakfast don pepes hwy 3 highly recommend el yunque national rainforest close drove following day beautiful waterfalls",
+      "Date": "2010-02-25 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Rio Grande Plantation Eco Resort",
+    "HotelURL": "/ShowUserReviews-g1006845-d224878-Reviews-Rio_Grande_Plantation_Eco_Resort-Rio_Grande_Puerto_Rico.html",
+    "Price": "$150 - $175*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Road No 956, Guzman Abajo, Km. 4, Hm 2</span>, <span class=\"locality\"><span property=\"v:locality\">Rio Grande</span> <span property=\"v:postal-code\">00745</span></span>, <span class=\"country-name\" property=\"v:country-name\">Puerto Rico</span> </span></span></address>",
+    "HotelID": "224878",
+    "ImgURL": ""
+  }
+}

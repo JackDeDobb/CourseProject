@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Seattle, Washington", "Title": "\u201cGreat Value for the Money\u201d", "Author": "hawksblue", "ReviewID": "UR126306027", "Content": "stayed pinch flight canceled rebooked following day looking basic lay head short night jet motel exactly didnt checkin luggage airport clerk helpful directing local convenience store grab essentials nights sleep airport time id recommend looking value airport looked expensive", "Date": "2012-03-18 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Lacey WA", "Title": "\u201cService is horible, Beds are hard and shuttle is miserable.\u201d", "Author": "travelswithbicycle", "ReviewID": "UR124044420", "Content": "hotel worst stayed location airport nasty simple people running computer set managing shuttle service resulted extended delays waiting airport picked return hotel staff rude complained cost send shuttle driver travel 30 times business jet motel parking business anymore waited cold watched parking services 3 trips airport wally master park jet doesnt", "Date": "2012-02-02 00:00:00"}], "HotelInfo": {"Name": "Jet Motel", "HotelURL": "/ShowUserReviews-g60878-d253306-Reviews-Jet_Motel-Seattle_Washington.html", "Price": "$49*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">17300 International Blvd. / Pacific Hwy. S</span>, <span class=\"locality\"><span property=\"v:locality\">Seattle</span>, <span property=\"v:region\">WA</span> <span property=\"v:postal-code\">98188</span></span> </span> </span> </address>", "HotelID": "253306", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Seattle, Washington",
+      "Title": "\u201cGreat Value for the Money\u201d",
+      "Author": "hawksblue",
+      "ReviewID": "UR126306027",
+      "Content": "stayed pinch flight canceled rebooked following day looking basic lay head short night jet motel exactly didnt checkin luggage airport clerk helpful directing local convenience store grab essentials nights sleep airport time id recommend looking value airport looked expensive",
+      "Date": "2012-03-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Lacey WA",
+      "Title": "\u201cService is horible, Beds are hard and shuttle is miserable.\u201d",
+      "Author": "travelswithbicycle",
+      "ReviewID": "UR124044420",
+      "Content": "hotel worst stayed location airport nasty simple people running computer set managing shuttle service resulted extended delays waiting airport picked return hotel staff rude complained cost send shuttle driver travel 30 times business jet motel parking business anymore waited cold watched parking services 3 trips airport wally master park jet doesnt",
+      "Date": "2012-02-02 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Jet Motel",
+    "HotelURL": "/ShowUserReviews-g60878-d253306-Reviews-Jet_Motel-Seattle_Washington.html",
+    "Price": "$49*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">17300 International Blvd. / Pacific Hwy. S</span>, <span class=\"locality\"><span property=\"v:locality\">Seattle</span>, <span property=\"v:region\">WA</span> <span property=\"v:postal-code\">98188</span></span> </span> </span> </address>",
+    "HotelID": "253306",
+    "ImgURL": ""
+  }
+}

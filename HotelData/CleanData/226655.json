@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 3.0}, "AuthorLocation": "Lubbock, Texas", "Title": "\u201cNot the place to stay.\u201d", "Author": "Kwag6969", "ReviewID": "UR135531418", "Content": "appeal location facilities potential arrived cabin clean smelled terrible inspection shower dirty broken dish burners stove glass picked stove dirty smoked mad tried dinner warm docks held shore buy 1 bolt tried talk manager available told bed 1100am matter discussed tell person resort psycho maid totally unprofessional attempted voice dissatisfaction calm manner emotional able speak manager woman cabin told 78 father thanks fired homeless moved bigger cabin placed friday night saturday morning woman monday morning checked nerve confront leaving tip nice little run ok cabins beds linens bad shape dishes looked thrift store mattered management cleanliness advice run", "Date": "2012-07-27 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Amarillo, TX", "Title": "\u201cOK, but not great\u201d", "Author": "lak63", "ReviewID": "UR133240571", "Content": "resort adequate unit clean appliances nice view lake amazing fishing dock unit central heatair plus 100 degrees day stay unfortunately couple downsides twice stay 1st bed rock hard beds hard existed uncomfortable 2nd owner call porch light fixed clean family stay fish lake adequate", "Date": "2012-07-02 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 2.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Peoria, Illinois", "Title": "\u201cAnother Resort In Branson Gone to Hell!!!!!!!\u201d", "Author": "Donald H", "ReviewID": "UR132284225", "Content": "recently stayed del mar resort sister lakeshore resort block road stayed past shame checking rent cabins noticed expressed previous none addressed broken light fixtures screen door shower barely pressure rinse body wash yourself grass tall arrived cut time 8 days walking dock morning required change socks shoes soaked walking dew filled foot grass staff maybe times buy towels walmart clean ones dock shambles weve told fixed loose boards dock wife tripped refrigerator barely microwave glass plate fit rotated running clanked god awful noise time plumbing accused day maid clean checking wife told checking day top lakeshore pay stay told rodney bill ready catch 1000 pm arrived home night cabin waiting pay dont paying 1000 8500 night absolutely ridiculous stay recommend avoid planning visit branson", "Date": "2012-06-19 00:00:00"}], "HotelInfo": {"Name": "Lakeshore Resort", "HotelURL": "/ShowUserReviews-g44160-d226655-Reviews-Lakeshore_Resort-Branson_Missouri.html", "Price": "$70 and up*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1773 Lakeshore Drive</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>", "HotelID": "226655", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Lubbock, Texas",
+      "Title": "\u201cNot the place to stay.\u201d",
+      "Author": "Kwag6969",
+      "ReviewID": "UR135531418",
+      "Content": "appeal location facilities potential arrived cabin clean smelled terrible inspection shower dirty broken dish burners stove glass picked stove dirty smoked mad tried dinner warm docks held shore buy 1 bolt tried talk manager available told bed 1100am matter discussed tell person resort psycho maid totally unprofessional attempted voice dissatisfaction calm manner emotional able speak manager woman cabin told 78 father thanks fired homeless moved bigger cabin placed friday night saturday morning woman monday morning checked nerve confront leaving tip nice little run ok cabins beds linens bad shape dishes looked thrift store mattered management cleanliness advice run",
+      "Date": "2012-07-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Amarillo, TX",
+      "Title": "\u201cOK, but not great\u201d",
+      "Author": "lak63",
+      "ReviewID": "UR133240571",
+      "Content": "resort adequate unit clean appliances nice view lake amazing fishing dock unit central heatair plus 100 degrees day stay unfortunately couple downsides twice stay 1st bed rock hard beds hard existed uncomfortable 2nd owner call porch light fixed clean family stay fish lake adequate",
+      "Date": "2012-07-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Peoria, Illinois",
+      "Title": "\u201cAnother Resort In Branson Gone to Hell!!!!!!!\u201d",
+      "Author": "Donald H",
+      "ReviewID": "UR132284225",
+      "Content": "recently stayed del mar resort sister lakeshore resort block road stayed past shame checking rent cabins noticed expressed previous none addressed broken light fixtures screen door shower barely pressure rinse body wash yourself grass tall arrived cut time 8 days walking dock morning required change socks shoes soaked walking dew filled foot grass staff maybe times buy towels walmart clean ones dock shambles weve told fixed loose boards dock wife tripped refrigerator barely microwave glass plate fit rotated running clanked god awful noise time plumbing accused day maid clean checking wife told checking day top lakeshore pay stay told rodney bill ready catch 1000 pm arrived home night cabin waiting pay dont paying 1000 8500 night absolutely ridiculous stay recommend avoid planning visit branson",
+      "Date": "2012-06-19 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Lakeshore Resort",
+    "HotelURL": "/ShowUserReviews-g44160-d226655-Reviews-Lakeshore_Resort-Branson_Missouri.html",
+    "Price": "$70 and up*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">1773 Lakeshore Drive</span>, <span class=\"locality\"><span property=\"v:municipality\">Branson</span>, <span property=\"v:region\">MO</span> <span property=\"v:postal-code\">65616</span></span> </span></span></address>",
+    "HotelID": "226655",
+    "ImgURL": ""
+  }
+}

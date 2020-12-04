@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Copenhagen", "Title": "\u201cGreat location of a typical Berliner Hotel\u201d", "Author": "ldansen", "ReviewID": "UR57778870", "Content": "location 2 minutes walk ku damm ubahn makes easy travel short time 5 days allmost berlin god own bathroom television doublebed 2 extra beds balcony okay view weather allow breakfast fine basic stuff bit extra overwhelming bad reviews pay pay cash bad exspecially signs surely pay cards arrived recommend hotel stay berlin boring fascinating recommend hotel short stay 16 days locations cleaned everyday sleept doublebed typical berliner hotel building 4th floor ok", "Date": "2010-03-05 00:00:00"}], "HotelInfo": {"Name": "Hotel-Pension Rheingold", "HotelURL": "/ShowUserReviews-g187323-d529530-Reviews-Hotel_Pension_Rheingold-Berlin.html", "Price": "$55 - $126*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Xantenerstrasse 9</span>, <span class=\"locality\"><span property=\"v:postal-code\">10707</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "529530", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f1/48/f148c0775a7e1de7aec6317a99e758235large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Copenhagen",
+      "Title": "\u201cGreat location of a typical Berliner Hotel\u201d",
+      "Author": "ldansen",
+      "ReviewID": "UR57778870",
+      "Content": "location 2 minutes walk ku damm ubahn makes easy travel short time 5 days allmost berlin god own bathroom television doublebed 2 extra beds balcony okay view weather allow breakfast fine basic stuff bit extra overwhelming bad reviews pay pay cash bad exspecially signs surely pay cards arrived recommend hotel stay berlin boring fascinating recommend hotel short stay 16 days locations cleaned everyday sleept doublebed typical berliner hotel building 4th floor ok",
+      "Date": "2010-03-05 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel-Pension Rheingold",
+    "HotelURL": "/ShowUserReviews-g187323-d529530-Reviews-Hotel_Pension_Rheingold-Berlin.html",
+    "Price": "$55 - $126*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Xantenerstrasse 9</span>, <span class=\"locality\"><span property=\"v:postal-code\">10707</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "529530",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f1/48/f148c0775a7e1de7aec6317a99e758235large.jpg"
+  }
+}

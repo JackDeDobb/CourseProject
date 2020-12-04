@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cDecent budget option\u201d", "Author": "RobWinmar", "ReviewID": "UR124383865", "Content": "stayed 5 nights cheap option 25 decent location walking distance lots spots lots food options prostitutes nearby streets theyre harmless pretty plain beds tv cabinet bathroom sufficient bathroom pretty simple experience internet lobby connect real issue outsourced laundry facilities leave brochure handed bag clothes nicely folded 75 bill manager stop using facility experience hope occurred staff helpful apart night receptionist talking phone ages speak english popular walk ins sitting lobby night definitely serves purpose reasonable stay people budget average hotel priced accordingly", "Date": "2012-02-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Santiago, Chile", "Title": "\u201cPerfect for the price\u201d", "Author": "Towers015", "ReviewID": "UR93969078", "Content": "clean confortable near main streets metro hotel york expecting quiet neighbor makes perfect choice looking rest walking mexico city travelling nearby beautiful towns maybe youre willing hotel life little restaurantbar night cant", "Date": "2011-01-21 00:00:00"}], "HotelInfo": {"Name": "New York Hotel", "HotelURL": "/ShowUserReviews-g150800-d154888-Reviews-New_York_Hotel-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$23 - $25*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Edison 45</span> | <span class=\"extended-address\">Tabacalera</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06030</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "154888", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/d9/b9/37/new-york-hotel.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cDecent budget option\u201d",
+      "Author": "RobWinmar",
+      "ReviewID": "UR124383865",
+      "Content": "stayed 5 nights cheap option 25 decent location walking distance lots spots lots food options prostitutes nearby streets theyre harmless pretty plain beds tv cabinet bathroom sufficient bathroom pretty simple experience internet lobby connect real issue outsourced laundry facilities leave brochure handed bag clothes nicely folded 75 bill manager stop using facility experience hope occurred staff helpful apart night receptionist talking phone ages speak english popular walk ins sitting lobby night definitely serves purpose reasonable stay people budget average hotel priced accordingly",
+      "Date": "2012-02-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Santiago, Chile",
+      "Title": "\u201cPerfect for the price\u201d",
+      "Author": "Towers015",
+      "ReviewID": "UR93969078",
+      "Content": "clean confortable near main streets metro hotel york expecting quiet neighbor makes perfect choice looking rest walking mexico city travelling nearby beautiful towns maybe youre willing hotel life little restaurantbar night cant",
+      "Date": "2011-01-21 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "New York Hotel",
+    "HotelURL": "/ShowUserReviews-g150800-d154888-Reviews-New_York_Hotel-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$23 - $25*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Edison 45</span> | <span class=\"extended-address\">Tabacalera</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">06030</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "154888",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/d9/b9/37/new-york-hotel.jpg"
+  }
+}

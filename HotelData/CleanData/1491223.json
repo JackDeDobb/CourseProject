@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Vancouver, Canada", "Title": "\u201cGood Value, Nice Serviced Apartment\u201d", "Author": "geoff451", "ReviewID": "UR118820034", "Content": "time staying bay bridge stayed summer weekly rate week nonetheless serviced apartment clean size fairly size nice swimming pool scheduled shuttle service tsuen wan mtr station 8 minutes station free wifi self help laundry cheap convenient gym improved providing update equipment varieties apartment building little city center overall environment quiet definite", "Date": "2011-10-01 00:00:00"}], "HotelInfo": {"Name": "The Bay Bridge", "HotelURL": "/ShowUserReviews-g294217-d1491223-Reviews-The_Bay_Bridge-Hong_Kong.html", "Price": "0", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.123 Casle Peak Road, Ting Kau</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>", "HotelID": "1491223", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/bc/c0/5f/the-bay-bridge-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Vancouver, Canada",
+      "Title": "\u201cGood Value, Nice Serviced Apartment\u201d",
+      "Author": "geoff451",
+      "ReviewID": "UR118820034",
+      "Content": "time staying bay bridge stayed summer weekly rate week nonetheless serviced apartment clean size fairly size nice swimming pool scheduled shuttle service tsuen wan mtr station 8 minutes station free wifi self help laundry cheap convenient gym improved providing update equipment varieties apartment building little city center overall environment quiet definite",
+      "Date": "2011-10-01 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "The Bay Bridge",
+    "HotelURL": "/ShowUserReviews-g294217-d1491223-Reviews-The_Bay_Bridge-Hong_Kong.html",
+    "Price": "0",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">No.123 Casle Peak Road, Ting Kau</span>, <span class=\"locality\"><span property=\"v:locality\">Hong Kong</span></span>, <span class=\"country-name\" property=\"v:country-name\">China</span> </span></span></address>",
+    "HotelID": "1491223",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/bc/c0/5f/the-bay-bridge-thumbnail.jpg"
+  }
+}

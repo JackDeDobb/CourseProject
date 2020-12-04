@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Singapore, Singapore", "Title": "\u201cRelatively big room, attached to shopping mall with Spanish brands, away from downtown\u201d", "Author": "CY C", "ReviewID": "UR127358871", "Content": "pros free internet attached shopping malls zara mango massimo etc starbucks hotel cons 20mins walk nearest metro bus stop hotel heading plaza catalunya etc faster reach downtown bus train poor selection breakfast eur 16 pax", "Date": "2012-04-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Monterrey, Mexico", "Title": "\u201cLovely hotel, attached to mall, easy to get around Barcelona\u201d", "Author": "SJofMexico", "ReviewID": "UR126765535", "Content": "stayed husa five nights overall experience bed bit comfortable tv channels service complaints whatsoever lovely couple brief issues wireless internet access easily resolved quick call front desk spacious basic accommodation nice bathroom lighting haha bed bit uncomfortable prefer softer mattress night sofa cushion fitted sheet added softness television probably late 1980s remote plus total 15 channels cnn english brought ipad deal worth mentioning anyway breakfast nice buffet coffee am included location attached nice little shopping mall outside center town found easy barcelona bought 4day unlimited pass metro 25 euros people mentioned hotel subway stop disagree subway hotel left door walking 10 minutes outside hotel little southeast street actually halfway street stop tram tram maria cristina metro stop dining nearby obviously million eat barcelona sometimes looking close hotel dinner evening piscolabis walk outside hotel left walk 5 minutes starbucks tapas nice wine lunch afternoon mall bad walk outside hotel sharp left mall walkway little cafes decent food peoplewatching", "Date": "2012-03-27 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 2.0}, "AuthorLocation": "maryland", "Title": "\u201cOutdated without amenities\u201d", "Author": "naga78", "ReviewID": "UR126625099", "Content": "recently stayed husa 5 nights definitely outdated tvs crts free wireless internet sometimes slow iron didnt entire hotel pressed didnt tell cost 8 iron shirt definitely surprised 40 charge check pressing 5 shirts especially 15 min pro clean agree reviewers hotel price", "Date": "2012-03-25 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Darmstadt", "Title": "\u201cok for short business trips\u201d", "Author": "zoznam", "ReviewID": "UR97266225", "Content": "stayed 2 nights business trip interior look bit eighties clean service reception friendly helpful welcoming helped finding gym nearby dir pricey ok booked nonsmoking smell inside hallway irritating door ashtray beds bit hard pretty windows clean bath spacious wifi huge lots space book short business trip", "Date": "2011-02-20 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Montreal", "Title": "\u201cA great hotel (and a lucky upgrade!)\u201d", "Author": "mdarsigny", "ReviewID": "UR65100152", "Content": "stayed 2010 initially booked close las ramblas due unfortunate circumstances ie guests drunk leave hotel upgraded charges 1 star 4 stars located convenient locals business people tourist located neighborhood especially shopping located 510 minutes walk maria cristina metro stations hotel european hotel usually hotel larger north america europe hotel twin couch desk clean staff hotel extremely helpfull", "Date": "2010-05-23 00:00:00"}], "HotelInfo": {"Name": "Husa Illa", "HotelURL": "/ShowUserReviews-g187497-d228554-Reviews-Husa_Illa-Barcelona_Catalonia.html", "Price": "$116 - $272*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Avenida Diagonal , 555</span>, <span class=\"locality\"><span property=\"v:postal-code\">08029</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "228554", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/bf/ee/54/fachada-principal.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Singapore, Singapore",
+      "Title": "\u201cRelatively big room, attached to shopping mall with Spanish brands, away from downtown\u201d",
+      "Author": "CY C",
+      "ReviewID": "UR127358871",
+      "Content": "pros free internet attached shopping malls zara mango massimo etc starbucks hotel cons 20mins walk nearest metro bus stop hotel heading plaza catalunya etc faster reach downtown bus train poor selection breakfast eur 16 pax",
+      "Date": "2012-04-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Monterrey, Mexico",
+      "Title": "\u201cLovely hotel, attached to mall, easy to get around Barcelona\u201d",
+      "Author": "SJofMexico",
+      "ReviewID": "UR126765535",
+      "Content": "stayed husa five nights overall experience bed bit comfortable tv channels service complaints whatsoever lovely couple brief issues wireless internet access easily resolved quick call front desk spacious basic accommodation nice bathroom lighting haha bed bit uncomfortable prefer softer mattress night sofa cushion fitted sheet added softness television probably late 1980s remote plus total 15 channels cnn english brought ipad deal worth mentioning anyway breakfast nice buffet coffee am included location attached nice little shopping mall outside center town found easy barcelona bought 4day unlimited pass metro 25 euros people mentioned hotel subway stop disagree subway hotel left door walking 10 minutes outside hotel little southeast street actually halfway street stop tram tram maria cristina metro stop dining nearby obviously million eat barcelona sometimes looking close hotel dinner evening piscolabis walk outside hotel left walk 5 minutes starbucks tapas nice wine lunch afternoon mall bad walk outside hotel sharp left mall walkway little cafes decent food peoplewatching",
+      "Date": "2012-03-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "maryland",
+      "Title": "\u201cOutdated without amenities\u201d",
+      "Author": "naga78",
+      "ReviewID": "UR126625099",
+      "Content": "recently stayed husa 5 nights definitely outdated tvs crts free wireless internet sometimes slow iron didnt entire hotel pressed didnt tell cost 8 iron shirt definitely surprised 40 charge check pressing 5 shirts especially 15 min pro clean agree reviewers hotel price",
+      "Date": "2012-03-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Darmstadt",
+      "Title": "\u201cok for short business trips\u201d",
+      "Author": "zoznam",
+      "ReviewID": "UR97266225",
+      "Content": "stayed 2 nights business trip interior look bit eighties clean service reception friendly helpful welcoming helped finding gym nearby dir pricey ok booked nonsmoking smell inside hallway irritating door ashtray beds bit hard pretty windows clean bath spacious wifi huge lots space book short business trip",
+      "Date": "2011-02-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Montreal",
+      "Title": "\u201cA great hotel (and a lucky upgrade!)\u201d",
+      "Author": "mdarsigny",
+      "ReviewID": "UR65100152",
+      "Content": "stayed 2010 initially booked close las ramblas due unfortunate circumstances ie guests drunk leave hotel upgraded charges 1 star 4 stars located convenient locals business people tourist located neighborhood especially shopping located 510 minutes walk maria cristina metro stations hotel european hotel usually hotel larger north america europe hotel twin couch desk clean staff hotel extremely helpfull",
+      "Date": "2010-05-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Husa Illa",
+    "HotelURL": "/ShowUserReviews-g187497-d228554-Reviews-Husa_Illa-Barcelona_Catalonia.html",
+    "Price": "$116 - $272*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Avenida Diagonal , 555</span>, <span class=\"locality\"><span property=\"v:postal-code\">08029</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "228554",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/bf/ee/54/fachada-principal.jpg"
+  }
+}

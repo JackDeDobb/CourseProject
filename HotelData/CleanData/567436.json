@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "London, United Kingdom", "Title": "\u201cClean, good value pension on city centre fringe\u201d", "Author": "jimmcateer", "ReviewID": "UR82823136", "Content": "stayed hof nights september 2010 city train journey central europe visited prague vienna budapest hotel directions website landed schoenfeld airport southeast berlin 171 bus ubahn station 10 minutes underground line 7 goes change 30 minutes hotel lies road 100 metres north station false start found undue difficulty floors ground spacious bright clean shower wc cramped adequate plenty towels hot water glazing sufficient eliminate street noise audible sounds mattresses little thin beds comfortable slept maintained supplied stay elevator nighttime reception able settle bill debit card buffet breakfasts generous adequate cereal cold meats cheese eggs bread yogurt fruit unlimited tea coffee toast getting buffet table awkward smallish breakfast quality restaurants fair value meal nearby hof jazz club friday night it\u2019s beer wine latter wildly overpriced otherwise risk local imbiss berlin fast food takeaway restaurant uptown handy 24 hour supermarket nearby berliner strasse getting means using berlin public transport tube bus tram system fairly intuitive day ticket ab zone reasonable german transport fine reputation final days ticket machine issues service failures due engineering demonstrations mechanical breakdown allow sufficient time journey", "Date": "2010-10-10 00:00:00"}], "HotelInfo": {"Name": "Gasteiner Hof", "HotelURL": "/ShowUserReviews-g187323-d567436-Reviews-Gasteiner_Hof-Berlin.html", "Price": "$51 - $1,320*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gasteinerstrasse 8</span>, <span class=\"locality\"><span property=\"v:postal-code\">10717</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "567436", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f1/80/f1803d6f6e0192c3298279278c8595cb1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London, United Kingdom",
+      "Title": "\u201cClean, good value pension on city centre fringe\u201d",
+      "Author": "jimmcateer",
+      "ReviewID": "UR82823136",
+      "Content": "stayed hof nights september 2010 city train journey central europe visited prague vienna budapest hotel directions website landed schoenfeld airport southeast berlin 171 bus ubahn station 10 minutes underground line 7 goes change 30 minutes hotel lies road 100 metres north station false start found undue difficulty floors ground spacious bright clean shower wc cramped adequate plenty towels hot water glazing sufficient eliminate street noise audible sounds mattresses little thin beds comfortable slept maintained supplied stay elevator nighttime reception able settle bill debit card buffet breakfasts generous adequate cereal cold meats cheese eggs bread yogurt fruit unlimited tea coffee toast getting buffet table awkward smallish breakfast quality restaurants fair value meal nearby hof jazz club friday night it\u2019s beer wine latter wildly overpriced otherwise risk local imbiss berlin fast food takeaway restaurant uptown handy 24 hour supermarket nearby berliner strasse getting means using berlin public transport tube bus tram system fairly intuitive day ticket ab zone reasonable german transport fine reputation final days ticket machine issues service failures due engineering demonstrations mechanical breakdown allow sufficient time journey",
+      "Date": "2010-10-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Gasteiner Hof",
+    "HotelURL": "/ShowUserReviews-g187323-d567436-Reviews-Gasteiner_Hof-Berlin.html",
+    "Price": "$51 - $1,320*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Gasteinerstrasse 8</span>, <span class=\"locality\"><span property=\"v:postal-code\">10717</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "567436",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/f1/80/f1803d6f6e0192c3298279278c8595cb1large.jpg"
+  }
+}

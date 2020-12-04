@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Boston, Massachusetts", "Title": "\u201cBusiness traveler\u201d", "Author": "laura w", "ReviewID": "UR118931570", "Content": "days inn baltimore conveniently located city access reasons visiting week am frequent business traveler hotel kept nice clean size reception people encountered 3 accommodating cheerful helpful especially enjoyed pat humor professionalism highly recommend visiting university andor inner harbor stadiums", "Date": "2011-10-04 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Scranton, Pennsylvania", "Title": "\u201cAvoid at all costs!!\u201d", "Author": "angelbear425", "ReviewID": "UR102047289", "Content": "disgusting dirty hotel filthy hair stains makeup lipstick skin particles sheets pillow broken headboard hole wall sheets yellowed grey age sheets pillows yellow stains carpeting pulling wall bulletproof glass desk lobby shady characters hanging lobby smelled disgusting moth balls food hotel 30 minutes checked day refused refund didnt stay property instead opted drive 35 hours home", "Date": "2011-03-29 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Shepherdstown, West Virginia", "Title": "\u201cPerfect Location for business and pleasure\u201d", "Author": "chrispalank", "ReviewID": "UR85309682", "Content": "stayed profesional conference baltimore conference center street hotel service housekeeping schedule restaurant bar offered pub food font desk helpful justin front desk efficient customer oriented parking easy 20day hotel 1 block inner harbor block camden yards hidden gem", "Date": "2010-10-29 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 2.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "The World", "Title": "\u201cDrive on to the next hotel\u201d", "Author": "skygirl340", "ReviewID": "UR74299649", "Content": "stayed night flying baltimore late night passing stay hotel date funny smell top floor eventually struggled bags key didnt card recognised green door wouldnt literally push bodies door little uneasy emergency door wouldnt tired didnt bother doing look looked ok bathroom looked recently redone closer look bed sheets dirty hairs ours sheets towels disgusting breakfast expected special started day loads guest hotel car park empty night hardly guests wonder charging money usual tourist leaflets lobby ones date gone wouldnt stay plenty hotels im funny smell", "Date": "2010-08-08 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Boston, MA", "Title": "\u201cGreat value for the money, Not as Bad as other Ratings-Recent renovations helped a lot\u201d", "Author": "SeasonedTraveler87", "ReviewID": "UR59973300", "Content": "little skeptical staying reading reviews rates low stay close city suprised visited hotel isnt bad reviews bei check realized written 12 ago told hotel recently underwent renovation revamped clean comfortable didnt smoky smell dirty sheets pretty standard usual amenities fancy thats expected days inn stayed days inns definitely hotel probably nicer ones staff friendly helped navigate downtown baltimore overall satisfied stay service received definitely value considering low price quality accomodations", "Date": "2010-03-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "NEPA", "Title": "\u201cnice staff, nice rooms, hot waffles, good value, would stay again\u201d", "Author": "NEPAjtraveler", "ReviewID": "UR58776269", "Content": "maybe wrong hotel nicer expecting based reviews nice clean minifridge microwave coffee hairdryer comfortable beds bugs staff friendly accommodating continental breakfast wasnt super exciting usual items kids liked makeyourown waffles value half price hotel inner harbor drive 695 south 95 past camden yards downtown relatively fast morning rush hour dont 40 scary plenty fast food close hotel", "Date": "2010-03-17 00:00:00"}], "HotelInfo": {"Name": "Days Inn Baltimore", "HotelURL": "/ShowUserReviews-g60811-d89367-Reviews-Days_Inn_Baltimore-Baltimore_Maryland.html", "Price": "$62 - $89*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5701 Baltimore National Pike West Rte 40</span>, <span class=\"locality\"><span property=\"v:locality\">Baltimore</span>, <span property=\"v:region\">MD</span> <span property=\"v:postal-code\">21228</span></span> </span></span></address>", "HotelID": "89367", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/3d/f6/3df64263d8b53ed971795aff6f5081201large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Boston, Massachusetts",
+      "Title": "\u201cBusiness traveler\u201d",
+      "Author": "laura w",
+      "ReviewID": "UR118931570",
+      "Content": "days inn baltimore conveniently located city access reasons visiting week am frequent business traveler hotel kept nice clean size reception people encountered 3 accommodating cheerful helpful especially enjoyed pat humor professionalism highly recommend visiting university andor inner harbor stadiums",
+      "Date": "2011-10-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Scranton, Pennsylvania",
+      "Title": "\u201cAvoid at all costs!!\u201d",
+      "Author": "angelbear425",
+      "ReviewID": "UR102047289",
+      "Content": "disgusting dirty hotel filthy hair stains makeup lipstick skin particles sheets pillow broken headboard hole wall sheets yellowed grey age sheets pillows yellow stains carpeting pulling wall bulletproof glass desk lobby shady characters hanging lobby smelled disgusting moth balls food hotel 30 minutes checked day refused refund didnt stay property instead opted drive 35 hours home",
+      "Date": "2011-03-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Shepherdstown, West Virginia",
+      "Title": "\u201cPerfect Location for business and pleasure\u201d",
+      "Author": "chrispalank",
+      "ReviewID": "UR85309682",
+      "Content": "stayed profesional conference baltimore conference center street hotel service housekeeping schedule restaurant bar offered pub food font desk helpful justin front desk efficient customer oriented parking easy 20day hotel 1 block inner harbor block camden yards hidden gem",
+      "Date": "2010-10-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 2.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "The World",
+      "Title": "\u201cDrive on to the next hotel\u201d",
+      "Author": "skygirl340",
+      "ReviewID": "UR74299649",
+      "Content": "stayed night flying baltimore late night passing stay hotel date funny smell top floor eventually struggled bags key didnt card recognised green door wouldnt literally push bodies door little uneasy emergency door wouldnt tired didnt bother doing look looked ok bathroom looked recently redone closer look bed sheets dirty hairs ours sheets towels disgusting breakfast expected special started day loads guest hotel car park empty night hardly guests wonder charging money usual tourist leaflets lobby ones date gone wouldnt stay plenty hotels im funny smell",
+      "Date": "2010-08-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Boston, MA",
+      "Title": "\u201cGreat value for the money, Not as Bad as other Ratings-Recent renovations helped a lot\u201d",
+      "Author": "SeasonedTraveler87",
+      "ReviewID": "UR59973300",
+      "Content": "little skeptical staying reading reviews rates low stay close city suprised visited hotel isnt bad reviews bei check realized written 12 ago told hotel recently underwent renovation revamped clean comfortable didnt smoky smell dirty sheets pretty standard usual amenities fancy thats expected days inn stayed days inns definitely hotel probably nicer ones staff friendly helped navigate downtown baltimore overall satisfied stay service received definitely value considering low price quality accomodations",
+      "Date": "2010-03-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "NEPA",
+      "Title": "\u201cnice staff, nice rooms, hot waffles, good value, would stay again\u201d",
+      "Author": "NEPAjtraveler",
+      "ReviewID": "UR58776269",
+      "Content": "maybe wrong hotel nicer expecting based reviews nice clean minifridge microwave coffee hairdryer comfortable beds bugs staff friendly accommodating continental breakfast wasnt super exciting usual items kids liked makeyourown waffles value half price hotel inner harbor drive 695 south 95 past camden yards downtown relatively fast morning rush hour dont 40 scary plenty fast food close hotel",
+      "Date": "2010-03-17 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Days Inn Baltimore",
+    "HotelURL": "/ShowUserReviews-g60811-d89367-Reviews-Days_Inn_Baltimore-Baltimore_Maryland.html",
+    "Price": "$62 - $89*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5701 Baltimore National Pike West Rte 40</span>, <span class=\"locality\"><span property=\"v:locality\">Baltimore</span>, <span property=\"v:region\">MD</span> <span property=\"v:postal-code\">21228</span></span> </span></span></address>",
+    "HotelID": "89367",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/3d/f6/3df64263d8b53ed971795aff6f5081201large.jpg"
+  }
+}

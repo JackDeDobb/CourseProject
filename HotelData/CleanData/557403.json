@@ -1,1 +1,29 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Edinburgh, United Kingdom", "Title": "\u201cgood stay\u201d", "Author": "artsmurphy", "ReviewID": "UR118939715", "Content": "wife returned week friends berlin precise casa proved stay comfortable quiet facing leafy car park location kurfurstendam 10 minutes walk savignyplatz ideal relaxed break near bahns excellent restaurants staff friendly helpful", "Date": "2011-10-04 00:00:00"}], "HotelInfo": {"Name": "Precise Casa Hotel", "HotelURL": "/ShowUserReviews-g187323-d557403-Reviews-Precise_Casa_Hotel-Berlin.html", "Price": "$93 - $206*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Schlueterstrasse 40</span>, <span class=\"locality\"><span property=\"v:postal-code\">10707</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "557403", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/80/47/80472b2c67209b2b47ece41cc454662c7large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Edinburgh, United Kingdom",
+      "Title": "\u201cgood stay\u201d",
+      "Author": "artsmurphy",
+      "ReviewID": "UR118939715",
+      "Content": "wife returned week friends berlin precise casa proved stay comfortable quiet facing leafy car park location kurfurstendam 10 minutes walk savignyplatz ideal relaxed break near bahns excellent restaurants staff friendly helpful",
+      "Date": "2011-10-04 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Precise Casa Hotel",
+    "HotelURL": "/ShowUserReviews-g187323-d557403-Reviews-Precise_Casa_Hotel-Berlin.html",
+    "Price": "$93 - $206*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Schlueterstrasse 40</span>, <span class=\"locality\"><span property=\"v:postal-code\">10707</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "557403",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/80/47/80472b2c67209b2b47ece41cc454662c7large.jpg"
+  }
+}

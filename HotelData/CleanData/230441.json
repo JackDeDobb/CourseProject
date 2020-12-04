@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Estoril, Portugal", "Title": "\u201cExcellent value\u201d", "Author": "brucetupholme", "ReviewID": "UR124117747", "Content": "visited hotel 3 annual world money fair nearby convention center ideally located near alexanderplatz comfortable warm help safe clothing cupboards close apart fault excellent breakfast included rate free wifi look hotels business pleasant helpful staff", "Date": "2012-02-04 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "WV", "Title": "\u201cGood Value Hotel\u201d", "Author": "wvtravelman", "ReviewID": "UR121786727", "Content": "stayed rr trip europe jan 2010 able drop bags park garage street hotel clean easy buget breakfast top floor offers nice view surrounding food pleasant able walk walk short distace metro train station quickly city center hop onoff bus tour looking nice budget hotel oh drain bathroom floor reason dont floor dont wet towel floor wont fix", "Date": "2011-12-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Brasilia, DF", "Title": "\u201cGood hotel with a decent price\u201d", "Author": "rlro", "ReviewID": "UR119762328", "Content": "location excellent stones throw subway station walkable distance major attraction spacious comfortable breakfast free wifi internet cons hotel located intersection streets traffic noise considerable tv set outdated crt", "Date": "2011-10-26 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Netherlands", "Title": "\u201cDecent hotel next to a busy square\u201d", "Author": "badeendje", "ReviewID": "UR119318178", "Content": "hotel located corner busy streets means suffer lot traffic noise throughout night includes car horns sirens emergency services probably wake times slept ok busy day sightseeing ubahn stop corner convenient bothered noise guests doesn\u2019t restaurants bars map recommendations reception walking distance double bed chairs desk television luggage door store unpack suitcase airconditioning free wifi access 24hour access code reception desk don\u2019t access codes day stay checkin hotel advertised free coffee tea facilities requested soon arrival told delivered morningnot convenient stay day bathroom shower shower curtains insists clinging unfortunately meant short shower bathroom soaking wet sacrifice towels day toilet getting wet feet wash basin bathroom leaky actually didn\u2019t matter towels anyway shower wetness reflected tiles hand cleaning staff fine job clean day confined water mornings breakfast adequate special busy staff appear time actually notice guests service reception desk contrast friendly albeit bit cool reception features lounge public toilets luggage storage space services hotel free access fitness center road aware hotel allows smoking common request nonsmoking booking guaranteed hallways elevators tend smell wellused ashtrays summarize noisy location easy access ubahn service clean bathroom inconvenient wet breakfast adequate hotel facilities average", "Date": "2011-10-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 2.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Italia", "Title": "\u201cGreat Hotel\u201d", "Author": "CinziaItalia", "ReviewID": "UR106687685", "Content": "hotel maybe little nice staff clean wonderfull location ubahn buses airport breakfast value price sleep quality due traffic noise night undoubtedly return berlin modern positive ripe town", "Date": "2011-05-03 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Glasgow, United Kingdom", "Title": "\u201cGreat Location, Good Value\u201d", "Author": "marvellousmarvin", "ReviewID": "UR98076634", "Content": "stayed hear base explore berlin ubahn berlin doorstep airport bus goes hotel door handy immediate neighbourhood contains decent restaurants theres kebab shop road spick span lovely shower decent beds pillows bit soft tho satellite tv english news cleaned regularly staff polite unobtrusive allowing holiday breakfast buffet top floor nice view city range nicely id definitely exactly characterful clean comfy value", "Date": "2011-02-26 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "istanbul", "Title": "\u201cstandart best western quality\u201d", "Author": "ozzyUA", "ReviewID": "UR64802576", "Content": "stayed expensive cup match fc clean breakfast ok location close ubahn german metro reach shop eat staff polite helpful", "Date": "2010-05-20 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Melbourne", "Title": "\u201cGood Value for money\u201d", "Author": "Helmy7", "ReviewID": "UR59386811", "Content": "travelling hotels trying limit money spent hotel suited perfectly bus airport dropped practically doorstep train line outside easy connect hotel nice paid complaints", "Date": "2010-03-23 00:00:00"}], "HotelInfo": {"Name": "BEST WESTERN Euro-Hotel Berlin", "HotelURL": "/ShowUserReviews-g187323-d230441-Reviews-BEST_WESTERN_Euro_Hotel_Berlin-Berlin.html", "Price": "$70 - $139*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Sonnenallee 6</span>, <span class=\"locality\"><span property=\"v:postal-code\">12047</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "230441", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a8/02/a8026344b6084805cdba55ff448b48ef1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Estoril, Portugal",
+      "Title": "\u201cExcellent value\u201d",
+      "Author": "brucetupholme",
+      "ReviewID": "UR124117747",
+      "Content": "visited hotel 3 annual world money fair nearby convention center ideally located near alexanderplatz comfortable warm help safe clothing cupboards close apart fault excellent breakfast included rate free wifi look hotels business pleasant helpful staff",
+      "Date": "2012-02-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "WV",
+      "Title": "\u201cGood Value Hotel\u201d",
+      "Author": "wvtravelman",
+      "ReviewID": "UR121786727",
+      "Content": "stayed rr trip europe jan 2010 able drop bags park garage street hotel clean easy buget breakfast top floor offers nice view surrounding food pleasant able walk walk short distace metro train station quickly city center hop onoff bus tour looking nice budget hotel oh drain bathroom floor reason dont floor dont wet towel floor wont fix",
+      "Date": "2011-12-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Brasilia, DF",
+      "Title": "\u201cGood hotel with a decent price\u201d",
+      "Author": "rlro",
+      "ReviewID": "UR119762328",
+      "Content": "location excellent stones throw subway station walkable distance major attraction spacious comfortable breakfast free wifi internet cons hotel located intersection streets traffic noise considerable tv set outdated crt",
+      "Date": "2011-10-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Netherlands",
+      "Title": "\u201cDecent hotel next to a busy square\u201d",
+      "Author": "badeendje",
+      "ReviewID": "UR119318178",
+      "Content": "hotel located corner busy streets means suffer lot traffic noise throughout night includes car horns sirens emergency services probably wake times slept ok busy day sightseeing ubahn stop corner convenient bothered noise guests doesn\u2019t restaurants bars map recommendations reception walking distance double bed chairs desk television luggage door store unpack suitcase airconditioning free wifi access 24hour access code reception desk don\u2019t access codes day stay checkin hotel advertised free coffee tea facilities requested soon arrival told delivered morningnot convenient stay day bathroom shower shower curtains insists clinging unfortunately meant short shower bathroom soaking wet sacrifice towels day toilet getting wet feet wash basin bathroom leaky actually didn\u2019t matter towels anyway shower wetness reflected tiles hand cleaning staff fine job clean day confined water mornings breakfast adequate special busy staff appear time actually notice guests service reception desk contrast friendly albeit bit cool reception features lounge public toilets luggage storage space services hotel free access fitness center road aware hotel allows smoking common request nonsmoking booking guaranteed hallways elevators tend smell wellused ashtrays summarize noisy location easy access ubahn service clean bathroom inconvenient wet breakfast adequate hotel facilities average",
+      "Date": "2011-10-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Italia",
+      "Title": "\u201cGreat Hotel\u201d",
+      "Author": "CinziaItalia",
+      "ReviewID": "UR106687685",
+      "Content": "hotel maybe little nice staff clean wonderfull location ubahn buses airport breakfast value price sleep quality due traffic noise night undoubtedly return berlin modern positive ripe town",
+      "Date": "2011-05-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Glasgow, United Kingdom",
+      "Title": "\u201cGreat Location, Good Value\u201d",
+      "Author": "marvellousmarvin",
+      "ReviewID": "UR98076634",
+      "Content": "stayed hear base explore berlin ubahn berlin doorstep airport bus goes hotel door handy immediate neighbourhood contains decent restaurants theres kebab shop road spick span lovely shower decent beds pillows bit soft tho satellite tv english news cleaned regularly staff polite unobtrusive allowing holiday breakfast buffet top floor nice view city range nicely id definitely exactly characterful clean comfy value",
+      "Date": "2011-02-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "istanbul",
+      "Title": "\u201cstandart best western quality\u201d",
+      "Author": "ozzyUA",
+      "ReviewID": "UR64802576",
+      "Content": "stayed expensive cup match fc clean breakfast ok location close ubahn german metro reach shop eat staff polite helpful",
+      "Date": "2010-05-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Melbourne",
+      "Title": "\u201cGood Value for money\u201d",
+      "Author": "Helmy7",
+      "ReviewID": "UR59386811",
+      "Content": "travelling hotels trying limit money spent hotel suited perfectly bus airport dropped practically doorstep train line outside easy connect hotel nice paid complaints",
+      "Date": "2010-03-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "BEST WESTERN Euro-Hotel Berlin",
+    "HotelURL": "/ShowUserReviews-g187323-d230441-Reviews-BEST_WESTERN_Euro_Hotel_Berlin-Berlin.html",
+    "Price": "$70 - $139*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Sonnenallee 6</span>, <span class=\"locality\"><span property=\"v:postal-code\">12047</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "230441",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/a8/02/a8026344b6084805cdba55ff448b48ef1large.jpg"
+  }
+}

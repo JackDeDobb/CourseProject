@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 2.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Virginia Beach, Virginia", "Title": "\u201cJust passing through worth the money\u201d", "Author": "cdoublee", "ReviewID": "UR109370408", "Content": "boyfriend packing decided stay hotel overall hotel owner friendly helpful hotel provided breakfast tours booked tried food provided clean sheets towels daily clean bugs hotel cute town easily accessed train bus friends stayed hilton street paying 3x amount money breakfast included youre staying merely lay head shower suggest stay fancy hotel prepared pay lot", "Date": "2011-05-22 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "england", "Title": "\u201cSHUT IT DOWN NOW!!!\u201d", "Author": "tracieEngland", "ReviewID": "UR68463592", "Content": "arriving london hours tired desperate sleep found disgusting hotel greeted strange freindly lady believe stunk stairs carpet filthy thick dust taped health safety stairs worse dingey rotten kim ball hotel honest twilight zone scary shutting dont hotel inspectors", "Date": "2010-06-23 00:00:00"}], "HotelInfo": {"Name": "Andrews House Hotel", "HotelURL": "/ShowUserReviews-g186338-d569839-Reviews-Andrews_House_Hotel-London_England.html", "Price": "$134 - $397*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">12 Westbourne Street</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">W2 2TZ</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>", "HotelID": "2514286", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/1d/71/andrews-house-hotel-thumbnail.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Virginia Beach, Virginia",
+      "Title": "\u201cJust passing through worth the money\u201d",
+      "Author": "cdoublee",
+      "ReviewID": "UR109370408",
+      "Content": "boyfriend packing decided stay hotel overall hotel owner friendly helpful hotel provided breakfast tours booked tried food provided clean sheets towels daily clean bugs hotel cute town easily accessed train bus friends stayed hilton street paying 3x amount money breakfast included youre staying merely lay head shower suggest stay fancy hotel prepared pay lot",
+      "Date": "2011-05-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "england",
+      "Title": "\u201cSHUT IT DOWN NOW!!!\u201d",
+      "Author": "tracieEngland",
+      "ReviewID": "UR68463592",
+      "Content": "arriving london hours tired desperate sleep found disgusting hotel greeted strange freindly lady believe stunk stairs carpet filthy thick dust taped health safety stairs worse dingey rotten kim ball hotel honest twilight zone scary shutting dont hotel inspectors",
+      "Date": "2010-06-23 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Andrews House Hotel",
+    "HotelURL": "/ShowUserReviews-g186338-d569839-Reviews-Andrews_House_Hotel-London_England.html",
+    "Price": "$134 - $397*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">12 Westbourne Street</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">W2 2TZ</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>",
+    "HotelID": "2514286",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-o/01/c0/1d/71/andrews-house-hotel-thumbnail.jpg"
+  }
+}

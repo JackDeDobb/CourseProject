@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Toronto", "Title": "\u201cNightmare in Mexico City\u201d", "Author": "Juan R", "ReviewID": "UR120429554", "Content": "arrived hotel bad day earlier missed connecting flight hours finally arrived hotel reservation guaranteed credit card lady desk told available booking canceled credit card declined course sufficient funds credit card staff told absolutely available check hotels kindly phone started calling hotels near airport catching plane morning surprise available 30 minutes im kidding found hotel near airport choice head completely ripped hotel paid ridiculous amount money hotel cares booking people caring course caused holiday inn world trade center yes staff tried help hotel cost rest assured hotel spread word colleagues totally disrespected lack ethic avoid", "Date": "2011-11-10 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 1.0, "Location": 4.0}, "AuthorLocation": "Belize", "Title": "\u201cPlenty of choices in the city, this should not be one of them\u201d", "Author": "Vanilla_Custard", "ReviewID": "UR118849282", "Content": "mexico city pleasant surprise people gentle roads despite gloomy traffic queues reasonable lot dont miss trip basilica visit city holiday inn bed comfortable progressed hotel lacks intelligent management form simple maintenance issues ordinarily overlooked tolerated stay progressed matters simply compounded overall stay 105 broken ironing board 2 days broken hot water reported morning cold 8 pm 9 pm shower bath tap broken bath filled using shower internet access despite claims internet existent forced sit bar night mails digital clock set correct 5 days leaking basin drain caused soaking wet stupidly sink expecting leaky pipes lobby stripped furniture returned hotel friday evening stayed left monday ropes yellow tape adorned lobby hundreds people filled lobby entire weekend events sort guests left feeling class activities doing event sit despite negative comments staff pleasant especially bar pleasant elderly gentleman care house taxis mauricio sporty blue car driving skills excellent entire stay safe courteous streets inside front colleague town city comfortable leaving capable company ate night expect bar food varied greatly brilliant decent cafe meal pasta carbonara night mountain night gone breakfast 20 expensive sandwiches little cafe door breakfast day breakfast starbucks santa fe attending event exhibition centre night failed bar suspect crowds house event road steak house cant remember name directly hotel entrance meat simply mouth watering 70 night manager complaint various issues reflect discount sort related fairness guest service manager wrote time reached home reply story pretty sum total experience hotel imagine week day hotel tolerable weekends events alluded staff pretty time colleague 104 experience challenges except lack internet frustrating loved city people choose hotel returning travel", "Date": "2011-10-02 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Mandeville, Louisiana", "Title": "\u201cGreat location at a very good price\u201d", "Author": "lglezqui", "ReviewID": "UR97749669", "Content": "pleased staying holiday inn trade center overall surprisingly service clean comfortable unbeatable location reason dont 5 improve food quality restaurant choices outside hotel", "Date": "2011-02-23 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Oberasbach, Germany", "Title": "\u201cBetter than expected\u201d", "Author": "Mondschein1808972", "ReviewID": "UR95320160", "Content": "reading bad reviews bad feeling staying positively surprised staff polite helpful clean comfortable food ok excellent experienced telephone system", "Date": "2011-02-02 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Pittsburgh, Pennsylvania", "Title": "\u201cTypical mid range Mexico Hotel\u201d", "Author": "roycharles", "ReviewID": "UR85161767", "Content": "stayed holiday inn six nights october 10 attending trade world trade center hotels wtc sold property 10 minute drive wtc run complimentary shuttle times daily cab ride costs fares vary lot zone fares mexico city instead metered idea establish fare prior ride found hotel oki booked executive reasonable rate property feels safe fairly run mexican fashion bit disorganized times service prompt friendly internet connection apartment spacious clean repair bathroom fairly promptly competently liked location hotel revolution avenue adjacent nice residential neighborhood san pedro de las features leafy streets nice flats safe locals walking calmly plenty stores banks atms shoe shine stands stores etc pair shoes shined 5 aggregate tipped generously location congestion bustle trade center quieter relaxed staffs english oki am fairly competent spanish easily shift spanish clarify restaurant adequatethe service eager food mediocre ill word adequate complimentary executive lounge sixth floor featured self serve continental breakfast snacks throughout day evening grateful property proximate wtc holiday inn rates extremely reasonable hotel met couple women concierges actual concierge training helpful assisting organize activities free day trade mexico city planning hit highlights meet personal tastes hotel palace neither rates palace pay fine", "Date": "2010-10-28 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Seattle, Washington", "Title": "\u201cfailed to serve\u201d", "Author": "mariajohnson11", "ReviewID": "UR64861385", "Content": "phone didnt complaints slow respond questions issues overpriced restaurant ok food served times internet didnt promised sink leaked loud music halls lobby tvs times restaurant", "Date": "2010-05-20 00:00:00"}], "HotelInfo": {"Name": "Holiday Inn Ciudad de Mexico Trade Center", "HotelURL": "/ShowUserReviews-g150800-d185404-Reviews-Holiday_Inn_Ciudad_de_Mexico_Trade_Center-Mexico_City_Central_Mexico_and_Gulf_Coast.html", "Price": "$97 - $124*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Av. Revolucion 583</span> | <span class=\"extended-address\">Col. San Pedro de los Pinos. Deleg. Benito Juarez</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">03800</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>", "HotelID": "185404", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/25/6b/e1/fachada.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Toronto",
+      "Title": "\u201cNightmare in Mexico City\u201d",
+      "Author": "Juan R",
+      "ReviewID": "UR120429554",
+      "Content": "arrived hotel bad day earlier missed connecting flight hours finally arrived hotel reservation guaranteed credit card lady desk told available booking canceled credit card declined course sufficient funds credit card staff told absolutely available check hotels kindly phone started calling hotels near airport catching plane morning surprise available 30 minutes im kidding found hotel near airport choice head completely ripped hotel paid ridiculous amount money hotel cares booking people caring course caused holiday inn world trade center yes staff tried help hotel cost rest assured hotel spread word colleagues totally disrespected lack ethic avoid",
+      "Date": "2011-11-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 1.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Belize",
+      "Title": "\u201cPlenty of choices in the city, this should not be one of them\u201d",
+      "Author": "Vanilla_Custard",
+      "ReviewID": "UR118849282",
+      "Content": "mexico city pleasant surprise people gentle roads despite gloomy traffic queues reasonable lot dont miss trip basilica visit city holiday inn bed comfortable progressed hotel lacks intelligent management form simple maintenance issues ordinarily overlooked tolerated stay progressed matters simply compounded overall stay 105 broken ironing board 2 days broken hot water reported morning cold 8 pm 9 pm shower bath tap broken bath filled using shower internet access despite claims internet existent forced sit bar night mails digital clock set correct 5 days leaking basin drain caused soaking wet stupidly sink expecting leaky pipes lobby stripped furniture returned hotel friday evening stayed left monday ropes yellow tape adorned lobby hundreds people filled lobby entire weekend events sort guests left feeling class activities doing event sit despite negative comments staff pleasant especially bar pleasant elderly gentleman care house taxis mauricio sporty blue car driving skills excellent entire stay safe courteous streets inside front colleague town city comfortable leaving capable company ate night expect bar food varied greatly brilliant decent cafe meal pasta carbonara night mountain night gone breakfast 20 expensive sandwiches little cafe door breakfast day breakfast starbucks santa fe attending event exhibition centre night failed bar suspect crowds house event road steak house cant remember name directly hotel entrance meat simply mouth watering 70 night manager complaint various issues reflect discount sort related fairness guest service manager wrote time reached home reply story pretty sum total experience hotel imagine week day hotel tolerable weekends events alluded staff pretty time colleague 104 experience challenges except lack internet frustrating loved city people choose hotel returning travel",
+      "Date": "2011-10-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Mandeville, Louisiana",
+      "Title": "\u201cGreat location at a very good price\u201d",
+      "Author": "lglezqui",
+      "ReviewID": "UR97749669",
+      "Content": "pleased staying holiday inn trade center overall surprisingly service clean comfortable unbeatable location reason dont 5 improve food quality restaurant choices outside hotel",
+      "Date": "2011-02-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Oberasbach, Germany",
+      "Title": "\u201cBetter than expected\u201d",
+      "Author": "Mondschein1808972",
+      "ReviewID": "UR95320160",
+      "Content": "reading bad reviews bad feeling staying positively surprised staff polite helpful clean comfortable food ok excellent experienced telephone system",
+      "Date": "2011-02-02 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Pittsburgh, Pennsylvania",
+      "Title": "\u201cTypical mid range Mexico Hotel\u201d",
+      "Author": "roycharles",
+      "ReviewID": "UR85161767",
+      "Content": "stayed holiday inn six nights october 10 attending trade world trade center hotels wtc sold property 10 minute drive wtc run complimentary shuttle times daily cab ride costs fares vary lot zone fares mexico city instead metered idea establish fare prior ride found hotel oki booked executive reasonable rate property feels safe fairly run mexican fashion bit disorganized times service prompt friendly internet connection apartment spacious clean repair bathroom fairly promptly competently liked location hotel revolution avenue adjacent nice residential neighborhood san pedro de las features leafy streets nice flats safe locals walking calmly plenty stores banks atms shoe shine stands stores etc pair shoes shined 5 aggregate tipped generously location congestion bustle trade center quieter relaxed staffs english oki am fairly competent spanish easily shift spanish clarify restaurant adequatethe service eager food mediocre ill word adequate complimentary executive lounge sixth floor featured self serve continental breakfast snacks throughout day evening grateful property proximate wtc holiday inn rates extremely reasonable hotel met couple women concierges actual concierge training helpful assisting organize activities free day trade mexico city planning hit highlights meet personal tastes hotel palace neither rates palace pay fine",
+      "Date": "2010-10-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Seattle, Washington",
+      "Title": "\u201cfailed to serve\u201d",
+      "Author": "mariajohnson11",
+      "ReviewID": "UR64861385",
+      "Content": "phone didnt complaints slow respond questions issues overpriced restaurant ok food served times internet didnt promised sink leaked loud music halls lobby tvs times restaurant",
+      "Date": "2010-05-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Holiday Inn Ciudad de Mexico Trade Center",
+    "HotelURL": "/ShowUserReviews-g150800-d185404-Reviews-Holiday_Inn_Ciudad_de_Mexico_Trade_Center-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+    "Price": "$97 - $124*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Av. Revolucion 583</span> | <span class=\"extended-address\">Col. San Pedro de los Pinos. Deleg. Benito Juarez</span>, <span class=\"locality\"><span property=\"v:locality\">Mexico City</span> <span property=\"v:postal-code\">03800</span></span>, <span class=\"country-name\" property=\"v:country-name\">Mexico</span> </span> </span> </address>",
+    "HotelID": "185404",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/25/6b/e1/fachada.jpg"
+  }
+}

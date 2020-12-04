@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "College Park, Georgia", "Title": "\u201cBirthday getaway\u201d", "Author": "katherine b", "ReviewID": "UR133613998", "Content": "husband found cozy little suite searching net route daytona beach favorite spot nation prayed god guide stay weekend delight daytona shores inn suites newly remodeled spacious clean welcoming staff pleasnt ready assist whatever strongly recommend spot beautiful daytona experience", "Date": "2012-07-06 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Ocklawaha, Florida", "Title": "\u201cLovely Surprise for Daytona Beach !!\u201d", "Author": "Robert R", "ReviewID": "UR133481822", "Content": "hubby retired days checking motels beach worried inland stopped glad richard check wonderful newly renovated decorated nice amenities home richard told check pool directly beach ok tell pool ready weeks cozy quiet inn favorite bud pat", "Date": "2012-07-05 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "West Carrollton, Ohio", "Title": "\u201cDaytona Shores great location\u201d", "Author": "Chel69", "ReviewID": "UR132854255", "Content": "owners nice eager please experience hotel picture shown hotel table outside pool remodeled concern beach close hotels pools location beach access security cameras nice comfortable mattresses bathrooms time plan spend reasonably priced clean bugs spiders nice little kitchen internet access", "Date": "2012-06-26 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Sanford, Florida", "Title": "\u201cGreat Spot - Hidden Gem\u201d", "Author": "Gregg D", "ReviewID": "UR129552040", "Content": "pulled midnight daytona beach booked met 2 owners compassion bs allowed check 4 little extra cash clean cute simple flashy outdated reasonable beach front stay price compared else incredible told owner raise price events town weekend provide value pool remolded awesome stay friendly owners shot ill", "Date": "2012-05-07 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "niagara falls", "Title": "\u201cgreat spot great time\u201d", "Author": "Jeff D", "ReviewID": "UR127981823", "Content": "canada spent 2 days vacation daytona shores ok renovations clean owners kim richard couldnt nicer owners 5 months doing improve anytime cant wait renovations people bad review shame mistakes happen people credit credit due thanks kim richard hospitality soon jeff tony fom canada", "Date": "2012-04-16 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Lincoln Park", "Title": "\u201cWONDERFUL AND RELAXING\u201d", "Author": "Anita M", "ReviewID": "UR127627385", "Content": "happened chance vacation clean owners friendly finished remodeling probably wont able afford stay location jewel plans individual patios bonus bus stop 1 block north vehicle access entire city bus system dont progress stop staying beach loved thanks vacation", "Date": "2012-04-10 00:00:00"}], "HotelInfo": {"Name": "Daytona Shores Inn and Suites", "HotelURL": "/ShowUserReviews-g34172-d1648030-Reviews-Daytona_Shores_Inn_and_Suites-Daytona_Beach_Florida.html", "Price": "$80*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3221 S Atlantic Ave</span>, <span class=\"locality\"><span property=\"v:locality\">Daytona Beach</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">32118</span></span> </span></span></address>", "HotelID": "1648030", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/82/b4/56/daytona-shores-inn-and.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "College Park, Georgia",
+      "Title": "\u201cBirthday getaway\u201d",
+      "Author": "katherine b",
+      "ReviewID": "UR133613998",
+      "Content": "husband found cozy little suite searching net route daytona beach favorite spot nation prayed god guide stay weekend delight daytona shores inn suites newly remodeled spacious clean welcoming staff pleasnt ready assist whatever strongly recommend spot beautiful daytona experience",
+      "Date": "2012-07-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Ocklawaha, Florida",
+      "Title": "\u201cLovely Surprise for Daytona Beach !!\u201d",
+      "Author": "Robert R",
+      "ReviewID": "UR133481822",
+      "Content": "hubby retired days checking motels beach worried inland stopped glad richard check wonderful newly renovated decorated nice amenities home richard told check pool directly beach ok tell pool ready weeks cozy quiet inn favorite bud pat",
+      "Date": "2012-07-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "West Carrollton, Ohio",
+      "Title": "\u201cDaytona Shores great location\u201d",
+      "Author": "Chel69",
+      "ReviewID": "UR132854255",
+      "Content": "owners nice eager please experience hotel picture shown hotel table outside pool remodeled concern beach close hotels pools location beach access security cameras nice comfortable mattresses bathrooms time plan spend reasonably priced clean bugs spiders nice little kitchen internet access",
+      "Date": "2012-06-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Sanford, Florida",
+      "Title": "\u201cGreat Spot - Hidden Gem\u201d",
+      "Author": "Gregg D",
+      "ReviewID": "UR129552040",
+      "Content": "pulled midnight daytona beach booked met 2 owners compassion bs allowed check 4 little extra cash clean cute simple flashy outdated reasonable beach front stay price compared else incredible told owner raise price events town weekend provide value pool remolded awesome stay friendly owners shot ill",
+      "Date": "2012-05-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "niagara falls",
+      "Title": "\u201cgreat spot great time\u201d",
+      "Author": "Jeff D",
+      "ReviewID": "UR127981823",
+      "Content": "canada spent 2 days vacation daytona shores ok renovations clean owners kim richard couldnt nicer owners 5 months doing improve anytime cant wait renovations people bad review shame mistakes happen people credit credit due thanks kim richard hospitality soon jeff tony fom canada",
+      "Date": "2012-04-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Lincoln Park",
+      "Title": "\u201cWONDERFUL AND RELAXING\u201d",
+      "Author": "Anita M",
+      "ReviewID": "UR127627385",
+      "Content": "happened chance vacation clean owners friendly finished remodeling probably wont able afford stay location jewel plans individual patios bonus bus stop 1 block north vehicle access entire city bus system dont progress stop staying beach loved thanks vacation",
+      "Date": "2012-04-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Daytona Shores Inn and Suites",
+    "HotelURL": "/ShowUserReviews-g34172-d1648030-Reviews-Daytona_Shores_Inn_and_Suites-Daytona_Beach_Florida.html",
+    "Price": "$80*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3221 S Atlantic Ave</span>, <span class=\"locality\"><span property=\"v:locality\">Daytona Beach</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">32118</span></span> </span></span></address>",
+    "HotelID": "1648030",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/82/b4/56/daytona-shores-inn-and.jpg"
+  }
+}

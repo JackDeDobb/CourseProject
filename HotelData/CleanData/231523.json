@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Limassol", "Title": "\u201cTiny rooms but good place all round\u201d", "Author": "Matthew S Posted by an Easytobook.com traveler", "ReviewID": "UR125916733", "Content": "dont mind tiny mine 7 square metres stay barcelona requested balcony hadnt couldnt stayed shower ive seen inside couldnt left location excellent walk visit neighbourhood plenty bars restaurants shops cleaning staff tell bother day didnt disturbed rest staff helpful breakfast 580 probably deal whats available neighbourhood probably larger mine receptionist basically youre spending day hotel maybe isnt", "Date": "2012-03-10 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 5.0}, "AuthorLocation": "Dubai", "Title": "\u201cGood value for money\u201d", "Author": "TareqHaji", "ReviewID": "UR125874741", "Content": "stayed hotel mwc event 2012 time exhibitions visitors barcelona requiring accommodation lead natural inflation hotel rates twostar hotel charged night personally pay wasnt business trip pros found hotel location excellent close metro station line l2 l3 stops fira espanya metro station clean spacious twin bedroom told colleague contrast single bedroom ridiculously walking distance ramblas popular tourist spot window street relatively quiet slept shower strong water pressure hot water cons tv screen 21 lcd suspended ceiling spanish channels available watched tv virtually sound isolation hear word neighbors saying sneeze toilet flush etc toilet clean sink tiny sit angle doing business bathtub pic", "Date": "2012-03-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "New York, US", "Title": "\u201cGreat value for the money.\u201d", "Author": "xenagurl", "ReviewID": "UR125680313", "Content": "nice little hotel centrally located getting easy 20 minutes airport 10 minutes port hotel pre post cruise stays taxi 15 euro port includes entrance exit fee wifi connection front desk staff helpful friendly free access nearby offsite gym didnt safe 20 minute walk las ramblas near stop hoho buses tad noisy neighbors late elevator bit slow im safes functional mine wasnt complain booking future trip theres nice little street pick water bottles cruise choose", "Date": "2012-03-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Hampshire", "Title": "\u201cExcellent value, well-located hotel in expensive Barcelona\u201d", "Author": "Fifi_banana", "ReviewID": "UR125122520", "Content": "found hotel chance amazed price past experience hotels expensive barcelona single bathroom compact adequate clean friendly helpful staff free wifi close metro parallel minutes walk la rambla waterfront noisy plumbing reviews noise reduced closing bathroom door night", "Date": "2012-02-24 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Memphis, Tennessee", "Title": "\u201cNice Hotel, Super Clean, Great Staff\u201d", "Author": "worldpacer", "ReviewID": "UR121835770", "Content": "checkin ready bcn 8am hotel clean staff friendly speak english tolerated spanish metro stop parallel short walk 10 minute walk la ramble barrio gotico gladly stay value", "Date": "2011-12-17 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "ireland", "Title": "\u201cNice Cheap Hotel in Quiet Location\u201d", "Author": "lon1971", "ReviewID": "UR100123313", "Content": "stayed competing barcelona marathon hotel easy locate nice quiet location 2 minutes walk metro bus stop 15 mins walk ramblas marina etc staff friendly excellent english single compact bed comfi shower hotel slow staying 5th floor quicker walk stairs advice id circumstances pay breakfast basically existant cost 8 euro day booked hotel travel company theres supermarket directly road couple coffee shops nearby overall found excellent stay reasonably priced", "Date": "2011-03-14 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Delhi, India", "Title": "\u201cDecently priced, good location\u201d", "Author": "Fluorescence", "ReviewID": "UR87112730", "Content": "stayed 3 nights september 2010 single 5th floor 1 minute walk parallel metro station catch metro city walk 10 mins easy bus access beach easy access parc je olimpic via funicular parallel station neat clean 24 hr hot water shower bathtub bad elevator slowest ahve seen takes 5 minutes 5 floors dont buy water machine hotel expensive paid 55 euros night booked week coming", "Date": "2010-11-15 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Montego Bay, Jamaica", "Title": "\u201cYOU COULD A LOT WORST THAN THIS PLACE\u201d", "Author": "MrRobert1446", "ReviewID": "UR82504015", "Content": "quiete location plenty restuarants la rambla quiete cleaners start value breakfast included price fi extra 6 euros bit content overall location etci recommend", "Date": "2010-10-07 00:00:00"}], "HotelInfo": {"Name": "Hotel Nuevo Triunfo", "HotelURL": "/ShowUserReviews-g187497-d231523-Reviews-Hotel_Nuevo_Triunfo-Barcelona_Catalonia.html", "Price": "$80 - $191*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/ Cabanes 34</span>, <span class=\"locality\"><span property=\"v:postal-code\">08004</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "231523", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/83/aa/83aa1d6d67c3b26f8f3739e4a171c49d6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Limassol",
+      "Title": "\u201cTiny rooms but good place all round\u201d",
+      "Author": "Matthew S Posted by an Easytobook.com traveler",
+      "ReviewID": "UR125916733",
+      "Content": "dont mind tiny mine 7 square metres stay barcelona requested balcony hadnt couldnt stayed shower ive seen inside couldnt left location excellent walk visit neighbourhood plenty bars restaurants shops cleaning staff tell bother day didnt disturbed rest staff helpful breakfast 580 probably deal whats available neighbourhood probably larger mine receptionist basically youre spending day hotel maybe isnt",
+      "Date": "2012-03-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Dubai",
+      "Title": "\u201cGood value for money\u201d",
+      "Author": "TareqHaji",
+      "ReviewID": "UR125874741",
+      "Content": "stayed hotel mwc event 2012 time exhibitions visitors barcelona requiring accommodation lead natural inflation hotel rates twostar hotel charged night personally pay wasnt business trip pros found hotel location excellent close metro station line l2 l3 stops fira espanya metro station clean spacious twin bedroom told colleague contrast single bedroom ridiculously walking distance ramblas popular tourist spot window street relatively quiet slept shower strong water pressure hot water cons tv screen 21 lcd suspended ceiling spanish channels available watched tv virtually sound isolation hear word neighbors saying sneeze toilet flush etc toilet clean sink tiny sit angle doing business bathtub pic",
+      "Date": "2012-03-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "New York, US",
+      "Title": "\u201cGreat value for the money.\u201d",
+      "Author": "xenagurl",
+      "ReviewID": "UR125680313",
+      "Content": "nice little hotel centrally located getting easy 20 minutes airport 10 minutes port hotel pre post cruise stays taxi 15 euro port includes entrance exit fee wifi connection front desk staff helpful friendly free access nearby offsite gym didnt safe 20 minute walk las ramblas near stop hoho buses tad noisy neighbors late elevator bit slow im safes functional mine wasnt complain booking future trip theres nice little street pick water bottles cruise choose",
+      "Date": "2012-03-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Hampshire",
+      "Title": "\u201cExcellent value, well-located hotel in expensive Barcelona\u201d",
+      "Author": "Fifi_banana",
+      "ReviewID": "UR125122520",
+      "Content": "found hotel chance amazed price past experience hotels expensive barcelona single bathroom compact adequate clean friendly helpful staff free wifi close metro parallel minutes walk la rambla waterfront noisy plumbing reviews noise reduced closing bathroom door night",
+      "Date": "2012-02-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Memphis, Tennessee",
+      "Title": "\u201cNice Hotel, Super Clean, Great Staff\u201d",
+      "Author": "worldpacer",
+      "ReviewID": "UR121835770",
+      "Content": "checkin ready bcn 8am hotel clean staff friendly speak english tolerated spanish metro stop parallel short walk 10 minute walk la ramble barrio gotico gladly stay value",
+      "Date": "2011-12-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "ireland",
+      "Title": "\u201cNice Cheap Hotel in Quiet Location\u201d",
+      "Author": "lon1971",
+      "ReviewID": "UR100123313",
+      "Content": "stayed competing barcelona marathon hotel easy locate nice quiet location 2 minutes walk metro bus stop 15 mins walk ramblas marina etc staff friendly excellent english single compact bed comfi shower hotel slow staying 5th floor quicker walk stairs advice id circumstances pay breakfast basically existant cost 8 euro day booked hotel travel company theres supermarket directly road couple coffee shops nearby overall found excellent stay reasonably priced",
+      "Date": "2011-03-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Delhi, India",
+      "Title": "\u201cDecently priced, good location\u201d",
+      "Author": "Fluorescence",
+      "ReviewID": "UR87112730",
+      "Content": "stayed 3 nights september 2010 single 5th floor 1 minute walk parallel metro station catch metro city walk 10 mins easy bus access beach easy access parc je olimpic via funicular parallel station neat clean 24 hr hot water shower bathtub bad elevator slowest ahve seen takes 5 minutes 5 floors dont buy water machine hotel expensive paid 55 euros night booked week coming",
+      "Date": "2010-11-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Montego Bay, Jamaica",
+      "Title": "\u201cYOU COULD A LOT WORST THAN THIS PLACE\u201d",
+      "Author": "MrRobert1446",
+      "ReviewID": "UR82504015",
+      "Content": "quiete location plenty restuarants la rambla quiete cleaners start value breakfast included price fi extra 6 euros bit content overall location etci recommend",
+      "Date": "2010-10-07 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Nuevo Triunfo",
+    "HotelURL": "/ShowUserReviews-g187497-d231523-Reviews-Hotel_Nuevo_Triunfo-Barcelona_Catalonia.html",
+    "Price": "$80 - $191*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">C/ Cabanes 34</span>, <span class=\"locality\"><span property=\"v:postal-code\">08004</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "231523",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/83/aa/83aa1d6d67c3b26f8f3739e4a171c49d6large.jpg"
+  }
+}

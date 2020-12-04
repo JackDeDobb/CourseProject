@@ -1,1 +1,63 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Surrey, UK", "Title": "\u201cStylish hotel, excellent location...but with a few imperfections\u201d", "Author": "Mundii", "ReviewID": "UR123756195", "Content": "hotel colonial midsize hotel near gothic quarter close eateries attractions inside styled modern clean condition balcony decent views narrow didnt feel overly spacious bathroom nicely soap shampoo hidden wifi pain reception code cant provide phone costs hour breakfast decent spoiled setup lady messy trolley noisily collecting finished plates simultaneously checking guess costs reasonably priced hotel stay", "Date": "2012-01-28 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Paphos, Cyprus", "Title": "\u201cGreat hotel at a perfect location!\u201d", "Author": "Kat_Cy_Gr", "ReviewID": "UR109982033", "Content": "stayed 4 days completely satisfied clean spacious nice bathroom eventhough located busy street soundproofed werent disturbed excellent location walking distance port restaurants hotel found taxis whenever staff helpful breakfast served underground wasnt rich", "Date": "2011-05-26 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Victoria, Canada", "Title": "\u201cThis hotel has some good and bad and really bad points. Overall, not a four star by any means.\u201d", "Author": "ConscientiousTourist", "ReviewID": "UR73611852", "Content": "hotel spent money fixtures public look nice cool bathroom fixtures rainshower etc bedroom furnished nicely location central beach underground trains gotic quarter \u2013 enjoyed housekeeping staff friendly whenever towels items service poor hotel disorganized friendly staff front desk inquiries met \u201cno \u201ci don\u2019t passing front desk occasions overhead desk agents type altercation guests phone air conditioning controlled customer \u2013 preset found cold times windows comfortable pillows hard tiny pieces styrofoam bean bag unacceptable recommend hotel misleading advertising hotel website \u201cfree websites selling property breakfast\u201d arrival told internet 12 euros 24 hours king beds unsettling pretty negative impression check discovered socalled complimentary breakfast free front desk agent explained \u201ccomplimentary\u201d spanish translates means \u201cnot included despite attempts explain english website booked led believe included forced pay \u2013 pay false advertising agent immediately call police isn\u2019t time happened hotel fix wording internet remove future agent contact website company makes sense consumer manage company\u2019s site sites 129 euros left hotel feeling somewhat advantage please check advance breakfast actually included ironically breakfast impressive hotel breakfasts experienced trip pay included worth 10 euro person eat blocks minor issues hotel iron days hotel iron entire inventory apparently locked guest\u2019s hotel mention example hotel doesn\u2019t effort help guests safes available pay 2 euros day valuables safe star hotel tacky somewhat unethical hotel european trip pay safe star move opinion", "Date": "2010-08-03 00:00:00"}], "HotelInfo": {"Name": "Gargallo Hotel Colonial", "HotelURL": "/ShowUserReviews-g187497-d1493903-Reviews-Gargallo_Hotel_Colonial-Barcelona_Catalonia.html", "Price": "0", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Laietana, 3</span>, <span class=\"locality\"><span property=\"v:postal-code\">08002</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>", "HotelID": "1493903", "ImgURL": ""}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Surrey, UK",
+      "Title": "\u201cStylish hotel, excellent location...but with a few imperfections\u201d",
+      "Author": "Mundii",
+      "ReviewID": "UR123756195",
+      "Content": "hotel colonial midsize hotel near gothic quarter close eateries attractions inside styled modern clean condition balcony decent views narrow didnt feel overly spacious bathroom nicely soap shampoo hidden wifi pain reception code cant provide phone costs hour breakfast decent spoiled setup lady messy trolley noisily collecting finished plates simultaneously checking guess costs reasonably priced hotel stay",
+      "Date": "2012-01-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Paphos, Cyprus",
+      "Title": "\u201cGreat hotel at a perfect location!\u201d",
+      "Author": "Kat_Cy_Gr",
+      "ReviewID": "UR109982033",
+      "Content": "stayed 4 days completely satisfied clean spacious nice bathroom eventhough located busy street soundproofed werent disturbed excellent location walking distance port restaurants hotel found taxis whenever staff helpful breakfast served underground wasnt rich",
+      "Date": "2011-05-26 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Victoria, Canada",
+      "Title": "\u201cThis hotel has some good and bad and really bad points. Overall, not a four star by any means.\u201d",
+      "Author": "ConscientiousTourist",
+      "ReviewID": "UR73611852",
+      "Content": "hotel spent money fixtures public look nice cool bathroom fixtures rainshower etc bedroom furnished nicely location central beach underground trains gotic quarter \u2013 enjoyed housekeeping staff friendly whenever towels items service poor hotel disorganized friendly staff front desk inquiries met \u201cno \u201ci don\u2019t passing front desk occasions overhead desk agents type altercation guests phone air conditioning controlled customer \u2013 preset found cold times windows comfortable pillows hard tiny pieces styrofoam bean bag unacceptable recommend hotel misleading advertising hotel website \u201cfree websites selling property breakfast\u201d arrival told internet 12 euros 24 hours king beds unsettling pretty negative impression check discovered socalled complimentary breakfast free front desk agent explained \u201ccomplimentary\u201d spanish translates means \u201cnot included despite attempts explain english website booked led believe included forced pay \u2013 pay false advertising agent immediately call police isn\u2019t time happened hotel fix wording internet remove future agent contact website company makes sense consumer manage company\u2019s site sites 129 euros left hotel feeling somewhat advantage please check advance breakfast actually included ironically breakfast impressive hotel breakfasts experienced trip pay included worth 10 euro person eat blocks minor issues hotel iron days hotel iron entire inventory apparently locked guest\u2019s hotel mention example hotel doesn\u2019t effort help guests safes available pay 2 euros day valuables safe star hotel tacky somewhat unethical hotel european trip pay safe star move opinion",
+      "Date": "2010-08-03 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Gargallo Hotel Colonial",
+    "HotelURL": "/ShowUserReviews-g187497-d1493903-Reviews-Gargallo_Hotel_Colonial-Barcelona_Catalonia.html",
+    "Price": "0",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Laietana, 3</span>, <span class=\"locality\"><span property=\"v:postal-code\">08002</span> <span property=\"v:locality\">Barcelona</span></span>, <span class=\"country-name\" property=\"v:country-name\">Spain</span> </span></span></address>",
+    "HotelID": "1493903",
+    "ImgURL": ""
+  }
+}

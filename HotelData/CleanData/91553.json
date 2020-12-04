@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Coldwater, Michigan", "Title": "\u201cLooking forward to returning\u201d", "Author": "Rob S", "ReviewID": "UR118914004", "Content": "town conference expecting stay property pleased minute change clean tell housekeeping staff takes pride thier extra towels items refilled daily beds comfortable pillows ours home front desk staff friendly helpful breakfast hotels ive stayed ina selection including waffles boiled eggs yogurt breads definitely plan staying yearly visits indy", "Date": "2011-10-04 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Holly, Michigan", "Title": "\u201cClose to sports venue - good rate - but that is it\u201d", "Author": "kateverod", "ReviewID": "UR70404552", "Content": "convenient location rate hotel ok stayed 3 nights sports tournament rest team ok desk wifi nice breakfast lacked fruit bananas replace third morning play sports told cater audience bananas staple breakfast morning snack check extra night won told prob 2 beds friend called minutes reserve 4 2 beds 3 nights told available gentleman tell truth tell friend truth", "Date": "2010-07-10 00:00:00"}], "HotelInfo": {"Name": "BEST WESTERN Crossroads", "HotelURL": "/ShowUserReviews-g37209-d91553-Reviews-BEST_WESTERN_Crossroads-Indianapolis_Indiana.html", "Price": "$97 - $125*", "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">7610 Old Trails Road</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46219-6740</span></span> (Formerly Signature Inn Indianapolis East)</span> </span> </address>", "HotelID": "91553", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7b/2e/7b2e79eb4178d149efdb2ea1f1718c7d6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Coldwater, Michigan",
+      "Title": "\u201cLooking forward to returning\u201d",
+      "Author": "Rob S",
+      "ReviewID": "UR118914004",
+      "Content": "town conference expecting stay property pleased minute change clean tell housekeeping staff takes pride thier extra towels items refilled daily beds comfortable pillows ours home front desk staff friendly helpful breakfast hotels ive stayed ina selection including waffles boiled eggs yogurt breads definitely plan staying yearly visits indy",
+      "Date": "2011-10-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Holly, Michigan",
+      "Title": "\u201cClose to sports venue - good rate - but that is it\u201d",
+      "Author": "kateverod",
+      "ReviewID": "UR70404552",
+      "Content": "convenient location rate hotel ok stayed 3 nights sports tournament rest team ok desk wifi nice breakfast lacked fruit bananas replace third morning play sports told cater audience bananas staple breakfast morning snack check extra night won told prob 2 beds friend called minutes reserve 4 2 beds 3 nights told available gentleman tell truth tell friend truth",
+      "Date": "2010-07-10 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "BEST WESTERN Crossroads",
+    "HotelURL": "/ShowUserReviews-g37209-d91553-Reviews-BEST_WESTERN_Crossroads-Indianapolis_Indiana.html",
+    "Price": "$97 - $125*",
+    "Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">7610 Old Trails Road</span>, <span class=\"locality\"><span property=\"v:locality\">Indianapolis</span>, <span property=\"v:region\">IN</span> <span property=\"v:postal-code\">46219-6740</span></span> (Formerly Signature Inn Indianapolis East)</span> </span> </address>",
+    "HotelID": "91553",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/7b/2e/7b2e79eb4178d149efdb2ea1f1718c7d6large.jpg"
+  }
+}

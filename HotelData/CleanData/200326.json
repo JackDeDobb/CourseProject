@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "London", "Title": "\u201cNice, clean, basic hotel\u201d", "Author": "erika l", "ReviewID": "UR128042057", "Content": "west berlin trendiest close zoo station easy solo traveller nice safe leave helpful staff wifi hada single bed tv desk perfect nice based exploring city pizza cheap excellent 4 euros pizza lots bakeries sell coffee morning late lots night buses run zoo isnt", "Date": "2012-04-17 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Athens", "Title": "\u201cGood if you are on a budget\u201d", "Author": "yiotadelta", "ReviewID": "UR127077342", "Content": "hotel looks modern actually nice reception double person amenities spartan breakfast buffet adequate value money dont intend spend time hotel 10 minutes walk ku damm nice bar restaurant corner smokers taxi rank", "Date": "2012-04-01 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Tbilisi, Georgia", "Title": "\u201cdecent hotel close to kudamm\u201d", "Author": "mamalo66", "ReviewID": "UR126316020", "Content": "march 2012 wife receptionist lady provided immediately arrival 1145 morning ok size bad tiny 1 person free wifi normal inconvenience signin 24 hours breakfast ok location kudamm 78 minutes walk", "Date": "2012-03-19 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Lyon, France", "Title": "\u201cGood location, clean, simple.\u201d", "Author": "MrOYC", "ReviewID": "UR126070737", "Content": "hotel location 5minute walk kudamm berlins main avenue bus stops 4 minute walk subwaybus station anyway located junior suite spacious clean comfortable bathroom mild piping smell kept coming nights manageable unpleasant art liking matter requested artwork seen website breakfast kinda poor 9 doesnt matter youre berlin dont eat breakfast hotel please personnel service uneven receptionists incredibly nice practically rude deal stay berlin cheap private appartments rentals hotel services dont hesitate little russian restaurant nearby serves surprisingly delicious food dont expect understand dont speak german checkin hasslefree", "Date": "2012-03-13 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Espoo, Finland", "Title": "\u201cWell Location, No Frills\u201d", "Author": "Janne_HEL", "ReviewID": "UR105000604", "Content": "nice reasonably priced hotel located couple blocks kudamm street nice city stayed single smallish clean maintained frills luxury basic amenities price stay", "Date": "2011-04-22 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "England", "Title": "\u201cGreat hotel with wifi\u201d", "Author": "moonraker801", "ReviewID": "UR96783249", "Content": "modern comfortable hotel comment breakfast enjoyed stay hotel five minute walk fom ubahn station hotel offers fast wifi connection free modern traveler real advantage plan stay", "Date": "2011-02-15 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Sweden", "Title": "\u201cGreat price, ok location\u201d", "Author": "NiclasSweden", "ReviewID": "UR87561292", "Content": "book cost persons nights arrived tegel airport local bus zoologischer garten trip 20 minutes stop earlier planned street hotel 510 minute walk hotel location street ku\u2019damm 15 minutes walk please aware staying ku\u2019damm vicinity hotel otherwise calm little traffic restaurants coffee shops ubahn close hotel clean hotel ok fancy complain stay", "Date": "2010-11-19 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 5.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "St.Petersburg", "Title": "\u201cI've have been robbed here\u201d", "Author": "donna_anka", "ReviewID": "UR58034401", "Content": "weve stayed hotel sleep weve checked charged credit card gone short walk berlin note leave key reception reception told cant key master key key table stuff stolen reception havent closed call police dialed strange phone called police found stuff cigarettes stuff filter cam manager recommended change category cancel police call checkout charged price stay domus lot hotels maybe cost risk safety 10 euros", "Date": "2010-03-08 00:00:00"}], "HotelInfo": {"Name": "Hotel Domus garni", "HotelURL": "/ShowUserReviews-g187323-d200326-Reviews-Hotel_Domus_garni-Berlin.html", "Price": "$51 - $134*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Uhlandstr. 49</span>, <span class=\"locality\"><span property=\"v:postal-code\">10719</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "200326", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b8/b4/b8b4d15a338db4f9dbaf6ec3f168e4de6large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "London",
+      "Title": "\u201cNice, clean, basic hotel\u201d",
+      "Author": "erika l",
+      "ReviewID": "UR128042057",
+      "Content": "west berlin trendiest close zoo station easy solo traveller nice safe leave helpful staff wifi hada single bed tv desk perfect nice based exploring city pizza cheap excellent 4 euros pizza lots bakeries sell coffee morning late lots night buses run zoo isnt",
+      "Date": "2012-04-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Athens",
+      "Title": "\u201cGood if you are on a budget\u201d",
+      "Author": "yiotadelta",
+      "ReviewID": "UR127077342",
+      "Content": "hotel looks modern actually nice reception double person amenities spartan breakfast buffet adequate value money dont intend spend time hotel 10 minutes walk ku damm nice bar restaurant corner smokers taxi rank",
+      "Date": "2012-04-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Tbilisi, Georgia",
+      "Title": "\u201cdecent hotel close to kudamm\u201d",
+      "Author": "mamalo66",
+      "ReviewID": "UR126316020",
+      "Content": "march 2012 wife receptionist lady provided immediately arrival 1145 morning ok size bad tiny 1 person free wifi normal inconvenience signin 24 hours breakfast ok location kudamm 78 minutes walk",
+      "Date": "2012-03-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Lyon, France",
+      "Title": "\u201cGood location, clean, simple.\u201d",
+      "Author": "MrOYC",
+      "ReviewID": "UR126070737",
+      "Content": "hotel location 5minute walk kudamm berlins main avenue bus stops 4 minute walk subwaybus station anyway located junior suite spacious clean comfortable bathroom mild piping smell kept coming nights manageable unpleasant art liking matter requested artwork seen website breakfast kinda poor 9 doesnt matter youre berlin dont eat breakfast hotel please personnel service uneven receptionists incredibly nice practically rude deal stay berlin cheap private appartments rentals hotel services dont hesitate little russian restaurant nearby serves surprisingly delicious food dont expect understand dont speak german checkin hasslefree",
+      "Date": "2012-03-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Espoo, Finland",
+      "Title": "\u201cWell Location, No Frills\u201d",
+      "Author": "Janne_HEL",
+      "ReviewID": "UR105000604",
+      "Content": "nice reasonably priced hotel located couple blocks kudamm street nice city stayed single smallish clean maintained frills luxury basic amenities price stay",
+      "Date": "2011-04-22 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "England",
+      "Title": "\u201cGreat hotel with wifi\u201d",
+      "Author": "moonraker801",
+      "ReviewID": "UR96783249",
+      "Content": "modern comfortable hotel comment breakfast enjoyed stay hotel five minute walk fom ubahn station hotel offers fast wifi connection free modern traveler real advantage plan stay",
+      "Date": "2011-02-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Sweden",
+      "Title": "\u201cGreat price, ok location\u201d",
+      "Author": "NiclasSweden",
+      "ReviewID": "UR87561292",
+      "Content": "book cost persons nights arrived tegel airport local bus zoologischer garten trip 20 minutes stop earlier planned street hotel 510 minute walk hotel location street ku\u2019damm 15 minutes walk please aware staying ku\u2019damm vicinity hotel otherwise calm little traffic restaurants coffee shops ubahn close hotel clean hotel ok fancy complain stay",
+      "Date": "2010-11-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 5.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "St.Petersburg",
+      "Title": "\u201cI've have been robbed here\u201d",
+      "Author": "donna_anka",
+      "ReviewID": "UR58034401",
+      "Content": "weve stayed hotel sleep weve checked charged credit card gone short walk berlin note leave key reception reception told cant key master key key table stuff stolen reception havent closed call police dialed strange phone called police found stuff cigarettes stuff filter cam manager recommended change category cancel police call checkout charged price stay domus lot hotels maybe cost risk safety 10 euros",
+      "Date": "2010-03-08 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Domus garni",
+    "HotelURL": "/ShowUserReviews-g187323-d200326-Reviews-Hotel_Domus_garni-Berlin.html",
+    "Price": "$51 - $134*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Uhlandstr. 49</span>, <span class=\"locality\"><span property=\"v:postal-code\">10719</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "200326",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b8/b4/b8b4d15a338db4f9dbaf6ec3f168e4de6large.jpg"
+  }
+}

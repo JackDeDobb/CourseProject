@@ -1,1 +1,97 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Albany, New York", "Title": "\u201cReasonable Price & Decent Accomodations\u201d", "Author": "mysticrhythm", "ReviewID": "UR123607606", "Content": "stayed hotel days including eve decent housekeeping professional spectacular except clean mattress kinda worn carpet linen quality front desk check check especially forced add money additional person guaranteed double bed move king bed brother staying oh careful markup ice conveniently located expected lastly enjoyed convenient access 7 train chinese section sincerely enjoyed chinese food wish closer manhattan 35 minutes via train stay due price convenience train explore options", "Date": "2012-01-25 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "Boston, Massachusetts", "Title": "\u201cIt's a OK hotel\u201d", "Author": "amymm2006", "ReviewID": "UR112447918", "Content": "location continent train surrounded lots restaurants shops facilities didnt service dont parking space parking lot street 15night little bit noisy night", "Date": "2011-06-09 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 3.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Ottawa, Canada", "Title": "\u201cNOT a good experience\u201d", "Author": "WorldTraveller7505", "ReviewID": "UR92017997", "Content": "reviews hotel poor experience hotel parking park car parking lot infront hotel busy heavy traffic poor wifi connection barely internet tv picture breakfast buffet worst experienced cheap limited varieties positive hotel 5 min walk mta subway absolutely recommend hotel unless familyfriends chinatown stay close", "Date": "2011-01-06 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Singapore, Indonesia, Thailand", "Title": "\u201cGood, clean hotel in Flushing downtown close to delicious eateries\u201d", "Author": "Katong", "ReviewID": "UR90990095", "Content": "hotel decent sized 2 queen size beds located flushing downtown close nice chinese eateries 5 mins walk metro catch 7 train straight times sq macys flushing near metro bustling feel safe night corner hotel loong pao restaurant shanghai dumpling tasted asia restaurant packed service hotel minimal suits fine dont help luggage dont service clean bathroom receptionists helpful helped amend refundable booking free provide direction daughter fell sick breakfast bad continental boiled eggs waffle toasts cereals fresh fruits", "Date": "2010-12-29 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Montreal, Canada", "Title": "\u201cGood value hotel\u201d", "Author": "Traveler_for_30_yrs", "ReviewID": "UR75338619", "Content": "stayed 4 nights hotel booked phone western representative confirmation hotel hotel close manhattan liked available booked arrived shock chinese city suburb english signs initial shock possession discover excellent service clean personnel front desk nice cooperative speak english personnel floors speak english inconvenient clientele chinese world weekend clientele diversified people touring nyc weekend everyday cleaned satisfaction read bed bugs nyc free bugs parking street 15day car hotel sight safe stay chinese subway station 5 minutes foot train station 3035 min subway downtown 1520 min train safer night continental breakfast ok special person taking care breakfast time time service breakfast missing restaurants asian food shopping bargains worth walk flavor chinese world feel nyc recommend hotel close highways easy access easy access nyc downtown day downtown easily visit beaches island clean hotel", "Date": "2010-08-15 00:00:00"}], "HotelInfo": {"Name": "BEST WESTERN PLUS Queens Court Hotel", "HotelURL": "/ShowUserReviews-g60763-d249780-Reviews-BEST_WESTERN_PLUS_Queens_Court_Hotel-New_York_City_New_York.html", "Price": "$157 - $172*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">13351 39th Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">New York City</span>, <span property=\"v:region\">NY</span> <span property=\"v:postal-code\">11354-4432</span></span> </span> </span> </address>", "HotelID": "249780", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/20/e5/20e523b1facec1aab14f79c01fe9097f1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Albany, New York",
+      "Title": "\u201cReasonable Price & Decent Accomodations\u201d",
+      "Author": "mysticrhythm",
+      "ReviewID": "UR123607606",
+      "Content": "stayed hotel days including eve decent housekeeping professional spectacular except clean mattress kinda worn carpet linen quality front desk check check especially forced add money additional person guaranteed double bed move king bed brother staying oh careful markup ice conveniently located expected lastly enjoyed convenient access 7 train chinese section sincerely enjoyed chinese food wish closer manhattan 35 minutes via train stay due price convenience train explore options",
+      "Date": "2012-01-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Boston, Massachusetts",
+      "Title": "\u201cIt's a OK hotel\u201d",
+      "Author": "amymm2006",
+      "ReviewID": "UR112447918",
+      "Content": "location continent train surrounded lots restaurants shops facilities didnt service dont parking space parking lot street 15night little bit noisy night",
+      "Date": "2011-06-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 3.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Ottawa, Canada",
+      "Title": "\u201cNOT a good experience\u201d",
+      "Author": "WorldTraveller7505",
+      "ReviewID": "UR92017997",
+      "Content": "reviews hotel poor experience hotel parking park car parking lot infront hotel busy heavy traffic poor wifi connection barely internet tv picture breakfast buffet worst experienced cheap limited varieties positive hotel 5 min walk mta subway absolutely recommend hotel unless familyfriends chinatown stay close",
+      "Date": "2011-01-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Singapore, Indonesia, Thailand",
+      "Title": "\u201cGood, clean hotel in Flushing downtown close to delicious eateries\u201d",
+      "Author": "Katong",
+      "ReviewID": "UR90990095",
+      "Content": "hotel decent sized 2 queen size beds located flushing downtown close nice chinese eateries 5 mins walk metro catch 7 train straight times sq macys flushing near metro bustling feel safe night corner hotel loong pao restaurant shanghai dumpling tasted asia restaurant packed service hotel minimal suits fine dont help luggage dont service clean bathroom receptionists helpful helped amend refundable booking free provide direction daughter fell sick breakfast bad continental boiled eggs waffle toasts cereals fresh fruits",
+      "Date": "2010-12-29 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Montreal, Canada",
+      "Title": "\u201cGood value hotel\u201d",
+      "Author": "Traveler_for_30_yrs",
+      "ReviewID": "UR75338619",
+      "Content": "stayed 4 nights hotel booked phone western representative confirmation hotel hotel close manhattan liked available booked arrived shock chinese city suburb english signs initial shock possession discover excellent service clean personnel front desk nice cooperative speak english personnel floors speak english inconvenient clientele chinese world weekend clientele diversified people touring nyc weekend everyday cleaned satisfaction read bed bugs nyc free bugs parking street 15day car hotel sight safe stay chinese subway station 5 minutes foot train station 3035 min subway downtown 1520 min train safer night continental breakfast ok special person taking care breakfast time time service breakfast missing restaurants asian food shopping bargains worth walk flavor chinese world feel nyc recommend hotel close highways easy access easy access nyc downtown day downtown easily visit beaches island clean hotel",
+      "Date": "2010-08-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "BEST WESTERN PLUS Queens Court Hotel",
+    "HotelURL": "/ShowUserReviews-g60763-d249780-Reviews-BEST_WESTERN_PLUS_Queens_Court_Hotel-New_York_City_New_York.html",
+    "Price": "$157 - $172*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">13351 39th Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">New York City</span>, <span property=\"v:region\">NY</span> <span property=\"v:postal-code\">11354-4432</span></span> </span> </span> </address>",
+    "HotelID": "249780",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/20/e5/20e523b1facec1aab14f79c01fe9097f1large.jpg"
+  }
+}

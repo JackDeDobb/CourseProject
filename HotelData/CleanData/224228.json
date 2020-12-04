@@ -1,1 +1,165 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Mesa, Arizona", "Title": "\u201cgreat stay\u201d", "Author": "skyharbo", "ReviewID": "UR127543199", "Content": "read reviews left imagined 6 days business nice 2 seperate living kitchen fold bed bedroom bathroom nice tvs plates silverware coffee tea micro popcorn salt pepper cream sugar breakfast light dinner price free service", "Date": "2012-04-09 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Denver, Colorado", "Title": "\u201cPleased\u201d", "Author": "Inklette", "ReviewID": "UR123526531", "Content": "stayed business stayed stay lobby updated front desk staff friendly helpful complimentary breakfast dinner wine beer bargain location visiting market center", "Date": "2012-01-23 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Greentown, Pennsylvania", "Title": "\u201cAfter tens years they shut us out.\u201d", "Author": "FRANKFONTI", "ReviewID": "UR120111719", "Content": "ive booked block june january markets associates past ten ive called 2 3 times emailed 2 times try past told sales management enjoyed staying staff decided valued customer responded request else january market", "Date": "2011-11-03 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "petersburg, ky", "Title": "\u201cGreat place to stay!\u201d", "Author": "timolad", "ReviewID": "UR119988039", "Content": "chose hotel apt style 2 beds sofa sleeper pleasant surprise actually plenty 2 baths kitchen drawback floor apt 2nd floor bldg elevator 3 50 women carry luggage stairs complimentary breakfast front desk staff friendly helpful", "Date": "2011-10-31 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Hamilton, ON", "Title": "\u201cGreat stay, until the morning we left.\u201d", "Author": "MountainMel", "ReviewID": "UR119028632", "Content": "stay hotel morning left hotel clean bathtub hair kitchinette didnt nice front desk staff awesome remembered name helpful etc isnt cant walk surrounded breakfast pretty awesome comes stay center minimal equipment fly larger airport dallas cab little expensive takes 1520 minutes bad news water little tempermental time hard temperature morning left 400am unpleasant hot water ruined stay water touchy time am assume time probably wouldnt recommend hotel water issue huge issue business especially dallas market center", "Date": "2011-10-07 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Austin, Texas", "Title": "\u201cGreat Suites\u201d", "Author": "AsiaSue", "ReviewID": "UR113936621", "Content": "travelled homewood suites business trip front desk staff pleasant courteous homewood suites breakfast evening reception appropriate foods overall spacious clean nice separate living sleeping drawbacks air conditioning unit bit noisy internet difficult connect major minor complaints definately seek homewood suites traveling", "Date": "2011-06-16 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "Austin, Texas", "Title": "\u201cGood value - avoid rooms fronting on the interstate\u201d", "Author": "Grotshops", "ReviewID": "UR102170105", "Content": "hotel frequently competitive rates offers perfectly acceptable accommodations access little tricky south uturn i35 hotel parking lot entrance easy miss piece advice rear building front i35 traffic audible night upper floors didnt bother collegeaged kid bothered", "Date": "2011-03-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "houston", "Title": "\u201cGreat Stay - Exceeded My Expectations!!\u201d", "Author": "2kidshouston", "ReviewID": "UR96772915", "Content": "3 star hotel little apprehensive usually stay 45 start hiltons extremely pleased totally stay breakfast totally nice 2 little boys staff unbelieveably responsive game shuttle played games dining infront fireplace home theme clean professional manner beyond converted fan famlies business extended stay", "Date": "2011-02-15 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 3.0}, "AuthorLocation": "Texas", "Title": "\u201cAfter 2 years of bi-weekly trips to Dallas, this is my favorite 2nd home!\u201d", "Author": "diaperchanger01", "ReviewID": "UR55783216", "Content": "staying location time staff location incredible front desk clerks names situation accomadate double roomy price free hot breakfast wonderful dinner business center asset gone home periods property staff feel home travel feel closest own home", "Date": "2010-02-12 00:00:00"}], "HotelInfo": {"Name": "Homewood Suites Dallas-Market Center", "HotelURL": "/ShowUserReviews-g55711-d224228-Reviews-Homewood_Suites_Dallas_Market_Center-Dallas_Texas.html", "Price": "$139 - $225*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2747 North Stemmans Freeway</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75207</span></span> </span></span></address>", "HotelID": "224228", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/27/48/c2/our-one-bedroom-king.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Mesa, Arizona",
+      "Title": "\u201cgreat stay\u201d",
+      "Author": "skyharbo",
+      "ReviewID": "UR127543199",
+      "Content": "read reviews left imagined 6 days business nice 2 seperate living kitchen fold bed bedroom bathroom nice tvs plates silverware coffee tea micro popcorn salt pepper cream sugar breakfast light dinner price free service",
+      "Date": "2012-04-09 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Denver, Colorado",
+      "Title": "\u201cPleased\u201d",
+      "Author": "Inklette",
+      "ReviewID": "UR123526531",
+      "Content": "stayed business stayed stay lobby updated front desk staff friendly helpful complimentary breakfast dinner wine beer bargain location visiting market center",
+      "Date": "2012-01-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Greentown, Pennsylvania",
+      "Title": "\u201cAfter tens years they shut us out.\u201d",
+      "Author": "FRANKFONTI",
+      "ReviewID": "UR120111719",
+      "Content": "ive booked block june january markets associates past ten ive called 2 3 times emailed 2 times try past told sales management enjoyed staying staff decided valued customer responded request else january market",
+      "Date": "2011-11-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "petersburg, ky",
+      "Title": "\u201cGreat place to stay!\u201d",
+      "Author": "timolad",
+      "ReviewID": "UR119988039",
+      "Content": "chose hotel apt style 2 beds sofa sleeper pleasant surprise actually plenty 2 baths kitchen drawback floor apt 2nd floor bldg elevator 3 50 women carry luggage stairs complimentary breakfast front desk staff friendly helpful",
+      "Date": "2011-10-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Hamilton, ON",
+      "Title": "\u201cGreat stay, until the morning we left.\u201d",
+      "Author": "MountainMel",
+      "ReviewID": "UR119028632",
+      "Content": "stay hotel morning left hotel clean bathtub hair kitchinette didnt nice front desk staff awesome remembered name helpful etc isnt cant walk surrounded breakfast pretty awesome comes stay center minimal equipment fly larger airport dallas cab little expensive takes 1520 minutes bad news water little tempermental time hard temperature morning left 400am unpleasant hot water ruined stay water touchy time am assume time probably wouldnt recommend hotel water issue huge issue business especially dallas market center",
+      "Date": "2011-10-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Austin, Texas",
+      "Title": "\u201cGreat Suites\u201d",
+      "Author": "AsiaSue",
+      "ReviewID": "UR113936621",
+      "Content": "travelled homewood suites business trip front desk staff pleasant courteous homewood suites breakfast evening reception appropriate foods overall spacious clean nice separate living sleeping drawbacks air conditioning unit bit noisy internet difficult connect major minor complaints definately seek homewood suites traveling",
+      "Date": "2011-06-16 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Austin, Texas",
+      "Title": "\u201cGood value - avoid rooms fronting on the interstate\u201d",
+      "Author": "Grotshops",
+      "ReviewID": "UR102170105",
+      "Content": "hotel frequently competitive rates offers perfectly acceptable accommodations access little tricky south uturn i35 hotel parking lot entrance easy miss piece advice rear building front i35 traffic audible night upper floors didnt bother collegeaged kid bothered",
+      "Date": "2011-03-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "houston",
+      "Title": "\u201cGreat Stay - Exceeded My Expectations!!\u201d",
+      "Author": "2kidshouston",
+      "ReviewID": "UR96772915",
+      "Content": "3 star hotel little apprehensive usually stay 45 start hiltons extremely pleased totally stay breakfast totally nice 2 little boys staff unbelieveably responsive game shuttle played games dining infront fireplace home theme clean professional manner beyond converted fan famlies business extended stay",
+      "Date": "2011-02-15 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Texas",
+      "Title": "\u201cAfter 2 years of bi-weekly trips to Dallas, this is my favorite 2nd home!\u201d",
+      "Author": "diaperchanger01",
+      "ReviewID": "UR55783216",
+      "Content": "staying location time staff location incredible front desk clerks names situation accomadate double roomy price free hot breakfast wonderful dinner business center asset gone home periods property staff feel home travel feel closest own home",
+      "Date": "2010-02-12 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Homewood Suites Dallas-Market Center",
+    "HotelURL": "/ShowUserReviews-g55711-d224228-Reviews-Homewood_Suites_Dallas_Market_Center-Dallas_Texas.html",
+    "Price": "$139 - $225*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2747 North Stemmans Freeway</span>, <span class=\"locality\"><span property=\"v:locality\">Dallas</span>, <span property=\"v:region\">TX</span> <span property=\"v:postal-code\">75207</span></span> </span></span></address>",
+    "HotelID": "224228",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/27/48/c2/our-one-bedroom-king.jpg"
+  }
+}

@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "St. John's", "Title": "\u201ca quiet traditional hotel in the heart of Rome\u201d", "Author": "Jenny G", "ReviewID": "UR127822704", "Content": "family run hotel solution people quiet central accommodation rome own parking spot garden relax hectic day city location ideal walking distance termini 5min station reach easily corner city especially city centre 1015 min buses subways true hotel walk spanish steps owners friendly helpful suggesting eat shop rome comfortable recently renewed clean air condition free internet addition hotel offers buffet breakfast lot choices bread egg ham cheese food type booked internet fair price stay easter weekend leaving evening staff nice store luggage departure hour book taxi airport enjoyed friendly comfortable charming hotel definitively time visit rome", "Date": "2012-04-13 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Rio de Janeiro, Rio de Janeiro, Brazil", "Title": "\u201cNice hotel near central station termini and city center\u201d", "Author": "Anna Maria Novi... F", "ReviewID": "UR125886183", "Content": "stayed hotel villa delle rose february hotel couple friends nice hotel runs family actually hotel nice clean accomodate belongings moreover recently renovated quiet rome noisy city facing hotel garden courtyard silent slept breakfast style choises hotel staff friendly lot useful touristic info appreciated advices food finally position convenient walking distance 200 mt termini station buses directions underground 1015 minutes piazza di spagna foot price fair cheap expensive value money wireless free", "Date": "2012-03-10 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Manila, Philippines", "Title": "\u201chotel villa delle Rose\u201d", "Author": "mami032", "ReviewID": "UR122634929", "Content": "reading reviews look hotel booked available ones beyond budget stayed hotel anyway arrived staff front desk efficient despite age hotel renovation booked family 5 persons 2 adjoining 2 bathrooms found bathrooms clean molds described guests ref moldy chilly refrigeration heater triple reported night fix morning fixed night chilly dec 30 31 able sleep breakfast selection staff friendly staff front desk elderly person helped print boarding pass free gesture whatever lacking hotel", "Date": "2012-01-05 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Jerusalem, Israel", "Title": "\u201cwouldn't stay for vacation\u201d", "Author": "Arie H", "ReviewID": "UR119517618", "Content": "arrived hotel evening night comfortable staff night helpfull hotel situated near central station night isnt attractive night tour time disapointed 4th floor windows near ceiling water pressure morning hot water complained reception answer cant else complained maybe hot water cold water dripping tap windows tried aircondition didnt feel answer light hotel breakfast price reasonable wont 4th floor", "Date": "2011-10-20 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Ventura, California", "Title": "\u201cGood location; near train station\u201d", "Author": "ilovebeachgirl", "ReviewID": "UR119015420", "Content": "hotel looks lovely outside lobby helpful staff free parking limited 4 cars walking distance termini trainbus station arrived air conditioning guess 8 dont air conditioning rest hotel allowed change day air conditioning barely tell hotel staff control setting temperature switched bigger sleep 3 comfortably bathtub 10 stayed italy bathtub rained night unable close windows rain poured drenched carpet fortunately leaving morning somewhat expensive considering quality", "Date": "2011-10-06 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 3.0, "Sleep Quality": 5.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Putrajaya, Malaysia", "Title": "\u201cNice Hotel, Close To Everything!\u201d", "Author": "Azmir", "ReviewID": "UR103495315", "Content": "late review satisfied hotel offered unless night shift receptionist whos bit grumpy hotel nice clean bathroom bit close breakfast adequate maybe bit costly whod carry currency lower euros expect rome pal thanks breakfast waiter youve wonderful companion throughout stay delle rose youre wondering im asian guy hot water babys milk read blog trip rome venice", "Date": "2011-04-10 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Burnie, Australia", "Title": "\u201cExcellent location, great room, good brekkie\u201d", "Author": "KarliReeves", "ReviewID": "UR71300964", "Content": "happy hotel spacious gorgeous balcony train station 500m hotel hidden street quiet location able walk major sights rome included breakfast buffet style breakfast staff fantastic overall stay recommend stays", "Date": "2010-07-18 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Bedfordshire", "Title": "\u201cHeart of the City Location...Rome is gorgeous...\u201d", "Author": "miggy_2010", "ReviewID": "UR60866028", "Content": "joined friend ours trip rome hotel perfect location value money clean comfortable pied terre discovering rome opportunity share romantic moments couple wonderful banquets definitely recommend city break rome hotel ideal 3 star option", "Date": "2010-04-09 00:00:00"}], "HotelInfo": {"Name": "Villa Delle Rose Hotel", "HotelURL": "/ShowUserReviews-g187791-d231927-Reviews-Villa_Delle_Rose_Hotel-Rome_Lazio.html", "Price": "$106 - $171*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Vicenza 5</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "231927", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/51/25/512509002beca8b9e90b1bcc74eb8d968large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "St. John's",
+      "Title": "\u201ca quiet traditional hotel in the heart of Rome\u201d",
+      "Author": "Jenny G",
+      "ReviewID": "UR127822704",
+      "Content": "family run hotel solution people quiet central accommodation rome own parking spot garden relax hectic day city location ideal walking distance termini 5min station reach easily corner city especially city centre 1015 min buses subways true hotel walk spanish steps owners friendly helpful suggesting eat shop rome comfortable recently renewed clean air condition free internet addition hotel offers buffet breakfast lot choices bread egg ham cheese food type booked internet fair price stay easter weekend leaving evening staff nice store luggage departure hour book taxi airport enjoyed friendly comfortable charming hotel definitively time visit rome",
+      "Date": "2012-04-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Rio de Janeiro, Rio de Janeiro, Brazil",
+      "Title": "\u201cNice hotel near central station termini and city center\u201d",
+      "Author": "Anna Maria Novi... F",
+      "ReviewID": "UR125886183",
+      "Content": "stayed hotel villa delle rose february hotel couple friends nice hotel runs family actually hotel nice clean accomodate belongings moreover recently renovated quiet rome noisy city facing hotel garden courtyard silent slept breakfast style choises hotel staff friendly lot useful touristic info appreciated advices food finally position convenient walking distance 200 mt termini station buses directions underground 1015 minutes piazza di spagna foot price fair cheap expensive value money wireless free",
+      "Date": "2012-03-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Manila, Philippines",
+      "Title": "\u201chotel villa delle Rose\u201d",
+      "Author": "mami032",
+      "ReviewID": "UR122634929",
+      "Content": "reading reviews look hotel booked available ones beyond budget stayed hotel anyway arrived staff front desk efficient despite age hotel renovation booked family 5 persons 2 adjoining 2 bathrooms found bathrooms clean molds described guests ref moldy chilly refrigeration heater triple reported night fix morning fixed night chilly dec 30 31 able sleep breakfast selection staff friendly staff front desk elderly person helped print boarding pass free gesture whatever lacking hotel",
+      "Date": "2012-01-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Jerusalem, Israel",
+      "Title": "\u201cwouldn't stay for vacation\u201d",
+      "Author": "Arie H",
+      "ReviewID": "UR119517618",
+      "Content": "arrived hotel evening night comfortable staff night helpfull hotel situated near central station night isnt attractive night tour time disapointed 4th floor windows near ceiling water pressure morning hot water complained reception answer cant else complained maybe hot water cold water dripping tap windows tried aircondition didnt feel answer light hotel breakfast price reasonable wont 4th floor",
+      "Date": "2011-10-20 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Ventura, California",
+      "Title": "\u201cGood location; near train station\u201d",
+      "Author": "ilovebeachgirl",
+      "ReviewID": "UR119015420",
+      "Content": "hotel looks lovely outside lobby helpful staff free parking limited 4 cars walking distance termini trainbus station arrived air conditioning guess 8 dont air conditioning rest hotel allowed change day air conditioning barely tell hotel staff control setting temperature switched bigger sleep 3 comfortably bathtub 10 stayed italy bathtub rained night unable close windows rain poured drenched carpet fortunately leaving morning somewhat expensive considering quality",
+      "Date": "2011-10-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 3.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Putrajaya, Malaysia",
+      "Title": "\u201cNice Hotel, Close To Everything!\u201d",
+      "Author": "Azmir",
+      "ReviewID": "UR103495315",
+      "Content": "late review satisfied hotel offered unless night shift receptionist whos bit grumpy hotel nice clean bathroom bit close breakfast adequate maybe bit costly whod carry currency lower euros expect rome pal thanks breakfast waiter youve wonderful companion throughout stay delle rose youre wondering im asian guy hot water babys milk read blog trip rome venice",
+      "Date": "2011-04-10 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Burnie, Australia",
+      "Title": "\u201cExcellent location, great room, good brekkie\u201d",
+      "Author": "KarliReeves",
+      "ReviewID": "UR71300964",
+      "Content": "happy hotel spacious gorgeous balcony train station 500m hotel hidden street quiet location able walk major sights rome included breakfast buffet style breakfast staff fantastic overall stay recommend stays",
+      "Date": "2010-07-18 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Bedfordshire",
+      "Title": "\u201cHeart of the City Location...Rome is gorgeous...\u201d",
+      "Author": "miggy_2010",
+      "ReviewID": "UR60866028",
+      "Content": "joined friend ours trip rome hotel perfect location value money clean comfortable pied terre discovering rome opportunity share romantic moments couple wonderful banquets definitely recommend city break rome hotel ideal 3 star option",
+      "Date": "2010-04-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Villa Delle Rose Hotel",
+    "HotelURL": "/ShowUserReviews-g187791-d231927-Reviews-Villa_Delle_Rose_Hotel-Rome_Lazio.html",
+    "Price": "$106 - $171*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Via Vicenza 5</span>, <span class=\"locality\"><span property=\"v:postal-code\">00185</span> <span property=\"v:locality\">Rome</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "231927",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/51/25/512509002beca8b9e90b1bcc74eb8d968large.jpg"
+  }
+}

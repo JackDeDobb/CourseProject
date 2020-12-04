@@ -1,1 +1,46 @@
-{"Reviews": [{"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "Cambridge, United Kingdom", "Title": "\u201cSteer well clear!!!\u201d", "Author": "Ron S", "ReviewID": "UR124193499", "Content": "disgusting dirty smelly bathrooms dirty beds unmade obviously hadnt changed sheets feel fresh clean bad vibe arrived evening intimidating type rents hour drug addicts assorted lowlifes wandering straight reception bulletproof glass told staying", "Date": "2012-02-06 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 1.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 1.0}, "AuthorLocation": "phoenix,az", "Title": "\u201cA complete scam\u201d", "Author": "jeebusmn", "ReviewID": "UR100841683", "Content": "junkie crack prostitutes hotel able partial refund expedia promising convention claims court false advertising photos look teller hides bulletproof glass tv didnt phone remote missing main lamp didnt smells butt carpet nasty prostitutes hanging hotel night feel lucky wasnt mugged laptop reviews hotel opinion owner business am guessing people basically live people suckered online worst hotel stayed coworker worker convention phoenix dont recommending hotel little mean", "Date": "2011-03-20 00:00:00"}], "HotelInfo": {"Name": "Best West Inn Downtown", "HotelURL": "/ShowUserReviews-g31310-d1963064-Reviews-Best_West_Inn_Downtown-Phoenix_Arizona.html", "Price": "$40 - $51*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">600 W. Van Buren Street</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85003</span></span> </span></span></address>", "HotelID": "1963064", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/f8/e8/3a/entrance.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Cambridge, United Kingdom",
+      "Title": "\u201cSteer well clear!!!\u201d",
+      "Author": "Ron S",
+      "ReviewID": "UR124193499",
+      "Content": "disgusting dirty smelly bathrooms dirty beds unmade obviously hadnt changed sheets feel fresh clean bad vibe arrived evening intimidating type rents hour drug addicts assorted lowlifes wandering straight reception bulletproof glass told staying",
+      "Date": "2012-02-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 1.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "phoenix,az",
+      "Title": "\u201cA complete scam\u201d",
+      "Author": "jeebusmn",
+      "ReviewID": "UR100841683",
+      "Content": "junkie crack prostitutes hotel able partial refund expedia promising convention claims court false advertising photos look teller hides bulletproof glass tv didnt phone remote missing main lamp didnt smells butt carpet nasty prostitutes hanging hotel night feel lucky wasnt mugged laptop reviews hotel opinion owner business am guessing people basically live people suckered online worst hotel stayed coworker worker convention phoenix dont recommending hotel little mean",
+      "Date": "2011-03-20 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Best West Inn Downtown",
+    "HotelURL": "/ShowUserReviews-g31310-d1963064-Reviews-Best_West_Inn_Downtown-Phoenix_Arizona.html",
+    "Price": "$40 - $51*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">600 W. Van Buren Street</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85003</span></span> </span></span></address>",
+    "HotelID": "1963064",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/f8/e8/3a/entrance.jpg"
+  }
+}

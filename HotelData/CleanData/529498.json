@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Surrey England", "Title": "\u201cStrange in a good way\u201d", "Author": "JMTravels24", "ReviewID": "UR127490572", "Content": "stayed apartment 5th floor 5 nights truly apartment separate shower purpose visit apartment clean kitchenette ws adequate cooking breakfast ill equiped cooking major meals hotel bar reception meeting limits social travelling friends unless meet strange arrangement outdoor atrium inside gold statues seen location managed walk hotel top floor faced atrium issues noise", "Date": "2012-04-08 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Oslo, Norway", "Title": "\u201cFriendly, quiet, spacious!\u201d", "Author": "Bharfot", "ReviewID": "UR124978730", "Content": "apartment third floor 9 days absolutely loved stay expected kitchenette separate kitchen table chairs washing machine morning hadn\u2019t time dishes returned evening bathroom nice builtin shower space water pressure statue corner main freshly renovated ikea furniture flexible lights relaxing bed somewhat hard probably sprung mattress relatively thin rubber placed directly wood alle situated inner courtyard hence quiet street outside quiet building elevator climb half staircase physically handicapped optimal wifi time occasional late night journalist finish articles night morning location super central middle hustle bustle 5 min walk park takes sbahn bakery friedrichstrasse stations potsdamer platz five tram takes prenzlauer berg walk straight south oranienburger strasse station subway sorts nice expensive restaurants pubs 15 min walk west museum contemporary art hamburger bahnhof named located railway station hauptbahnhof main railwaystation berlin regret didn\u2019t time due laziness morning screenings berlinale film festival try hotel\u2019s renown russian breakfast include russian caviar sundays champagne definitely try time wish return", "Date": "2012-02-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 4.0, "Location": 5.0}, "AuthorLocation": "Belo Horizonte, MG", "Title": "\u201cVery good value for your money\u201d", "Author": "Arquimedes O", "ReviewID": "UR121075945", "Content": "hotel building renovated owners obviously russian origin beautiful art pieces scattered hotel paintings sculptures etc russian origin delicious pleasure real russian caviar breakfast location quiet street near sbahn ubahn walk reach center berlin foot staff helpful encountered bad quality wireless internet access sometimes kitchen equiped besides dishwashing washing machine apartment clean shower changed fix wall hold hand bathing", "Date": "2011-11-27 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Toronto", "Title": "\u201cGood value close to the center\u201d", "Author": "WoodlandCreature", "ReviewID": "UR102756184", "Content": "groundfloor contains double bed closet set drawers television top upright chairs tiny desk phone tray bottle mineral water wine leaving laptop windows view bicycle racks dumpster courtyard bathroom huge wheelchair accessible unlike bathrooms shower curtain showerhead wall suitably else hot water reliable mirror lit shave left blindly insufficient desk bed comfortable seating desk definitely lighting desk poor outlet nearby laptop cellphone charger obtain front desk run cable bathroom door eventually rearrange furniture moving desk space outlet leaving bottles phone floor nonetheless average including fast reliable internet sixnight stay pretty overall price bed comfortable pillow standard germans favor clean quiet frontdesk people helpful hotel promotes quality breakfast buffet \u20ac11 overall average experience standards breakfast german hotels average actually", "Date": "2011-04-04 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Germany", "Title": "\u201cNo frills but good value for money\u201d", "Author": "Soujourner69", "ReviewID": "UR61030804", "Content": "ive stayed hotel visits berlin definitely regrets hotel enterprise located multitude building blocks central berlin located quiet residential youre easy walking range subway station 400m railway 300m leisurely walk berlin central station 15 minutes apparently refurbished former residential aint bad according traditional architecture living quarters berlin inner courtyard building complex separated street layer walls outward facade checking receive key doubles key enter building via main entrance separated lobby somehow feels apartment own please write home clean breakfast served diningroom bit mine eyes buffet variety id expect bit value money youre looking nofrills accommodation", "Date": "2010-04-11 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 1.0}, "AuthorLocation": "Larnaca, Cyprus", "Title": "\u201cDisappointing\u201d", "Author": "demetrisconst", "ReviewID": "UR59218538", "Content": "extensive renovations noisy times banging drilling breakfast total confusion receptionists inexperienced center taxi drivers hard time breakfast nice everyday supplement \u20ac20 compensation staying renovations late checkout \u20ac75", "Date": "2010-03-22 00:00:00"}], "HotelInfo": {"Name": "Hotel Zarenhof", "HotelURL": "/ShowUserReviews-g187323-d529498-Reviews-Hotel_Zarenhof-Berlin.html", "Price": "$64 - $190*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Eichendorffstrasse 4</span>, <span class=\"locality\"><span property=\"v:postal-code\">10115</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>", "HotelID": "529498", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/12/87/1287733079fe8afff8870dd30dd9c2f73large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Surrey England",
+      "Title": "\u201cStrange in a good way\u201d",
+      "Author": "JMTravels24",
+      "ReviewID": "UR127490572",
+      "Content": "stayed apartment 5th floor 5 nights truly apartment separate shower purpose visit apartment clean kitchenette ws adequate cooking breakfast ill equiped cooking major meals hotel bar reception meeting limits social travelling friends unless meet strange arrangement outdoor atrium inside gold statues seen location managed walk hotel top floor faced atrium issues noise",
+      "Date": "2012-04-08 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Oslo, Norway",
+      "Title": "\u201cFriendly, quiet, spacious!\u201d",
+      "Author": "Bharfot",
+      "ReviewID": "UR124978730",
+      "Content": "apartment third floor 9 days absolutely loved stay expected kitchenette separate kitchen table chairs washing machine morning hadn\u2019t time dishes returned evening bathroom nice builtin shower space water pressure statue corner main freshly renovated ikea furniture flexible lights relaxing bed somewhat hard probably sprung mattress relatively thin rubber placed directly wood alle situated inner courtyard hence quiet street outside quiet building elevator climb half staircase physically handicapped optimal wifi time occasional late night journalist finish articles night morning location super central middle hustle bustle 5 min walk park takes sbahn bakery friedrichstrasse stations potsdamer platz five tram takes prenzlauer berg walk straight south oranienburger strasse station subway sorts nice expensive restaurants pubs 15 min walk west museum contemporary art hamburger bahnhof named located railway station hauptbahnhof main railwaystation berlin regret didn\u2019t time due laziness morning screenings berlinale film festival try hotel\u2019s renown russian breakfast include russian caviar sundays champagne definitely try time wish return",
+      "Date": "2012-02-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 4.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Belo Horizonte, MG",
+      "Title": "\u201cVery good value for your money\u201d",
+      "Author": "Arquimedes O",
+      "ReviewID": "UR121075945",
+      "Content": "hotel building renovated owners obviously russian origin beautiful art pieces scattered hotel paintings sculptures etc russian origin delicious pleasure real russian caviar breakfast location quiet street near sbahn ubahn walk reach center berlin foot staff helpful encountered bad quality wireless internet access sometimes kitchen equiped besides dishwashing washing machine apartment clean shower changed fix wall hold hand bathing",
+      "Date": "2011-11-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Toronto",
+      "Title": "\u201cGood value close to the center\u201d",
+      "Author": "WoodlandCreature",
+      "ReviewID": "UR102756184",
+      "Content": "groundfloor contains double bed closet set drawers television top upright chairs tiny desk phone tray bottle mineral water wine leaving laptop windows view bicycle racks dumpster courtyard bathroom huge wheelchair accessible unlike bathrooms shower curtain showerhead wall suitably else hot water reliable mirror lit shave left blindly insufficient desk bed comfortable seating desk definitely lighting desk poor outlet nearby laptop cellphone charger obtain front desk run cable bathroom door eventually rearrange furniture moving desk space outlet leaving bottles phone floor nonetheless average including fast reliable internet sixnight stay pretty overall price bed comfortable pillow standard germans favor clean quiet frontdesk people helpful hotel promotes quality breakfast buffet \u20ac11 overall average experience standards breakfast german hotels average actually",
+      "Date": "2011-04-04 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Germany",
+      "Title": "\u201cNo frills but good value for money\u201d",
+      "Author": "Soujourner69",
+      "ReviewID": "UR61030804",
+      "Content": "ive stayed hotel visits berlin definitely regrets hotel enterprise located multitude building blocks central berlin located quiet residential youre easy walking range subway station 400m railway 300m leisurely walk berlin central station 15 minutes apparently refurbished former residential aint bad according traditional architecture living quarters berlin inner courtyard building complex separated street layer walls outward facade checking receive key doubles key enter building via main entrance separated lobby somehow feels apartment own please write home clean breakfast served diningroom bit mine eyes buffet variety id expect bit value money youre looking nofrills accommodation",
+      "Date": "2010-04-11 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 1.0
+      },
+      "AuthorLocation": "Larnaca, Cyprus",
+      "Title": "\u201cDisappointing\u201d",
+      "Author": "demetrisconst",
+      "ReviewID": "UR59218538",
+      "Content": "extensive renovations noisy times banging drilling breakfast total confusion receptionists inexperienced center taxi drivers hard time breakfast nice everyday supplement \u20ac20 compensation staying renovations late checkout \u20ac75",
+      "Date": "2010-03-22 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel Zarenhof",
+    "HotelURL": "/ShowUserReviews-g187323-d529498-Reviews-Hotel_Zarenhof-Berlin.html",
+    "Price": "$64 - $190*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Eichendorffstrasse 4</span>, <span class=\"locality\"><span property=\"v:postal-code\">10115</span> <span property=\"v:locality\">Berlin</span></span>, <span class=\"country-name\" property=\"v:country-name\">Germany</span> </span></span></address>",
+    "HotelID": "529498",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/12/87/1287733079fe8afff8870dd30dd9c2f73large.jpg"
+  }
+}

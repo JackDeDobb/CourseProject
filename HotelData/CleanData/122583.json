@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 3.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Centennial, Colorado", "Title": "\u201cAdequate Hotel\u201d", "Author": "colin92", "ReviewID": "UR119627201", "Content": "stayed hotel separate times close airport graceland free nights staff extremely friendly helpful clean spotless black mold bathtub caulking light breakfast consisted rolls hard boiled eggs waffles cereal building maintainance curb appeal front desk stairwells located busy road quieted 800 five choice hotels stayed trip rate bottom night decided pull tires car steering play loud music outside window 800 finally car running overhaul car hotels decorated fall inside dining ok 1 2 nights", "Date": "2011-10-23 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 3.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 3.0}, "AuthorLocation": "New York", "Title": "\u201cClose to airport\u201d", "Author": "books30", "ReviewID": "UR119569046", "Content": "stayed week traveling morning flight reasonable rate low close airport hear planes ealry morning breakfast standard near graceland comfort inn cleancomfortable staff nice friendly woman desk told bbq restaurant near graceland singer performing friday night hopping sorry dont remeber name ate bbq restaurants memphis btw rendevous downtown bbq restaurant ive dined", "Date": "2011-10-21 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 1.0, "Overall": 2.0, "Value": 2.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 2.0}, "AuthorLocation": "Beebe, Arkansas", "Title": "\u201cnot very clean - would not stay again or recommend.\u201d", "Author": "slbuckcts", "ReviewID": "UR72984464", "Content": "stayed close graceland comfort inn chain neighborhood safe couple single ladies staff helpful clean looks heavily truckers casual traveler vacationer choose else completely comfortable change sheets bed stained furniture floor cleaned stay recommend family friends", "Date": "2010-07-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Nashville, TN", "Title": "\u201cGreat price and very nice!\u201d", "Author": "CallyEP", "ReviewID": "UR59561596", "Content": "aunt memphis graceland frequently usually stay hotel decided save money try comfort inn beware town dont spoil hotel hotel near airport sometimes loud lot truck lot truckers stay hotel hotel lobby nice liked nice lobby entry arrived hotel 10am reservation surprising check front desk staff friendly helpful clean microwave fridge double beds comfy chair 22 inch tv bathroom clean shower water pressure awesome complaints cob webs hanging ceiling trim compliant heater smelt bad hotel offered free breakfast looked okay variety didnt time eat clean hotel cozy stay future", "Date": "2010-03-26 00:00:00"}], "HotelInfo": {"Name": "Budgetel Inn & Suites", "HotelURL": "/ShowUserReviews-g55197-d122583-Reviews-Budgetel_Inn_Suites-Memphis_Tennessee.html", "Price": "$75 - $75*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3005 Millbranch Road</span>, <span class=\"locality\"><span property=\"v:locality\">Memphis</span>, <span property=\"v:region\">TN</span> <span property=\"v:postal-code\">38116</span></span> (Formerly Comfort Inn &amp; Suites)</span> </span> </address>", "HotelID": "122583", "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/44/4a/cc/exterior.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 3.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Centennial, Colorado",
+      "Title": "\u201cAdequate Hotel\u201d",
+      "Author": "colin92",
+      "ReviewID": "UR119627201",
+      "Content": "stayed hotel separate times close airport graceland free nights staff extremely friendly helpful clean spotless black mold bathtub caulking light breakfast consisted rolls hard boiled eggs waffles cereal building maintainance curb appeal front desk stairwells located busy road quieted 800 five choice hotels stayed trip rate bottom night decided pull tires car steering play loud music outside window 800 finally car running overhaul car hotels decorated fall inside dining ok 1 2 nights",
+      "Date": "2011-10-23 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 3.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "New York",
+      "Title": "\u201cClose to airport\u201d",
+      "Author": "books30",
+      "ReviewID": "UR119569046",
+      "Content": "stayed week traveling morning flight reasonable rate low close airport hear planes ealry morning breakfast standard near graceland comfort inn cleancomfortable staff nice friendly woman desk told bbq restaurant near graceland singer performing friday night hopping sorry dont remeber name ate bbq restaurants memphis btw rendevous downtown bbq restaurant ive dined",
+      "Date": "2011-10-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 1.0,
+        "Overall": 2.0,
+        "Value": 2.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "Beebe, Arkansas",
+      "Title": "\u201cnot very clean - would not stay again or recommend.\u201d",
+      "Author": "slbuckcts",
+      "ReviewID": "UR72984464",
+      "Content": "stayed close graceland comfort inn chain neighborhood safe couple single ladies staff helpful clean looks heavily truckers casual traveler vacationer choose else completely comfortable change sheets bed stained furniture floor cleaned stay recommend family friends",
+      "Date": "2010-07-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Nashville, TN",
+      "Title": "\u201cGreat price and very nice!\u201d",
+      "Author": "CallyEP",
+      "ReviewID": "UR59561596",
+      "Content": "aunt memphis graceland frequently usually stay hotel decided save money try comfort inn beware town dont spoil hotel hotel near airport sometimes loud lot truck lot truckers stay hotel hotel lobby nice liked nice lobby entry arrived hotel 10am reservation surprising check front desk staff friendly helpful clean microwave fridge double beds comfy chair 22 inch tv bathroom clean shower water pressure awesome complaints cob webs hanging ceiling trim compliant heater smelt bad hotel offered free breakfast looked okay variety didnt time eat clean hotel cozy stay future",
+      "Date": "2010-03-26 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Budgetel Inn & Suites",
+    "HotelURL": "/ShowUserReviews-g55197-d122583-Reviews-Budgetel_Inn_Suites-Memphis_Tennessee.html",
+    "Price": "$75 - $75*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">3005 Millbranch Road</span>, <span class=\"locality\"><span property=\"v:locality\">Memphis</span>, <span property=\"v:region\">TN</span> <span property=\"v:postal-code\">38116</span></span> (Formerly Comfort Inn &amp; Suites)</span> </span> </address>",
+    "HotelID": "122583",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/44/4a/cc/exterior.jpg"
+  }
+}

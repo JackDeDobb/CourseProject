@@ -1,1 +1,80 @@
-{"Reviews": [{"Ratings": {"Service": 4.0, "Cleanliness": 3.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Monterosso al Mare, Italy", "Title": "\u201cGood enough for short stays!!\u201d", "Author": "tellmemary", "ReviewID": "UR123418601", "Content": "ive hotel nights didnt triple own space probably furniture bathroom modern shower depends trip youre doing wont suggest people coming opposite world heavy luggage theres space fine couple staying days weekend expecting able walk kitchenette fine 2 people light breakfast triple studio double beda single bed pushed double studio bed slightly double 74 inches ready feet night drafts air passing window low curtain usually warm heating doesnt properly studio heating control panel displayed written below meant error studio bathroom wrote warm lot soap towels provided glasses dishes etc fast wifi provided secretary didnt look saying complained lift temporary stuck floor 1 waiting told probably getting floor didnt care try talk reception worthed location steps 3 lines tube beautiful hyde park fire system building single time smoke reaches youll wake run downstairs fire system useful run 3 times twice half past midnight 9 morning annoying youre sleeping suggest anyway adapt inconveniences", "Date": "2012-01-21 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 1.0, "Value": 3.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "Melbourne, Australia", "Title": "\u201cAppalling service.\u201d", "Author": "AlanK_11", "ReviewID": "UR103825551", "Content": "ok little returned night 10pm told moved hotel plumbing hotel finally arrived 25 hours disgusting staff 39 suites hotel barely speak english incredibly rude disinterested avoid costs", "Date": "2011-04-12 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 2.0, "Rooms": 3.0, "Location": 5.0}, "AuthorLocation": "New York City, New York", "Title": "\u201cnice location to stay\u201d", "Author": "Europe_Lover_90", "ReviewID": "UR94600872", "Content": "convenient cheap night rates nice designed clean 5 minutes walking station subway wifi free slowly street subway station tons restaurants late indian malaysian thai chinese pub fast food", "Date": "2011-01-27 00:00:00"}, {"Ratings": {"Service": 2.0, "Cleanliness": 4.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 2.0, "Location": 4.0}, "AuthorLocation": "brussels", "Title": "\u201cDisturbing sewer pipe sounds\u201d", "Author": "hotelreviewpvs", "ReviewID": "UR58648027", "Content": "hotel clean practical cheap furniture cleaning okay reception service communicative worst terrible disturbing sound hear whenever taking shower washing hands flush toilet hear sound sewer pipe trough cant fall sleep morning wake soon bed bathroom terrible time happy leave pay advance wouldnt hotel whoch necessity rest sorry write harsh review fix okay hotel location", "Date": "2010-03-15 00:00:00"}], "HotelInfo": {"Name": "39 Suites", "HotelURL": "/ShowUserReviews-g186338-d1216965-Reviews-39_Suites-London_England.html", "Price": "$125 - $1,582*", "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">43 Queensborough Terrace</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">W2 3SY</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>", "HotelID": "1216965", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d5/0a/d50abb66cf69dda17e95ed324e0a0eec1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 3.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Monterosso al Mare, Italy",
+      "Title": "\u201cGood enough for short stays!!\u201d",
+      "Author": "tellmemary",
+      "ReviewID": "UR123418601",
+      "Content": "ive hotel nights didnt triple own space probably furniture bathroom modern shower depends trip youre doing wont suggest people coming opposite world heavy luggage theres space fine couple staying days weekend expecting able walk kitchenette fine 2 people light breakfast triple studio double beda single bed pushed double studio bed slightly double 74 inches ready feet night drafts air passing window low curtain usually warm heating doesnt properly studio heating control panel displayed written below meant error studio bathroom wrote warm lot soap towels provided glasses dishes etc fast wifi provided secretary didnt look saying complained lift temporary stuck floor 1 waiting told probably getting floor didnt care try talk reception worthed location steps 3 lines tube beautiful hyde park fire system building single time smoke reaches youll wake run downstairs fire system useful run 3 times twice half past midnight 9 morning annoying youre sleeping suggest anyway adapt inconveniences",
+      "Date": "2012-01-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 1.0,
+        "Value": 3.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Melbourne, Australia",
+      "Title": "\u201cAppalling service.\u201d",
+      "Author": "AlanK_11",
+      "ReviewID": "UR103825551",
+      "Content": "ok little returned night 10pm told moved hotel plumbing hotel finally arrived 25 hours disgusting staff 39 suites hotel barely speak english incredibly rude disinterested avoid costs",
+      "Date": "2011-04-12 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 2.0,
+        "Rooms": 3.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "New York City, New York",
+      "Title": "\u201cnice location to stay\u201d",
+      "Author": "Europe_Lover_90",
+      "ReviewID": "UR94600872",
+      "Content": "convenient cheap night rates nice designed clean 5 minutes walking station subway wifi free slowly street subway station tons restaurants late indian malaysian thai chinese pub fast food",
+      "Date": "2011-01-27 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 2.0,
+        "Cleanliness": 4.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 2.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "brussels",
+      "Title": "\u201cDisturbing sewer pipe sounds\u201d",
+      "Author": "hotelreviewpvs",
+      "ReviewID": "UR58648027",
+      "Content": "hotel clean practical cheap furniture cleaning okay reception service communicative worst terrible disturbing sound hear whenever taking shower washing hands flush toilet hear sound sewer pipe trough cant fall sleep morning wake soon bed bathroom terrible time happy leave pay advance wouldnt hotel whoch necessity rest sorry write harsh review fix okay hotel location",
+      "Date": "2010-03-15 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "39 Suites",
+    "HotelURL": "/ShowUserReviews-g186338-d1216965-Reviews-39_Suites-London_England.html",
+    "Price": "$125 - $1,582*",
+    "Address": "<address class=\"addressReset\"> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">43 Queensborough Terrace</span>, <span class=\"locality\"><span property=\"v:locality\">London</span> <span property=\"v:postal-code\">W2 3SY</span></span>, <span class=\"country-name\" property=\"v:country-name\">England</span> </span> </span> </address>",
+    "HotelID": "1216965",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/d5/0a/d50abb66cf69dda17e95ed324e0a0eec1large.jpg"
+  }
+}

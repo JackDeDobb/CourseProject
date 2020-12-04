@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 2.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Riverside, California", "Title": "\u201cGood for the price.\u201d", "Author": "MrsCamama", "ReviewID": "UR124699473", "Content": "stayed budget inn overnight suppose sum saying ok liked liked bed except found popcorn blanket warm fridge microwave cable free wifi nice dirty carpet pullout disgustingly dirty tub restroom rusty cruddy suppose rest head night extended", "Date": "2012-02-17 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Saint Paul, Minnesota", "Title": "\u201cgreat place to stay!!!!\u201d", "Author": "dusty3818", "ReviewID": "UR120783758", "Content": "stayed motel rest reviews contact motel helpful clean furniture condition excellent stay close definetly thumbs motel safe town cant stuff stay leaving reservations race weekend", "Date": "2011-11-19 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 2.0, "Overall": 3.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "", "Title": "\u201cBorderline cheap hotel\u201d", "Author": "matth45", "ReviewID": "UR101409450", "Content": "cheap expect name quality basic comfortable fridge microwave nice unfortunately nonsmoking smelled faintly cigarettes entire hallway outside smelled strongly cigarette smoke hotel stupidly smoking nonsmoking door theres smoking staff nice pool hot tub clean continental breakfast coffee cheerios milk", "Date": "2011-03-24 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 1.0, "Value": 1.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 2.0}, "AuthorLocation": "San Diego, California", "Title": "\u201cAbsolutely Would Not Recommend!!\u201d", "Author": "unicorntk71", "ReviewID": "UR99292733", "Content": "hotel aweful stunk bad walked dinner cooking cat urine chinese food suppose smoking spelt bad smoke blowing smoke straight home clothes terrible air conditioner didnt blow cold air hardly air wouldnt paid 35 50 ive staid alot cheaper 3 times", "Date": "2011-03-07 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 2.0, "Overall": 2.0, "Value": 3.0, "Sleep Quality": 1.0, "Rooms": 1.0, "Location": 3.0}, "AuthorLocation": "Omaha, Nebraska", "Title": "\u201cNot the best\u201d", "Author": "CBinAZ", "ReviewID": "UR92856204", "Content": "toilet telephone hand towels hanging shower curtain rod notifying front desk clerk accomodating moved door closed little concerned updates carpet bedspread worn dirty complimentary breakfast coffee 5 dried mini muffins probably stay", "Date": "2011-01-14 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 5.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Dundee, United Kingdom", "Title": "\u201cGreat budget overnight stay\u201d", "Author": "eezern", "ReviewID": "UR83686171", "Content": "stayed hotel didnt expect overnight stay recoup travelling scotland hotels exterior pretty expected streets carpark clean somewhat deserted lobby clean fridge surprised situated downtown close airport pick rental car morning struggle ten minutes walk bite eat hooters oh hassle getting nights sleep despite loud air con unit complimentary coffee pastry lobby left morning", "Date": "2010-10-16 00:00:00"}], "HotelInfo": {"Name": "Budget Inn", "HotelURL": "/ShowUserReviews-g31310-d74410-Reviews-Budget_Inn-Phoenix_Arizona.html", "Price": "$55 - $57*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5259 W Mcdowell Rd</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85035</span></span> </span></span></address>", "HotelID": "74410", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0c/82/0c8203eb9dccb5130d1b966bbb1d94de5large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 2.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Riverside, California",
+      "Title": "\u201cGood for the price.\u201d",
+      "Author": "MrsCamama",
+      "ReviewID": "UR124699473",
+      "Content": "stayed budget inn overnight suppose sum saying ok liked liked bed except found popcorn blanket warm fridge microwave cable free wifi nice dirty carpet pullout disgustingly dirty tub restroom rusty cruddy suppose rest head night extended",
+      "Date": "2012-02-17 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Saint Paul, Minnesota",
+      "Title": "\u201cgreat place to stay!!!!\u201d",
+      "Author": "dusty3818",
+      "ReviewID": "UR120783758",
+      "Content": "stayed motel rest reviews contact motel helpful clean furniture condition excellent stay close definetly thumbs motel safe town cant stuff stay leaving reservations race weekend",
+      "Date": "2011-11-19 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 2.0,
+        "Overall": 3.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "",
+      "Title": "\u201cBorderline cheap hotel\u201d",
+      "Author": "matth45",
+      "ReviewID": "UR101409450",
+      "Content": "cheap expect name quality basic comfortable fridge microwave nice unfortunately nonsmoking smelled faintly cigarettes entire hallway outside smelled strongly cigarette smoke hotel stupidly smoking nonsmoking door theres smoking staff nice pool hot tub clean continental breakfast coffee cheerios milk",
+      "Date": "2011-03-24 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 1.0,
+        "Value": 1.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "San Diego, California",
+      "Title": "\u201cAbsolutely Would Not Recommend!!\u201d",
+      "Author": "unicorntk71",
+      "ReviewID": "UR99292733",
+      "Content": "hotel aweful stunk bad walked dinner cooking cat urine chinese food suppose smoking spelt bad smoke blowing smoke straight home clothes terrible air conditioner didnt blow cold air hardly air wouldnt paid 35 50 ive staid alot cheaper 3 times",
+      "Date": "2011-03-07 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 2.0,
+        "Overall": 2.0,
+        "Value": 3.0,
+        "Sleep Quality": 1.0,
+        "Rooms": 1.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Omaha, Nebraska",
+      "Title": "\u201cNot the best\u201d",
+      "Author": "CBinAZ",
+      "ReviewID": "UR92856204",
+      "Content": "toilet telephone hand towels hanging shower curtain rod notifying front desk clerk accomodating moved door closed little concerned updates carpet bedspread worn dirty complimentary breakfast coffee 5 dried mini muffins probably stay",
+      "Date": "2011-01-14 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 5.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Dundee, United Kingdom",
+      "Title": "\u201cGreat budget overnight stay\u201d",
+      "Author": "eezern",
+      "ReviewID": "UR83686171",
+      "Content": "stayed hotel didnt expect overnight stay recoup travelling scotland hotels exterior pretty expected streets carpark clean somewhat deserted lobby clean fridge surprised situated downtown close airport pick rental car morning struggle ten minutes walk bite eat hooters oh hassle getting nights sleep despite loud air con unit complimentary coffee pastry lobby left morning",
+      "Date": "2010-10-16 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Budget Inn",
+    "HotelURL": "/ShowUserReviews-g31310-d74410-Reviews-Budget_Inn-Phoenix_Arizona.html",
+    "Price": "$55 - $57*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">5259 W Mcdowell Rd</span>, <span class=\"locality\"><span property=\"v:locality\">Phoenix</span>, <span property=\"v:region\">AZ</span> <span property=\"v:postal-code\">85035</span></span> </span></span></address>",
+    "HotelID": "74410",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/0c/82/0c8203eb9dccb5130d1b966bbb1d94de5large.jpg"
+  }
+}

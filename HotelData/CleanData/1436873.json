@@ -1,1 +1,148 @@
-{"Reviews": [{"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "javea", "Title": "\u201cWonderful hotel\u201d", "Author": "Aussieileen", "ReviewID": "UR123912750", "Content": "spent 3 nights hotel highly recommend travellers venice hotel located st marcos square rialto bridge comfortable beautifully decorated venetian style buffet breakfast included price includes wide range fresh fruits cereals breads hams cheese etc freshly coffee price includes free wifi staff incredible friendly enjoy stay venice fantastic value expensive city", "Date": "2012-01-31 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Buenos Aires", "Title": "\u201cExcellent rooms\u201d", "Author": "Karoly75", "ReviewID": "UR121459253", "Content": "san luca located near san marco rialto neither noisy nor crowded narrow street buffet breakfast excellent sometimes tables sufficient people arrive time nice excellent furnished staff extremely heplful", "Date": "2011-12-06 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 4.0, "Location": 2.0}, "AuthorLocation": "NJ", "Title": "\u201cWarning-Do not stay in the Annex. Hotel is fine but in noisy San Marco location.\u201d", "Author": "Ozer", "ReviewID": "UR109181553", "Content": "hotel fine stay dark annex service breakfast satisfactory hand location close hand makes noisy san marco location teeming tourists taking vaporetto quieter venice bit overwhelming", "Date": "2011-05-21 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Amesbury, Massachusetts", "Title": "\u201cVery comfortable room in a convenient location\u201d", "Author": "trobaba", "ReviewID": "UR94777287", "Content": "hotel 4 minute walk san marco 6 minute walk rialto near popular sights location remember virtually neighborhood life commerce tourism anyway comfortably furnished clean modern bathroom helpful staff breakfast cold cuts croissants wireless internet free deal cut price january definitely feel lucked hotel partners sort nearby restaurant trattoria da called recommend eat dont restaurants vicinity run am wary serve geniune ambiance rialto bridge openair veggie fish market nighttime action wine bars cafe practically corner hotel serves wonderful heavenly coffee steep flight stairs leading hotel inconvenience stay consider aboveaverage value", "Date": "2011-01-28 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Melbourne", "Title": "\u201cA free trip to Murano\u201d", "Author": "AussieSophia", "ReviewID": "UR81907545", "Content": "pleasant stay breakfast organised served requested lady breakfast front desk helpful internet wifi access improved bit touch free day trip murano glass factory tour bonus clean quaint venetian decor luved location perfect 2 mins rialto bridge san marco sq", "Date": "2010-10-03 00:00:00"}, {"Ratings": {"Service": 4.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "Riyadh, Saudi Arabia", "Title": "\u201cLOVELY PLACE TO RELAX AND SLEEP AFTER ALONG DAY\u201d", "Author": "Nuha123", "ReviewID": "UR81671488", "Content": "cosy hotel clean simple modern bath bright colored decorated stands 3 star gloomy hotels red dark wall paper location close san marco enjoy mornig simple breakfast", "Date": "2010-09-30 00:00:00"}, {"Ratings": {"Service": 1.0, "Cleanliness": 4.0, "Overall": 3.0, "Value": 3.0, "Sleep Quality": 3.0, "Rooms": 3.0, "Location": 4.0}, "AuthorLocation": "Irelandwest", "Title": "\u201cA lot of improvement needed for staff - Very good location\u201d", "Author": "travellingtoday", "ReviewID": "UR69215600", "Content": "location hotel short distance st marks square hotel appeared clean fairly surprised dissatisfied welcome received attendant front desk travelling international conference northern italy plan stay night hotel centre venice avail time city appeared laugh travelling placed exactly reception moved shown stated quiet excuses saying quietest hotel taking morning flight venice western europe overnight bus prior flight unable asleep talking noise reception desk outside laptop failed connect wireless hotel informed attendant desk bring straight courtesy shown permission invasion privacy stay noticed looking contrast information stated hotel attendents reception desk speak english competent manner nighttime attendant little english attendant desk following morning incorrect directions leaving venice following day furthermore decided st marks square midnight instructed unfriendly fashion doors locked 20 minutes expect staff service hotel charge rates hotel charges", "Date": "2010-06-30 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 5.0}, "AuthorLocation": "South Wales", "Title": "\u201cExcellent hotel in excellent location\u201d", "Author": "MEMSouthWales", "ReviewID": "UR66965780", "Content": "hotel clean bed sofa safe bathroom facilities excellent downside 103 reception sound carried easily noisy afternoon trying quiet hour heat else perfect", "Date": "2010-06-09 00:00:00"}], "HotelInfo": {"Name": "Hotel San Luca", "HotelURL": "/ShowUserReviews-g187870-d1436873-Reviews-Hotel_San_Luca-Venice_Veneto.html", "Price": "$171 - $303*", "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle Dei Fabbri 4671</span> | <span class=\"extended-address\">San Marco</span>, <span class=\"locality\"><span property=\"v:postal-code\">30124</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "1436873", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8d/8b/8d8ba1a6739b1150bccfac4740a598cf1large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "javea",
+      "Title": "\u201cWonderful hotel\u201d",
+      "Author": "Aussieileen",
+      "ReviewID": "UR123912750",
+      "Content": "spent 3 nights hotel highly recommend travellers venice hotel located st marcos square rialto bridge comfortable beautifully decorated venetian style buffet breakfast included price includes wide range fresh fruits cereals breads hams cheese etc freshly coffee price includes free wifi staff incredible friendly enjoy stay venice fantastic value expensive city",
+      "Date": "2012-01-31 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Buenos Aires",
+      "Title": "\u201cExcellent rooms\u201d",
+      "Author": "Karoly75",
+      "ReviewID": "UR121459253",
+      "Content": "san luca located near san marco rialto neither noisy nor crowded narrow street buffet breakfast excellent sometimes tables sufficient people arrive time nice excellent furnished staff extremely heplful",
+      "Date": "2011-12-06 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 4.0,
+        "Location": 2.0
+      },
+      "AuthorLocation": "NJ",
+      "Title": "\u201cWarning-Do not stay in the Annex. Hotel is fine but in noisy San Marco location.\u201d",
+      "Author": "Ozer",
+      "ReviewID": "UR109181553",
+      "Content": "hotel fine stay dark annex service breakfast satisfactory hand location close hand makes noisy san marco location teeming tourists taking vaporetto quieter venice bit overwhelming",
+      "Date": "2011-05-21 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Amesbury, Massachusetts",
+      "Title": "\u201cVery comfortable room in a convenient location\u201d",
+      "Author": "trobaba",
+      "ReviewID": "UR94777287",
+      "Content": "hotel 4 minute walk san marco 6 minute walk rialto near popular sights location remember virtually neighborhood life commerce tourism anyway comfortably furnished clean modern bathroom helpful staff breakfast cold cuts croissants wireless internet free deal cut price january definitely feel lucked hotel partners sort nearby restaurant trattoria da called recommend eat dont restaurants vicinity run am wary serve geniune ambiance rialto bridge openair veggie fish market nighttime action wine bars cafe practically corner hotel serves wonderful heavenly coffee steep flight stairs leading hotel inconvenience stay consider aboveaverage value",
+      "Date": "2011-01-28 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Melbourne",
+      "Title": "\u201cA free trip to Murano\u201d",
+      "Author": "AussieSophia",
+      "ReviewID": "UR81907545",
+      "Content": "pleasant stay breakfast organised served requested lady breakfast front desk helpful internet wifi access improved bit touch free day trip murano glass factory tour bonus clean quaint venetian decor luved location perfect 2 mins rialto bridge san marco sq",
+      "Date": "2010-10-03 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 4.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "Riyadh, Saudi Arabia",
+      "Title": "\u201cLOVELY PLACE TO RELAX AND SLEEP AFTER ALONG DAY\u201d",
+      "Author": "Nuha123",
+      "ReviewID": "UR81671488",
+      "Content": "cosy hotel clean simple modern bath bright colored decorated stands 3 star gloomy hotels red dark wall paper location close san marco enjoy mornig simple breakfast",
+      "Date": "2010-09-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 1.0,
+        "Cleanliness": 4.0,
+        "Overall": 3.0,
+        "Value": 3.0,
+        "Sleep Quality": 3.0,
+        "Rooms": 3.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Irelandwest",
+      "Title": "\u201cA lot of improvement needed for staff - Very good location\u201d",
+      "Author": "travellingtoday",
+      "ReviewID": "UR69215600",
+      "Content": "location hotel short distance st marks square hotel appeared clean fairly surprised dissatisfied welcome received attendant front desk travelling international conference northern italy plan stay night hotel centre venice avail time city appeared laugh travelling placed exactly reception moved shown stated quiet excuses saying quietest hotel taking morning flight venice western europe overnight bus prior flight unable asleep talking noise reception desk outside laptop failed connect wireless hotel informed attendant desk bring straight courtesy shown permission invasion privacy stay noticed looking contrast information stated hotel attendents reception desk speak english competent manner nighttime attendant little english attendant desk following morning incorrect directions leaving venice following day furthermore decided st marks square midnight instructed unfriendly fashion doors locked 20 minutes expect staff service hotel charge rates hotel charges",
+      "Date": "2010-06-30 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 5.0
+      },
+      "AuthorLocation": "South Wales",
+      "Title": "\u201cExcellent hotel in excellent location\u201d",
+      "Author": "MEMSouthWales",
+      "ReviewID": "UR66965780",
+      "Content": "hotel clean bed sofa safe bathroom facilities excellent downside 103 reception sound carried easily noisy afternoon trying quiet hour heat else perfect",
+      "Date": "2010-06-09 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Hotel San Luca",
+    "HotelURL": "/ShowUserReviews-g187870-d1436873-Reviews-Hotel_San_Luca-Venice_Veneto.html",
+    "Price": "$171 - $303*",
+    "Address": "<address class=\"addressReset\"><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Calle Dei Fabbri 4671</span> | <span class=\"extended-address\">San Marco</span>, <span class=\"locality\"><span property=\"v:postal-code\">30124</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "1436873",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/8d/8b/8d8ba1a6739b1150bccfac4740a598cf1large.jpg"
+  }
+}

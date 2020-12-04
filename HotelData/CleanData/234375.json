@@ -1,1 +1,114 @@
-{"Reviews": [{"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 4.0}, "AuthorLocation": "Bucharest, Romania", "Title": "\u201cA beautiful experience!\u201d", "Author": "semiramida_10", "ReviewID": "UR120018318", "Content": "hotel perfect spend lovely near venice romantic seen lido island wonderful hotel quiet recommend ibiza lovers hotel charming garden breakfast front hotel youll nice stylish chairs tables flowers everythig hotel lucky person pay marvellous view lagoon breakfast ok 34 days boring isnt nice decorated bathroom comfortable whats wrong front desk staff little bit unfriendly recommend hotel quiet crowded venice", "Date": "2011-11-01 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 5.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "sydney", "Title": "\u201cExcellent location away from the crowds\u201d", "Author": "smf2050", "ReviewID": "UR119269606", "Content": "hotel located main venice accessible venice boats travel unless public transport strike hotel waters edge beach located short clean breakfast staff spoke english direct boat airport travel leaving", "Date": "2011-10-13 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 3.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "Lafayette, Louisiana", "Title": "\u201cNice hotel that is the right price but off the beaten path\u201d", "Author": "easyeric601", "ReviewID": "UR118979929", "Content": "nice clean hotel island lido 24 hours staff competent exactly friendly clean european standards modern bathroom breakfast plentiful typical italy cold meats croissants yogurt pastries etc coffee internet free believe 6 22 euroday thats price internet shops venice free unlimited hotels waterbus train bus station easier sounds heading lido usually stop idea 72 hour pass youll ferry time venice proper waterbus ticket bus lido island lido kilometer hotel nice 20 minute walk promenade left leave waterbus stop walk water youre walk catch bus hotel bus stops hotel cant remember bus ones street waterbuses towards left youve arrived bus goes roundabout sounds lot bad lido nice little beach nice restaurants overall pretty experience", "Date": "2011-10-05 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 4.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Swindon, United Kingdom", "Title": "\u201cExcellent Hotel and location for visiting Venice!\u201d", "Author": "marct0603", "ReviewID": "UR118568622", "Content": "stayed nights whilst exploring lido venice hotel consists main hotel additional block looked adjoining house views excellent clean tidy grounds kept relaxing checkin direction person reception located set set grounds opposite main hotel consisted bedroom ensuite plenty space storage bathroom nice spacious breakfast plenty choice stocked available self service staff able food available times food choice includes cereal ham cheese yogurts pastries rolls boiled scrambled eggs sausages bread marmalade jam fruit juice fruit tomatoes water hot drinks etc terrace outside front hotel ideal eating breakfast drink afternoon evening hotel bar serving basic wine beer spirits etc receptionist happy serve required garden seating spacious comfortable relaxing enjoy drink days sightseeing venice bus stop directly outside hotel day buses hour bus waterbus terminals lido bus route evenings actv local company services buses waterbus easily ticket valid hours ease transportation worth spending money alilaguna waterbus aeroport lido excellent available twice hour cheaper prebook single ticket 16 euro return advance 23 euro 30 days hotel lido traveling waterbus approx 2030mins walk water front past st nicolo aeroport lido eat la pizzeria restaurant restaurant main street vale value money pizzas busy restaurant ice cream found main street left hand trattoria al expensive cover charge included charge 12 service charge beware avoid gelateria bar waiter busy checking local talent distractions serve properly whilst managed tables six unhappy served incorrect drinks didnt cutlery table kept waiting 10mins change ignored request bread table paying bill told bar busy disappointing", "Date": "2011-09-25 00:00:00"}, {"Ratings": {"Service": 3.0, "Cleanliness": 4.0, "Overall": 4.0, "Value": 4.0, "Sleep Quality": 4.0, "Rooms": 4.0, "Location": 3.0}, "AuthorLocation": "London, England", "Title": "\u201cLovely little hotel, perfect if you want to be a little out of the hustle and bustle\u201d", "Author": "dopey2the_max", "ReviewID": "UR113154921", "Content": "hotel lovely spotlessly clean perfectly adequate comfortable staff helpful joy eat breakfast terrace looking lagoon towards venice picturesque hotel stretch lido little consequently heavenly quiet bus stop outside connect rest lido venetian islands lovely walk water instead chose overall recommend highly traveller venice stay bustling centre", "Date": "2011-06-13 00:00:00"}, {"Ratings": {"Service": 5.0, "Cleanliness": 5.0, "Overall": 5.0, "Value": 5.0, "Sleep Quality": 5.0, "Rooms": 5.0, "Location": 4.0}, "AuthorLocation": "Bayern", "Title": "\u201cGeheimtipp - Insider tip\u201d", "Author": "luckytrotter", "ReviewID": "UR83981258", "Content": "meanwhile hotel called palace hotel newly renovated months ago april 2010 simply fantastic course youre venice city card 28 euro person 48 hours bus vaporetto station vaporetto boat venice youre 30 minutes photos actually boat rides romantic real feeling venice bus boats run 10 minutes late night wonderful nicely furnished including minibar safe air conditioning incl heating bathrooms nicely marble bidet clean lot balconies terraces advantages lido drive hotel car taking ferry course park free peace quiet real view water venice pay city breakfast included price breakfast recommend hotel weve", "Date": "2010-10-18 00:00:00"}], "HotelInfo": {"Name": "Viktoria Palace Hotel", "HotelURL": "/ShowUserReviews-g187870-d234375-Reviews-Viktoria_Palace_Hotel-Venice_Veneto.html", "Price": "$99 - $394*", "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Riviera San Nicolo, 50</span> | <span class=\"extended-address\">Lido di Venezia</span>, <span class=\"locality\"><span property=\"v:postal-code\">30126</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>", "HotelID": "234375", "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b4/d3/b4d302ae66557d820886516ca1f0f3fb4large.jpg"}}
+{
+  "Reviews": [
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bucharest, Romania",
+      "Title": "\u201cA beautiful experience!\u201d",
+      "Author": "semiramida_10",
+      "ReviewID": "UR120018318",
+      "Content": "hotel perfect spend lovely near venice romantic seen lido island wonderful hotel quiet recommend ibiza lovers hotel charming garden breakfast front hotel youll nice stylish chairs tables flowers everythig hotel lucky person pay marvellous view lagoon breakfast ok 34 days boring isnt nice decorated bathroom comfortable whats wrong front desk staff little bit unfriendly recommend hotel quiet crowded venice",
+      "Date": "2011-11-01 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 5.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "sydney",
+      "Title": "\u201cExcellent location away from the crowds\u201d",
+      "Author": "smf2050",
+      "ReviewID": "UR119269606",
+      "Content": "hotel located main venice accessible venice boats travel unless public transport strike hotel waters edge beach located short clean breakfast staff spoke english direct boat airport travel leaving",
+      "Date": "2011-10-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 3.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "Lafayette, Louisiana",
+      "Title": "\u201cNice hotel that is the right price but off the beaten path\u201d",
+      "Author": "easyeric601",
+      "ReviewID": "UR118979929",
+      "Content": "nice clean hotel island lido 24 hours staff competent exactly friendly clean european standards modern bathroom breakfast plentiful typical italy cold meats croissants yogurt pastries etc coffee internet free believe 6 22 euroday thats price internet shops venice free unlimited hotels waterbus train bus station easier sounds heading lido usually stop idea 72 hour pass youll ferry time venice proper waterbus ticket bus lido island lido kilometer hotel nice 20 minute walk promenade left leave waterbus stop walk water youre walk catch bus hotel bus stops hotel cant remember bus ones street waterbuses towards left youve arrived bus goes roundabout sounds lot bad lido nice little beach nice restaurants overall pretty experience",
+      "Date": "2011-10-05 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 4.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Swindon, United Kingdom",
+      "Title": "\u201cExcellent Hotel and location for visiting Venice!\u201d",
+      "Author": "marct0603",
+      "ReviewID": "UR118568622",
+      "Content": "stayed nights whilst exploring lido venice hotel consists main hotel additional block looked adjoining house views excellent clean tidy grounds kept relaxing checkin direction person reception located set set grounds opposite main hotel consisted bedroom ensuite plenty space storage bathroom nice spacious breakfast plenty choice stocked available self service staff able food available times food choice includes cereal ham cheese yogurts pastries rolls boiled scrambled eggs sausages bread marmalade jam fruit juice fruit tomatoes water hot drinks etc terrace outside front hotel ideal eating breakfast drink afternoon evening hotel bar serving basic wine beer spirits etc receptionist happy serve required garden seating spacious comfortable relaxing enjoy drink days sightseeing venice bus stop directly outside hotel day buses hour bus waterbus terminals lido bus route evenings actv local company services buses waterbus easily ticket valid hours ease transportation worth spending money alilaguna waterbus aeroport lido excellent available twice hour cheaper prebook single ticket 16 euro return advance 23 euro 30 days hotel lido traveling waterbus approx 2030mins walk water front past st nicolo aeroport lido eat la pizzeria restaurant restaurant main street vale value money pizzas busy restaurant ice cream found main street left hand trattoria al expensive cover charge included charge 12 service charge beware avoid gelateria bar waiter busy checking local talent distractions serve properly whilst managed tables six unhappy served incorrect drinks didnt cutlery table kept waiting 10mins change ignored request bread table paying bill told bar busy disappointing",
+      "Date": "2011-09-25 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 3.0,
+        "Cleanliness": 4.0,
+        "Overall": 4.0,
+        "Value": 4.0,
+        "Sleep Quality": 4.0,
+        "Rooms": 4.0,
+        "Location": 3.0
+      },
+      "AuthorLocation": "London, England",
+      "Title": "\u201cLovely little hotel, perfect if you want to be a little out of the hustle and bustle\u201d",
+      "Author": "dopey2the_max",
+      "ReviewID": "UR113154921",
+      "Content": "hotel lovely spotlessly clean perfectly adequate comfortable staff helpful joy eat breakfast terrace looking lagoon towards venice picturesque hotel stretch lido little consequently heavenly quiet bus stop outside connect rest lido venetian islands lovely walk water instead chose overall recommend highly traveller venice stay bustling centre",
+      "Date": "2011-06-13 00:00:00"
+    },
+    {
+      "Ratings": {
+        "Service": 5.0,
+        "Cleanliness": 5.0,
+        "Overall": 5.0,
+        "Value": 5.0,
+        "Sleep Quality": 5.0,
+        "Rooms": 5.0,
+        "Location": 4.0
+      },
+      "AuthorLocation": "Bayern",
+      "Title": "\u201cGeheimtipp - Insider tip\u201d",
+      "Author": "luckytrotter",
+      "ReviewID": "UR83981258",
+      "Content": "meanwhile hotel called palace hotel newly renovated months ago april 2010 simply fantastic course youre venice city card 28 euro person 48 hours bus vaporetto station vaporetto boat venice youre 30 minutes photos actually boat rides romantic real feeling venice bus boats run 10 minutes late night wonderful nicely furnished including minibar safe air conditioning incl heating bathrooms nicely marble bidet clean lot balconies terraces advantages lido drive hotel car taking ferry course park free peace quiet real view water venice pay city breakfast included price breakfast recommend hotel weve",
+      "Date": "2010-10-18 00:00:00"
+    }
+  ],
+  "HotelInfo": {
+    "Name": "Viktoria Palace Hotel",
+    "HotelURL": "/ShowUserReviews-g187870-d234375-Reviews-Viktoria_Palace_Hotel-Venice_Veneto.html",
+    "Price": "$99 - $394*",
+    "Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">Riviera San Nicolo, 50</span> | <span class=\"extended-address\">Lido di Venezia</span>, <span class=\"locality\"><span property=\"v:postal-code\">30126</span> <span property=\"v:locality\">Venice</span></span>, <span class=\"country-name\" property=\"v:country-name\">Italy</span> </span></span></address>",
+    "HotelID": "234375",
+    "ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/b4/d3/b4d302ae66557d820886516ca1f0f3fb4large.jpg"
+  }
+}
