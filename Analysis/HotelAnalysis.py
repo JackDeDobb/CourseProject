@@ -1,5 +1,5 @@
 # Use Python3
-from HotelAnalysisMethods import *
+from AnalysisMethods import *
 import json
 import nltk
 import numpy as np

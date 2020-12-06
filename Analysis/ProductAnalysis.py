@@ -1,6 +1,5 @@
 # Use Python3
 from ProductAnalysisMethods import *
-from scipy.special import digamma, gammaln
 import json
 import nltk
 import numpy as np
