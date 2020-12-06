@@ -1,5 +1,6 @@
 [
   {
+    "reviewId": "40001",
     "productName": "TrekStor i.Beat Cebrax FM 512 MB MP3 Player (Black)",
     "title": "Good Value",
     "author": "S. S. Childers \"s. child\"",
@@ -13,6 +14,7 @@
     "htmlPath": "F:\\amazon_mp3\\1/492"
   },
   {
+    "reviewId": "40003",
     "productName": "TrekStor i.Beat Cebrax FM 512 MB MP3 Player (Black)",
     "title": "Didn't Work",
     "author": "C. Jerzyk",
@@ -26,6 +28,7 @@
     "htmlPath": "F:\\amazon_mp3\\1/492"
   },
   {
+    "reviewId": "40004",
     "productName": "TrekStor i.Beat Cebrax FM 512 MB MP3 Player (Black)",
     "title": "Good Mp3 Player",
     "author": "",

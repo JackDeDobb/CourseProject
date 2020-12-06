@@ -33,8 +33,11 @@ allReviews = ''
 with open(productDataRawFile) as productDataRawFile:
   allReviews = productDataRawFile.read().split('#####')
   for review in allReviews[1:]:
+    id = review.split('\n')[:1]
+    
     reviewAttributes = review.split('\n')[1:]
     jsonObj = {}
+    jsonObj["reviewId"] = ':'.join(id)
     for (dataAttribute, reviewAttributesIndex) in dataAttributes.items():
       try:
         jsonObj[dataAttribute] = ':'.join(reviewAttributes[reviewAttributesIndex].split(':')[1:])
