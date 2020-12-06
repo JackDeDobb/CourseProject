@@ -97,8 +97,11 @@ def getData(folder):
 
 
 if __name__ == '__main__':
+  currDirectoryOfScript = os.path.dirname(os.path.realpath(__file__))
+  cleanDataLocation = '/'.join([currDirectoryOfScript, '..', 'Data', 'ProductData', 'testData']) # TODO: switch from testData to CleanData
+  resultsLocation = '/'.join([currDirectoryOfScript, '..', 'Results', 'ProductFinalResults.txt'])
   stopWords = genStopwords()
-  productList, reviewDataList = getData('ProductData/testData') # Read the json files
+  productList, reviewDataList = getData(cleanDataLocation) # Read the json files
   vocab, cnt, vocabDict, reviewList, reviewFreqDictList, productIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, allReviewsList = createVocab(reviewDataList, productList, stopWords)
   reviewLabelList, reviewMatrixList,positiveWordList, negativeWordList, totalMse,totalPearson = runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList, allReviewsList)
-  generateResults(productIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, reviewDataList, reviewLabelList, reviewList, reviewMatrixList, positiveWordList, negativeWordList, 'ProductFinalResults.txt') # Use the word matrix to generate the results
+  generateResults(productIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, reviewDataList, reviewLabelList, reviewList, reviewMatrixList, positiveWordList, negativeWordList, resultsLocation) # Use the word matrix to generate the results
