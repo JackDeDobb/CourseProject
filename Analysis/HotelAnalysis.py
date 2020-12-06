@@ -106,12 +106,15 @@ def getData(folder):
 
 
 if __name__ == '__main__':
+  currDirectoryOfScript = os.path.dirname(os.path.realpath(__file__))
+  cleanDataLocation = '/'.join([currDirectoryOfScript, '..', 'Data', 'HotelData', 'testData']) # TODO: switch from testData to CleanData
+  resultsLocation = '/'.join([currDirectoryOfScript, '..', 'Results', 'HotelFinalResults.txt'])
   stopWords = genStopwords()
   print('DEBUG: stop words')
-  hotelList, reviewDataList = getData('Data/HotelData/testData') # TODO: used TestData for testing ; use CleanData for production # Read the json files
+  hotelList, reviewDataList = getData(cleanDataLocation)
   print('DEBUG: getData')
   vocab, cnt, vocabDict, reviewList, reviewFreqDictList, hotelIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, allReviewsList = createVocab(reviewDataList, hotelList, stopWords)
   print('DEBUG: createVocab')
   reviewLabelList, reviewMatrixList,positiveWordList, negativeWordList, totalMse,totalPearson = runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList, allReviewsList)
   print('DEBUG: run algo')
-  generateResults(hotelIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, reviewDataList, reviewLabelList, reviewList, reviewMatrixList, positiveWordList, negativeWordList, totalMse, 'Results/HotelFinalResults.txt') # Use the word matrix to generate the results
+  generateResults(hotelIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, reviewDataList, reviewLabelList, reviewList, reviewMatrixList, positiveWordList, negativeWordList, totalMse, resultsLocation) # Use the word matrix to generate the results
