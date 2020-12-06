@@ -110,7 +110,6 @@ if __name__ == '__main__':
   cleanDataLocation = '/'.join([currDirectoryOfScript, '..', 'Data', 'HotelData', 'testData']) # TODO: switch from testData to CleanData
   resultsLocation = '/'.join([currDirectoryOfScript, '..', 'Results', 'HotelFinalResults.txt'])
   stopWords = genStopwords()
-  print('DEBUG: stop words')
   hotelList, reviewDataList = getData(cleanDataLocation)
   print('DEBUG: getData')
   vocab, cnt, vocabDict, reviewList, reviewFreqDictList, hotelIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, allReviewsList = createVocab(reviewDataList, hotelList, stopWords)

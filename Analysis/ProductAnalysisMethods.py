@@ -40,7 +40,7 @@ def parseWords(content, stopWords): # Use nltk and stopwords to tokenize words
 
 def genStopwords():
   currDirectoryOfScript = os.path.dirname(os.path.realpath(__file__))
-  with open('/'.join([currDirectoryOfScript, 'StopWords.json'])) as stopWords:
+  with open('/'.join([currDirectoryOfScript, '..', 'Data', 'StopWords.json'])) as stopWords:
     return set(json.load(stopWords))
 
 
