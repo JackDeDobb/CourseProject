@@ -7,12 +7,12 @@ import string
 
 
 currDirectoryOfScript = os.path.dirname(os.path.realpath(__file__))
-hotelDataRawFilesDirectory = '/'.join([currDirectoryOfScript, 'HotelData', 'RawData'])
-hotelDataCleanFilesDirectory = '/'.join([currDirectoryOfScript, 'HotelData', 'CleanData'])
+hotelDataRawFilesDirectory = '/'.join([currDirectoryOfScript, '..', 'Data', 'HotelData', 'RawData'])
+hotelDataCleanFilesDirectory = '/'.join([currDirectoryOfScript, '..', 'Data', 'HotelData', 'CleanData'])
 hotelDataFileNames = os.listdir(hotelDataRawFilesDirectory)
 
 stopWords = ''
-with open('/'.join([currDirectoryOfScript, 'StopWords.json'])) as stopWords:
+with open('/'.join([currDirectoryOfScript, '..', 'Data', 'StopWords.json'])) as stopWords:
   stopWords = set(json.load(stopWords))
 
 hotelIDToDataMapping = {}
