@@ -1,6 +1,5 @@
 # Use Python3
 from HotelAnalysisMethods import *
-from scipy.special import digamma, gammaln
 import json
 import nltk
 import numpy as np
@@ -28,7 +27,10 @@ def createVocab(reviewDataList, hotelList, stopWords):
   allTerms, reviewList, reviewFreqDictList, hotelIdList, reviewIdList, reviewContentList,reviewRatingList, reviewAuthorList  = [], [], [], [], [], [], [], []
   #serviceList, cleanlinessList,valueList, sleepQualityList,roomsList,locationList= [], [], [], [], [], []
   allReviewsList=[]
+  print(range(len(reviewDataList)))
   for r in range(len(reviewDataList)):
+    if (r % 300 == 0):
+      print('r = ' + str(r))
     for review in reviewDataList[r]['Reviews']:
       parsedWords = parseWords(review['Content'], stopWords)
       reviewFrequency = dict(nltk.FreqDist(parsedWords))
@@ -105,7 +107,11 @@ def getData(folder):
 
 if __name__ == '__main__':
   stopWords = genStopwords()
+  print('DEBUG: stop words')
   hotelList, reviewDataList = getData('HotelData/testData') # TODO: used TestData for testing ; use CleanData for production # Read the json files
+  print('DEBUG: getData')
   vocab, cnt, vocabDict, reviewList, reviewFreqDictList, hotelIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, allReviewsList = createVocab(reviewDataList, hotelList, stopWords)
+  print('DEBUG: createVocab')
   reviewLabelList, reviewMatrixList,positiveWordList, negativeWordList, totalMse,totalPearson = runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList, allReviewsList)
+  print('DEBUG: run algo')
   generateResults(hotelIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, reviewDataList, reviewLabelList, reviewList, reviewMatrixList, positiveWordList, negativeWordList, totalMse, 'HotelFinalResults.txt') # Use the word matrix to generate the results
