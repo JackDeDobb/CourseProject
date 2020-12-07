@@ -1,6 +1,5 @@
 # Use Python3
 from AnalysisMethods import *
-import json
 import nltk
 import numpy as np
 import os
@@ -63,22 +62,7 @@ def createVocab(reviewDataList, hotelList, stopWords):
   vocab = np.array(vocab)[np.argsort(vocab)].tolist()
   cnt = np.array(cnt)[np.argsort(vocab)].tolist()
   vocabDict = dict(zip(vocab, range(len(vocab))))
-
   return vocab, cnt, vocabDict, reviewList, reviewFreqDictList, hotelIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, allReviewsList
-
-
-def sentenceLabeling(mu, sigma, reviewFreqDictList, vocab, vocabDict): # Update labels
-  reviewLabelList = [[] for i in range(len(reviewFreqDictList))]
-  for i in range(len(reviewFreqDictList)):
-    aspectWeights = np.zeros(shape=(7, len(list(reviewFreqDictList[i].keys()))))
-    for j in range(7):
-      aspectWeights[j] = np.random.normal(loc=mu, scale=sigma, size=len(list(reviewFreqDictList[i].keys())))
-    aspectWeights = aspectWeights / aspectWeights.sum(axis=1, keepdims=1) # Normalize to make row sum=1
-    for j in range(7):
-      reviewLabels = [-1] * len(list(reviewFreqDictList[i].keys())) # Initialize each review as -1
-      reviewLabels[np.where(aspectWeights[j] == max(aspectWeights[j]))[0][0]] = 1 # Change the label to 1 for the word most matching the aspec
-      reviewLabelList[i].append(reviewLabels)
-  return reviewLabelList
 
 
 def createWMatrixForEachReview(reviewWordsDict, vocab, vocabDict, reviewLabels): # Generate the matrix for each review
@@ -113,7 +97,7 @@ def getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList):
   return positiveWordList, negativeWordList
 
 
-def generatePredictedAspects(reviewFreqDictList,reviewMatrixList):
+def generatePredictedAspects(reviewFreqDictList, reviewMatrixList):
   predList = []
   for i in range(len(reviewMatrixList)):
     for j in range(len(reviewMatrixList[i])):
@@ -129,7 +113,7 @@ def generatePredictedAspects(reviewFreqDictList,reviewMatrixList):
 
 def runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList, allReviewsList):
   mu, sigma = generateAspectParameters(reviewFreqDictList, vocabDict) # Aspect modeling to get parameters
-  reviewLabelList = sentenceLabeling(mu, sigma, reviewFreqDictList, vocab, vocabDict) # Create aspects and get labels from aspect terms on reviews
+  reviewLabelList = sentenceLabeling(mu, sigma, reviewFreqDictList, 7) # Create aspects and get labels from aspect terms on reviews
   reviewMatrixList = createWordMatrix(reviewFreqDictList, vocab, vocabDict, reviewLabelList) # Create the word matrix for all the reviews
   positiveWordList, negativeWordList = getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList)
   predList = generatePredictedAspects(reviewFreqDictList, reviewMatrixList)
