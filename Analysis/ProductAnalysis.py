@@ -82,8 +82,8 @@ def createWordMatrix(reviewFreqDictList, reviewLabelList): # Ratings analysis an
 def getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList):
   positiveWordList, negativeWordList = [], []
   for i in range(len(reviewMatrixList)):
-    BestSentimentIndex=reviewMatrixList[i].argmax(axis=0)
-    WorstSentimentIndex=reviewMatrixList[i].argmin(axis=0)
+    BestSentimentIndex = reviewMatrixList[i].argmax(axis=0)
+    WorstSentimentIndex = reviewMatrixList[i].argmin(axis=0)
     positiveWordList.append(list(reviewFreqDictList[i].keys())[BestSentimentIndex])
     negativeWordList.append(list(reviewFreqDictList[i].keys())[WorstSentimentIndex])
   return positiveWordList, negativeWordList
