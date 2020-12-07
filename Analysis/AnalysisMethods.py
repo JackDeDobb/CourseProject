@@ -245,9 +245,9 @@ def runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList, allRevie
   mu, sigma = generateAspectParameters(reviewFreqDictList, vocabDict) # Aspect modeling to get parameters
   reviewLabelList = sentenceLabeling(mu, sigma, reviewFreqDictList, vocab, vocabDict) # Create aspects and get labels from aspect terms on reviews
   reviewMatrixList = createWordMatrix(reviewFreqDictList, vocab, vocabDict, reviewLabelList) # Create the word matrix for all the reviews
-  positiveWordList, negativeWordList= getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList)
-  predList=generatePredictedAspects(reviewFreqDictList, reviewMatrixList)
-  totalMse, totalPearson=getStats(predList, allReviewsList)
+  positiveWordList, negativeWordList = getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList)
+  predList = generatePredictedAspects(reviewFreqDictList, reviewMatrixList)
+  totalMse, totalPearson = getStats(predList, allReviewsList)
   return reviewLabelList, reviewMatrixList, positiveWordList, negativeWordList, totalMse, totalPearson
 
 
