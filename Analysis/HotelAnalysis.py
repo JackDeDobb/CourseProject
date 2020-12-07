@@ -19,11 +19,11 @@ else:
 #######################################################################
 
 
-def createVocab(reviewDataList, hotelList, stopWords):
+def createVocab(reviewDataList, itemList, stopWords):
   # Iterate through all the json files data and create vocabulary dictionary having the words and their associated counts
   # Use parseWords to generate the tokenized terms
   # Use nltk.FreqDist to generate term frequqnecies
-  allReviewsList, allTerms, reviewList, reviewFreqDictList, hotelIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList  = [], [], [], [], [], [], [], [], []
+  allReviewsList, allTerms, reviewList, reviewFreqDictList, itemIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList = [], [], [], [], [], [], [], [], []
   print(range(len(reviewDataList)))
   for r in range(len(reviewDataList)):
     if (r % 300 == 0):
@@ -34,7 +34,7 @@ def createVocab(reviewDataList, hotelList, stopWords):
       reviewFreqDictList.append(reviewFrequency)
       reviewList.append(parsedWords)
       reviewIdList.append(review['ReviewID'])
-      hotelIdList.append(hotelList[r])
+      itemIdList.append(itemList[r])
       reviewContentList.append(review['Content'])
       allReviewsList.append(review['Ratings']['Service'])
       allReviewsList.append(review['Ratings']['Cleanliness'])
@@ -62,7 +62,7 @@ def createVocab(reviewDataList, hotelList, stopWords):
   vocab = np.array(vocab)[np.argsort(vocab)].tolist()
   cnt = np.array(cnt)[np.argsort(vocab)].tolist()
   vocabDict = dict(zip(vocab, range(len(vocab))))
-  return vocab, cnt, vocabDict, reviewList, reviewFreqDictList, hotelIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, allReviewsList
+  return vocab, cnt, vocabDict, reviewList, reviewFreqDictList, itemIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, allReviewsList
 
 
 def createWMatrixForEachReview(reviewWordsDict, reviewLabels): # Generate the matrix for each review
@@ -111,7 +111,7 @@ def generatePredictedAspects(reviewFreqDictList, reviewMatrixList):
   return predList
 
 
-def runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList, allReviewsList):
+def runAlgorithm(vocabDict, reviewFreqDictList, allReviewsList):
   mu, sigma = generateAspectParameters(reviewFreqDictList, vocabDict) # Aspect modeling to get parameters
   reviewLabelList = sentenceLabeling(mu, sigma, reviewFreqDictList, 7) # Create aspects and get labels from aspect terms on reviews
   reviewMatrixList = createWordMatrix(reviewFreqDictList, reviewLabelList) # Create the word matrix for all the reviews
@@ -126,10 +126,10 @@ if __name__ == '__main__':
   cleanDataLocation = '/'.join([currDirectoryOfScript, '..', 'Data', 'HotelData', 'testData']) # TODO: switch from testData to CleanData
   resultsLocation = '/'.join([currDirectoryOfScript, '..', 'Results', 'HotelFinalResults.txt'])
   stopWords = genStopwords()
-  hotelList, reviewDataList = getData(cleanDataLocation)
+  itemList, reviewDataList = getData(cleanDataLocation)
   print('DEBUG: getData')
-  vocab, cnt, vocabDict, reviewList, reviewFreqDictList, hotelIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, allReviewsList = createVocab(reviewDataList, hotelList, stopWords)
+  vocab, cnt, vocabDict, reviewList, reviewFreqDictList, itemIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, allReviewsList = createVocab(reviewDataList, itemList, stopWords)
   print('DEBUG: createVocab')
-  reviewLabelList, reviewMatrixList,positiveWordList, negativeWordList, totalMse, totalPearson = runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList, allReviewsList)
+  reviewLabelList, reviewMatrixList, positiveWordList, negativeWordList, totalMse, totalPearson = runAlgorithm(vocabDict, reviewFreqDictList, allReviewsList)
   print('DEBUG: run algo')
-  generateResults(hotelIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, reviewDataList, reviewLabelList, reviewList, reviewMatrixList, positiveWordList, negativeWordList, totalMse, totalPearson, resultsLocation) # Use the word matrix to generate the results
+  generateResults(itemIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, reviewDataList, reviewLabelList, reviewList, reviewMatrixList, positiveWordList, negativeWordList, totalMse, totalPearson, resultsLocation) # Use the word matrix to generate the results
