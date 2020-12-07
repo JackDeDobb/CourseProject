@@ -1,6 +1,5 @@
 # Use Python3
-from ProductAnalysisMethods import *
-from scipy.special import digamma, gammaln
+from AnalysisMethods import *
 import json
 import nltk
 import numpy as np
@@ -25,10 +24,12 @@ def createVocab(reviewDataList, productList, stopWords):
   # Iterate through all the json files data and create vocabulary dictionary having the words and their associated counts
   # Use parseWords to generate the tokenized terms
   # Use nltk.FreqDist to generate term frequqnecies
-  allTerms, reviewList, reviewFreqDictList, productIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList = [], [], [], [], [], [], [], []
-  allReviewsList=[]
+  allReviewsList, allTerms, reviewList, reviewFreqDictList, productIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList = [], [], [], [], [], [], [], [], []
+  print(range(len(reviewDataList)))
   for r in range(len(reviewDataList)):
-    for review in reviewDataList[r]:#['Reviews']:
+    if (r % 300 == 0):
+      print('r = ' + str(r))
+    for review in reviewDataList[r]:
       parsedWords = parseWords(review['fullText'], stopWords)
       reviewFrequency = dict(nltk.FreqDist(parsedWords))
       reviewFreqDictList.append(reviewFrequency)
@@ -56,34 +57,7 @@ def createVocab(reviewDataList, productList, stopWords):
   vocab = np.array(vocab)[np.argsort(vocab)].tolist()
   cnt = np.array(cnt)[np.argsort(vocab)].tolist()
   vocabDict = dict(zip(vocab, range(len(vocab))))
-  return vocab, cnt, vocabDict, reviewList, reviewFreqDictList, productIdList, reviewIdList, reviewContentList,reviewRatingList, reviewAuthorList, allReviewsList
-
-
-def generateResults(productIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, reviewDataList, reviewLabelList, reviewList, reviewMatrixList, positiveWordList, negativeWordList, finalFile):
-  f = open(finalFile, 'w')
-  for i in range(len(reviewList)):
-     f.write(':'.join([productIdList[i], reviewIdList[i], reviewContentList[i], str(reviewList[i]), str(reviewMatrixList[i])]) + '\n')
-  TotalNumOfAnnotatedReviews,TotalLengthOfReviews = 0, 0
-  LabelsPerReviewList = []
-  for i in range(len(reviewList)):
-    TotalLengthOfReviews+=len(reviewContentList[i])
-    for j in range(len(reviewLabelList[i])):
-      NumOfAnnotatedReviews=0
-      if reviewLabelList[i][j] != -1:
-        NumOfAnnotatedReviews += 1 # num of AnnotatedWords in each review
-        LabelsPerReviewList.append(NumOfAnnotatedReviews)
-      TotalNumOfAnnotatedReviews += NumOfAnnotatedReviews
-  print("Total number of items =" + str(len(set(productIdList))) +"\n")
-  print("Total number of reviews =" + str(len(reviewList)) +"\n")
-  print("Total number of annotated reviews =" + str(TotalNumOfAnnotatedReviews) +"\n")
-  print("Labels per Review=" + str(np.mean(LabelsPerReviewList)) + "+-" + str(np.std(LabelsPerReviewList)) + "\n")
-  print("Total number of reviewers ="+ str(len(set(reviewAuthorList))) +"\n")
-  print("Average length of review ="+ str(TotalLengthOfReviews/len(reviewList)) +"\n")
-  print("Ratings of review ="+ str(np.mean(reviewRatingList))+"+-"+str(np.std(reviewRatingList)) +"\n")
-  print("High Overall Ratings =" +str(sorted(dict(nltk.FreqDist(positiveWordList)).items(), key=lambda item: item[1], reverse=True)[:30]))
-  print("Low Overall Ratings =" +str(sorted(dict(nltk.FreqDist(negativeWordList)).items(), key=lambda item: item[1], reverse=True)[:30]))
-  print("Total MSE ="+str(totalMse))
-  print("Total Pearson ="+ str(totalPearson))
+  return vocab, cnt, vocabDict, reviewList, reviewFreqDictList, productIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, allReviewsList
 
 
 def getData(folder):
@@ -96,12 +70,118 @@ def getData(folder):
   return productList, reviewDataList
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+def sentenceLabeling(mu, sigma, reviewFreqDictList, vocab, vocabDict): # Update labels
+  reviewLabelList = [[] for i in range(len(reviewFreqDictList))]
+  for i in range(len(reviewFreqDictList)):
+    aspectWeights = np.zeros(shape=(1, len(list(reviewFreqDictList[i].keys()))))
+    aspectWeights[0] = np.random.normal(loc=mu, scale=sigma, size=len(list(reviewFreqDictList[i].keys())))
+    aspectWeights[0] = aspectWeights[0] / aspectWeights[0].sum(keepdims=1) # Normalize to make row sum=1
+    reviewLabels = [-1] * len(list(reviewFreqDictList[i].keys())) # Initialize each review as -1
+    reviewLabels[np.where(aspectWeights[0] == max(aspectWeights[0]))[0][0]] = 1 # Change the label to 1 for the word most matching the aspec
+    reviewLabelList[i].append(reviewLabels)
+  return reviewLabelList
+
+
+def createWMatrixForEachReview(reviewWordsDict, vocab, vocabDict, reviewLabels): # Generate the matrix for each review
+  review = list(reviewWordsDict.keys())
+  reviewMatrix = np.zeros(len(review))
+  for j in range(len(review)):
+    reviewMatrix[j] = reviewWordsDict[review[j]] * reviewLabels[0][j] # Get the review rating
+  reviewMatrix = (reviewMatrix - reviewMatrix.min(0)) / reviewMatrix.ptp(0)
+  #TODO: for some reason, we are getting the same values of rows in each column.
+  #      Here, we are multiplying the label of each word with it's count in the revie and creating a matrix.
+  #      Thus, theoretically, we should not be getting that. Please help debug. Some thing is off in implementation in
+  #      sentence Labelling or the way this matrix is created.
+  return reviewMatrix
+
+
+def createWordMatrix(reviewFreqDictList, vocab, vocabDict, reviewLabelList): # Ratings analysis and generate review matrix list
+  reviewMatrixList = []
+  for i in range(len(reviewFreqDictList)):
+    reviewMatrix = createWMatrixForEachReview(reviewFreqDictList[i], vocab, vocabDict, reviewLabelList[i])
+    reviewMatrixList.append(reviewMatrix) # TODO: should this flattened?
+  return reviewMatrixList
+
+def getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList):
+  positiveWordList, negativeWordList = [], []
+  for i in range(len(reviewMatrixList)):
+    BestSentimentIndex=reviewMatrixList[i].argmax(axis=0)
+    WorstSentimentIndex=reviewMatrixList[i].argmin(axis=0)
+    positiveWordList.append(list(reviewFreqDictList[i].keys())[BestSentimentIndex])
+    negativeWordList.append(list(reviewFreqDictList[i].keys())[WorstSentimentIndex])
+  return positiveWordList, negativeWordList
+
+def generatePredictedAspects(reviewFreqDictList,reviewMatrixList):
+  predList = []
+  for j in range(len(reviewMatrixList)):
+    predReviews = 0
+    for k in range(len(reviewMatrixList[j])):
+      review = list(reviewFreqDictList[j].keys())
+      predReviews += reviewFreqDictList[j][review[k]]*reviewMatrixList[j][k]
+    predReviews = predReviews/len(reviewMatrixList[j])
+    predList.append(predReviews)
+  predList = [float(i) * 5 / max(predList) for i in predList]
+  return predList
+
+
+
+
+
+def runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList, allReviewsList):
+  mu, sigma = generateAspectParameters(reviewFreqDictList, vocabDict) # Aspect modeling to get parameters
+  reviewLabelList = sentenceLabeling(mu, sigma, reviewFreqDictList, vocab, vocabDict) # Create aspects and get labels from aspect terms on reviews
+  reviewMatrixList = createWordMatrix(reviewFreqDictList, vocab, vocabDict, reviewLabelList) # Create the word matrix for all the reviews
+  positiveWordList, negativeWordList = getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList)
+  predList = generatePredictedAspects(reviewFreqDictList, reviewMatrixList)
+  totalMse, totalPearson = getStats(predList, allReviewsList)
+  return reviewLabelList, reviewMatrixList, positiveWordList, negativeWordList, totalMse, totalPearson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 if __name__ == '__main__':
   currDirectoryOfScript = os.path.dirname(os.path.realpath(__file__))
   cleanDataLocation = '/'.join([currDirectoryOfScript, '..', 'Data', 'ProductData', 'testData']) # TODO: switch from testData to CleanData
   resultsLocation = '/'.join([currDirectoryOfScript, '..', 'Results', 'ProductFinalResults.txt'])
   stopWords = genStopwords()
-  productList, reviewDataList = getData(cleanDataLocation) # Read the json files
+  productList, reviewDataList = getData(cleanDataLocation)
+  print('DEBUG: getData')
   vocab, cnt, vocabDict, reviewList, reviewFreqDictList, productIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, allReviewsList = createVocab(reviewDataList, productList, stopWords)
+  print('DEBUG: createVocab')
   reviewLabelList, reviewMatrixList,positiveWordList, negativeWordList, totalMse,totalPearson = runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList, allReviewsList)
-  generateResults(productIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, reviewDataList, reviewLabelList, reviewList, reviewMatrixList, positiveWordList, negativeWordList, resultsLocation) # Use the word matrix to generate the results
+  print('DEBUG: run algo')
+  generateResults(productIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, reviewDataList, reviewLabelList, reviewList, reviewMatrixList, positiveWordList, negativeWordList, totalMse, totalPearson, resultsLocation) # Use the word matrix to generate the results
