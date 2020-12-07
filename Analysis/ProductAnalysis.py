@@ -59,7 +59,7 @@ def createVocab(reviewDataList, productList, stopWords):
   return vocab, cnt, vocabDict, reviewList, reviewFreqDictList, productIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, allReviewsList
 
 
-def createWMatrixForEachReview(reviewWordsDict, vocab, vocabDict, reviewLabels): # Generate the matrix for each review
+def createWMatrixForEachReview(reviewWordsDict, reviewLabels): # Generate the matrix for each review
   review = list(reviewWordsDict.keys())
   reviewMatrix = np.zeros(len(review))
   for j in range(len(review)):
@@ -72,10 +72,10 @@ def createWMatrixForEachReview(reviewWordsDict, vocab, vocabDict, reviewLabels):
   return reviewMatrix
 
 
-def createWordMatrix(reviewFreqDictList, vocab, vocabDict, reviewLabelList): # Ratings analysis and generate review matrix list
+def createWordMatrix(reviewFreqDictList, reviewLabelList): # Ratings analysis and generate review matrix list
   reviewMatrixList = []
   for i in range(len(reviewFreqDictList)):
-    reviewMatrixList.append(createWMatrixForEachReview(reviewFreqDictList[i], vocab, vocabDict, reviewLabelList[i]))
+    reviewMatrixList.append(createWMatrixForEachReview(reviewFreqDictList[i], reviewLabelList[i]))
   return reviewMatrixList
 
 
@@ -105,7 +105,7 @@ def generatePredictedAspects(reviewFreqDictList, reviewMatrixList):
 def runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList, allReviewsList):
   mu, sigma = generateAspectParameters(reviewFreqDictList, vocabDict) # Aspect modeling to get parameters
   reviewLabelList = sentenceLabeling(mu, sigma, reviewFreqDictList, 1) # Create aspects and get labels from aspect terms on reviews
-  reviewMatrixList = createWordMatrix(reviewFreqDictList, vocab, vocabDict, reviewLabelList) # Create the word matrix for all the reviews
+  reviewMatrixList = createWordMatrix(reviewFreqDictList, reviewLabelList) # Create the word matrix for all the reviews
   positiveWordList, negativeWordList = getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList)
   predList = generatePredictedAspects(reviewFreqDictList, reviewMatrixList)
   totalMse, totalPearson = getStats(predList, allReviewsList)
