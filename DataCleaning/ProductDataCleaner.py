@@ -7,11 +7,11 @@ import string
 
 
 currDirectoryOfScript = os.path.dirname(os.path.realpath(__file__))
-productDataCleanFilesDirectory = '/'.join([currDirectoryOfScript, 'ProductData', 'CleanData'])
-productDataRawFile = '/'.join([currDirectoryOfScript, 'ProductData', 'RawData', 'amazon_mp3.txt'])
+productDataCleanFilesDirectory = '/'.join([currDirectoryOfScript, '..', 'Data', 'ProductData', 'CleanData'])
+productDataRawFile = '/'.join([currDirectoryOfScript, '..', 'Data', 'ProductData', 'RawData', 'amazon_mp3.txt'])
 
 stopWords = ''
-with open('/'.join([currDirectoryOfScript, 'StopWords.json'])) as stopWords:
+with open('/'.join([currDirectoryOfScript, '..', 'Data', 'StopWords.json'])) as stopWords:
   stopWords = set(json.load(stopWords))
 
 dataAttributes = {

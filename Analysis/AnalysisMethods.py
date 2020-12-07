@@ -22,12 +22,20 @@ else:
 
 
 
-def parseWordsForSentence(content, vocab, vocabDict): # Use nltk and stopwords to tokenize words for  each review
-  tokenizedWords = []
-  for sentence in nltk.sent_tokenize(content):
-    stemmedWordsInVocab = [stemmer.stem(w.lower()) for w in nltk.word_tokenize(sentence) if stemmer.stem(w.lower()) in vocabDict]
-    tokenizedWords += [vocabDict.get(w) for w in stemmedWordsInVocab]
-  return tokenizedWords
+def genStopwords():
+  currDirectoryOfScript = os.path.dirname(os.path.realpath(__file__))
+  with open('/'.join([currDirectoryOfScript, '..', 'Data', 'StopWords.json'])) as stopWords:
+    return set(json.load(stopWords))
+
+
+def getData(folder):
+  reviewDataList, itemList = [], []
+  for file in os.listdir(folder):
+    if file.endswith('.json'):
+      with open(folder + '/' + file, encoding='utf-8') as data_file:
+        reviewDataList.append(json.load(data_file))
+        itemList.append(file.split('.')[0])
+  return itemList, reviewDataList
 
 
 def parseWords(content, stopWords): # Use nltk and stopwords to tokenize words
@@ -36,12 +44,6 @@ def parseWords(content, stopWords): # Use nltk and stopwords to tokenize words
     stemmedWords = [stemmer.stem(w.lower()) for w in nltk.word_tokenize(sentence) if w not in string.punctuation]
     tokenizedWords += [v for v in stemmedWords if v not in stopWords] # Remove stopwords
   return tokenizedWords
-
-
-def genStopwords():
-  currDirectoryOfScript = os.path.dirname(os.path.realpath(__file__))
-  with open('/'.join([currDirectoryOfScript, 'StopWords.json'])) as stopWords:
-    return set(json.load(stopWords))
 
 
 def initializeParameters(reviewFreqDictList, vocabDict, M, k):
@@ -142,22 +144,19 @@ def MStep(phi, eta, reviewFreqDictList, vocabDict, k, M):
       p = phi[d][:, i]
       for j in range(0, V):
         word = list(vocabDict)[j]
-        indicator=np.in1d(words, word).astype(int)
+        indicator = np.in1d(words, word).astype(int)
         epsilon[i,j] += np.dot(indicator, p)
   return np.transpose(np.transpose(epsilon) / np.sum(epsilon, axis=1)) # the epsilon value
 
 
 def EM(phi, eta, gamma, epsilon, lmbda, sigmaSq, mu, sigma, reviewFreqDictList, vocabDict, M, k):
   likelihood, oldLikelihood, iteration = 0, 0, 1
-  while iteration <= 2 or np.abs((likelihood - oldLikelihood) / oldLikelihood) > 1e-4: # Update parameters
+  while iteration <= 2 and (iteration <= 2 or np.abs((likelihood - oldLikelihood) / oldLikelihood) > 1e-4): # Update parameters
     oldLikelihood, oldPhi, oldEta, oldGamma, oldEpsilon, oldLambda, oldSigmaSq, oldMu, oldSigma = likelihood, phi, eta, gamma, epsilon, lmbda, sigmaSq, mu, sigma
     phi, eta,  mu, sigma, likelihood = EStep(oldPhi, oldEta, oldGamma, oldEpsilon, oldLambda, oldSigmaSq, oldMu, oldSigma, reviewFreqDictList, vocabDict, k, M)
     epsilon = MStep(phi, eta, reviewFreqDictList, vocabDict, k, M)
     print('Iteration ' + str(iteration) + ': Likelihood = ' + str(likelihood))
     iteration += 1
-    #if iteration > 100: #TODO: Change For production
-    if iteration > 2: # For testing
-      break
   return phi, eta, gamma, epsilon, mu, sigma, likelihood
   ## TODO : Check up on EM (it is growing on the negative side)
 
@@ -171,99 +170,40 @@ def generateAspectParameters(reviewFreqDictList, vocabDict): # Aspect modeling
     initMu += initLambda[0,d]
   initMu = initMu / M
   for d in range(0, M):
-    initSigma += (initLambda[0,d] - initMu)**2 + initSigmaSq[0,d]**2
+    initSigma += (initLambda[0, d] - initMu)**2 + initSigmaSq[0,d]**2
   initSigma = initSigma / M
   phi, eta, gamma, epsilon, mu, sigma, likelihood = EM(initPhi, initEta, initGamma, initEpsilon, initLambda, initSigmaSq, initMu, initSigma, reviewFreqDictList, vocabDict, M, k)
   return mu, sigma
 
 
-def sentenceLabeling(mu, sigma, reviewFreqDictList, vocab, vocabDict): # Update labels
-  reviewLabelList = [[] for i in range(len(reviewFreqDictList))]
-  for i in range(len(reviewFreqDictList)):
-  #for i in range(2):
-    aspectWeights=np.zeros(shape=(1,len(list(reviewFreqDictList[i].keys()))))
-    #for j in range(1):
-    aspectWeights[0] = np.random.normal(loc=mu, scale=sigma, size=len(list(reviewFreqDictList[i].keys())))
-    aspectWeights[0] = aspectWeights[0] / aspectWeights[0].sum(keepdims=1) # Normalize to make row sum=1
-    #for j in range(1):
-    reviewLabels = [-1] * len(list(reviewFreqDictList[i].keys())) # Initialize each review as -1
-    reviewLabels[np.where(aspectWeights[0]==max(aspectWeights[0]))[0][0]] = 1 # Change the label to 1 for the word most matching the aspec
-    reviewLabelList[i].append(reviewLabels)
-  return reviewLabelList
-
-
-def createWMatrixForEachReview(reviewWordsDict, vocab, vocabDict, reviewLabels): # Generate the matrix for each review
-  review=list(reviewWordsDict.keys())
-  #reviewMatrix = np.zeros((len(reviewLabels), len(review)))
-  reviewMatrix = np.zeros(len(review))
-  #for i in range(len(reviewLabels)):
-    #print(reviewLabels[i])
-    #for j in range(len(review)):
-      #print(reviewLabels[i][j])
-      #print(reviewWordsDict[review[j]])
-      #reviewMatrix[i, j] = reviewWordsDict[review[j]] * reviewLabels[i][j] # Get the review rating
-    #print(reviewMatrix[i])
-    #reviewMatrix[i]  = (reviewMatrix[i] - reviewMatrix[i].min(0)) / reviewMatrix[i].ptp(0) #Normalizing without negative values
-    #print(reviewMatrix[i])
-  for j in range(len(review)):
-      reviewMatrix[j] = reviewWordsDict[review[j]] * reviewLabels[0][j] # Get the review rating
-      #print(reviewMatrix[j])
-      #reviewMatrix[j]  = (reviewMatrix[j] - reviewMatrix[j].min(0)) / reviewMatrix[j].ptp(0)
-  #reviewMatrix = reviewMatrix / reviewMatrix.sum(axis=1, keepdims=1) # Normalize to make row sum=1
-  reviewMatrix  = (reviewMatrix - reviewMatrix.min(0)) / reviewMatrix.ptp(0)
-  #reviewMatrix = reviewMatrix / reviewMatrix.sum(keepdims=1)
-  #TODO: for some reason, we are getting the same values of rows in each column.
-  #      Here, we are multiplying the label of each word with it's count in the revie and creating a matrix.
-  #      Thus, theoretically, we should not be getting that. Please help debug. Some thing is off in implementation in
-  #      sentence Labelling or the way this matrix is created.
-  return reviewMatrix
-
-
-def createWordMatrix(reviewFreqDictList, vocab, vocabDict, reviewLabelList): # Ratings analysis and generate review matrix list
-  reviewMatrixList = []
-  for i in range(len(reviewFreqDictList)):
-    reviewMatrix = createWMatrixForEachReview(reviewFreqDictList[i], vocab, vocabDict, reviewLabelList[i])
-    reviewMatrixList.append(reviewMatrix) # TODO: should this flattened?
-  return reviewMatrixList
-
-def getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList):
-  positiveWordList, negativeWordList = [], []
-  for i in range(len(reviewMatrixList)):
-      #for j in range(len(reviewMatrixList[i])):
-      BestSentimentIndex=reviewMatrixList[i].argmax(axis=0)
-      WorstSentimentIndex=reviewMatrixList[i].argmin(axis=0)
-      positiveWordList.append(list(reviewFreqDictList[i].keys())[BestSentimentIndex])
-      negativeWordList.append(list(reviewFreqDictList[i].keys())[WorstSentimentIndex])
-  #negativeWordList=[x for x in negativeWordList if x not in positiveWordList]
-  return positiveWordList, negativeWordList
-
-def generatePredictedAspects(reviewFreqDictList,reviewMatrixList):
-    predList=[]
-    for j in range(len(reviewMatrixList)):
-            predReviews=0
-            for k in range(len(reviewMatrixList[j])):
-                review=list(reviewFreqDictList[j].keys())
-                predReviews+=reviewFreqDictList[j][review[k]]*reviewMatrixList[j][k]
-            predReviews=predReviews/len(reviewMatrixList[j])
-            predList.append(predReviews)
-    predList=[float(i)*5/max(predList) for i in predList]
-    #predList=[list(i) for i in zip(*[predList[i:i+len(reviewMatrixList)] for i in range(0, len(predList), len(reviewMatrixList))])]
-    return predList
-
-
-
 def getStats(predList, allReviewsList):
-    print(len(allReviewsList))
-    print(len(predList))
-    totalMSE=np.square(np.subtract(predList, allReviewsList)).mean()
-    totalPearson=np.corrcoef(predList, allReviewsList)[0, 1]
-    return totalMSE, totalPearson
+  totalMSE = np.square(np.subtract(predList, allReviewsList)).mean()
+  totalPearson = np.corrcoef(predList, allReviewsList)[0, 1]
+  return totalMSE, totalPearson
 
-def runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList, allReviewsList):
-  mu, sigma = generateAspectParameters(reviewFreqDictList, vocabDict) # Aspect modeling to get parameters
-  reviewLabelList = sentenceLabeling(mu, sigma, reviewFreqDictList, vocab, vocabDict) # Create aspects and get labels from aspect terms on reviews
-  reviewMatrixList = createWordMatrix(reviewFreqDictList, vocab, vocabDict, reviewLabelList) # Create the word matrix for all the reviews
-  positiveWordList, negativeWordList= getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList)
-  predList=generatePredictedAspects(reviewFreqDictList, reviewMatrixList)
-  totalMse, totalPearson=getStats(predList, allReviewsList)
-  return reviewLabelList, reviewMatrixList, positiveWordList, negativeWordList, totalMse, totalPearson
+
+def generateResults(idList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, reviewDataList, reviewLabelList, reviewList, reviewMatrixList, positiveWordList, negativeWordList, totalMse, totalPearson, finalFile):
+  f = open(finalFile, 'w')
+  for i in range(len(reviewList)):
+     f.write(':'.join([idList[i], reviewIdList[i], reviewContentList[i], str(reviewList[i]), str(reviewMatrixList[i])]) + '\n')
+  TotalNumOfAnnotatedReviews,TotalLengthOfReviews = 0, 0
+  LabelsPerReviewList = []
+  for i in range(len(reviewList)):
+    TotalLengthOfReviews+=len(reviewContentList[i])
+    for j in range(len(reviewLabelList[i])):
+      NumOfAnnotatedReviews=0
+      if reviewLabelList[i][j] != -1:
+        NumOfAnnotatedReviews += 1 # num of AnnotatedWords in each review
+        LabelsPerReviewList.append(NumOfAnnotatedReviews)
+      TotalNumOfAnnotatedReviews += NumOfAnnotatedReviews
+  print("Total number of items =" + str(len(set(idList))) +"\n")
+  print("Total number of reviews =" + str(len(reviewList)) +"\n")
+  print("Total number of annotated reviews =" + str(TotalNumOfAnnotatedReviews) +"\n")
+  print("Labels per Review =" + str(np.mean(LabelsPerReviewList)) + "+-" + str(np.std(LabelsPerReviewList)) + "\n")
+  print("Total number of reviewers ="+ str(len(set(reviewAuthorList))) +"\n")
+  print("Average length of review ="+ str(TotalLengthOfReviews/len(reviewList)) +"\n")
+  print("Ratings of review ="+ str(np.mean(reviewRatingList))+"+-"+str(np.std(reviewRatingList)) +"\n")
+  print("High Overall Ratings =" +str(sorted(dict(nltk.FreqDist(positiveWordList)).items(), key=lambda item: item[1], reverse=True)[:30]))
+  print("Low Overall Ratings =" +str(sorted(dict(nltk.FreqDist(negativeWordList)).items(), key=lambda item: item[1], reverse=True)[:30]))
+  print("Total MSE ="+str(totalMse))
+  print("Total Pearson ="+ str(totalPearson))
