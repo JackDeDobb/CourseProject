@@ -161,6 +161,20 @@ def EM(phi, eta, gamma, epsilon, lmbda, sigmaSq, mu, sigma, reviewFreqDictList, 
   ## TODO : Check up on EM (it is growing on the negative side)
 
 
+def sentenceLabeling(mu, sigma, reviewFreqDictList, shapeSize): # Update labels
+  reviewLabelList = [[] for i in range(len(reviewFreqDictList))]
+  for i in range(len(reviewFreqDictList)):
+    aspectWeights = np.zeros(shape=(shapeSize, len(list(reviewFreqDictList[i].keys()))))
+    for j in range(shapeSize):
+      aspectWeights[j] = np.random.normal(loc=mu, scale=sigma, size=len(list(reviewFreqDictList[i].keys())))
+    aspectWeights = aspectWeights / aspectWeights.sum(axis=1, keepdims=1) # Normalize to make row sum=1
+    for j in range(shapeSize):
+      reviewLabels = [-1] * len(list(reviewFreqDictList[i].keys())) # Initialize each review as -1
+      reviewLabels[np.where(aspectWeights[j] == max(aspectWeights[j]))[0][0]] = 1 # Change the label to 1 for the word most matching the aspec
+      reviewLabelList[i].append(reviewLabels)
+  return reviewLabelList
+
+
 def generateAspectParameters(reviewFreqDictList, vocabDict): # Aspect modeling
   k = 4 # nbr of latent states z
   M = len(reviewFreqDictList) # nbr of reviews
