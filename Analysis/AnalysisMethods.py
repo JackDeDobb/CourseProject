@@ -190,6 +190,17 @@ def generateAspectParameters(reviewFreqDictList, vocabDict): # Aspect modeling
   return mu, sigma
 
 
+def getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList):
+  positiveWordList, negativeWordList = [], []
+  for i in range(len(reviewMatrixList)):
+    for j in range(len(reviewMatrixList[i])):
+      BestSentimentIndex = reviewMatrixList[i][j].argmax(axis=0)
+      WorstSentimentIndex = reviewMatrixList[i][j].argmin(axis=0)
+      positiveWordList.append(list(reviewFreqDictList[i].keys())[BestSentimentIndex])
+      negativeWordList.append(list(reviewFreqDictList[i].keys())[WorstSentimentIndex])
+  return positiveWordList, negativeWordList
+
+
 def getStats(predList, allReviewsList):
   totalMSE = np.square(np.subtract(predList, allReviewsList)).mean()
   totalPearson = np.corrcoef(predList, allReviewsList)[0, 1]
