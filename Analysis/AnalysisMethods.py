@@ -190,10 +190,62 @@ def generateAspectParameters(reviewFreqDictList, vocabDict): # Aspect modeling
   return mu, sigma
 
 
+def createWMatrixForEachReview(reviewWordsDict, reviewLabels): # Generate the matrix for each review
+  review = list(reviewWordsDict.keys())
+  reviewMatrix = np.zeros((len(reviewLabels), len(review)))
+  for i in range(len(reviewLabels)):
+    for j in range(len(review)):
+      reviewMatrix[i, j] = reviewWordsDict[review[j]] * reviewLabels[i][j] # Get the review rating
+    reviewMatrix[i] = (reviewMatrix[i] - reviewMatrix[i].min(0)) / reviewMatrix[i].ptp(0) # Normalizing without negative values
+  return reviewMatrix
+
+
+def createWordMatrix(reviewFreqDictList, reviewLabelList): # Ratings analysis and generate review matrix list
+  reviewMatrixList = []
+  for i in range(len(reviewFreqDictList)):
+    reviewMatrixList.append(createWMatrixForEachReview(reviewFreqDictList[i], reviewLabelList[i]))
+  return reviewMatrixList
+
+
+def generatePredictedAspects(reviewFreqDictList, reviewMatrixList):
+  predList = []
+  for i in range(len(reviewMatrixList)):
+    for j in range(len(reviewMatrixList[i])):
+      predReviews = 0
+      for k in range(len(reviewMatrixList[i][j])):
+        review = list(reviewFreqDictList[i].keys())
+        predReviews += reviewFreqDictList[i][review[k]]*reviewMatrixList[i][j][k]
+      predReviews = predReviews/len(reviewMatrixList[i][j])
+      predList.append(predReviews)
+  predList = [float(i) * 5 / max(predList) for i in predList]
+  return predList
+
+
+def getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList):
+  positiveWordList, negativeWordList = [], []
+  for i in range(len(reviewMatrixList)):
+    for j in range(len(reviewMatrixList[i])):
+      BestSentimentIndex = reviewMatrixList[i][j].argmax(axis=0)
+      WorstSentimentIndex = reviewMatrixList[i][j].argmin(axis=0)
+      positiveWordList.append(list(reviewFreqDictList[i].keys())[BestSentimentIndex])
+      negativeWordList.append(list(reviewFreqDictList[i].keys())[WorstSentimentIndex])
+  return positiveWordList, negativeWordList
+
+
 def getStats(predList, allReviewsList):
   totalMSE = np.square(np.subtract(predList, allReviewsList)).mean()
   totalPearson = np.corrcoef(predList, allReviewsList)[0, 1]
   return totalMSE, totalPearson
+
+
+def runAlgorithm(vocabDict, reviewFreqDictList, allReviewsList, shapeSize):
+  mu, sigma = generateAspectParameters(reviewFreqDictList, vocabDict) # Aspect modeling to get parameters
+  reviewLabelList = sentenceLabeling(mu, sigma, reviewFreqDictList, shapeSize) # Create aspects and get labels from aspect terms on reviews
+  reviewMatrixList = createWordMatrix(reviewFreqDictList, reviewLabelList) # Create the word matrix for all the reviews
+  positiveWordList, negativeWordList = getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList)
+  predList = generatePredictedAspects(reviewFreqDictList, reviewMatrixList)
+  totalMse, totalPearson = getStats(predList, allReviewsList)
+  return reviewLabelList, reviewMatrixList, positiveWordList, negativeWordList, totalMse, totalPearson
 
 
 def generateResults(idList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, reviewDataList, reviewLabelList, reviewList, reviewMatrixList, positiveWordList, negativeWordList, totalMse, totalPearson, finalFile):
