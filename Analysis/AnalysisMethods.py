@@ -28,6 +28,16 @@ def genStopwords():
     return set(json.load(stopWords))
 
 
+def getData(folder):
+  reviewDataList, itemList = [], []
+  for file in os.listdir(folder):
+    if file.endswith('.json'):
+      with open(folder + '/' + file, encoding='utf-8') as data_file:
+        reviewDataList.append(json.load(data_file))
+        itemList.append(file.split('.')[0])
+  return itemList, reviewDataList
+
+
 def parseWords(content, stopWords): # Use nltk and stopwords to tokenize words
   tokenizedWords = []
   for sentence in nltk.sent_tokenize(content):

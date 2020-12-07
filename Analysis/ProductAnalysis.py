@@ -60,30 +60,6 @@ def createVocab(reviewDataList, productList, stopWords):
   return vocab, cnt, vocabDict, reviewList, reviewFreqDictList, productIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, allReviewsList
 
 
-def getData(folder):
-  reviewDataList, productList = [], []
-  for file in os.listdir(folder):
-    if file.endswith('.json'):
-      with open(folder + '/' + file, encoding='utf-8') as data_file:
-        reviewDataList.append(json.load(data_file))
-        productList.append(file.split('.')[0])
-  return productList, reviewDataList
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def sentenceLabeling(mu, sigma, reviewFreqDictList, vocab, vocabDict): # Update labels
   reviewLabelList = [[] for i in range(len(reviewFreqDictList))]
   for i in range(len(reviewFreqDictList)):
@@ -112,9 +88,9 @@ def createWMatrixForEachReview(reviewWordsDict, vocab, vocabDict, reviewLabels):
 def createWordMatrix(reviewFreqDictList, vocab, vocabDict, reviewLabelList): # Ratings analysis and generate review matrix list
   reviewMatrixList = []
   for i in range(len(reviewFreqDictList)):
-    reviewMatrix = createWMatrixForEachReview(reviewFreqDictList[i], vocab, vocabDict, reviewLabelList[i])
-    reviewMatrixList.append(reviewMatrix) # TODO: should this flattened?
+    reviewMatrixList.append(createWMatrixForEachReview(reviewFreqDictList[i], vocab, vocabDict, reviewLabelList[i]))
   return reviewMatrixList
+
 
 def getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList):
   positiveWordList, negativeWordList = [], []
@@ -124,6 +100,7 @@ def getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList):
     positiveWordList.append(list(reviewFreqDictList[i].keys())[BestSentimentIndex])
     negativeWordList.append(list(reviewFreqDictList[i].keys())[WorstSentimentIndex])
   return positiveWordList, negativeWordList
+
 
 def generatePredictedAspects(reviewFreqDictList,reviewMatrixList):
   predList = []
@@ -138,9 +115,6 @@ def generatePredictedAspects(reviewFreqDictList,reviewMatrixList):
   return predList
 
 
-
-
-
 def runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList, allReviewsList):
   mu, sigma = generateAspectParameters(reviewFreqDictList, vocabDict) # Aspect modeling to get parameters
   reviewLabelList = sentenceLabeling(mu, sigma, reviewFreqDictList, vocab, vocabDict) # Create aspects and get labels from aspect terms on reviews
@@ -149,28 +123,6 @@ def runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList, allRevie
   predList = generatePredictedAspects(reviewFreqDictList, reviewMatrixList)
   totalMse, totalPearson = getStats(predList, allReviewsList)
   return reviewLabelList, reviewMatrixList, positiveWordList, negativeWordList, totalMse, totalPearson
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 if __name__ == '__main__':

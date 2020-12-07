@@ -66,17 +66,6 @@ def createVocab(reviewDataList, hotelList, stopWords):
 
   return vocab, cnt, vocabDict, reviewList, reviewFreqDictList, hotelIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, allReviewsList
 
-def getData(folder):
-  reviewDataList, hotelList = [], []
-  for file in os.listdir(folder):
-    if file.endswith('.json'):
-      with open(folder + '/' + file, encoding='utf-8') as data_file:
-        reviewDataList.append(json.load(data_file))
-        hotelList.append(file.split('.')[0])
-  return hotelList, reviewDataList
-
-
-
 
 def sentenceLabeling(mu, sigma, reviewFreqDictList, vocab, vocabDict): # Update labels
   reviewLabelList = [[] for i in range(len(reviewFreqDictList))]
@@ -90,11 +79,6 @@ def sentenceLabeling(mu, sigma, reviewFreqDictList, vocab, vocabDict): # Update 
       reviewLabels[np.where(aspectWeights[j] == max(aspectWeights[j]))[0][0]] = 1 # Change the label to 1 for the word most matching the aspec
       reviewLabelList[i].append(reviewLabels)
   return reviewLabelList
-
-
-
-
-
 
 
 def createWMatrixForEachReview(reviewWordsDict, vocab, vocabDict, reviewLabels): # Generate the matrix for each review
@@ -114,8 +98,7 @@ def createWMatrixForEachReview(reviewWordsDict, vocab, vocabDict, reviewLabels):
 def createWordMatrix(reviewFreqDictList, vocab, vocabDict, reviewLabelList): # Ratings analysis and generate review matrix list
   reviewMatrixList = []
   for i in range(len(reviewFreqDictList)):
-    reviewMatrix = createWMatrixForEachReview(reviewFreqDictList[i], vocab, vocabDict, reviewLabelList[i])
-    reviewMatrixList.append(reviewMatrix) # TODO: should this flattened?
+    reviewMatrixList.append(createWMatrixForEachReview(reviewFreqDictList[i], vocab, vocabDict, reviewLabelList[i]))
   return reviewMatrixList
 
 
@@ -152,17 +135,6 @@ def runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList, allRevie
   predList = generatePredictedAspects(reviewFreqDictList, reviewMatrixList)
   totalMse, totalPearson = getStats(predList, allReviewsList)
   return reviewLabelList, reviewMatrixList, positiveWordList, negativeWordList, totalMse, totalPearson
-
-
-
-
-
-
-
-
-
-
-
 
 
 if __name__ == '__main__':
