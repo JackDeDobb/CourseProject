@@ -22,12 +22,10 @@ else:
 
 
 
-def parseWordsForSentence(content, vocab, vocabDict): # Use nltk and stopwords to tokenize words for  each review
-  tokenizedWords = []
-  for sentence in nltk.sent_tokenize(content):
-    stemmedWordsInVocab = [stemmer.stem(w.lower()) for w in nltk.word_tokenize(sentence) if stemmer.stem(w.lower()) in vocabDict]
-    tokenizedWords += [vocabDict.get(w) for w in stemmedWordsInVocab]
-  return tokenizedWords
+def genStopwords():
+  currDirectoryOfScript = os.path.dirname(os.path.realpath(__file__))
+  with open('/'.join([currDirectoryOfScript, '..', 'Data', 'StopWords.json'])) as stopWords:
+    return set(json.load(stopWords))
 
 
 def parseWords(content, stopWords): # Use nltk and stopwords to tokenize words
@@ -36,12 +34,6 @@ def parseWords(content, stopWords): # Use nltk and stopwords to tokenize words
     stemmedWords = [stemmer.stem(w.lower()) for w in nltk.word_tokenize(sentence) if w not in string.punctuation]
     tokenizedWords += [v for v in stemmedWords if v not in stopWords] # Remove stopwords
   return tokenizedWords
-
-
-def genStopwords():
-  currDirectoryOfScript = os.path.dirname(os.path.realpath(__file__))
-  with open('/'.join([currDirectoryOfScript, '..', 'Data', 'StopWords.json'])) as stopWords:
-    return set(json.load(stopWords))
 
 
 def initializeParameters(reviewFreqDictList, vocabDict, M, k):
@@ -168,87 +160,16 @@ def generateAspectParameters(reviewFreqDictList, vocabDict): # Aspect modeling
     initMu += initLambda[0,d]
   initMu = initMu / M
   for d in range(0, M):
-    initSigma += (initLambda[0,d] - initMu)**2 + initSigmaSq[0,d]**2
+    initSigma += (initLambda[0, d] - initMu)**2 + initSigmaSq[0,d]**2
   initSigma = initSigma / M
   phi, eta, gamma, epsilon, mu, sigma, likelihood = EM(initPhi, initEta, initGamma, initEpsilon, initLambda, initSigmaSq, initMu, initSigma, reviewFreqDictList, vocabDict, M, k)
   return mu, sigma
-
-
-def sentenceLabeling(mu, sigma, reviewFreqDictList, vocab, vocabDict): # Update labels
-  reviewLabelList = [[] for i in range(len(reviewFreqDictList))]
-  for i in range(len(reviewFreqDictList)):
-    aspectWeights = np.zeros(shape=(7, len(list(reviewFreqDictList[i].keys()))))
-    for j in range(7):
-      aspectWeights[j] = np.random.normal(loc=mu, scale=sigma, size=len(list(reviewFreqDictList[i].keys())))
-    aspectWeights = aspectWeights / aspectWeights.sum(axis=1, keepdims=1) # Normalize to make row sum=1
-    for j in range(7):
-      reviewLabels = [-1] * len(list(reviewFreqDictList[i].keys())) # Initialize each review as -1
-      reviewLabels[np.where(aspectWeights[j] == max(aspectWeights[j]))[0][0]] = 1 # Change the label to 1 for the word most matching the aspec
-      reviewLabelList[i].append(reviewLabels)
-  return reviewLabelList
-
-
-def createWMatrixForEachReview(reviewWordsDict, vocab, vocabDict, reviewLabels): # Generate the matrix for each review
-  review = list(reviewWordsDict.keys())
-  reviewMatrix = np.zeros((len(reviewLabels), len(review)))
-  for i in range(len(reviewLabels)):
-    for j in range(len(review)):
-      reviewMatrix[i, j] = reviewWordsDict[review[j]] * reviewLabels[i][j] # Get the review rating
-    reviewMatrix[i]  = (reviewMatrix[i] - reviewMatrix[i].min(0)) / reviewMatrix[i].ptp(0) #Normalizing without negative values
-  # TODO: for some reason, we are getting the same values of rows in each column.
-  #      Here, we are multiplying the label of each word with it's count in the review and creating a matrix.
-  #      Thus, theoretically, we should not be getting that. Please help debug. Some thing is off in implementation in
-  #      sentence Labelling or the way this matrix is created.
-  return reviewMatrix
-
-
-def createWordMatrix(reviewFreqDictList, vocab, vocabDict, reviewLabelList): # Ratings analysis and generate review matrix list
-  reviewMatrixList = []
-  for i in range(len(reviewFreqDictList)):
-    reviewMatrix = createWMatrixForEachReview(reviewFreqDictList[i], vocab, vocabDict, reviewLabelList[i])
-    reviewMatrixList.append(reviewMatrix) # TODO: should this flattened?
-  return reviewMatrixList
-
-
-def getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList):
-  positiveWordList, negativeWordList = [], []
-  for i in range(len(reviewMatrixList)):
-    for j in range(len(reviewMatrixList[i])):
-      BestSentimentIndex=reviewMatrixList[i][j].argmax(axis=0)
-      WorstSentimentIndex=reviewMatrixList[i][j].argmin(axis=0)
-      positiveWordList.append(list(reviewFreqDictList[i].keys())[BestSentimentIndex])
-      negativeWordList.append(list(reviewFreqDictList[i].keys())[WorstSentimentIndex])
-  return positiveWordList, negativeWordList
-
-
-def generatePredictedAspects(reviewFreqDictList,reviewMatrixList):
-  predList = []
-  for i in range(len(reviewMatrixList)):
-    for j in range(len(reviewMatrixList[i])):
-      predReviews = 0
-      for k in range(len(reviewMatrixList[i][j])):
-        review = list(reviewFreqDictList[i].keys())
-        predReviews += reviewFreqDictList[i][review[k]]*reviewMatrixList[i][j][k]
-      predReviews = predReviews/len(reviewMatrixList[i][j])
-      predList.append(predReviews)
-  predList = [float(i) * 5 / max(predList) for i in predList]
-  return predList
 
 
 def getStats(predList, allReviewsList):
   totalMSE = np.square(np.subtract(predList, allReviewsList)).mean()
   totalPearson = np.corrcoef(predList, allReviewsList)[0, 1]
   return totalMSE, totalPearson
-
-
-def runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList, allReviewsList):
-  mu, sigma = generateAspectParameters(reviewFreqDictList, vocabDict) # Aspect modeling to get parameters
-  reviewLabelList = sentenceLabeling(mu, sigma, reviewFreqDictList, vocab, vocabDict) # Create aspects and get labels from aspect terms on reviews
-  reviewMatrixList = createWordMatrix(reviewFreqDictList, vocab, vocabDict, reviewLabelList) # Create the word matrix for all the reviews
-  positiveWordList, negativeWordList = getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList)
-  predList = generatePredictedAspects(reviewFreqDictList, reviewMatrixList)
-  totalMse, totalPearson = getStats(predList, allReviewsList)
-  return reviewLabelList, reviewMatrixList, positiveWordList, negativeWordList, totalMse, totalPearson
 
 
 def generateResults(idList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, reviewDataList, reviewLabelList, reviewList, reviewMatrixList, positiveWordList, negativeWordList, totalMse, totalPearson, finalFile):

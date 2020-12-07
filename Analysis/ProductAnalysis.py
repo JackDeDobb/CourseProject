@@ -1,5 +1,5 @@
 # Use Python3
-from ProductAnalysisMethods import *
+from AnalysisMethods import *
 import json
 import nltk
 import numpy as np
@@ -68,6 +68,109 @@ def getData(folder):
         reviewDataList.append(json.load(data_file))
         productList.append(file.split('.')[0])
   return productList, reviewDataList
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+def sentenceLabeling(mu, sigma, reviewFreqDictList, vocab, vocabDict): # Update labels
+  reviewLabelList = [[] for i in range(len(reviewFreqDictList))]
+  for i in range(len(reviewFreqDictList)):
+    aspectWeights = np.zeros(shape=(1, len(list(reviewFreqDictList[i].keys()))))
+    aspectWeights[0] = np.random.normal(loc=mu, scale=sigma, size=len(list(reviewFreqDictList[i].keys())))
+    aspectWeights[0] = aspectWeights[0] / aspectWeights[0].sum(keepdims=1) # Normalize to make row sum=1
+    reviewLabels = [-1] * len(list(reviewFreqDictList[i].keys())) # Initialize each review as -1
+    reviewLabels[np.where(aspectWeights[0] == max(aspectWeights[0]))[0][0]] = 1 # Change the label to 1 for the word most matching the aspec
+    reviewLabelList[i].append(reviewLabels)
+  return reviewLabelList
+
+
+def createWMatrixForEachReview(reviewWordsDict, vocab, vocabDict, reviewLabels): # Generate the matrix for each review
+  review = list(reviewWordsDict.keys())
+  reviewMatrix = np.zeros(len(review))
+  for j in range(len(review)):
+    reviewMatrix[j] = reviewWordsDict[review[j]] * reviewLabels[0][j] # Get the review rating
+  reviewMatrix = (reviewMatrix - reviewMatrix.min(0)) / reviewMatrix.ptp(0)
+  #TODO: for some reason, we are getting the same values of rows in each column.
+  #      Here, we are multiplying the label of each word with it's count in the revie and creating a matrix.
+  #      Thus, theoretically, we should not be getting that. Please help debug. Some thing is off in implementation in
+  #      sentence Labelling or the way this matrix is created.
+  return reviewMatrix
+
+
+def createWordMatrix(reviewFreqDictList, vocab, vocabDict, reviewLabelList): # Ratings analysis and generate review matrix list
+  reviewMatrixList = []
+  for i in range(len(reviewFreqDictList)):
+    reviewMatrix = createWMatrixForEachReview(reviewFreqDictList[i], vocab, vocabDict, reviewLabelList[i])
+    reviewMatrixList.append(reviewMatrix) # TODO: should this flattened?
+  return reviewMatrixList
+
+def getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList):
+  positiveWordList, negativeWordList = [], []
+  for i in range(len(reviewMatrixList)):
+    BestSentimentIndex=reviewMatrixList[i].argmax(axis=0)
+    WorstSentimentIndex=reviewMatrixList[i].argmin(axis=0)
+    positiveWordList.append(list(reviewFreqDictList[i].keys())[BestSentimentIndex])
+    negativeWordList.append(list(reviewFreqDictList[i].keys())[WorstSentimentIndex])
+  return positiveWordList, negativeWordList
+
+def generatePredictedAspects(reviewFreqDictList,reviewMatrixList):
+  predList = []
+  for j in range(len(reviewMatrixList)):
+    predReviews = 0
+    for k in range(len(reviewMatrixList[j])):
+      review = list(reviewFreqDictList[j].keys())
+      predReviews += reviewFreqDictList[j][review[k]]*reviewMatrixList[j][k]
+    predReviews = predReviews/len(reviewMatrixList[j])
+    predList.append(predReviews)
+  predList = [float(i) * 5 / max(predList) for i in predList]
+  return predList
+
+
+
+
+
+def runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList, allReviewsList):
+  mu, sigma = generateAspectParameters(reviewFreqDictList, vocabDict) # Aspect modeling to get parameters
+  reviewLabelList = sentenceLabeling(mu, sigma, reviewFreqDictList, vocab, vocabDict) # Create aspects and get labels from aspect terms on reviews
+  reviewMatrixList = createWordMatrix(reviewFreqDictList, vocab, vocabDict, reviewLabelList) # Create the word matrix for all the reviews
+  positiveWordList, negativeWordList = getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList)
+  predList = generatePredictedAspects(reviewFreqDictList, reviewMatrixList)
+  totalMse, totalPearson = getStats(predList, allReviewsList)
+  return reviewLabelList, reviewMatrixList, positiveWordList, negativeWordList, totalMse, totalPearson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 if __name__ == '__main__':
