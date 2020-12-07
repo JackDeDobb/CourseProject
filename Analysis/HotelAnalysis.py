@@ -65,24 +65,20 @@ def createVocab(reviewDataList, hotelList, stopWords):
   return vocab, cnt, vocabDict, reviewList, reviewFreqDictList, hotelIdList, reviewIdList, reviewContentList, reviewRatingList, reviewAuthorList, allReviewsList
 
 
-def createWMatrixForEachReview(reviewWordsDict, vocab, vocabDict, reviewLabels): # Generate the matrix for each review
+def createWMatrixForEachReview(reviewWordsDict, reviewLabels): # Generate the matrix for each review
   review = list(reviewWordsDict.keys())
   reviewMatrix = np.zeros((len(reviewLabels), len(review)))
   for i in range(len(reviewLabels)):
     for j in range(len(review)):
       reviewMatrix[i, j] = reviewWordsDict[review[j]] * reviewLabels[i][j] # Get the review rating
-    reviewMatrix[i] = (reviewMatrix[i] - reviewMatrix[i].min(0)) / reviewMatrix[i].ptp(0) #Normalizing without negative values
-  # TODO: for some reason, we are getting the same values of rows in each column.
-  #      Here, we are multiplying the label of each word with it's count in the review and creating a matrix.
-  #      Thus, theoretically, we should not be getting that. Please help debug. Some thing is off in implementation in
-  #      sentence Labelling or the way this matrix is created.
+    reviewMatrix[i] = (reviewMatrix[i] - reviewMatrix[i].min(0)) / reviewMatrix[i].ptp(0) # Normalizing without negative values
   return reviewMatrix
 
 
-def createWordMatrix(reviewFreqDictList, vocab, vocabDict, reviewLabelList): # Ratings analysis and generate review matrix list
+def createWordMatrix(reviewFreqDictList, reviewLabelList): # Ratings analysis and generate review matrix list
   reviewMatrixList = []
   for i in range(len(reviewFreqDictList)):
-    reviewMatrixList.append(createWMatrixForEachReview(reviewFreqDictList[i], vocab, vocabDict, reviewLabelList[i]))
+    reviewMatrixList.append(createWMatrixForEachReview(reviewFreqDictList[i], reviewLabelList[i]))
   return reviewMatrixList
 
 
@@ -90,8 +86,8 @@ def getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList):
   positiveWordList, negativeWordList = [], []
   for i in range(len(reviewMatrixList)):
     for j in range(len(reviewMatrixList[i])):
-      BestSentimentIndex=reviewMatrixList[i][j].argmax(axis=0)
-      WorstSentimentIndex=reviewMatrixList[i][j].argmin(axis=0)
+      BestSentimentIndex = reviewMatrixList[i][j].argmax(axis=0)
+      WorstSentimentIndex = reviewMatrixList[i][j].argmin(axis=0)
       positiveWordList.append(list(reviewFreqDictList[i].keys())[BestSentimentIndex])
       negativeWordList.append(list(reviewFreqDictList[i].keys())[WorstSentimentIndex])
   return positiveWordList, negativeWordList
@@ -114,7 +110,7 @@ def generatePredictedAspects(reviewFreqDictList, reviewMatrixList):
 def runAlgorithm(vocab, cnt, vocabDict, reviewList, reviewFreqDictList, allReviewsList):
   mu, sigma = generateAspectParameters(reviewFreqDictList, vocabDict) # Aspect modeling to get parameters
   reviewLabelList = sentenceLabeling(mu, sigma, reviewFreqDictList, 7) # Create aspects and get labels from aspect terms on reviews
-  reviewMatrixList = createWordMatrix(reviewFreqDictList, vocab, vocabDict, reviewLabelList) # Create the word matrix for all the reviews
+  reviewMatrixList = createWordMatrix(reviewFreqDictList, reviewLabelList) # Create the word matrix for all the reviews
   positiveWordList, negativeWordList = getOverallRatingsForWords(reviewFreqDictList, reviewMatrixList)
   predList = generatePredictedAspects(reviewFreqDictList, reviewMatrixList)
   totalMse, totalPearson = getStats(predList, allReviewsList)
