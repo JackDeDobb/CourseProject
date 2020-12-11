@@ -4,6 +4,7 @@ import nltk
 import numpy as np
 import os
 import ssl
+import sys
 
 
 # Dependencies Below
@@ -60,9 +61,10 @@ def createVocab(reviewDataList, itemList, stopWords):
 
 
 if __name__ == '__main__':
+  useFullDataSet = (sys.argv[1].lower() in ['full', 'fulldata', 'fulldataset']) if (len(sys.argv) > 1) else False
   currDirectoryOfScript = os.path.dirname(os.path.realpath(__file__))
-  cleanDataLocation = '/'.join([currDirectoryOfScript, '..', 'Data', 'ProductData', 'testData']) # TODO: switch from testData to CleanData
-  resultsLocation = '/'.join([currDirectoryOfScript, '..', 'Results', 'ProductFinalResults.txt'])
+  cleanDataLocation = '/'.join([currDirectoryOfScript, '..', 'Data', 'ProductData', 'cleanData' if useFullDataSet else 'testData'])
+  resultsLocation = '/'.join([currDirectoryOfScript, '..', 'Results', 'FullSet_ProductFinalResults.txt' if useFullDataSet else 'TestSet_ProductFinalResults.txt'])
   stopWords = genStopwords()
   itemList, reviewDataList = getData(cleanDataLocation)
   print('DEBUG: getData')

@@ -151,7 +151,7 @@ def MStep(phi, eta, reviewFreqDictList, vocabDict, k, M):
 
 def EM(phi, eta, gamma, epsilon, lmbda, sigmaSq, mu, sigma, reviewFreqDictList, vocabDict, M, k):
   likelihood, oldLikelihood, iteration = 0, 0, 1
-  while iteration <= 2 and (iteration <= 2 or np.abs((likelihood - oldLikelihood) / oldLikelihood) > 1e-4): # TODO: Change from 2 to 100
+  while iteration <= 5 and (iteration <= 2 or np.abs((likelihood - oldLikelihood) / oldLikelihood) > 1e-4): # TODO: Change from 2 to 100
     oldLikelihood, oldPhi, oldEta, oldGamma, oldEpsilon, oldLambda, oldSigmaSq, oldMu, oldSigma = likelihood, phi, eta, gamma, epsilon, lmbda, sigmaSq, mu, sigma
     phi, eta,  mu, sigma, likelihood = EStep(oldPhi, oldEta, oldGamma, oldEpsilon, oldLambda, oldSigmaSq, oldMu, oldSigma, reviewFreqDictList, vocabDict, k, M)
     epsilon = MStep(phi, eta, reviewFreqDictList, vocabDict, k, M)
@@ -255,21 +255,30 @@ def generateResults(idList, reviewIdList, reviewContentList, reviewRatingList, r
   TotalNumOfAnnotatedReviews,TotalLengthOfReviews = 0, 0
   LabelsPerReviewList = []
   for i in range(len(reviewList)):
-    TotalLengthOfReviews+=len(reviewContentList[i])
+    TotalLengthOfReviews += len(reviewContentList[i])
     for j in range(len(reviewLabelList[i])):
       NumOfAnnotatedReviews=0
       if reviewLabelList[i][j] != -1:
         NumOfAnnotatedReviews += 1 # num of AnnotatedWords in each review
         LabelsPerReviewList.append(NumOfAnnotatedReviews)
       TotalNumOfAnnotatedReviews += NumOfAnnotatedReviews
-  print("Total number of items =" + str(len(set(idList))) +"\n")
-  print("Total number of reviews =" + str(len(reviewList)) +"\n")
-  print("Total number of annotated reviews =" + str(TotalNumOfAnnotatedReviews) +"\n")
-  print("Labels per Review =" + str(np.mean(LabelsPerReviewList)) + "+-" + str(np.std(LabelsPerReviewList)) + "\n")
-  print("Total number of reviewers ="+ str(len(set(reviewAuthorList))) +"\n")
-  print("Average length of review ="+ str(TotalLengthOfReviews/len(reviewList)) +"\n")
-  print("Ratings of review ="+ str(np.mean(reviewRatingList))+"+-"+str(np.std(reviewRatingList)) +"\n")
-  print("High Overall Ratings =" +str(sorted(dict(nltk.FreqDist(positiveWordList)).items(), key=lambda item: item[1], reverse=True)[:30]))
-  print("Low Overall Ratings =" +str(sorted(dict(nltk.FreqDist(negativeWordList)).items(), key=lambda item: item[1], reverse=True)[:30]))
-  print("Total MSE ="+str(totalMse))
-  print("Total Pearson ="+ str(totalPearson))
+
+  mapping = {
+    'Total number of items': len(set(idList)),
+    'Total number of reviews': len(reviewList),
+    'Total number of annotated reviews': TotalNumOfAnnotatedReviews,
+    'Labels per Review mean': np.mean(LabelsPerReviewList),
+    'Labels per Review stdev': np.std(LabelsPerReviewList),
+    'Total number of reviewers': len(set(reviewAuthorList)),
+    'Average length of review': TotalLengthOfReviews / len(reviewList),
+    'Ratings of review mean': np.mean(reviewRatingList),
+    'Ratings of review stdev': np.std(reviewRatingList),
+    'High Overall Ratings': sorted(dict(nltk.FreqDist(positiveWordList)).items(), key=lambda item: item[1], reverse=True)[:30],
+    'Low Overall Ratings': sorted(dict(nltk.FreqDist(negativeWordList)).items(), key=lambda item: item[1], reverse=True)[:30],
+    'Total MSE': totalMse,
+    'Total Pearson': totalPearson,
+  }
+  with open(finalFile.replace('.txt', 'Stats.json'), 'w') as outfile:
+    json.dump(mapping, outfile, indent=2)
+  for (k, v) in mapping.items():
+    print(k + ': ' + str(v))
