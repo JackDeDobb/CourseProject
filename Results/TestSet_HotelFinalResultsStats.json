@@ -11,106 +11,90 @@
   "High Overall Ratings": [
     [
       "hotel",
-      29
+      24
     ],
     [
       "stay",
-      25
+      23
     ],
     [
       "staff",
-      25
+      21
     ],
     [
-      "night",
-      16
+      "breakfast",
+      18
     ],
     [
-      "seattl",
+      "walk",
+      17
+    ],
+    [
+      "front",
       15
     ],
     [
       "clean",
-      15
+      14
     ],
     [
       "friendli",
       14
     ],
     [
+      "seattl",
+      13
+    ],
+    [
+      "night",
+      13
+    ],
+    [
+      "block",
+      12
+    ],
+    [
       "locat",
-      13
-    ],
-    [
-      "breakfast",
-      13
-    ],
-    [
-      "bed",
-      11
-    ],
-    [
-      "help",
-      11
-    ],
-    [
-      "pioneer",
-      10
-    ],
-    [
-      "walk",
-      10
-    ],
-    [
-      "close",
-      10
-    ],
-    [
-      "free",
-      10
-    ],
-    [
-      "look",
-      9
-    ],
-    [
-      "downtown",
-      9
-    ],
-    [
-      "market",
-      8
-    ],
-    [
-      "squar",
-      8
+      12
     ],
     [
       "nice",
+      11
+    ],
+    [
+      "space",
+      10
+    ],
+    [
+      "pike",
+      10
+    ],
+    [
+      "comfort",
+      9
+    ],
+    [
+      "love",
       8
     ],
     [
-      "inn",
+      "servic",
       8
-    ],
-    [
-      "price",
-      7
-    ],
-    [
-      "front",
-      7
-    ],
-    [
-      "recommend",
-      7
-    ],
-    [
-      "day",
-      7
     ],
     [
       "travel",
+      8
+    ],
+    [
+      "enjoy",
+      7
+    ],
+    [
+      "park",
+      7
+    ],
+    [
+      "help",
       7
     ],
     [
@@ -118,30 +102,46 @@
       7
     ],
     [
-      "space",
+      "needl",
       7
     ],
     [
-      "wifi",
+      "street",
+      7
+    ],
+    [
+      "squar",
       6
     ],
     [
-      "quiet",
+      "restaur",
+      6
+    ],
+    [
+      "2",
+      6
+    ],
+    [
+      "easi",
+      6
+    ],
+    [
+      "price",
       6
     ]
   ],
   "Low Overall Ratings": [
     [
       "hotel",
-      283
+      278
     ],
     [
       "stay",
-      73
+      76
     ],
     [
       "seattl",
-      42
+      45
     ],
     [
       "walk",
@@ -149,7 +149,7 @@
     ],
     [
       "nice",
-      25
+      26
     ],
     [
       "locat",
@@ -157,7 +157,7 @@
     ],
     [
       "night",
-      21
+      22
     ],
     [
       "staff",
@@ -165,7 +165,7 @@
     ],
     [
       "park",
-      15
+      14
     ],
     [
       "block",
@@ -176,7 +176,7 @@
       14
     ],
     [
-      "coffe",
+      "clean",
       14
     ],
     [
@@ -184,19 +184,15 @@
       13
     ],
     [
-      "clean",
+      "coffe",
       13
     ],
     [
-      "enjoy",
-      7
+      "check",
+      8
     ],
     [
       "elev",
-      7
-    ],
-    [
-      "love",
       7
     ],
     [
@@ -236,7 +232,7 @@
       7
     ],
     [
-      "wall",
+      "pioneer",
       7
     ],
     [
@@ -248,10 +244,14 @@
       7
     ],
     [
-      "expens",
+      "real",
+      7
+    ],
+    [
+      "recommend",
       7
     ]
   ],
-  "Total MSE": 8.590719696251979,
-  "Total Pearson": -0.03745102974089984
+  "Total MSE": 8.606473077099913,
+  "Total Pearson": -0.0498155888437136
 }
