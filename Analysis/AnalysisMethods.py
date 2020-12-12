@@ -121,7 +121,8 @@ def EStep(phi, eta, gamma, epsilon, lmbda, sigmaSq, mu, sigma, reviewFreqDictLis
       if np.linalg.norm(p - oldPhi) < 1e-3 and np.linalg.norm(eta[d,:] - oldEta) < 1e-3: # Check if gamma and phi converged
         convergence[d] = 1
         phi[d] = p
-        print('Document ' + str(d) + ' needed ' + str(counter) + ' iterations to converge.')
+        # print('Document ' + str(d) + ' needed ' + str(counter) + ' iterations to converge.')
+        print(str(round((d / M * 100), 2)) + '%')
         likelihood += calcLikelihood(phi[d], eta[d,:], gamma[d,:], epsilon, reviewFreqDictList[d], vocabDict, k)
 
   for d in range(0, M):
@@ -151,7 +152,7 @@ def MStep(phi, eta, reviewFreqDictList, vocabDict, k, M):
 
 def EM(phi, eta, gamma, epsilon, lmbda, sigmaSq, mu, sigma, reviewFreqDictList, vocabDict, M, k):
   likelihood, oldLikelihood, iteration = 0, 0, 1
-  while iteration <= 5 and (iteration <= 2 or np.abs((likelihood - oldLikelihood) / oldLikelihood) > 1e-4):
+  while iteration <= 3 and (iteration <= 2 or np.abs((likelihood - oldLikelihood) / oldLikelihood) > 1e-4):
     oldLikelihood, oldPhi, oldEta, oldGamma, oldEpsilon, oldLambda, oldSigmaSq, oldMu, oldSigma = likelihood, phi, eta, gamma, epsilon, lmbda, sigmaSq, mu, sigma
     phi, eta,  mu, sigma, likelihood = EStep(oldPhi, oldEta, oldGamma, oldEpsilon, oldLambda, oldSigmaSq, oldMu, oldSigma, reviewFreqDictList, vocabDict, k, M)
     epsilon = MStep(phi, eta, reviewFreqDictList, vocabDict, k, M)
