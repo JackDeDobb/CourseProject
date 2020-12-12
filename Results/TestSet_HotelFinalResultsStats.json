@@ -1,257 +1,257 @@
 {
-  "Total number of items": 2,
-  "Total number of reviews": 114,
-  "Total number of annotated reviews": 798,
+  "Total number of items": 25,
+  "Total number of reviews": 554,
+  "Total number of annotated reviews": 3878,
   "Labels per Review mean": 1.0,
   "Labels per Review stdev": 0.0,
-  "Total number of reviewers": 113,
-  "Average length of review": 453.63157894736844,
-  "Ratings of review mean": 4.140350877192983,
-  "Ratings of review stdev": 0.9901018287384183,
+  "Total number of reviewers": 550,
+  "Average length of review": 438.2870036101083,
+  "Ratings of review mean": 3.6462093862815883,
+  "Ratings of review stdev": 1.2792830232713595,
   "High Overall Ratings": [
     [
       "hotel",
-      24
-    ],
-    [
-      "stay",
-      23
+      83
     ],
     [
       "staff",
-      21
-    ],
-    [
-      "breakfast",
-      18
-    ],
-    [
-      "walk",
-      17
-    ],
-    [
-      "front",
-      15
+      70
     ],
     [
       "clean",
-      14
+      62
     ],
     [
-      "friendli",
-      14
+      "stay",
+      56
     ],
     [
-      "seattl",
-      13
-    ],
-    [
-      "night",
-      13
-    ],
-    [
-      "block",
-      12
-    ],
-    [
-      "locat",
-      12
+      "breakfast",
+      48
     ],
     [
       "nice",
-      11
+      39
     ],
     [
-      "space",
-      10
-    ],
-    [
-      "pike",
-      10
+      "locat",
+      33
     ],
     [
       "comfort",
-      9
+      30
     ],
     [
-      "love",
-      8
+      "bed",
+      30
     ],
     [
-      "servic",
-      8
-    ],
-    [
-      "travel",
-      8
-    ],
-    [
-      "enjoy",
-      7
-    ],
-    [
-      "park",
-      7
+      "close",
+      27
     ],
     [
       "help",
-      7
-    ],
-    [
-      "time",
-      7
-    ],
-    [
-      "needl",
-      7
-    ],
-    [
-      "street",
-      7
-    ],
-    [
-      "squar",
-      6
+      26
     ],
     [
       "restaur",
-      6
+      25
     ],
     [
-      "2",
-      6
+      "friendli",
+      25
     ],
     [
-      "easi",
-      6
+      "night",
+      25
     ],
     [
-      "price",
-      6
+      "airport",
+      25
+    ],
+    [
+      "travel",
+      23
+    ],
+    [
+      "free",
+      23
+    ],
+    [
+      "busi",
+      23
+    ],
+    [
+      "seattl",
+      23
+    ],
+    [
+      "phoenix",
+      23
+    ],
+    [
+      "pool",
+      23
+    ],
+    [
+      "look",
+      22
+    ],
+    [
+      "servic",
+      22
+    ],
+    [
+      "downtown",
+      21
+    ],
+    [
+      "walk",
+      21
+    ],
+    [
+      "suit",
+      21
+    ],
+    [
+      "recommend",
+      20
+    ],
+    [
+      "time",
+      20
+    ],
+    [
+      "park",
+      20
+    ],
+    [
+      "day",
+      19
     ]
   ],
   "Low Overall Ratings": [
     [
       "hotel",
-      278
+      1057
     ],
     [
       "stay",
-      76
-    ],
-    [
-      "seattl",
-      45
-    ],
-    [
-      "walk",
-      35
+      467
     ],
     [
       "nice",
-      26
-    ],
-    [
-      "locat",
-      23
-    ],
-    [
-      "night",
-      22
+      176
     ],
     [
       "staff",
-      20
+      84
     ],
     [
-      "park",
-      14
-    ],
-    [
-      "block",
-      14
-    ],
-    [
-      "street",
-      14
+      "night",
+      71
     ],
     [
       "clean",
-      14
+      57
     ],
     [
-      "quiet",
-      13
+      "airport",
+      57
     ],
     [
-      "coffe",
-      13
+      "seattl",
+      55
+    ],
+    [
+      "walk",
+      49
     ],
     [
       "check",
-      8
-    ],
-    [
-      "elev",
-      7
-    ],
-    [
-      "found",
-      7
-    ],
-    [
-      "valu",
-      7
-    ],
-    [
-      "morn",
-      7
-    ],
-    [
-      "free",
-      7
-    ],
-    [
-      "2",
-      7
-    ],
-    [
-      "space",
-      7
-    ],
-    [
-      "tri",
-      7
-    ],
-    [
-      "squar",
-      7
-    ],
-    [
-      "style",
-      7
-    ],
-    [
-      "pioneer",
-      7
-    ],
-    [
-      "spot",
-      7
+      47
     ],
     [
       "visit",
-      7
+      42
     ],
     [
-      "real",
-      7
+      "locat",
+      37
+    ],
+    [
+      "book",
+      35
+    ],
+    [
+      "pool",
+      35
+    ],
+    [
+      "properti",
+      35
+    ],
+    [
+      "busi",
+      28
+    ],
+    [
+      "\u2019",
+      28
+    ],
+    [
+      "downtown",
+      28
+    ],
+    [
+      "found",
+      28
+    ],
+    [
+      "love",
+      22
+    ],
+    [
+      "close",
+      22
+    ],
+    [
+      "front",
+      21
+    ],
+    [
+      "desk",
+      21
     ],
     [
       "recommend",
-      7
+      21
+    ],
+    [
+      "travel",
+      21
+    ],
+    [
+      "embassi",
+      21
+    ],
+    [
+      "time",
+      21
+    ],
+    [
+      "breakfast",
+      21
+    ],
+    [
+      "price",
+      21
+    ],
+    [
+      "street",
+      21
     ]
   ],
-  "Total MSE": 8.606473077099913,
-  "Total Pearson": -0.0498155888437136
+  "Total MSE": 6.321168454204166,
+  "Total Pearson": -0.08958898050582986
 }
