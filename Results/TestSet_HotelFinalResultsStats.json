@@ -1,257 +1,257 @@
 {
-  "Total number of items": 53,
-  "Total number of reviews": 1383,
-  "Total number of annotated reviews": 9681,
+  "Total number of items": 100,
+  "Total number of reviews": 3508,
+  "Total number of annotated reviews": 24556,
   "Labels per Review mean": 1.0,
   "Labels per Review stdev": 0.0,
-  "Total number of reviewers": 1353,
-  "Average length of review": 470.7953723788865,
-  "Ratings of review mean": 3.8156182212581347,
-  "Ratings of review stdev": 1.2398489185655948,
+  "Total number of reviewers": 3447,
+  "Average length of review": 448.0935005701254,
+  "Ratings of review mean": 3.8446408209806155,
+  "Ratings of review stdev": 1.193665489039854,
   "High Overall Ratings": [
     [
       "stay",
-      196
+      482
     ],
     [
       "hotel",
-      167
+      444
     ],
     [
       "staff",
-      142
+      363
     ],
     [
       "clean",
-      111
-    ],
-    [
-      "breakfast",
-      99
-    ],
-    [
-      "nice",
-      99
-    ],
-    [
-      "time",
-      80
-    ],
-    [
-      "friendli",
-      77
-    ],
-    [
-      "pool",
-      72
-    ],
-    [
-      "night",
-      69
+      308
     ],
     [
       "locat",
-      67
+      243
     ],
     [
-      "comfort",
-      65
+      "breakfast",
+      233
     ],
     [
-      "servic",
-      65
+      "time",
+      215
     ],
     [
-      "restaur",
-      65
+      "night",
+      209
     ],
     [
       "bed",
-      62
-    ],
-    [
-      "day",
-      62
+      189
     ],
     [
       "help",
-      59
+      177
     ],
     [
-      "littl",
-      50
+      "pool",
+      166
     ],
     [
-      "phoenix",
-      50
+      "friendli",
+      165
     ],
     [
-      "free",
-      49
+      "comfort",
+      158
+    ],
+    [
+      "nice",
+      158
+    ],
+    [
+      "restaur",
+      152
+    ],
+    [
+      "servic",
+      138
     ],
     [
       "desk",
-      48
+      125
     ],
     [
-      "food",
-      47
-    ],
-    [
-      "recommend",
-      47
-    ],
-    [
-      "airport",
-      47
-    ],
-    [
-      "close",
-      45
-    ],
-    [
-      "check",
-      43
+      "day",
+      123
     ],
     [
       "park",
-      42
+      122
+    ],
+    [
+      "recommend",
+      116
+    ],
+    [
+      "walk",
+      116
+    ],
+    [
+      "look",
+      109
+    ],
+    [
+      "price",
+      107
+    ],
+    [
+      "free",
+      103
     ],
     [
       "front",
-      41
+      101
     ],
     [
-      "resort",
-      39
+      "close",
+      99
     ],
     [
-      "properti",
-      38
+      "lot",
+      93
+    ],
+    [
+      "didnt",
+      93
+    ],
+    [
+      "check",
+      92
+    ],
+    [
+      "travel",
+      91
     ]
   ],
   "Low Overall Ratings": [
     [
       "hotel",
-      2287
+      6483
     ],
     [
       "stay",
-      1294
+      3204
     ],
     [
       "nice",
-      316
-    ],
-    [
-      "resort",
-      227
-    ],
-    [
-      "pool",
-      223
+      605
     ],
     [
       "night",
-      167
+      568
     ],
     [
       "staff",
-      160
-    ],
-    [
-      "clean",
-      128
-    ],
-    [
-      "airport",
-      122
-    ],
-    [
-      "properti",
-      94
-    ],
-    [
-      "servic",
-      91
-    ],
-    [
-      "check",
-      90
-    ],
-    [
-      "time",
-      86
+      395
     ],
     [
       "locat",
-      76
+      351
     ],
     [
-      "visit",
-      74
+      "pool",
+      341
     ],
     [
-      "breakfast",
-      72
+      "time",
+      336
     ],
     [
-      "day",
-      69
+      "hollywood",
+      313
     ],
     [
-      "royal",
-      65
-    ],
-    [
-      "phoenix",
-      63
-    ],
-    [
-      "hilton",
-      61
-    ],
-    [
-      "\u2019",
-      56
+      "clean",
+      291
     ],
     [
       "walk",
-      56
+      270
+    ],
+    [
+      "resort",
+      232
+    ],
+    [
+      "breakfast",
+      198
+    ],
+    [
+      "day",
+      197
+    ],
+    [
+      "bed",
+      195
+    ],
+    [
+      "check",
+      190
+    ],
+    [
+      "servic",
+      189
     ],
     [
       "look",
-      55
+      184
     ],
     [
-      "seattl",
-      54
+      "park",
+      147
     ],
     [
-      "famili",
-      51
+      "book",
+      142
     ],
     [
-      "front",
-      49
+      "airport",
+      141
     ],
     [
-      "found",
-      49
-    ],
-    [
-      "busi",
-      47
-    ],
-    [
-      "enjoy",
-      47
+      "properti",
+      139
     ],
     [
       "love",
-      47
+      138
+    ],
+    [
+      "hilton",
+      134
+    ],
+    [
+      "free",
+      128
+    ],
+    [
+      "branson",
+      123
+    ],
+    [
+      "front",
+      119
+    ],
+    [
+      "la",
+      109
+    ],
+    [
+      "motel",
+      109
+    ],
+    [
+      "close",
+      108
     ]
   ],
-  "Total MSE": 6.650260081655965,
-  "Total Pearson": -0.06498653803880591
+  "Total MSE": 10.814213587439477,
+  "Total Pearson": -0.10265120203728519
 }
