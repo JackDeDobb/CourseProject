@@ -1,257 +1,257 @@
 {
-  "Total number of items": 25,
-  "Total number of reviews": 554,
-  "Total number of annotated reviews": 3878,
+  "Total number of items": 53,
+  "Total number of reviews": 1383,
+  "Total number of annotated reviews": 9681,
   "Labels per Review mean": 1.0,
   "Labels per Review stdev": 0.0,
-  "Total number of reviewers": 550,
-  "Average length of review": 438.2870036101083,
-  "Ratings of review mean": 3.6462093862815883,
-  "Ratings of review stdev": 1.2792830232713595,
+  "Total number of reviewers": 1353,
+  "Average length of review": 470.7953723788865,
+  "Ratings of review mean": 3.8156182212581347,
+  "Ratings of review stdev": 1.2398489185655948,
   "High Overall Ratings": [
     [
+      "stay",
+      196
+    ],
+    [
       "hotel",
-      83
+      167
     ],
     [
       "staff",
-      70
+      142
     ],
     [
       "clean",
-      62
-    ],
-    [
-      "stay",
-      56
+      111
     ],
     [
       "breakfast",
-      48
+      99
     ],
     [
       "nice",
-      39
-    ],
-    [
-      "locat",
-      33
-    ],
-    [
-      "comfort",
-      30
-    ],
-    [
-      "bed",
-      30
-    ],
-    [
-      "close",
-      27
-    ],
-    [
-      "help",
-      26
-    ],
-    [
-      "restaur",
-      25
-    ],
-    [
-      "friendli",
-      25
-    ],
-    [
-      "night",
-      25
-    ],
-    [
-      "airport",
-      25
-    ],
-    [
-      "travel",
-      23
-    ],
-    [
-      "free",
-      23
-    ],
-    [
-      "busi",
-      23
-    ],
-    [
-      "seattl",
-      23
-    ],
-    [
-      "phoenix",
-      23
-    ],
-    [
-      "pool",
-      23
-    ],
-    [
-      "look",
-      22
-    ],
-    [
-      "servic",
-      22
-    ],
-    [
-      "downtown",
-      21
-    ],
-    [
-      "walk",
-      21
-    ],
-    [
-      "suit",
-      21
-    ],
-    [
-      "recommend",
-      20
+      99
     ],
     [
       "time",
-      20
+      80
     ],
     [
-      "park",
-      20
+      "friendli",
+      77
+    ],
+    [
+      "pool",
+      72
+    ],
+    [
+      "night",
+      69
+    ],
+    [
+      "locat",
+      67
+    ],
+    [
+      "comfort",
+      65
+    ],
+    [
+      "servic",
+      65
+    ],
+    [
+      "restaur",
+      65
+    ],
+    [
+      "bed",
+      62
     ],
     [
       "day",
-      19
+      62
+    ],
+    [
+      "help",
+      59
+    ],
+    [
+      "littl",
+      50
+    ],
+    [
+      "phoenix",
+      50
+    ],
+    [
+      "free",
+      49
+    ],
+    [
+      "desk",
+      48
+    ],
+    [
+      "food",
+      47
+    ],
+    [
+      "recommend",
+      47
+    ],
+    [
+      "airport",
+      47
+    ],
+    [
+      "close",
+      45
+    ],
+    [
+      "check",
+      43
+    ],
+    [
+      "park",
+      42
+    ],
+    [
+      "front",
+      41
+    ],
+    [
+      "resort",
+      39
+    ],
+    [
+      "properti",
+      38
     ]
   ],
   "Low Overall Ratings": [
     [
       "hotel",
-      1057
+      2287
     ],
     [
       "stay",
-      467
+      1294
     ],
     [
       "nice",
-      176
+      316
     ],
     [
-      "staff",
-      84
-    ],
-    [
-      "night",
-      71
-    ],
-    [
-      "clean",
-      57
-    ],
-    [
-      "airport",
-      57
-    ],
-    [
-      "seattl",
-      55
-    ],
-    [
-      "walk",
-      49
-    ],
-    [
-      "check",
-      47
-    ],
-    [
-      "visit",
-      42
-    ],
-    [
-      "locat",
-      37
-    ],
-    [
-      "book",
-      35
+      "resort",
+      227
     ],
     [
       "pool",
-      35
+      223
+    ],
+    [
+      "night",
+      167
+    ],
+    [
+      "staff",
+      160
+    ],
+    [
+      "clean",
+      128
+    ],
+    [
+      "airport",
+      122
     ],
     [
       "properti",
-      35
+      94
     ],
     [
-      "busi",
-      28
+      "servic",
+      91
     ],
     [
-      "\u2019",
-      28
-    ],
-    [
-      "downtown",
-      28
-    ],
-    [
-      "found",
-      28
-    ],
-    [
-      "love",
-      22
-    ],
-    [
-      "close",
-      22
-    ],
-    [
-      "front",
-      21
-    ],
-    [
-      "desk",
-      21
-    ],
-    [
-      "recommend",
-      21
-    ],
-    [
-      "travel",
-      21
-    ],
-    [
-      "embassi",
-      21
+      "check",
+      90
     ],
     [
       "time",
-      21
+      86
+    ],
+    [
+      "locat",
+      76
+    ],
+    [
+      "visit",
+      74
     ],
     [
       "breakfast",
-      21
+      72
     ],
     [
-      "price",
-      21
+      "day",
+      69
     ],
     [
-      "street",
-      21
+      "royal",
+      65
+    ],
+    [
+      "phoenix",
+      63
+    ],
+    [
+      "hilton",
+      61
+    ],
+    [
+      "\u2019",
+      56
+    ],
+    [
+      "walk",
+      56
+    ],
+    [
+      "look",
+      55
+    ],
+    [
+      "seattl",
+      54
+    ],
+    [
+      "famili",
+      51
+    ],
+    [
+      "front",
+      49
+    ],
+    [
+      "found",
+      49
+    ],
+    [
+      "busi",
+      47
+    ],
+    [
+      "enjoy",
+      47
+    ],
+    [
+      "love",
+      47
     ]
   ],
-  "Total MSE": 6.321168454204166,
-  "Total Pearson": -0.08958898050582986
+  "Total MSE": 6.650260081655965,
+  "Total Pearson": -0.06498653803880591
 }
