@@ -1,257 +1,257 @@
 {
-  "Total number of items": 100,
-  "Total number of reviews": 3508,
-  "Total number of annotated reviews": 24556,
+  "Total number of items": 2,
+  "Total number of reviews": 114,
+  "Total number of annotated reviews": 798,
   "Labels per Review mean": 1.0,
   "Labels per Review stdev": 0.0,
-  "Total number of reviewers": 3447,
-  "Average length of review": 448.0935005701254,
-  "Ratings of review mean": 3.8446408209806155,
-  "Ratings of review stdev": 1.193665489039854,
+  "Total number of reviewers": 113,
+  "Average length of review": 453.63157894736844,
+  "Ratings of review mean": 4.140350877192983,
+  "Ratings of review stdev": 0.9901018287384183,
   "High Overall Ratings": [
     [
-      "stay",
-      482
-    ],
-    [
       "hotel",
-      444
-    ],
-    [
-      "staff",
-      363
-    ],
-    [
-      "clean",
-      308
-    ],
-    [
-      "locat",
-      243
+      25
     ],
     [
       "breakfast",
-      233
+      24
     ],
     [
-      "time",
-      215
+      "stay",
+      23
+    ],
+    [
+      "locat",
+      21
+    ],
+    [
+      "staff",
+      17
     ],
     [
       "night",
-      209
+      16
     ],
     [
-      "bed",
-      189
-    ],
-    [
-      "help",
-      177
-    ],
-    [
-      "pool",
-      166
-    ],
-    [
-      "friendli",
-      165
-    ],
-    [
-      "comfort",
-      158
-    ],
-    [
-      "nice",
-      158
-    ],
-    [
-      "restaur",
-      152
-    ],
-    [
-      "servic",
-      138
-    ],
-    [
-      "desk",
-      125
-    ],
-    [
-      "day",
-      123
-    ],
-    [
-      "park",
-      122
-    ],
-    [
-      "recommend",
-      116
+      "seattl",
+      16
     ],
     [
       "walk",
-      116
+      14
     ],
     [
-      "look",
-      109
+      "clean",
+      13
     ],
     [
-      "price",
-      107
+      "friendli",
+      13
+    ],
+    [
+      "bed",
+      12
+    ],
+    [
+      "squar",
+      11
+    ],
+    [
+      "day",
+      11
+    ],
+    [
+      "help",
+      10
+    ],
+    [
+      "western",
+      10
+    ],
+    [
+      "continent",
+      9
+    ],
+    [
+      "downtown",
+      9
+    ],
+    [
+      "restaur",
+      8
+    ],
+    [
+      "block",
+      8
     ],
     [
       "free",
-      103
+      8
     ],
     [
-      "front",
-      101
-    ],
-    [
-      "close",
-      99
+      "space",
+      8
     ],
     [
       "lot",
-      93
+      8
     ],
     [
-      "didnt",
-      93
+      "park",
+      8
     ],
     [
-      "check",
-      92
+      "time",
+      7
     ],
     [
-      "travel",
-      91
+      "nice",
+      7
+    ],
+    [
+      "distanc",
+      7
+    ],
+    [
+      "light",
+      6
+    ],
+    [
+      "pioneer",
+      6
+    ],
+    [
+      "easi",
+      6
+    ],
+    [
+      "street",
+      6
     ]
   ],
   "Low Overall Ratings": [
     [
       "hotel",
-      6483
+      277
     ],
     [
       "stay",
-      3204
+      80
     ],
     [
-      "nice",
-      605
-    ],
-    [
-      "night",
-      568
-    ],
-    [
-      "staff",
-      395
-    ],
-    [
-      "locat",
-      351
-    ],
-    [
-      "pool",
-      341
-    ],
-    [
-      "time",
-      336
-    ],
-    [
-      "hollywood",
-      313
-    ],
-    [
-      "clean",
-      291
+      "seattl",
+      42
     ],
     [
       "walk",
-      270
+      35
     ],
     [
-      "resort",
-      232
+      "nice",
+      30
     ],
     [
-      "breakfast",
-      198
+      "night",
+      22
     ],
     [
-      "day",
-      197
+      "locat",
+      21
     ],
     [
-      "bed",
-      195
+      "staff",
+      18
     ],
     [
-      "check",
-      190
-    ],
-    [
-      "servic",
-      189
-    ],
-    [
-      "look",
-      184
+      "street",
+      15
     ],
     [
       "park",
-      147
+      14
     ],
     [
-      "book",
-      142
+      "block",
+      14
     ],
     [
-      "airport",
-      141
+      "clean",
+      14
     ],
     [
-      "properti",
-      139
+      "coffe",
+      14
     ],
     [
-      "love",
-      138
+      "quiet",
+      13
     ],
     [
-      "hilton",
-      134
+      "enjoy",
+      7
     ],
     [
-      "free",
-      128
+      "elev",
+      7
     ],
     [
-      "branson",
-      123
+      "citi",
+      7
     ],
     [
-      "front",
-      119
+      "found",
+      7
     ],
     [
-      "la",
-      109
+      "valu",
+      7
     ],
     [
-      "motel",
-      109
+      "morn",
+      7
     ],
     [
-      "close",
-      108
+      "2",
+      7
+    ],
+    [
+      "space",
+      7
+    ],
+    [
+      "squar",
+      7
+    ],
+    [
+      "style",
+      7
+    ],
+    [
+      "pioneer",
+      7
+    ],
+    [
+      "expens",
+      7
+    ],
+    [
+      "check",
+      7
+    ],
+    [
+      "recommend",
+      7
+    ],
+    [
+      "time",
+      7
+    ],
+    [
+      "it\u00e2\u20ac\u2122",
+      7
     ]
   ],
-  "Total MSE": 10.814213587439477,
-  "Total Pearson": -0.10265120203728519
+  "Total MSE": 8.664638453386676,
+  "Total Pearson": -0.058526242849547855
 }
