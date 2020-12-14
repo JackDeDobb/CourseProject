@@ -1,1 +1,1 @@
-HotelData/*.json filter=lfs diff=lfs merge=lfs -text
+Data/HotelData/*.json filter=lfs diff=lfs merge=lfs -text
